@@ -156,6 +156,18 @@ opendebate.processFetchedVotes({
       "iface": "vote", 
       "id": 15941246, 
       "question_id": "16023855"
+    }, 
+    {
+      "city": "Boston", 
+      "first_name": "Ethan", 
+      "last_name": "Jucovy", 
+      "user_id": 1195198, 
+      "district": "MA_08", 
+      "created": "2013-07-10T12:40:26", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 15941246, 
+      "question_id": "16127594"
     }
   ]
 });

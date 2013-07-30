@@ -50,7 +50,7 @@ opendebate.processFetchedQuestions({
       "submission": "andx7", 
       "district": "MA_08", 
       "created": "2013-07-30T19:03:02", 
-      "votes": 0, 
+      "votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.359400000000001, 
