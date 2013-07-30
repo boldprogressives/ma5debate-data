@@ -2,6 +2,20 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Austin", 
+      "first_name": "Laura", 
+      "last_name": "Davila", 
+      "submission": "Here is a question", 
+      "district": "TX_25", 
+      "created": "2013-07-30T20:58:14", 
+      "votes": 0, 
+      "state": "TX", 
+      "iface": "question", 
+      "y": 30.364799999999999, 
+      "x": -97.825699999999998, 
+      "id": 16130254
+    }, 
+    {
       "city": "Boston", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
