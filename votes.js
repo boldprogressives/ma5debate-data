@@ -122,7 +122,7 @@ opendebate.processFetchedVotes({
       "question_id": "15995131"
     }, 
     {
-      "city": "Revere", 
+      "city": "Cambridge", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
       "user_id": 1195198, 
@@ -134,7 +134,7 @@ opendebate.processFetchedVotes({
       "question_id": "15995131"
     }, 
     {
-      "city": "Revere", 
+      "city": "Cambridge", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
       "user_id": 1195198, 
@@ -146,7 +146,7 @@ opendebate.processFetchedVotes({
       "question_id": "15995417"
     }, 
     {
-      "city": "Revere", 
+      "city": "Cambridge", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
       "user_id": 1195198, 

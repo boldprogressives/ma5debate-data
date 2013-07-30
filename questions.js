@@ -2,7 +2,7 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
-      "city": "Revere", 
+      "city": "Cambridge", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
       "submission": "andx10", 
@@ -11,12 +11,12 @@ opendebate.processFetchedQuestions({
       "votes": 0, 
       "state": "MA", 
       "iface": "question", 
-      "y": 42.415199999999999, 
-      "x": -71.005300000000005, 
+      "y": 42.366, 
+      "x": -71.103499999999997, 
       "id": 16129384
     }, 
     {
-      "city": "Revere", 
+      "city": "Cambridge", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
       "submission": "andx8", 
@@ -25,12 +25,12 @@ opendebate.processFetchedQuestions({
       "votes": 0, 
       "state": "MA", 
       "iface": "question", 
-      "y": 42.415199999999999, 
-      "x": -71.005300000000005, 
+      "y": 42.366, 
+      "x": -71.103499999999997, 
       "id": 16127630
     }, 
     {
-      "city": "Revere", 
+      "city": "Cambridge", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
       "submission": "andx7", 
@@ -39,12 +39,12 @@ opendebate.processFetchedQuestions({
       "votes": 0, 
       "state": "MA", 
       "iface": "question", 
-      "y": 42.415199999999999, 
-      "x": -71.005300000000005, 
+      "y": 42.366, 
+      "x": -71.103499999999997, 
       "id": 16127594
     }, 
     {
-      "city": "Revere", 
+      "city": "Cambridge", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
       "submission": "andx6", 
@@ -53,12 +53,12 @@ opendebate.processFetchedQuestions({
       "votes": 0, 
       "state": "MA", 
       "iface": "question", 
-      "y": 42.415199999999999, 
-      "x": -71.005300000000005, 
+      "y": 42.366, 
+      "x": -71.103499999999997, 
       "id": 16127365
     }, 
     {
-      "city": "Revere", 
+      "city": "Cambridge", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
       "submission": "andx4", 
@@ -67,12 +67,12 @@ opendebate.processFetchedQuestions({
       "votes": 0, 
       "state": "MA", 
       "iface": "question", 
-      "y": 42.415199999999999, 
-      "x": -71.005300000000005, 
+      "y": 42.366, 
+      "x": -71.103499999999997, 
       "id": 16127331
     }, 
     {
-      "city": "Revere", 
+      "city": "Cambridge", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
       "submission": "and x 3", 
@@ -81,12 +81,12 @@ opendebate.processFetchedQuestions({
       "votes": 0, 
       "state": "MA", 
       "iface": "question", 
-      "y": 42.415199999999999, 
-      "x": -71.005300000000005, 
+      "y": 42.366, 
+      "x": -71.103499999999997, 
       "id": 16127263
     }, 
     {
-      "city": "Revere", 
+      "city": "Cambridge", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
       "submission": "and and now", 
@@ -95,12 +95,12 @@ opendebate.processFetchedQuestions({
       "votes": 0, 
       "state": "MA", 
       "iface": "question", 
-      "y": 42.415199999999999, 
-      "x": -71.005300000000005, 
+      "y": 42.366, 
+      "x": -71.103499999999997, 
       "id": 16127014
     }, 
     {
-      "city": "Revere", 
+      "city": "Cambridge", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
       "submission": "and now", 
@@ -109,12 +109,12 @@ opendebate.processFetchedQuestions({
       "votes": 0, 
       "state": "MA", 
       "iface": "question", 
-      "y": 42.415199999999999, 
-      "x": -71.005300000000005, 
+      "y": 42.366, 
+      "x": -71.103499999999997, 
       "id": 16127002
     }, 
     {
-      "city": "Revere", 
+      "city": "Cambridge", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
       "submission": "now", 
@@ -123,12 +123,12 @@ opendebate.processFetchedQuestions({
       "votes": 0, 
       "state": "MA", 
       "iface": "question", 
-      "y": 42.415199999999999, 
-      "x": -71.005300000000005, 
+      "y": 42.366, 
+      "x": -71.103499999999997, 
       "id": 16126940
     }, 
     {
-      "city": "Revere", 
+      "city": "Cambridge", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
       "submission": "WHAT ABOUT NOW", 
@@ -137,12 +137,12 @@ opendebate.processFetchedQuestions({
       "votes": 0, 
       "state": "MA", 
       "iface": "question", 
-      "y": 42.415199999999999, 
-      "x": -71.005300000000005, 
+      "y": 42.366, 
+      "x": -71.103499999999997, 
       "id": 16126840
     }, 
     {
-      "city": "Revere", 
+      "city": "Cambridge", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
       "submission": "does this work AT THIS VERY SECOND?", 
@@ -151,12 +151,12 @@ opendebate.processFetchedQuestions({
       "votes": 0, 
       "state": "MA", 
       "iface": "question", 
-      "y": 42.415199999999999, 
-      "x": -71.005300000000005, 
+      "y": 42.366, 
+      "x": -71.103499999999997, 
       "id": 16126724
     }, 
     {
-      "city": "Revere", 
+      "city": "Cambridge", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
       "submission": "does this work RIGHT NOW??", 
@@ -165,12 +165,12 @@ opendebate.processFetchedQuestions({
       "votes": 0, 
       "state": "MA", 
       "iface": "question", 
-      "y": 42.415199999999999, 
-      "x": -71.005300000000005, 
+      "y": 42.366, 
+      "x": -71.103499999999997, 
       "id": 16126697
     }, 
     {
-      "city": "Revere", 
+      "city": "Cambridge", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
       "submission": "does this work RIGHT NOW??", 
@@ -179,12 +179,12 @@ opendebate.processFetchedQuestions({
       "votes": 0, 
       "state": "MA", 
       "iface": "question", 
-      "y": 42.415199999999999, 
-      "x": -71.005300000000005, 
+      "y": 42.366, 
+      "x": -71.103499999999997, 
       "id": 16126694
     }, 
     {
-      "city": "Revere", 
+      "city": "Cambridge", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
       "submission": "does this work RIGHT NOW??", 
@@ -193,12 +193,12 @@ opendebate.processFetchedQuestions({
       "votes": 0, 
       "state": "MA", 
       "iface": "question", 
-      "y": 42.415199999999999, 
-      "x": -71.005300000000005, 
+      "y": 42.366, 
+      "x": -71.103499999999997, 
       "id": 16126692
     }, 
     {
-      "city": "Revere", 
+      "city": "Cambridge", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
       "submission": "does this work NOW?", 
@@ -207,8 +207,8 @@ opendebate.processFetchedQuestions({
       "votes": 0, 
       "state": "MA", 
       "iface": "question", 
-      "y": 42.415199999999999, 
-      "x": -71.005300000000005, 
+      "y": 42.366, 
+      "x": -71.103499999999997, 
       "id": 16126099
     }, 
     {
@@ -534,7 +534,7 @@ opendebate.processFetchedQuestions({
       "id": 15995417
     }, 
     {
-      "city": "Revere", 
+      "city": "Cambridge", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
       "submission": "What is your position on global warming?", 
@@ -543,8 +543,8 @@ opendebate.processFetchedQuestions({
       "votes": 6, 
       "state": "MA", 
       "iface": "question", 
-      "y": 42.415199999999999, 
-      "x": -71.005300000000005, 
+      "y": 42.366, 
+      "x": -71.103499999999997, 
       "id": 15995131
     }
   ]
