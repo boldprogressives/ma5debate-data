@@ -167,7 +167,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 15941246, 
-      "question_id": "16127002"
+      "question_id": "16126694"
     }, 
     {
       "city": "Cambridge", 
