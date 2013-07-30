@@ -1,4 +1,4 @@
-processActionkitFormResponse({
+processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
