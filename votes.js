@@ -1,1 +1,161 @@
-processFetchedVotes({'iface': 'list', 'entries': '[\n  {\n    "city": "Worcester", \n    "first_name": "", \n    "last_name": "", \n    "user_id": 1770533, \n    "district": "MA_02", \n    "created": "2013-07-14 18:02:24", \n    "state": "MA", \n    "iface": "vote", \n    "id": 16019723, \n    "question_id": "15995131"\n  }, \n  {\n    "city": "Worcester", \n    "first_name": "", \n    "last_name": "", \n    "user_id": 1770533, \n    "district": "MA_02", \n    "created": "2013-07-14 18:02:24", \n    "state": "MA", \n    "iface": "vote", \n    "id": 16019723, \n    "question_id": "15995417"\n  }, \n  {\n    "city": "Worcester", \n    "first_name": "", \n    "last_name": "", \n    "user_id": 1770533, \n    "district": "MA_02", \n    "created": "2013-07-14 18:02:24", \n    "state": "MA", \n    "iface": "vote", \n    "id": 16019723, \n    "question_id": "16023855"\n  }, \n  {\n    "city": "Great Neck", \n    "first_name": "Ethan", \n    "last_name": "Jucovy", \n    "user_id": 1230222, \n    "district": "NY_03", \n    "created": "2013-07-13 22:22:57", \n    "state": "NY", \n    "iface": "vote", \n    "id": 16012050, \n    "question_id": "15995131"\n  }, \n  {\n    "city": "Great Neck", \n    "first_name": "Ethan", \n    "last_name": "Jucovy", \n    "user_id": 1230222, \n    "district": "NY_03", \n    "created": "2013-07-13 22:22:57", \n    "state": "NY", \n    "iface": "vote", \n    "id": 16012050, \n    "question_id": "15995417"\n  }, \n  {\n    "city": "Worcester", \n    "first_name": "", \n    "last_name": "", \n    "user_id": 1769876, \n    "district": "MA_02", \n    "created": "2013-07-13 17:01:25", \n    "state": "MA", \n    "iface": "vote", \n    "id": 16005503, \n    "question_id": "15995131"\n  }, \n  {\n    "city": "Worcester", \n    "first_name": "", \n    "last_name": "", \n    "user_id": 1769876, \n    "district": "MA_02", \n    "created": "2013-07-13 17:01:25", \n    "state": "MA", \n    "iface": "vote", \n    "id": 16005503, \n    "question_id": "15995417"\n  }, \n  {\n    "city": "Swarthmore", \n    "first_name": "", \n    "last_name": "", \n    "user_id": 1769632, \n    "district": "PA_01", \n    "created": "2013-07-13 13:15:20", \n    "state": "PA", \n    "iface": "vote", \n    "id": 15996126, \n    "question_id": "15995417"\n  }, \n  {\n    "city": "Revere", \n    "first_name": "", \n    "last_name": "", \n    "user_id": 1769629, \n    "district": "MA_05", \n    "created": "2013-07-13 13:12:55", \n    "state": "MA", \n    "iface": "vote", \n    "id": 15996077, \n    "question_id": "15995131"\n  }, \n  {\n    "city": "Worcester", \n    "first_name": "", \n    "last_name": "", \n    "user_id": 1769607, \n    "district": "MA_02", \n    "created": "2013-07-13 12:21:40", \n    "state": "MA", \n    "iface": "vote", \n    "id": 15995551, \n    "question_id": "15995131"\n  }, \n  {\n    "city": "Great Neck", \n    "first_name": "Ethan", \n    "last_name": "Jucovy", \n    "user_id": 1195198, \n    "district": "NY_03", \n    "created": "2013-07-10 12:40:26", \n    "state": "NY", \n    "iface": "vote", \n    "id": 15941246, \n    "question_id": "15995131"\n  }, \n  {\n    "city": "Great Neck", \n    "first_name": "Ethan", \n    "last_name": "Jucovy", \n    "user_id": 1195198, \n    "district": "NY_03", \n    "created": "2013-07-10 12:40:26", \n    "state": "NY", \n    "iface": "vote", \n    "id": 15941246, \n    "question_id": "15995417"\n  }, \n  {\n    "city": "Great Neck", \n    "first_name": "Ethan", \n    "last_name": "Jucovy", \n    "user_id": 1195198, \n    "district": "NY_03", \n    "created": "2013-07-10 12:40:26", \n    "state": "NY", \n    "iface": "vote", \n    "id": 15941246, \n    "question_id": "16023855"\n  }\n]'});
+opendebate.processFetchedVotes({
+  "iface": "list", 
+  "entries": [
+    {
+      "city": "Worcester", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1770533, 
+      "district": "MA_02", 
+      "created": "2013-07-14 18:02:24", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16019723, 
+      "question_id": "15995131"
+    }, 
+    {
+      "city": "Worcester", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1770533, 
+      "district": "MA_02", 
+      "created": "2013-07-14 18:02:24", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16019723, 
+      "question_id": "15995417"
+    }, 
+    {
+      "city": "Worcester", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1770533, 
+      "district": "MA_02", 
+      "created": "2013-07-14 18:02:24", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16019723, 
+      "question_id": "16023855"
+    }, 
+    {
+      "city": "Great Neck", 
+      "first_name": "Ethan", 
+      "last_name": "Jucovy", 
+      "user_id": 1230222, 
+      "district": "NY_03", 
+      "created": "2013-07-13 22:22:57", 
+      "state": "NY", 
+      "iface": "vote", 
+      "id": 16012050, 
+      "question_id": "15995131"
+    }, 
+    {
+      "city": "Great Neck", 
+      "first_name": "Ethan", 
+      "last_name": "Jucovy", 
+      "user_id": 1230222, 
+      "district": "NY_03", 
+      "created": "2013-07-13 22:22:57", 
+      "state": "NY", 
+      "iface": "vote", 
+      "id": 16012050, 
+      "question_id": "15995417"
+    }, 
+    {
+      "city": "Worcester", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1769876, 
+      "district": "MA_02", 
+      "created": "2013-07-13 17:01:25", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16005503, 
+      "question_id": "15995131"
+    }, 
+    {
+      "city": "Worcester", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1769876, 
+      "district": "MA_02", 
+      "created": "2013-07-13 17:01:25", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16005503, 
+      "question_id": "15995417"
+    }, 
+    {
+      "city": "Swarthmore", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1769632, 
+      "district": "PA_01", 
+      "created": "2013-07-13 13:15:20", 
+      "state": "PA", 
+      "iface": "vote", 
+      "id": 15996126, 
+      "question_id": "15995417"
+    }, 
+    {
+      "city": "Revere", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1769629, 
+      "district": "MA_05", 
+      "created": "2013-07-13 13:12:55", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 15996077, 
+      "question_id": "15995131"
+    }, 
+    {
+      "city": "Worcester", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1769607, 
+      "district": "MA_02", 
+      "created": "2013-07-13 12:21:40", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 15995551, 
+      "question_id": "15995131"
+    }, 
+    {
+      "city": "Great Neck", 
+      "first_name": "Ethan", 
+      "last_name": "Jucovy", 
+      "user_id": 1195198, 
+      "district": "NY_03", 
+      "created": "2013-07-10 12:40:26", 
+      "state": "NY", 
+      "iface": "vote", 
+      "id": 15941246, 
+      "question_id": "15995131"
+    }, 
+    {
+      "city": "Great Neck", 
+      "first_name": "Ethan", 
+      "last_name": "Jucovy", 
+      "user_id": 1195198, 
+      "district": "NY_03", 
+      "created": "2013-07-10 12:40:26", 
+      "state": "NY", 
+      "iface": "vote", 
+      "id": 15941246, 
+      "question_id": "15995417"
+    }, 
+    {
+      "city": "Great Neck", 
+      "first_name": "Ethan", 
+      "last_name": "Jucovy", 
+      "user_id": 1195198, 
+      "district": "NY_03", 
+      "created": "2013-07-10 12:40:26", 
+      "state": "NY", 
+      "iface": "vote", 
+      "id": 15941246, 
+      "question_id": "16023855"
+    }
+  ]
+});

@@ -1,4 +1,4 @@
-processFetchedQuestions({
+opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
