@@ -8,7 +8,7 @@ opendebate.processFetchedQuestions({
       "submission": "foo", 
       "district": "MA_02", 
       "created": "2013-07-30T22:54:43", 
-      "votes": 0, 
+      "votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.270200000000003, 
