@@ -2,17 +2,31 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
-      "city": "Great Neck", 
+      "city": "Worcester", 
       "first_name": "E. G.", 
       "last_name": "Lammyson", 
       "submission": "foo", 
-      "district": "NY_03", 
+      "district": "MA_02", 
+      "created": "2013-07-30T22:54:43", 
+      "votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.270200000000003, 
+      "x": -71.845100000000002, 
+      "id": 16131643
+    }, 
+    {
+      "city": "Worcester", 
+      "first_name": "E. G.", 
+      "last_name": "Lammyson", 
+      "submission": "foo", 
+      "district": "MA_02", 
       "created": "2013-07-30T22:51:19", 
       "votes": 0, 
-      "state": "NY", 
+      "state": "MA", 
       "iface": "question", 
-      "y": 40.786700000000003, 
-      "x": -73.725800000000007, 
+      "y": 42.270200000000003, 
+      "x": -71.845100000000002, 
       "id": 16131601
     }, 
     {

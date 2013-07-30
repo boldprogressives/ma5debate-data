@@ -2,13 +2,13 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
-      "city": "Great Neck", 
+      "city": "Worcester", 
       "first_name": "E. G.", 
       "last_name": "Lammyson", 
       "user_id": 1207377, 
-      "district": "NY_03", 
+      "district": "MA_02", 
       "created": "2013-07-30T22:21:40", 
-      "state": "NY", 
+      "state": "MA", 
       "iface": "vote", 
       "id": 16131279, 
       "question_id": "15995131"
