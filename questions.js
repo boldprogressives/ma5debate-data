@@ -212,17 +212,17 @@ opendebate.processFetchedQuestions({
       "id": 16126099
     }, 
     {
-      "city": "Washington", 
+      "city": "Boston", 
       "first_name": "michael", 
-      "last_name": "snook", 
+      "last_name": "Snook", 
       "submission": "does this work?", 
-      "district": "DC_01", 
+      "district": "MA_08", 
       "created": "2013-07-27T17:27:36", 
       "votes": 0, 
-      "state": "DC", 
+      "state": "MA", 
       "iface": "question", 
-      "y": 38.930399999999999, 
-      "x": -77.028199999999998, 
+      "y": 42.359400000000001, 
+      "x": -71.0595, 
       "id": 16111413
     }, 
     {
