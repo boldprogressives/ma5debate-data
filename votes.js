@@ -122,11 +122,11 @@ opendebate.processFetchedVotes({
       "question_id": "15995131"
     }, 
     {
-      "city": "Cambridge", 
+      "city": "Boston", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
       "user_id": 1195198, 
-      "district": "MA_05", 
+      "district": "MA_08", 
       "created": "2013-07-10T12:40:26", 
       "state": "MA", 
       "iface": "vote", 
@@ -134,11 +134,11 @@ opendebate.processFetchedVotes({
       "question_id": "15995131"
     }, 
     {
-      "city": "Cambridge", 
+      "city": "Boston", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
       "user_id": 1195198, 
-      "district": "MA_05", 
+      "district": "MA_08", 
       "created": "2013-07-10T12:40:26", 
       "state": "MA", 
       "iface": "vote", 
@@ -146,11 +146,11 @@ opendebate.processFetchedVotes({
       "question_id": "15995417"
     }, 
     {
-      "city": "Cambridge", 
+      "city": "Boston", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
       "user_id": 1195198, 
-      "district": "MA_05", 
+      "district": "MA_08", 
       "created": "2013-07-10T12:40:26", 
       "state": "MA", 
       "iface": "vote", 
