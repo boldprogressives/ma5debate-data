@@ -2,6 +2,20 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Great Neck", 
+      "first_name": "Ethan", 
+      "last_name": "Jucovy", 
+      "submission": "does this work NOW?", 
+      "district": "NY_03", 
+      "created": "2013-07-30 18:14:48", 
+      "votes": 0, 
+      "state": "NY", 
+      "iface": "question", 
+      "y": 40.786700000000003, 
+      "x": -73.725800000000007, 
+      "id": 16126099
+    }, 
+    {
       "city": "Washington", 
       "first_name": "michael", 
       "last_name": "snook", 
