@@ -610,7 +610,7 @@ opendebate.processFetchedQuestions({
       "submission": "What is your position on global warming?", 
       "district": "MA_05", 
       "created": "2013-07-13T11:26:47", 
-      "votes": 7, 
+      "votes": 8, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.366, 
