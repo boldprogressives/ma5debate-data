@@ -330,7 +330,7 @@ opendebate.processFetchedQuestions({
       "submission": "sample question", 
       "district": "MA_03", 
       "created": "2013-07-19T17:48:16", 
-      "votes": 0, 
+      "votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.560899999999997, 
