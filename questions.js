@@ -2,6 +2,34 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "", 
+      "first_name": "Ethan", 
+      "last_name": "Jucovy", 
+      "submission": "moo", 
+      "district": "", 
+      "created": "2013-07-31T02:21:54", 
+      "votes": 0, 
+      "state": "", 
+      "iface": "question", 
+      "y": 0.0, 
+      "x": 0.0, 
+      "id": 16133393
+    }, 
+    {
+      "city": "", 
+      "first_name": "Ethan", 
+      "last_name": "Jucovy", 
+      "submission": "food", 
+      "district": "", 
+      "created": "2013-07-31T02:21:35", 
+      "votes": 0, 
+      "state": "", 
+      "iface": "question", 
+      "y": 0.0, 
+      "x": 0.0, 
+      "id": 16133388
+    }, 
+    {
       "city": "Worcester", 
       "first_name": "E. G.", 
       "last_name": "Lammyson", 

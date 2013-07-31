@@ -2,13 +2,13 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
-      "city": "Harvard", 
+      "city": "", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
       "user_id": 385575, 
-      "district": "MA_03", 
+      "district": "", 
       "created": "2013-07-30T23:00:50", 
-      "state": "MA", 
+      "state": "", 
       "iface": "vote", 
       "id": 16131709, 
       "question_id": "16131643"
