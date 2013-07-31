@@ -5,6 +5,234 @@ opendebate.processFetchedVotes({
       "city": "Bolton", 
       "first_name": "", 
       "last_name": "", 
+      "user_id": 1785956, 
+      "district": "MA_03", 
+      "created": "2013-07-31T20:32:04", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16143289, 
+      "question_id": "16135326"
+    }, 
+    {
+      "city": "Bolton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1785957, 
+      "district": "MA_03", 
+      "created": "2013-07-31T20:32:04", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16143291, 
+      "question_id": "16136026"
+    }, 
+    {
+      "city": "Bolton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1785952, 
+      "district": "MA_03", 
+      "created": "2013-07-31T20:32:03", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16143285, 
+      "question_id": "16135991"
+    }, 
+    {
+      "city": "Bolton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1785953, 
+      "district": "MA_03", 
+      "created": "2013-07-31T20:32:03", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16143286, 
+      "question_id": "16135296"
+    }, 
+    {
+      "city": "Bolton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1785954, 
+      "district": "MA_03", 
+      "created": "2013-07-31T20:32:03", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16143287, 
+      "question_id": "16135604"
+    }, 
+    {
+      "city": "Bolton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1785955, 
+      "district": "MA_03", 
+      "created": "2013-07-31T20:32:03", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16143288, 
+      "question_id": "16135947"
+    }, 
+    {
+      "city": "Bolton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1785949, 
+      "district": "MA_03", 
+      "created": "2013-07-31T20:32:02", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16143282, 
+      "question_id": "16136033"
+    }, 
+    {
+      "city": "Bolton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1785950, 
+      "district": "MA_03", 
+      "created": "2013-07-31T20:32:02", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16143283, 
+      "question_id": "16136033"
+    }, 
+    {
+      "city": "Bolton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1785951, 
+      "district": "MA_03", 
+      "created": "2013-07-31T20:32:02", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16143284, 
+      "question_id": "16135150"
+    }, 
+    {
+      "city": "Bolton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1785946, 
+      "district": "MA_03", 
+      "created": "2013-07-31T20:32:01", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16143279, 
+      "question_id": "16135830"
+    }, 
+    {
+      "city": "Bolton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1785947, 
+      "district": "MA_03", 
+      "created": "2013-07-31T20:32:01", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16143280, 
+      "question_id": "16135171"
+    }, 
+    {
+      "city": "Bolton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1785948, 
+      "district": "MA_03", 
+      "created": "2013-07-31T20:32:01", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16143281, 
+      "question_id": "16135141"
+    }, 
+    {
+      "city": "Bolton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1785942, 
+      "district": "MA_03", 
+      "created": "2013-07-31T20:32:00", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16143275, 
+      "question_id": "16049640"
+    }, 
+    {
+      "city": "Bolton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1785943, 
+      "district": "MA_03", 
+      "created": "2013-07-31T20:32:00", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16143276, 
+      "question_id": "16135927"
+    }, 
+    {
+      "city": "Bolton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1785944, 
+      "district": "MA_03", 
+      "created": "2013-07-31T20:32:00", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16143277, 
+      "question_id": "16135752"
+    }, 
+    {
+      "city": "Bolton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1785945, 
+      "district": "MA_03", 
+      "created": "2013-07-31T20:32:00", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16143278, 
+      "question_id": "16135740"
+    }, 
+    {
+      "city": "Bolton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1785940, 
+      "district": "MA_03", 
+      "created": "2013-07-31T20:31:59", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16143273, 
+      "question_id": "16135952"
+    }, 
+    {
+      "city": "Bolton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1785941, 
+      "district": "MA_03", 
+      "created": "2013-07-31T20:31:59", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16143274, 
+      "question_id": "16135753"
+    }, 
+    {
+      "city": "Bolton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1785939, 
+      "district": "MA_03", 
+      "created": "2013-07-31T20:31:58", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16143272, 
+      "question_id": "16135435"
+    }, 
+    {
+      "city": "Bolton", 
+      "first_name": "", 
+      "last_name": "", 
       "user_id": 1785661, 
       "district": "MA_03", 
       "created": "2013-07-31T18:58:40", 
@@ -6887,7 +7115,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141992, 
-      "question_id": "16135414"
+      "question_id": "16135196"
     }, 
     {
       "city": "Bolton", 
@@ -6923,7 +7151,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141988, 
-      "question_id": "16135279"
+      "question_id": "16135330"
     }, 
     {
       "city": "Bolton", 
@@ -6947,7 +7175,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141984, 
-      "question_id": "16135557"
+      "question_id": "16135125"
     }, 
     {
       "city": "Bolton", 
@@ -6959,7 +7187,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141985, 
-      "question_id": "16135846"
+      "question_id": "16135087"
     }, 
     {
       "city": "Bolton", 
@@ -6971,7 +7199,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141986, 
-      "question_id": "16135707"
+      "question_id": "16135482"
     }, 
     {
       "city": "Bolton", 
@@ -6983,7 +7211,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141980, 
-      "question_id": "16135878"
+      "question_id": "16135642"
     }, 
     {
       "city": "Bolton", 
@@ -7007,7 +7235,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141982, 
-      "question_id": "16135485"
+      "question_id": "16136067"
     }, 
     {
       "city": "Bolton", 
@@ -7019,7 +7247,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141983, 
-      "question_id": "16136043"
+      "question_id": "16135347"
     }, 
     {
       "city": "Bolton", 
@@ -7031,7 +7259,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141977, 
-      "question_id": "16135747"
+      "question_id": "16135301"
     }, 
     {
       "city": "Bolton", 
@@ -7043,7 +7271,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141978, 
-      "question_id": "16135238"
+      "question_id": "16135200"
     }, 
     {
       "city": "Bolton", 
@@ -7055,7 +7283,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141979, 
-      "question_id": "16135408"
+      "question_id": "16135917"
     }, 
     {
       "city": "Bolton", 
@@ -7067,7 +7295,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141974, 
-      "question_id": "16135851"
+      "question_id": "16135407"
     }, 
     {
       "city": "Bolton", 
@@ -7079,7 +7307,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141975, 
-      "question_id": "16135427"
+      "question_id": "16135821"
     }, 
     {
       "city": "Bolton", 
@@ -7091,7 +7319,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141976, 
-      "question_id": "16135140"
+      "question_id": "16135549"
     }, 
     {
       "city": "Bolton", 
@@ -7103,7 +7331,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141970, 
-      "question_id": "15995417"
+      "question_id": "16135289"
     }, 
     {
       "city": "Bolton", 
@@ -7115,7 +7343,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141971, 
-      "question_id": "16135715"
+      "question_id": "16135205"
     }, 
     {
       "city": "Bolton", 
@@ -7127,7 +7355,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141972, 
-      "question_id": "16135144"
+      "question_id": "16135497"
     }, 
     {
       "city": "Bolton", 
@@ -7139,7 +7367,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141973, 
-      "question_id": "16135813"
+      "question_id": "16135427"
     }, 
     {
       "city": "Bolton", 
@@ -7151,7 +7379,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141966, 
-      "question_id": "16135317"
+      "question_id": "16135315"
     }, 
     {
       "city": "Bolton", 
@@ -7163,7 +7391,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141967, 
-      "question_id": "16135326"
+      "question_id": "16135858"
     }, 
     {
       "city": "Bolton", 
@@ -7175,7 +7403,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141968, 
-      "question_id": "16135408"
+      "question_id": "16135332"
     }, 
     {
       "city": "Bolton", 
@@ -7187,7 +7415,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141969, 
-      "question_id": "16135848"
+      "question_id": "16136081"
     }, 
     {
       "city": "Bolton", 
@@ -7199,7 +7427,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141962, 
-      "question_id": "16135550"
+      "question_id": "16135423"
     }, 
     {
       "city": "Bolton", 
@@ -7211,7 +7439,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141964, 
-      "question_id": "16135489"
+      "question_id": "16135578"
     }, 
     {
       "city": "Bolton", 
@@ -7223,7 +7451,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141965, 
-      "question_id": "16135797"
+      "question_id": "16135927"
     }, 
     {
       "city": "Bolton", 
@@ -7235,7 +7463,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141960, 
-      "question_id": "16135874"
+      "question_id": "16135302"
     }, 
     {
       "city": "Bolton", 
@@ -7247,7 +7475,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141961, 
-      "question_id": "16133393"
+      "question_id": "16135806"
     }, 
     {
       "city": "Bolton", 
@@ -7259,7 +7487,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141958, 
-      "question_id": "16135778"
+      "question_id": "16136034"
     }, 
     {
       "city": "Bolton", 
@@ -7271,7 +7499,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141959, 
-      "question_id": "16135084"
+      "question_id": "16135289"
     }, 
     {
       "city": "Bolton", 
@@ -7283,7 +7511,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141954, 
-      "question_id": "16135741"
+      "question_id": "16135128"
     }, 
     {
       "city": "Bolton", 
@@ -7295,7 +7523,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141955, 
-      "question_id": "16135167"
+      "question_id": "16135473"
     }, 
     {
       "city": "Bolton", 
@@ -7307,7 +7535,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141956, 
-      "question_id": "16050181"
+      "question_id": "16135595"
     }, 
     {
       "city": "Bolton", 
@@ -7319,7 +7547,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141957, 
-      "question_id": "16135195"
+      "question_id": "16135124"
     }, 
     {
       "city": "Bolton", 
@@ -7331,7 +7559,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141950, 
-      "question_id": "16135572"
+      "question_id": "16135500"
     }, 
     {
       "city": "Bolton", 
@@ -7343,7 +7571,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141951, 
-      "question_id": "16135568"
+      "question_id": "16135500"
     }, 
     {
       "city": "Bolton", 
@@ -7355,7 +7583,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141952, 
-      "question_id": "16135613"
+      "question_id": "16135811"
     }, 
     {
       "city": "Bolton", 
@@ -7367,7 +7595,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141953, 
-      "question_id": "16135614"
+      "question_id": "16135903"
     }, 
     {
       "city": "Bolton", 
@@ -7379,7 +7607,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141948, 
-      "question_id": "16135823"
+      "question_id": "16135157"
     }, 
     {
       "city": "Bolton", 
@@ -7391,7 +7619,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141949, 
-      "question_id": "16131643"
+      "question_id": "16135515"
     }, 
     {
       "city": "Bolton", 
@@ -7403,7 +7631,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141944, 
-      "question_id": "16049931"
+      "question_id": "16136006"
     }, 
     {
       "city": "Bolton", 
@@ -7415,7 +7643,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141945, 
-      "question_id": "16135884"
+      "question_id": "16135445"
     }, 
     {
       "city": "Bolton", 
@@ -7427,7 +7655,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141946, 
-      "question_id": "16135276"
+      "question_id": "16135476"
     }, 
     {
       "city": "Bolton", 
@@ -7439,7 +7667,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141947, 
-      "question_id": "16136022"
+      "question_id": "16135408"
     }, 
     {
       "city": "Bolton", 
@@ -7451,7 +7679,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141940, 
-      "question_id": "16135856"
+      "question_id": "16135518"
     }, 
     {
       "city": "Bolton", 
@@ -7463,7 +7691,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141941, 
-      "question_id": "16135255"
+      "question_id": "16135977"
     }, 
     {
       "city": "Bolton", 
@@ -7475,7 +7703,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141942, 
-      "question_id": "16135559"
+      "question_id": "16135412"
     }, 
     {
       "city": "Bolton", 
@@ -7487,7 +7715,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141943, 
-      "question_id": "16135407"
+      "question_id": "16135571"
     }, 
     {
       "city": "Bolton", 
@@ -7499,7 +7727,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141937, 
-      "question_id": "16135976"
+      "question_id": "16135938"
     }, 
     {
       "city": "Bolton", 
@@ -7511,7 +7739,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141938, 
-      "question_id": "16135225"
+      "question_id": "16135347"
     }, 
     {
       "city": "Bolton", 
@@ -7523,7 +7751,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141939, 
-      "question_id": "16135818"
+      "question_id": "16135737"
     }, 
     {
       "city": "Bolton", 
@@ -7535,7 +7763,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141933, 
-      "question_id": "16135420"
+      "question_id": "16135724"
     }, 
     {
       "city": "Bolton", 
@@ -7547,7 +7775,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141934, 
-      "question_id": "16135191"
+      "question_id": "16135089"
     }, 
     {
       "city": "Bolton", 
@@ -7559,7 +7787,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141935, 
-      "question_id": "16135758"
+      "question_id": "16135477"
     }, 
     {
       "city": "Bolton", 
@@ -7571,7 +7799,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141936, 
-      "question_id": "16129384"
+      "question_id": "16135893"
     }, 
     {
       "city": "Bolton", 
@@ -7583,7 +7811,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141930, 
-      "question_id": "16127263"
+      "question_id": "16135432"
     }, 
     {
       "city": "Bolton", 
@@ -7595,7 +7823,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141931, 
-      "question_id": "16135877"
+      "question_id": "16135194"
     }, 
     {
       "city": "Bolton", 
@@ -7607,7 +7835,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141932, 
-      "question_id": "16135527"
+      "question_id": "16135653"
     }, 
     {
       "city": "Bolton", 
@@ -7619,7 +7847,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141926, 
-      "question_id": "16135970"
+      "question_id": "16135580"
     }, 
     {
       "city": "Bolton", 
@@ -7631,7 +7859,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141927, 
-      "question_id": "16135895"
+      "question_id": "16136005"
     }, 
     {
       "city": "Bolton", 
@@ -7643,7 +7871,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141928, 
-      "question_id": "16135079"
+      "question_id": "16135541"
     }, 
     {
       "city": "Bolton", 
@@ -7655,7 +7883,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141929, 
-      "question_id": "16135810"
+      "question_id": "16135565"
     }, 
     {
       "city": "Bolton", 
@@ -7667,7 +7895,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141923, 
-      "question_id": "16135567"
+      "question_id": "16135396"
     }, 
     {
       "city": "Bolton", 
@@ -7679,7 +7907,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141924, 
-      "question_id": "16135295"
+      "question_id": "16136022"
     }, 
     {
       "city": "Bolton", 
@@ -7691,7 +7919,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141925, 
-      "question_id": "16135206"
+      "question_id": "16135904"
     }, 
     {
       "city": "Bolton", 
@@ -7703,7 +7931,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141919, 
-      "question_id": "16136051"
+      "question_id": "16135604"
     }, 
     {
       "city": "Bolton", 
@@ -7715,7 +7943,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141920, 
-      "question_id": "16135693"
+      "question_id": "16135107"
     }, 
     {
       "city": "Bolton", 
@@ -7727,7 +7955,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141921, 
-      "question_id": "16045547"
+      "question_id": "16135394"
     }, 
     {
       "city": "Bolton", 
@@ -7739,7 +7967,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141922, 
-      "question_id": "16135762"
+      "question_id": "16135290"
     }, 
     {
       "city": "Bolton", 
@@ -7751,7 +7979,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141916, 
-      "question_id": "16135701"
+      "question_id": "16135472"
     }, 
     {
       "city": "Bolton", 
@@ -7763,7 +7991,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141917, 
-      "question_id": "16135774"
+      "question_id": "16135616"
     }, 
     {
       "city": "Bolton", 
@@ -7775,7 +8003,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141918, 
-      "question_id": "16135107"
+      "question_id": "16135970"
     }, 
     {
       "city": "Bolton", 
@@ -7787,7 +8015,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141913, 
-      "question_id": "16136078"
+      "question_id": "16135318"
     }, 
     {
       "city": "Bolton", 
@@ -7799,7 +8027,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141914, 
-      "question_id": "16135568"
+      "question_id": "16135434"
     }, 
     {
       "city": "Bolton", 
@@ -7811,7 +8039,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141915, 
-      "question_id": "16135665"
+      "question_id": "16135731"
     }, 
     {
       "city": "Bolton", 
@@ -7823,7 +8051,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141910, 
-      "question_id": "16135389"
+      "question_id": "16135738"
     }, 
     {
       "city": "Bolton", 
@@ -7835,7 +8063,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141911, 
-      "question_id": "16135565"
+      "question_id": "16135176"
     }, 
     {
       "city": "Bolton", 
@@ -7847,7 +8075,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141912, 
-      "question_id": "16135626"
+      "question_id": "16049779"
     }, 
     {
       "city": "Bolton", 
@@ -7859,7 +8087,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141905, 
-      "question_id": "16135401"
+      "question_id": "16135097"
     }, 
     {
       "city": "Bolton", 
@@ -7871,7 +8099,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141906, 
-      "question_id": "16135191"
+      "question_id": "16050181"
     }, 
     {
       "city": "Bolton", 
@@ -7883,7 +8111,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141908, 
-      "question_id": "16135779"
+      "question_id": "16135976"
     }, 
     {
       "city": "Bolton", 
@@ -7895,7 +8123,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141909, 
-      "question_id": "16135113"
+      "question_id": "15995417"
     }, 
     {
       "city": "Bolton", 
@@ -7907,7 +8135,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141902, 
-      "question_id": "16135704"
+      "question_id": "16135277"
     }, 
     {
       "city": "Bolton", 
@@ -7919,7 +8147,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141903, 
-      "question_id": "16136045"
+      "question_id": "16135536"
     }, 
     {
       "city": "Bolton", 
@@ -7931,7 +8159,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141904, 
-      "question_id": "16135122"
+      "question_id": "16135885"
     }, 
     {
       "city": "Bolton", 
@@ -7943,7 +8171,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141899, 
-      "question_id": "16135445"
+      "question_id": "16135553"
     }, 
     {
       "city": "Bolton", 
@@ -7955,7 +8183,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141900, 
-      "question_id": "16135592"
+      "question_id": "16135177"
     }, 
     {
       "city": "Bolton", 
@@ -7967,7 +8195,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141901, 
-      "question_id": "16135213"
+      "question_id": "16135869"
     }, 
     {
       "city": "Bolton", 
@@ -7979,7 +8207,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141895, 
-      "question_id": "16135358"
+      "question_id": "16135975"
     }, 
     {
       "city": "Bolton", 
@@ -7991,7 +8219,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141896, 
-      "question_id": "16135796"
+      "question_id": "16135380"
     }, 
     {
       "city": "Bolton", 
@@ -8003,7 +8231,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141897, 
-      "question_id": "16135338"
+      "question_id": "16135225"
     }, 
     {
       "city": "Bolton", 
@@ -8015,7 +8243,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141898, 
-      "question_id": "16049931"
+      "question_id": "16135137"
     }, 
     {
       "city": "Bolton", 
@@ -8027,7 +8255,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141892, 
-      "question_id": "16135783"
+      "question_id": "16135507"
     }, 
     {
       "city": "Bolton", 
@@ -8039,7 +8267,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141893, 
-      "question_id": "16135140"
+      "question_id": "16045547"
     }, 
     {
       "city": "Bolton", 
@@ -8051,7 +8279,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141894, 
-      "question_id": "16135256"
+      "question_id": "16135699"
     }, 
     {
       "city": "Bolton", 
@@ -8063,7 +8291,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141888, 
-      "question_id": "16135904"
+      "question_id": "16135859"
     }, 
     {
       "city": "Bolton", 
@@ -8075,7 +8303,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141889, 
-      "question_id": "16135457"
+      "question_id": "16135638"
     }, 
     {
       "city": "Bolton", 
@@ -8087,7 +8315,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141890, 
-      "question_id": "16135457"
+      "question_id": "16135402"
     }, 
     {
       "city": "Bolton", 
@@ -8099,7 +8327,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141891, 
-      "question_id": "16135170"
+      "question_id": "16135743"
     }, 
     {
       "city": "Bolton", 
@@ -8111,7 +8339,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141885, 
-      "question_id": "16135471"
+      "question_id": "16135661"
     }, 
     {
       "city": "Bolton", 
@@ -8123,7 +8351,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141886, 
-      "question_id": "16135471"
+      "question_id": "16135396"
     }, 
     {
       "city": "Bolton", 
@@ -8135,7 +8363,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141887, 
-      "question_id": "16135105"
+      "question_id": "16135256"
     }, 
     {
       "city": "Bolton", 
@@ -8147,7 +8375,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141882, 
-      "question_id": "16135535"
+      "question_id": "16135381"
     }, 
     {
       "city": "Bolton", 
@@ -8159,7 +8387,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141883, 
-      "question_id": "16135163"
+      "question_id": "16136017"
     }, 
     {
       "city": "Bolton", 
@@ -8171,7 +8399,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141884, 
-      "question_id": "16135308"
+      "question_id": "16135421"
     }, 
     {
       "city": "Bolton", 
@@ -8183,7 +8411,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141878, 
-      "question_id": "16135404"
+      "question_id": "16135408"
     }, 
     {
       "city": "Bolton", 
@@ -8195,7 +8423,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141879, 
-      "question_id": "16135611"
+      "question_id": "16135201"
     }, 
     {
       "city": "Bolton", 
@@ -8207,7 +8435,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141880, 
-      "question_id": "16135587"
+      "question_id": "16135952"
     }, 
     {
       "city": "Bolton", 
@@ -8219,7 +8447,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141881, 
-      "question_id": "16135578"
+      "question_id": "16135233"
     }, 
     {
       "city": "Bolton", 
@@ -8231,7 +8459,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141873, 
-      "question_id": "16135405"
+      "question_id": "16135480"
     }, 
     {
       "city": "Bolton", 
@@ -8243,7 +8471,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141875, 
-      "question_id": "16135698"
+      "question_id": "16135420"
     }, 
     {
       "city": "Bolton", 
@@ -8255,7 +8483,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141876, 
-      "question_id": "16135626"
+      "question_id": "16135156"
     }, 
     {
       "city": "Bolton", 
@@ -8267,7 +8495,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141877, 
-      "question_id": "16135723"
+      "question_id": "16135695"
     }, 
     {
       "city": "Bolton", 
@@ -8279,7 +8507,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141870, 
-      "question_id": "16135688"
+      "question_id": "16135811"
     }, 
     {
       "city": "Bolton", 
@@ -8291,7 +8519,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141871, 
-      "question_id": "16135402"
+      "question_id": "16136074"
     }, 
     {
       "city": "Bolton", 
@@ -8303,7 +8531,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141872, 
-      "question_id": "16135137"
+      "question_id": "16135354"
     }, 
     {
       "city": "Bolton", 
@@ -8315,7 +8543,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141866, 
-      "question_id": "16136084"
+      "question_id": "16135998"
     }, 
     {
       "city": "Bolton", 
@@ -8327,7 +8555,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141867, 
-      "question_id": "16135184"
+      "question_id": "16136049"
     }, 
     {
       "city": "Bolton", 
@@ -8339,7 +8567,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141868, 
-      "question_id": "16135231"
+      "question_id": "16135986"
     }, 
     {
       "city": "Bolton", 
@@ -8351,7 +8579,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141869, 
-      "question_id": "16135783"
+      "question_id": "16135992"
     }, 
     {
       "city": "Bolton", 
@@ -8363,7 +8591,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141864, 
-      "question_id": "16135568"
+      "question_id": "16135810"
     }, 
     {
       "city": "Bolton", 
@@ -8375,7 +8603,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141865, 
-      "question_id": "16135995"
+      "question_id": "16135591"
     }, 
     {
       "city": "Bolton", 
@@ -8387,7 +8615,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141860, 
-      "question_id": "16049931"
+      "question_id": "16135891"
     }, 
     {
       "city": "Bolton", 
@@ -8399,7 +8627,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141861, 
-      "question_id": "16135093"
+      "question_id": "16135508"
     }, 
     {
       "city": "Bolton", 
@@ -8411,7 +8639,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141862, 
-      "question_id": "16135728"
+      "question_id": "16136018"
     }, 
     {
       "city": "Bolton", 
@@ -8423,7 +8651,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141857, 
-      "question_id": "16135223"
+      "question_id": "16135572"
     }, 
     {
       "city": "Bolton", 
@@ -8435,7 +8663,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141858, 
-      "question_id": "16135960"
+      "question_id": "16135847"
     }, 
     {
       "city": "Bolton", 
@@ -8447,7 +8675,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141859, 
-      "question_id": "16135908"
+      "question_id": "16135961"
     }, 
     {
       "city": "Bolton", 
@@ -8459,7 +8687,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141853, 
-      "question_id": "16135179"
+      "question_id": "16135656"
     }, 
     {
       "city": "Bolton", 
@@ -8471,7 +8699,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141854, 
-      "question_id": "16135883"
+      "question_id": "16135118"
     }, 
     {
       "city": "Bolton", 
@@ -8483,7 +8711,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141855, 
-      "question_id": "16135388"
+      "question_id": "16135613"
     }, 
     {
       "city": "Bolton", 
@@ -8495,7 +8723,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141856, 
-      "question_id": "16135745"
+      "question_id": "16135252"
     }, 
     {
       "city": "Bolton", 
@@ -8507,7 +8735,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141850, 
-      "question_id": "16135159"
+      "question_id": "16135613"
     }, 
     {
       "city": "Bolton", 
@@ -8519,7 +8747,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141851, 
-      "question_id": "16135925"
+      "question_id": "16135583"
     }, 
     {
       "city": "Bolton", 
@@ -8531,7 +8759,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141852, 
-      "question_id": "16135853"
+      "question_id": "16126697"
     }, 
     {
       "city": "Bolton", 
@@ -8543,7 +8771,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141846, 
-      "question_id": "16135939"
+      "question_id": "16135300"
     }, 
     {
       "city": "Bolton", 
@@ -8555,7 +8783,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141847, 
-      "question_id": "16049640"
+      "question_id": "16135918"
     }, 
     {
       "city": "Bolton", 
@@ -8567,7 +8795,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141849, 
-      "question_id": "16135890"
+      "question_id": "16135511"
     }, 
     {
       "city": "Bolton", 
@@ -8579,7 +8807,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141842, 
-      "question_id": "16135316"
+      "question_id": "16135488"
     }, 
     {
       "city": "Bolton", 
@@ -8591,7 +8819,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141843, 
-      "question_id": "16135970"
+      "question_id": "16135401"
     }, 
     {
       "city": "Bolton", 
@@ -8603,7 +8831,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141844, 
-      "question_id": "16135904"
+      "question_id": "16135395"
     }, 
     {
       "city": "Bolton", 
@@ -8615,7 +8843,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141845, 
-      "question_id": "16135958"
+      "question_id": "16135209"
     }, 
     {
       "city": "Bolton", 
@@ -8627,7 +8855,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141839, 
-      "question_id": "16135369"
+      "question_id": "16135510"
     }, 
     {
       "city": "Bolton", 
@@ -8639,7 +8867,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141840, 
-      "question_id": "16135437"
+      "question_id": "16135695"
     }, 
     {
       "city": "Bolton", 
@@ -8651,7 +8879,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141841, 
-      "question_id": "16135813"
+      "question_id": "16135221"
     }, 
     {
       "city": "Bolton", 
@@ -8663,7 +8891,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141835, 
-      "question_id": "16135111"
+      "question_id": "16135947"
     }, 
     {
       "city": "Bolton", 
@@ -8675,7 +8903,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141836, 
-      "question_id": "16135591"
+      "question_id": "16136075"
     }, 
     {
       "city": "Bolton", 
@@ -8687,7 +8915,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141837, 
-      "question_id": "16135532"
+      "question_id": "16135919"
     }, 
     {
       "city": "Bolton", 
@@ -8699,7 +8927,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141838, 
-      "question_id": "16135182"
+      "question_id": "16135435"
     }, 
     {
       "city": "Bolton", 
@@ -8711,7 +8939,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141832, 
-      "question_id": "16135776"
+      "question_id": "16135385"
     }, 
     {
       "city": "Bolton", 
@@ -8723,7 +8951,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141833, 
-      "question_id": "16135091"
+      "question_id": "16135188"
     }, 
     {
       "city": "Bolton", 
@@ -8735,7 +8963,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141834, 
-      "question_id": "16135328"
+      "question_id": "16135750"
     }, 
     {
       "city": "Bolton", 
@@ -8747,7 +8975,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141828, 
-      "question_id": "16135587"
+      "question_id": "16135632"
     }, 
     {
       "city": "Bolton", 
@@ -8759,7 +8987,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141829, 
-      "question_id": "16135516"
+      "question_id": "16135582"
     }, 
     {
       "city": "Bolton", 
@@ -8771,7 +8999,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141830, 
-      "question_id": "16135550"
+      "question_id": "16135680"
     }, 
     {
       "city": "Bolton", 
@@ -8783,7 +9011,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141831, 
-      "question_id": "16135376"
+      "question_id": "16135433"
     }, 
     {
       "city": "Bolton", 
@@ -8795,7 +9023,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141825, 
-      "question_id": "16135873"
+      "question_id": "16135884"
     }, 
     {
       "city": "Bolton", 
@@ -8807,7 +9035,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141826, 
-      "question_id": "16135278"
+      "question_id": "16135847"
     }, 
     {
       "city": "Bolton", 
@@ -8819,7 +9047,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141827, 
-      "question_id": "16135542"
+      "question_id": "16135643"
     }, 
     {
       "city": "Bolton", 
@@ -8831,7 +9059,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141822, 
-      "question_id": "16135358"
+      "question_id": "16135655"
     }, 
     {
       "city": "Bolton", 
@@ -8843,7 +9071,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141823, 
-      "question_id": "16135170"
+      "question_id": "16135871"
     }, 
     {
       "city": "Bolton", 
@@ -8855,7 +9083,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141824, 
-      "question_id": "16135966"
+      "question_id": "16135148"
     }, 
     {
       "city": "Bolton", 
@@ -8867,7 +9095,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141818, 
-      "question_id": "16135888"
+      "question_id": "16135597"
     }, 
     {
       "city": "Bolton", 
@@ -8879,7 +9107,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141819, 
-      "question_id": "15995990"
+      "question_id": "16135378"
     }, 
     {
       "city": "Bolton", 
@@ -8891,7 +9119,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141820, 
-      "question_id": "16048884"
+      "question_id": "16135626"
     }, 
     {
       "city": "Bolton", 
@@ -8903,7 +9131,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141821, 
-      "question_id": "16135843"
+      "question_id": "16131643"
     }, 
     {
       "city": "Bolton", 
@@ -8915,7 +9143,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141815, 
-      "question_id": "16135783"
+      "question_id": "16135418"
     }, 
     {
       "city": "Bolton", 
@@ -8927,7 +9155,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141816, 
-      "question_id": "16135200"
+      "question_id": "16135280"
     }, 
     {
       "city": "Bolton", 
@@ -8939,7 +9167,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141817, 
-      "question_id": "16135134"
+      "question_id": "16135635"
     }, 
     {
       "city": "Bolton", 
@@ -8951,7 +9179,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141812, 
-      "question_id": "16135582"
+      "question_id": "16135328"
     }, 
     {
       "city": "Bolton", 
@@ -8963,7 +9191,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141813, 
-      "question_id": "16135783"
+      "question_id": "16136025"
     }, 
     {
       "city": "Bolton", 
@@ -8975,7 +9203,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141814, 
-      "question_id": "16135480"
+      "question_id": "16135128"
     }, 
     {
       "city": "Bolton", 
@@ -8987,7 +9215,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141808, 
-      "question_id": "16135378"
+      "question_id": "16135482"
     }, 
     {
       "city": "Bolton", 
@@ -8999,7 +9227,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141809, 
-      "question_id": "16135485"
+      "question_id": "16136011"
     }, 
     {
       "city": "Bolton", 
@@ -9011,7 +9239,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141810, 
-      "question_id": "16135513"
+      "question_id": "16049768"
     }, 
     {
       "city": "Bolton", 
@@ -9023,7 +9251,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141811, 
-      "question_id": "16135281"
+      "question_id": "16135798"
     }, 
     {
       "city": "Bolton", 
@@ -9047,7 +9275,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141806, 
-      "question_id": "16135740"
+      "question_id": "16135844"
     }, 
     {
       "city": "Bolton", 
@@ -9059,7 +9287,7 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16141807, 
-      "question_id": "16135758"
+      "question_id": "16135576"
     }, 
     {
       "city": "Bolton", 
