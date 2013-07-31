@@ -2,6 +2,20 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Youngstown", 
+      "first_name": "Purus", 
+      "last_name": "Metus", 
+      "submission": "Lorem fusce ipsum mus morbi hymenaeos sociosqu massa tempor ut. Vitae purus. Vitae dolor eni praesent dignissim et aptent ac quam metus. Lorem neque. Metus donec tempor justo enim morbi conubia ultricies orci pede egestas cubilia. Porta curae. Curae magna euismod dapibus fermentum. Justo netus nascetur class. Magna lacus luctus id molestie egestas habitasse diam fermentum litora. Augue porta leo hymenaeos cursus. Morbi proin. Donec etiam lacinia nec conubia cursus nam diam. Neque nulla condimentum pede orci facilisis. Purus lacus turpis sollicitudin tincidunt class semper eu duis et consectetuer nostra. Proin curae porttitor magna. Dolor lorem felis odio urna mus quisque ve elementum a. Augue class aliquet cubilia hymenaeos facilisi velit enim est taciti a sagittis hac ac. Class massa a amet metus.", 
+      "district": "OH_13", 
+      "created": "2013-07-31T11:57:17", 
+      "votes": 0, 
+      "state": "OH", 
+      "iface": "question", 
+      "y": 41.0974, 
+      "x": -80.652299999999997, 
+      "id": 16135079
+    }, 
+    {
       "city": "Cambridge", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
