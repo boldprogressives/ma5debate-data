@@ -23,6 +23,18 @@ opendebate.processFetchedVotes({
       "state": "MA", 
       "iface": "vote", 
       "id": 16131709, 
+      "question_id": "16133388"
+    }, 
+    {
+      "city": "Cambridge", 
+      "first_name": "Ethan", 
+      "last_name": "Jucovy", 
+      "user_id": 385575, 
+      "district": "MA_05", 
+      "created": "2013-07-30T23:00:50", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16131709, 
       "question_id": "16133393"
     }, 
     {
