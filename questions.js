@@ -2,6 +2,20 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Washington", 
+      "first_name": "michael", 
+      "last_name": "snook", 
+      "submission": "ethan is a tyrannical lead technical architect. what will you do about this?", 
+      "district": "DC_01", 
+      "created": "2013-07-31T19:16:15", 
+      "votes": 0, 
+      "state": "DC", 
+      "iface": "question", 
+      "y": 38.930399999999999, 
+      "x": -77.028199999999998, 
+      "id": 16142711
+    }, 
+    {
       "city": "Austin", 
       "first_name": "hfgjh", 
       "last_name": "Davila", 
@@ -14324,17 +14338,17 @@ opendebate.processFetchedQuestions({
       "id": 16126099
     }, 
     {
-      "city": "Boston", 
+      "city": "Washington", 
       "first_name": "michael", 
-      "last_name": "Snook", 
+      "last_name": "snook", 
       "submission": "does this work?", 
-      "district": "MA_08", 
+      "district": "DC_01", 
       "created": "2013-07-27T17:27:36", 
       "votes": 0, 
-      "state": "MA", 
+      "state": "DC", 
       "iface": "question", 
-      "y": 42.359400000000001, 
-      "x": -71.0595, 
+      "y": 38.930399999999999, 
+      "x": -77.028199999999998, 
       "id": 16111413
     }, 
     {
