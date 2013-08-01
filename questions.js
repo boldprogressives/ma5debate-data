@@ -2,6 +2,22 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Washington", 
+      "first_name": "michael", 
+      "last_name": "snook", 
+      "submission": "hi", 
+      "district": "DC_01", 
+      "created": "2013-08-01T22:51:37", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "DC", 
+      "iface": "question", 
+      "y": 38.930399999999999, 
+      "x": -77.028199999999998, 
+      "id": 16168377
+    }, 
+    {
       "city": "Great Neck", 
       "first_name": "ethan", 
       "last_name": "Jucovy", 
