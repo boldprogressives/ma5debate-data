@@ -92,7 +92,7 @@ opendebate.processFetchedQuestions({
       "submission": "afddfs", 
       "district": "TX_25", 
       "created": "2013-07-31T16:49:51", 
-      "votes": 17, 
+      "votes": 18, 
       "state": "TX", 
       "iface": "question", 
       "y": 30.291499999999999, 
