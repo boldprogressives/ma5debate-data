@@ -2,6 +2,22 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Great Neck", 
+      "first_name": "ethan", 
+      "last_name": "Jucovy", 
+      "submission": "Test", 
+      "district": "NY_03", 
+      "created": "2013-08-01T20:25:49", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NY", 
+      "iface": "question", 
+      "y": 40.786700000000003, 
+      "x": -73.725800000000007, 
+      "id": 16167960
+    }, 
+    {
       "city": "Duncanville", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
@@ -51,7 +67,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Great Neck", 
-      "first_name": "Ethan", 
+      "first_name": "ethan", 
       "last_name": "Jucovy", 
       "submission": "foodddd", 
       "district": "NY_03", 
@@ -67,7 +83,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Great Neck", 
-      "first_name": "Ethan", 
+      "first_name": "ethan", 
       "last_name": "Jucovy", 
       "submission": "foo", 
       "district": "NY_03", 
@@ -16227,7 +16243,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Great Neck", 
-      "first_name": "Ethan", 
+      "first_name": "ethan", 
       "last_name": "Jucovy", 
       "submission": "andx10", 
       "district": "NY_03", 
@@ -16243,7 +16259,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Great Neck", 
-      "first_name": "Ethan", 
+      "first_name": "ethan", 
       "last_name": "Jucovy", 
       "submission": "andx8", 
       "district": "NY_03", 
@@ -16259,7 +16275,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Great Neck", 
-      "first_name": "Ethan", 
+      "first_name": "ethan", 
       "last_name": "Jucovy", 
       "submission": "andx7", 
       "district": "NY_03", 
@@ -16275,7 +16291,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Great Neck", 
-      "first_name": "Ethan", 
+      "first_name": "ethan", 
       "last_name": "Jucovy", 
       "submission": "andx6", 
       "district": "NY_03", 
@@ -16291,7 +16307,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Great Neck", 
-      "first_name": "Ethan", 
+      "first_name": "ethan", 
       "last_name": "Jucovy", 
       "submission": "andx4", 
       "district": "NY_03", 
@@ -16307,7 +16323,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Great Neck", 
-      "first_name": "Ethan", 
+      "first_name": "ethan", 
       "last_name": "Jucovy", 
       "submission": "and x 3", 
       "district": "NY_03", 
@@ -16323,7 +16339,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Great Neck", 
-      "first_name": "Ethan", 
+      "first_name": "ethan", 
       "last_name": "Jucovy", 
       "submission": "and and now", 
       "district": "NY_03", 
@@ -16339,7 +16355,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Great Neck", 
-      "first_name": "Ethan", 
+      "first_name": "ethan", 
       "last_name": "Jucovy", 
       "submission": "and now", 
       "district": "NY_03", 
@@ -16355,7 +16371,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Great Neck", 
-      "first_name": "Ethan", 
+      "first_name": "ethan", 
       "last_name": "Jucovy", 
       "submission": "now", 
       "district": "NY_03", 
@@ -16371,7 +16387,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Great Neck", 
-      "first_name": "Ethan", 
+      "first_name": "ethan", 
       "last_name": "Jucovy", 
       "submission": "WHAT ABOUT NOW", 
       "district": "NY_03", 
@@ -16387,7 +16403,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Great Neck", 
-      "first_name": "Ethan", 
+      "first_name": "ethan", 
       "last_name": "Jucovy", 
       "submission": "does this work AT THIS VERY SECOND?", 
       "district": "NY_03", 
@@ -16403,7 +16419,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Great Neck", 
-      "first_name": "Ethan", 
+      "first_name": "ethan", 
       "last_name": "Jucovy", 
       "submission": "does this work RIGHT NOW??", 
       "district": "NY_03", 
@@ -16419,7 +16435,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Great Neck", 
-      "first_name": "Ethan", 
+      "first_name": "ethan", 
       "last_name": "Jucovy", 
       "submission": "does this work RIGHT NOW??", 
       "district": "NY_03", 
@@ -16435,7 +16451,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Great Neck", 
-      "first_name": "Ethan", 
+      "first_name": "ethan", 
       "last_name": "Jucovy", 
       "submission": "does this work RIGHT NOW??", 
       "district": "NY_03", 
@@ -16451,7 +16467,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Great Neck", 
-      "first_name": "Ethan", 
+      "first_name": "ethan", 
       "last_name": "Jucovy", 
       "submission": "does this work NOW?", 
       "district": "NY_03", 
@@ -16835,7 +16851,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Great Neck", 
-      "first_name": "Ethan", 
+      "first_name": "ethan", 
       "last_name": "Jucovy", 
       "submission": "What is your position on global warming?", 
       "district": "NY_03", 
