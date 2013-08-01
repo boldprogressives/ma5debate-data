@@ -6434,7 +6434,7 @@ opendebate.processFetchedQuestions({
       "submission": "Massa donec diam accumsan quis. Risus magna nostra curae id imperdiet. Donec curae lectus ullamcorper metus ultricies leo dolor primis porttitor ve habitasse dapibus etiam. Curae risus nascetur dui gravida amet sagittis. Nulla massa. Risus ipsum amet lacus. Etiam porta magna. Porta magna senectus ultricies curae in rutrum id ad ligula. Nulla velit eni fusce nonummy quis. Dolor augue. Purus massa blandit nonummy mollis etiam fringilla bibendum congue nulla ullamcorper arcu fringilla mattis torquent eros est massa. Porta proin turpis fusce nulla sem molestie. Velit felis nostra eu cras ullamcorper ut primis. Curae magna. Vitae nulla. Lorem vitae nam venenatis sodales. Dolor porta sit eget convallis tempus.", 
       "district": "AK_01", 
       "created": "2013-07-31T12:00:34", 
-      "votes": 18, 
+      "votes": 19, 
       "state": "AK", 
       "iface": "question", 
       "y": 64.351799999999997, 
