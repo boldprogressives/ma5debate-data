@@ -38,6 +38,18 @@ opendebate.processFetchedVotes({
       "question_id": "16169418"
     }, 
     {
+      "city": "Cross Hill", 
+      "first_name": "Caitlin", 
+      "last_name": "Mauk", 
+      "user_id": 1708377, 
+      "district": "SC_03", 
+      "created": "2013-08-02T20:17:36", 
+      "state": "SC", 
+      "iface": "vote", 
+      "id": 16170090, 
+      "question_id": "16170119"
+    }, 
+    {
       "city": "Charlottesville", 
       "first_name": "Amory", 
       "last_name": "Fischer", 

@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Cambridge", 
+      "first_name": "Forrest", 
+      "last_name": "Brown", 
+      "user_id": 11015, 
+      "submission": "Do you support expanding Medicare to all Americans?", 
+      "district": "MA_05", 
+      "created": "2013-08-02T20:31:42", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.377499999999998, 
+      "x": -71.131200000000007, 
+      "id": 16170148
+    }, 
+    {
       "city": "Cross Hill", 
       "first_name": "Caitlin", 
       "last_name": "Mauk", 
@@ -27,7 +44,7 @@ opendebate.processFetchedQuestions({
       "district": "WI_06", 
       "created": "2013-08-02T20:27:28", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "WI", 
       "iface": "question", 
