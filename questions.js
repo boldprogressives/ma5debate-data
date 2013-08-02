@@ -2,6 +2,22 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Austin", 
+      "first_name": "Laura", 
+      "last_name": "Davila", 
+      "submission": "A question for you folks.", 
+      "district": "TX_25", 
+      "created": "2013-08-02T02:59:16", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "TX", 
+      "iface": "question", 
+      "y": 30.291499999999999, 
+      "x": -97.733900000000006, 
+      "id": 16168830
+    }, 
+    {
       "city": "Washington", 
       "first_name": "michael", 
       "last_name": "snook", 
@@ -131,7 +147,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Austin", 
-      "first_name": "hfgjh", 
+      "first_name": "Laura", 
       "last_name": "Davila", 
       "submission": "gfhgjh", 
       "district": "TX_25", 
@@ -16515,7 +16531,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Austin", 
-      "first_name": "hfgjh", 
+      "first_name": "Laura", 
       "last_name": "Davila", 
       "submission": "I am going to submit two questions: here's the second", 
       "district": "TX_25", 
@@ -16531,7 +16547,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Austin", 
-      "first_name": "hfgjh", 
+      "first_name": "Laura", 
       "last_name": "Davila", 
       "submission": "I am going to submit two questions: here's hte first", 
       "district": "TX_25", 
@@ -16547,7 +16563,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Austin", 
-      "first_name": "hfgjh", 
+      "first_name": "Laura", 
       "last_name": "Davila", 
       "submission": "sample question", 
       "district": "TX_25", 
@@ -16563,7 +16579,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Austin", 
-      "first_name": "hfgjh", 
+      "first_name": "Laura", 
       "last_name": "Davila", 
       "submission": "sample quesiton", 
       "district": "TX_25", 
@@ -16579,7 +16595,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Austin", 
-      "first_name": "hfgjh", 
+      "first_name": "Laura", 
       "last_name": "Davila", 
       "submission": "this is the question", 
       "district": "TX_25", 
@@ -16595,7 +16611,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Austin", 
-      "first_name": "hfgjh", 
+      "first_name": "Laura", 
       "last_name": "Davila", 
       "submission": "another question for you", 
       "district": "TX_25", 
@@ -16611,7 +16627,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Austin", 
-      "first_name": "hfgjh", 
+      "first_name": "Laura", 
       "last_name": "Davila", 
       "submission": "How could this possibly work?", 
       "district": "TX_25", 
@@ -16627,7 +16643,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Austin", 
-      "first_name": "hfgjh", 
+      "first_name": "Laura", 
       "last_name": "Davila", 
       "submission": "once more with feeling", 
       "district": "TX_25", 
@@ -16643,7 +16659,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Austin", 
-      "first_name": "hfgjh", 
+      "first_name": "Laura", 
       "last_name": "Davila", 
       "submission": "i hope this works well", 
       "district": "TX_25", 
@@ -16659,7 +16675,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Austin", 
-      "first_name": "hfgjh", 
+      "first_name": "Laura", 
       "last_name": "Davila", 
       "submission": "just another question test", 
       "district": "TX_25", 
@@ -16675,7 +16691,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Austin", 
-      "first_name": "hfgjh", 
+      "first_name": "Laura", 
       "last_name": "Davila", 
       "submission": "A brand new question for today!", 
       "district": "TX_25", 
@@ -16691,7 +16707,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Austin", 
-      "first_name": "hfgjh", 
+      "first_name": "Laura", 
       "last_name": "Davila", 
       "submission": "Here is a question", 
       "district": "TX_25", 
@@ -16707,7 +16723,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Austin", 
-      "first_name": "hfgjh", 
+      "first_name": "Laura", 
       "last_name": "Davila", 
       "submission": "Another question", 
       "district": "TX_25", 
@@ -16723,7 +16739,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Austin", 
-      "first_name": "hfgjh", 
+      "first_name": "Laura", 
       "last_name": "Davila", 
       "submission": "test ", 
       "district": "TX_25", 
@@ -16739,7 +16755,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Austin", 
-      "first_name": "hfgjh", 
+      "first_name": "Laura", 
       "last_name": "Davila", 
       "submission": "Form input question", 
       "district": "TX_25", 
@@ -16787,7 +16803,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Austin", 
-      "first_name": "hfgjh", 
+      "first_name": "Laura", 
       "last_name": "Davila", 
       "submission": "This is my question", 
       "district": "TX_25", 
@@ -16803,7 +16819,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Austin", 
-      "first_name": "hfgjh", 
+      "first_name": "Laura", 
       "last_name": "Davila", 
       "submission": "What's your favorite color?", 
       "district": "TX_25", 
@@ -16819,7 +16835,7 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Austin", 
-      "first_name": "hfgjh", 
+      "first_name": "Laura", 
       "last_name": "Davila", 
       "submission": "What's your favorite color", 
       "district": "TX_25", 
