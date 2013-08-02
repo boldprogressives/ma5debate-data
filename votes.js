@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Cross Hill", 
+      "first_name": "Caitlin", 
+      "last_name": "Mauk", 
+      "user_id": 1708377, 
+      "district": "SC_03", 
+      "created": "2013-08-02T20:17:36", 
+      "state": "SC", 
+      "iface": "vote", 
+      "id": 16170090, 
+      "question_id": "16169987"
+    }, 
+    {
       "city": "Charlottesville", 
       "first_name": "Amory", 
       "last_name": "Fischer", 
@@ -36,6 +48,18 @@ opendebate.processFetchedVotes({
       "iface": "vote", 
       "id": 16169954, 
       "question_id": "16169704"
+    }, 
+    {
+      "city": "Washington", 
+      "first_name": "Michael", 
+      "last_name": "Snook", 
+      "user_id": 61793, 
+      "district": "DC_01", 
+      "created": "2013-08-02T19:30:58", 
+      "state": "DC", 
+      "iface": "vote", 
+      "id": 16169954, 
+      "question_id": "16169991"
     }, 
     {
       "city": "Austin", 
