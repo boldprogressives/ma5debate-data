@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Charlottesville", 
+      "first_name": "Amory", 
+      "last_name": "Fischer", 
+      "user_id": 1762927, 
+      "district": "VA_05", 
+      "created": "2013-08-02T19:47:59", 
+      "state": "VA", 
+      "iface": "vote", 
+      "id": 16170000, 
+      "question_id": "16169987"
+    }, 
+    {
       "city": "Washington", 
       "first_name": "Michael", 
       "last_name": "Snook", 
