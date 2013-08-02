@@ -27,7 +27,7 @@ opendebate.processFetchedQuestions({
       "district": "DC_01", 
       "created": "2013-08-02T16:16:17", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "DC", 
       "iface": "question", 
