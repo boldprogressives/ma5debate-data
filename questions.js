@@ -27,7 +27,7 @@ opendebate.processFetchedQuestions({
       "district": "IL_16", 
       "created": "2013-08-02T14:47:18", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "IL", 
       "iface": "question", 
