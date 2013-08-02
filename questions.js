@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Ottawa", 
+      "first_name": "Drew", 
+      "last_name": "McConville", 
+      "user_id": 193927, 
+      "submission": "Where do you stand on the issue of public financing of federal elections? ", 
+      "district": "IL_16", 
+      "created": "2013-08-02T17:10:04", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "IL", 
+      "iface": "question", 
+      "y": 41.333599999999997, 
+      "x": -88.878100000000003, 
+      "id": 16169704
+    }, 
+    {
       "city": "Washington", 
       "first_name": "Michael", 
       "last_name": "Snook", 
