@@ -78,7 +78,7 @@ opendebate.processFetchedQuestions({
       "district": "MO_02", 
       "created": "2013-08-02T20:26:36", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 0, 
       "district_votes": 0, 
       "state": "MO", 
       "iface": "question", 
