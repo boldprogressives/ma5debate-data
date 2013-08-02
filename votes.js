@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Fond du Lac", 
+      "first_name": "Taylor", 
+      "last_name": "Putz", 
+      "user_id": 1750723, 
+      "district": "WI_06", 
+      "created": "2013-08-02T20:27:32", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16170123, 
+      "question_id": "16169418"
+    }, 
+    {
+      "city": "Fenton", 
+      "first_name": "Kayla", 
+      "last_name": "Wingbermuehle", 
+      "user_id": 1544042, 
+      "district": "MO_02", 
+      "created": "2013-08-02T20:27:02", 
+      "state": "MO", 
+      "iface": "vote", 
+      "id": 16170117, 
+      "question_id": "16169987"
+    }, 
+    {
       "city": "Cross Hill", 
       "first_name": "Caitlin", 
       "last_name": "Mauk", 
