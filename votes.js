@@ -143,7 +143,7 @@ opendebate.processFetchedVotes({
       "state": "DC", 
       "iface": "vote", 
       "id": 16169946, 
-      "question_id": "16170148"
+      "question_id": "16170130"
     }, 
     {
       "city": "Ottawa", 
