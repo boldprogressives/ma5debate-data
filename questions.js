@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Austin", 
+      "first_name": "Laura", 
+      "last_name": "Davila", 
+      "user_id": 471842, 
+      "submission": "I don't know enough about the specific MA situation right now.  Care to explain?", 
+      "district": "TX_10", 
+      "created": "2013-08-02T17:23:15", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "TX", 
+      "iface": "question", 
+      "y": 30.397200000000002, 
+      "x": -97.751800000000003, 
+      "id": 16169725
+    }, 
+    {
       "city": "Ottawa", 
       "first_name": "Kassie", 
       "last_name": "McConville", 
