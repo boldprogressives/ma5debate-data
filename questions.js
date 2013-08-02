@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Charlottesville", 
+      "first_name": "Amory", 
+      "last_name": "Fischer", 
+      "user_id": 1762927, 
+      "submission": "Do you support amending the Constitution so that Corporations are not people and do not have the same rights as such under the law?", 
+      "district": "VA_05", 
+      "created": "2013-08-02T19:45:31", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "VA", 
+      "iface": "question", 
+      "y": 38.057200000000002, 
+      "x": -78.493099999999998, 
+      "id": 16169987
+    }, 
+    {
       "city": "Ottawa", 
       "first_name": "Drew", 
       "last_name": "McConville", 
