@@ -14,6 +14,18 @@ opendebate.processFetchedVotes({
       "question_id": "16169418"
     }, 
     {
+      "city": "Fond du Lac", 
+      "first_name": "Taylor", 
+      "last_name": "Putz", 
+      "user_id": 1750723, 
+      "district": "WI_06", 
+      "created": "2013-08-02T20:27:32", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16170123, 
+      "question_id": "16169987"
+    }, 
+    {
       "city": "Fenton", 
       "first_name": "Kayla", 
       "last_name": "Wingbermuehle", 
