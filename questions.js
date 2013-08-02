@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Richmond", 
+      "first_name": "Ruthie", 
+      "last_name": "Morrison", 
+      "user_id": 387, 
+      "submission": "If elected, what will be your strategy to gain influence in Congress? What in your track record proves you'll be able to overcome the stagnation in DC to bring back real, progressive victories for your constituents?", 
+      "district": "VA_03", 
+      "created": "2013-08-02T21:18:32", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "VA", 
+      "iface": "question", 
+      "y": 37.553199999999997, 
+      "x": -77.456400000000002, 
+      "id": 16170288
+    }, 
+    {
       "city": "Redmond", 
       "first_name": "Andrew", 
       "last_name": "Villeneuve", 
