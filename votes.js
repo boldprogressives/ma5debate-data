@@ -11,7 +11,7 @@ opendebate.processFetchedVotes({
       "state": "SC", 
       "iface": "vote", 
       "id": 16170090, 
-      "question_id": "16169987"
+      "question_id": "16169418"
     }, 
     {
       "city": "Charlottesville", 
