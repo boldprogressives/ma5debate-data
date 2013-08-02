@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Cross Hill", 
+      "first_name": "Caitlin", 
+      "last_name": "Mauk", 
+      "user_id": 1708377, 
+      "submission": "In Congress, will you actively fight for raising the minimum wage to $10 an hour? ", 
+      "district": "SC_03", 
+      "created": "2013-08-02T20:29:03", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "SC", 
+      "iface": "question", 
+      "y": 34.283099999999997, 
+      "x": -81.982900000000001, 
+      "id": 16170130
+    }, 
+    {
       "city": "Fond du Lac", 
       "first_name": "Taylor", 
       "last_name": "Putz", 
@@ -44,7 +61,7 @@ opendebate.processFetchedQuestions({
       "district": "MO_02", 
       "created": "2013-08-02T20:26:36", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "MO", 
       "iface": "question", 
