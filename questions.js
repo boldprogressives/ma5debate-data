@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Belmont", 
+      "first_name": "Monte", 
+      "last_name": "Allen", 
+      "user_id": 1640320, 
+      "submission": "Should the Keystone pipeline go forward?", 
+      "district": "MA_05", 
+      "created": "2013-08-03T21:04:54", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.394199999999998, 
+      "x": -71.180199999999999, 
+      "id": 16172560
+    }, 
+    {
       "city": "Cambridge", 
       "first_name": "Norma", 
       "last_name": "Wassel", 
