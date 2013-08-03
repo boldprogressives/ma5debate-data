@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "ARLINGTON", 
+      "first_name": "Robert", 
+      "last_name": "Schueler", 
+      "user_id": 1190066, 
+      "submission": "Do you see the ever growing disparity between rich and poor & middle class, along with evidence of reduced opportunity to move up in earning status, as a problem?  And if you do, what role do you see for Congress in addressing it?", 
+      "district": "MA_05", 
+      "created": "2013-08-03T21:17:04", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.411900000000003, 
+      "x": -71.176500000000004, 
+      "id": 16172581
+    }, 
+    {
       "city": "Watertown", 
       "first_name": "Richard", 
       "last_name": "Marcus", 
