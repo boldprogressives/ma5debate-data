@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Santa Fe", 
+      "first_name": "Estevan", 
+      "last_name": "trujillo", 
+      "user_id": 1168110, 
+      "submission": "History has shown, that a government that desires to controls its people by using fear is up to undemocratic unaccountable corruption. In order to solve our dysfunctional federal and state governmental problems we must first identify the problem first.  What is the problem?", 
+      "district": "NM_03", 
+      "created": "2013-08-03T22:15:52", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NM", 
+      "iface": "question", 
+      "y": 35.6997, 
+      "x": -105.967, 
+      "id": 16172711
+    }, 
+    {
       "city": "Liberty Hill", 
       "first_name": "Robert", 
       "last_name": "Phillips", 
