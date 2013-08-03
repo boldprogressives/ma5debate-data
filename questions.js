@@ -104,20 +104,20 @@ opendebate.processFetchedQuestions({
       "id": 16170118
     }, 
     {
-      "city": "Fenton", 
+      "city": "San Diego", 
       "first_name": "Kayla", 
       "last_name": "Wingbermuehle", 
       "user_id": 1544042, 
       "submission": "Would you support Senator Elizabeth Warren's student loans bill, which would allow students to borrow at the same low interest rates as banks?  ", 
-      "district": "MO_02", 
+      "district": "CA_52", 
       "created": "2013-08-02T20:26:36", 
       "state_votes": 0, 
       "votes": 0, 
       "district_votes": 0, 
-      "state": "MO", 
+      "state": "CA", 
       "iface": "question", 
-      "y": 38.501800000000003, 
-      "x": -90.456800000000001, 
+      "y": 32.791499999999999, 
+      "x": -117.23699999999999, 
       "id": 16170115
     }, 
     {
