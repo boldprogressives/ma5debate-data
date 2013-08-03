@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Kalispell", 
+      "first_name": "Rob", 
+      "last_name": "Schrock", 
+      "user_id": 729376, 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "district": "MT_01", 
+      "created": "2013-08-03T23:23:07", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MT", 
+      "iface": "question", 
+      "y": 48.211199999999998, 
+      "x": -114.294, 
+      "id": 16172913
+    }, 
+    {
       "city": "Montegut", 
       "first_name": "Penny", 
       "last_name": "Leboeuf", 
