@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Liberty Hill", 
+      "first_name": "Robert", 
+      "last_name": "Phillips", 
+      "user_id": 850700, 
+      "submission": "Would you stand up to these radical Republicans in Congress and call them out for who they are?", 
+      "district": "TX_31", 
+      "created": "2013-08-03T22:13:13", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "TX", 
+      "iface": "question", 
+      "y": 30.684999999999999, 
+      "x": -97.910399999999996, 
+      "id": 16172702
+    }, 
+    {
       "city": "Boise", 
       "first_name": "Benjamin Brian", 
       "last_name": "Tupaz", 
@@ -51,23 +68,6 @@ opendebate.processFetchedQuestions({
       "y": 32.414700000000003, 
       "x": -111.295, 
       "id": 16172694
-    }, 
-    {
-      "city": "Eldridge", 
-      "first_name": "Danny", 
-      "last_name": "Bynum", 
-      "user_id": 1571323, 
-      "submission": "Do you believe taxpayers should pay for your health insurance?", 
-      "district": "IA_02", 
-      "created": "2013-08-03T22:10:01", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "IA", 
-      "iface": "question", 
-      "y": 41.663899999999998, 
-      "x": -90.556700000000006, 
-      "id": 16172691
     }, 
     {
       "city": "Gig Harbor", 
