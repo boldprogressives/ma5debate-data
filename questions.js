@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Gladstone", 
+      "first_name": "Otis", 
+      "last_name": "Gillis", 
+      "user_id": 1711106, 
+      "submission": "What will you do to overturn Citizen's United?", 
+      "district": "OR_05", 
+      "created": "2013-08-03T22:30:45", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "OR", 
+      "iface": "question", 
+      "y": 45.389800000000001, 
+      "x": -122.589, 
+      "id": 16172765
+    }, 
+    {
       "city": "Egg Harbor", 
       "first_name": "GERRI", 
       "last_name": "FRIEDBERG, M.A.", 
