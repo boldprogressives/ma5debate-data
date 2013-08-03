@@ -155,6 +155,18 @@ opendebate.processFetchedVotes({
       "state": "DC", 
       "iface": "vote", 
       "id": 16169954, 
+      "question_id": "16169987"
+    }, 
+    {
+      "city": "Washington", 
+      "first_name": "Michael", 
+      "last_name": "Snook", 
+      "user_id": 61793, 
+      "district": "DC_01", 
+      "created": "2013-08-02T19:30:58", 
+      "state": "DC", 
+      "iface": "vote", 
+      "id": 16169954, 
       "question_id": "16169991"
     }, 
     {
@@ -168,18 +180,6 @@ opendebate.processFetchedVotes({
       "iface": "vote", 
       "id": 16169954, 
       "question_id": "16170087"
-    }, 
-    {
-      "city": "Washington", 
-      "first_name": "Michael", 
-      "last_name": "Snook", 
-      "user_id": 61793, 
-      "district": "DC_01", 
-      "created": "2013-08-02T19:30:58", 
-      "state": "DC", 
-      "iface": "vote", 
-      "id": 16169954, 
-      "question_id": "16170130"
     }, 
     {
       "city": "Austin", 
