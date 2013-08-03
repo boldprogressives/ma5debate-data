@@ -74,6 +74,18 @@ opendebate.processFetchedVotes({
       "question_id": "16169987"
     }, 
     {
+      "city": "San Diego", 
+      "first_name": "Kayla", 
+      "last_name": "Wingbermuehle", 
+      "user_id": 1544042, 
+      "district": "CA_52", 
+      "created": "2013-08-02T20:27:02", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16170117, 
+      "question_id": "16170118"
+    }, 
+    {
       "city": "Cross Hill", 
       "first_name": "Caitlin", 
       "last_name": "Mauk", 
