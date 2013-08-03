@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Washington", 
+      "first_name": "Jim", 
+      "last_name": "Smith", 
+      "user_id": 63203, 
+      "submission": "Do you support a national goal of free tuition for students who attend public universities?", 
+      "district": "DC_01", 
+      "created": "2013-08-03T05:00:29", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "DC", 
+      "iface": "question", 
+      "y": 38.9178, 
+      "x": -77.035300000000007, 
+      "id": 16171183
+    }, 
+    {
       "city": "Richmond", 
       "first_name": "Ruthie", 
       "last_name": "Morrison", 
