@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "West Salem", 
+      "first_name": "andy", 
+      "last_name": "compton", 
+      "user_id": 1196394, 
+      "submission": "Lets see the tax rate for the 1% it depends if they build factorys here keep jobs here pay a liveing wage i can see them getting a tax brake for start up from 5 to 10 years free with no taxs but they have to maintain a 15.00 to 18.00 dollar an hour wage for there workers, and that would not be for companys that have import hubs for low poverty wages for its workers. ", 
+      "district": "WI_03", 
+      "created": "2013-08-03T23:42:09", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WI", 
+      "iface": "question", 
+      "y": 43.8996, 
+      "x": -91.087000000000003, 
+      "id": 16172963
+    }, 
+    {
       "city": "Winter Park", 
       "first_name": "Carol", 
       "last_name": "Sidofsky", 
