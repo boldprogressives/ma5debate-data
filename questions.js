@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Arlington", 
+      "first_name": "Jens", 
+      "last_name": "Tillmanns", 
+      "user_id": 1188970, 
+      "submission": "Will you work for the protection of privacy and free speech? Or will you support Obama's NSA policy?", 
+      "district": "MA_05", 
+      "created": "2013-08-03T17:40:12", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.420699999999997, 
+      "x": -71.158199999999994, 
+      "id": 16172277
+    }, 
+    {
       "city": "Revere", 
       "first_name": "Sam", 
       "last_name": "Brodie", 
