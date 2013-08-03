@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Cambridge", 
+      "first_name": "Norma", 
+      "last_name": "Wassel", 
+      "user_id": 515828, 
+      "submission": "What is your analysis and potential solutions to the current crisis of our state's and country's criminal justice system, with taxpayers bearing the burden of increasing costs for incarceration and recidivism to support an inequitable system particularly for poor and minority citizens?", 
+      "district": "MA_05", 
+      "created": "2013-08-03T21:01:00", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.392299999999999, 
+      "x": -71.131299999999996, 
+      "id": 16172556
+    }, 
+    {
       "city": "Waltham", 
       "first_name": "Jean", 
       "last_name": "Benton", 
