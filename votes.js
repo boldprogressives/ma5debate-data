@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Bremerton", 
+      "first_name": "Gordon", 
+      "last_name": "Radovich", 
+      "user_id": 1677347, 
+      "district": "WA_06", 
+      "created": "2013-08-03T22:25:06", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16172745, 
+      "question_id": "16172731"
+    }, 
+    {
       "city": "Waldport", 
       "first_name": "Joanne", 
       "last_name": "Cvar", 
@@ -11,7 +23,7 @@ opendebate.processFetchedVotes({
       "state": "OR", 
       "iface": "vote", 
       "id": 16172737, 
-      "question_id": "16172648"
+      "question_id": "16172207"
     }, 
     {
       "city": "Chandler", 
