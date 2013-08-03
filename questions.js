@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Ponder", 
+      "first_name": "Joby", 
+      "last_name": "McClendon", 
+      "user_id": 119330, 
+      "submission": "If the Democratic Party supports your candidacy, will you be beholding to them, in other words, vote the way you are told, or will you vote your conscience?", 
+      "district": "TX_26", 
+      "created": "2013-08-03T22:56:22", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "TX", 
+      "iface": "question", 
+      "y": 33.190199999999997, 
+      "x": -97.2804, 
+      "id": 16172842
+    }, 
+    {
       "city": "Black Earth", 
       "first_name": "JAMES", 
       "last_name": "CROOK", 
@@ -163,7 +180,7 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:21:20", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "district_votes": 0, 
       "state": "WA", 
       "iface": "question", 

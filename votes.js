@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Ponder", 
+      "first_name": "Joby", 
+      "last_name": "McClendon", 
+      "user_id": 119330, 
+      "district": "TX_26", 
+      "created": "2013-08-03T22:56:56", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16172850, 
+      "question_id": "16172731"
+    }, 
+    {
       "city": "Black Earth", 
       "first_name": "JAMES", 
       "last_name": "CROOK", 
