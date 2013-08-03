@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Cambridge", 
+      "first_name": "H.", 
+      "last_name": "Fleishon", 
+      "user_id": 682229, 
+      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
+      "district": "MA_05", 
+      "created": "2013-08-03T17:00:17", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.366, 
+      "x": -71.103499999999997, 
+      "id": 16172207
+    }, 
+    {
       "city": "Arlington", 
       "first_name": "Thomas", 
       "last_name": "Pochapsky", 
