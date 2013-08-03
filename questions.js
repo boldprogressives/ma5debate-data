@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Cambridge", 
+      "first_name": "Astrid", 
+      "last_name": "Dodds", 
+      "user_id": 234304, 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "district": "MA_05", 
+      "created": "2013-08-03T20:45:26", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.377499999999998, 
+      "x": -71.131200000000007, 
+      "id": 16172533
+    }, 
+    {
       "city": "Medford", 
       "first_name": "John", 
       "last_name": "Olson", 
