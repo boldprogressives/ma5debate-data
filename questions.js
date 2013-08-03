@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Cambridge", 
+      "first_name": "Jean", 
+      "last_name": "Chandler", 
+      "user_id": 157855, 
+      "submission": "What could be done to reduce inequality of opportunity?", 
+      "district": "MA_05", 
+      "created": "2013-08-03T17:55:22", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.366, 
+      "x": -71.103499999999997, 
+      "id": 16172304
+    }, 
+    {
       "city": "Arlington", 
       "first_name": "Mary", 
       "last_name": "Gilbert", 
