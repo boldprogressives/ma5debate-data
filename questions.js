@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Sun City", 
+      "first_name": "Kenneth", 
+      "last_name": "Heffley", 
+      "user_id": 1710057, 
+      "submission": "How will the federal healthcare benefit the seniors who have been paying for years, will it be more expensive for us with medice included?", 
+      "district": "AZ_08", 
+      "created": "2013-08-03T23:44:23", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "AZ", 
+      "iface": "question", 
+      "y": 33.782800000000002, 
+      "x": -112.36499999999999, 
+      "id": 16172970
+    }, 
+    {
       "city": "West Salem", 
       "first_name": "andy", 
       "last_name": "compton", 
