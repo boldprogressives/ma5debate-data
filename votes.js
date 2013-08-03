@@ -3,7 +3,7 @@ opendebate.processFetchedVotes({
   "entries": [
     {
       "city": "Helena", 
-      "first_name": "Robert", 
+      "first_name": "Bob", 
       "last_name": "Balhiser", 
       "user_id": 674040, 
       "district": "MT_01", 
@@ -12,6 +12,18 @@ opendebate.processFetchedVotes({
       "iface": "vote", 
       "id": 16172782, 
       "question_id": "16172696"
+    }, 
+    {
+      "city": "Helena", 
+      "first_name": "Bob", 
+      "last_name": "Balhiser", 
+      "user_id": 674040, 
+      "district": "MT_01", 
+      "created": "2013-08-03T22:33:50", 
+      "state": "MT", 
+      "iface": "vote", 
+      "id": 16172782, 
+      "question_id": "16172777"
     }, 
     {
       "city": "Dolton", 
