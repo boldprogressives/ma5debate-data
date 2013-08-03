@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Cambridge", 
+      "first_name": "Lois", 
+      "last_name": "Josimovich", 
+      "user_id": 1119538, 
+      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
+      "district": "MA_05", 
+      "created": "2013-08-03T21:18:50", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.377499999999998, 
+      "x": -71.131200000000007, 
+      "id": 16172583
+    }, 
+    {
       "city": "ARLINGTON", 
       "first_name": "Robert", 
       "last_name": "Schueler", 
