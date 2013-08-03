@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Watertown", 
+      "first_name": "Richard", 
+      "last_name": "Marcus", 
+      "user_id": 1248170, 
+      "submission": "Have you sponsored legislation that protects a woman's right to healthcare ?", 
+      "district": "MA_05", 
+      "created": "2013-08-03T21:14:40", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.371299999999998, 
+      "x": -71.180400000000006, 
+      "id": 16172578
+    }, 
+    {
       "city": "Lexington", 
       "first_name": "Edward", 
       "last_name": "Ganshirt", 
