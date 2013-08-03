@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Black Earth", 
+      "first_name": "JAMES", 
+      "last_name": "CROOK", 
+      "user_id": 1733742, 
+      "submission": "why are the democrats so afraid to stand up to the republicans..? you stand up to a bully they usually back down.", 
+      "district": "WI_02", 
+      "created": "2013-08-03T22:52:12", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WI", 
+      "iface": "question", 
+      "y": 43.127099999999999, 
+      "x": -89.7423, 
+      "id": 16172823
+    }, 
+    {
       "city": "", 
       "first_name": "Magda", 
       "last_name": "Reyes", 
@@ -61,7 +78,7 @@ opendebate.processFetchedQuestions({
       "district": "OR_05", 
       "created": "2013-08-03T22:30:45", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "question", 

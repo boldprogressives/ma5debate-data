@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Black Earth", 
+      "first_name": "JAMES", 
+      "last_name": "CROOK", 
+      "user_id": 1733742, 
+      "district": "WI_02", 
+      "created": "2013-08-03T22:53:36", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16172827, 
+      "question_id": "16172765"
+    }, 
+    {
       "city": "Helena", 
       "first_name": "Bob", 
       "last_name": "Balhiser", 
