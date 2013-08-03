@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Baraboo", 
+      "first_name": "John", 
+      "last_name": "Allen", 
+      "user_id": 1773030, 
+      "submission": "Are you willing to sign on town effort to push Congress to remove from existing operating rules that support the current winer take all system, in spite of the fact that this will be disciplining both parties?", 
+      "district": "WI_02", 
+      "created": "2013-08-03T22:03:10", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WI", 
+      "iface": "question", 
+      "y": 43.5259, 
+      "x": -89.774000000000001, 
+      "id": 16172671
+    }, 
+    {
       "city": "Longmont", 
       "first_name": "Daniel", 
       "last_name": "Clarkson", 
@@ -367,7 +384,7 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:33:11", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 

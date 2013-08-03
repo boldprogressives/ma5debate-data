@@ -74,28 +74,40 @@ opendebate.processFetchedVotes({
       "question_id": "16169987"
     }, 
     {
-      "city": "San Diego", 
+      "city": "Fenton", 
       "first_name": "Kayla", 
       "last_name": "Wingbermuehle", 
       "user_id": 1544042, 
-      "district": "CA_52", 
+      "district": "MO_02", 
       "created": "2013-08-02T20:27:02", 
-      "state": "CA", 
+      "state": "MO", 
       "iface": "vote", 
       "id": 16170117, 
       "question_id": "16169987"
     }, 
     {
-      "city": "San Diego", 
+      "city": "Fenton", 
       "first_name": "Kayla", 
       "last_name": "Wingbermuehle", 
       "user_id": 1544042, 
-      "district": "CA_52", 
+      "district": "MO_02", 
       "created": "2013-08-02T20:27:02", 
-      "state": "CA", 
+      "state": "MO", 
       "iface": "vote", 
       "id": 16170117, 
       "question_id": "16170118"
+    }, 
+    {
+      "city": "Fenton", 
+      "first_name": "Kayla", 
+      "last_name": "Wingbermuehle", 
+      "user_id": 1544042, 
+      "district": "MO_02", 
+      "created": "2013-08-02T20:27:02", 
+      "state": "MO", 
+      "iface": "vote", 
+      "id": 16170117, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Cross Hill", 
