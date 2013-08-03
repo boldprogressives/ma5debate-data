@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "West Salem", 
+      "first_name": "andy", 
+      "last_name": "compton", 
+      "user_id": 1196394, 
+      "submission": "Solar would bring in new jobs and the factorys built in this country you could even run street lights, stop and go lights i know it would help with the citys tax base, becouse i build solar heat exchangers for the low income folks and it works becouse my heating bills run 16.00 dollars a month 2 years ago last year 48 dollars a month why would not want that ?", 
+      "district": "WI_03", 
+      "created": "2013-08-03T23:03:08", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WI", 
+      "iface": "question", 
+      "y": 43.8996, 
+      "x": -91.087000000000003, 
+      "id": 16172866
+    }, 
+    {
       "city": "Austin", 
       "first_name": "John", 
       "last_name": "crawley", 
@@ -214,7 +231,7 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:20:39", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "district_votes": 0, 
       "state": "IL", 
       "iface": "question", 
