@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Austin", 
+      "first_name": "John", 
+      "last_name": "crawley", 
+      "user_id": 661475, 
+      "submission": "It is one thing to maintain operational secrecy; it is another to keep secrets of operations.  Why can't the president come clean about the NSA and CIA business?", 
+      "district": "TX_21", 
+      "created": "2013-08-03T23:00:54", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "TX", 
+      "iface": "question", 
+      "y": 30.208100000000002, 
+      "x": -97.800399999999996, 
+      "id": 16172862
+    }, 
+    {
       "city": "Ponder", 
       "first_name": "Joby", 
       "last_name": "McClendon", 
@@ -180,7 +197,7 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:21:20", 
       "state_votes": 0, 
-      "votes": 2, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "WA", 
       "iface": "question", 
