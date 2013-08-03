@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Waltham", 
+      "first_name": "Todd", 
+      "last_name": "Smith", 
+      "user_id": 1173251, 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "district": "MA_05", 
+      "created": "2013-08-03T17:42:20", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.369900000000001, 
+      "x": -71.236800000000002, 
+      "id": 16172281
+    }, 
+    {
       "city": "Arlington", 
       "first_name": "Jens", 
       "last_name": "Tillmanns", 
