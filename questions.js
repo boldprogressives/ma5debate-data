@@ -3,6 +3,23 @@ opendebate.processFetchedQuestions({
   "entries": [
     {
       "city": "Arlington", 
+      "first_name": "Mary", 
+      "last_name": "Gilbert", 
+      "user_id": 51577, 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "district": "MA_05", 
+      "created": "2013-08-03T17:52:54", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.420699999999997, 
+      "x": -71.158199999999994, 
+      "id": 16172303
+    }, 
+    {
+      "city": "Arlington", 
       "first_name": "Carole", 
       "last_name": "Allen", 
       "user_id": 115388, 
