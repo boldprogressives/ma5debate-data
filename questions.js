@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Montegut", 
+      "first_name": "Penny", 
+      "last_name": "Leboeuf", 
+      "user_id": 1696877, 
+      "submission": "I want to know what is taking so long for the minimum wage to go up, I live in Louisiana and hoping soon to at least 10 to 11 an hour because it's hard to make ends meet.", 
+      "district": "LA_01", 
+      "created": "2013-08-03T23:20:46", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "LA", 
+      "iface": "question", 
+      "y": 29.476700000000001, 
+      "x": -90.543800000000005, 
+      "id": 16172905
+    }, 
+    {
       "city": "West Salem", 
       "first_name": "andy", 
       "last_name": "compton", 
