@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Fox River Grove", 
+      "first_name": "Matthew", 
+      "last_name": "Mascolino", 
+      "user_id": 1648665, 
+      "district": "IL_06", 
+      "created": "2013-08-03T23:57:53", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16173088, 
+      "question_id": "16172913"
+    }, 
+    {
+      "city": "Seattle", 
+      "first_name": "Galen", 
+      "last_name": "Davis", 
+      "user_id": 85019, 
+      "district": "WA_07", 
+      "created": "2013-08-03T23:57:13", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16173081, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Lawrence", 
+      "first_name": "julie", 
+      "last_name": "matchett", 
+      "user_id": 958634, 
+      "district": "KS_02", 
+      "created": "2013-08-03T23:56:53", 
+      "state": "KS", 
+      "iface": "vote", 
+      "id": 16173078, 
+      "question_id": "16172892"
+    }, 
+    {
       "city": "Great Neck", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
