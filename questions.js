@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Winter Park", 
+      "first_name": "Carol", 
+      "last_name": "Sidofsky", 
+      "user_id": 255818, 
+      "submission": "How quickly would you institute SINGLE PAYER, and, how quickly would you make the following becovered by Medicare, etc. : holistic treatments, such as chiropractic, acupuncture, supplements (vitamins, minerals, etc.), massage therapy, organic foods, etc.?", 
+      "district": "CO_02", 
+      "created": "2013-08-03T23:31:54", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "CO", 
+      "iface": "question", 
+      "y": 39.938899999999997, 
+      "x": -105.79600000000001, 
+      "id": 16172934
+    }, 
+    {
       "city": "West Salem", 
       "first_name": "andy", 
       "last_name": "compton", 
@@ -44,7 +61,7 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T23:23:07", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "MT", 
       "iface": "question", 
