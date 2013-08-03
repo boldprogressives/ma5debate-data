@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Arlington", 
+      "first_name": "Thomas", 
+      "last_name": "Pochapsky", 
+      "user_id": 1190435, 
+      "submission": "This district contains a lot of NIH and NSF supported research that directly affects our economy. The budgets for these agencies are at their lowest levels in years, and sequestration has made the situation desperate. How will you change that situation?", 
+      "district": "MA_05", 
+      "created": "2013-08-03T16:40:52", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.411900000000003, 
+      "x": -71.176500000000004, 
+      "id": 16172188
+    }, 
+    {
       "city": "Revere", 
       "first_name": "Sam", 
       "last_name": "Brodie", 
