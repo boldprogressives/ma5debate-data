@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Eldridge", 
+      "first_name": "Danny", 
+      "last_name": "Bynum", 
+      "user_id": 1571323, 
+      "submission": "Do you feel that taxpayers should pay for your health insurance?", 
+      "district": "IA_02", 
+      "created": "2013-08-03T22:08:02", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "IA", 
+      "iface": "question", 
+      "y": 41.663899999999998, 
+      "x": -90.556700000000006, 
+      "id": 16172687
+    }, 
+    {
       "city": "Chandler", 
       "first_name": "Shaun", 
       "last_name": "Walker", 
@@ -10,7 +27,7 @@ opendebate.processFetchedQuestions({
       "district": "AZ_09", 
       "created": "2013-08-03T22:05:50", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "AZ", 
       "iface": "question", 
