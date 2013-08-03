@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Boulder", 
+      "first_name": "Pat", 
+      "last_name": "Lehman", 
+      "user_id": 1714238, 
+      "submission": "What do you feel about the Republican's relentless push to eliminate or seriously curtail abortion rights in most states, and what can be done about it?", 
+      "district": "CO_02", 
+      "created": "2013-08-03T23:16:26", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "CO", 
+      "iface": "question", 
+      "y": 40.0381, 
+      "x": -105.283, 
+      "id": 16172892
+    }, 
+    {
       "city": "Okmulgee", 
       "first_name": "Emily", 
       "last_name": "Pike", 
