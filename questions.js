@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Arlington", 
+      "first_name": "Carole", 
+      "last_name": "Allen", 
+      "user_id": 115388, 
+      "submission": "Investments in early childhood have been found by economists to have a 7 to 1 return on investment. Would you introduce legislation for programs such as newborn home visiting, parenting education and support, and high quality available and affordable early childhood education?", 
+      "district": "MA_05", 
+      "created": "2013-08-03T17:49:49", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.420699999999997, 
+      "x": -71.158199999999994, 
+      "id": 16172296
+    }, 
+    {
       "city": "Cambridge", 
       "first_name": "Ofer", 
       "last_name": "Inbar", 
