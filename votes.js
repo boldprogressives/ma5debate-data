@@ -2,6 +2,66 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Parker", 
+      "first_name": "Steve", 
+      "last_name": "Horneffer", 
+      "user_id": 1592988, 
+      "district": "CO_04", 
+      "created": "2013-08-04T21:43:39", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16175019, 
+      "question_id": "16173921"
+    }, 
+    {
+      "city": "Parker", 
+      "first_name": "Steve", 
+      "last_name": "Horneffer", 
+      "user_id": 1592988, 
+      "district": "CO_04", 
+      "created": "2013-08-04T21:43:25", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16175018, 
+      "question_id": "16172690"
+    }, 
+    {
+      "city": "Parker", 
+      "first_name": "Steve", 
+      "last_name": "Horneffer", 
+      "user_id": 1592988, 
+      "district": "CO_04", 
+      "created": "2013-08-04T21:43:06", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16175017, 
+      "question_id": "16172207"
+    }, 
+    {
+      "city": "Parker", 
+      "first_name": "Steve", 
+      "last_name": "Horneffer", 
+      "user_id": 1592988, 
+      "district": "CO_04", 
+      "created": "2013-08-04T21:42:52", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16175016, 
+      "question_id": "16172731"
+    }, 
+    {
+      "city": "Parker", 
+      "first_name": "Steve", 
+      "last_name": "Horneffer", 
+      "user_id": 1592988, 
+      "district": "CO_04", 
+      "created": "2013-08-04T21:42:28", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16175014, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Livingston", 
       "first_name": "james", 
       "last_name": "lewis", 
