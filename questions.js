@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Baraboo", 
+      "first_name": "John", 
+      "last_name": "Allen", 
+      "user_id": 1773030, 
+      "submission": "Are you willing to support efforts to address the debilitating effects of the congressional policy of winner take all?  This policy has the affect of making civility compromise between the ruling parties virtually impossible.", 
+      "district": "WI_02", 
+      "created": "2013-08-04T15:39:39", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WI", 
+      "iface": "question", 
+      "y": 43.5259, 
+      "x": -89.774000000000001, 
+      "id": 16174098
+    }, 
+    {
       "city": "Wheeler", 
       "first_name": "ronald", 
       "last_name": "minschwaner", 
