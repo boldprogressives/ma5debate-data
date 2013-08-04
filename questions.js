@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Phoenix", 
+      "first_name": "stefan", 
+      "last_name": "bohult", 
+      "user_id": 1140207, 
+      "submission": "Will you vote YES to extending Medicare to everybody?", 
+      "district": "AZ_06", 
+      "created": "2013-08-04T19:07:04", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "AZ", 
+      "iface": "question", 
+      "y": 33.632399999999997, 
+      "x": -112.11199999999999, 
+      "id": 16174319
+    }, 
+    {
       "city": "Montgomery", 
       "first_name": "Debra", 
       "last_name": "Warren", 
