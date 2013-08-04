@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Arlington", 
+      "first_name": "william", 
+      "last_name": "pagan", 
+      "user_id": 1631843, 
+      "district": "TX_06", 
+      "created": "2013-08-04T21:05:42", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16174885, 
+      "question_id": "16174492"
+    }, 
+    {
+      "city": "buda", 
+      "first_name": "s", 
+      "last_name": "scales", 
+      "user_id": 34495, 
+      "district": "TX_21", 
+      "created": "2013-08-04T21:04:49", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16174882, 
+      "question_id": "16174806"
+    }, 
+    {
+      "city": "Pflugerville", 
+      "first_name": "Layne", 
+      "last_name": "Flake", 
+      "user_id": 330862, 
+      "district": "TX_17", 
+      "created": "2013-08-04T21:04:11", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16174879, 
+      "question_id": "16173906"
+    }, 
+    {
       "city": "Pflugerville", 
       "first_name": "Layne", 
       "last_name": "Flake", 
