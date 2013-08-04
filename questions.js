@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Rockwall", 
+      "first_name": "Jon", 
+      "last_name": "Brown", 
+      "user_id": 360870, 
+      "submission": "Why are you members of Congress (along with the the media) treating the American citizen as though everything is an enemy??", 
+      "district": "TX_04", 
+      "created": "2013-08-04T02:28:35", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "TX", 
+      "iface": "question", 
+      "y": 32.869399999999999, 
+      "x": -96.409000000000006, 
+      "id": 16173366
+    }, 
+    {
       "city": "North Sioux City", 
       "first_name": "donald", 
       "last_name": "larson", 
