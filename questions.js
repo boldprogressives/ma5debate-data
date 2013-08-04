@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Park Ridge", 
+      "first_name": "angelo", 
+      "last_name": "sturino", 
+      "user_id": 1632158, 
+      "submission": "The affordable Health care act, , if necessary a modified plan, but to assure all contribute monetary , so the system stands afloat now and the future..... ", 
+      "district": "IL_09", 
+      "created": "2013-08-04T14:29:37", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "IL", 
+      "iface": "question", 
+      "y": 41.9711, 
+      "x": -87.829400000000007, 
+      "id": 16173939
+    }, 
+    {
       "city": "Fort Collins", 
       "first_name": "Tim", 
       "last_name": "Caffrey", 
