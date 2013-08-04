@@ -2,6 +2,78 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Ellensburg", 
+      "first_name": "Sally", 
+      "last_name": "Emerich", 
+      "user_id": 1777631, 
+      "district": "WA_08", 
+      "created": "2013-08-04T21:27:23", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16174994, 
+      "question_id": "16173259"
+    }, 
+    {
+      "city": "Ellensburg", 
+      "first_name": "Sally", 
+      "last_name": "Emerich", 
+      "user_id": 1777631, 
+      "district": "WA_08", 
+      "created": "2013-08-04T21:26:46", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16174993, 
+      "question_id": "16172755"
+    }, 
+    {
+      "city": "Ellensburg", 
+      "first_name": "Sally", 
+      "last_name": "Emerich", 
+      "user_id": 1777631, 
+      "district": "WA_08", 
+      "created": "2013-08-04T21:26:35", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16174992, 
+      "question_id": "16172913"
+    }, 
+    {
+      "city": "Ellensburg", 
+      "first_name": "Sally", 
+      "last_name": "Emerich", 
+      "user_id": 1777631, 
+      "district": "WA_08", 
+      "created": "2013-08-04T21:26:27", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16174991, 
+      "question_id": "16172281"
+    }, 
+    {
+      "city": "Ellensburg", 
+      "first_name": "Sally", 
+      "last_name": "Emerich", 
+      "user_id": 1777631, 
+      "district": "WA_08", 
+      "created": "2013-08-04T21:26:24", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16174990, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Great Neck", 
+      "first_name": "Ethan", 
+      "last_name": "Jucovy", 
+      "user_id": 385575, 
+      "district": "NY_03", 
+      "created": "2013-08-04T21:26:23", 
+      "state": "NY", 
+      "iface": "vote", 
+      "id": 16174989, 
+      "question_id": "16173264"
+    }, 
+    {
       "city": "Excelsior", 
       "first_name": "Richard Paul", 
       "last_name": "Weed", 
