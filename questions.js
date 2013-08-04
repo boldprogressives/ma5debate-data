@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Henderson", 
+      "first_name": "Brett", 
+      "last_name": "Lee", 
+      "user_id": 1773182, 
+      "submission": "How do you plan on educating the public on gilded era pre-union pre-progressive history?", 
+      "district": "NV_03", 
+      "created": "2013-08-04T01:48:33", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NV", 
+      "iface": "question", 
+      "y": 36.0974, 
+      "x": -114.92400000000001, 
+      "id": 16173293
+    }, 
+    {
       "city": "Wichita", 
       "first_name": "Judy", 
       "last_name": "Pennington", 
