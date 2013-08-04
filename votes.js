@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Boston", 
+      "first_name": "Matt", 
+      "last_name": "Wall", 
+      "user_id": 1107053, 
+      "district": "MA_07", 
+      "created": "2013-08-04T22:39:52", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16175294, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Bainbridge Island", 
       "first_name": "Virginia", 
       "last_name": "Velez", 
