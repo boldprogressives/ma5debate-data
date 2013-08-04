@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Lubbock", 
+      "first_name": "Paula", 
+      "last_name": "Harding", 
+      "user_id": 1700535, 
+      "submission": "How can Congress vote on Social Security when it has no bearing on our economy, and is not government money? ", 
+      "district": "TX_19", 
+      "created": "2013-08-04T06:38:17", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "TX", 
+      "iface": "question", 
+      "y": 33.543799999999997, 
+      "x": -101.89, 
+      "id": 16173607
+    }, 
+    {
       "city": "Duluth", 
       "first_name": "Cecilia", 
       "last_name": "Lieder", 
