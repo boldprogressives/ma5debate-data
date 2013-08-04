@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Montgomery", 
+      "first_name": "Debra", 
+      "last_name": "Warren", 
+      "user_id": 1684331, 
+      "submission": "I am the Network Director of the Montgomery Working Women Network of the National Association for Female Executives (MWWN) would like to receive donations to help expand operations of MWWN's Extended Day Program.  MWWN will never receive federal or state funding because it does not have a memorandum of understanding with any Alabama Public Schools.  MWWN would like to have a memorandum of understanding that will allow it to partner with the Montgomery County Public Schools, Dallas County and Selma City Public Schools.  Ms. Debra Warren has a stake and interest in all of the above Public Schools.MWWN has tried to receive federal appropriated funding for almost nine years, and it has recently tried to receive funding via the county, city and state local Alabama governments.  Due to the budget cuts, MWWN will never be included in the above budgets.How can Senator Elizabeth Warren help to make sure that the Montgomery Working Women Network of the National Association for Female Executives (MWWN) is placed on foundations and corporations list of charitable organizations to fund for fiscal years 2013-2016?      ", 
+      "district": "AL_02", 
+      "created": "2013-08-04T18:45:19", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "AL", 
+      "iface": "question", 
+      "y": 32.383699999999997, 
+      "x": -86.132499999999993, 
+      "id": 16174298
+    }, 
+    {
       "city": "Kailua Kona", 
       "first_name": "jc", 
       "last_name": "shannon", 
