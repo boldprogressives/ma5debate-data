@@ -251,7 +251,7 @@ opendebate.processFetchedVotes({
       "state": "MT", 
       "iface": "vote", 
       "id": 16172782, 
-      "question_id": "16173118"
+      "question_id": "16173259"
     }, 
     {
       "city": "Dolton", 
