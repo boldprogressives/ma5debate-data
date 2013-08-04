@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Mililani", 
+      "first_name": "r.", 
+      "last_name": "umeda", 
+      "user_id": 1718946, 
+      "submission": "Simple question. Do you think Wall Street will ever become Clean Street?  YES or NO", 
+      "district": "HI_01", 
+      "created": "2013-08-04T00:44:16", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "HI", 
+      "iface": "question", 
+      "y": 21.447800000000001, 
+      "x": -158.024, 
+      "id": 16173179
+    }, 
+    {
       "city": "Tucson", 
       "first_name": "glenn", 
       "last_name": "martin", 
