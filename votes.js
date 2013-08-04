@@ -35,7 +35,7 @@ opendebate.processFetchedVotes({
       "state": "KS", 
       "iface": "vote", 
       "id": 16173078, 
-      "question_id": "16172892"
+      "question_id": "16172286"
     }, 
     {
       "city": "Great Neck", 
