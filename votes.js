@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Covington", 
+      "first_name": "Carol", 
+      "last_name": "Cooper", 
+      "user_id": 76744, 
+      "district": "LA_01", 
+      "created": "2013-08-04T22:17:10", 
+      "state": "LA", 
+      "iface": "vote", 
+      "id": 16175191, 
+      "question_id": "16172901"
+    }, 
+    {
+      "city": "Covington", 
+      "first_name": "Carol", 
+      "last_name": "Cooper", 
+      "user_id": 76744, 
+      "district": "LA_01", 
+      "created": "2013-08-04T22:16:29", 
+      "state": "LA", 
+      "iface": "vote", 
+      "id": 16175190, 
+      "question_id": "16172765"
+    }, 
+    {
+      "city": "Covington", 
+      "first_name": "Carol", 
+      "last_name": "Cooper", 
+      "user_id": 76744, 
+      "district": "LA_01", 
+      "created": "2013-08-04T22:16:25", 
+      "state": "LA", 
+      "iface": "vote", 
+      "id": 16175189, 
+      "question_id": "16173210"
+    }, 
+    {
+      "city": "Covington", 
+      "first_name": "Carol", 
+      "last_name": "Cooper", 
+      "user_id": 76744, 
+      "district": "LA_01", 
+      "created": "2013-08-04T22:16:15", 
+      "state": "LA", 
+      "iface": "vote", 
+      "id": 16175187, 
+      "question_id": "16172303"
+    }, 
+    {
       "city": "Morrison", 
       "first_name": "Cynthia", 
       "last_name": "Schmidt", 
