@@ -110,6 +110,18 @@ opendebate.processFetchedVotes({
       "question_id": "16172913"
     }, 
     {
+      "city": "Fox River Grove", 
+      "first_name": "Matthew", 
+      "last_name": "Mascolino", 
+      "user_id": 1648665, 
+      "district": "IL_06", 
+      "created": "2013-08-03T23:57:53", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16173088, 
+      "question_id": "16173084"
+    }, 
+    {
       "city": "Seattle", 
       "first_name": "Galen", 
       "last_name": "Davis", 
