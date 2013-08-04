@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Forest Grove", 
+      "first_name": "Chris", 
+      "last_name": "Michel", 
+      "user_id": 1694429, 
+      "submission": "When will we get universal health care? And would you support a single payer system similar to Canada's?", 
+      "district": "OR_01", 
+      "created": "2013-08-04T14:54:08", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "OR", 
+      "iface": "question", 
+      "y": 45.522100000000002, 
+      "x": -123.107, 
+      "id": 16174014
+    }, 
+    {
       "city": "Park Ridge", 
       "first_name": "angelo", 
       "last_name": "sturino", 
