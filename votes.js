@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Austin", 
+      "first_name": "rose", 
+      "last_name": "roma", 
+      "user_id": 1676769, 
+      "district": "TX_25", 
+      "created": "2013-08-04T23:15:52", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16175377, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Austin", 
+      "first_name": "rose", 
+      "last_name": "roma", 
+      "user_id": 1676769, 
+      "district": "TX_25", 
+      "created": "2013-08-04T23:15:46", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16175376, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Austin", 
+      "first_name": "rose", 
+      "last_name": "roma", 
+      "user_id": 1676769, 
+      "district": "TX_25", 
+      "created": "2013-08-04T23:15:39", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16175375, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Oshkosh", 
       "first_name": "John Sheldon", 
       "last_name": "Sheldon", 
