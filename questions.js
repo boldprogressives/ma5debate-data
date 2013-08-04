@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "st.charles", 
+      "first_name": "Rosemary", 
+      "last_name": "Schroeder", 
+      "user_id": 226396, 
+      "submission": "How do we get across to the general public that our public education schools belong to US, our taxes, our rule and NOT TO for-profit CORPORATIONS....this is treason, taking our voting and right to rule our own schools away from us. CORPORATOCRACY in everything....but the schools are the last straw.", 
+      "district": "IL_06", 
+      "created": "2013-08-04T13:40:24", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "IL", 
+      "iface": "question", 
+      "y": 41.921999999999997, 
+      "x": -88.304199999999994, 
+      "id": 16173767
+    }, 
+    {
       "city": "Vashon", 
       "first_name": "Briana", 
       "last_name": "Carson", 
