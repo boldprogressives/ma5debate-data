@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "North Sioux City", 
+      "first_name": "donald", 
+      "last_name": "larson", 
+      "user_id": 1765974, 
+      "submission": "For all five candidates:  How did the Wealthiest; and, leading Creditor Nation, in the World, in 1977; become the Poorest; and Major Debtor Nation  in the World - - all within a period of just 35 years?", 
+      "district": "SD_01", 
+      "created": "2013-08-04T02:13:52", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "SD", 
+      "iface": "question", 
+      "y": 42.528100000000002, 
+      "x": -96.503299999999996, 
+      "id": 16173341
+    }, 
+    {
       "city": "Albuquerque", 
       "first_name": "Jeffrey", 
       "last_name": "Dempsey", 
