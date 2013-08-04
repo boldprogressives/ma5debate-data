@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "North Las Vegas", 
+      "first_name": "Shirley", 
+      "last_name": "Fife", 
+      "user_id": 1210612, 
+      "district": "NV_04", 
+      "created": "2013-08-04T20:48:03", 
+      "state": "NV", 
+      "iface": "vote", 
+      "id": 16174762, 
+      "question_id": "16173404"
+    }, 
+    {
+      "city": "Amarillo", 
+      "first_name": "Randall", 
+      "last_name": "Robinson", 
+      "user_id": 744650, 
+      "district": "TX_13", 
+      "created": "2013-08-04T20:47:36", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16174758, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Wheat Ridge", 
+      "first_name": "Larry", 
+      "last_name": "Christman", 
+      "user_id": 1774269, 
+      "district": "CO_07", 
+      "created": "2013-08-04T20:47:03", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16174755, 
+      "question_id": "16174143"
+    }, 
+    {
+      "city": "Wheat Ridge", 
+      "first_name": "Larry", 
+      "last_name": "Christman", 
+      "user_id": 1774269, 
+      "district": "CO_07", 
+      "created": "2013-08-04T20:46:40", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16174753, 
+      "question_id": "16174109"
+    }, 
+    {
       "city": "Wheat Ridge", 
       "first_name": "Larry", 
       "last_name": "Christman", 
