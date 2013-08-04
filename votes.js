@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Fort Collins", 
+      "first_name": "john", 
+      "last_name": "florack", 
+      "user_id": 1773387, 
+      "district": "CO_02", 
+      "created": "2013-08-04T14:14:52", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16173909, 
+      "question_id": "16173553"
+    }, 
+    {
       "city": "Westland", 
       "first_name": "Patricia", 
       "last_name": "Linna", 
