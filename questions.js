@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Lewistown", 
+      "first_name": "Jim", 
+      "last_name": "Sennett", 
+      "user_id": 1726025, 
+      "submission": "Why is the multinational corporations are running our country. This is as far from a democracy as it gets. It's a disgrace that our representatives belong to big oil and big drugs?", 
+      "district": "MT_01", 
+      "created": "2013-08-04T11:33:59", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MT", 
+      "iface": "question", 
+      "y": 47.049799999999998, 
+      "x": -109.425, 
+      "id": 16173690
+    }, 
+    {
       "city": "Salina", 
       "first_name": "Deborah", 
       "last_name": "Divine", 
