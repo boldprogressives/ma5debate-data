@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Cape Girardeau", 
+      "first_name": "Bill", 
+      "last_name": "Blank", 
+      "user_id": 1683905, 
+      "district": "MO_08", 
+      "created": "2013-08-04T15:03:35", 
+      "state": "MO", 
+      "iface": "vote", 
+      "id": 16174045, 
+      "question_id": "16174044"
+    }, 
+    {
+      "city": "Richland", 
+      "first_name": "Donald", 
+      "last_name": "Clarke", 
+      "user_id": 1673521, 
+      "district": "WA_04", 
+      "created": "2013-08-04T15:02:57", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16174042, 
+      "question_id": "16173921"
+    }, 
+    {
+      "city": "Richland", 
+      "first_name": "Donald", 
+      "last_name": "Clarke", 
+      "user_id": 1673521, 
+      "district": "WA_04", 
+      "created": "2013-08-04T15:02:31", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16174040, 
+      "question_id": "16173913"
+    }, 
+    {
       "city": "Richland", 
       "first_name": "Donald", 
       "last_name": "Clarke", 
