@@ -387,8 +387,8 @@ opendebate.processFetchedVotes({
     }, 
     {
       "city": "Washington", 
-      "first_name": "Michael", 
-      "last_name": "Snook", 
+      "first_name": "michael", 
+      "last_name": "snook", 
       "user_id": 1014049, 
       "district": "DC_01", 
       "created": "2013-08-02T19:25:21", 
@@ -399,8 +399,8 @@ opendebate.processFetchedVotes({
     }, 
     {
       "city": "Washington", 
-      "first_name": "Michael", 
-      "last_name": "Snook", 
+      "first_name": "michael", 
+      "last_name": "snook", 
       "user_id": 1014049, 
       "district": "DC_01", 
       "created": "2013-08-02T19:25:21", 
@@ -411,8 +411,8 @@ opendebate.processFetchedVotes({
     }, 
     {
       "city": "Washington", 
-      "first_name": "Michael", 
-      "last_name": "Snook", 
+      "first_name": "michael", 
+      "last_name": "snook", 
       "user_id": 1014049, 
       "district": "DC_01", 
       "created": "2013-08-02T19:25:21", 
