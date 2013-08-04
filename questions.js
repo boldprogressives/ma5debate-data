@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Fort Collins", 
+      "first_name": "john", 
+      "last_name": "florack", 
+      "user_id": 1773387, 
+      "submission": "Do you support or oppose the expansion of Social Security benefits?", 
+      "district": "CO_02", 
+      "created": "2013-08-04T14:10:15", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "CO", 
+      "iface": "question", 
+      "y": 40.534199999999998, 
+      "x": -105.04300000000001, 
+      "id": 16173895
+    }, 
+    {
       "city": "st.charles", 
       "first_name": "Rosemary", 
       "last_name": "Schroeder", 
