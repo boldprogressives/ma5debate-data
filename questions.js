@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Muscatine", 
+      "first_name": "Lynda", 
+      "last_name": "Smith", 
+      "user_id": 229629, 
+      "submission": "What do you think of President Obama and his policies and what would you do to help or hurt him and what he wants to get done?", 
+      "district": "IA_02", 
+      "created": "2013-08-04T04:41:14", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "IA", 
+      "iface": "question", 
+      "y": 41.4358, 
+      "x": -90.904399999999995, 
+      "id": 16173544
+    }, 
+    {
       "city": "South Milwaukee", 
       "first_name": "John", 
       "last_name": "Riggins", 
