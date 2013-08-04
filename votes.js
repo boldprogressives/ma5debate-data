@@ -11,7 +11,7 @@ opendebate.processFetchedVotes({
       "state": "MT", 
       "iface": "vote", 
       "id": 16173951, 
-      "question_id": "16173320"
+      "question_id": "16173259"
     }, 
     {
       "city": "Fort Collins", 
