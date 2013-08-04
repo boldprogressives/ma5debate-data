@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Minneapolis", 
+      "first_name": "Gary", 
+      "last_name": "Ruschman", 
+      "user_id": 745083, 
+      "submission": "Dear candidates: how can we keep the progress we've made in  getting health care for all people, not just those who can afford it?", 
+      "district": "MN_05", 
+      "created": "2013-08-04T03:14:10", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MN", 
+      "iface": "question", 
+      "y": 44.946800000000003, 
+      "x": -93.290999999999997, 
+      "id": 16173412
+    }, 
+    {
       "city": "Grand Coulee", 
       "first_name": "John", 
       "last_name": "Eschen", 
