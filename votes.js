@@ -2,6 +2,66 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Shawano", 
+      "first_name": "Leone", 
+      "last_name": "Sch;neidewend", 
+      "user_id": 1150901, 
+      "district": "WI_08", 
+      "created": "2013-08-04T19:54:02", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16174423, 
+      "question_id": "16172731"
+    }, 
+    {
+      "city": "Shawano", 
+      "first_name": "Leone", 
+      "last_name": "Sch;neidewend", 
+      "user_id": 1150901, 
+      "district": "WI_08", 
+      "created": "2013-08-04T19:53:47", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16174421, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Shawano", 
+      "first_name": "Leone", 
+      "last_name": "Sch;neidewend", 
+      "user_id": 1150901, 
+      "district": "WI_08", 
+      "created": "2013-08-04T19:53:35", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16174420, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Shawano", 
+      "first_name": "Leone", 
+      "last_name": "Sch;neidewend", 
+      "user_id": 1150901, 
+      "district": "WI_08", 
+      "created": "2013-08-04T19:53:21", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16174417, 
+      "question_id": "16173921"
+    }, 
+    {
+      "city": "Houston", 
+      "first_name": "Alexandru", 
+      "last_name": "Gagniuc", 
+      "user_id": 1372811, 
+      "district": "TX_07", 
+      "created": "2013-08-04T19:52:27", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16174415, 
+      "question_id": "16174342"
+    }, 
+    {
       "city": "Nashville", 
       "first_name": "Katherine", 
       "last_name": "Harris", 
