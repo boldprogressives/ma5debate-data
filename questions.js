@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Wheeler", 
+      "first_name": "ronald", 
+      "last_name": "minschwaner", 
+      "user_id": 1699697, 
+      "submission": "Why don't we change the lobbying rules so that we do not have a system that legalizes bribery, and why do we not reform the filibuster so congress does not have an excuse to continue doing nothing ?", 
+      "district": "OR_05", 
+      "created": "2013-08-04T15:18:55", 
+      "state_votes": 0, 
+      "votes": 1, 
+      "district_votes": 0, 
+      "state": "OR", 
+      "iface": "question", 
+      "y": 45.689799999999998, 
+      "x": -123.884, 
+      "id": 16174072
+    }, 
+    {
       "city": "Cape Girardeau", 
       "first_name": "Bill", 
       "last_name": "Blank", 
@@ -1251,7 +1268,7 @@ opendebate.processFetchedQuestions({
       "district": "NE_02", 
       "created": "2013-08-04T00:24:46", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "district_votes": 0, 
       "state": "NE", 
       "iface": "question", 
