@@ -3,6 +3,23 @@ opendebate.processFetchedQuestions({
   "entries": [
     {
       "city": "Fort Collins", 
+      "first_name": "Tim", 
+      "last_name": "Caffrey", 
+      "user_id": 111432, 
+      "submission": "What is your stance on the \"Fairness Doctrine\" and will you help get back on the books at the FCC?", 
+      "district": "CO_02", 
+      "created": "2013-08-04T14:27:11", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "CO", 
+      "iface": "question", 
+      "y": 40.534199999999998, 
+      "x": -105.04300000000001, 
+      "id": 16173929
+    }, 
+    {
+      "city": "Fort Collins", 
       "first_name": "john", 
       "last_name": "florack", 
       "user_id": 1773387, 
