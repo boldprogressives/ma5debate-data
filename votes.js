@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Beaverton", 
+      "first_name": "Garret", 
+      "last_name": "Wong", 
+      "user_id": 1205623, 
+      "district": "OR_01", 
+      "created": "2013-08-04T00:58:14", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16173204, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Fox River Grove", 
       "first_name": "Matthew", 
       "last_name": "Mascolino", 
