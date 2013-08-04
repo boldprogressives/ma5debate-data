@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Morrison", 
+      "first_name": "Cynthia", 
+      "last_name": "Schmidt", 
+      "user_id": 1716081, 
+      "district": "CO_02", 
+      "created": "2013-08-04T22:12:26", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16175167, 
+      "question_id": "16172733"
+    }, 
+    {
       "city": "Saint Cloud", 
       "first_name": "Diana", 
       "last_name": "Rush", 
@@ -147,7 +159,7 @@ opendebate.processFetchedVotes({
     }, 
     {
       "city": "Covington", 
-      "first_name": "Clint", 
+      "first_name": "Carol", 
       "last_name": "Cooper", 
       "user_id": 76744, 
       "district": "LA_01", 
@@ -279,7 +291,7 @@ opendebate.processFetchedVotes({
     }, 
     {
       "city": "Covington", 
-      "first_name": "Clint", 
+      "first_name": "Carol", 
       "last_name": "Cooper", 
       "user_id": 76744, 
       "district": "LA_01", 
@@ -327,7 +339,7 @@ opendebate.processFetchedVotes({
     }, 
     {
       "city": "Covington", 
-      "first_name": "Clint", 
+      "first_name": "Carol", 
       "last_name": "Cooper", 
       "user_id": 76744, 
       "district": "LA_01", 
@@ -363,7 +375,7 @@ opendebate.processFetchedVotes({
     }, 
     {
       "city": "Covington", 
-      "first_name": "Clint", 
+      "first_name": "Carol", 
       "last_name": "Cooper", 
       "user_id": 76744, 
       "district": "LA_01", 
@@ -411,7 +423,7 @@ opendebate.processFetchedVotes({
     }, 
     {
       "city": "Covington", 
-      "first_name": "Clint", 
+      "first_name": "Carol", 
       "last_name": "Cooper", 
       "user_id": 76744, 
       "district": "LA_01", 
@@ -459,7 +471,7 @@ opendebate.processFetchedVotes({
     }, 
     {
       "city": "Covington", 
-      "first_name": "Clint", 
+      "first_name": "Carol", 
       "last_name": "Cooper", 
       "user_id": 76744, 
       "district": "LA_01", 

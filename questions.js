@@ -2696,7 +2696,7 @@ opendebate.processFetchedQuestions({
       "district": "WA_03", 
       "created": "2013-08-03T22:21:40", 
       "state_votes": 0, 
-      "votes": 2, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "WA", 
       "iface": "question", 
