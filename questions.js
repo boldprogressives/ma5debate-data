@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Winter Park", 
+      "first_name": "Carol", 
+      "last_name": "Sidofsky", 
+      "user_id": 255818, 
+      "submission": "When will you say that Edward Snowden is a hero/whistleblower, and when will you condemn those who hate the messenger, rather than dealing with the important messages that whistleblowers like Ed give us?", 
+      "district": "CO_02", 
+      "created": "2013-08-04T01:42:09", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "CO", 
+      "iface": "question", 
+      "y": 39.938899999999997, 
+      "x": -105.79600000000001, 
+      "id": 16173280
+    }, 
+    {
       "city": "Las Vegas", 
       "first_name": "Kirk", 
       "last_name": "Bonds", 
