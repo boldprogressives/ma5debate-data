@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Las Vegas", 
+      "first_name": "Kirk", 
+      "last_name": "Bonds", 
+      "user_id": 966666, 
+      "submission": "Having lived 66 years in border states and live now in a community of 85% Hispanics, please tell us what you and we can do to integrate these people, some with roots 400 years and others newer into our nation.", 
+      "district": "NM_03", 
+      "created": "2013-08-04T01:30:51", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NM", 
+      "iface": "question", 
+      "y": 35.590200000000003, 
+      "x": -105.19799999999999, 
+      "id": 16173271
+    }, 
+    {
       "city": "Prosper", 
       "first_name": "Jeffrey", 
       "last_name": "Wallace", 
