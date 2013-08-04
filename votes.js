@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "North Sioux City", 
+      "first_name": "donald", 
+      "last_name": "larson", 
+      "user_id": 1765974, 
+      "district": "SD_01", 
+      "created": "2013-08-04T02:06:44", 
+      "state": "SD", 
+      "iface": "vote", 
+      "id": 16173333, 
+      "question_id": "16173264"
+    }, 
+    {
       "city": "Henderson", 
       "first_name": "Brett", 
       "last_name": "Lee", 
