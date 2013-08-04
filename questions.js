@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Albuquerque", 
+      "first_name": "Jeffrey", 
+      "last_name": "Dempsey", 
+      "user_id": 1598463, 
+      "submission": "What has Israel done for US?", 
+      "district": "NM_01", 
+      "created": "2013-08-04T02:09:32", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NM", 
+      "iface": "question", 
+      "y": 35.079099999999997, 
+      "x": -106.617, 
+      "id": 16173338
+    }, 
+    {
       "city": "Louisville", 
       "first_name": "Luther", 
       "last_name": "Johnson", 
