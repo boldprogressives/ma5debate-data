@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Forest Grove", 
+      "first_name": "Chris", 
+      "last_name": "Michel", 
+      "user_id": 1694429, 
+      "district": "OR_01", 
+      "created": "2013-08-04T14:59:19", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16174032, 
+      "question_id": "16172913"
+    }, 
+    {
       "city": "Helena", 
       "first_name": "Robin", 
       "last_name": "Maynard", 
@@ -11,7 +23,7 @@ opendebate.processFetchedVotes({
       "state": "MT", 
       "iface": "vote", 
       "id": 16173951, 
-      "question_id": "16172941"
+      "question_id": "16172804"
     }, 
     {
       "city": "Fort Collins", 
