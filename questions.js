@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Grand Coulee", 
+      "first_name": "John", 
+      "last_name": "Eschen", 
+      "user_id": 1685584, 
+      "submission": "What do you intend to do to change the problems in DC?", 
+      "district": "WA_04", 
+      "created": "2013-08-04T03:12:20", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WA", 
+      "iface": "question", 
+      "y": 47.929900000000004, 
+      "x": -118.999, 
+      "id": 16173411
+    }, 
+    {
       "city": "Killeen", 
       "first_name": "George", 
       "last_name": "Dare", 
