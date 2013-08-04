@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Franklin", 
+      "first_name": "Maxwell", 
+      "last_name": "Morrongiello", 
+      "user_id": 179554, 
+      "district": "MA_04", 
+      "created": "2013-08-04T23:45:51", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16175455, 
+      "question_id": "16172207"
+    }, 
+    {
+      "city": "Franklin", 
+      "first_name": "Maxwell", 
+      "last_name": "Morrongiello", 
+      "user_id": 179554, 
+      "district": "MA_04", 
+      "created": "2013-08-04T23:44:40", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16175451, 
+      "question_id": "16172913"
+    }, 
+    {
       "city": "Albuquerque", 
       "first_name": "Nancy", 
       "last_name": "Dailey", 
