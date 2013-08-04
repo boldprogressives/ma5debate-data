@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Salt Lake City", 
+      "first_name": "linda", 
+      "last_name": "freedman", 
+      "user_id": 1716576, 
+      "submission": "What do you believe to be the primary reasons for the polarization of congress please give your solutions to resolve the stalemate ", 
+      "district": "UT_03", 
+      "created": "2013-08-04T22:05:03", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "UT", 
+      "iface": "question", 
+      "y": 40.6858, 
+      "x": -111.82899999999999, 
+      "id": 16175101
+    }, 
+    {
       "city": "Mount Horeb", 
       "first_name": "Irene", 
       "last_name": "Schmidt", 
