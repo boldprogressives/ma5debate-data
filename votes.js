@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Great Neck", 
+      "first_name": "Ethan", 
+      "last_name": "Jucovy", 
+      "user_id": 1195198, 
+      "district": "NY_03", 
+      "created": "2013-08-04T15:56:17", 
+      "state": "NY", 
+      "iface": "vote", 
+      "id": 16174114, 
+      "question_id": "16172303"
+    }, 
+    {
       "city": "Helena", 
       "first_name": "Bob", 
       "last_name": "Balhiser", 
