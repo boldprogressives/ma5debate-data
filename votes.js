@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Bainbridge Island", 
+      "first_name": "Virginia", 
+      "last_name": "Velez", 
+      "user_id": 118238, 
+      "district": "WA_06", 
+      "created": "2013-08-04T22:36:01", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16175280, 
+      "question_id": "16174951"
+    }, 
+    {
+      "city": "Tulsa", 
+      "first_name": "Debbie", 
+      "last_name": "Saunders", 
+      "user_id": 887765, 
+      "district": "OK_01", 
+      "created": "2013-08-04T22:34:29", 
+      "state": "OK", 
+      "iface": "vote", 
+      "id": 16175271, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Albuquerque", 
       "first_name": "Ann", 
       "last_name": "Williams", 
