@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Mountainair", 
+      "first_name": "Jantina", 
+      "last_name": "Eshleman", 
+      "user_id": 1706823, 
+      "district": "NM_01", 
+      "created": "2013-08-04T23:01:05", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16175339, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Redmond", 
+      "first_name": "Christine Richardson", 
+      "last_name": "Richardson", 
+      "user_id": 688587, 
+      "district": "OR_02", 
+      "created": "2013-08-04T23:00:46", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16175337, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Redmond", 
+      "first_name": "Christine Richardson", 
+      "last_name": "Richardson", 
+      "user_id": 688587, 
+      "district": "OR_02", 
+      "created": "2013-08-04T23:00:39", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16175336, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Redmond", 
+      "first_name": "Christine Richardson", 
+      "last_name": "Richardson", 
+      "user_id": 688587, 
+      "district": "OR_02", 
+      "created": "2013-08-04T23:00:30", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16175335, 
+      "question_id": "16172727"
+    }, 
+    {
       "city": "San Juan", 
       "first_name": "Miguel", 
       "last_name": "Gimenez", 
