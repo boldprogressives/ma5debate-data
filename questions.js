@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "San Juan", 
+      "first_name": "Miguel", 
+      "last_name": "Gimenez", 
+      "user_id": 904119, 
+      "submission": "When are we going to prosecute Wall Street Banksters ?", 
+      "district": "PR_01", 
+      "created": "2013-08-04T22:51:29", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "PR", 
+      "iface": "question", 
+      "y": 18.385200000000001, 
+      "x": -66.063100000000006, 
+      "id": 16175312
+    }, 
+    {
       "city": "Covington", 
       "first_name": "Carol", 
       "last_name": "Cooper", 
