@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Kerrville", 
+      "first_name": "Jay", 
+      "last_name": "Doubleday", 
+      "user_id": 297648, 
+      "submission": "Will you work to reduce national security spending to the level of 2000?", 
+      "district": "TX_21", 
+      "created": "2013-08-04T01:04:21", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "TX", 
+      "iface": "question", 
+      "y": 30.038799999999998, 
+      "x": -99.151300000000006, 
+      "id": 16173216
+    }, 
+    {
       "city": "Austin", 
       "first_name": "Bill", 
       "last_name": "Kryzanowski", 
