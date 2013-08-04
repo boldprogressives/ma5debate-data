@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Beaverton", 
+      "first_name": "Garret", 
+      "last_name": "Wong", 
+      "user_id": 1205623, 
+      "submission": "Perpetual wars are killing our economy, and in my opinion, do not do much to protect our liberties. What are your opinions on military spending as it currently stands?", 
+      "district": "OR_01", 
+      "created": "2013-08-04T00:46:08", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "OR", 
+      "iface": "question", 
+      "y": 45.458300000000001, 
+      "x": -122.797, 
+      "id": 16173184
+    }, 
+    {
       "city": "Mililani", 
       "first_name": "r.", 
       "last_name": "umeda", 
