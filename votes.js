@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Kailua Kona", 
+      "first_name": "jc", 
+      "last_name": "shannon", 
+      "user_id": 1705895, 
+      "district": "HI_02", 
+      "created": "2013-08-04T18:15:17", 
+      "state": "HI", 
+      "iface": "vote", 
+      "id": 16174262, 
+      "question_id": "16172727"
+    }, 
+    {
       "city": "Fremont", 
       "first_name": "Jo", 
       "last_name": "Malone Kilgore", 
