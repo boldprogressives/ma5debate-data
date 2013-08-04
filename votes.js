@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Oshkosh", 
+      "first_name": "John Sheldon", 
+      "last_name": "Sheldon", 
+      "user_id": 1771771, 
+      "district": "WI_06", 
+      "created": "2013-08-04T23:07:28", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16175368, 
+      "question_id": "16173335"
+    }, 
+    {
+      "city": "Oshkosh", 
+      "first_name": "John Sheldon", 
+      "last_name": "Sheldon", 
+      "user_id": 1771771, 
+      "district": "WI_06", 
+      "created": "2013-08-04T23:06:54", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16175363, 
+      "question_id": "16172755"
+    }, 
+    {
       "city": "ashland", 
       "first_name": "Esther", 
       "last_name": "Nitzberg", 
