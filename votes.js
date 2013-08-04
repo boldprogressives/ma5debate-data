@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Fremont", 
+      "first_name": "Jo", 
+      "last_name": "Malone Kilgore", 
+      "user_id": 1754856, 
+      "district": "NE_01", 
+      "created": "2013-08-04T18:05:39", 
+      "state": "NE", 
+      "iface": "vote", 
+      "id": 16174241, 
+      "question_id": "16172281"
+    }, 
+    {
+      "city": "Fremont", 
+      "first_name": "Jo", 
+      "last_name": "Malone Kilgore", 
+      "user_id": 1754856, 
+      "district": "NE_01", 
+      "created": "2013-08-04T18:05:31", 
+      "state": "NE", 
+      "iface": "vote", 
+      "id": 16174240, 
+      "question_id": "16172731"
+    }, 
+    {
+      "city": "Fremont", 
+      "first_name": "Jo", 
+      "last_name": "Malone Kilgore", 
+      "user_id": 1754856, 
+      "district": "NE_01", 
+      "created": "2013-08-04T18:05:25", 
+      "state": "NE", 
+      "iface": "vote", 
+      "id": 16174238, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Fremont", 
+      "first_name": "Jo", 
+      "last_name": "Malone Kilgore", 
+      "user_id": 1754856, 
+      "district": "NE_01", 
+      "created": "2013-08-04T18:05:20", 
+      "state": "NE", 
+      "iface": "vote", 
+      "id": 16174237, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "Ottawa", 
       "first_name": "Drew", 
       "last_name": "McConville", 
