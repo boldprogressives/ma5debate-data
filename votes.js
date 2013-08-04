@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Austin", 
+      "first_name": "Paul", 
+      "last_name": "Elliott", 
+      "user_id": 210390, 
+      "district": "TX_25", 
+      "created": "2013-08-04T21:59:43", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16175091, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Austin", 
+      "first_name": "Paul", 
+      "last_name": "Elliott", 
+      "user_id": 210390, 
+      "district": "TX_25", 
+      "created": "2013-08-04T21:59:17", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16175089, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Bloomsdale", 
+      "first_name": "barbara", 
+      "last_name": "fisher", 
+      "user_id": 1656320, 
+      "district": "MO_08", 
+      "created": "2013-08-04T21:58:14", 
+      "state": "MO", 
+      "iface": "vote", 
+      "id": 16175088, 
+      "question_id": "16172727"
+    }, 
+    {
       "city": "Mount Horeb", 
       "first_name": "Irene", 
       "last_name": "Schmidt", 
