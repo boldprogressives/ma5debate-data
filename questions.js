@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "New Orleans", 
+      "first_name": "Joseph", 
+      "last_name": "Desvignes Jr", 
+      "user_id": 1726082, 
+      "submission": "do you support a min wage increase", 
+      "district": "LA_02", 
+      "created": "2013-08-04T07:58:27", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "LA", 
+      "iface": "question", 
+      "y": 29.969200000000001, 
+      "x": -90.029600000000002, 
+      "id": 16173625
+    }, 
+    {
       "city": "Lubbock", 
       "first_name": "Paula", 
       "last_name": "Harding", 
