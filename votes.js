@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Nashville", 
+      "first_name": "Katherine", 
+      "last_name": "Harris", 
+      "user_id": 1186853, 
+      "district": "TN_05", 
+      "created": "2013-08-04T19:49:56", 
+      "state": "TN", 
+      "iface": "vote", 
+      "id": 16174400, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Houston", 
+      "first_name": "Alexandru", 
+      "last_name": "Gagniuc", 
+      "user_id": 1372811, 
+      "district": "TX_07", 
+      "created": "2013-08-04T19:49:30", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16174395, 
+      "question_id": "16174394"
+    }, 
+    {
+      "city": "Rock Island", 
+      "first_name": "Amalie", 
+      "last_name": "Callahan", 
+      "user_id": 1694153, 
+      "district": "IL_17", 
+      "created": "2013-08-04T19:49:21", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16174393, 
+      "question_id": "16172303"
+    }, 
+    {
       "city": "Mosinee", 
       "first_name": "nathaniel", 
       "last_name": "earl", 
