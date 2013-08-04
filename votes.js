@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Livingston", 
+      "first_name": "james", 
+      "last_name": "lewis", 
+      "user_id": 1738647, 
+      "district": "MT_01", 
+      "created": "2013-08-04T21:41:36", 
+      "state": "MT", 
+      "iface": "vote", 
+      "id": 16175010, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Kingsland", 
       "first_name": "Charles", 
       "last_name": "Cook", 

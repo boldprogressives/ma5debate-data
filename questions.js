@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Iuka", 
+      "first_name": "Conrad", 
+      "last_name": "Plonski", 
+      "user_id": 1700369, 
+      "submission": "Agree on our candidate get all the support possible to beat a G.O.P. rival.", 
+      "district": "MS_01", 
+      "created": "2013-08-04T21:40:24", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MS", 
+      "iface": "question", 
+      "y": 34.827199999999998, 
+      "x": -88.216499999999996, 
+      "id": 16175008
+    }, 
+    {
       "city": "Woodland Park", 
       "first_name": "Michael", 
       "last_name": "Haase", 
@@ -2526,7 +2543,7 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
       "state_votes": 0, 
-      "votes": 48, 
+      "votes": 49, 
       "district_votes": 0, 
       "state": "MT", 
       "iface": "question", 
