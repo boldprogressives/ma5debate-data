@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Kelso", 
+      "first_name": "Bernie", 
+      "last_name": "Altman", 
+      "user_id": 1691999, 
+      "submission": "Would you be in favor of replacing all current systems of revenue with  continuously graduated income and profits taxes?", 
+      "district": "WA_03", 
+      "created": "2013-08-04T18:24:43", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WA", 
+      "iface": "question", 
+      "y": 46.144799999999996, 
+      "x": -122.88, 
+      "id": 16174273
+    }, 
+    {
       "city": "Minneapolis", 
       "first_name": "richard", 
       "last_name": "laybourn", 
