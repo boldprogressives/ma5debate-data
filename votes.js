@@ -2,6 +2,66 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "North Las Vegas", 
+      "first_name": "Shirley", 
+      "last_name": "Fife", 
+      "user_id": 1210612, 
+      "district": "NV_04", 
+      "created": "2013-08-04T20:34:59", 
+      "state": "NV", 
+      "iface": "vote", 
+      "id": 16174699, 
+      "question_id": "16173327"
+    }, 
+    {
+      "city": "Birmingham", 
+      "first_name": "Richard", 
+      "last_name": "Izzi", 
+      "user_id": 1770050, 
+      "district": "AL_07", 
+      "created": "2013-08-04T20:34:48", 
+      "state": "AL", 
+      "iface": "vote", 
+      "id": 16174696, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Mount Vernon", 
+      "first_name": "LESLIE", 
+      "last_name": "VINSON", 
+      "user_id": 1774306, 
+      "district": "IL_12", 
+      "created": "2013-08-04T20:34:42", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16174695, 
+      "question_id": "16174466"
+    }, 
+    {
+      "city": "Mount Vernon", 
+      "first_name": "LESLIE", 
+      "last_name": "VINSON", 
+      "user_id": 1774306, 
+      "district": "IL_12", 
+      "created": "2013-08-04T20:34:38", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16174694, 
+      "question_id": "16174483"
+    }, 
+    {
+      "city": "North Las Vegas", 
+      "first_name": "Shirley", 
+      "last_name": "Fife", 
+      "user_id": 1210612, 
+      "district": "NV_04", 
+      "created": "2013-08-04T20:34:36", 
+      "state": "NV", 
+      "iface": "vote", 
+      "id": 16174692, 
+      "question_id": "16173341"
+    }, 
+    {
       "city": "Mount Vernon", 
       "first_name": "LESLIE", 
       "last_name": "VINSON", 
