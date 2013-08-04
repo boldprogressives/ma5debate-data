@@ -2,6 +2,78 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Georgetown", 
+      "first_name": "Nita", 
+      "last_name": "Hornbeck", 
+      "user_id": 1665114, 
+      "district": "TX_31", 
+      "created": "2013-08-04T19:41:45", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16174365, 
+      "question_id": "16172755"
+    }, 
+    {
+      "city": "Georgetown", 
+      "first_name": "Nita", 
+      "last_name": "Hornbeck", 
+      "user_id": 1665114, 
+      "district": "TX_31", 
+      "created": "2013-08-04T19:40:55", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16174362, 
+      "question_id": "16172542"
+    }, 
+    {
+      "city": "Des Moines", 
+      "first_name": "Mandy", 
+      "last_name": "Harris", 
+      "user_id": 977061, 
+      "district": "IA_03", 
+      "created": "2013-08-04T19:40:55", 
+      "state": "IA", 
+      "iface": "vote", 
+      "id": 16174363, 
+      "question_id": "16173921"
+    }, 
+    {
+      "city": "Des Moines", 
+      "first_name": "Mandy", 
+      "last_name": "Harris", 
+      "user_id": 977061, 
+      "district": "IA_03", 
+      "created": "2013-08-04T19:40:35", 
+      "state": "IA", 
+      "iface": "vote", 
+      "id": 16174360, 
+      "question_id": "16172303"
+    }, 
+    {
+      "city": "Des Moines", 
+      "first_name": "Mandy", 
+      "last_name": "Harris", 
+      "user_id": 977061, 
+      "district": "IA_03", 
+      "created": "2013-08-04T19:40:28", 
+      "state": "IA", 
+      "iface": "vote", 
+      "id": 16174359, 
+      "question_id": "16172533"
+    }, 
+    {
+      "city": "Georgetown", 
+      "first_name": "Nita", 
+      "last_name": "Hornbeck", 
+      "user_id": 1665114, 
+      "district": "TX_31", 
+      "created": "2013-08-04T19:40:09", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16174356, 
+      "question_id": "16173264"
+    }, 
+    {
       "city": "Annandale", 
       "first_name": "al", 
       "last_name": "eisentrager", 
