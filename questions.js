@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Las Vegas", 
+      "first_name": "William", 
+      "last_name": "Schnabel", 
+      "user_id": 53464, 
+      "submission": "Why aren't there any 3rd party candidates there? When are we overturning Citizens United? The most important question :Why should anyone believe anything you say? ", 
+      "district": "NV_04", 
+      "created": "2013-08-04T03:51:32", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NV", 
+      "iface": "question", 
+      "y": 36.283799999999999, 
+      "x": -115.306, 
+      "id": 16173490
+    }, 
+    {
       "city": "Bridgeport", 
       "first_name": "Passa", 
       "last_name": "Caglia", 
