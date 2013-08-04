@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Minneapolis", 
+      "first_name": "richard", 
+      "last_name": "laybourn", 
+      "user_id": 1122023, 
+      "submission": "What steps do you intend to take to help prevent discriminatory practices violating the constitutional voting rights of non-white and poor citizens?", 
+      "district": "MN_03", 
+      "created": "2013-08-04T16:25:17", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MN", 
+      "iface": "question", 
+      "y": 44.828000000000003, 
+      "x": -93.378200000000007, 
+      "id": 16174163
+    }, 
+    {
       "city": "Syracuse", 
       "first_name": "Bill", 
       "last_name": "Hennigar", 
