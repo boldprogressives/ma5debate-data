@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Houston", 
+      "first_name": "Darlene", 
+      "last_name": "Woodring", 
+      "user_id": 1666555, 
+      "submission": "Would you support a bill legalizing medical marijuana? ", 
+      "district": "TX_09", 
+      "created": "2013-08-04T02:40:06", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "TX", 
+      "iface": "question", 
+      "y": 29.697399999999998, 
+      "x": -95.587000000000003, 
+      "id": 16173378
+    }, 
+    {
       "city": "Rockwall", 
       "first_name": "Jon", 
       "last_name": "Brown", 
