@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Tucson", 
+      "first_name": "glenn", 
+      "last_name": "martin", 
+      "user_id": 1773873, 
+      "submission": "I  am a democrat,I saw JFK get shot in the face  with  his wife at his side.It was the super 8 Grassy-nole on ABC  CBS and NBC @ Dealy Plaza.Then the government lied about  the event of my life time...I listened to assassination journal on PBS for 25 years.I am a draft resister from  the 1968 draft siding with the ACLU in a court case for student deferments.WE won whites and others did not have to go off to war. I walked my own path these many years since. I have watched this earth be abused to the point of, change is here...I have watched one man after another turn its back on our constitution, allowing special interest to control judge and rule.My question :Can you stop  the Bush Clinton era now, by deporting illegals,more laws against guns, Stop Oil now not in 20 years.  go green now thats my  question  When do we honor the earth and stop this group of IDIOTS  . thanks  glenn", 
+      "district": "AZ_02", 
+      "created": "2013-08-04T00:42:23", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "AZ", 
+      "iface": "question", 
+      "y": 32.244900000000001, 
+      "x": -110.92100000000001, 
+      "id": 16173173
+    }, 
+    {
       "city": "Beaverton", 
       "first_name": "Garret", 
       "last_name": "Wong", 
