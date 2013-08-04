@@ -2,6 +2,78 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Minneapolis", 
+      "first_name": "Josepha", 
+      "last_name": "Maly", 
+      "user_id": 971754, 
+      "district": "MN_05", 
+      "created": "2013-08-04T20:22:01", 
+      "state": "MN", 
+      "iface": "vote", 
+      "id": 16174563, 
+      "question_id": "16172731"
+    }, 
+    {
+      "city": "North Las Vegas", 
+      "first_name": "Shirley", 
+      "last_name": "Fife", 
+      "user_id": 1210612, 
+      "district": "NV_04", 
+      "created": "2013-08-04T20:21:59", 
+      "state": "NV", 
+      "iface": "vote", 
+      "id": 16174562, 
+      "question_id": "16173438"
+    }, 
+    {
+      "city": "Minneapolis", 
+      "first_name": "Josepha", 
+      "last_name": "Maly", 
+      "user_id": 971754, 
+      "district": "MN_05", 
+      "created": "2013-08-04T20:21:51", 
+      "state": "MN", 
+      "iface": "vote", 
+      "id": 16174561, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Minneapolis", 
+      "first_name": "Josepha", 
+      "last_name": "Maly", 
+      "user_id": 971754, 
+      "district": "MN_05", 
+      "created": "2013-08-04T20:21:49", 
+      "state": "MN", 
+      "iface": "vote", 
+      "id": 16174560, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Minneapolis", 
+      "first_name": "Josepha", 
+      "last_name": "Maly", 
+      "user_id": 971754, 
+      "district": "MN_05", 
+      "created": "2013-08-04T20:21:45", 
+      "state": "MN", 
+      "iface": "vote", 
+      "id": 16174559, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Albany", 
+      "first_name": "Theodore", 
+      "last_name": "Montgomery", 
+      "user_id": 519333, 
+      "district": "OR_04", 
+      "created": "2013-08-04T20:21:31", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16174558, 
+      "question_id": "16172560"
+    }, 
+    {
       "city": "North Las Vegas", 
       "first_name": "Shirley", 
       "last_name": "Fife", 
