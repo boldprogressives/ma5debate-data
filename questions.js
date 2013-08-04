@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "McMinnville", 
+      "first_name": "Glenna", 
+      "last_name": "Green", 
+      "user_id": 775525, 
+      "submission": "Can our Postal Service be saved from the death blow Congress dealt it in 2006?", 
+      "district": "OR_01", 
+      "created": "2013-08-04T04:11:32", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "OR", 
+      "iface": "question", 
+      "y": 45.209600000000002, 
+      "x": -123.218, 
+      "id": 16173512
+    }, 
+    {
       "city": "Las Vegas", 
       "first_name": "William", 
       "last_name": "Schnabel", 
