@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "South Milwaukee", 
+      "first_name": "John", 
+      "last_name": "Riggins", 
+      "user_id": 1144835, 
+      "submission": "What will you do to promote public education in your congressional district and the United States of America? ", 
+      "district": "WI_04", 
+      "created": "2013-08-04T04:26:47", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WI", 
+      "iface": "question", 
+      "y": 42.909999999999997, 
+      "x": -87.866600000000005, 
+      "id": 16173530
+    }, 
+    {
       "city": "McMinnville", 
       "first_name": "Glenna", 
       "last_name": "Green", 
