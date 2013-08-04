@@ -11,7 +11,7 @@ opendebate.processFetchedVotes({
       "state": "OR", 
       "iface": "vote", 
       "id": 16173421, 
-      "question_id": "16173320"
+      "question_id": "16173264"
     }, 
     {
       "city": "Eugene", 
@@ -23,7 +23,7 @@ opendebate.processFetchedVotes({
       "state": "OR", 
       "iface": "vote", 
       "id": 16173421, 
-      "question_id": "16173397"
+      "question_id": "16173320"
     }, 
     {
       "city": "North Sioux City", 
