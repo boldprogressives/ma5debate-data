@@ -7,6 +7,18 @@ opendebate.processFetchedVotes({
       "last_name": "Dailey", 
       "user_id": 1688409, 
       "district": "NM_01", 
+      "created": "2013-08-04T23:43:08", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16175448, 
+      "question_id": "16173257"
+    }, 
+    {
+      "city": "Albuquerque", 
+      "first_name": "Nancy", 
+      "last_name": "Dailey", 
+      "user_id": 1688409, 
+      "district": "NM_01", 
       "created": "2013-08-04T23:42:03", 
       "state": "NM", 
       "iface": "vote", 
