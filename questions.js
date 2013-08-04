@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Bensenville", 
+      "first_name": "Warren", 
+      "last_name": "Hineline", 
+      "user_id": 372350, 
+      "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
+      "district": "IL_08", 
+      "created": "2013-08-04T01:58:31", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "IL", 
+      "iface": "question", 
+      "y": 41.955300000000001, 
+      "x": -87.948800000000006, 
+      "id": 16173312
+    }, 
+    {
       "city": "North Sioux City", 
       "first_name": "donald", 
       "last_name": "larson", 
