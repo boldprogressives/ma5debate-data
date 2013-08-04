@@ -2,6 +2,66 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Wheat Ridge", 
+      "first_name": "Larry", 
+      "last_name": "Christman", 
+      "user_id": 1774269, 
+      "district": "CO_07", 
+      "created": "2013-08-04T20:45:22", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16174751, 
+      "question_id": "16173683"
+    }, 
+    {
+      "city": "Grand Forks", 
+      "first_name": "clint", 
+      "last_name": "Hall", 
+      "user_id": 763191, 
+      "district": "ND_01", 
+      "created": "2013-08-04T20:44:37", 
+      "state": "ND", 
+      "iface": "vote", 
+      "id": 16174750, 
+      "question_id": "16172731"
+    }, 
+    {
+      "city": "Grand Forks", 
+      "first_name": "clint", 
+      "last_name": "Hall", 
+      "user_id": 763191, 
+      "district": "ND_01", 
+      "created": "2013-08-04T20:44:35", 
+      "state": "ND", 
+      "iface": "vote", 
+      "id": 16174749, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Grand Forks", 
+      "first_name": "clint", 
+      "last_name": "Hall", 
+      "user_id": 763191, 
+      "district": "ND_01", 
+      "created": "2013-08-04T20:44:26", 
+      "state": "ND", 
+      "iface": "vote", 
+      "id": 16174748, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Grand Forks", 
+      "first_name": "clint", 
+      "last_name": "Hall", 
+      "user_id": 763191, 
+      "district": "ND_01", 
+      "created": "2013-08-04T20:44:19", 
+      "state": "ND", 
+      "iface": "vote", 
+      "id": 16174747, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "North Las Vegas", 
       "first_name": "Shirley", 
       "last_name": "Fife", 
