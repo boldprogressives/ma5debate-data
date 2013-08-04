@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Willmar", 
+      "first_name": "Sheila", 
+      "last_name": "Dillon", 
+      "user_id": 1769540, 
+      "district": "MN_07", 
+      "created": "2013-08-04T20:00:47", 
+      "state": "MN", 
+      "iface": "vote", 
+      "id": 16174479, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Willmar", 
+      "first_name": "Sheila", 
+      "last_name": "Dillon", 
+      "user_id": 1769540, 
+      "district": "MN_07", 
+      "created": "2013-08-04T20:00:37", 
+      "state": "MN", 
+      "iface": "vote", 
+      "id": 16174476, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Montello", 
       "first_name": "Tancy", 
       "last_name": "Helmin", 
