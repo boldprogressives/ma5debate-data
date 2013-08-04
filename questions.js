@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Kailua Kona", 
+      "first_name": "jc", 
+      "last_name": "shannon", 
+      "user_id": 1705895, 
+      "submission": "Hawaii Aloha Vulcans All In:  What happened to \"Hope, Change, TRANSPARENCY\" on the way from the 2008 Rocky Mountain High Silverado Colorado Politico Campaign Forum?   Ref:  GITMO;  Bush Tax Cut Extensions; Federal Reserve Chairman Extension, Extended Patriot Act [Warrantless FISA, aka, Foreign Invasive Spy Agencies] under the perpetual guise for the Globalized, Privatized War on Terrorism for \"Inside\"  Wire Taps on Amerikans];  NO  Prosecution of Banksters visa Wall Street Profiteers & the DOJ;  Massive ForeignLobbyist \"Fear Mongering\"  influence & Blowback impacting U.S. Tax Payers & Foreign Policies infiltrated under the Privatized  DOD,  DOE, IRS, NSA, visa the Judicial activist DOJ and the Politico Activist Code Red Dept of Homeland Insecurity? ", 
+      "district": "HI_02", 
+      "created": "2013-08-04T18:34:41", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "HI", 
+      "iface": "question", 
+      "y": 19.6647, 
+      "x": -155.98099999999999, 
+      "id": 16174284
+    }, 
+    {
       "city": "Kelso", 
       "first_name": "Bernie", 
       "last_name": "Altman", 
