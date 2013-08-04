@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Santa Fe", 
+      "first_name": "Robert", 
+      "last_name": "Frost", 
+      "user_id": 1702439, 
+      "submission": "Will you support the removal of special benefits for congress such as special medical and retirement?  And support the people voting congress pay increases and other benefits?", 
+      "district": "NM_03", 
+      "created": "2013-08-04T19:45:40", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NM", 
+      "iface": "question", 
+      "y": 35.621099999999998, 
+      "x": -105.967, 
+      "id": 16174384
+    }, 
+    {
       "city": "Phoenix", 
       "first_name": "stefan", 
       "last_name": "bohult", 
@@ -2033,7 +2050,7 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
       "state_votes": 0, 
-      "votes": 22, 
+      "votes": 23, 
       "district_votes": 0, 
       "state": "MT", 
       "iface": "question", 

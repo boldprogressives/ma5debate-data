@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Mosinee", 
+      "first_name": "nathaniel", 
+      "last_name": "earl", 
+      "user_id": 1720055, 
+      "district": "WI_07", 
+      "created": "2013-08-04T19:44:13", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16174382, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Du Quoin", 
       "first_name": "Michael", 
       "last_name": "Krisfaluzy", 
