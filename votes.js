@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Excelsior", 
+      "first_name": "Richard Paul", 
+      "last_name": "Weed", 
+      "user_id": 1582465, 
+      "district": "MN_03", 
+      "created": "2013-08-04T21:23:12", 
+      "state": "MN", 
+      "iface": "vote", 
+      "id": 16174974, 
+      "question_id": "16172755"
+    }, 
+    {
       "city": "Avon Park", 
       "first_name": "Barb", 
       "last_name": "Wells", 
