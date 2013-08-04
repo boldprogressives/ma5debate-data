@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Aumsville", 
+      "first_name": "John", 
+      "last_name": "Taggart", 
+      "user_id": 1769714, 
+      "submission": "Would you support the proposition that Big Oil should help to fund the veterans rehab issues, and their benefits since they were sent to fight for their safe access to oil.", 
+      "district": "OR_05", 
+      "created": "2013-08-04T03:25:27", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "OR", 
+      "iface": "question", 
+      "y": 44.838799999999999, 
+      "x": -122.85899999999999, 
+      "id": 16173438
+    }, 
+    {
       "city": "Eugene", 
       "first_name": "Ruth", 
       "last_name": "Miller", 
@@ -95,7 +112,7 @@ opendebate.processFetchedQuestions({
       "district": "WA_09", 
       "created": "2013-08-04T02:57:39", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "WA", 
       "iface": "question", 
