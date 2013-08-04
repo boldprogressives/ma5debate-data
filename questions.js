@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Killeen", 
+      "first_name": "George", 
+      "last_name": "Dare", 
+      "user_id": 1771655, 
+      "submission": "Will the 535 Congress be replaced with citizen voters that only the majority will approve new laws???", 
+      "district": "TX_31", 
+      "created": "2013-08-04T11:13:27", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "TX", 
+      "iface": "question", 
+      "y": 31.119800000000001, 
+      "x": -97.729699999999994, 
+      "id": 16173683
+    }, 
+    {
       "city": "Salem", 
       "first_name": "Clark", 
       "last_name": "Shattuck", 
