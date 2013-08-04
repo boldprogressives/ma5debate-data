@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Woodland Park", 
+      "first_name": "Michael", 
+      "last_name": "Haase", 
+      "user_id": 1242250, 
+      "submission": "Do you think that it is right that Federal Employees and Federal Government Contractors should bear the brunt of cost reductions mandated by sequester?  Aren't furlough essentially a tax?", 
+      "district": "CO_05", 
+      "created": "2013-08-04T21:20:37", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "CO", 
+      "iface": "question", 
+      "y": 38.993000000000002, 
+      "x": -105.071, 
+      "id": 16174971
+    }, 
+    {
       "city": "Excelsior", 
       "first_name": "Richard Paul", 
       "last_name": "Weed", 
