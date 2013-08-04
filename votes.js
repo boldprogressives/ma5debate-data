@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Glendale", 
+      "first_name": "Alec", 
+      "last_name": "Sills-Trausch", 
+      "user_id": 1179365, 
+      "district": "AZ_08", 
+      "created": "2013-08-04T20:08:02", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16174493, 
+      "question_id": "16174492"
+    }, 
+    {
       "city": "Willmar", 
       "first_name": "Sheila", 
       "last_name": "Dillon", 
