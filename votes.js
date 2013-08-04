@@ -7,6 +7,18 @@ opendebate.processFetchedVotes({
       "last_name": "Wall", 
       "user_id": 1107053, 
       "district": "MA_07", 
+      "created": "2013-08-04T22:40:14", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16175298, 
+      "question_id": "16172690"
+    }, 
+    {
+      "city": "Boston", 
+      "first_name": "Matt", 
+      "last_name": "Wall", 
+      "user_id": 1107053, 
+      "district": "MA_07", 
       "created": "2013-08-04T22:39:52", 
       "state": "MA", 
       "iface": "vote", 
