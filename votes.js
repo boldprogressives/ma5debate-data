@@ -11,6 +11,18 @@ opendebate.processFetchedVotes({
       "state": "OR", 
       "iface": "vote", 
       "id": 16173421, 
+      "question_id": "16172687"
+    }, 
+    {
+      "city": "Eugene", 
+      "first_name": "Ruth", 
+      "last_name": "Miller", 
+      "user_id": 1203348, 
+      "district": "OR_04", 
+      "created": "2013-08-04T03:19:53", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16173421, 
       "question_id": "16173118"
     }, 
     {
