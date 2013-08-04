@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Salem", 
+      "first_name": "Clark", 
+      "last_name": "Shattuck", 
+      "user_id": 1768045, 
+      "submission": "Did you ever think that the American culture could become so materialistic, vulgar and immoral back there growing up after Bobby and Martin?", 
+      "district": "OR_05", 
+      "created": "2013-08-04T08:39:29", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "OR", 
+      "iface": "question", 
+      "y": 45.013100000000001, 
+      "x": -123.101, 
+      "id": 16173660
+    }, 
+    {
       "city": "New Orleans", 
       "first_name": "Joseph", 
       "last_name": "Desvignes Jr", 
