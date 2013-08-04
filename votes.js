@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Covington", 
+      "first_name": "Carol", 
+      "last_name": "Cooper", 
+      "user_id": 76744, 
+      "district": "LA_01", 
+      "created": "2013-08-04T22:21:48", 
+      "state": "LA", 
+      "iface": "vote", 
+      "id": 16175225, 
+      "question_id": "16174951"
+    }, 
+    {
+      "city": "Beaverton", 
+      "first_name": "Terry", 
+      "last_name": "Watkins", 
+      "user_id": 792651, 
+      "district": "OR_01", 
+      "created": "2013-08-04T22:21:42", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16175224, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Covington", 
+      "first_name": "Carol", 
+      "last_name": "Cooper", 
+      "user_id": 76744, 
+      "district": "LA_01", 
+      "created": "2013-08-04T22:20:22", 
+      "state": "LA", 
+      "iface": "vote", 
+      "id": 16175217, 
+      "question_id": "16175112"
+    }, 
+    {
+      "city": "Covington", 
+      "first_name": "Carol", 
+      "last_name": "Cooper", 
+      "user_id": 76744, 
+      "district": "LA_01", 
+      "created": "2013-08-04T22:20:09", 
+      "state": "LA", 
+      "iface": "vote", 
+      "id": 16175215, 
+      "question_id": "16175119"
+    }, 
+    {
       "city": "Franklin", 
       "first_name": "", 
       "last_name": "", 
