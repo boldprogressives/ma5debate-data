@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Chicago", 
+      "first_name": "Sven", 
+      "last_name": "Brogren", 
+      "user_id": 1165037, 
+      "submission": "What will you do to compel congress to accomplish more.  Congress needs to stop bickering and filibustering and do more.", 
+      "district": "IL_09", 
+      "created": "2013-08-04T20:03:34", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "IL", 
+      "iface": "question", 
+      "y": 42.008099999999999, 
+      "x": -87.706000000000003, 
+      "id": 16174483
+    }, 
+    {
       "city": "Seattle", 
       "first_name": "Nola", 
       "last_name": "Ahola", 
