@@ -11,7 +11,7 @@ opendebate.processFetchedVotes({
       "state": "CO", 
       "iface": "vote", 
       "id": 16173909, 
-      "question_id": "16173512"
+      "question_id": "16173438"
     }, 
     {
       "city": "Westland", 
