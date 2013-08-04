@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Vashon", 
+      "first_name": "Briana", 
+      "last_name": "Carson", 
+      "user_id": 696283, 
+      "submission": "Would you support the bill that proposes to let Social Security benefits remain uncut and instead it demands that fraud and excessive spending be eliminated or curtailed?", 
+      "district": "WA_07", 
+      "created": "2013-08-04T13:30:07", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WA", 
+      "iface": "question", 
+      "y": 47.418199999999999, 
+      "x": -122.452, 
+      "id": 16173756
+    }, 
+    {
       "city": "Lewistown", 
       "first_name": "Jim", 
       "last_name": "Sennett", 
@@ -690,7 +707,7 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:25:59", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "district_votes": 0, 
       "state": "TX", 
       "iface": "question", 
