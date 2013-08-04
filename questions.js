@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Salina", 
+      "first_name": "Deborah", 
+      "last_name": "Divine", 
+      "user_id": 1705051, 
+      "submission": "What will you do to end the gridlock in Congress?", 
+      "district": "KS_01", 
+      "created": "2013-08-04T11:17:06", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "KS", 
+      "iface": "question", 
+      "y": 38.829900000000002, 
+      "x": -97.616200000000006, 
+      "id": 16173684
+    }, 
+    {
       "city": "Killeen", 
       "first_name": "George", 
       "last_name": "Dare", 
