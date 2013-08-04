@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "North Las Vegas", 
+      "first_name": "Shirley", 
+      "last_name": "Fife", 
+      "user_id": 1210612, 
+      "district": "NV_04", 
+      "created": "2013-08-04T20:09:57", 
+      "state": "NV", 
+      "iface": "vote", 
+      "id": 16174497, 
+      "question_id": "16172727"
+    }, 
+    {
       "city": "Glendale", 
       "first_name": "Alec", 
       "last_name": "Sills-Trausch", 

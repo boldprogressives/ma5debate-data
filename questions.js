@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Edmonds", 
+      "first_name": "Rubenrod1943@gmail.com", 
+      "last_name": "Rodriguez", 
+      "user_id": 1765921, 
+      "submission": "Why are Islamic students in San Diego, California schools afforded special lunches and markers inside and outside of buildings pointing to mecca and we Christians not permitted to worship God in schools or put the 10 Commandments in pubic place??", 
+      "district": "WA_07", 
+      "created": "2013-08-04T20:10:07", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WA", 
+      "iface": "question", 
+      "y": 47.840800000000002, 
+      "x": -122.337, 
+      "id": 16174498
+    }, 
+    {
       "city": "Glendale", 
       "first_name": "Alec", 
       "last_name": "Sills-Trausch", 
@@ -2305,7 +2322,7 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:20:39", 
       "state_votes": 0, 
-      "votes": 29, 
+      "votes": 30, 
       "district_votes": 0, 
       "state": "IL", 
       "iface": "question", 
