@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Mount Horeb", 
+      "first_name": "Irene", 
+      "last_name": "Schmidt", 
+      "user_id": 604386, 
+      "district": "WI_02", 
+      "created": "2013-08-04T21:55:41", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16175082, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Bloomsdale", 
+      "first_name": "barbara", 
+      "last_name": "fisher", 
+      "user_id": 1656320, 
+      "district": "MO_08", 
+      "created": "2013-08-04T21:54:32", 
+      "state": "MO", 
+      "iface": "vote", 
+      "id": 16175076, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Morrison", 
+      "first_name": "Cynthia", 
+      "last_name": "Schmidt", 
+      "user_id": 1716081, 
+      "district": "CO_02", 
+      "created": "2013-08-04T21:54:29", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16175075, 
+      "question_id": "16172560"
+    }, 
+    {
       "city": "Morrison", 
       "first_name": "Cynthia", 
       "last_name": "Schmidt", 
