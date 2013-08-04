@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Montello", 
+      "first_name": "Tancy", 
+      "last_name": "Helmin", 
+      "user_id": 1676501, 
+      "district": "WI_06", 
+      "created": "2013-08-04T19:59:24", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16174473, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Montello", 
+      "first_name": "Tancy", 
+      "last_name": "Helmin", 
+      "user_id": 1676501, 
+      "district": "WI_06", 
+      "created": "2013-08-04T19:59:13", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16174472, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Montello", 
+      "first_name": "Tancy", 
+      "last_name": "Helmin", 
+      "user_id": 1676501, 
+      "district": "WI_06", 
+      "created": "2013-08-04T19:58:38", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16174467, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Shawano", 
       "first_name": "Leone", 
       "last_name": "Sch;neidewend", 
