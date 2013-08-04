@@ -11,7 +11,7 @@ opendebate.processFetchedVotes({
       "state": "MT", 
       "iface": "vote", 
       "id": 16173951, 
-      "question_id": "16173193"
+      "question_id": "16173145"
     }, 
     {
       "city": "Fort Collins", 
@@ -648,6 +648,18 @@ opendebate.processFetchedVotes({
       "iface": "vote", 
       "id": 16169670, 
       "question_id": "16172542"
+    }, 
+    {
+      "city": "Ottawa", 
+      "first_name": "Drew", 
+      "last_name": "McConville", 
+      "user_id": 193927, 
+      "district": "IL_16", 
+      "created": "2013-08-02T16:58:57", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16169670, 
+      "question_id": "16172697"
     }, 
     {
       "city": "Ottawa", 
