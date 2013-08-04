@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Great Neck", 
+      "first_name": "Ethan", 
+      "last_name": "Jucovy", 
+      "user_id": 1195198, 
+      "district": "NY_03", 
+      "created": "2013-08-04T16:21:09", 
+      "state": "NY", 
+      "iface": "vote", 
+      "id": 16174159, 
+      "question_id": "16173412"
+    }, 
+    {
+      "city": "Lawrence", 
+      "first_name": "julie", 
+      "last_name": "matchett", 
+      "user_id": 958634, 
+      "district": "KS_02", 
+      "created": "2013-08-04T16:21:02", 
+      "state": "KS", 
+      "iface": "vote", 
+      "id": 16174158, 
+      "question_id": "16173280"
+    }, 
+    {
+      "city": "Lawrence", 
+      "first_name": "julie", 
+      "last_name": "matchett", 
+      "user_id": 958634, 
+      "district": "KS_02", 
+      "created": "2013-08-04T16:20:29", 
+      "state": "KS", 
+      "iface": "vote", 
+      "id": 16174156, 
+      "question_id": "16173323"
+    }, 
+    {
       "city": "Lawrence", 
       "first_name": "julie", 
       "last_name": "matchett", 
