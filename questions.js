@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Federal Way", 
+      "first_name": "Jolene", 
+      "last_name": "McKee", 
+      "user_id": 1065108, 
+      "submission": "How realistic is it that Wall Street/Banks will ever be held criminally accountable for the destruction it did to Americans and the ecomony?", 
+      "district": "WA_09", 
+      "created": "2013-08-04T02:57:39", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WA", 
+      "iface": "question", 
+      "y": 47.309899999999999, 
+      "x": -122.31399999999999, 
+      "id": 16173397
+    }, 
+    {
       "city": "Houston", 
       "first_name": "Darlene", 
       "last_name": "Woodring", 
