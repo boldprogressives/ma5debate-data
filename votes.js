@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Sierra Vista", 
+      "first_name": "Erv", 
+      "last_name": "Amdahl", 
+      "user_id": 19035, 
+      "district": "AZ_02", 
+      "created": "2013-08-04T22:03:28", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16175098, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Bloomsdale", 
       "first_name": "barbara", 
       "last_name": "fisher", 
