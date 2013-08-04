@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Cedar Rapids", 
+      "first_name": "Richard", 
+      "last_name": "Myers", 
+      "user_id": 1683079, 
+      "submission": "What would you do to stop the unbridled takeover of American resources by Corporate America.", 
+      "district": "IA_01", 
+      "created": "2013-08-04T15:47:40", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "IA", 
+      "iface": "question", 
+      "y": 41.979399999999998, 
+      "x": -91.718900000000005, 
+      "id": 16174109
+    }, 
+    {
       "city": "Baraboo", 
       "first_name": "John", 
       "last_name": "Allen", 
