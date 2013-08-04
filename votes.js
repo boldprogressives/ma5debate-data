@@ -95,6 +95,18 @@ opendebate.processFetchedVotes({
       "state": "NY", 
       "iface": "vote", 
       "id": 16172927, 
+      "question_id": "16172542"
+    }, 
+    {
+      "city": "Great Neck", 
+      "first_name": "Ethan", 
+      "last_name": "Jucovy", 
+      "user_id": 385575, 
+      "district": "NY_03", 
+      "created": "2013-08-03T23:29:42", 
+      "state": "NY", 
+      "iface": "vote", 
+      "id": 16172927, 
       "question_id": "16172866"
     }, 
     {
