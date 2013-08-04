@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Durango", 
+      "first_name": "Erika", 
+      "last_name": "Brown", 
+      "user_id": 1722213, 
+      "district": "CO_03", 
+      "created": "2013-08-04T23:03:58", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16175346, 
+      "question_id": "16172303"
+    }, 
+    {
+      "city": "Durango", 
+      "first_name": "Erika", 
+      "last_name": "Brown", 
+      "user_id": 1722213, 
+      "district": "CO_03", 
+      "created": "2013-08-04T23:03:46", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16175345, 
+      "question_id": "16172533"
+    }, 
+    {
+      "city": "Durango", 
+      "first_name": "Erika", 
+      "last_name": "Brown", 
+      "user_id": 1722213, 
+      "district": "CO_03", 
+      "created": "2013-08-04T23:03:23", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16175343, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Durango", 
+      "first_name": "Erika", 
+      "last_name": "Brown", 
+      "user_id": 1722213, 
+      "district": "CO_03", 
+      "created": "2013-08-04T23:03:15", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16175342, 
+      "question_id": "16172727"
+    }, 
+    {
       "city": "Mountainair", 
       "first_name": "Jantina", 
       "last_name": "Eshleman", 
