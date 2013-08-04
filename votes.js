@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Great Neck", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1808609, 
+      "district": "NY_03", 
+      "created": "2013-08-04T15:21:18", 
+      "state": "NY", 
+      "iface": "vote", 
+      "id": 16174080, 
+      "question_id": "16174044"
+    }, 
+    {
+      "city": "Great Neck", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1808609, 
+      "district": "NY_03", 
+      "created": "2013-08-04T15:20:27", 
+      "state": "NY", 
+      "iface": "vote", 
+      "id": 16174078, 
+      "question_id": "16172823"
+    }, 
+    {
       "city": "Wheeler", 
       "first_name": "ronald", 
       "last_name": "minschwaner", 
