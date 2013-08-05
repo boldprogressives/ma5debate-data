@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Kula", 
+      "first_name": "Jeffrey", 
+      "last_name": "Schwartz", 
+      "user_id": 541616, 
+      "submission": "What would you d about the horrendous economic divide in this country spelled out so poignantly in the New York Times story about Port Clinton, Ohi as a microcosm of America -- http://opinionator.blogs.nytimes.com/2013/08/03/crumbling-american-dreams/?nl=todaysheadlines&emc=edit_th_20130805&_r=0?", 
+      "district": "HI_02", 
+      "created": "2013-08-05T08:12:56", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "HI", 
+      "iface": "question", 
+      "y": 20.770099999999999, 
+      "x": -156.32499999999999, 
+      "id": 16176775
+    }, 
+    {
       "city": "Tucson", 
       "first_name": "John", 
       "last_name": "Armstrong", 
