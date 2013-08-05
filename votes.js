@@ -7,6 +7,18 @@ opendebate.processFetchedVotes({
       "last_name": "Conrad", 
       "user_id": 1734856, 
       "district": "AZ_06", 
+      "created": "2013-08-05T17:12:22", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16178066, 
+      "question_id": "16177811"
+    }, 
+    {
+      "city": "Phoenix", 
+      "first_name": "Maureen", 
+      "last_name": "Conrad", 
+      "user_id": 1734856, 
+      "district": "AZ_06", 
       "created": "2013-08-05T17:09:30", 
       "state": "AZ", 
       "iface": "vote", 
