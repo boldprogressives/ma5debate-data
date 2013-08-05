@@ -10,7 +10,7 @@ opendebate.processFetchedQuestions({
       "district": "HI_02", 
       "created": "2013-08-05T04:45:52", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "HI", 
       "iface": "question", 
