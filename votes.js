@@ -2,6 +2,66 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Mountain View", 
+      "first_name": "Craig", 
+      "last_name": "Jones", 
+      "user_id": 1729493, 
+      "district": "AR_01", 
+      "created": "2013-08-05T13:07:50", 
+      "state": "AR", 
+      "iface": "vote", 
+      "id": 16177211, 
+      "question_id": "16172533"
+    }, 
+    {
+      "city": "Mountain View", 
+      "first_name": "Craig", 
+      "last_name": "Jones", 
+      "user_id": 1729493, 
+      "district": "AR_01", 
+      "created": "2013-08-05T13:07:35", 
+      "state": "AR", 
+      "iface": "vote", 
+      "id": 16177210, 
+      "question_id": "16172755"
+    }, 
+    {
+      "city": "Mountain View", 
+      "first_name": "Craig", 
+      "last_name": "Jones", 
+      "user_id": 1729493, 
+      "district": "AR_01", 
+      "created": "2013-08-05T13:07:01", 
+      "state": "AR", 
+      "iface": "vote", 
+      "id": 16177208, 
+      "question_id": "16172281"
+    }, 
+    {
+      "city": "Mountain View", 
+      "first_name": "Craig", 
+      "last_name": "Jones", 
+      "user_id": 1729493, 
+      "district": "AR_01", 
+      "created": "2013-08-05T13:06:46", 
+      "state": "AR", 
+      "iface": "vote", 
+      "id": 16177207, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Mountain View", 
+      "first_name": "Craig", 
+      "last_name": "Jones", 
+      "user_id": 1729493, 
+      "district": "AR_01", 
+      "created": "2013-08-05T13:06:29", 
+      "state": "AR", 
+      "iface": "vote", 
+      "id": 16177206, 
+      "question_id": "16172727"
+    }, 
+    {
       "city": "Tucson", 
       "first_name": "Howard", 
       "last_name": "West", 
