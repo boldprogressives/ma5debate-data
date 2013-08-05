@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Westminster", 
+      "first_name": "Guillermina", 
+      "last_name": "Aguirre", 
+      "user_id": 1689983, 
+      "submission": "Will you totally repeal the Patriot Act.?", 
+      "district": "CO_07", 
+      "created": "2013-08-05T21:13:12", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "CO", 
+      "iface": "question", 
+      "y": 39.828899999999997, 
+      "x": -105.03700000000001, 
+      "id": 16178788
+    }, 
+    {
       "city": "Sammamish", 
       "first_name": "Michael", 
       "last_name": "O'Connell", 
