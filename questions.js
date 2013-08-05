@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "West Plains", 
+      "first_name": "philip c.", 
+      "last_name": "orlikowski", 
+      "user_id": 1678713, 
+      "submission": "What will you do to keep money and bribery out of congress?", 
+      "district": "MO_08", 
+      "created": "2013-08-05T13:29:12", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MO", 
+      "iface": "question", 
+      "y": 36.5139, 
+      "x": -91.801500000000004, 
+      "id": 16177259
+    }, 
+    {
       "city": "Garland", 
       "first_name": "Jimmie", 
       "last_name": "Smith", 
@@ -826,7 +843,7 @@ opendebate.processFetchedQuestions({
       "district": "CO_07", 
       "created": "2013-08-05T03:25:39", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "CO", 
       "iface": "question", 
