@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Albuquerque", 
+      "first_name": "Charles", 
+      "last_name": "Shelly", 
+      "user_id": 1057793, 
+      "district": "NM_01", 
+      "created": "2013-08-05T17:59:23", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16178236, 
+      "question_id": "16173118"
+    }, 
+    {
       "city": "Phoenix", 
       "first_name": "Clarence", 
       "last_name": "Smith", 
