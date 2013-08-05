@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Sidney", 
+      "first_name": "Sandra Armour", 
+      "last_name": "2440 El Rancho, Sidney", 
+      "user_id": 546560, 
+      "district": "NE_03", 
+      "created": "2013-08-05T00:39:37", 
+      "state": "NE", 
+      "iface": "vote", 
+      "id": 16175579, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Sidney", 
+      "first_name": "Sandra Armour", 
+      "last_name": "2440 El Rancho, Sidney", 
+      "user_id": 546560, 
+      "district": "NE_03", 
+      "created": "2013-08-05T00:39:11", 
+      "state": "NE", 
+      "iface": "vote", 
+      "id": 16175576, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Sidney", 
+      "first_name": "Sandra Armour", 
+      "last_name": "2440 El Rancho, Sidney", 
+      "user_id": 546560, 
+      "district": "NE_03", 
+      "created": "2013-08-05T00:38:27", 
+      "state": "NE", 
+      "iface": "vote", 
+      "id": 16175574, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Naples", 
       "first_name": "Marshall", 
       "last_name": "Sprague", 
