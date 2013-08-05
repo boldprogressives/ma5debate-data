@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Garland", 
+      "first_name": "Jimmie", 
+      "last_name": "Smith", 
+      "user_id": 100510, 
+      "submission": "With millions of U.S. citizens out of work, why can't I buy more U.S.A. Products on the shelves at the retail stores?  I buy U.S.A. products or nothing.", 
+      "district": "TX_32", 
+      "created": "2013-08-05T12:02:12", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "TX", 
+      "iface": "question", 
+      "y": 32.857500000000002, 
+      "x": -96.597099999999998, 
+      "id": 16177035
+    }, 
+    {
       "city": "Oklahoma City", 
       "first_name": "Wanda", 
       "last_name": "Stapleton", 
