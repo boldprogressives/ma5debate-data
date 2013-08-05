@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "durango", 
+      "first_name": "janet", 
+      "last_name": "monell", 
+      "user_id": 1692163, 
+      "district": "CO_03", 
+      "created": "2013-08-05T04:22:04", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16176494, 
+      "question_id": "16176201"
+    }, 
+    {
+      "city": "durango", 
+      "first_name": "janet", 
+      "last_name": "monell", 
+      "user_id": 1692163, 
+      "district": "CO_03", 
+      "created": "2013-08-05T04:21:03", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16176492, 
+      "question_id": "16176019"
+    }, 
+    {
       "city": "Albuquerque", 
       "first_name": "John", 
       "last_name": "Boyd", 
