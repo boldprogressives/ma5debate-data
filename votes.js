@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Davenport", 
+      "first_name": "Larry", 
+      "last_name": "Keyes", 
+      "user_id": 156138, 
+      "district": "IA_02", 
+      "created": "2013-08-05T02:35:48", 
+      "state": "IA", 
+      "iface": "vote", 
+      "id": 16175861, 
+      "question_id": "16175571"
+    }, 
+    {
+      "city": "Moab", 
+      "first_name": "W", 
+      "last_name": "Robinson", 
+      "user_id": 1783864, 
+      "district": "UT_03", 
+      "created": "2013-08-05T02:35:34", 
+      "state": "UT", 
+      "iface": "vote", 
+      "id": 16175860, 
+      "question_id": "16173921"
+    }, 
+    {
       "city": "Moab", 
       "first_name": "W", 
       "last_name": "Robinson", 
