@@ -2,6 +2,78 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Coal Valley", 
+      "first_name": "Donna", 
+      "last_name": "James", 
+      "user_id": 766696, 
+      "district": "IL_17", 
+      "created": "2013-08-05T02:21:14", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16175801, 
+      "question_id": "16173921"
+    }, 
+    {
+      "city": "Denver", 
+      "first_name": "Dolores", 
+      "last_name": "Molello", 
+      "user_id": 1119625, 
+      "district": "CO_01", 
+      "created": "2013-08-05T02:21:13", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16175800, 
+      "question_id": "16173259"
+    }, 
+    {
+      "city": "Denver", 
+      "first_name": "Dolores", 
+      "last_name": "Molello", 
+      "user_id": 1119625, 
+      "district": "CO_01", 
+      "created": "2013-08-05T02:21:01", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16175798, 
+      "question_id": "16173335"
+    }, 
+    {
+      "city": "Denver", 
+      "first_name": "Dolores", 
+      "last_name": "Molello", 
+      "user_id": 1119625, 
+      "district": "CO_01", 
+      "created": "2013-08-05T02:20:52", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16175797, 
+      "question_id": "16172765"
+    }, 
+    {
+      "city": "Denver", 
+      "first_name": "Dolores", 
+      "last_name": "Molello", 
+      "user_id": 1119625, 
+      "district": "CO_01", 
+      "created": "2013-08-05T02:20:36", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16175796, 
+      "question_id": "16172690"
+    }, 
+    {
+      "city": "Denver", 
+      "first_name": "Dolores", 
+      "last_name": "Molello", 
+      "user_id": 1119625, 
+      "district": "CO_01", 
+      "created": "2013-08-05T02:20:23", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16175795, 
+      "question_id": "16172755"
+    }, 
+    {
       "city": "Naples", 
       "first_name": "Marshall", 
       "last_name": "Sprague", 
