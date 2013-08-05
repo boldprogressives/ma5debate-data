@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Minneapolis", 
+      "first_name": "Judith", 
+      "last_name": "Felker", 
+      "user_id": 1708741, 
+      "submission": "Prisons are full to overflowing, causing inhumane conditions, and huge expense for taxpayers. Will you champion the end mandatory prison sentences for drug users?  Money saved could then be used for rehabilitation.", 
+      "district": "MN_03", 
+      "created": "2013-08-05T19:38:27", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MN", 
+      "iface": "question", 
+      "y": 44.875500000000002, 
+      "x": -93.374399999999994, 
+      "id": 16178587
+    }, 
+    {
       "city": "Portland", 
       "first_name": "taggart", 
       "last_name": "howland", 
