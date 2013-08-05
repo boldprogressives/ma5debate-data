@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Rathdrum", 
+      "first_name": "Robert", 
+      "last_name": "Helmick", 
+      "user_id": 1676886, 
+      "submission": "What will you do to stop the persecution of whistleblowers such as Bradley Manning and Edward Snowden?", 
+      "district": "ID_01", 
+      "created": "2013-08-05T02:25:39", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "ID", 
+      "iface": "question", 
+      "y": 47.840000000000003, 
+      "x": -116.90300000000001, 
+      "id": 16175805
+    }, 
+    {
       "city": "Mitchell", 
       "first_name": "Mike", 
       "last_name": "Meagher", 
