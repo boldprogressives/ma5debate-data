@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Tucson", 
+      "first_name": "Bob", 
+      "last_name": "Wilson", 
+      "user_id": 1714318, 
+      "submission": "Who are your corporate sponsors? Would you be in favor of all politicians wearing patches on their cloths with the corporate logo's of their sponsors just like athletes do. This way we know where the money comes from before we vote.", 
+      "district": "AZ_02", 
+      "created": "2013-08-05T01:25:10", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "AZ", 
+      "iface": "question", 
+      "y": 32.241799999999998, 
+      "x": -110.947, 
+      "id": 16175691
+    }, 
+    {
       "city": "Mount Vernon", 
       "first_name": "Laura", 
       "last_name": "Mays", 
@@ -3172,7 +3189,7 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:21:20", 
       "state_votes": 0, 
-      "votes": 40, 
+      "votes": 41, 
       "district_votes": 0, 
       "state": "WA", 
       "iface": "question", 
