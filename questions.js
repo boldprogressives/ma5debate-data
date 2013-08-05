@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Tucson", 
+      "first_name": "John", 
+      "last_name": "Armstrong", 
+      "user_id": 969942, 
+      "submission": "The democratic 'experiment' that defined this nation lasted about 200 years.  It came to an end with Ronald Reagan.  What will you do to bring government for the people by the people back?", 
+      "district": "AZ_02", 
+      "created": "2013-08-05T06:17:51", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "AZ", 
+      "iface": "question", 
+      "y": 32.2744, 
+      "x": -110.82899999999999, 
+      "id": 16176666
+    }, 
+    {
       "city": "Midlothian", 
       "first_name": "thomas", 
       "last_name": "deceault", 
