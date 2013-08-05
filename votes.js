@@ -2,6 +2,78 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Denver", 
+      "first_name": "Dianne", 
+      "last_name": "thiel", 
+      "user_id": 1572807, 
+      "district": "CO_01", 
+      "created": "2013-08-05T02:49:08", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16175978, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Albany", 
+      "first_name": "Theodore", 
+      "last_name": "Montgomery", 
+      "user_id": 519333, 
+      "district": "OR_04", 
+      "created": "2013-08-05T02:49:00", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16175977, 
+      "question_id": "16175624"
+    }, 
+    {
+      "city": "Albany", 
+      "first_name": "Theodore", 
+      "last_name": "Montgomery", 
+      "user_id": 519333, 
+      "district": "OR_04", 
+      "created": "2013-08-05T02:48:34", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16175974, 
+      "question_id": "16175571"
+    }, 
+    {
+      "city": "Albany", 
+      "first_name": "Theodore", 
+      "last_name": "Montgomery", 
+      "user_id": 519333, 
+      "district": "OR_04", 
+      "created": "2013-08-05T02:48:27", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16175973, 
+      "question_id": "16175570"
+    }, 
+    {
+      "city": "Albany", 
+      "first_name": "Theodore", 
+      "last_name": "Montgomery", 
+      "user_id": 519333, 
+      "district": "OR_04", 
+      "created": "2013-08-05T02:48:13", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16175972, 
+      "question_id": "16175552"
+    }, 
+    {
+      "city": "Albany", 
+      "first_name": "Theodore", 
+      "last_name": "Montgomery", 
+      "user_id": 519333, 
+      "district": "OR_04", 
+      "created": "2013-08-05T02:48:04", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16175971, 
+      "question_id": "16175507"
+    }, 
+    {
       "city": "Portland", 
       "first_name": "Mark", 
       "last_name": "Mersky", 
