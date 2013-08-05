@@ -2,6 +2,78 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Sugar Land", 
+      "first_name": "Sue", 
+      "last_name": "Liu", 
+      "user_id": 1777512, 
+      "district": "TX_22", 
+      "created": "2013-08-05T14:25:59", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16177594, 
+      "question_id": "16172281"
+    }, 
+    {
+      "city": "Sugar Land", 
+      "first_name": "Sue", 
+      "last_name": "Liu", 
+      "user_id": 1777512, 
+      "district": "TX_22", 
+      "created": "2013-08-05T14:25:55", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16177593, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Sugar Land", 
+      "first_name": "Sue", 
+      "last_name": "Liu", 
+      "user_id": 1777512, 
+      "district": "TX_22", 
+      "created": "2013-08-05T14:25:53", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16177592, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Laramie", 
+      "first_name": "Carole", 
+      "last_name": "Johnson", 
+      "user_id": 1777804, 
+      "district": "WY_01", 
+      "created": "2013-08-05T14:25:52", 
+      "state": "WY", 
+      "iface": "vote", 
+      "id": 16177591, 
+      "question_id": "16176019"
+    }, 
+    {
+      "city": "Sugar Land", 
+      "first_name": "Sue", 
+      "last_name": "Liu", 
+      "user_id": 1777512, 
+      "district": "TX_22", 
+      "created": "2013-08-05T14:25:36", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16177590, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Sugar Land", 
+      "first_name": "Sue", 
+      "last_name": "Liu", 
+      "user_id": 1777512, 
+      "district": "TX_22", 
+      "created": "2013-08-05T14:24:11", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16177587, 
+      "question_id": "16173913"
+    }, 
+    {
       "city": "Revere", 
       "first_name": "", 
       "last_name": "", 
