@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Fenton", 
+      "first_name": "Kayla", 
+      "last_name": "Wingbermuehle", 
+      "user_id": 1544042, 
+      "district": "MO_02", 
+      "created": "2013-08-05T13:27:04", 
+      "state": "MO", 
+      "iface": "vote", 
+      "id": 16177253, 
+      "question_id": "16172533"
+    }, 
+    {
+      "city": "Grants Pass", 
+      "first_name": "suzanne", 
+      "last_name": "lavine", 
+      "user_id": 1798984, 
+      "district": "OR_02", 
+      "created": "2013-08-05T13:26:15", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16177252, 
+      "question_id": "16173335"
+    }, 
+    {
       "city": "West Plains", 
       "first_name": "philip c.", 
       "last_name": "orlikowski", 
