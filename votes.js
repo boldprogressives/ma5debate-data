@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Knoxville", 
+      "first_name": "joan", 
+      "last_name": "grim", 
+      "user_id": 6992, 
+      "district": "TN_02", 
+      "created": "2013-08-05T12:14:59", 
+      "state": "TN", 
+      "iface": "vote", 
+      "id": 16177130, 
+      "question_id": "16172281"
+    }, 
+    {
+      "city": "Knoxville", 
+      "first_name": "joan", 
+      "last_name": "grim", 
+      "user_id": 6992, 
+      "district": "TN_02", 
+      "created": "2013-08-05T12:14:56", 
+      "state": "TN", 
+      "iface": "vote", 
+      "id": 16177129, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Knoxville", 
+      "first_name": "joan", 
+      "last_name": "grim", 
+      "user_id": 6992, 
+      "district": "TN_02", 
+      "created": "2013-08-05T12:14:40", 
+      "state": "TN", 
+      "iface": "vote", 
+      "id": 16177127, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Knoxville", 
+      "first_name": "joan", 
+      "last_name": "grim", 
+      "user_id": 6992, 
+      "district": "TN_02", 
+      "created": "2013-08-05T12:14:07", 
+      "state": "TN", 
+      "iface": "vote", 
+      "id": 16177124, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "Grand Junction", 
       "first_name": "Joan", 
       "last_name": "Delano", 
