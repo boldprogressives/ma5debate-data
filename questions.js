@@ -61,7 +61,7 @@ opendebate.processFetchedQuestions({
       "district": "MN_03", 
       "created": "2013-08-05T19:38:27", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "MN", 
       "iface": "question", 
