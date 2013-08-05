@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Houston", 
+      "first_name": "Kelly", 
+      "last_name": "Hart", 
+      "user_id": 1780048, 
+      "district": "TX_02", 
+      "created": "2013-08-05T23:27:30", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16179094, 
+      "question_id": "16172694"
+    }, 
+    {
+      "city": "Lake in the Hills", 
+      "first_name": "Patricia", 
+      "last_name": "Martinez", 
+      "user_id": 1707692, 
+      "district": "IL_06", 
+      "created": "2013-08-05T23:27:14", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16179093, 
+      "question_id": "16173341"
+    }, 
+    {
+      "city": "Houston", 
+      "first_name": "Kelly", 
+      "last_name": "Hart", 
+      "user_id": 1780048, 
+      "district": "TX_02", 
+      "created": "2013-08-05T23:27:11", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16179092, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Lake in the Hills", 
+      "first_name": "Patricia", 
+      "last_name": "Martinez", 
+      "user_id": 1707692, 
+      "district": "IL_06", 
+      "created": "2013-08-05T23:26:29", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16179091, 
+      "question_id": "16173512"
+    }, 
+    {
       "city": "Lake in the Hills", 
       "first_name": "Patricia", 
       "last_name": "Martinez", 
