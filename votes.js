@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Taos", 
+      "first_name": "Mark", 
+      "last_name": "Strong", 
+      "user_id": 116958, 
+      "district": "NM_03", 
+      "created": "2013-08-05T13:20:31", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16177231, 
+      "question_id": "16172823"
+    }, 
+    {
+      "city": "Gilbert", 
+      "first_name": "L", 
+      "last_name": "Seitz", 
+      "user_id": 1572491, 
+      "district": "AZ_05", 
+      "created": "2013-08-05T13:20:15", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16177230, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Theodore", 
       "first_name": "Ivan", 
       "last_name": "Boatwright", 
