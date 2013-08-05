@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Maumelle", 
+      "first_name": "Hank", 
+      "last_name": "Haven", 
+      "user_id": 1554257, 
+      "district": "AR_02", 
+      "created": "2013-08-05T15:47:51", 
+      "state": "AR", 
+      "iface": "vote", 
+      "id": 16177859, 
+      "question_id": "16172913"
+    }, 
+    {
+      "city": "Maumelle", 
+      "first_name": "Hank", 
+      "last_name": "Haven", 
+      "user_id": 1554257, 
+      "district": "AR_02", 
+      "created": "2013-08-05T15:46:54", 
+      "state": "AR", 
+      "iface": "vote", 
+      "id": 16177857, 
+      "question_id": "16173264"
+    }, 
+    {
       "city": "Phoenix", 
       "first_name": "Marilyn", 
       "last_name": "Trimble", 
