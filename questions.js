@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Washington", 
+      "first_name": "Michael", 
+      "last_name": "Snook", 
+      "user_id": 61793, 
+      "submission": "Do you support or oppose the use of the death penalty in criminal cases? Would you support an end to capital punishment?", 
+      "district": "DC_01", 
+      "created": "2013-08-05T05:51:16", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "DC", 
+      "iface": "question", 
+      "y": 38.930399999999999, 
+      "x": -77.028199999999998, 
+      "id": 16176655
+    }, 
+    {
       "city": "Casa Grande", 
       "first_name": "Jo Anne", 
       "last_name": "Pinto", 
