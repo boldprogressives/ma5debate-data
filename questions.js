@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Seattle", 
+      "first_name": "holly", 
+      "last_name": "homan", 
+      "user_id": 569331, 
+      "submission": "Currently our public education system is under attack. Schools are being closed, teachers are being vilified, yet there always seems to be plenty of money to buy expensive tests from private, for profit companies. Will you be prepared to listen to the teachers and stop the corporate take over of public education?", 
+      "district": "WA_07", 
+      "created": "2013-08-05T16:49:09", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WA", 
+      "iface": "question", 
+      "y": 47.739699999999999, 
+      "x": -122.333, 
+      "id": 16178019
+    }, 
+    {
       "city": "Blodgett", 
       "first_name": "Michael", 
       "last_name": "Riley", 
