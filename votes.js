@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Houston", 
+      "first_name": "Sarah", 
+      "last_name": "Johnson", 
+      "user_id": 1692255, 
+      "district": "TX_09", 
+      "created": "2013-08-05T13:49:47", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16177443, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Santa Fe", 
+      "first_name": "David", 
+      "last_name": "Pease", 
+      "user_id": 79672, 
+      "district": "NM_03", 
+      "created": "2013-08-05T13:48:44", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16177441, 
+      "question_id": "16176713"
+    }, 
+    {
+      "city": "Patagonia", 
+      "first_name": "Susan", 
+      "last_name": "Englebry", 
+      "user_id": 1677808, 
+      "district": "AZ_03", 
+      "created": "2013-08-05T13:48:37", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16177439, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Georgetown", 
+      "first_name": "Howard", 
+      "last_name": "Hill", 
+      "user_id": 1664517, 
+      "district": "TX_31", 
+      "created": "2013-08-05T13:48:25", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16177438, 
+      "question_id": "16174483"
+    }, 
+    {
       "city": "Georgetown", 
       "first_name": "Howard", 
       "last_name": "Hill", 
