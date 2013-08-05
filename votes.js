@@ -7,6 +7,18 @@ opendebate.processFetchedVotes({
       "last_name": "Mason", 
       "user_id": 1783359, 
       "district": "TX_20", 
+      "created": "2013-08-05T18:18:52", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16178272, 
+      "question_id": "16176736"
+    }, 
+    {
+      "city": "San Antonio", 
+      "first_name": "Damon", 
+      "last_name": "Mason", 
+      "user_id": 1783359, 
+      "district": "TX_20", 
       "created": "2013-08-05T18:17:03", 
       "state": "TX", 
       "iface": "vote", 
