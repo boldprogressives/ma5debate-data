@@ -2,6 +2,66 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "El Paso", 
+      "first_name": "Rosa", 
+      "last_name": "Antillon", 
+      "user_id": 1618396, 
+      "district": "TX_16", 
+      "created": "2013-08-05T05:15:58", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16176599, 
+      "question_id": "16172303"
+    }, 
+    {
+      "city": "El Paso", 
+      "first_name": "Rosa", 
+      "last_name": "Antillon", 
+      "user_id": 1618396, 
+      "district": "TX_16", 
+      "created": "2013-08-05T05:14:56", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16176598, 
+      "question_id": "16173210"
+    }, 
+    {
+      "city": "El Paso", 
+      "first_name": "Rosa", 
+      "last_name": "Antillon", 
+      "user_id": 1618396, 
+      "district": "TX_16", 
+      "created": "2013-08-05T05:14:45", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16176597, 
+      "question_id": "16172207"
+    }, 
+    {
+      "city": "El Paso", 
+      "first_name": "Rosa", 
+      "last_name": "Antillon", 
+      "user_id": 1618396, 
+      "district": "TX_16", 
+      "created": "2013-08-05T05:14:20", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16176596, 
+      "question_id": "16172533"
+    }, 
+    {
+      "city": "El Paso", 
+      "first_name": "Rosa", 
+      "last_name": "Antillon", 
+      "user_id": 1618396, 
+      "district": "TX_16", 
+      "created": "2013-08-05T05:14:11", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16176595, 
+      "question_id": "16172913"
+    }, 
+    {
       "city": "Eagle", 
       "first_name": "Shari", 
       "last_name": "Sharp", 
