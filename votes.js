@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Lake in the Hills", 
+      "first_name": "Patricia", 
+      "last_name": "Martinez", 
+      "user_id": 1707692, 
+      "district": "IL_06", 
+      "created": "2013-08-05T23:43:48", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16179164, 
+      "question_id": "16172587"
+    }, 
+    {
+      "city": "Lake in the Hills", 
+      "first_name": "Patricia", 
+      "last_name": "Martinez", 
+      "user_id": 1707692, 
+      "district": "IL_06", 
+      "created": "2013-08-05T23:43:17", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16179161, 
+      "question_id": "16172583"
+    }, 
+    {
       "city": "albuquerque", 
       "first_name": "Tracy", 
       "last_name": "Meyer", 
