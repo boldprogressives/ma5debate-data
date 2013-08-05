@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Mountlake Terrace", 
+      "first_name": "Pat", 
+      "last_name": "Glenham", 
+      "user_id": 1692335, 
+      "submission": "What will you do SPECIFICALLY about women's issues: reproductive rights, equal pay, violence against women, military violence against women, family caregiving, etc. etc. etc.?", 
+      "district": "WA_02", 
+      "created": "2013-08-05T00:30:33", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WA", 
+      "iface": "question", 
+      "y": 47.791800000000002, 
+      "x": -122.304, 
+      "id": 16175552
+    }, 
+    {
       "city": "Fort Atkinson", 
       "first_name": "Diane H", 
       "last_name": "Fabian", 
@@ -962,7 +979,7 @@ opendebate.processFetchedQuestions({
       "district": "AZ_06", 
       "created": "2013-08-04T19:15:45", 
       "state_votes": 1, 
-      "votes": 5, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "AZ", 
       "iface": "question", 
