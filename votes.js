@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Midland", 
+      "first_name": "Grace", 
+      "last_name": "Aguilar", 
+      "user_id": 1788563, 
+      "district": "TX_11", 
+      "created": "2013-08-05T10:42:06", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16176930, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Midland", 
+      "first_name": "Grace", 
+      "last_name": "Aguilar", 
+      "user_id": 1788563, 
+      "district": "TX_11", 
+      "created": "2013-08-05T10:42:04", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16176929, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Kailua Kona", 
       "first_name": "jc", 
       "last_name": "shannon", 
