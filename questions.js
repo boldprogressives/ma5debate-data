@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Thornton", 
+      "first_name": "Henry", 
+      "last_name": "Sherman", 
+      "user_id": 1808602, 
+      "submission": "Why is there not even ONE mention about possibly repealing the \"Patriot Act\", even though that one law has completely obliterated all of our civil rights that were guaranteed in the Constitution??? All USA laws have become invalid, especially for protecting against oppressive governmental organizations, by simply declaring ANYONE an \"Enemy Combatant\" with no real justification for that declaration. The Constitution was specifically created to design precautions against an oppressive government that already had gone too far (Britain). ", 
+      "district": "CO_07", 
+      "created": "2013-08-05T03:21:23", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "CO", 
+      "iface": "question", 
+      "y": 39.928800000000003, 
+      "x": -104.946, 
+      "id": 16176201
+    }, 
+    {
       "city": "Albuquerque", 
       "first_name": "Edward", 
       "last_name": "Fikani", 
@@ -3597,7 +3614,7 @@ opendebate.processFetchedQuestions({
       "district": "OR_05", 
       "created": "2013-08-03T22:30:45", 
       "state_votes": 0, 
-      "votes": 22, 
+      "votes": 23, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "question", 
