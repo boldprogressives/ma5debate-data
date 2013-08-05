@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Blodgett", 
+      "first_name": "Michael", 
+      "last_name": "Riley", 
+      "user_id": 1783751, 
+      "submission": "VoteWhere do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org ", 
+      "district": "OR_04", 
+      "created": "2013-08-05T16:42:23", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "OR", 
+      "iface": "question", 
+      "y": 44.6417, 
+      "x": -123.553, 
+      "id": 16178004
+    }, 
+    {
       "city": "Kenosha", 
       "first_name": "Grace", 
       "last_name": "Francken", 
