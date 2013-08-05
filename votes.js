@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Phoenix", 
+      "first_name": "Maureen", 
+      "last_name": "Conrad", 
+      "user_id": 1734856, 
+      "district": "AZ_06", 
+      "created": "2013-08-05T17:05:47", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16178055, 
+      "question_id": "16178048"
+    }, 
+    {
+      "city": "Albuquerque", 
+      "first_name": "Charles", 
+      "last_name": "Shelly", 
+      "user_id": 1057793, 
+      "district": "NM_01", 
+      "created": "2013-08-05T17:05:23", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16178054, 
+      "question_id": "16172690"
+    }, 
+    {
+      "city": "Albuquerque", 
+      "first_name": "Charles", 
+      "last_name": "Shelly", 
+      "user_id": 1057793, 
+      "district": "NM_01", 
+      "created": "2013-08-05T17:04:58", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16178053, 
+      "question_id": "16173335"
+    }, 
+    {
+      "city": "Albuquerque", 
+      "first_name": "Charles", 
+      "last_name": "Shelly", 
+      "user_id": 1057793, 
+      "district": "NM_01", 
+      "created": "2013-08-05T17:04:18", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16178050, 
+      "question_id": "16172913"
+    }, 
+    {
       "city": "Yorktown", 
       "first_name": "Alvin", 
       "last_name": "Stanchos", 
