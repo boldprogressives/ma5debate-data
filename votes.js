@@ -2,6 +2,66 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Las Vegas", 
+      "first_name": "Michael", 
+      "last_name": "Guzman", 
+      "user_id": 1657835, 
+      "district": "NV_01", 
+      "created": "2013-08-05T03:25:52", 
+      "state": "NV", 
+      "iface": "vote", 
+      "id": 16176239, 
+      "question_id": "16174014"
+    }, 
+    {
+      "city": "Colorado Springs", 
+      "first_name": "Esther", 
+      "last_name": "Cup Choy", 
+      "user_id": 288024, 
+      "district": "CO_05", 
+      "created": "2013-08-05T03:25:47", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16176237, 
+      "question_id": "16172542"
+    }, 
+    {
+      "city": "Denver", 
+      "first_name": "Maureen", 
+      "last_name": "Lancaster", 
+      "user_id": 570144, 
+      "district": "CO_01", 
+      "created": "2013-08-05T03:25:36", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16176231, 
+      "question_id": "16174323"
+    }, 
+    {
+      "city": "Colorado Springs", 
+      "first_name": "Esther", 
+      "last_name": "Cup Choy", 
+      "user_id": 288024, 
+      "district": "CO_05", 
+      "created": "2013-08-05T03:25:11", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16176230, 
+      "question_id": "16172765"
+    }, 
+    {
+      "city": "Colorado Springs", 
+      "first_name": "Esther", 
+      "last_name": "Cup Choy", 
+      "user_id": 288024, 
+      "district": "CO_05", 
+      "created": "2013-08-05T03:24:46", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16176229, 
+      "question_id": "16173210"
+    }, 
+    {
       "city": "Colorado Springs", 
       "first_name": "Esther", 
       "last_name": "Cup Choy", 
