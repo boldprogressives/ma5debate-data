@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Yakima", 
+      "first_name": "Aaron", 
+      "last_name": "Poukkula", 
+      "user_id": 1234323, 
+      "district": "WA_04", 
+      "created": "2013-08-05T09:15:41", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16176895, 
+      "question_id": "16172913"
+    }, 
+    {
+      "city": "Sioux Falls", 
+      "first_name": "John", 
+      "last_name": "Carman", 
+      "user_id": 1475762, 
+      "district": "SD_01", 
+      "created": "2013-08-05T09:14:30", 
+      "state": "SD", 
+      "iface": "vote", 
+      "id": 16176894, 
+      "question_id": "16173327"
+    }, 
+    {
       "city": "Sioux Falls", 
       "first_name": "John", 
       "last_name": "Carman", 
