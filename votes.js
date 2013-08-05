@@ -2,6 +2,66 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "La Center", 
+      "first_name": "ron", 
+      "last_name": "copas", 
+      "user_id": 1176645, 
+      "district": "WA_03", 
+      "created": "2013-08-05T16:03:58", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16177900, 
+      "question_id": "16176666"
+    }, 
+    {
+      "city": "Marthasville", 
+      "first_name": "Robert", 
+      "last_name": "Manchester", 
+      "user_id": 1808092, 
+      "district": "MO_03", 
+      "created": "2013-08-05T16:03:49", 
+      "state": "MO", 
+      "iface": "vote", 
+      "id": 16177899, 
+      "question_id": "16172281"
+    }, 
+    {
+      "city": "La Center", 
+      "first_name": "ron", 
+      "last_name": "copas", 
+      "user_id": 1176645, 
+      "district": "WA_03", 
+      "created": "2013-08-05T16:03:21", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16177898, 
+      "question_id": "16176673"
+    }, 
+    {
+      "city": "La Center", 
+      "first_name": "ron", 
+      "last_name": "copas", 
+      "user_id": 1176645, 
+      "district": "WA_03", 
+      "created": "2013-08-05T16:02:51", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16177897, 
+      "question_id": "16176690"
+    }, 
+    {
+      "city": "La Center", 
+      "first_name": "ron", 
+      "last_name": "copas", 
+      "user_id": 1176645, 
+      "district": "WA_03", 
+      "created": "2013-08-05T16:02:16", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16177894, 
+      "question_id": "16176713"
+    }, 
+    {
       "city": "Billings", 
       "first_name": "Robert R.", 
       "last_name": "Miller", 
