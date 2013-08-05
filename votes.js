@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "durango", 
+      "first_name": "janet", 
+      "last_name": "monell", 
+      "user_id": 1692163, 
+      "district": "CO_03", 
+      "created": "2013-08-05T04:09:57", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16176460, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "durango", 
+      "first_name": "janet", 
+      "last_name": "monell", 
+      "user_id": 1692163, 
+      "district": "CO_03", 
+      "created": "2013-08-05T04:09:51", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16176459, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Luck", 
+      "first_name": "Robert", 
+      "last_name": "Clifton", 
+      "user_id": 1772893, 
+      "district": "WI_07", 
+      "created": "2013-08-05T04:09:46", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16176458, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "durango", 
+      "first_name": "janet", 
+      "last_name": "monell", 
+      "user_id": 1692163, 
+      "district": "CO_03", 
+      "created": "2013-08-05T04:09:38", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16176457, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Luck", 
       "first_name": "Robert", 
       "last_name": "Clifton", 
