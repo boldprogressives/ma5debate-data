@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Tucson", 
+      "first_name": "Mary", 
+      "last_name": "Ker", 
+      "user_id": 1775082, 
+      "district": "AZ_02", 
+      "created": "2013-08-05T15:27:31", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16177810, 
+      "question_id": "16172530"
+    }, 
+    {
+      "city": "Tucson", 
+      "first_name": "Mary", 
+      "last_name": "Ker", 
+      "user_id": 1775082, 
+      "district": "AZ_02", 
+      "created": "2013-08-05T15:26:59", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16177809, 
+      "question_id": "16174044"
+    }, 
+    {
+      "city": "Tucson", 
+      "first_name": "Mary", 
+      "last_name": "Ker", 
+      "user_id": 1775082, 
+      "district": "AZ_02", 
+      "created": "2013-08-05T15:26:54", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16177808, 
+      "question_id": "16174342"
+    }, 
+    {
+      "city": "Tucson", 
+      "first_name": "Mary", 
+      "last_name": "Ker", 
+      "user_id": 1775082, 
+      "district": "AZ_02", 
+      "created": "2013-08-05T15:26:51", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16177807, 
+      "question_id": "16175500"
+    }, 
+    {
       "city": "Franklin", 
       "first_name": "Maxwell", 
       "last_name": "Morrongiello", 
