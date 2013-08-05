@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Kihei", 
+      "first_name": "Netra", 
+      "last_name": "Halperin", 
+      "user_id": 1127284, 
+      "district": "HI_02", 
+      "created": "2013-08-05T04:42:23", 
+      "state": "HI", 
+      "iface": "vote", 
+      "id": 16176541, 
+      "question_id": "16172207"
+    }, 
+    {
       "city": "Copperas Cove", 
       "first_name": "Tommy", 
       "last_name": "Hill", 
