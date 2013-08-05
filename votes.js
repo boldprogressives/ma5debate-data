@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Chicago", 
+      "first_name": "Don", 
+      "last_name": "Washington", 
+      "user_id": 1073002, 
+      "district": "IL_04", 
+      "created": "2013-08-05T07:01:12", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16176728, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Chicago", 
+      "first_name": "Don", 
+      "last_name": "Washington", 
+      "user_id": 1073002, 
+      "district": "IL_04", 
+      "created": "2013-08-05T07:01:03", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16176726, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Las Vegas", 
       "first_name": "Gordon", 
       "last_name": "Brown", 
