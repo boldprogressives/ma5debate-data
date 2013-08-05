@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Midlothian", 
+      "first_name": "thomas", 
+      "last_name": "deceault", 
+      "user_id": 1730186, 
+      "submission": "what law changes over the last 30 or so years have been poorly understood or recognized by the American public .How have they put us in the current economic state of affairs ?Were they intended to have these social changes?", 
+      "district": "IL_01", 
+      "created": "2013-08-05T06:07:26", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "IL", 
+      "iface": "question", 
+      "y": 41.6357, 
+      "x": -87.738600000000005, 
+      "id": 16176660
+    }, 
+    {
       "city": "Washington", 
       "first_name": "Michael", 
       "last_name": "Snook", 
