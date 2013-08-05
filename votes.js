@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Deming", 
+      "first_name": "Stephen Bailey", 
+      "last_name": "", 
+      "user_id": 1783425, 
+      "district": "WA_01", 
+      "created": "2013-08-05T12:55:05", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16177173, 
+      "question_id": "16176917"
+    }, 
+    {
       "city": "Ottawa", 
       "first_name": "Drew", 
       "last_name": "McConville", 
