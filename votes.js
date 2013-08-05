@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Idaho Falls", 
+      "first_name": "Claire", 
+      "last_name": "Ashton-Heckathorn", 
+      "user_id": 1807090, 
+      "district": "ID_02", 
+      "created": "2013-08-05T06:23:55", 
+      "state": "ID", 
+      "iface": "vote", 
+      "id": 16176671, 
+      "question_id": "16176666"
+    }, 
+    {
+      "city": "Washington", 
+      "first_name": "Michael", 
+      "last_name": "Snook", 
+      "user_id": 61793, 
+      "district": "DC_01", 
+      "created": "2013-08-05T06:23:52", 
+      "state": "DC", 
+      "iface": "vote", 
+      "id": 16176670, 
+      "question_id": "16176655"
+    }, 
+    {
       "city": "Cleburne", 
       "first_name": "Jan", 
       "last_name": "Hawkins", 
