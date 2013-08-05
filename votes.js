@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Bella Vista", 
+      "first_name": "Leila", 
+      "last_name": "Medley", 
+      "user_id": 1779155, 
+      "district": "AR_03", 
+      "created": "2013-08-05T19:00:05", 
+      "state": "AR", 
+      "iface": "vote", 
+      "id": 16178454, 
+      "question_id": "16173921"
+    }, 
+    {
+      "city": "Bella Vista", 
+      "first_name": "Leila", 
+      "last_name": "Medley", 
+      "user_id": 1779155, 
+      "district": "AR_03", 
+      "created": "2013-08-05T18:59:55", 
+      "state": "AR", 
+      "iface": "vote", 
+      "id": 16178452, 
+      "question_id": "16172533"
+    }, 
+    {
       "city": "Minneapolis", 
       "first_name": "Judith", 
       "last_name": "Felker", 
