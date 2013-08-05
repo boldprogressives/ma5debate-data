@@ -1285,7 +1285,7 @@ opendebate.processFetchedQuestions({
       "district": "NM_01", 
       "created": "2013-08-05T03:17:00", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "NM", 
       "iface": "question", 
