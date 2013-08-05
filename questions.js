@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Mondovi", 
+      "first_name": "Cynthia", 
+      "last_name": "Archibald", 
+      "user_id": 1754765, 
+      "submission": "Many colleges require a service learning project of their students.  Do you think we could require that of our congress so they get in touch with the people instead of corporations?", 
+      "district": "WI_03", 
+      "created": "2013-08-05T10:45:15", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WI", 
+      "iface": "question", 
+      "y": 44.566400000000002, 
+      "x": -91.671800000000005, 
+      "id": 16176933
+    }, 
+    {
       "city": "Snohomish", 
       "first_name": "Robert", 
       "last_name": "Beissel", 
@@ -4974,7 +4991,7 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:52:54", 
       "state_votes": 0, 
-      "votes": 37, 
+      "votes": 38, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
