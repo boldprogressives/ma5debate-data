@@ -3478,7 +3478,7 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:25:59", 
       "state_votes": 0, 
-      "votes": 72, 
+      "votes": 73, 
       "district_votes": 0, 
       "state": "TX", 
       "iface": "question", 
