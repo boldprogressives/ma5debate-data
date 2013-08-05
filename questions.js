@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Snohomish", 
+      "first_name": "Robert", 
+      "last_name": "Beissel", 
+      "user_id": 1687374, 
+      "submission": "Will you make it your highest priority to prosecute the bankers who brought about the financial crisis and force them to pay back the billions they stole from us as well as confining them to long prison terms?", 
+      "district": "WA_01", 
+      "created": "2013-08-05T09:48:49", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WA", 
+      "iface": "question", 
+      "y": 47.939500000000002, 
+      "x": -122.017, 
+      "id": 16176917
+    }, 
+    {
       "city": "Sioux Falls", 
       "first_name": "John", 
       "last_name": "Carman", 
