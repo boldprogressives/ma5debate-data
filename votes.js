@@ -2,6 +2,78 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Albuquerque", 
+      "first_name": "Frank", 
+      "last_name": "Johnson", 
+      "user_id": 108700, 
+      "district": "NM_01", 
+      "created": "2013-08-05T00:25:59", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16175511, 
+      "question_id": "16172533"
+    }, 
+    {
+      "city": "Albuquerque", 
+      "first_name": "Frank", 
+      "last_name": "Johnson", 
+      "user_id": 108700, 
+      "district": "NM_01", 
+      "created": "2013-08-05T00:25:55", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16175510, 
+      "question_id": "16172913"
+    }, 
+    {
+      "city": "Albuquerque", 
+      "first_name": "Frank", 
+      "last_name": "Johnson", 
+      "user_id": 108700, 
+      "district": "NM_01", 
+      "created": "2013-08-05T00:25:44", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16175509, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Albuquerque", 
+      "first_name": "Frank", 
+      "last_name": "Johnson", 
+      "user_id": 108700, 
+      "district": "NM_01", 
+      "created": "2013-08-05T00:25:38", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16175508, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Albuquerque", 
+      "first_name": "Frank", 
+      "last_name": "Johnson", 
+      "user_id": 108700, 
+      "district": "NM_01", 
+      "created": "2013-08-05T00:25:17", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16175506, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Naples", 
+      "first_name": "Marshall", 
+      "last_name": "Sprague", 
+      "user_id": 1206743, 
+      "district": "FL_25", 
+      "created": "2013-08-05T00:24:04", 
+      "state": "FL", 
+      "iface": "vote", 
+      "id": 16175505, 
+      "question_id": "16175493"
+    }, 
+    {
       "city": "Naples", 
       "first_name": "Marshall", 
       "last_name": "Sprague", 
