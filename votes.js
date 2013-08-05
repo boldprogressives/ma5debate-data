@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Portland", 
+      "first_name": "Robert", 
+      "last_name": "Hodge", 
+      "user_id": 861402, 
+      "district": "OR_03", 
+      "created": "2013-08-05T07:09:07", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16176741, 
+      "question_id": "16173335"
+    }, 
+    {
+      "city": "Portland", 
+      "first_name": "Robert", 
+      "last_name": "Hodge", 
+      "user_id": 861402, 
+      "district": "OR_03", 
+      "created": "2013-08-05T07:08:39", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16176739, 
+      "question_id": "16172823"
+    }, 
+    {
       "city": "Oklahoma City", 
       "first_name": "Rita", 
       "last_name": "Broussard", 
