@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "San Antonio", 
+      "first_name": "Damon", 
+      "last_name": "Mason", 
+      "user_id": 1783359, 
+      "submission": "What will you do to emulate Amtrak's Auto-Train interurban rail service ALL OVER the United States with the emphatic blessing of both Union Pacific and Burlington Northern-Santa Fe?", 
+      "district": "TX_20", 
+      "created": "2013-08-05T17:40:25", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "TX", 
+      "iface": "question", 
+      "y": 29.467199999999998, 
+      "x": -98.530000000000001, 
+      "id": 16178120
+    }, 
+    {
       "city": "Saint Louis", 
       "first_name": "james", 
       "last_name": "sellers", 
@@ -5331,7 +5348,7 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T21:01:00", 
       "state_votes": 0, 
-      "votes": 2, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
