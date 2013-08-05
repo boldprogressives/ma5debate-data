@@ -2,6 +2,66 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Fairfield", 
+      "first_name": "Thelma Jones", 
+      "last_name": "", 
+      "user_id": 1785741, 
+      "district": "IA_02", 
+      "created": "2013-08-05T14:47:56", 
+      "state": "IA", 
+      "iface": "vote", 
+      "id": 16177632, 
+      "question_id": "16172281"
+    }, 
+    {
+      "city": "Fairfield", 
+      "first_name": "Thelma Jones", 
+      "last_name": "", 
+      "user_id": 1785741, 
+      "district": "IA_02", 
+      "created": "2013-08-05T14:47:44", 
+      "state": "IA", 
+      "iface": "vote", 
+      "id": 16177631, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Fairfield", 
+      "first_name": "Thelma Jones", 
+      "last_name": "", 
+      "user_id": 1785741, 
+      "district": "IA_02", 
+      "created": "2013-08-05T14:47:24", 
+      "state": "IA", 
+      "iface": "vote", 
+      "id": 16177630, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Fairfield", 
+      "first_name": "Thelma Jones", 
+      "last_name": "", 
+      "user_id": 1785741, 
+      "district": "IA_02", 
+      "created": "2013-08-05T14:47:09", 
+      "state": "IA", 
+      "iface": "vote", 
+      "id": 16177629, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Fairfield", 
+      "first_name": "Thelma Jones", 
+      "last_name": "", 
+      "user_id": 1785741, 
+      "district": "IA_02", 
+      "created": "2013-08-05T14:46:45", 
+      "state": "IA", 
+      "iface": "vote", 
+      "id": 16177626, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Boston", 
       "first_name": "Matt", 
       "last_name": "Wall", 
