@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Maryville", 
+      "first_name": "Clifford", 
+      "last_name": "Flath", 
+      "user_id": 135402, 
+      "district": "IL_13", 
+      "created": "2013-08-05T16:09:08", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16177913, 
+      "question_id": "16172731"
+    }, 
+    {
+      "city": "Maryville", 
+      "first_name": "Clifford", 
+      "last_name": "Flath", 
+      "user_id": 135402, 
+      "district": "IL_13", 
+      "created": "2013-08-05T16:08:24", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16177910, 
+      "question_id": "16173264"
+    }, 
+    {
       "city": "La Center", 
       "first_name": "ron", 
       "last_name": "copas", 
