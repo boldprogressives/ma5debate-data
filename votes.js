@@ -7,6 +7,18 @@ opendebate.processFetchedVotes({
       "last_name": "Halperin", 
       "user_id": 1127284, 
       "district": "HI_02", 
+      "created": "2013-08-05T04:47:44", 
+      "state": "HI", 
+      "iface": "vote", 
+      "id": 16176549, 
+      "question_id": "16172690"
+    }, 
+    {
+      "city": "Kihei", 
+      "first_name": "Netra", 
+      "last_name": "Halperin", 
+      "user_id": 1127284, 
+      "district": "HI_02", 
       "created": "2013-08-05T04:42:23", 
       "state": "HI", 
       "iface": "vote", 
