@@ -2,6 +2,66 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Tucson", 
+      "first_name": "Mary", 
+      "last_name": "Ker", 
+      "user_id": 1775082, 
+      "district": "AZ_02", 
+      "created": "2013-08-05T15:41:23", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16177848, 
+      "question_id": "16177259"
+    }, 
+    {
+      "city": "Tucson", 
+      "first_name": "Mary", 
+      "last_name": "Ker", 
+      "user_id": 1775082, 
+      "district": "AZ_02", 
+      "created": "2013-08-05T15:40:59", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16177846, 
+      "question_id": "16177784"
+    }, 
+    {
+      "city": "Tucson", 
+      "first_name": "Mary", 
+      "last_name": "Ker", 
+      "user_id": 1775082, 
+      "district": "AZ_02", 
+      "created": "2013-08-05T15:40:43", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16177844, 
+      "question_id": "16177825"
+    }, 
+    {
+      "city": "Tucson", 
+      "first_name": "Mary", 
+      "last_name": "Ker", 
+      "user_id": 1775082, 
+      "district": "AZ_02", 
+      "created": "2013-08-05T15:40:38", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16177843, 
+      "question_id": "16177840"
+    }, 
+    {
+      "city": "Tucson", 
+      "first_name": "Mary", 
+      "last_name": "Ker", 
+      "user_id": 1775082, 
+      "district": "AZ_02", 
+      "created": "2013-08-05T15:40:31", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16177842, 
+      "question_id": "16177841"
+    }, 
+    {
       "city": "Bend", 
       "first_name": "Harriett", 
       "last_name": "Heisey", 
