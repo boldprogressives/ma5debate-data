@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "San Antonio", 
+      "first_name": "Damon", 
+      "last_name": "Mason", 
+      "user_id": 1783359, 
+      "submission": "I would like female 3rd world immigrants -- especially from SW Asia and north Africa -- required to start new families from scratch with male American citizens.  Are you going to effect that?", 
+      "district": "TX_20", 
+      "created": "2013-08-05T16:07:34", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "TX", 
+      "iface": "question", 
+      "y": 29.467199999999998, 
+      "x": -98.530000000000001, 
+      "id": 16177908
+    }, 
+    {
       "city": "Schaumburg", 
       "first_name": "Nancy", 
       "last_name": "Schmidt", 
