@@ -2,6 +2,78 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Portland", 
+      "first_name": "Marian", 
+      "last_name": "Drake", 
+      "user_id": 185459, 
+      "district": "OR_03", 
+      "created": "2013-08-05T03:00:07", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16176014, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Henderson", 
+      "first_name": "Della", 
+      "last_name": "Drowns", 
+      "user_id": 1807098, 
+      "district": "NV_03", 
+      "created": "2013-08-05T03:00:03", 
+      "state": "NV", 
+      "iface": "vote", 
+      "id": 16176011, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Portland", 
+      "first_name": "Marian", 
+      "last_name": "Drake", 
+      "user_id": 185459, 
+      "district": "OR_03", 
+      "created": "2013-08-05T02:59:54", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16176010, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Cleveland", 
+      "first_name": "LaRayne", 
+      "last_name": "Hall", 
+      "user_id": 1769381, 
+      "district": "TN_03", 
+      "created": "2013-08-05T02:59:32", 
+      "state": "TN", 
+      "iface": "vote", 
+      "id": 16176009, 
+      "question_id": "16175691"
+    }, 
+    {
+      "city": "Cleveland", 
+      "first_name": "LaRayne", 
+      "last_name": "Hall", 
+      "user_id": 1769381, 
+      "district": "TN_03", 
+      "created": "2013-08-05T02:58:35", 
+      "state": "TN", 
+      "iface": "vote", 
+      "id": 16176006, 
+      "question_id": "16175867"
+    }, 
+    {
+      "city": "Cleveland", 
+      "first_name": "LaRayne", 
+      "last_name": "Hall", 
+      "user_id": 1769381, 
+      "district": "TN_03", 
+      "created": "2013-08-05T02:58:12", 
+      "state": "TN", 
+      "iface": "vote", 
+      "id": 16176004, 
+      "question_id": "16175872"
+    }, 
+    {
       "city": "Henderson", 
       "first_name": "Della", 
       "last_name": "Drowns", 
