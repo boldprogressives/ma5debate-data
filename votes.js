@@ -2,6 +2,66 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Denver", 
+      "first_name": "John", 
+      "last_name": "Eckler", 
+      "user_id": 1060241, 
+      "district": "CO_07", 
+      "created": "2013-08-05T17:44:01", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16178131, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Great Neck", 
+      "first_name": "Ethan", 
+      "last_name": "Jucovy", 
+      "user_id": 385575, 
+      "district": "NY_03", 
+      "created": "2013-08-05T17:43:54", 
+      "state": "NY", 
+      "iface": "vote", 
+      "id": 16178130, 
+      "question_id": "16178120"
+    }, 
+    {
+      "city": "Vancouver", 
+      "first_name": "Lane and June Barton", 
+      "last_name": "Barton", 
+      "user_id": 74871, 
+      "district": "WA_03", 
+      "created": "2013-08-05T17:43:48", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16178129, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Great Neck", 
+      "first_name": "Ethan", 
+      "last_name": "Jucovy", 
+      "user_id": 385575, 
+      "district": "NY_03", 
+      "created": "2013-08-05T17:43:02", 
+      "state": "NY", 
+      "iface": "vote", 
+      "id": 16178126, 
+      "question_id": "16172755"
+    }, 
+    {
+      "city": "Albuquerque", 
+      "first_name": "Charles", 
+      "last_name": "Shelly", 
+      "user_id": 1057793, 
+      "district": "NM_01", 
+      "created": "2013-08-05T17:42:31", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16178125, 
+      "question_id": "16173166"
+    }, 
+    {
       "city": "Albuquerque", 
       "first_name": "Charles", 
       "last_name": "Shelly", 
