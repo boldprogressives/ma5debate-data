@@ -2,6 +2,66 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Buffalo Grove", 
+      "first_name": "Susan", 
+      "last_name": "Osada", 
+      "user_id": 144294, 
+      "district": "IL_08", 
+      "created": "2013-08-05T01:47:53", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16175755, 
+      "question_id": "16175636"
+    }, 
+    {
+      "city": "Webb", 
+      "first_name": "kay", 
+      "last_name": "rosacker", 
+      "user_id": 467754, 
+      "district": "IA_04", 
+      "created": "2013-08-05T01:46:53", 
+      "state": "IA", 
+      "iface": "vote", 
+      "id": 16175754, 
+      "question_id": "16172866"
+    }, 
+    {
+      "city": "Webb", 
+      "first_name": "kay", 
+      "last_name": "rosacker", 
+      "user_id": 467754, 
+      "district": "IA_04", 
+      "created": "2013-08-05T01:46:33", 
+      "state": "IA", 
+      "iface": "vote", 
+      "id": 16175753, 
+      "question_id": "16173259"
+    }, 
+    {
+      "city": "Webb", 
+      "first_name": "kay", 
+      "last_name": "rosacker", 
+      "user_id": 467754, 
+      "district": "IA_04", 
+      "created": "2013-08-05T01:46:29", 
+      "state": "IA", 
+      "iface": "vote", 
+      "id": 16175752, 
+      "question_id": "16172823"
+    }, 
+    {
+      "city": "Webb", 
+      "first_name": "kay", 
+      "last_name": "rosacker", 
+      "user_id": 467754, 
+      "district": "IA_04", 
+      "created": "2013-08-05T01:46:09", 
+      "state": "IA", 
+      "iface": "vote", 
+      "id": 16175751, 
+      "question_id": "16172765"
+    }, 
+    {
       "city": "Webb", 
       "first_name": "kay", 
       "last_name": "rosacker", 
