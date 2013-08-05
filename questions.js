@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Madison", 
+      "first_name": "Deborah", 
+      "last_name": "Baverstock", 
+      "user_id": 1683096, 
+      "submission": "Where do you stand on a constitutional admendment that declares that corporations are NOT, in fact, people and do not have the legal rights of people.", 
+      "district": "WI_02", 
+      "created": "2013-08-05T03:39:13", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WI", 
+      "iface": "question", 
+      "y": 43.032800000000002, 
+      "x": -89.498099999999994, 
+      "id": 16176313
+    }, 
+    {
       "city": "Denver", 
       "first_name": "Maureen", 
       "last_name": "Lancaster", 
@@ -4379,7 +4396,7 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:42:20", 
       "state_votes": 0, 
-      "votes": 47, 
+      "votes": 48, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
