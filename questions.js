@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Naples", 
+      "first_name": "Marshall", 
+      "last_name": "Sprague", 
+      "user_id": 1206743, 
+      "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
+      "district": "FL_25", 
+      "created": "2013-08-05T00:22:27", 
+      "state_votes": 0, 
+      "votes": 1, 
+      "district_votes": 0, 
+      "state": "FL", 
+      "iface": "question", 
+      "y": 25.989999999999998, 
+      "x": -81.5334, 
+      "id": 16175500
+    }, 
+    {
       "city": "Seattle", 
       "first_name": "Richard", 
       "last_name": "Thomas", 
