@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Fenton", 
+      "first_name": "Kayla", 
+      "last_name": "Wingbermuehle", 
+      "user_id": 1544042, 
+      "district": "MO_02", 
+      "created": "2013-08-05T21:41:00", 
+      "state": "MO", 
+      "iface": "vote", 
+      "id": 16178815, 
+      "question_id": "16178617"
+    }, 
+    {
       "city": "Scottsdale", 
       "first_name": "Gayla", 
       "last_name": "Strahan", 
