@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Mount Vernon", 
+      "first_name": "Laura", 
+      "last_name": "Mays", 
+      "user_id": 1740783, 
+      "submission": "How can anyone justify the corporate greed of Bankers and CEOs in so many companies? What can we do to change that?", 
+      "district": "IL_12", 
+      "created": "2013-08-05T01:02:14", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "IL", 
+      "iface": "question", 
+      "y": 38.317599999999999, 
+      "x": -88.909300000000002, 
+      "id": 16175625
+    }, 
+    {
       "city": "Milwaukee", 
       "first_name": "Molly", 
       "last_name": "brewer", 
@@ -2968,7 +2985,7 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
       "state_votes": 1, 
-      "votes": 76, 
+      "votes": 77, 
       "district_votes": 0, 
       "state": "MT", 
       "iface": "question", 

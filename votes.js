@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Omaha", 
+      "first_name": "Dan", 
+      "last_name": "Orlich", 
+      "user_id": 1779519, 
+      "district": "NE_02", 
+      "created": "2013-08-05T01:03:46", 
+      "state": "NE", 
+      "iface": "vote", 
+      "id": 16175627, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Mount Vernon", 
       "first_name": "Laura", 
       "last_name": "Mays", 
