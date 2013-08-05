@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Menomonie", 
+      "first_name": "Cynthia", 
+      "last_name": "Thomas", 
+      "user_id": 905530, 
+      "district": "WI_03", 
+      "created": "2013-08-05T03:37:58", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16176310, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Ottawa", 
+      "first_name": "Drew", 
+      "last_name": "McConville", 
+      "user_id": 193927, 
+      "district": "IL_16", 
+      "created": "2013-08-05T03:36:34", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16176307, 
+      "question_id": "16172866"
+    }, 
+    {
+      "city": "Menomonie", 
+      "first_name": "Cynthia", 
+      "last_name": "Thomas", 
+      "user_id": 905530, 
+      "district": "WI_03", 
+      "created": "2013-08-05T03:36:27", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16176306, 
+      "question_id": "16174492"
+    }, 
+    {
+      "city": "Menomonie", 
+      "first_name": "Cynthia", 
+      "last_name": "Thomas", 
+      "user_id": 905530, 
+      "district": "WI_03", 
+      "created": "2013-08-05T03:36:05", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16176305, 
+      "question_id": "16172648"
+    }, 
+    {
       "city": "Denver", 
       "first_name": "Maureen", 
       "last_name": "Lancaster", 
