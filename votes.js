@@ -2,6 +2,66 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Grants Pass", 
+      "first_name": "Eugene", 
+      "last_name": "Dunaway", 
+      "user_id": 1575915, 
+      "district": "OR_02", 
+      "created": "2013-08-05T18:43:59", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16178372, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Minneapolis", 
+      "first_name": "Judith", 
+      "last_name": "Felker", 
+      "user_id": 1708741, 
+      "district": "MN_03", 
+      "created": "2013-08-05T18:43:59", 
+      "state": "MN", 
+      "iface": "vote", 
+      "id": 16178373, 
+      "question_id": "16176655"
+    }, 
+    {
+      "city": "Grants Pass", 
+      "first_name": "Eugene", 
+      "last_name": "Dunaway", 
+      "user_id": 1575915, 
+      "district": "OR_02", 
+      "created": "2013-08-05T18:43:27", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16178371, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Minneapolis", 
+      "first_name": "Judith", 
+      "last_name": "Felker", 
+      "user_id": 1708741, 
+      "district": "MN_03", 
+      "created": "2013-08-05T18:43:02", 
+      "state": "MN", 
+      "iface": "vote", 
+      "id": 16178369, 
+      "question_id": "16176666"
+    }, 
+    {
+      "city": "Minneapolis", 
+      "first_name": "Judith", 
+      "last_name": "Felker", 
+      "user_id": 1708741, 
+      "district": "MN_03", 
+      "created": "2013-08-05T18:42:23", 
+      "state": "MN", 
+      "iface": "vote", 
+      "id": 16178367, 
+      "question_id": "16176673"
+    }, 
+    {
       "city": "Minneapolis", 
       "first_name": "Judith", 
       "last_name": "Felker", 
