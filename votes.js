@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "South Elgin", 
+      "first_name": "Garrick", 
+      "last_name": "Balk", 
+      "user_id": 1779710, 
+      "district": "IL_06", 
+      "created": "2013-08-05T15:37:48", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16177836, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Franklin", 
+      "first_name": "Maxwell", 
+      "last_name": "Morrongiello", 
+      "user_id": 179554, 
+      "district": "MA_04", 
+      "created": "2013-08-05T15:37:38", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16177835, 
+      "question_id": "16175855"
+    }, 
+    {
       "city": "Tucson", 
       "first_name": "Mary", 
       "last_name": "Ker", 
