@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "West Salem", 
+      "first_name": "andy", 
+      "last_name": "compton", 
+      "user_id": 1196394, 
+      "submission": "How would you fix Social Security-SSI-MEDA CARE - MEDA CADE- Lifting the cap or by bringing up the mim wage to 14.00 to 18.00 pr hour becouse the younger kids are going to be the ones who will be the ones with jobs in the years to come if the mim wage was up to what i said above it would be fixed by now ?", 
+      "district": "WI_03", 
+      "created": "2013-08-05T19:45:16", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WI", 
+      "iface": "question", 
+      "y": 43.8996, 
+      "x": -91.087000000000003, 
+      "id": 16178596
+    }, 
+    {
       "city": "Minneapolis", 
       "first_name": "Judith", 
       "last_name": "Felker", 
