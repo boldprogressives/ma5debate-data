@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Rathdrum", 
+      "first_name": "Robert", 
+      "last_name": "Helmick", 
+      "user_id": 1676886, 
+      "submission": "Why is it, do you think, that many progressives are timid about coming to the defense of true American patriots such as Bradley Manning and Edward Snowden?", 
+      "district": "ID_01", 
+      "created": "2013-08-05T16:55:22", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "ID", 
+      "iface": "question", 
+      "y": 47.840000000000003, 
+      "x": -116.90300000000001, 
+      "id": 16178033
+    }, 
+    {
       "city": "Seattle", 
       "first_name": "holly", 
       "last_name": "homan", 
