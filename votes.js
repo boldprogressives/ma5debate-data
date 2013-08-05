@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Naples", 
+      "first_name": "Marshall", 
+      "last_name": "Sprague", 
+      "user_id": 1206743, 
+      "district": "FL_25", 
+      "created": "2013-08-05T01:48:51", 
+      "state": "FL", 
+      "iface": "vote", 
+      "id": 16175759, 
+      "question_id": "16174044"
+    }, 
+    {
+      "city": "Buffalo Grove", 
+      "first_name": "Susan", 
+      "last_name": "Osada", 
+      "user_id": 144294, 
+      "district": "IL_08", 
+      "created": "2013-08-05T01:48:29", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16175757, 
+      "question_id": "16175634"
+    }, 
+    {
+      "city": "Buffalo Grove", 
+      "first_name": "Susan", 
+      "last_name": "Osada", 
+      "user_id": 144294, 
+      "district": "IL_08", 
+      "created": "2013-08-05T01:48:07", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16175756, 
+      "question_id": "16175635"
+    }, 
+    {
       "city": "Buffalo Grove", 
       "first_name": "Susan", 
       "last_name": "Osada", 
