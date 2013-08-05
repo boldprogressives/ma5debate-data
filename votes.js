@@ -7,6 +7,18 @@ opendebate.processFetchedVotes({
       "last_name": "Johnson", 
       "user_id": 1777804, 
       "district": "WY_01", 
+      "created": "2013-08-05T14:19:05", 
+      "state": "WY", 
+      "iface": "vote", 
+      "id": 16177575, 
+      "question_id": "16172952"
+    }, 
+    {
+      "city": "Laramie", 
+      "first_name": "Carole", 
+      "last_name": "Johnson", 
+      "user_id": 1777804, 
+      "district": "WY_01", 
       "created": "2013-08-05T14:18:03", 
       "state": "WY", 
       "iface": "vote", 
