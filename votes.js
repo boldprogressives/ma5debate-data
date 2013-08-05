@@ -7,6 +7,18 @@ opendebate.processFetchedVotes({
       "last_name": "Morrongiello", 
       "user_id": 179554, 
       "district": "MA_04", 
+      "created": "2013-08-05T15:18:37", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16177785, 
+      "question_id": "16174330"
+    }, 
+    {
+      "city": "Franklin", 
+      "first_name": "Maxwell", 
+      "last_name": "Morrongiello", 
+      "user_id": 179554, 
+      "district": "MA_04", 
       "created": "2013-08-05T15:17:33", 
       "state": "MA", 
       "iface": "vote", 
