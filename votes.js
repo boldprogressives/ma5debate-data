@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Denver", 
+      "first_name": "Dolores", 
+      "last_name": "Molello", 
+      "user_id": 1119625, 
+      "district": "CO_01", 
+      "created": "2013-08-05T02:30:05", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16175814, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Coal Valley", 
       "first_name": "Donna", 
       "last_name": "James", 
