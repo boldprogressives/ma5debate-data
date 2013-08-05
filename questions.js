@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Waukesha", 
+      "first_name": "Jean", 
+      "last_name": "Hartje", 
+      "user_id": 1652525, 
+      "submission": "Are you willing to propose amendments requiring members of government, state and federal, to opening state what organizations they are members of, such as ALEC?", 
+      "district": "WI_05", 
+      "created": "2013-08-05T23:50:33", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WI", 
+      "iface": "question", 
+      "y": 43.016199999999998, 
+      "x": -88.267899999999997, 
+      "id": 16179179
+    }, 
+    {
       "city": "albuquerque", 
       "first_name": "Tracy", 
       "last_name": "Meyer", 
