@@ -7,6 +7,18 @@ opendebate.processFetchedVotes({
       "last_name": "Sprague", 
       "user_id": 1206743, 
       "district": "FL_25", 
+      "created": "2013-08-05T01:53:59", 
+      "state": "FL", 
+      "iface": "vote", 
+      "id": 16175765, 
+      "question_id": "16173418"
+    }, 
+    {
+      "city": "Naples", 
+      "first_name": "Marshall", 
+      "last_name": "Sprague", 
+      "user_id": 1206743, 
+      "district": "FL_25", 
       "created": "2013-08-05T01:48:51", 
       "state": "FL", 
       "iface": "vote", 
