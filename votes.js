@@ -2,6 +2,66 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Cleburne", 
+      "first_name": "Jan", 
+      "last_name": "Hawkins", 
+      "user_id": 1779511, 
+      "district": "TX_25", 
+      "created": "2013-08-05T05:44:00", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16176648, 
+      "question_id": "16172731"
+    }, 
+    {
+      "city": "Cleburne", 
+      "first_name": "Jan", 
+      "last_name": "Hawkins", 
+      "user_id": 1779511, 
+      "district": "TX_25", 
+      "created": "2013-08-05T05:43:52", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16176647, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Cleburne", 
+      "first_name": "Jan", 
+      "last_name": "Hawkins", 
+      "user_id": 1779511, 
+      "district": "TX_25", 
+      "created": "2013-08-05T05:43:37", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16176646, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Cleburne", 
+      "first_name": "Jan", 
+      "last_name": "Hawkins", 
+      "user_id": 1779511, 
+      "district": "TX_25", 
+      "created": "2013-08-05T05:43:29", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16176645, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Cleburne", 
+      "first_name": "Jan", 
+      "last_name": "Hawkins", 
+      "user_id": 1779511, 
+      "district": "TX_25", 
+      "created": "2013-08-05T05:43:27", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16176644, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Kihei", 
       "first_name": "Netra", 
       "last_name": "Halperin", 
