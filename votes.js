@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "La Center", 
+      "first_name": "ron", 
+      "last_name": "copas", 
+      "user_id": 1176645, 
+      "district": "WA_03", 
+      "created": "2013-08-05T15:57:57", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16177883, 
+      "question_id": "16176917"
+    }, 
+    {
+      "city": "La Center", 
+      "first_name": "ron", 
+      "last_name": "copas", 
+      "user_id": 1176645, 
+      "district": "WA_03", 
+      "created": "2013-08-05T15:57:48", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16177881, 
+      "question_id": "16176933"
+    }, 
+    {
+      "city": "La Center", 
+      "first_name": "ron", 
+      "last_name": "copas", 
+      "user_id": 1176645, 
+      "district": "WA_03", 
+      "created": "2013-08-05T15:57:30", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16177879, 
+      "question_id": "16176968"
+    }, 
+    {
       "city": "Camano Island", 
       "first_name": "Megan", 
       "last_name": "Fite", 
