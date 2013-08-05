@@ -2,6 +2,66 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Chicago", 
+      "first_name": "REGINALD", 
+      "last_name": "JOHNS", 
+      "user_id": 1577405, 
+      "district": "IL_07", 
+      "created": "2013-08-05T15:23:51", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16177796, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Tucson", 
+      "first_name": "Mary", 
+      "last_name": "Ker", 
+      "user_id": 1775082, 
+      "district": "AZ_02", 
+      "created": "2013-08-05T15:23:42", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16177795, 
+      "question_id": "16172765"
+    }, 
+    {
+      "city": "Tucson", 
+      "first_name": "Mary", 
+      "last_name": "Ker", 
+      "user_id": 1775082, 
+      "district": "AZ_02", 
+      "created": "2013-08-05T15:23:40", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16177794, 
+      "question_id": "16173259"
+    }, 
+    {
+      "city": "Chicago", 
+      "first_name": "REGINALD", 
+      "last_name": "JOHNS", 
+      "user_id": 1577405, 
+      "district": "IL_07", 
+      "created": "2013-08-05T15:23:18", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16177791, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Tucson", 
+      "first_name": "Mary", 
+      "last_name": "Ker", 
+      "user_id": 1775082, 
+      "district": "AZ_02", 
+      "created": "2013-08-05T15:23:09", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16177790, 
+      "question_id": "16172303"
+    }, 
+    {
       "city": "Tucson", 
       "first_name": "Mary", 
       "last_name": "Ker", 
