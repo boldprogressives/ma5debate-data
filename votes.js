@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Sioux Falls", 
+      "first_name": "John", 
+      "last_name": "Carman", 
+      "user_id": 1475762, 
+      "district": "SD_01", 
+      "created": "2013-08-05T08:27:57", 
+      "state": "SD", 
+      "iface": "vote", 
+      "id": 16176840, 
+      "question_id": "16172913"
+    }, 
+    {
+      "city": "Sioux Falls", 
+      "first_name": "John", 
+      "last_name": "Carman", 
+      "user_id": 1475762, 
+      "district": "SD_01", 
+      "created": "2013-08-05T08:27:33", 
+      "state": "SD", 
+      "iface": "vote", 
+      "id": 16176839, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Sioux Falls", 
+      "first_name": "John", 
+      "last_name": "Carman", 
+      "user_id": 1475762, 
+      "district": "SD_01", 
+      "created": "2013-08-05T08:26:57", 
+      "state": "SD", 
+      "iface": "vote", 
+      "id": 16176837, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Arnold", 
       "first_name": "sally", 
       "last_name": "rotary", 
