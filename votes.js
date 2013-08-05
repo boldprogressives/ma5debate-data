@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Minneapolis", 
+      "first_name": "Judith", 
+      "last_name": "Felker", 
+      "user_id": 1708741, 
+      "district": "MN_03", 
+      "created": "2013-08-05T18:39:10", 
+      "state": "MN", 
+      "iface": "vote", 
+      "id": 16178356, 
+      "question_id": "16176737"
+    }, 
+    {
+      "city": "Minneapolis", 
+      "first_name": "Judith", 
+      "last_name": "Felker", 
+      "user_id": 1708741, 
+      "district": "MN_03", 
+      "created": "2013-08-05T18:38:04", 
+      "state": "MN", 
+      "iface": "vote", 
+      "id": 16178355, 
+      "question_id": "16176743"
+    }, 
+    {
       "city": "Austin", 
       "first_name": "Emma", 
       "last_name": "Venish", 
