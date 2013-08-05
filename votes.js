@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Waukesha", 
+      "first_name": "Jean", 
+      "last_name": "Hartje", 
+      "user_id": 660781, 
+      "district": "WI_05", 
+      "created": "2013-08-05T23:47:06", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16179174, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Lake in the Hills", 
+      "first_name": "Patricia", 
+      "last_name": "Martinez", 
+      "user_id": 1707692, 
+      "district": "IL_06", 
+      "created": "2013-08-05T23:46:18", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16179173, 
+      "question_id": "16172172"
+    }, 
+    {
       "city": "Lake in the Hills", 
       "first_name": "Patricia", 
       "last_name": "Martinez", 
