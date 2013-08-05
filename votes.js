@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Las Vegas", 
+      "first_name": "Michael", 
+      "last_name": "Guzman", 
+      "user_id": 1657835, 
+      "district": "NV_01", 
+      "created": "2013-08-05T03:29:36", 
+      "state": "NV", 
+      "iface": "vote", 
+      "id": 16176254, 
+      "question_id": "16176001"
+    }, 
+    {
+      "city": "East Helena", 
+      "first_name": "Patrick", 
+      "last_name": "Hartwig", 
+      "user_id": 575916, 
+      "district": "MT_01", 
+      "created": "2013-08-05T03:28:27", 
+      "state": "MT", 
+      "iface": "vote", 
+      "id": 16176246, 
+      "question_id": "16175276"
+    }, 
+    {
+      "city": "Shoreline", 
+      "first_name": "Nora G.", 
+      "last_name": "Rivkis", 
+      "user_id": 457475, 
+      "district": "WA_07", 
+      "created": "2013-08-05T03:28:11", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16176244, 
+      "question_id": "16172913"
+    }, 
+    {
       "city": "Denver", 
       "first_name": "Maureen", 
       "last_name": "Lancaster", 
