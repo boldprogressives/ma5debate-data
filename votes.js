@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Ottawa", 
+      "first_name": "Drew", 
+      "last_name": "McConville", 
+      "user_id": 193927, 
+      "district": "IL_16", 
+      "created": "2013-08-05T12:50:46", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16177168, 
+      "question_id": "16172303"
+    }, 
+    {
+      "city": "Ottawa", 
+      "first_name": "Drew", 
+      "last_name": "McConville", 
+      "user_id": 193927, 
+      "district": "IL_16", 
+      "created": "2013-08-05T12:50:20", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16177166, 
+      "question_id": "16176054"
+    }, 
+    {
       "city": "Granite City", 
       "first_name": "Marsha", 
       "last_name": "Chomko", 
