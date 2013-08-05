@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Mitchell", 
+      "first_name": "Mike", 
+      "last_name": "Meagher", 
+      "user_id": 1448806, 
+      "submission": "Who will take responsibility if the sequester cuts for the FDA turns into unsafe or poisonous foods/water get into the general public in the United States?  Why is this less important than the sequester cuts that is sparing the aviation sector.  The only reason for this is because this directly affects the Senate and Congress that travel to their home state, but is it ok if the rest of the country might be poisoned?  By the way, does the tax payers pay for the Senate and Congress trips to go to their home states or do they pay their own bills going back and forth?", 
+      "district": "SD_01", 
+      "created": "2013-08-05T02:08:39", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "SD", 
+      "iface": "question", 
+      "y": 43.727400000000003, 
+      "x": -98.046199999999999, 
+      "id": 16175785
+    }, 
+    {
       "city": "Maryville", 
       "first_name": "Linda", 
       "last_name": "Gentry", 
