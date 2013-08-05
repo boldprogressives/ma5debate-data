@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Portland", 
+      "first_name": "Wil", 
+      "last_name": "Tietsort", 
+      "user_id": 1521426, 
+      "district": "OR_03", 
+      "created": "2013-08-05T05:09:47", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16176586, 
+      "question_id": "16176001"
+    }, 
+    {
+      "city": "Tucson", 
+      "first_name": "michael", 
+      "last_name": "gebbia", 
+      "user_id": 1043781, 
+      "district": "AZ_02", 
+      "created": "2013-08-05T05:09:30", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16176585, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Tucson", 
+      "first_name": "michael", 
+      "last_name": "gebbia", 
+      "user_id": 1043781, 
+      "district": "AZ_02", 
+      "created": "2013-08-05T05:09:22", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16176584, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Tucson", 
+      "first_name": "michael", 
+      "last_name": "gebbia", 
+      "user_id": 1043781, 
+      "district": "AZ_02", 
+      "created": "2013-08-05T05:09:13", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16176583, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Kihei", 
       "first_name": "Netra", 
       "last_name": "Halperin", 
