@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Hot Springs National Park", 
+      "first_name": "Tucker", 
+      "last_name": "Iacobacci", 
+      "user_id": 1644951, 
+      "submission": "Because of the deregulation of banks during the early '80s and late '90s, which caused financial crisis, what is your idea to regulate banks to keep this from happening again? ", 
+      "district": "AR_04", 
+      "created": "2013-08-05T05:21:47", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "AR", 
+      "iface": "question", 
+      "y": 34.424700000000001, 
+      "x": -93.096299999999999, 
+      "id": 16176613
+    }, 
+    {
       "city": "Portland", 
       "first_name": "Charles", 
       "last_name": "Hof", 
