@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Seattle", 
+      "first_name": "sondra", 
+      "last_name": "shulman", 
+      "user_id": 1143810, 
+      "district": "WA_07", 
+      "created": "2013-08-05T05:25:55", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16176622, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Seattle", 
+      "first_name": "sondra", 
+      "last_name": "shulman", 
+      "user_id": 1143810, 
+      "district": "WA_07", 
+      "created": "2013-08-05T05:25:31", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16176620, 
+      "question_id": "16172207"
+    }, 
+    {
+      "city": "Henderson", 
+      "first_name": "Dennis Noel", 
+      "last_name": "", 
+      "user_id": 1808357, 
+      "district": "NV_03", 
+      "created": "2013-08-05T05:24:30", 
+      "state": "NV", 
+      "iface": "vote", 
+      "id": 16176619, 
+      "question_id": "16172913"
+    }, 
+    {
       "city": "Henderson", 
       "first_name": "Dennis Noel", 
       "last_name": "", 
