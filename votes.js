@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Garland", 
+      "first_name": "John", 
+      "last_name": "Coffey", 
+      "user_id": 24586, 
+      "district": "TX_32", 
+      "created": "2013-08-05T09:26:47", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16176907, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Garland", 
+      "first_name": "John", 
+      "last_name": "Coffey", 
+      "user_id": 24586, 
+      "district": "TX_32", 
+      "created": "2013-08-05T09:26:14", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16176904, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Yakima", 
       "first_name": "Aaron", 
       "last_name": "Poukkula", 
