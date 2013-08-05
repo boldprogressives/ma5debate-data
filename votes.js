@@ -2,6 +2,78 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Tomah", 
+      "first_name": "Edith", 
+      "last_name": "Gustafson", 
+      "user_id": 1771765, 
+      "district": "WI_03", 
+      "created": "2013-08-05T10:53:56", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16176949, 
+      "question_id": "16172913"
+    }, 
+    {
+      "city": "Tomah", 
+      "first_name": "Edith", 
+      "last_name": "Gustafson", 
+      "user_id": 1771765, 
+      "district": "WI_03", 
+      "created": "2013-08-05T10:53:45", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16176948, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Calmar", 
+      "first_name": "Susanne", 
+      "last_name": "Scullin", 
+      "user_id": 1690626, 
+      "district": "IA_01", 
+      "created": "2013-08-05T10:53:42", 
+      "state": "IA", 
+      "iface": "vote", 
+      "id": 16176947, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Tomah", 
+      "first_name": "Edith", 
+      "last_name": "Gustafson", 
+      "user_id": 1771765, 
+      "district": "WI_03", 
+      "created": "2013-08-05T10:53:33", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16176946, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Tomah", 
+      "first_name": "Edith", 
+      "last_name": "Gustafson", 
+      "user_id": 1771765, 
+      "district": "WI_03", 
+      "created": "2013-08-05T10:53:28", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16176945, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Calmar", 
+      "first_name": "Susanne", 
+      "last_name": "Scullin", 
+      "user_id": 1690626, 
+      "district": "IA_01", 
+      "created": "2013-08-05T10:53:05", 
+      "state": "IA", 
+      "iface": "vote", 
+      "id": 16176943, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Mondovi", 
       "first_name": "Cynthia", 
       "last_name": "Archibald", 
