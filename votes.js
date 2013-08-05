@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Fond du Lac", 
+      "first_name": "Taylor", 
+      "last_name": "Putz", 
+      "user_id": 1750723, 
+      "district": "WI_06", 
+      "created": "2013-08-05T03:33:14", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16176290, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Fond du Lac", 
+      "first_name": "Taylor", 
+      "last_name": "Putz", 
+      "user_id": 1750723, 
+      "district": "WI_06", 
+      "created": "2013-08-05T03:33:03", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16176288, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Honolulu", 
+      "first_name": "Elizabeth", 
+      "last_name": "O'Connor", 
+      "user_id": 446618, 
+      "district": "HI_01", 
+      "created": "2013-08-05T03:32:30", 
+      "state": "HI", 
+      "iface": "vote", 
+      "id": 16176284, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Littleton", 
       "first_name": "Kurt", 
       "last_name": "Hulse", 
