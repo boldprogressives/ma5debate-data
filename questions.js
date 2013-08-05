@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Maryville", 
+      "first_name": "Linda", 
+      "last_name": "Gentry", 
+      "user_id": 323191, 
+      "submission": "Will you oppose all the cuts in the Snap Program and help stop them from cutting more money out of  this ?Do they not  understand how our children are going to school without being feed ? Their needs to be some of the people to stand up for the poor  and our children to put more money back not take away.  Are they ever aware of the people in their back yards that need jobs and just a little help or do they even care ?  How have Congress got by spending millions of our tax dollars to vote on Obama Care as they have give it that name. The real name is Affordable Health Care that the people need so badly don't they? If you read about a  Pastor on the web or you just might have been watching the news about a Pastor asking you to look around your neighborhood ? Do you care to see that here in America their are a third world of American people are starving ?Are you going to do something about that? ", 
+      "district": "TN_02", 
+      "created": "2013-08-05T01:57:31", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "TN", 
+      "iface": "question", 
+      "y": 35.749099999999999, 
+      "x": -83.969499999999996, 
+      "id": 16175773
+    }, 
+    {
       "city": "Buffalo Grove", 
       "first_name": "Susan", 
       "last_name": "Osada", 
@@ -2203,7 +2220,7 @@ opendebate.processFetchedQuestions({
       "district": "CO_02", 
       "created": "2013-08-04T01:42:09", 
       "state_votes": 0, 
-      "votes": 2, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "CO", 
       "iface": "question", 
