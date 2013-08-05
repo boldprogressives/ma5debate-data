@@ -2,6 +2,78 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Kirkland", 
+      "first_name": "Russ", 
+      "last_name": "Banks", 
+      "user_id": 853897, 
+      "district": "WA_01", 
+      "created": "2013-08-05T05:03:58", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16176572, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Portland", 
+      "first_name": "Wil", 
+      "last_name": "Tietsort", 
+      "user_id": 1521426, 
+      "district": "OR_03", 
+      "created": "2013-08-05T05:03:46", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16176571, 
+      "question_id": "16173210"
+    }, 
+    {
+      "city": "Portland", 
+      "first_name": "Wil", 
+      "last_name": "Tietsort", 
+      "user_id": 1521426, 
+      "district": "OR_03", 
+      "created": "2013-08-05T05:03:31", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16176570, 
+      "question_id": "16172207"
+    }, 
+    {
+      "city": "Kirkland", 
+      "first_name": "Russ", 
+      "last_name": "Banks", 
+      "user_id": 853897, 
+      "district": "WA_01", 
+      "created": "2013-08-05T05:03:28", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16176568, 
+      "question_id": "16176565"
+    }, 
+    {
+      "city": "Portland", 
+      "first_name": "Wil", 
+      "last_name": "Tietsort", 
+      "user_id": 1521426, 
+      "district": "OR_03", 
+      "created": "2013-08-05T05:03:25", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16176567, 
+      "question_id": "16172533"
+    }, 
+    {
+      "city": "Portland", 
+      "first_name": "Wil", 
+      "last_name": "Tietsort", 
+      "user_id": 1521426, 
+      "district": "OR_03", 
+      "created": "2013-08-05T05:03:04", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16176566, 
+      "question_id": "16172755"
+    }, 
+    {
       "city": "Mesquite", 
       "first_name": "Anthony", 
       "last_name": "Barron", 
