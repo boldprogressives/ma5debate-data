@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Fort Worth", 
+      "first_name": "Jeff", 
+      "last_name": "Chambers", 
+      "user_id": 1688564, 
+      "district": "TX_12", 
+      "created": "2013-08-05T01:41:42", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16175728, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Fort Worth", 
+      "first_name": "Jeff", 
+      "last_name": "Chambers", 
+      "user_id": 1688564, 
+      "district": "TX_12", 
+      "created": "2013-08-05T01:41:24", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16175726, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Quincy", 
       "first_name": "anthony", 
       "last_name": "aleman", 
