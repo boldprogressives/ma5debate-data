@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Oklahoma City", 
+      "first_name": "Wanda", 
+      "last_name": "Stapleton", 
+      "user_id": 198261, 
+      "submission": "Will you declare that you are pro-choice and will fight to keep laws off of womens' bodies?", 
+      "district": "OK_05", 
+      "created": "2013-08-05T11:00:54", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "OK", 
+      "iface": "question", 
+      "y": 35.433799999999998, 
+      "x": -97.5184, 
+      "id": 16176968
+    }, 
+    {
       "city": "Mondovi", 
       "first_name": "Cynthia", 
       "last_name": "Archibald", 
