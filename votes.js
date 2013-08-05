@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Laramie", 
+      "first_name": "Carole", 
+      "last_name": "Johnson", 
+      "user_id": 1777804, 
+      "district": "WY_01", 
+      "created": "2013-08-05T13:58:04", 
+      "state": "WY", 
+      "iface": "vote", 
+      "id": 16177477, 
+      "question_id": "16172533"
+    }, 
+    {
+      "city": "Houston", 
+      "first_name": "Sarah", 
+      "last_name": "Johnson", 
+      "user_id": 1692255, 
+      "district": "TX_09", 
+      "created": "2013-08-05T13:56:18", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16177476, 
+      "question_id": "16172657"
+    }, 
+    {
+      "city": "Houston", 
+      "first_name": "Sarah", 
+      "last_name": "Johnson", 
+      "user_id": 1692255, 
+      "district": "TX_09", 
+      "created": "2013-08-05T13:56:07", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16177475, 
+      "question_id": "16174492"
+    }, 
+    {
+      "city": "Houston", 
+      "first_name": "Sarah", 
+      "last_name": "Johnson", 
+      "user_id": 1692255, 
+      "district": "TX_09", 
+      "created": "2013-08-05T13:56:05", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16177474, 
+      "question_id": "16173244"
+    }, 
+    {
       "city": "Houston", 
       "first_name": "Sarah", 
       "last_name": "Johnson", 
