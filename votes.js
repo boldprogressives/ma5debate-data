@@ -7,6 +7,18 @@ opendebate.processFetchedVotes({
       "last_name": "Haven", 
       "user_id": 1554257, 
       "district": "AR_02", 
+      "created": "2013-08-05T15:48:34", 
+      "state": "AR", 
+      "iface": "vote", 
+      "id": 16177860, 
+      "question_id": "16172207"
+    }, 
+    {
+      "city": "Maumelle", 
+      "first_name": "Hank", 
+      "last_name": "Haven", 
+      "user_id": 1554257, 
+      "district": "AR_02", 
       "created": "2013-08-05T15:47:51", 
       "state": "AR", 
       "iface": "vote", 
