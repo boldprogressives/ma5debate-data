@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Boise", 
+      "first_name": "Ken", 
+      "last_name": "Tower", 
+      "user_id": 1780438, 
+      "district": "ID_02", 
+      "created": "2013-08-05T06:31:59", 
+      "state": "ID", 
+      "iface": "vote", 
+      "id": 16176677, 
+      "question_id": "16172281"
+    }, 
+    {
+      "city": "Boise", 
+      "first_name": "Ken", 
+      "last_name": "Tower", 
+      "user_id": 1780438, 
+      "district": "ID_02", 
+      "created": "2013-08-05T06:31:40", 
+      "state": "ID", 
+      "iface": "vote", 
+      "id": 16176676, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Boise", 
+      "first_name": "Ken", 
+      "last_name": "Tower", 
+      "user_id": 1780438, 
+      "district": "ID_02", 
+      "created": "2013-08-05T06:31:31", 
+      "state": "ID", 
+      "iface": "vote", 
+      "id": 16176675, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Boise", 
+      "first_name": "Ken", 
+      "last_name": "Tower", 
+      "user_id": 1780438, 
+      "district": "ID_02", 
+      "created": "2013-08-05T06:31:13", 
+      "state": "ID", 
+      "iface": "vote", 
+      "id": 16176674, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Idaho Falls", 
       "first_name": "Claire", 
       "last_name": "Ashton-Heckathorn", 
