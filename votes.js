@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Eureka Springs", 
+      "first_name": "TJ", 
+      "last_name": "Brooks", 
+      "user_id": 1777329, 
+      "district": "AR_03", 
+      "created": "2013-08-05T11:33:55", 
+      "state": "AR", 
+      "iface": "vote", 
+      "id": 16176976, 
+      "question_id": "16172731"
+    }, 
+    {
+      "city": "Eureka Springs", 
+      "first_name": "TJ", 
+      "last_name": "Brooks", 
+      "user_id": 1777329, 
+      "district": "AR_03", 
+      "created": "2013-08-05T11:33:19", 
+      "state": "AR", 
+      "iface": "vote", 
+      "id": 16176974, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "", 
       "first_name": "Celia", 
       "last_name": "Rae", 
