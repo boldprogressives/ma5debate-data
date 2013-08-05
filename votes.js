@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Bend", 
+      "first_name": "Harriett", 
+      "last_name": "Heisey", 
+      "user_id": 168522, 
+      "district": "OR_02", 
+      "created": "2013-08-05T15:38:27", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16177838, 
+      "question_id": "16172823"
+    }, 
+    {
       "city": "South Elgin", 
       "first_name": "Garrick", 
       "last_name": "Balk", 
