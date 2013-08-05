@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Kenosha", 
+      "first_name": "Grace", 
+      "last_name": "Francken", 
+      "user_id": 1754666, 
+      "submission": "Where do you stand on the issue of GMO food products in the American food supply and the evidence that they are harming the health of Americans while benefiting corporations like Monsanto?", 
+      "district": "WI_01", 
+      "created": "2013-08-05T16:32:35", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WI", 
+      "iface": "question", 
+      "y": 42.573300000000003, 
+      "x": -87.880399999999995, 
+      "id": 16177973
+    }, 
+    {
       "city": "Tucson", 
       "first_name": "Mary", 
       "last_name": "Ker", 
