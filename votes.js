@@ -2,6 +2,78 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Santa Fe", 
+      "first_name": "Lawrence", 
+      "last_name": "Gold", 
+      "user_id": 1574238, 
+      "district": "NM_03", 
+      "created": "2013-08-05T17:27:44", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16178092, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Albuquerque", 
+      "first_name": "Charles", 
+      "last_name": "Shelly", 
+      "user_id": 1057793, 
+      "district": "NM_01", 
+      "created": "2013-08-05T17:27:20", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16178089, 
+      "question_id": "16174109"
+    }, 
+    {
+      "city": "Santa Fe", 
+      "first_name": "Lawrence", 
+      "last_name": "Gold", 
+      "user_id": 1574238, 
+      "district": "NM_03", 
+      "created": "2013-08-05T17:26:59", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16178088, 
+      "question_id": "16172303"
+    }, 
+    {
+      "city": "Santa Fe", 
+      "first_name": "Lawrence", 
+      "last_name": "Gold", 
+      "user_id": 1574238, 
+      "district": "NM_03", 
+      "created": "2013-08-05T17:26:49", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16178086, 
+      "question_id": "16172765"
+    }, 
+    {
+      "city": "Albuquerque", 
+      "first_name": "Charles", 
+      "last_name": "Shelly", 
+      "user_id": 1057793, 
+      "district": "NM_01", 
+      "created": "2013-08-05T17:26:49", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16178087, 
+      "question_id": "16172286"
+    }, 
+    {
+      "city": "Santa Fe", 
+      "first_name": "Lawrence", 
+      "last_name": "Gold", 
+      "user_id": 1574238, 
+      "district": "NM_03", 
+      "created": "2013-08-05T17:26:40", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16178085, 
+      "question_id": "16173259"
+    }, 
+    {
       "city": "Great Neck", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
