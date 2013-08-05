@@ -2,8 +2,25 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Sammamish", 
+      "first_name": "Michael", 
+      "last_name": "O'Connell", 
+      "user_id": 1780435, 
+      "submission": "Why is the government subsidizing corn which is converted into millions of tons of food sugars and not subsidizing fruits and vegetables which will lead to a healthier population requiring less medical care and lower medicare and medicaid costs?", 
+      "district": "WA_08", 
+      "created": "2013-08-05T20:50:19", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WA", 
+      "iface": "question", 
+      "y": 47.624099999999999, 
+      "x": -122.04900000000001, 
+      "id": 16178749
+    }, 
+    {
       "city": "Litchfield Park", 
-      "first_name": "FREDERICK", 
+      "first_name": "FRED", 
       "last_name": "DAVIS", 
       "user_id": 1733964, 
       "submission": "WHAT CAN I DO TO DEMONSTRATE TO PEOPLE HOW THEY HAVE BEEN DUPED BY  MANY OF OUR REPRESENTATIVES AND THE MEDIA CONCERNING SO MANY ISSUES?", 
