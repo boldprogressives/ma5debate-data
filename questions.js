@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Phoenix", 
+      "first_name": "Maureen", 
+      "last_name": "Conrad", 
+      "user_id": 1734856, 
+      "submission": "Where do you stand with regard to GMO labeling. Is it our right as citizens to have complete transparency with regard to the foods we choose to eat. ", 
+      "district": "AZ_06", 
+      "created": "2013-08-05T17:03:13", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "AZ", 
+      "iface": "question", 
+      "y": 33.627499999999998, 
+      "x": -112.05200000000001, 
+      "id": 16178048
+    }, 
+    {
       "city": "Rathdrum", 
       "first_name": "Robert", 
       "last_name": "Helmick", 
