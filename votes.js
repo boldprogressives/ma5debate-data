@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Theodore", 
+      "first_name": "Ivan", 
+      "last_name": "Boatwright", 
+      "user_id": 1776735, 
+      "district": "AL_01", 
+      "created": "2013-08-05T13:19:59", 
+      "state": "AL", 
+      "iface": "vote", 
+      "id": 16177229, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Theodore", 
+      "first_name": "Ivan", 
+      "last_name": "Boatwright", 
+      "user_id": 1776735, 
+      "district": "AL_01", 
+      "created": "2013-08-05T13:19:56", 
+      "state": "AL", 
+      "iface": "vote", 
+      "id": 16177228, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Theodore", 
+      "first_name": "Ivan", 
+      "last_name": "Boatwright", 
+      "user_id": 1776735, 
+      "district": "AL_01", 
+      "created": "2013-08-05T13:19:43", 
+      "state": "AL", 
+      "iface": "vote", 
+      "id": 16177227, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Chicago", 
       "first_name": "Alexandra", 
       "last_name": "Sipiora", 
