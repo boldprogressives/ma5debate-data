@@ -2560,7 +2560,7 @@ opendebate.processFetchedQuestions({
       "district": "HI_02", 
       "created": "2013-08-04T18:34:41", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "district_votes": 0, 
       "state": "HI", 
       "iface": "question", 
