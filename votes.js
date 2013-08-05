@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Blodgett", 
+      "first_name": "Michael", 
+      "last_name": "Riley", 
+      "user_id": 1783751, 
+      "district": "OR_04", 
+      "created": "2013-08-05T16:39:50", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16177998, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Kenosha", 
+      "first_name": "Grace", 
+      "last_name": "Francken", 
+      "user_id": 1754666, 
+      "district": "WI_01", 
+      "created": "2013-08-05T16:39:33", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16177996, 
+      "question_id": "16177973"
+    }, 
+    {
       "city": "Kenosha", 
       "first_name": "Grace", 
       "last_name": "Francken", 
