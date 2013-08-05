@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Henderson", 
+      "first_name": "Dennis Noel", 
+      "last_name": "", 
+      "user_id": 1808357, 
+      "district": "NV_03", 
+      "created": "2013-08-05T05:23:51", 
+      "state": "NV", 
+      "iface": "vote", 
+      "id": 16176617, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Henderson", 
+      "first_name": "Dennis Noel", 
+      "last_name": "", 
+      "user_id": 1808357, 
+      "district": "NV_03", 
+      "created": "2013-08-05T05:23:37", 
+      "state": "NV", 
+      "iface": "vote", 
+      "id": 16176615, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "El Paso", 
       "first_name": "Rosa", 
       "last_name": "Antillon", 
