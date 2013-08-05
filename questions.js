@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Portland", 
+      "first_name": "Charles", 
+      "last_name": "Hof", 
+      "user_id": 699744, 
+      "submission": "The election system requires an official to spend half the day or more dialing for dollars, only to hear the needs of .01% of the public. That doesn't serve the US public. It does change your perspective on a subject that concerns the .01%. Are you willing to address this?", 
+      "district": "OR_03", 
+      "created": "2013-08-05T05:11:35", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "OR", 
+      "iface": "question", 
+      "y": 45.5749, 
+      "x": -122.68899999999999, 
+      "id": 16176587
+    }, 
+    {
       "city": "Kirkland", 
       "first_name": "Russ", 
       "last_name": "Banks", 
