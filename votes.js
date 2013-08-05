@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Albuquerque", 
+      "first_name": "Edward", 
+      "last_name": "Fikani", 
+      "user_id": 1807281, 
+      "district": "NM_01", 
+      "created": "2013-08-05T18:21:41", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16178280, 
+      "question_id": "16175177"
+    }, 
+    {
+      "city": "Albuquerque", 
+      "first_name": "Edward", 
+      "last_name": "Fikani", 
+      "user_id": 1807281, 
+      "district": "NM_01", 
+      "created": "2013-08-05T18:20:53", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16178276, 
+      "question_id": "16177944"
+    }, 
+    {
+      "city": "San Antonio", 
+      "first_name": "Damon", 
+      "last_name": "Mason", 
+      "user_id": 1783359, 
+      "district": "TX_20", 
+      "created": "2013-08-05T18:20:32", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16178275, 
+      "question_id": "16176012"
+    }, 
+    {
       "city": "San Antonio", 
       "first_name": "Damon", 
       "last_name": "Mason", 
