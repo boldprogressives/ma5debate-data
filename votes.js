@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Mount Vernon", 
+      "first_name": "Laura", 
+      "last_name": "Mays", 
+      "user_id": 1740783, 
+      "district": "IL_12", 
+      "created": "2013-08-05T00:55:55", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16175599, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Sidney", 
       "first_name": "Sandra Armour", 
       "last_name": "2440 El Rancho, Sidney", 
