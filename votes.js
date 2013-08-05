@@ -3,8 +3,8 @@ opendebate.processFetchedVotes({
   "entries": [
     {
       "city": "Knoxville", 
-      "first_name": "joan", 
-      "last_name": "grim", 
+      "first_name": "Joan", 
+      "last_name": "Grim", 
       "user_id": 6992, 
       "district": "TN_02", 
       "created": "2013-08-05T12:14:59", 
@@ -15,8 +15,8 @@ opendebate.processFetchedVotes({
     }, 
     {
       "city": "Knoxville", 
-      "first_name": "joan", 
-      "last_name": "grim", 
+      "first_name": "Joan", 
+      "last_name": "Grim", 
       "user_id": 6992, 
       "district": "TN_02", 
       "created": "2013-08-05T12:14:56", 
@@ -27,8 +27,8 @@ opendebate.processFetchedVotes({
     }, 
     {
       "city": "Knoxville", 
-      "first_name": "joan", 
-      "last_name": "grim", 
+      "first_name": "Joan", 
+      "last_name": "Grim", 
       "user_id": 6992, 
       "district": "TN_02", 
       "created": "2013-08-05T12:14:40", 
@@ -39,8 +39,8 @@ opendebate.processFetchedVotes({
     }, 
     {
       "city": "Knoxville", 
-      "first_name": "joan", 
-      "last_name": "grim", 
+      "first_name": "Joan", 
+      "last_name": "Grim", 
       "user_id": 6992, 
       "district": "TN_02", 
       "created": "2013-08-05T12:14:07", 
