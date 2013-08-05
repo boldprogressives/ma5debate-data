@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Casa Grande", 
+      "first_name": "Jo Anne", 
+      "last_name": "Pinto", 
+      "user_id": 1683318, 
+      "submission": "Will you support the ERA and women's rights to make their own health care decisions without government interference, even if it includes abortion?  If not, why not? ", 
+      "district": "AZ_01", 
+      "created": "2013-08-05T05:46:31", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "AZ", 
+      "iface": "question", 
+      "y": 32.8795, 
+      "x": -111.75, 
+      "id": 16176653
+    }, 
+    {
       "city": "Seattle", 
       "first_name": "sondra", 
       "last_name": "shulman", 
