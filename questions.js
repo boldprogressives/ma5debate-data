@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Genoa", 
+      "first_name": "Christopher", 
+      "last_name": "Lunn", 
+      "user_id": 688031, 
+      "submission": "Argonne Labs techs hacked a voting machine from half a mile away with a ten dollar device.  What will you do to insure our votes are not manipulated? Will you back citizen monitored exit polls?", 
+      "district": "NV_02", 
+      "created": "2013-08-05T00:04:36", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NV", 
+      "iface": "question", 
+      "y": 39.011000000000003, 
+      "x": -119.84099999999999, 
+      "id": 16175485
+    }, 
+    {
       "city": "Wichita", 
       "first_name": "Randy", 
       "last_name": "Morrow", 
@@ -44,7 +61,7 @@ opendebate.processFetchedQuestions({
       "district": "KS_04", 
       "created": "2013-08-04T23:18:03", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "KS", 
       "iface": "question", 
