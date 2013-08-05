@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Seattle", 
+      "first_name": "Richard", 
+      "last_name": "Thomas", 
+      "user_id": 194635, 
+      "submission": "Why is it that the sequester effects everyone but those in Congress.  What % of pay cuts are they taking and what % of staff are being furloughed?  I don't think the House working only 30% of the time without a cut in pay or staff counts as saving money.", 
+      "district": "WA_07", 
+      "created": "2013-08-05T00:08:28", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WA", 
+      "iface": "question", 
+      "y": 47.6327, 
+      "x": -122.322, 
+      "id": 16175490
+    }, 
+    {
       "city": "Genoa", 
       "first_name": "Christopher", 
       "last_name": "Lunn", 
