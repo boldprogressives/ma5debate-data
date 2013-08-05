@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Albuquerque", 
+      "first_name": "Edward", 
+      "last_name": "Fikani", 
+      "user_id": 1807281, 
+      "district": "NM_01", 
+      "created": "2013-08-05T19:30:04", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16178586, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Minneapolis", 
+      "first_name": "Judith", 
+      "last_name": "Felker", 
+      "user_id": 1708741, 
+      "district": "MN_03", 
+      "created": "2013-08-05T19:28:35", 
+      "state": "MN", 
+      "iface": "vote", 
+      "id": 16178584, 
+      "question_id": "16172296"
+    }, 
+    {
+      "city": "Littleton", 
+      "first_name": "C. Ahearn", 
+      "last_name": "ahearn", 
+      "user_id": 282721, 
+      "district": "CO_01", 
+      "created": "2013-08-05T19:28:26", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16178582, 
+      "question_id": "16172281"
+    }, 
+    {
+      "city": "Minneapolis", 
+      "first_name": "Judith", 
+      "last_name": "Felker", 
+      "user_id": 1708741, 
+      "district": "MN_03", 
+      "created": "2013-08-05T19:28:06", 
+      "state": "MN", 
+      "iface": "vote", 
+      "id": 16178581, 
+      "question_id": "16172587"
+    }, 
+    {
       "city": "Minneapolis", 
       "first_name": "Judith", 
       "last_name": "Felker", 
