@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Cross Hill", 
+      "first_name": "Caitlin", 
+      "last_name": "Mauk", 
+      "user_id": 1708377, 
+      "district": "SC_03", 
+      "created": "2013-08-05T21:47:32", 
+      "state": "SC", 
+      "iface": "vote", 
+      "id": 16178822, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "Fenton", 
       "first_name": "Kayla", 
       "last_name": "Wingbermuehle", 
