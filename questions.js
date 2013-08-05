@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Albuquerque", 
+      "first_name": "John", 
+      "last_name": "Tischhauser", 
+      "user_id": 95648, 
+      "submission": "Will you support a foreign policy that is based on mutual respect (especially in Latin America) rather than on domination", 
+      "district": "NM_01", 
+      "created": "2013-08-05T16:23:18", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NM", 
+      "iface": "question", 
+      "y": 35.134799999999998, 
+      "x": -106.51900000000001, 
+      "id": 16177937
+    }, 
+    {
       "city": "San Antonio", 
       "first_name": "Damon", 
       "last_name": "Mason", 
