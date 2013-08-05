@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Omaha", 
+      "first_name": "Dan", 
+      "last_name": "Orlich", 
+      "user_id": 1779519, 
+      "district": "NE_02", 
+      "created": "2013-08-05T01:07:59", 
+      "state": "NE", 
+      "iface": "vote", 
+      "id": 16175642, 
+      "question_id": "16174492"
+    }, 
+    {
+      "city": "Omaha", 
+      "first_name": "Dan", 
+      "last_name": "Orlich", 
+      "user_id": 1779519, 
+      "district": "NE_02", 
+      "created": "2013-08-05T01:07:51", 
+      "state": "NE", 
+      "iface": "vote", 
+      "id": 16175640, 
+      "question_id": "16174323"
+    }, 
+    {
+      "city": "Omaha", 
+      "first_name": "Dan", 
+      "last_name": "Orlich", 
+      "user_id": 1779519, 
+      "district": "NE_02", 
+      "created": "2013-08-05T01:07:24", 
+      "state": "NE", 
+      "iface": "vote", 
+      "id": 16175638, 
+      "question_id": "16172648"
+    }, 
+    {
       "city": "Langlois", 
       "first_name": "steven", 
       "last_name": "barry", 
