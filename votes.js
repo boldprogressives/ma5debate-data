@@ -2,6 +2,78 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Tucson", 
+      "first_name": "Marina", 
+      "last_name": "Guthrie", 
+      "user_id": 358184, 
+      "district": "AZ_02", 
+      "created": "2013-08-05T03:45:44", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16176334, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Kalispell", 
+      "first_name": "Roxanne", 
+      "last_name": "Brothers", 
+      "user_id": 896104, 
+      "district": "MT_01", 
+      "created": "2013-08-05T03:45:27", 
+      "state": "MT", 
+      "iface": "vote", 
+      "id": 16176332, 
+      "question_id": "16172207"
+    }, 
+    {
+      "city": "Kalispell", 
+      "first_name": "Roxanne", 
+      "last_name": "Brothers", 
+      "user_id": 896104, 
+      "district": "MT_01", 
+      "created": "2013-08-05T03:45:14", 
+      "state": "MT", 
+      "iface": "vote", 
+      "id": 16176330, 
+      "question_id": "16172533"
+    }, 
+    {
+      "city": "Kalispell", 
+      "first_name": "Roxanne", 
+      "last_name": "Brothers", 
+      "user_id": 896104, 
+      "district": "MT_01", 
+      "created": "2013-08-05T03:45:02", 
+      "state": "MT", 
+      "iface": "vote", 
+      "id": 16176328, 
+      "question_id": "16172755"
+    }, 
+    {
+      "city": "Kalispell", 
+      "first_name": "Roxanne", 
+      "last_name": "Brothers", 
+      "user_id": 896104, 
+      "district": "MT_01", 
+      "created": "2013-08-05T03:44:23", 
+      "state": "MT", 
+      "iface": "vote", 
+      "id": 16176325, 
+      "question_id": "16172913"
+    }, 
+    {
+      "city": "Denver", 
+      "first_name": "Maureen", 
+      "last_name": "Lancaster", 
+      "user_id": 570144, 
+      "district": "CO_01", 
+      "created": "2013-08-05T03:44:05", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16176324, 
+      "question_id": "16172648"
+    }, 
+    {
       "city": "Kalispell", 
       "first_name": "Roxanne", 
       "last_name": "Brothers", 
