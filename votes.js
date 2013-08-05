@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Henderson", 
+      "first_name": "Della", 
+      "last_name": "Drowns", 
+      "user_id": 1807098, 
+      "district": "NV_03", 
+      "created": "2013-08-05T02:57:32", 
+      "state": "NV", 
+      "iface": "vote", 
+      "id": 16176002, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Morrison", 
+      "first_name": "Cynthia", 
+      "last_name": "Schmidt", 
+      "user_id": 1716081, 
+      "district": "CO_02", 
+      "created": "2013-08-05T02:57:25", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16176000, 
+      "question_id": "16175230"
+    }, 
+    {
+      "city": "Morrison", 
+      "first_name": "Cynthia", 
+      "last_name": "Schmidt", 
+      "user_id": 1716081, 
+      "district": "CO_02", 
+      "created": "2013-08-05T02:57:20", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16175999, 
+      "question_id": "16175261"
+    }, 
+    {
+      "city": "Morrison", 
+      "first_name": "Cynthia", 
+      "last_name": "Schmidt", 
+      "user_id": 1716081, 
+      "district": "CO_02", 
+      "created": "2013-08-05T02:57:18", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16175998, 
+      "question_id": "16175276"
+    }, 
+    {
       "city": "Shoreline", 
       "first_name": "Nora G.", 
       "last_name": "Rivkis", 
