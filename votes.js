@@ -2,6 +2,78 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Buffalo Grove", 
+      "first_name": "Susan", 
+      "last_name": "Osada", 
+      "user_id": 144294, 
+      "district": "IL_08", 
+      "created": "2013-08-05T01:43:37", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16175736, 
+      "question_id": "16172731"
+    }, 
+    {
+      "city": "Buffalo Grove", 
+      "first_name": "Susan", 
+      "last_name": "Osada", 
+      "user_id": 144294, 
+      "district": "IL_08", 
+      "created": "2013-08-05T01:43:29", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16175735, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Buffalo Grove", 
+      "first_name": "Susan", 
+      "last_name": "Osada", 
+      "user_id": 144294, 
+      "district": "IL_08", 
+      "created": "2013-08-05T01:43:21", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16175734, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Buffalo Grove", 
+      "first_name": "Susan", 
+      "last_name": "Osada", 
+      "user_id": 144294, 
+      "district": "IL_08", 
+      "created": "2013-08-05T01:43:15", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16175733, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Buffalo Grove", 
+      "first_name": "Susan", 
+      "last_name": "Osada", 
+      "user_id": 144294, 
+      "district": "IL_08", 
+      "created": "2013-08-05T01:43:10", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16175732, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Buffalo Grove", 
+      "first_name": "Susan", 
+      "last_name": "Osada", 
+      "user_id": 144294, 
+      "district": "IL_08", 
+      "created": "2013-08-05T01:42:54", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16175730, 
+      "question_id": "16175729"
+    }, 
+    {
       "city": "Fort Worth", 
       "first_name": "Jeff", 
       "last_name": "Chambers", 
