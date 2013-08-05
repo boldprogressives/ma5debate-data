@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Fenton", 
+      "first_name": "Kayla", 
+      "last_name": "Wingbermuehle", 
+      "user_id": 1544042, 
+      "district": "MO_02", 
+      "created": "2013-08-05T17:28:54", 
+      "state": "MO", 
+      "iface": "vote", 
+      "id": 16178098, 
+      "question_id": "16173438"
+    }, 
+    {
+      "city": "Santa Fe", 
+      "first_name": "Lawrence", 
+      "last_name": "Gold", 
+      "user_id": 1574238, 
+      "district": "NM_03", 
+      "created": "2013-08-05T17:28:48", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16178096, 
+      "question_id": "16178019"
+    }, 
+    {
+      "city": "Fenton", 
+      "first_name": "Kayla", 
+      "last_name": "Wingbermuehle", 
+      "user_id": 1544042, 
+      "district": "MO_02", 
+      "created": "2013-08-05T17:28:36", 
+      "state": "MO", 
+      "iface": "vote", 
+      "id": 16178095, 
+      "question_id": "16172281"
+    }, 
+    {
       "city": "Santa Fe", 
       "first_name": "Lawrence", 
       "last_name": "Gold", 
