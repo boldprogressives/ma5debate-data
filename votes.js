@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Naperville", 
+      "first_name": "Sandra", 
+      "last_name": "Couch", 
+      "user_id": 1648996, 
+      "district": "IL_14", 
+      "created": "2013-08-05T18:01:30", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16178243, 
+      "question_id": "16172281"
+    }, 
+    {
+      "city": "Albuquerque", 
+      "first_name": "Charles", 
+      "last_name": "Shelly", 
+      "user_id": 1057793, 
+      "district": "NM_01", 
+      "created": "2013-08-05T18:00:56", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16178241, 
+      "question_id": "16175729"
+    }, 
+    {
+      "city": "Albuquerque", 
+      "first_name": "Charles", 
+      "last_name": "Shelly", 
+      "user_id": 1057793, 
+      "district": "NM_01", 
+      "created": "2013-08-05T18:00:27", 
+      "state": "NM", 
+      "iface": "vote", 
+      "id": 16178240, 
+      "question_id": "16176001"
+    }, 
+    {
       "city": "Albuquerque", 
       "first_name": "Charles", 
       "last_name": "Shelly", 
