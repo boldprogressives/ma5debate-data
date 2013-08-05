@@ -7,6 +7,18 @@ opendebate.processFetchedVotes({
       "last_name": "Carman", 
       "user_id": 1475762, 
       "district": "SD_01", 
+      "created": "2013-08-05T08:50:10", 
+      "state": "SD", 
+      "iface": "vote", 
+      "id": 16176880, 
+      "question_id": "16175641"
+    }, 
+    {
+      "city": "Sioux Falls", 
+      "first_name": "John", 
+      "last_name": "Carman", 
+      "user_id": 1475762, 
+      "district": "SD_01", 
       "created": "2013-08-05T08:49:24", 
       "state": "SD", 
       "iface": "vote", 
