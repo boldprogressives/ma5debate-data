@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Oklahoma City", 
+      "first_name": "Rita", 
+      "last_name": "Broussard", 
+      "user_id": 1666133, 
+      "district": "OK_05", 
+      "created": "2013-08-05T07:03:50", 
+      "state": "OK", 
+      "iface": "vote", 
+      "id": 16176731, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Ashland", 
+      "first_name": "Chandra", 
+      "last_name": "Holsten", 
+      "user_id": 53066, 
+      "district": "OR_02", 
+      "created": "2013-08-05T07:03:16", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16176730, 
+      "question_id": "16175570"
+    }, 
+    {
+      "city": "Ashland", 
+      "first_name": "Chandra", 
+      "last_name": "Holsten", 
+      "user_id": 53066, 
+      "district": "OR_02", 
+      "created": "2013-08-05T07:02:11", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16176729, 
+      "question_id": "16175852"
+    }, 
+    {
       "city": "Chicago", 
       "first_name": "Don", 
       "last_name": "Washington", 
