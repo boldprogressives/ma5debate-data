@@ -2,6 +2,78 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Littleton", 
+      "first_name": "Jan", 
+      "last_name": "Kent", 
+      "user_id": 869264, 
+      "district": "CO_06", 
+      "created": "2013-08-05T13:51:49", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16177451, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Littleton", 
+      "first_name": "Jan", 
+      "last_name": "Kent", 
+      "user_id": 869264, 
+      "district": "CO_06", 
+      "created": "2013-08-05T13:51:43", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16177450, 
+      "question_id": "16172281"
+    }, 
+    {
+      "city": "Revere", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1808896, 
+      "district": "MA_05", 
+      "created": "2013-08-05T13:51:01", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16177448, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Houston", 
+      "first_name": "Sarah", 
+      "last_name": "Johnson", 
+      "user_id": 1692255, 
+      "district": "TX_09", 
+      "created": "2013-08-05T13:51:00", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16177447, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Houston", 
+      "first_name": "Sarah", 
+      "last_name": "Johnson", 
+      "user_id": 1692255, 
+      "district": "TX_09", 
+      "created": "2013-08-05T13:50:44", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16177445, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Houston", 
+      "first_name": "Sarah", 
+      "last_name": "Johnson", 
+      "user_id": 1692255, 
+      "district": "TX_09", 
+      "created": "2013-08-05T13:50:05", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16177444, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "Houston", 
       "first_name": "Sarah", 
       "last_name": "Johnson", 
