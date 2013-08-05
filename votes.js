@@ -2,6 +2,78 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Georgetown", 
+      "first_name": "Howard", 
+      "last_name": "Hill", 
+      "user_id": 1664517, 
+      "district": "TX_31", 
+      "created": "2013-08-05T13:35:55", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16177287, 
+      "question_id": "16172913"
+    }, 
+    {
+      "city": "Georgetown", 
+      "first_name": "Howard", 
+      "last_name": "Hill", 
+      "user_id": 1664517, 
+      "district": "TX_31", 
+      "created": "2013-08-05T13:35:42", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16177286, 
+      "question_id": "16172731"
+    }, 
+    {
+      "city": "Georgetown", 
+      "first_name": "Howard", 
+      "last_name": "Hill", 
+      "user_id": 1664517, 
+      "district": "TX_31", 
+      "created": "2013-08-05T13:35:23", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16177285, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Georgetown", 
+      "first_name": "Howard", 
+      "last_name": "Hill", 
+      "user_id": 1664517, 
+      "district": "TX_31", 
+      "created": "2013-08-05T13:35:19", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16177284, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Georgetown", 
+      "first_name": "Howard", 
+      "last_name": "Hill", 
+      "user_id": 1664517, 
+      "district": "TX_31", 
+      "created": "2013-08-05T13:34:58", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16177282, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Georgetown", 
+      "first_name": "Howard", 
+      "last_name": "Hill", 
+      "user_id": 1664517, 
+      "district": "TX_31", 
+      "created": "2013-08-05T13:34:54", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16177281, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Mazama", 
       "first_name": "Eric", 
       "last_name": "Burr", 
