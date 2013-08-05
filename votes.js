@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Klamath Falls", 
+      "first_name": "Darlene", 
+      "last_name": "Edelman", 
+      "user_id": 1211490, 
+      "district": "OR_02", 
+      "created": "2013-08-05T01:33:48", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16175698, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Klamath Falls", 
+      "first_name": "Darlene", 
+      "last_name": "Edelman", 
+      "user_id": 1211490, 
+      "district": "OR_02", 
+      "created": "2013-08-05T01:33:45", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16175697, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Klamath Falls", 
+      "first_name": "Darlene", 
+      "last_name": "Edelman", 
+      "user_id": 1211490, 
+      "district": "OR_02", 
+      "created": "2013-08-05T01:33:39", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16175696, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Terrell", 
       "first_name": "lawrence", 
       "last_name": "mayberry", 
