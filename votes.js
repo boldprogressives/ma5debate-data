@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Wheat Ridge", 
+      "first_name": "toni", 
+      "last_name": "wintroub-aguilar", 
+      "user_id": 345913, 
+      "district": "CO_07", 
+      "created": "2013-08-05T04:33:57", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16176507, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "durango", 
       "first_name": "janet", 
       "last_name": "monell", 
