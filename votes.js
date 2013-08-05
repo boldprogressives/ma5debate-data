@@ -3,8 +3,8 @@ opendebate.processFetchedVotes({
   "entries": [
     {
       "city": "Evanston", 
-      "first_name": "DONOVAN", 
-      "last_name": "MIXON", 
+      "first_name": "Donovan", 
+      "last_name": "Mixon", 
       "user_id": 700513, 
       "district": "IL_09", 
       "created": "2013-08-05T19:50:13", 
@@ -27,8 +27,8 @@ opendebate.processFetchedVotes({
     }, 
     {
       "city": "Evanston", 
-      "first_name": "DONOVAN", 
-      "last_name": "MIXON", 
+      "first_name": "Donovan", 
+      "last_name": "Mixon", 
       "user_id": 700513, 
       "district": "IL_09", 
       "created": "2013-08-05T19:50:01", 
@@ -51,8 +51,8 @@ opendebate.processFetchedVotes({
     }, 
     {
       "city": "Evanston", 
-      "first_name": "DONOVAN", 
-      "last_name": "MIXON", 
+      "first_name": "Donovan", 
+      "last_name": "Mixon", 
       "user_id": 700513, 
       "district": "IL_09", 
       "created": "2013-08-05T19:49:43", 
@@ -63,8 +63,8 @@ opendebate.processFetchedVotes({
     }, 
     {
       "city": "Evanston", 
-      "first_name": "DONOVAN", 
-      "last_name": "MIXON", 
+      "first_name": "Donovan", 
+      "last_name": "Mixon", 
       "user_id": 700513, 
       "district": "IL_09", 
       "created": "2013-08-05T19:49:20", 
@@ -75,8 +75,8 @@ opendebate.processFetchedVotes({
     }, 
     {
       "city": "Evanston", 
-      "first_name": "DONOVAN", 
-      "last_name": "MIXON", 
+      "first_name": "Donovan", 
+      "last_name": "Mixon", 
       "user_id": 700513, 
       "district": "IL_09", 
       "created": "2013-08-05T19:49:04", 
@@ -99,8 +99,8 @@ opendebate.processFetchedVotes({
     }, 
     {
       "city": "Evanston", 
-      "first_name": "DONOVAN", 
-      "last_name": "MIXON", 
+      "first_name": "Donovan", 
+      "last_name": "Mixon", 
       "user_id": 700513, 
       "district": "IL_09", 
       "created": "2013-08-05T19:48:52", 
