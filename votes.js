@@ -2,6 +2,90 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Denver", 
+      "first_name": "Maureen", 
+      "last_name": "Lancaster", 
+      "user_id": 570144, 
+      "district": "CO_01", 
+      "created": "2013-08-05T03:35:59", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16176303, 
+      "question_id": "16172566"
+    }, 
+    {
+      "city": "Madison", 
+      "first_name": "Deborah", 
+      "last_name": "Baverstock", 
+      "user_id": 1683096, 
+      "district": "WI_02", 
+      "created": "2013-08-05T03:35:55", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16176302, 
+      "question_id": "16175872"
+    }, 
+    {
+      "city": "Madison", 
+      "first_name": "Deborah", 
+      "last_name": "Baverstock", 
+      "user_id": 1683096, 
+      "district": "WI_02", 
+      "created": "2013-08-05T03:35:48", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16176301, 
+      "question_id": "16175895"
+    }, 
+    {
+      "city": "Madison", 
+      "first_name": "Deborah", 
+      "last_name": "Baverstock", 
+      "user_id": 1683096, 
+      "district": "WI_02", 
+      "created": "2013-08-05T03:35:36", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16176298, 
+      "question_id": "16175899"
+    }, 
+    {
+      "city": "Anna", 
+      "first_name": "Frank", 
+      "last_name": "Noble", 
+      "user_id": 1777161, 
+      "district": "TX_04", 
+      "created": "2013-08-05T03:35:27", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16176296, 
+      "question_id": "16172533"
+    }, 
+    {
+      "city": "Menomonie", 
+      "first_name": "Cynthia", 
+      "last_name": "Thomas", 
+      "user_id": 905530, 
+      "district": "WI_03", 
+      "created": "2013-08-05T03:35:00", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16176295, 
+      "question_id": "16173320"
+    }, 
+    {
+      "city": "Madison", 
+      "first_name": "Deborah", 
+      "last_name": "Baverstock", 
+      "user_id": 1683096, 
+      "district": "WI_02", 
+      "created": "2013-08-05T03:34:51", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16176294, 
+      "question_id": "16176001"
+    }, 
+    {
       "city": "Fond du Lac", 
       "first_name": "Taylor", 
       "last_name": "Putz", 
@@ -9410,8 +9494,8 @@ opendebate.processFetchedVotes({
       "question_id": "16172905"
     }, 
     {
-      "city": "Wheat Ridge", 
-      "first_name": "Larry", 
+      "city": "Denver", 
+      "first_name": "John", 
       "last_name": "Christman", 
       "user_id": 1774269, 
       "district": "CO_07", 
@@ -9506,8 +9590,8 @@ opendebate.processFetchedVotes({
       "question_id": "16173913"
     }, 
     {
-      "city": "Wheat Ridge", 
-      "first_name": "Larry", 
+      "city": "Denver", 
+      "first_name": "John", 
       "last_name": "Christman", 
       "user_id": 1774269, 
       "district": "CO_07", 
@@ -9518,8 +9602,8 @@ opendebate.processFetchedVotes({
       "question_id": "16172862"
     }, 
     {
-      "city": "Wheat Ridge", 
-      "first_name": "Larry", 
+      "city": "Denver", 
+      "first_name": "John", 
       "last_name": "Christman", 
       "user_id": 1774269, 
       "district": "CO_07", 
@@ -9554,8 +9638,8 @@ opendebate.processFetchedVotes({
       "question_id": "16174323"
     }, 
     {
-      "city": "Wheat Ridge", 
-      "first_name": "Larry", 
+      "city": "Denver", 
+      "first_name": "John", 
       "last_name": "Christman", 
       "user_id": 1774269, 
       "district": "CO_07", 
@@ -9590,8 +9674,8 @@ opendebate.processFetchedVotes({
       "question_id": "16172583"
     }, 
     {
-      "city": "Wheat Ridge", 
-      "first_name": "Larry", 
+      "city": "Denver", 
+      "first_name": "John", 
       "last_name": "Christman", 
       "user_id": 1774269, 
       "district": "CO_07", 
@@ -9614,8 +9698,8 @@ opendebate.processFetchedVotes({
       "question_id": "16172777"
     }, 
     {
-      "city": "Wheat Ridge", 
-      "first_name": "Larry", 
+      "city": "Denver", 
+      "first_name": "John", 
       "last_name": "Christman", 
       "user_id": 1774269, 
       "district": "CO_07", 
@@ -10022,8 +10106,8 @@ opendebate.processFetchedVotes({
       "question_id": "16173264"
     }, 
     {
-      "city": "Wheat Ridge", 
-      "first_name": "Larry", 
+      "city": "Denver", 
+      "first_name": "John", 
       "last_name": "Christman", 
       "user_id": 1774269, 
       "district": "CO_07", 
@@ -10058,8 +10142,8 @@ opendebate.processFetchedVotes({
       "question_id": "16172266"
     }, 
     {
-      "city": "Wheat Ridge", 
-      "first_name": "Larry", 
+      "city": "Denver", 
+      "first_name": "John", 
       "last_name": "Christman", 
       "user_id": 1774269, 
       "district": "CO_07", 
@@ -10082,8 +10166,8 @@ opendebate.processFetchedVotes({
       "question_id": "16172777"
     }, 
     {
-      "city": "Wheat Ridge", 
-      "first_name": "Larry", 
+      "city": "Denver", 
+      "first_name": "John", 
       "last_name": "Christman", 
       "user_id": 1774269, 
       "district": "CO_07", 
@@ -10094,8 +10178,8 @@ opendebate.processFetchedVotes({
       "question_id": "16173530"
     }, 
     {
-      "city": "Wheat Ridge", 
-      "first_name": "Larry", 
+      "city": "Denver", 
+      "first_name": "John", 
       "last_name": "Christman", 
       "user_id": 1774269, 
       "district": "CO_07", 
@@ -10118,8 +10202,8 @@ opendebate.processFetchedVotes({
       "question_id": "16172727"
     }, 
     {
-      "city": "Wheat Ridge", 
-      "first_name": "Larry", 
+      "city": "Denver", 
+      "first_name": "John", 
       "last_name": "Christman", 
       "user_id": 1774269, 
       "district": "CO_07", 
@@ -10154,8 +10238,8 @@ opendebate.processFetchedVotes({
       "question_id": "16172777"
     }, 
     {
-      "city": "Wheat Ridge", 
-      "first_name": "Larry", 
+      "city": "Denver", 
+      "first_name": "John", 
       "last_name": "Christman", 
       "user_id": 1774269, 
       "district": "CO_07", 
@@ -10166,8 +10250,8 @@ opendebate.processFetchedVotes({
       "question_id": "16174143"
     }, 
     {
-      "city": "Wheat Ridge", 
-      "first_name": "Larry", 
+      "city": "Denver", 
+      "first_name": "John", 
       "last_name": "Christman", 
       "user_id": 1774269, 
       "district": "CO_07", 
@@ -10178,8 +10262,8 @@ opendebate.processFetchedVotes({
       "question_id": "16174109"
     }, 
     {
-      "city": "Wheat Ridge", 
-      "first_name": "Larry", 
+      "city": "Denver", 
+      "first_name": "John", 
       "last_name": "Christman", 
       "user_id": 1774269, 
       "district": "CO_07", 
@@ -10262,8 +10346,8 @@ opendebate.processFetchedVotes({
       "question_id": "16174143"
     }, 
     {
-      "city": "Wheat Ridge", 
-      "first_name": "Larry", 
+      "city": "Denver", 
+      "first_name": "John", 
       "last_name": "Christman", 
       "user_id": 1774269, 
       "district": "CO_07", 
@@ -10286,8 +10370,8 @@ opendebate.processFetchedVotes({
       "question_id": "16174163"
     }, 
     {
-      "city": "Wheat Ridge", 
-      "first_name": "Larry", 
+      "city": "Denver", 
+      "first_name": "John", 
       "last_name": "Christman", 
       "user_id": 1774269, 
       "district": "CO_07", 
@@ -10346,8 +10430,8 @@ opendebate.processFetchedVotes({
       "question_id": "16172765"
     }, 
     {
-      "city": "Wheat Ridge", 
-      "first_name": "Larry", 
+      "city": "Denver", 
+      "first_name": "John", 
       "last_name": "Christman", 
       "user_id": 1774269, 
       "district": "CO_07", 
@@ -10826,8 +10910,8 @@ opendebate.processFetchedVotes({
       "question_id": "16172901"
     }, 
     {
-      "city": "Wheat Ridge", 
-      "first_name": "Larry", 
+      "city": "Denver", 
+      "first_name": "John", 
       "last_name": "Christman", 
       "user_id": 1774269, 
       "district": "CO_07", 
@@ -10898,8 +10982,8 @@ opendebate.processFetchedVotes({
       "question_id": "16172296"
     }, 
     {
-      "city": "Wheat Ridge", 
-      "first_name": "Larry", 
+      "city": "Denver", 
+      "first_name": "John", 
       "last_name": "Christman", 
       "user_id": 1774269, 
       "district": "CO_07", 
@@ -10958,8 +11042,8 @@ opendebate.processFetchedVotes({
       "question_id": "16172696"
     }, 
     {
-      "city": "Wheat Ridge", 
-      "first_name": "Larry", 
+      "city": "Denver", 
+      "first_name": "John", 
       "last_name": "Christman", 
       "user_id": 1774269, 
       "district": "CO_07", 
