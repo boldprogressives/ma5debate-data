@@ -2,6 +2,78 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Copperas Cove", 
+      "first_name": "Tommy", 
+      "last_name": "Hill", 
+      "user_id": 1776961, 
+      "district": "TX_25", 
+      "created": "2013-08-05T04:38:46", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16176537, 
+      "question_id": "16176473"
+    }, 
+    {
+      "city": "Copperas Cove", 
+      "first_name": "Tommy", 
+      "last_name": "Hill", 
+      "user_id": 1776961, 
+      "district": "TX_25", 
+      "created": "2013-08-05T04:38:33", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16176535, 
+      "question_id": "16176423"
+    }, 
+    {
+      "city": "Wheat Ridge", 
+      "first_name": "toni", 
+      "last_name": "wintroub-aguilar", 
+      "user_id": 345913, 
+      "district": "CO_07", 
+      "created": "2013-08-05T04:38:17", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16176534, 
+      "question_id": "16174466"
+    }, 
+    {
+      "city": "Wheat Ridge", 
+      "first_name": "toni", 
+      "last_name": "wintroub-aguilar", 
+      "user_id": 345913, 
+      "district": "CO_07", 
+      "created": "2013-08-05T04:38:16", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16176533, 
+      "question_id": "16174342"
+    }, 
+    {
+      "city": "Wheat Ridge", 
+      "first_name": "toni", 
+      "last_name": "wintroub-aguilar", 
+      "user_id": 345913, 
+      "district": "CO_07", 
+      "created": "2013-08-05T04:38:10", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16176532, 
+      "question_id": "16174109"
+    }, 
+    {
+      "city": "Wheat Ridge", 
+      "first_name": "toni", 
+      "last_name": "wintroub-aguilar", 
+      "user_id": 345913, 
+      "district": "CO_07", 
+      "created": "2013-08-05T04:38:06", 
+      "state": "CO", 
+      "iface": "vote", 
+      "id": 16176531, 
+      "question_id": "16173625"
+    }, 
+    {
       "city": "Wheat Ridge", 
       "first_name": "toni", 
       "last_name": "wintroub-aguilar", 
