@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Camano Island", 
+      "first_name": "Megan", 
+      "last_name": "Fite", 
+      "user_id": 1738614, 
+      "district": "WA_02", 
+      "created": "2013-08-05T15:53:54", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16177871, 
+      "question_id": "16173210"
+    }, 
+    {
+      "city": "Camano Island", 
+      "first_name": "Megan", 
+      "last_name": "Fite", 
+      "user_id": 1738614, 
+      "district": "WA_02", 
+      "created": "2013-08-05T15:53:43", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16177870, 
+      "question_id": "16172913"
+    }, 
+    {
+      "city": "Camano Island", 
+      "first_name": "Megan", 
+      "last_name": "Fite", 
+      "user_id": 1738614, 
+      "district": "WA_02", 
+      "created": "2013-08-05T15:53:24", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16177869, 
+      "question_id": "16172533"
+    }, 
+    {
       "city": "Sammamish", 
       "first_name": "Charles", 
       "last_name": "Domingue", 
