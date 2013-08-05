@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Litchfield Park", 
+      "first_name": "FREDERICK", 
+      "last_name": "DAVIS", 
+      "user_id": 1733964, 
+      "submission": "WHAT CAN I DO TO DEMONSTRATE TO PEOPLE HOW THEY HAVE BEEN DUPED BY  MANY OF OUR REPRESENTATIVES AND THE MEDIA CONCERNING SO MANY ISSUES?", 
+      "district": "AZ_08", 
+      "created": "2013-08-05T20:46:14", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "AZ", 
+      "iface": "question", 
+      "y": 33.497999999999998, 
+      "x": -112.377, 
+      "id": 16178746
+    }, 
+    {
       "city": "West Salem", 
       "first_name": "andy", 
       "last_name": "compton", 
