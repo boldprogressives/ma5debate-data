@@ -2,6 +2,78 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Tucson", 
+      "first_name": "Mary", 
+      "last_name": "Ker", 
+      "user_id": 1775082, 
+      "district": "AZ_02", 
+      "created": "2013-08-05T15:32:58", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16177829, 
+      "question_id": "16177435"
+    }, 
+    {
+      "city": "Austin", 
+      "first_name": "Joe", 
+      "last_name": "Rogers", 
+      "user_id": 183482, 
+      "district": "TX_21", 
+      "created": "2013-08-05T15:32:24", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16177827, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Austin", 
+      "first_name": "Joe", 
+      "last_name": "Rogers", 
+      "user_id": 183482, 
+      "district": "TX_21", 
+      "created": "2013-08-05T15:32:22", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16177826, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Austin", 
+      "first_name": "Joe", 
+      "last_name": "Rogers", 
+      "user_id": 183482, 
+      "district": "TX_21", 
+      "created": "2013-08-05T15:32:19", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16177824, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Austin", 
+      "first_name": "Joe", 
+      "last_name": "Rogers", 
+      "user_id": 183482, 
+      "district": "TX_21", 
+      "created": "2013-08-05T15:32:15", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16177823, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Austin", 
+      "first_name": "Joe", 
+      "last_name": "Rogers", 
+      "user_id": 183482, 
+      "district": "TX_21", 
+      "created": "2013-08-05T15:32:09", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16177822, 
+      "question_id": "16173210"
+    }, 
+    {
       "city": "Austin", 
       "first_name": "Joe", 
       "last_name": "Rogers", 
