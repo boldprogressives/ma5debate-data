@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Rowe", 
+      "first_name": "Paul", 
+      "last_name": "Kestyn", 
+      "user_id": 1809172, 
+      "submission": "What are the mistakes in our society that you like to see stopped being made?", 
+      "district": "MA_01", 
+      "created": "2013-08-06T10:35:21", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.689399999999999, 
+      "x": -72.935400000000001, 
+      "id": 16180823
+    }, 
+    {
       "city": "North Adams", 
       "first_name": "Osirus", 
       "last_name": "Brisbane", 
