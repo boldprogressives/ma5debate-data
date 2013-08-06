@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Richardson", 
+      "first_name": "Adam", 
+      "last_name": "Combiths", 
+      "user_id": 1375215, 
+      "district": "TX_03", 
+      "created": "2013-08-06T01:55:31", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16179330, 
+      "question_id": "16172207"
+    }, 
+    {
+      "city": "Richardson", 
+      "first_name": "Adam", 
+      "last_name": "Combiths", 
+      "user_id": 1375215, 
+      "district": "TX_03", 
+      "created": "2013-08-06T01:55:29", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16179329, 
+      "question_id": "16173921"
+    }, 
+    {
+      "city": "Richardson", 
+      "first_name": "Adam", 
+      "last_name": "Combiths", 
+      "user_id": 1375215, 
+      "district": "TX_03", 
+      "created": "2013-08-06T01:55:26", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16179328, 
+      "question_id": "16172303"
+    }, 
+    {
+      "city": "Richardson", 
+      "first_name": "Adam", 
+      "last_name": "Combiths", 
+      "user_id": 1375215, 
+      "district": "TX_03", 
+      "created": "2013-08-06T01:54:59", 
+      "state": "TX", 
+      "iface": "vote", 
+      "id": 16179325, 
+      "question_id": "16172533"
+    }, 
+    {
       "city": "Revere", 
       "first_name": "", 
       "last_name": "", 
