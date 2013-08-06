@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "San Diego", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809180, 
+      "district": "CA_53", 
+      "created": "2013-08-06T11:41:53", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180903, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "San Diego", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809180, 
+      "district": "CA_53", 
+      "created": "2013-08-06T11:41:34", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180901, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Great Neck", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
