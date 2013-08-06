@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Moravia", 
+      "first_name": "steve", 
+      "last_name": "davis", 
+      "user_id": 1736517, 
+      "submission": "Would you give Snowden amnesty in return for testimony before a congressional committee on NSA spying on Americans?", 
+      "district": "IA_02", 
+      "created": "2013-08-06T01:24:58", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "IA", 
+      "iface": "question", 
+      "y": 40.885599999999997, 
+      "x": -92.860600000000005, 
+      "id": 16179303
+    }, 
+    {
       "city": "Springdale", 
       "first_name": "Bruce", 
       "last_name": "Perry", 
