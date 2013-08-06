@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Florence", 
+      "first_name": "Dana", 
+      "last_name": "Lawson", 
+      "user_id": 1205893, 
+      "district": "AL_05", 
+      "created": "2013-08-06T03:26:40", 
+      "state": "AL", 
+      "iface": "vote", 
+      "id": 16179452, 
+      "question_id": "16172755"
+    }, 
+    {
+      "city": "Florence", 
+      "first_name": "Dana", 
+      "last_name": "Lawson", 
+      "user_id": 1205893, 
+      "district": "AL_05", 
+      "created": "2013-08-06T03:26:38", 
+      "state": "AL", 
+      "iface": "vote", 
+      "id": 16179451, 
+      "question_id": "16172533"
+    }, 
+    {
       "city": "Arlington", 
       "first_name": "Marc", 
       "last_name": "Breslow", 
