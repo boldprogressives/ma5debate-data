@@ -2,6 +2,78 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Snoqualmie", 
+      "first_name": "Douglas", 
+      "last_name": "Bond", 
+      "user_id": 1571374, 
+      "district": "WA_08", 
+      "created": "2013-08-06T05:57:46", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16180218, 
+      "question_id": "16179810"
+    }, 
+    {
+      "city": "San Juan Capistrano", 
+      "first_name": "jim", 
+      "last_name": "maag", 
+      "user_id": 335346, 
+      "district": "CA_49", 
+      "created": "2013-08-06T05:57:45", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180217, 
+      "question_id": "16173225"
+    }, 
+    {
+      "city": "San Juan Capistrano", 
+      "first_name": "jim", 
+      "last_name": "maag", 
+      "user_id": 335346, 
+      "district": "CA_49", 
+      "created": "2013-08-06T05:57:31", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180215, 
+      "question_id": "16174492"
+    }, 
+    {
+      "city": "Snoqualmie", 
+      "first_name": "Douglas", 
+      "last_name": "Bond", 
+      "user_id": 1571374, 
+      "district": "WA_08", 
+      "created": "2013-08-06T05:57:03", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16180214, 
+      "question_id": "16180038"
+    }, 
+    {
+      "city": "San Juan Capistrano", 
+      "first_name": "jim", 
+      "last_name": "maag", 
+      "user_id": 335346, 
+      "district": "CA_49", 
+      "created": "2013-08-06T05:56:49", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180213, 
+      "question_id": "16172542"
+    }, 
+    {
+      "city": "Snoqualmie", 
+      "first_name": "Douglas", 
+      "last_name": "Bond", 
+      "user_id": 1571374, 
+      "district": "WA_08", 
+      "created": "2013-08-06T05:56:48", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16180212, 
+      "question_id": "16179970"
+    }, 
+    {
       "city": "San Juan Capistrano", 
       "first_name": "jim", 
       "last_name": "maag", 
