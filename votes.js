@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Stanton", 
+      "first_name": "simon", 
+      "last_name": "tseghia", 
+      "user_id": 552632, 
+      "district": "CA_47", 
+      "created": "2013-08-06T11:52:57", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180949, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Georgetown", 
+      "first_name": "Thomas", 
+      "last_name": "Daly", 
+      "user_id": 823756, 
+      "district": "CA_04", 
+      "created": "2013-08-06T11:52:27", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180948, 
+      "question_id": "16180196"
+    }, 
+    {
       "city": "Lake in the Hills", 
       "first_name": "rob", 
       "last_name": "bodenbach", 
