@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "North Adams", 
+      "first_name": "Osirus", 
+      "last_name": "Brisbane", 
+      "user_id": 1809169, 
+      "submission": "What will you do to reduce the number of Americans in prison for victimless crimes such as marijuana possession?", 
+      "district": "MA_01", 
+      "created": "2013-08-06T10:15:29", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.687100000000001, 
+      "x": -73.074399999999997, 
+      "id": 16180815
+    }, 
+    {
       "city": "Los Angeles", 
       "first_name": "Hadassa", 
       "last_name": "Gilbert", 
