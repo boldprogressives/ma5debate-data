@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Jamison", 
+      "first_name": "Orin", 
+      "last_name": "Hollander", 
+      "user_id": 1809197, 
+      "district": "PA_08", 
+      "created": "2013-08-06T13:03:40", 
+      "state": "PA", 
+      "iface": "vote", 
+      "id": 16181092, 
+      "question_id": "16181081"
+    }, 
+    {
+      "city": "Jamison", 
+      "first_name": "Orin", 
+      "last_name": "Hollander", 
+      "user_id": 1809197, 
+      "district": "PA_08", 
+      "created": "2013-08-06T13:03:03", 
+      "state": "PA", 
+      "iface": "vote", 
+      "id": 16181088, 
+      "question_id": "16172755"
+    }, 
+    {
+      "city": "palm desert", 
+      "first_name": "david", 
+      "last_name": "galie", 
+      "user_id": 1201784, 
+      "district": "CA_36", 
+      "created": "2013-08-06T13:02:18", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16181087, 
+      "question_id": "16180370"
+    }, 
+    {
+      "city": "palm desert", 
+      "first_name": "david", 
+      "last_name": "galie", 
+      "user_id": 1201784, 
+      "district": "CA_36", 
+      "created": "2013-08-06T13:02:09", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16181086, 
+      "question_id": "16180369"
+    }, 
+    {
       "city": "palm desert", 
       "first_name": "david", 
       "last_name": "galie", 
