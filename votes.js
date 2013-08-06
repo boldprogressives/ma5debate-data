@@ -2,6 +2,66 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Whittier", 
+      "first_name": "Roger", 
+      "last_name": "Davis", 
+      "user_id": 572403, 
+      "district": "CA_38", 
+      "created": "2013-08-06T06:30:01", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180378, 
+      "question_id": "16172755"
+    }, 
+    {
+      "city": "Whittier", 
+      "first_name": "Roger", 
+      "last_name": "Davis", 
+      "user_id": 572403, 
+      "district": "CA_38", 
+      "created": "2013-08-06T06:29:55", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180377, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Whittier", 
+      "first_name": "Roger", 
+      "last_name": "Davis", 
+      "user_id": 572403, 
+      "district": "CA_38", 
+      "created": "2013-08-06T06:29:49", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180376, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Whittier", 
+      "first_name": "Roger", 
+      "last_name": "Davis", 
+      "user_id": 572403, 
+      "district": "CA_38", 
+      "created": "2013-08-06T06:29:46", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180375, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Whittier", 
+      "first_name": "Roger", 
+      "last_name": "Davis", 
+      "user_id": 572403, 
+      "district": "CA_38", 
+      "created": "2013-08-06T06:29:45", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180374, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Pasadena", 
       "first_name": "Elizabeth", 
       "last_name": "Wiley", 
