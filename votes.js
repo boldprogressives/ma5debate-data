@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Pasadena", 
+      "first_name": "Elizabeth", 
+      "last_name": "Wiley", 
+      "user_id": 1773145, 
+      "district": "CA_27", 
+      "created": "2013-08-06T06:26:04", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180371, 
+      "question_id": "16179810"
+    }, 
+    {
       "city": "Redondo Beach", 
       "first_name": "Gerard", 
       "last_name": "Gendron", 

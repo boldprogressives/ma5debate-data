@@ -350,7 +350,7 @@ opendebate.processFetchedQuestions({
       "district": "CA_43", 
       "created": "2013-08-06T05:16:13", 
       "state_votes": 0, 
-      "votes": 2, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
