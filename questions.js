@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Madison", 
+      "first_name": "Linda", 
+      "last_name": "Leonhart", 
+      "user_id": 1777183, 
+      "submission": "Why is increased investment  in early learning important to the future of our country?", 
+      "district": "WI_02", 
+      "created": "2013-08-06T03:08:11", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WI", 
+      "iface": "question", 
+      "y": 43.147100000000002, 
+      "x": -89.406899999999993, 
+      "id": 16179434
+    }, 
+    {
       "city": "Moravia", 
       "first_name": "steve", 
       "last_name": "davis", 
@@ -10,7 +27,7 @@ opendebate.processFetchedQuestions({
       "district": "IA_02", 
       "created": "2013-08-06T01:24:58", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "IA", 
       "iface": "question", 
