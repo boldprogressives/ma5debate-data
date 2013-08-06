@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Montclair", 
+      "first_name": "Ivan", 
+      "last_name": "V", 
+      "user_id": 751781, 
+      "district": "CA_35", 
+      "created": "2013-08-06T07:17:56", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180522, 
+      "question_id": "16174163"
+    }, 
+    {
       "city": "Oroville", 
       "first_name": "Alvin", 
       "last_name": "Nicholson", 
