@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Carlsbad", 
+      "first_name": "Janet", 
+      "last_name": "Fretwell", 
+      "user_id": 1683099, 
+      "district": "CA_49", 
+      "created": "2013-08-06T10:45:51", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180859, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Carlsbad", 
+      "first_name": "Janet", 
+      "last_name": "Fretwell", 
+      "user_id": 1683099, 
+      "district": "CA_49", 
+      "created": "2013-08-06T10:45:45", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180858, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Carlsbad", 
+      "first_name": "Janet", 
+      "last_name": "Fretwell", 
+      "user_id": 1683099, 
+      "district": "CA_49", 
+      "created": "2013-08-06T10:45:40", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180857, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Worcester", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809174, 
+      "district": "MA_02", 
+      "created": "2013-08-06T10:44:44", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16180852, 
+      "question_id": "16172207"
+    }, 
+    {
       "city": "Rowe", 
       "first_name": "Paul", 
       "last_name": "Kestyn", 
