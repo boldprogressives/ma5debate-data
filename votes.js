@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Auburn", 
+      "first_name": "Wendy", 
+      "last_name": "Swanson", 
+      "user_id": 295455, 
+      "district": "WA_08", 
+      "created": "2013-08-06T13:43:41", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16181302, 
+      "question_id": "16173921"
+    }, 
+    {
+      "city": "Reno", 
+      "first_name": "Timothy", 
+      "last_name": "Koskinen", 
+      "user_id": 1672628, 
+      "district": "NV_02", 
+      "created": "2013-08-06T13:43:25", 
+      "state": "NV", 
+      "iface": "vote", 
+      "id": 16181301, 
+      "question_id": "16177681"
+    }, 
+    {
+      "city": "Reno", 
+      "first_name": "Timothy", 
+      "last_name": "Koskinen", 
+      "user_id": 1672628, 
+      "district": "NV_02", 
+      "created": "2013-08-06T13:42:44", 
+      "state": "NV", 
+      "iface": "vote", 
+      "id": 16181300, 
+      "question_id": "16178617"
+    }, 
+    {
+      "city": "Reno", 
+      "first_name": "Timothy", 
+      "last_name": "Koskinen", 
+      "user_id": 1672628, 
+      "district": "NV_02", 
+      "created": "2013-08-06T13:42:12", 
+      "state": "NV", 
+      "iface": "vote", 
+      "id": 16181298, 
+      "question_id": "16180989"
+    }, 
+    {
       "city": "Reno", 
       "first_name": "Timothy", 
       "last_name": "Koskinen", 
