@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Beaumont", 
+      "first_name": "Sherryl", 
+      "last_name": "Mencacci", 
+      "user_id": 1687928, 
+      "district": "CA_36", 
+      "created": "2013-08-06T06:51:42", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180449, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Oroville", 
+      "first_name": "Alvin", 
+      "last_name": "Nicholson", 
+      "user_id": 1074133, 
+      "district": "CA_01", 
+      "created": "2013-08-06T06:50:12", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180447, 
+      "question_id": "16172727"
+    }, 
+    {
       "city": "Oroville", 
       "first_name": "Alvin", 
       "last_name": "Nicholson", 
