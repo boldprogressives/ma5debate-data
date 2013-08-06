@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Seattle", 
+      "first_name": "david", 
+      "last_name": "porch", 
+      "user_id": 1756951, 
+      "district": "WA_09", 
+      "created": "2013-08-05T23:59:01", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16179194, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Seattle", 
+      "first_name": "david", 
+      "last_name": "porch", 
+      "user_id": 1756951, 
+      "district": "WA_09", 
+      "created": "2013-08-05T23:58:47", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16179193, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Seattle", 
+      "first_name": "david", 
+      "last_name": "porch", 
+      "user_id": 1756951, 
+      "district": "WA_09", 
+      "created": "2013-08-05T23:58:05", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16179188, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Seattle", 
+      "first_name": "david", 
+      "last_name": "porch", 
+      "user_id": 1756951, 
+      "district": "WA_09", 
+      "created": "2013-08-05T23:58:02", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16179187, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Waukesha", 
       "first_name": "Jean", 
       "last_name": "Hartje", 
