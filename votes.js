@@ -7,6 +7,18 @@ opendebate.processFetchedVotes({
       "last_name": "Koskinen", 
       "user_id": 1672628, 
       "district": "NV_02", 
+      "created": "2013-08-06T13:41:56", 
+      "state": "NV", 
+      "iface": "vote", 
+      "id": 16181297, 
+      "question_id": "16180456"
+    }, 
+    {
+      "city": "Reno", 
+      "first_name": "Timothy", 
+      "last_name": "Koskinen", 
+      "user_id": 1672628, 
+      "district": "NV_02", 
       "created": "2013-08-06T13:39:47", 
       "state": "NV", 
       "iface": "vote", 
