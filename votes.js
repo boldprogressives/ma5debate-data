@@ -2,6 +2,66 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Brighton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809194, 
+      "district": "MA_07", 
+      "created": "2013-08-06T12:56:03", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16181059, 
+      "question_id": "16172207"
+    }, 
+    {
+      "city": "palm desert", 
+      "first_name": "david", 
+      "last_name": "galie", 
+      "user_id": 1201784, 
+      "district": "CA_36", 
+      "created": "2013-08-06T12:55:36", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16181058, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Los Angeles", 
+      "first_name": "Michael", 
+      "last_name": "Metcalfe", 
+      "user_id": 224947, 
+      "district": "CA_37", 
+      "created": "2013-08-06T12:54:30", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16181057, 
+      "question_id": "16172913"
+    }, 
+    {
+      "city": "Los Angeles", 
+      "first_name": "Michael", 
+      "last_name": "Metcalfe", 
+      "user_id": 224947, 
+      "district": "CA_37", 
+      "created": "2013-08-06T12:54:23", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16181055, 
+      "question_id": "16172755"
+    }, 
+    {
+      "city": "Los Angeles", 
+      "first_name": "Michael", 
+      "last_name": "Metcalfe", 
+      "user_id": 224947, 
+      "district": "CA_37", 
+      "created": "2013-08-06T12:54:09", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16181054, 
+      "question_id": "16172281"
+    }, 
+    {
       "city": "Los Angeles", 
       "first_name": "Michael", 
       "last_name": "Metcalfe", 
