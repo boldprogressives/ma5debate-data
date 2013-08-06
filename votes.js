@@ -2,6 +2,66 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Lake in the Hills", 
+      "first_name": "rob", 
+      "last_name": "bodenbach", 
+      "user_id": 1806475, 
+      "district": "IL_06", 
+      "created": "2013-08-06T11:47:59", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16180923, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Lake in the Hills", 
+      "first_name": "rob", 
+      "last_name": "bodenbach", 
+      "user_id": 1806475, 
+      "district": "IL_06", 
+      "created": "2013-08-06T11:47:32", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16180922, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "San Diego", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809180, 
+      "district": "CA_53", 
+      "created": "2013-08-06T11:47:23", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180921, 
+      "question_id": "16172583"
+    }, 
+    {
+      "city": "San Diego", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809180, 
+      "district": "CA_53", 
+      "created": "2013-08-06T11:47:14", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180920, 
+      "question_id": "16172661"
+    }, 
+    {
+      "city": "Lake in the Hills", 
+      "first_name": "rob", 
+      "last_name": "bodenbach", 
+      "user_id": 1806475, 
+      "district": "IL_06", 
+      "created": "2013-08-06T11:46:55", 
+      "state": "IL", 
+      "iface": "vote", 
+      "id": 16180919, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "San Diego", 
       "first_name": "", 
       "last_name": "", 
