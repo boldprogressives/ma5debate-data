@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Springdale", 
+      "first_name": "Bruce", 
+      "last_name": "Perry", 
+      "user_id": 1659881, 
+      "submission": "Why do Republicans and conservations support unethical, unprincipled, and illegal business practices in the banking industry?", 
+      "district": "AR_03", 
+      "created": "2013-08-06T00:22:25", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "AR", 
+      "iface": "question", 
+      "y": 36.180799999999998, 
+      "x": -94.167699999999996, 
+      "id": 16179248
+    }, 
+    {
       "city": "Tucson", 
       "first_name": "glenn", 
       "last_name": "martin", 
