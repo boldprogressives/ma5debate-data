@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Watertown", 
+      "first_name": "Bill", 
+      "last_name": "Mahoney", 
+      "user_id": 458708, 
+      "submission": "Municipalities throughout the country seem to face the most challenging of governmental budgetary situations.   What role, if any, do you foresee the federal govt (and state govts)  playing in addressing those challenges? ", 
+      "district": "MA_05", 
+      "created": "2013-08-06T13:49:23", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.371299999999998, 
+      "x": -71.180400000000006, 
+      "id": 16181311
+    }, 
+    {
       "city": "Medford", 
       "first_name": "Ari", 
       "last_name": "Fertig", 
