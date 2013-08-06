@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Oroville", 
+      "first_name": "Alvin", 
+      "last_name": "Nicholson", 
+      "user_id": 1074133, 
+      "district": "CA_01", 
+      "created": "2013-08-06T06:49:48", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180446, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "San Diego", 
       "first_name": "Frank", 
       "last_name": "Golbeck", 

@@ -5960,7 +5960,7 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
       "state_votes": 3, 
-      "votes": 222, 
+      "votes": 223, 
       "district_votes": 1, 
       "state": "MT", 
       "iface": "question", 
