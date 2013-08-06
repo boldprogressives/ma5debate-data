@@ -5552,7 +5552,7 @@ opendebate.processFetchedQuestions({
       "district": "NE_02", 
       "created": "2013-08-04T00:24:46", 
       "state_votes": 0, 
-      "votes": 2, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "NE", 
       "iface": "question", 
