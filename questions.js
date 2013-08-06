@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Somerville", 
+      "first_name": "Tyler", 
+      "last_name": "Creighton", 
+      "user_id": 1764957, 
+      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
+      "district": "MA_07", 
+      "created": "2013-08-06T12:32:01", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.381799999999998, 
+      "x": -71.103200000000001, 
+      "id": 16180998
+    }, 
+    {
       "city": "Irvine", 
       "first_name": "Thomas", 
       "last_name": "Hallal", 
@@ -6096,7 +6113,7 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
       "state_votes": 4, 
-      "votes": 239, 
+      "votes": 240, 
       "district_votes": 1, 
       "state": "MT", 
       "iface": "question", 
