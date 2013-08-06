@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Knoxville", 
+      "first_name": "Ian", 
+      "last_name": "Watt", 
+      "user_id": 537154, 
+      "district": "TN_02", 
+      "created": "2013-08-06T03:36:02", 
+      "state": "TN", 
+      "iface": "vote", 
+      "id": 16179456, 
+      "question_id": "16172303"
+    }, 
+    {
       "city": "Florence", 
       "first_name": "Dana", 
       "last_name": "Lawson", 
