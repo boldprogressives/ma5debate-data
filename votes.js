@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Poynette", 
+      "first_name": "richard", 
+      "last_name": "williamson", 
+      "user_id": 530428, 
+      "district": "WI_06", 
+      "created": "2013-08-06T00:07:53", 
+      "state": "WI", 
+      "iface": "vote", 
+      "id": 16179202, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Seattle", 
       "first_name": "david", 
       "last_name": "porch", 
