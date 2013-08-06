@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Helena", 
+      "first_name": "Bob", 
+      "last_name": "Balhiser", 
+      "user_id": 674040, 
+      "district": "MT_01", 
+      "created": "2013-08-06T13:05:55", 
+      "state": "MT", 
+      "iface": "vote", 
+      "id": 16181096, 
+      "question_id": "16173193"
+    }, 
+    {
+      "city": "Helena", 
+      "first_name": "Bob", 
+      "last_name": "Balhiser", 
+      "user_id": 674040, 
+      "district": "MT_01", 
+      "created": "2013-08-06T13:05:28", 
+      "state": "MT", 
+      "iface": "vote", 
+      "id": 16181094, 
+      "question_id": "16173625"
+    }, 
+    {
+      "city": "Helena", 
+      "first_name": "Bob", 
+      "last_name": "Balhiser", 
+      "user_id": 674040, 
+      "district": "MT_01", 
+      "created": "2013-08-06T13:04:14", 
+      "state": "MT", 
+      "iface": "vote", 
+      "id": 16181093, 
+      "question_id": "16172661"
+    }, 
+    {
       "city": "Jamison", 
       "first_name": "Orin", 
       "last_name": "Hollander", 
