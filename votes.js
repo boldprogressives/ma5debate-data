@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Rancho Santa Margarita", 
+      "first_name": "Alanna", 
+      "last_name": "Barrett", 
+      "user_id": 1703427, 
+      "district": "CA_45", 
+      "created": "2013-08-06T07:29:37", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180531, 
+      "question_id": "16172281"
+    }, 
+    {
+      "city": "Rancho Santa Margarita", 
+      "first_name": "Alanna", 
+      "last_name": "Barrett", 
+      "user_id": 1703427, 
+      "district": "CA_45", 
+      "created": "2013-08-06T07:29:26", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180530, 
+      "question_id": "16173264"
+    }, 
+    {
       "city": "Montclair", 
       "first_name": "Ivan", 
       "last_name": "V", 
