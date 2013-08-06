@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Springdale", 
+      "first_name": "Bruce", 
+      "last_name": "Perry", 
+      "user_id": 1659881, 
+      "submission": "Why is there such a monumental disparity between management and labor paychecks and benefits and do you consider it fair?", 
+      "district": "AR_03", 
+      "created": "2013-08-06T00:19:37", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "AR", 
+      "iface": "question", 
+      "y": 36.180799999999998, 
+      "x": -94.167699999999996, 
+      "id": 16179242
+    }, 
+    {
       "city": "Salt Lake City", 
       "first_name": "K Laurence", 
       "last_name": "Barlow", 
