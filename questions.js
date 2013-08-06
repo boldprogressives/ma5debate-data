@@ -6113,7 +6113,7 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:20:39", 
       "state_votes": 0, 
-      "votes": 179, 
+      "votes": 180, 
       "district_votes": 0, 
       "state": "IL", 
       "iface": "question", 
