@@ -2,6 +2,66 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Redondo Beach", 
+      "first_name": "Gerard", 
+      "last_name": "Gendron", 
+      "user_id": 1183700, 
+      "district": "CA_33", 
+      "created": "2013-08-06T06:23:39", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180367, 
+      "question_id": "16172913"
+    }, 
+    {
+      "city": "Redondo Beach", 
+      "first_name": "Gerard", 
+      "last_name": "Gendron", 
+      "user_id": 1183700, 
+      "district": "CA_33", 
+      "created": "2013-08-06T06:23:16", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180364, 
+      "question_id": "16172755"
+    }, 
+    {
+      "city": "Wildomar", 
+      "first_name": "Kerri", 
+      "last_name": "Condley", 
+      "user_id": 1771544, 
+      "district": "CA_42", 
+      "created": "2013-08-06T06:23:16", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180365, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Redondo Beach", 
+      "first_name": "Gerard", 
+      "last_name": "Gendron", 
+      "user_id": 1183700, 
+      "district": "CA_33", 
+      "created": "2013-08-06T06:23:04", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180363, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Redondo Beach", 
+      "first_name": "Gerard", 
+      "last_name": "Gendron", 
+      "user_id": 1183700, 
+      "district": "CA_33", 
+      "created": "2013-08-06T06:22:48", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180362, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "San Juan Capistrano", 
       "first_name": "jim", 
       "last_name": "maag", 
