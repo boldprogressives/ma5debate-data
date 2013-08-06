@@ -2,6 +2,42 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Tucson", 
+      "first_name": "glenn", 
+      "last_name": "martin", 
+      "user_id": 1773873, 
+      "district": "AZ_02", 
+      "created": "2013-08-06T00:31:41", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16179263, 
+      "question_id": "16172722"
+    }, 
+    {
+      "city": "Tucson", 
+      "first_name": "glenn", 
+      "last_name": "martin", 
+      "user_id": 1773873, 
+      "district": "AZ_02", 
+      "created": "2013-08-06T00:31:28", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16179262, 
+      "question_id": "16176001"
+    }, 
+    {
+      "city": "Tucson", 
+      "first_name": "glenn", 
+      "last_name": "martin", 
+      "user_id": 1773873, 
+      "district": "AZ_02", 
+      "created": "2013-08-06T00:30:50", 
+      "state": "AZ", 
+      "iface": "vote", 
+      "id": 16179259, 
+      "question_id": "16172690"
+    }, 
+    {
       "city": "Great Neck", 
       "first_name": "Ethan", 
       "last_name": "Jucovy", 
