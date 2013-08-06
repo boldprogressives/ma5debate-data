@@ -7,6 +7,18 @@ opendebate.processFetchedVotes({
       "last_name": "maag", 
       "user_id": 335346, 
       "district": "CA_49", 
+      "created": "2013-08-06T06:20:15", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180358, 
+      "question_id": "16172274"
+    }, 
+    {
+      "city": "San Juan Capistrano", 
+      "first_name": "jim", 
+      "last_name": "maag", 
+      "user_id": 335346, 
+      "district": "CA_49", 
       "created": "2013-08-06T06:19:20", 
       "state": "CA", 
       "iface": "vote", 
