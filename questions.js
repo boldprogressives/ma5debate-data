@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Knoxville", 
+      "first_name": "Ian", 
+      "last_name": "Watt", 
+      "user_id": 537154, 
+      "submission": "What would you do to help middle class jobs to pay better wages as they have not been doing so since the recession ended?", 
+      "district": "TN_02", 
+      "created": "2013-08-06T03:39:30", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "TN", 
+      "iface": "question", 
+      "y": 35.923900000000003, 
+      "x": -83.877200000000002, 
+      "id": 16179460
+    }, 
+    {
       "city": "Madison", 
       "first_name": "Linda", 
       "last_name": "Leonhart", 
