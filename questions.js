@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Salt Lake City", 
+      "first_name": "K Laurence", 
+      "last_name": "Barlow", 
+      "user_id": 443670, 
+      "submission": "Will each of you respond to this question?    Will you commit to support and vote for our valiantly fought for progressive principles so long as you are a servant of the people?", 
+      "district": "UT_02", 
+      "created": "2013-08-06T00:17:53", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "UT", 
+      "iface": "question", 
+      "y": 40.758800000000001, 
+      "x": -111.86499999999999, 
+      "id": 16179236
+    }, 
+    {
       "city": "Waukesha", 
       "first_name": "Jean", 
       "last_name": "Hartje", 
