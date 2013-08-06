@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Brighton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809170, 
+      "district": "MA_07", 
+      "created": "2013-08-06T10:25:56", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16180820, 
+      "question_id": "16172303"
+    }, 
+    {
+      "city": "Brighton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809170, 
+      "district": "MA_07", 
+      "created": "2013-08-06T10:25:24", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16180819, 
+      "question_id": "16172281"
+    }, 
+    {
+      "city": "Brighton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809170, 
+      "district": "MA_07", 
+      "created": "2013-08-06T10:24:57", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16180818, 
+      "question_id": "16172207"
+    }, 
+    {
+      "city": "Brighton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809170, 
+      "district": "MA_07", 
+      "created": "2013-08-06T10:24:14", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16180816, 
+      "question_id": "16172533"
+    }, 
+    {
       "city": "Yuba City", 
       "first_name": "Herbert", 
       "last_name": "McCormick", 
