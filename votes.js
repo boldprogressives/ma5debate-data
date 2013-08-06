@@ -7,6 +7,18 @@ opendebate.processFetchedVotes({
       "last_name": "tseghia", 
       "user_id": 552632, 
       "district": "CA_47", 
+      "created": "2013-08-06T11:56:14", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180957, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Stanton", 
+      "first_name": "simon", 
+      "last_name": "tseghia", 
+      "user_id": 552632, 
+      "district": "CA_47", 
       "created": "2013-08-06T11:55:07", 
       "state": "CA", 
       "iface": "vote", 
