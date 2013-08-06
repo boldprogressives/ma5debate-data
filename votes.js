@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Little Rock", 
+      "first_name": "Michael", 
+      "last_name": "Stewart-Abernathy", 
+      "user_id": 1667242, 
+      "district": "AR_02", 
+      "created": "2013-08-06T02:09:54", 
+      "state": "AR", 
+      "iface": "vote", 
+      "id": 16179351, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Knoxville", 
+      "first_name": "Elizabeth", 
+      "last_name": "Osborne", 
+      "user_id": 1780376, 
+      "district": "TN_02", 
+      "created": "2013-08-06T02:09:37", 
+      "state": "TN", 
+      "iface": "vote", 
+      "id": 16179348, 
+      "question_id": "16172303"
+    }, 
+    {
+      "city": "Knoxville", 
+      "first_name": "Elizabeth", 
+      "last_name": "Osborne", 
+      "user_id": 1780376, 
+      "district": "TN_02", 
+      "created": "2013-08-06T02:09:09", 
+      "state": "TN", 
+      "iface": "vote", 
+      "id": 16179345, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Knoxville", 
+      "first_name": "Elizabeth", 
+      "last_name": "Osborne", 
+      "user_id": 1780376, 
+      "district": "TN_02", 
+      "created": "2013-08-06T02:08:24", 
+      "state": "TN", 
+      "iface": "vote", 
+      "id": 16179341, 
+      "question_id": "16173264"
+    }, 
+    {
       "city": "Richardson", 
       "first_name": "Adam", 
       "last_name": "Combiths", 
