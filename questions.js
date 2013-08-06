@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "La Mesa", 
+      "first_name": "Andrea Beth", 
+      "last_name": "Damsky", 
+      "user_id": 983396, 
+      "submission": "What would you do to shore up the constitutionally-mandated separation of church and state?", 
+      "district": "CA_53", 
+      "created": "2013-08-06T08:01:45", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "CA", 
+      "iface": "question", 
+      "y": 32.784300000000002, 
+      "x": -117.018, 
+      "id": 16180573
+    }, 
+    {
       "city": "Terrebonne", 
       "first_name": "Bob", 
       "last_name": "Herlocker", 
@@ -4362,7 +4379,7 @@ opendebate.processFetchedQuestions({
       "district": "CO_02", 
       "created": "2013-08-04T14:21:20", 
       "state_votes": 0, 
-      "votes": 72, 
+      "votes": 73, 
       "district_votes": 0, 
       "state": "CO", 
       "iface": "question", 

@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "La Mesa", 
+      "first_name": "Andrea Beth", 
+      "last_name": "Damsky", 
+      "user_id": 983396, 
+      "district": "CA_53", 
+      "created": "2013-08-06T08:00:26", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180571, 
+      "question_id": "16173921"
+    }, 
+    {
       "city": "Modesto", 
       "first_name": "Geri", 
       "last_name": "Marshall", 
