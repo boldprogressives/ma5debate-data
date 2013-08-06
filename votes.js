@@ -2,6 +2,66 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Acton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809212, 
+      "district": "MA_03", 
+      "created": "2013-08-06T13:57:56", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16181350, 
+      "question_id": "16173259"
+    }, 
+    {
+      "city": "Acton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809212, 
+      "district": "MA_03", 
+      "created": "2013-08-06T13:57:50", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16181349, 
+      "question_id": "16172303"
+    }, 
+    {
+      "city": "Acton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809212, 
+      "district": "MA_03", 
+      "created": "2013-08-06T13:56:48", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16181344, 
+      "question_id": "16172913"
+    }, 
+    {
+      "city": "Lincoln", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809213, 
+      "district": "MA_05", 
+      "created": "2013-08-06T13:56:44", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16181342, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Acton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809212, 
+      "district": "MA_03", 
+      "created": "2013-08-06T13:56:22", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16181340, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Watertown", 
       "first_name": "Bill", 
       "last_name": "Mahoney", 
