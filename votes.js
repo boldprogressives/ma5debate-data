@@ -2,6 +2,66 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Westwood", 
+      "first_name": "Dave", 
+      "last_name": "Bruker", 
+      "user_id": 185613, 
+      "district": "CA_01", 
+      "created": "2013-08-06T09:44:58", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180795, 
+      "question_id": "16172823"
+    }, 
+    {
+      "city": "Westwood", 
+      "first_name": "Dave", 
+      "last_name": "Bruker", 
+      "user_id": 185613, 
+      "district": "CA_01", 
+      "created": "2013-08-06T09:44:42", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180794, 
+      "question_id": "16172731"
+    }, 
+    {
+      "city": "Westwood", 
+      "first_name": "Dave", 
+      "last_name": "Bruker", 
+      "user_id": 185613, 
+      "district": "CA_01", 
+      "created": "2013-08-06T09:44:33", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180793, 
+      "question_id": "16172755"
+    }, 
+    {
+      "city": "Westwood", 
+      "first_name": "Dave", 
+      "last_name": "Bruker", 
+      "user_id": 185613, 
+      "district": "CA_01", 
+      "created": "2013-08-06T09:44:23", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180792, 
+      "question_id": "16172281"
+    }, 
+    {
+      "city": "Westwood", 
+      "first_name": "Dave", 
+      "last_name": "Bruker", 
+      "user_id": 185613, 
+      "district": "CA_01", 
+      "created": "2013-08-06T09:44:06", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180790, 
+      "question_id": "16172727"
+    }, 
+    {
       "city": "Los Angeles", 
       "first_name": "Hadassa", 
       "last_name": "Gilbert", 
