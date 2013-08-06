@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Palm Springs", 
+      "first_name": "Richard", 
+      "last_name": "Ellis", 
+      "user_id": 217638, 
+      "district": "CA_36", 
+      "created": "2013-08-06T13:44:25", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16181304, 
+      "question_id": "16172281"
+    }, 
+    {
+      "city": "Auburn", 
+      "first_name": "Wendy", 
+      "last_name": "Swanson", 
+      "user_id": 295455, 
+      "district": "WA_08", 
+      "created": "2013-08-06T13:44:03", 
+      "state": "WA", 
+      "iface": "vote", 
+      "id": 16181303, 
+      "question_id": "16172207"
+    }, 
+    {
       "city": "Auburn", 
       "first_name": "Wendy", 
       "last_name": "Swanson", 
