@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Laguna Woods", 
+      "first_name": "Herbert", 
+      "last_name": "McCann", 
+      "user_id": 169804, 
+      "district": "CA_48", 
+      "created": "2013-08-06T09:25:56", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180762, 
+      "question_id": "16173259"
+    }, 
+    {
       "city": "Rancho Palos Verdes", 
       "first_name": "Alfredo", 
       "last_name": "Hernandez'", 
