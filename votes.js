@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Cerritos", 
+      "first_name": "Ralph", 
+      "last_name": "Westfall", 
+      "user_id": 1759451, 
+      "district": "CA_38", 
+      "created": "2013-08-06T06:43:50", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180439, 
+      "question_id": "16174143"
+    }, 
+    {
       "city": "Topanga", 
       "first_name": "Rev. Joe", 
       "last_name": "Futterer", 
