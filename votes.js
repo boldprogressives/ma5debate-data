@@ -2,6 +2,54 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "San Diego", 
+      "first_name": "Nancy", 
+      "last_name": "Kelly", 
+      "user_id": 1602495, 
+      "district": "CA_52", 
+      "created": "2013-08-06T06:56:03", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180458, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "San Diego", 
+      "first_name": "Nancy", 
+      "last_name": "Kelly", 
+      "user_id": 1602495, 
+      "district": "CA_52", 
+      "created": "2013-08-06T06:55:56", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180457, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Beaumont", 
+      "first_name": "Sherryl", 
+      "last_name": "Mencacci", 
+      "user_id": 1687928, 
+      "district": "CA_36", 
+      "created": "2013-08-06T06:54:47", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180455, 
+      "question_id": "16172583"
+    }, 
+    {
+      "city": "Beaumont", 
+      "first_name": "Sherryl", 
+      "last_name": "Mencacci", 
+      "user_id": 1687928, 
+      "district": "CA_36", 
+      "created": "2013-08-06T06:54:19", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180453, 
+      "question_id": "16173320"
+    }, 
+    {
       "city": "Beaumont", 
       "first_name": "Sherryl", 
       "last_name": "Mencacci", 
