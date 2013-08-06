@@ -2,6 +2,66 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Bend", 
+      "first_name": "Rudy", 
+      "last_name": "Skonord", 
+      "user_id": 1695702, 
+      "district": "OR_02", 
+      "created": "2013-08-06T05:07:58", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16179712, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Bend", 
+      "first_name": "Rudy", 
+      "last_name": "Skonord", 
+      "user_id": 1695702, 
+      "district": "OR_02", 
+      "created": "2013-08-06T05:07:00", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16179708, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Milwaukie", 
+      "first_name": "Christine", 
+      "last_name": "Garren", 
+      "user_id": 522412, 
+      "district": "OR_05", 
+      "created": "2013-08-06T05:06:23", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16179704, 
+      "question_id": "16173320"
+    }, 
+    {
+      "city": "Milwaukie", 
+      "first_name": "Christine", 
+      "last_name": "Garren", 
+      "user_id": 522412, 
+      "district": "OR_05", 
+      "created": "2013-08-06T05:06:12", 
+      "state": "OR", 
+      "iface": "vote", 
+      "id": 16179700, 
+      "question_id": "16172657"
+    }, 
+    {
+      "city": "Culver City", 
+      "first_name": "Linda", 
+      "last_name": "Bartlett", 
+      "user_id": 1229551, 
+      "district": "CA_37", 
+      "created": "2013-08-06T05:06:11", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16179699, 
+      "question_id": "16174044"
+    }, 
+    {
       "city": "Milwaukie", 
       "first_name": "Christine", 
       "last_name": "Garren", 
