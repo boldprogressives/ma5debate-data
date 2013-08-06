@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Somerville", 
+      "first_name": "Tyler", 
+      "last_name": "Creighton", 
+      "user_id": 1764957, 
+      "district": "MA_07", 
+      "created": "2013-08-06T12:34:28", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16181000, 
+      "question_id": "16180998"
+    }, 
+    {
       "city": "Irvine", 
       "first_name": "Thomas", 
       "last_name": "Hallal", 
