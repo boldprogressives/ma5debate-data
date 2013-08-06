@@ -2,6 +2,18 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "San Diego", 
+      "first_name": "Frank", 
+      "last_name": "Golbeck", 
+      "user_id": 1204305, 
+      "district": "CA_52", 
+      "created": "2013-08-06T06:46:37", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180440, 
+      "question_id": "16172727"
+    }, 
+    {
       "city": "Cerritos", 
       "first_name": "Ralph", 
       "last_name": "Westfall", 
