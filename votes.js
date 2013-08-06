@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "San Diego", 
+      "first_name": "Christopher", 
+      "last_name": "Murdock", 
+      "user_id": 1424112, 
+      "district": "CA_52", 
+      "created": "2013-08-06T09:32:40", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180774, 
+      "question_id": "16172690"
+    }, 
+    {
+      "city": "Laguna Woods", 
+      "first_name": "Herbert", 
+      "last_name": "McCann", 
+      "user_id": 169804, 
+      "district": "CA_48", 
+      "created": "2013-08-06T09:32:11", 
+      "state": "CA", 
+      "iface": "vote", 
+      "id": 16180772, 
+      "question_id": "16172901"
+    }, 
+    {
       "city": "Laguna Woods", 
       "first_name": "Herbert", 
       "last_name": "McCann", 
