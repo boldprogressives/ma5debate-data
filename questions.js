@@ -2,6 +2,23 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Los Angeles", 
+      "first_name": "Hadassa", 
+      "last_name": "Gilbert", 
+      "user_id": 1201039, 
+      "submission": "As a hopeless optimist, I would like to know if you believe there is any way to have meaningful discussions between liberals and conservatives.  If so, what would you do to promote such discussions?", 
+      "district": "CA_33", 
+      "created": "2013-08-06T09:53:00", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "CA", 
+      "iface": "question", 
+      "y": 34.101500000000001, 
+      "x": -118.452, 
+      "id": 16180798
+    }, 
+    {
       "city": "La Mesa", 
       "first_name": "Andrea Beth", 
       "last_name": "Damsky", 
