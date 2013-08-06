@@ -2,6 +2,30 @@ opendebate.processFetchedVotes({
   "iface": "list", 
   "entries": [
     {
+      "city": "Arlington", 
+      "first_name": "Jason Cofield", 
+      "last_name": "Arlington, MA", 
+      "user_id": 1809201, 
+      "district": "MA_05", 
+      "created": "2013-08-06T13:33:34", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16181265, 
+      "question_id": "16172296"
+    }, 
+    {
+      "city": "Reno", 
+      "first_name": "Timothy", 
+      "last_name": "Koskinen", 
+      "user_id": 1672628, 
+      "district": "NV_02", 
+      "created": "2013-08-06T13:32:36", 
+      "state": "NV", 
+      "iface": "vote", 
+      "id": 16181264, 
+      "question_id": "16173412"
+    }, 
+    {
       "city": "Vashon", 
       "first_name": "Larry", 
       "last_name": "Porter", 
