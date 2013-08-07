@@ -17488,13 +17488,13 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
       "state_votes": 76, 
-      "votes": 935, 
+      "votes": 936, 
       "district_votes": 19, 
       "state": "MT", 
       "iface": "question", 
       "y": 46.645299999999999, 
       "x": -111.974, 
-      "latest_vote": "2013-08-07T14:46:11", 
+      "latest_vote": "2013-08-07T14:51:09", 
       "id": 16172777
     }, 
     {
@@ -18279,14 +18279,14 @@ opendebate.processFetchedQuestions({
       "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
       "district": "MA_05", 
       "created": "2013-08-03T17:00:17", 
-      "state_votes": 40, 
-      "votes": 371, 
+      "state_votes": 41, 
+      "votes": 372, 
       "district_votes": 12, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.366, 
       "x": -71.103499999999997, 
-      "latest_vote": "2013-08-07T14:43:03", 
+      "latest_vote": "2013-08-07T14:51:47", 
       "id": 16172207
     }, 
     {
