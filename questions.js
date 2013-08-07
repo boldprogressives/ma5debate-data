@@ -15940,13 +15940,13 @@ opendebate.processFetchedQuestions({
       "district": "TN_02", 
       "created": "2013-08-04T02:07:32", 
       "state_votes": 33, 
-      "votes": 489, 
+      "votes": 490, 
       "district_votes": 8, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.831099999999999, 
       "x": -84.048199999999994, 
-      "latest_vote": "2013-08-07T09:34:54", 
+      "latest_vote": "2013-08-07T10:48:13", 
       "id": 16173335
     }, 
     {
@@ -17667,14 +17667,14 @@ opendebate.processFetchedQuestions({
       "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
       "district": "MA_05", 
       "created": "2013-08-03T20:51:46", 
-      "state_votes": 12, 
-      "votes": 209, 
+      "state_votes": 13, 
+      "votes": 210, 
       "district_votes": 3, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.369900000000001, 
       "x": -71.236800000000002, 
-      "latest_vote": "2013-08-07T10:45:21", 
+      "latest_vote": "2013-08-07T10:49:34", 
       "id": 16172542
     }, 
     {
