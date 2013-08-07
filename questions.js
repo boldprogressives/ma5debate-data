@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Holliston", 
+      "first_name": "Ted", 
+      "last_name": "Dooley", 
+      "user_id": 1809581, 
+      "submission": "How would you have voted on the Amash Amendment had you been in the House of Representatives?", 
+      "district": "MA_05", 
+      "created": "2013-08-07T15:33:27", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.198799999999999, 
+      "x": -71.435100000000006, 
+      "latest_vote": null, 
+      "id": 16217298
+    }, 
+    {
       "city": "Boxborough", 
       "first_name": "Michael", 
       "last_name": "Duhigg", 
@@ -11187,14 +11205,14 @@ opendebate.processFetchedQuestions({
       "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
       "district": "MA_07", 
       "created": "2013-08-06T12:32:01", 
-      "state_votes": 6, 
-      "votes": 57, 
-      "district_votes": 3, 
+      "state_votes": 7, 
+      "votes": 58, 
+      "district_votes": 4, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.381799999999998, 
       "x": -71.103200000000001, 
-      "latest_vote": "2013-08-07T15:29:51", 
+      "latest_vote": "2013-08-07T15:33:52", 
       "id": 16180998
     }, 
     {
