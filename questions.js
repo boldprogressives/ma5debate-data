@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "cambridge", 
+      "first_name": "marilyn", 
+      "last_name": "garlington", 
+      "user_id": 1171382, 
+      "submission": "will you oppose cutbacks in funding to public housing, affordable housing and any type  of housing that helps low income individuals and families?", 
+      "district": "MA_07", 
+      "created": "2013-08-07T11:16:51", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.368299999999998, 
+      "x": -71.082400000000007, 
+      "latest_vote": null, 
+      "id": 16215499
+    }, 
+    {
       "city": "Gardner", 
       "first_name": "Wilda", 
       "last_name": "Webster", 
