@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Winchester", 
+      "first_name": "Gil", 
+      "last_name": "Graham", 
+      "user_id": 1807134, 
+      "submission": "What will you do to influence this stagnant economy?", 
+      "district": "MA_05", 
+      "created": "2013-08-07T15:48:38", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.4529, 
+      "x": -71.146000000000001, 
+      "latest_vote": null, 
+      "id": 16217462
+    }, 
+    {
       "city": "MECHANICVILLE", 
       "first_name": "Dianne", 
       "last_name": "Noblett lett", 
@@ -16065,14 +16083,14 @@ opendebate.processFetchedQuestions({
       "submission": "Do you support the concept of keeping church and state separate?", 
       "district": "CO_02", 
       "created": "2013-08-04T14:21:20", 
-      "state_votes": 31, 
-      "votes": 456, 
-      "district_votes": 6, 
+      "state_votes": 32, 
+      "votes": 457, 
+      "district_votes": 7, 
       "state": "CO", 
       "iface": "question", 
       "y": 40.534199999999998, 
       "x": -105.04300000000001, 
-      "latest_vote": "2013-08-07T15:36:16", 
+      "latest_vote": "2013-08-07T15:49:31", 
       "id": 16173921
     }, 
     {
