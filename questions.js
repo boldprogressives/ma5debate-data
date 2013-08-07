@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Angola", 
+      "first_name": "john", 
+      "last_name": "kokovay", 
+      "user_id": 1551350, 
+      "submission": "do you believe that gerrymandering is hurting our democracy and if so how would you fix it?", 
+      "district": "IN_03", 
+      "created": "2013-08-07T23:21:21", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "IN", 
+      "iface": "question", 
+      "y": 41.667200000000001, 
+      "x": -84.989599999999996, 
+      "latest_vote": null, 
+      "id": 16223771
+    }, 
+    {
       "city": "North Dartmouth", 
       "first_name": "Jon", 
       "last_name": "Leaver", 
