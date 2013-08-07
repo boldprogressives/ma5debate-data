@@ -3591,14 +3591,14 @@ opendebate.processFetchedQuestions({
       "submission": "Would you support a living wage law that would force corporations, like Wal-Mart, whose Walton family owns more wealth than 40% of all Americans, to pay  living wages to all of their workers?", 
       "district": "CA_46", 
       "created": "2013-08-07T00:12:33", 
-      "state_votes": 10, 
-      "votes": 56, 
+      "state_votes": 11, 
+      "votes": 57, 
       "district_votes": 5, 
       "state": "CA", 
       "iface": "question", 
       "y": 33.842799999999997, 
       "x": -117.955, 
-      "latest_vote": "2013-08-07T18:36:28", 
+      "latest_vote": "2013-08-07T19:40:34", 
       "id": 16210264
     }, 
     {
