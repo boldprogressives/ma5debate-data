@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Gibsonton", 
+      "first_name": "Debra", 
+      "last_name": "Tate", 
+      "user_id": 1758632, 
+      "submission": "Why are we not considering the attack at Fort Hood a terrorist attack as the shooter has openly declared that he is a jihadist? This is a slap in the face for our military  who have been murdered by the jihad hands.", 
+      "district": "FL_14", 
+      "created": "2013-08-07T04:19:27", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "FL", 
+      "iface": "question", 
+      "y": 27.829599999999999, 
+      "x": -82.368600000000001, 
+      "latest_vote": null, 
+      "id": 16213410
+    }, 
+    {
       "city": "Ballwin", 
       "first_name": "Mary", 
       "last_name": "Orlich", 
