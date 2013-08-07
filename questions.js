@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Marlborough", 
+      "first_name": "Dave", 
+      "last_name": "Doucette", 
+      "user_id": 1809606, 
+      "submission": "Because of sequestration, science research budgets are being slashed to the bone. MITs Alcator C-Mod, the largest fusion research system in the nation may shut down.  See:  http://b.globe.com/16uGcGD Do you support  funding for research to phase out carbon fuels, such as the American Security Projects 10 year fusion project:  http://bit.ly/18aBlM3", 
+      "district": "MA_03", 
+      "created": "2013-08-07T16:48:09", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.349699999999999, 
+      "x": -71.546899999999994, 
+      "latest_vote": null, 
+      "id": 16217978
+    }, 
+    {
       "city": "Lafayette", 
       "first_name": "Fred", 
       "last_name": "Fawcett", 
@@ -4708,13 +4726,13 @@ opendebate.processFetchedQuestions({
       "district": "NJ_08", 
       "created": "2013-08-06T20:14:44", 
       "state_votes": 7, 
-      "votes": 85, 
+      "votes": 86, 
       "district_votes": 2, 
       "state": "NJ", 
       "iface": "question", 
       "y": 40.759500000000003, 
       "x": -74.190700000000007, 
-      "latest_vote": "2013-08-07T15:59:30", 
+      "latest_vote": "2013-08-07T16:49:36", 
       "id": 16203866
     }, 
     {
@@ -16912,13 +16930,13 @@ opendebate.processFetchedQuestions({
       "district": "TN_02", 
       "created": "2013-08-04T02:04:57", 
       "state_votes": 5, 
-      "votes": 82, 
+      "votes": 83, 
       "district_votes": 2, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.831099999999999, 
       "x": -84.048199999999994, 
-      "latest_vote": "2013-08-07T15:59:34", 
+      "latest_vote": "2013-08-07T16:49:23", 
       "id": 16173327
     }, 
     {
@@ -18730,13 +18748,13 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:42:20", 
       "state_votes": 55, 
-      "votes": 637, 
+      "votes": 638, 
       "district_votes": 12, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.369900000000001, 
       "x": -71.236800000000002, 
-      "latest_vote": "2013-08-07T16:31:53", 
+      "latest_vote": "2013-08-07T16:49:54", 
       "id": 16172281
     }, 
     {
