@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Alameda", 
+      "first_name": "Jeanie", 
+      "last_name": "Egbert", 
+      "user_id": 1809520, 
+      "submission": "Will you vote for a Tax Equality law, so that all income is taxed at the same rate as wage/salary income; and so that all income is subject to the Social Security tax?", 
+      "district": "CA_13", 
+      "created": "2013-08-07T05:47:50", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "CA", 
+      "iface": "question", 
+      "y": 37.739400000000003, 
+      "x": -122.242, 
+      "latest_vote": null, 
+      "id": 16213795
+    }, 
+    {
       "city": "Abiquiu", 
       "first_name": "Bill", 
       "last_name": "Lawrence", 
