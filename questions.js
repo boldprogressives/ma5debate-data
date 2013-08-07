@@ -11889,14 +11889,14 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do to stop coal mining by mountain top removal?", 
       "district": "MN_03", 
       "created": "2013-08-05T18:25:53", 
-      "state_votes": 0, 
-      "votes": 20, 
+      "state_votes": 1, 
+      "votes": 21, 
       "district_votes": 0, 
       "state": "MN", 
       "iface": "question", 
       "y": 44.875500000000002, 
       "x": -93.374399999999994, 
-      "latest_vote": "2013-08-07T08:15:19", 
+      "latest_vote": "2013-08-07T10:20:23", 
       "id": 16178298
     }, 
     {
