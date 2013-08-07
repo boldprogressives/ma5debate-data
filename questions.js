@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Madisonville", 
+      "first_name": "D.Kent", 
+      "last_name": "Ratliff", 
+      "user_id": 1757290, 
+      "submission": "Will you work to support ESRD full funding for dialysis patients treatment  and not Euthanize patients with substandard care due to 10%cuts pushed by  formar vp Candidate Paul Ryan", 
+      "district": "KY_01", 
+      "created": "2013-08-07T06:19:15", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "KY", 
+      "iface": "question", 
+      "y": 37.337000000000003, 
+      "x": -87.497299999999996, 
+      "latest_vote": null, 
+      "id": 16213937
+    }, 
+    {
       "city": "Alameda", 
       "first_name": "Jeanie", 
       "last_name": "Egbert", 
@@ -10,13 +28,13 @@ opendebate.processFetchedQuestions({
       "district": "CA_13", 
       "created": "2013-08-07T05:47:50", 
       "state_votes": 0, 
-      "votes": 2, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.739400000000003, 
       "x": -122.242, 
-      "latest_vote": "2013-08-07T05:56:04", 
+      "latest_vote": "2013-08-07T06:19:36", 
       "id": 16213795
     }, 
     {
