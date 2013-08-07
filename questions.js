@@ -16191,14 +16191,14 @@ opendebate.processFetchedQuestions({
       "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
       "district": "TX_03", 
       "created": "2013-08-04T01:22:04", 
-      "state_votes": 35, 
-      "votes": 503, 
+      "state_votes": 36, 
+      "votes": 504, 
       "district_votes": 9, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.247599999999998, 
       "x": -96.811199999999999, 
-      "latest_vote": "2013-08-07T10:15:24", 
+      "latest_vote": "2013-08-07T10:42:59", 
       "id": 16173259
     }, 
     {
