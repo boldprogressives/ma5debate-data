@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Roxbury", 
+      "first_name": "George", 
+      "last_name": "Brown", 
+      "user_id": 21612, 
+      "submission": "Will you support revising benefits for congress; specifically heath care benefits and participation in social security?", 
+      "district": "MA_07", 
+      "created": "2013-08-07T18:18:51", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.288200000000003, 
+      "x": -71.047399999999996, 
+      "latest_vote": null, 
+      "id": 16219710
+    }, 
+    {
       "city": "Sarasota", 
       "first_name": "rob", 
       "last_name": "biskup", 
@@ -81,14 +99,14 @@ opendebate.processFetchedQuestions({
       "submission": "When are Democrats going to stand UNITED and finally expose all the Republican Tea Party LIES about everything from Obamacare to our US Economy and let the American People learn the TRUTH?   ", 
       "district": "TX_35", 
       "created": "2013-08-07T18:01:39", 
-      "state_votes": 0, 
-      "votes": 0, 
+      "state_votes": 1, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "TX", 
       "iface": "question", 
       "y": 29.4786, 
       "x": -98.487200000000001, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-07T18:19:19", 
       "id": 16219526
     }, 
     {
