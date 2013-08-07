@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "West Branch", 
+      "first_name": "patricia", 
+      "last_name": "stamm", 
+      "user_id": 1680299, 
+      "submission": "why should nine unelected judges (supreme court)run this country", 
+      "district": "MI_04", 
+      "created": "2013-08-07T13:06:02", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MI", 
+      "iface": "question", 
+      "y": 44.289000000000001, 
+      "x": -84.218999999999994, 
+      "latest_vote": null, 
+      "id": 16215894
+    }, 
+    {
       "city": "Atlanta", 
       "first_name": "Andres", 
       "last_name": "Rodriguez", 
