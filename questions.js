@@ -10611,14 +10611,14 @@ opendebate.processFetchedQuestions({
       "submission": "How will you stand up against the Keystone XL pipeline and the lies told to the American people about it creating jobs, lowering the cost of gas, and decreasing dependency on Middle Eastern oil?", 
       "district": "MA_07", 
       "created": "2013-08-06T14:19:00", 
-      "state_votes": 2, 
-      "votes": 31, 
+      "state_votes": 3, 
+      "votes": 32, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.284700000000001, 
       "x": -71.127700000000004, 
-      "latest_vote": "2013-08-07T08:21:54", 
+      "latest_vote": "2013-08-07T14:36:39", 
       "id": 16181945
     }, 
     {
