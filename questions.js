@@ -17668,13 +17668,13 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:22:04", 
       "state_votes": 52, 
-      "votes": 555, 
+      "votes": 556, 
       "district_votes": 14, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.247599999999998, 
       "x": -96.811199999999999, 
-      "latest_vote": "2013-08-07T19:46:23", 
+      "latest_vote": "2013-08-07T19:53:10", 
       "id": 16173259
     }, 
     {
@@ -19341,14 +19341,14 @@ opendebate.processFetchedQuestions({
       "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "MA_05", 
       "created": "2013-08-03T17:33:11", 
-      "state_votes": 74, 
-      "votes": 834, 
+      "state_votes": 75, 
+      "votes": 835, 
       "district_votes": 22, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.377499999999998, 
       "x": -71.131200000000007, 
-      "latest_vote": "2013-08-07T19:45:42", 
+      "latest_vote": "2013-08-07T19:52:07", 
       "id": 16172266
     }, 
     {
