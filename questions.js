@@ -1486,13 +1486,13 @@ opendebate.processFetchedQuestions({
       "district": "GA_13", 
       "created": "2013-08-07T02:31:30", 
       "state_votes": 0, 
-      "votes": 4, 
+      "votes": 5, 
       "district_votes": 0, 
       "state": "GA", 
       "iface": "question", 
       "y": 33.511800000000001, 
       "x": -84.316800000000001, 
-      "latest_vote": "2013-08-07T04:48:03", 
+      "latest_vote": "2013-08-07T11:02:25", 
       "id": 16212354
     }, 
     {
