@@ -16821,14 +16821,14 @@ opendebate.processFetchedQuestions({
       "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
       "district": "TN_02", 
       "created": "2013-08-04T02:07:32", 
-      "state_votes": 38, 
-      "votes": 519, 
-      "district_votes": 10, 
+      "state_votes": 39, 
+      "votes": 520, 
+      "district_votes": 11, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.831099999999999, 
       "x": -84.048199999999994, 
-      "latest_vote": "2013-08-07T16:32:24", 
+      "latest_vote": "2013-08-07T16:42:58", 
       "id": 16173335
     }, 
     {
