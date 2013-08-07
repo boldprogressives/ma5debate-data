@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Olga", 
+      "first_name": "Lorinda", 
+      "last_name": "Roland", 
+      "user_id": 193654, 
+      "submission": "Will you support a federal bill or amendment regarding state voter ID laws to require all states to have fair, just, equal laws for elections ? ", 
+      "district": "WA_02", 
+      "created": "2013-08-07T09:13:34", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WA", 
+      "iface": "question", 
+      "y": 48.659199999999998, 
+      "x": -122.827, 
+      "latest_vote": null, 
+      "id": 16215313
+    }, 
+    {
       "city": "Wapato", 
       "first_name": "Stavros", 
       "last_name": "Stavridis", 
@@ -17020,13 +17038,13 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:27:03", 
       "state_votes": 53, 
-      "votes": 667, 
+      "votes": 668, 
       "district_votes": 11, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.6267, 
       "x": -87.5959, 
-      "latest_vote": "2013-08-07T09:11:27", 
+      "latest_vote": "2013-08-07T09:13:33", 
       "id": 16172755
     }, 
     {
@@ -17668,13 +17686,13 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:42:20", 
       "state_votes": 50, 
-      "votes": 605, 
+      "votes": 606, 
       "district_votes": 9, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.369900000000001, 
       "x": -71.236800000000002, 
-      "latest_vote": "2013-08-07T09:11:48", 
+      "latest_vote": "2013-08-07T09:13:49", 
       "id": 16172281
     }, 
     {
