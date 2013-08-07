@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Merrimack", 
+      "first_name": "Carol", 
+      "last_name": "DiPirro", 
+      "user_id": 1807278, 
+      "submission": "Would you support a bill/plan that would require our representatives to have limited health insurance only while in office. And that insurance benefit match a health plan of the average american so that the government officials have the same struggles for health care?", 
+      "district": "NH_01", 
+      "created": "2013-08-07T10:55:03", 
+      "state_votes": 0, 
+      "votes": 1, 
+      "district_votes": 0, 
+      "state": "NH", 
+      "iface": "question", 
+      "y": 42.863, 
+      "x": -71.516999999999996, 
+      "latest_vote": "2013-08-07T10:55:15", 
+      "id": 16215479
+    }, 
+    {
       "city": "Las Vegas", 
       "first_name": "Keith", 
       "last_name": "Augusto", 
