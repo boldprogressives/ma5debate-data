@@ -333,14 +333,14 @@ opendebate.processFetchedQuestions({
       "submission": "In one word: would you have voted yes or no on the Amash Amendment to limit the NSA's collection of records under S 215 of the Patriot Act to records that pertain to a person subject to investigation ", 
       "district": "MA_05", 
       "created": "2013-08-07T04:59:21", 
-      "state_votes": 0, 
-      "votes": 5, 
-      "district_votes": 0, 
+      "state_votes": 1, 
+      "votes": 6, 
+      "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.432099999999998, 
       "x": -71.056100000000001, 
-      "latest_vote": "2013-08-07T09:19:08", 
+      "latest_vote": "2013-08-07T10:30:49", 
       "id": 16213569
     }, 
     {
