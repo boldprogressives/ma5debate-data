@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Gibsonton", 
+      "first_name": "Debra", 
+      "last_name": "Tate", 
+      "user_id": 1758632, 
+      "submission": "When is OUR government going to \"grow a set\" and Impeach the impostor setting is our W.H. that is destroying & dividing  our country, inviting our enemies into our country, and gunrunning in Libya?", 
+      "district": "FL_14", 
+      "created": "2013-08-07T04:51:33", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "FL", 
+      "iface": "question", 
+      "y": 27.829599999999999, 
+      "x": -82.368600000000001, 
+      "latest_vote": null, 
+      "id": 16213560
+    }, 
+    {
       "city": "Buffalo", 
       "first_name": "Charles", 
       "last_name": "Herr", 
@@ -8830,13 +8848,13 @@ opendebate.processFetchedQuestions({
       "district": "VA_02", 
       "created": "2013-08-06T14:42:43", 
       "state_votes": 0, 
-      "votes": 8, 
+      "votes": 9, 
       "district_votes": 0, 
       "state": "VA", 
       "iface": "question", 
       "y": 36.945900000000002, 
       "x": -76.253500000000003, 
-      "latest_vote": "2013-08-07T03:54:42", 
+      "latest_vote": "2013-08-07T04:50:51", 
       "id": 16183772
     }, 
     {
@@ -10342,13 +10360,13 @@ opendebate.processFetchedQuestions({
       "district": "CA_45", 
       "created": "2013-08-06T11:54:48", 
       "state_votes": 0, 
-      "votes": 24, 
+      "votes": 25, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 33.624499999999998, 
       "x": -117.794, 
-      "latest_vote": "2013-08-07T03:54:45", 
+      "latest_vote": "2013-08-07T04:50:42", 
       "id": 16180953
     }, 
     {
