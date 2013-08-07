@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Melrose", 
+      "first_name": "Robert", 
+      "last_name": "Leydon", 
+      "user_id": 1809628, 
+      "submission": "Would you support making public, the citizenship status of persons convicted of felonies or higher offenses by district or superior courts?", 
+      "district": "MA_05", 
+      "created": "2013-08-07T17:45:11", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.460000000000001, 
+      "x": -71.058899999999994, 
+      "latest_vote": null, 
+      "id": 16219453
+    }, 
+    {
       "city": "Hazelwood", 
       "first_name": "Darlene", 
       "last_name": "Ewing", 
