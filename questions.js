@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Gibsonton", 
+      "first_name": "Debra", 
+      "last_name": "Tate", 
+      "user_id": 1758632, 
+      "submission": "Why has Pelosi not been brought up on charges of falsifying documents that Obama was eligible to be a presidential contender when she never saw his birth certificate?", 
+      "district": "FL_14", 
+      "created": "2013-08-07T04:29:40", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "FL", 
+      "iface": "question", 
+      "y": 27.829599999999999, 
+      "x": -82.368600000000001, 
+      "latest_vote": null, 
+      "id": 16213435
+    }, 
+    {
       "city": "Sutton", 
       "first_name": "Pete", 
       "last_name": "Wason", 
