@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Framingham", 
+      "first_name": "Aaron", 
+      "last_name": "Dunbrack", 
+      "user_id": 1809603, 
+      "submission": "What, specifically, are you planning to do during your congressional term about the global threats of global warming and climate change?", 
+      "district": "MA_05", 
+      "created": "2013-08-07T16:41:51", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.315100000000001, 
+      "x": -71.434100000000001, 
+      "latest_vote": null, 
+      "id": 16217933
+    }, 
+    {
       "city": "CHicago", 
       "first_name": "Cory", 
       "last_name": "Muldoon", 
