@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Knoxville", 
+      "first_name": "William", 
+      "last_name": "Plank", 
+      "user_id": 1809483, 
+      "submission": "Can congress handle the sole legislative responsibility, or is it time for a constitutional amendment authorizing a federal ballot initiative?", 
+      "district": "TN_02", 
+      "created": "2013-08-07T02:25:32", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "TN", 
+      "iface": "question", 
+      "y": 35.856400000000001, 
+      "x": -84.128299999999996, 
+      "latest_vote": null, 
+      "id": 16212315
+    }, 
+    {
       "city": "Jenkintown", 
       "first_name": "stephen", 
       "last_name": "cattie", 
@@ -16,6 +34,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.101100000000002, 
       "x": -75.111000000000004, 
+      "latest_vote": "2013-08-07T02:09:59", 
       "id": 16212189
     }, 
     {
@@ -33,6 +52,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 28.3002, 
       "x": -82.634100000000004, 
+      "latest_vote": null, 
       "id": 16212144
     }, 
     {
@@ -50,6 +70,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.756399999999999, 
       "x": -73.970299999999995, 
+      "latest_vote": "2013-08-07T02:22:45", 
       "id": 16212111
     }, 
     {
@@ -67,6 +88,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.679000000000002, 
       "x": -73.487099999999998, 
+      "latest_vote": "2013-08-07T02:19:36", 
       "id": 16212069
     }, 
     {
@@ -84,6 +106,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.985700000000001, 
       "x": -77.005499999999998, 
+      "latest_vote": null, 
       "id": 16212066
     }, 
     {
@@ -101,6 +124,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.965000000000003, 
       "x": -122.619, 
+      "latest_vote": "2013-08-07T02:19:41", 
       "id": 16212057
     }, 
     {
@@ -118,6 +142,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.416499999999999, 
       "x": -117.307, 
+      "latest_vote": "2013-08-07T02:01:49", 
       "id": 16212028
     }, 
     {
@@ -135,6 +160,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 27.916399999999999, 
       "x": -82.249099999999999, 
+      "latest_vote": "2013-08-07T02:06:31", 
       "id": 16211946
     }, 
     {
@@ -152,6 +178,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.646599999999999, 
       "x": -106.837, 
+      "latest_vote": "2013-08-07T02:06:42", 
       "id": 16211942
     }, 
     {
@@ -169,6 +196,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.985700000000001, 
       "x": -77.005499999999998, 
+      "latest_vote": "2013-08-07T02:07:00", 
       "id": 16211866
     }, 
     {
@@ -186,6 +214,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.254899999999999, 
       "x": -79.980599999999995, 
+      "latest_vote": "2013-08-07T02:20:00", 
       "id": 16211812
     }, 
     {
@@ -203,6 +232,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 25.694099999999999, 
       "x": -80.166799999999995, 
+      "latest_vote": "2013-08-07T02:20:08", 
       "id": 16211640
     }, 
     {
@@ -220,6 +250,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.1511, 
       "x": -74.653800000000004, 
+      "latest_vote": "2013-08-07T02:19:27", 
       "id": 16211614
     }, 
     {
@@ -237,6 +268,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.4086, 
       "x": -82.369699999999995, 
+      "latest_vote": "2013-08-07T02:02:23", 
       "id": 16211566
     }, 
     {
@@ -254,6 +286,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 26.610299999999999, 
       "x": -81.691800000000001, 
+      "latest_vote": "2013-08-07T02:08:20", 
       "id": 16211475
     }, 
     {
@@ -271,6 +304,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.270200000000003, 
       "x": -71.845100000000002, 
+      "latest_vote": "2013-08-07T02:20:25", 
       "id": 16211476
     }, 
     {
@@ -288,6 +322,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.346299999999999, 
       "x": -76.681299999999993, 
+      "latest_vote": "2013-08-07T02:02:29", 
       "id": 16211284
     }, 
     {
@@ -305,6 +340,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.344299999999997, 
       "x": -71.122200000000007, 
+      "latest_vote": "2013-08-07T02:09:16", 
       "id": 16211181
     }, 
     {
@@ -322,6 +358,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.4514, 
       "x": -77.655100000000004, 
+      "latest_vote": "2013-08-07T02:09:31", 
       "id": 16211048
     }, 
     {
@@ -339,6 +376,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.4514, 
       "x": -77.655100000000004, 
+      "latest_vote": "2013-08-07T02:02:47", 
       "id": 16211042
     }, 
     {
@@ -356,6 +394,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.344299999999997, 
       "x": -71.122200000000007, 
+      "latest_vote": "2013-08-07T02:09:54", 
       "id": 16211035
     }, 
     {
@@ -373,6 +412,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 28.077500000000001, 
       "x": -82.761099999999999, 
+      "latest_vote": "2013-08-07T02:10:03", 
       "id": 16210961
     }, 
     {
@@ -390,6 +430,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.4514, 
       "x": -77.655100000000004, 
+      "latest_vote": "2013-08-07T02:02:58", 
       "id": 16210885
     }, 
     {
@@ -407,6 +448,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 19.527999999999999, 
       "x": -154.90899999999999, 
+      "latest_vote": "2013-08-07T01:51:12", 
       "id": 16210851
     }, 
     {
@@ -424,6 +466,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.4514, 
       "x": -77.655100000000004, 
+      "latest_vote": "2013-08-07T00:48:25", 
       "id": 16210852
     }, 
     {
@@ -441,6 +484,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.427700000000002, 
       "x": -73.087999999999994, 
+      "latest_vote": "2013-08-07T01:10:20", 
       "id": 16210793
     }, 
     {
@@ -458,6 +502,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.199599999999997, 
       "x": -82.822000000000003, 
+      "latest_vote": "2013-08-07T02:13:32", 
       "id": 16210777
     }, 
     {
@@ -475,6 +520,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.371299999999998, 
       "x": -71.180400000000006, 
+      "latest_vote": "2013-08-07T01:21:23", 
       "id": 16210776
     }, 
     {
@@ -492,6 +538,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.445, 
       "x": -93.1815, 
+      "latest_vote": "2013-08-07T02:06:40", 
       "id": 16210738
     }, 
     {
@@ -509,6 +556,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.812800000000003, 
       "x": -73.120699999999999, 
+      "latest_vote": "2013-08-07T01:56:34", 
       "id": 16210626
     }, 
     {
@@ -526,6 +574,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.937199999999997, 
       "x": -83.961100000000002, 
+      "latest_vote": "2013-08-07T02:08:47", 
       "id": 16210559
     }, 
     {
@@ -543,6 +592,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.829000000000001, 
       "x": -119.666, 
+      "latest_vote": "2013-08-07T01:46:10", 
       "id": 16210488
     }, 
     {
@@ -560,6 +610,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.842799999999997, 
       "x": -117.955, 
+      "latest_vote": "2013-08-07T02:12:47", 
       "id": 16210264
     }, 
     {
@@ -577,6 +628,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.652200000000001, 
       "x": -116.899, 
+      "latest_vote": "2013-08-07T01:37:36", 
       "id": 16210153
     }, 
     {
@@ -594,6 +646,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.466200000000001, 
       "x": -70.949700000000007, 
+      "latest_vote": "2013-08-07T02:11:22", 
       "id": 16209749
     }, 
     {
@@ -611,6 +664,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.781100000000002, 
       "x": -88.252700000000004, 
+      "latest_vote": "2013-08-07T01:37:54", 
       "id": 16209714
     }, 
     {
@@ -628,6 +682,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.975299999999997, 
       "x": -118.354, 
+      "latest_vote": "2013-08-07T02:11:52", 
       "id": 16209667
     }, 
     {
@@ -645,6 +700,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.448399999999999, 
       "x": -71.233800000000002, 
+      "latest_vote": "2013-08-07T00:54:37", 
       "id": 16209617
     }, 
     {
@@ -662,6 +718,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.1511, 
       "x": -74.653800000000004, 
+      "latest_vote": "2013-08-07T01:44:42", 
       "id": 16209605
     }, 
     {
@@ -679,6 +736,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.781100000000002, 
       "x": -88.252700000000004, 
+      "latest_vote": "2013-08-07T01:44:38", 
       "id": 16209598
     }, 
     {
@@ -696,6 +754,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.7286, 
       "x": -99.159999999999997, 
+      "latest_vote": "2013-08-07T02:09:36", 
       "id": 16209412
     }, 
     {
@@ -713,6 +772,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.782200000000003, 
       "x": -116.908, 
+      "latest_vote": "2013-08-07T02:18:16", 
       "id": 16209328
     }, 
     {
@@ -730,6 +790,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.428899999999999, 
       "x": -79.923199999999994, 
+      "latest_vote": "2013-08-07T02:18:14", 
       "id": 16209148
     }, 
     {
@@ -747,6 +808,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.7502, 
       "x": -73.189099999999996, 
+      "latest_vote": "2013-08-07T00:41:19", 
       "id": 16208907
     }, 
     {
@@ -764,6 +826,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.558300000000003, 
       "x": -77.488600000000005, 
+      "latest_vote": "2013-08-07T01:46:50", 
       "id": 16208824
     }, 
     {
@@ -781,6 +844,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.428899999999999, 
       "x": -79.923199999999994, 
+      "latest_vote": "2013-08-07T01:48:27", 
       "id": 16208816
     }, 
     {
@@ -798,6 +862,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 27.310400000000001, 
       "x": -82.517799999999994, 
+      "latest_vote": "2013-08-07T02:14:47", 
       "id": 16208810
     }, 
     {
@@ -815,6 +880,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.558300000000003, 
       "x": -77.488600000000005, 
+      "latest_vote": "2013-08-07T02:17:33", 
       "id": 16208799
     }, 
     {
@@ -832,6 +898,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.1571, 
       "x": -122.90600000000001, 
+      "latest_vote": "2013-08-07T01:43:36", 
       "id": 16208766
     }, 
     {
@@ -849,6 +916,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.871499999999997, 
       "x": -78.662899999999993, 
+      "latest_vote": "2013-08-07T00:34:18", 
       "id": 16208653
     }, 
     {
@@ -866,6 +934,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.906599999999997, 
       "x": -77.016599999999997, 
+      "latest_vote": "2013-08-07T02:16:42", 
       "id": 16208638
     }, 
     {
@@ -883,6 +952,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.078400000000002, 
       "x": -71.634100000000004, 
+      "latest_vote": "2013-08-07T02:16:29", 
       "id": 16208488
     }, 
     {
@@ -900,6 +970,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.852600000000002, 
       "x": -73.914199999999994, 
+      "latest_vote": "2013-08-07T02:16:47", 
       "id": 16208298
     }, 
     {
@@ -917,6 +988,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.121099999999998, 
       "x": -121.081, 
+      "latest_vote": "2013-08-07T02:16:01", 
       "id": 16208291
     }, 
     {
@@ -934,6 +1006,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.034199999999998, 
       "x": -122.96899999999999, 
+      "latest_vote": "2013-08-07T02:15:58", 
       "id": 16208193
     }, 
     {
@@ -951,6 +1024,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.793900000000001, 
       "x": -116.96599999999999, 
+      "latest_vote": "2013-08-07T02:15:44", 
       "id": 16208142
     }, 
     {
@@ -968,6 +1042,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 25.978100000000001, 
       "x": -80.330200000000005, 
+      "latest_vote": "2013-08-07T01:50:26", 
       "id": 16208136
     }, 
     {
@@ -985,6 +1060,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.165700000000001, 
       "x": -78.148600000000002, 
+      "latest_vote": "2013-08-07T02:15:19", 
       "id": 16208033
     }, 
     {
@@ -1002,6 +1078,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 26.233599999999999, 
       "x": -80.156800000000004, 
+      "latest_vote": "2013-08-07T02:17:25", 
       "id": 16207977
     }, 
     {
@@ -1019,6 +1096,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 26.233599999999999, 
       "x": -80.156800000000004, 
+      "latest_vote": "2013-08-07T02:17:36", 
       "id": 16207967
     }, 
     {
@@ -1036,6 +1114,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.6524, 
       "x": -122.431, 
+      "latest_vote": "2013-08-07T02:18:01", 
       "id": 16207794
     }, 
     {
@@ -1053,6 +1132,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.799599999999998, 
       "x": -73.970299999999995, 
+      "latest_vote": "2013-08-07T00:39:24", 
       "id": 16207607
     }, 
     {
@@ -1070,6 +1150,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.799599999999998, 
       "x": -73.970299999999995, 
+      "latest_vote": "2013-08-07T02:18:30", 
       "id": 16207584
     }, 
     {
@@ -1087,6 +1168,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.341500000000003, 
       "x": -83.397099999999995, 
+      "latest_vote": "2013-08-07T02:21:31", 
       "id": 16207550
     }, 
     {
@@ -1104,6 +1186,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.75, 
       "x": -81.283299999999997, 
+      "latest_vote": "2013-08-07T02:21:18", 
       "id": 16207548
     }, 
     {
@@ -1121,6 +1204,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.628500000000003, 
       "x": -70.686199999999999, 
+      "latest_vote": "2013-08-07T00:58:41", 
       "id": 16207444
     }, 
     {
@@ -1138,6 +1222,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 28.024699999999999, 
       "x": -80.539199999999994, 
+      "latest_vote": "2013-08-07T01:29:46", 
       "id": 16207412
     }, 
     {
@@ -1155,6 +1240,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.598799999999997, 
       "x": -82.997399999999999, 
+      "latest_vote": "2013-08-07T00:37:15", 
       "id": 16207362
     }, 
     {
@@ -1172,6 +1258,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.107500000000002, 
       "x": -77.230999999999995, 
+      "latest_vote": "2013-08-07T02:20:30", 
       "id": 16207353
     }, 
     {
@@ -1189,6 +1276,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.167700000000004, 
       "x": -71.360100000000003, 
+      "latest_vote": "2013-08-07T02:21:23", 
       "id": 16207233
     }, 
     {
@@ -1206,6 +1294,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 28.024699999999999, 
       "x": -80.539199999999994, 
+      "latest_vote": "2013-08-07T01:41:09", 
       "id": 16207146
     }, 
     {
@@ -1223,6 +1312,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.254899999999999, 
       "x": -79.980599999999995, 
+      "latest_vote": "2013-08-07T02:20:11", 
       "id": 16207107
     }, 
     {
@@ -1240,6 +1330,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.6374, 
       "x": -82.558400000000006, 
+      "latest_vote": "2013-08-07T02:15:32", 
       "id": 16207073
     }, 
     {
@@ -1257,6 +1348,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 25.978100000000001, 
       "x": -80.330200000000005, 
+      "latest_vote": "2013-08-07T01:31:43", 
       "id": 16207031
     }, 
     {
@@ -1274,6 +1366,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.664000000000001, 
       "x": -70.291799999999995, 
+      "latest_vote": "2013-08-07T02:19:36", 
       "id": 16206983
     }, 
     {
@@ -1291,6 +1384,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.721499999999999, 
       "x": -122.44, 
+      "latest_vote": "2013-08-07T02:19:25", 
       "id": 16206953
     }, 
     {
@@ -1308,6 +1402,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 28.024699999999999, 
       "x": -80.539199999999994, 
+      "latest_vote": "2013-08-07T02:19:15", 
       "id": 16206705
     }, 
     {
@@ -1325,6 +1420,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.279800000000002, 
       "x": -118.5, 
+      "latest_vote": null, 
       "id": 16206665
     }, 
     {
@@ -1342,6 +1438,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.518099999999997, 
       "x": -70.904499999999999, 
+      "latest_vote": "2013-08-07T02:18:57", 
       "id": 16206519
     }, 
     {
@@ -1359,6 +1456,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 28.024699999999999, 
       "x": -80.539199999999994, 
+      "latest_vote": "2013-08-07T02:18:45", 
       "id": 16206470
     }, 
     {
@@ -1376,6 +1474,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 30.038799999999998, 
       "x": -99.151300000000006, 
+      "latest_vote": "2013-08-07T02:18:38", 
       "id": 16206388
     }, 
     {
@@ -1393,6 +1492,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.107500000000002, 
       "x": -77.230999999999995, 
+      "latest_vote": "2013-08-07T01:43:56", 
       "id": 16206364
     }, 
     {
@@ -1404,12 +1504,13 @@ opendebate.processFetchedQuestions({
       "district": "NY_11", 
       "created": "2013-08-06T21:39:37", 
       "state_votes": 6, 
-      "votes": 35, 
+      "votes": 36, 
       "district_votes": 1, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.553400000000003, 
       "x": -74.150300000000001, 
+      "latest_vote": "2013-08-07T02:25:37", 
       "id": 16206216
     }, 
     {
@@ -1421,12 +1522,13 @@ opendebate.processFetchedQuestions({
       "district": "KY_02", 
       "created": "2013-08-06T21:39:02", 
       "state_votes": 8, 
-      "votes": 21, 
+      "votes": 22, 
       "district_votes": 3, 
       "state": "KY", 
       "iface": "question", 
       "y": 37.707599999999999, 
       "x": -85.861900000000006, 
+      "latest_vote": "2013-08-07T02:25:28", 
       "id": 16206200
     }, 
     {
@@ -1438,12 +1540,13 @@ opendebate.processFetchedQuestions({
       "district": "FL_08", 
       "created": "2013-08-06T21:37:16", 
       "state_votes": 7, 
-      "votes": 41, 
+      "votes": 42, 
       "district_votes": 0, 
       "state": "FL", 
       "iface": "question", 
       "y": 28.024699999999999, 
       "x": -80.539199999999994, 
+      "latest_vote": "2013-08-07T02:25:16", 
       "id": 16206139
     }, 
     {
@@ -1461,6 +1564,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.076000000000001, 
       "x": -73.774799999999999, 
+      "latest_vote": "2013-08-07T01:53:29", 
       "id": 16206023
     }, 
     {
@@ -1478,6 +1582,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.5732, 
       "x": -122.321, 
+      "latest_vote": "2013-08-07T00:40:07", 
       "id": 16206016
     }, 
     {
@@ -1489,12 +1594,13 @@ opendebate.processFetchedQuestions({
       "district": "CA_34", 
       "created": "2013-08-06T21:30:11", 
       "state_votes": 4, 
-      "votes": 20, 
+      "votes": 21, 
       "district_votes": 2, 
       "state": "CA", 
       "iface": "question", 
       "y": 34.063699999999997, 
       "x": -118.239, 
+      "latest_vote": "2013-08-07T02:24:31", 
       "id": 16205989
     }, 
     {
@@ -1512,6 +1618,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.416499999999999, 
       "x": -117.307, 
+      "latest_vote": "2013-08-07T01:44:09", 
       "id": 16205966
     }, 
     {
@@ -1529,6 +1636,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.076000000000001, 
       "x": -73.774799999999999, 
+      "latest_vote": "2013-08-07T02:14:52", 
       "id": 16205951
     }, 
     {
@@ -1540,12 +1648,13 @@ opendebate.processFetchedQuestions({
       "district": "NY_23", 
       "created": "2013-08-06T21:25:26", 
       "state_votes": 2, 
-      "votes": 12, 
+      "votes": 13, 
       "district_votes": 0, 
       "state": "NY", 
       "iface": "question", 
       "y": 42.107500000000002, 
       "x": -77.230999999999995, 
+      "latest_vote": "2013-08-07T02:24:11", 
       "id": 16205891
     }, 
     {
@@ -1563,6 +1672,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.6736, 
       "x": -77.4268, 
+      "latest_vote": "2013-08-07T02:23:54", 
       "id": 16205884
     }, 
     {
@@ -1580,6 +1690,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.872599999999998, 
       "x": -124.071, 
+      "latest_vote": "2013-08-07T02:23:45", 
       "id": 16205834
     }, 
     {
@@ -1597,6 +1708,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.107500000000002, 
       "x": -77.230999999999995, 
+      "latest_vote": "2013-08-07T02:23:35", 
       "id": 16205796
     }, 
     {
@@ -1614,6 +1726,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.279800000000002, 
       "x": -118.5, 
+      "latest_vote": "2013-08-07T00:46:07", 
       "id": 16205787
     }, 
     {
@@ -1631,6 +1744,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.815100000000001, 
       "x": -122.23999999999999, 
+      "latest_vote": "2013-08-07T01:44:23", 
       "id": 16205774
     }, 
     {
@@ -1648,6 +1762,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.279800000000002, 
       "x": -118.5, 
+      "latest_vote": "2013-08-07T01:11:07", 
       "id": 16205756
     }, 
     {
@@ -1665,6 +1780,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.279800000000002, 
       "x": -118.5, 
+      "latest_vote": "2013-08-06T23:54:49", 
       "id": 16205747
     }, 
     {
@@ -1682,6 +1798,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.121400000000001, 
       "x": -83.175899999999999, 
+      "latest_vote": "2013-08-07T02:22:26", 
       "id": 16205742
     }, 
     {
@@ -1699,6 +1816,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.180599999999998, 
       "x": -76.841300000000004, 
+      "latest_vote": "2013-08-06T22:45:15", 
       "id": 16205656
     }, 
     {
@@ -1716,6 +1834,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.856900000000003, 
       "x": -78.689599999999999, 
+      "latest_vote": "2013-08-07T02:21:57", 
       "id": 16205646
     }, 
     {
@@ -1733,6 +1852,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.105499999999999, 
       "x": -77.240200000000002, 
+      "latest_vote": "2013-08-06T22:45:33", 
       "id": 16205617
     }, 
     {
@@ -1750,6 +1870,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.816099999999999, 
       "x": -81.457099999999997, 
+      "latest_vote": "2013-08-06T22:44:55", 
       "id": 16205583
     }, 
     {
@@ -1767,6 +1888,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.801600000000001, 
       "x": -122.435, 
+      "latest_vote": "2013-08-07T01:46:34", 
       "id": 16205553
     }, 
     {
@@ -1784,6 +1906,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.121099999999998, 
       "x": -121.081, 
+      "latest_vote": "2013-08-07T01:46:26", 
       "id": 16205550
     }, 
     {
@@ -1801,6 +1924,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.816099999999999, 
       "x": -81.457099999999997, 
+      "latest_vote": "2013-08-07T01:46:16", 
       "id": 16205543
     }, 
     {
@@ -1818,6 +1942,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.930300000000003, 
       "x": -89.214299999999994, 
+      "latest_vote": "2013-08-07T01:42:41", 
       "id": 16205451
     }, 
     {
@@ -1835,6 +1960,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.5869, 
       "x": -122.298, 
+      "latest_vote": "2013-08-07T00:41:26", 
       "id": 16205411
     }, 
     {
@@ -1852,6 +1978,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.418999999999997, 
       "x": -71.993399999999994, 
+      "latest_vote": "2013-08-07T00:57:44", 
       "id": 16205359
     }, 
     {
@@ -1869,6 +1996,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.171500000000002, 
       "x": -85.379000000000005, 
+      "latest_vote": "2013-08-07T02:16:58", 
       "id": 16205331
     }, 
     {
@@ -1886,6 +2014,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.718699999999998, 
       "x": -82.5471, 
+      "latest_vote": "2013-08-06T22:18:00", 
       "id": 16205125
     }, 
     {
@@ -1903,6 +2032,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.0411, 
       "x": -76.337500000000006, 
+      "latest_vote": "2013-08-07T00:42:38", 
       "id": 16205085
     }, 
     {
@@ -1920,6 +2050,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.250500000000002, 
       "x": -111.03, 
+      "latest_vote": "2013-08-07T02:02:22", 
       "id": 16205046
     }, 
     {
@@ -1937,6 +2068,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.679299999999998, 
       "x": -122.48399999999999, 
+      "latest_vote": "2013-08-07T01:48:33", 
       "id": 16204677
     }, 
     {
@@ -1954,6 +2086,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.067, 
       "x": -86.323800000000006, 
+      "latest_vote": "2013-08-07T02:02:14", 
       "id": 16204636
     }, 
     {
@@ -1971,6 +2104,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.445599999999999, 
       "x": -76.496399999999994, 
+      "latest_vote": "2013-08-07T01:21:51", 
       "id": 16204616
     }, 
     {
@@ -1988,6 +2122,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.551200000000001, 
       "x": -121.458, 
+      "latest_vote": "2013-08-07T01:48:53", 
       "id": 16204609
     }, 
     {
@@ -2005,6 +2140,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.392299999999999, 
       "x": -71.131299999999996, 
+      "latest_vote": "2013-08-07T01:49:03", 
       "id": 16204446
     }, 
     {
@@ -2022,6 +2158,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.502099999999999, 
       "x": -71.069699999999997, 
+      "latest_vote": "2013-08-06T23:38:41", 
       "id": 16204441
     }, 
     {
@@ -2039,6 +2176,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.8949, 
       "x": -80.174300000000002, 
+      "latest_vote": "2013-08-07T01:49:21", 
       "id": 16204423
     }, 
     {
@@ -2056,6 +2194,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.533200000000001, 
       "x": -70.9726, 
+      "latest_vote": "2013-08-06T21:54:44", 
       "id": 16204123
     }, 
     {
@@ -2073,6 +2212,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.533200000000001, 
       "x": -70.9726, 
+      "latest_vote": "2013-08-06T21:59:48", 
       "id": 16204103
     }, 
     {
@@ -2090,6 +2230,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.290199999999999, 
       "x": -76.593999999999994, 
+      "latest_vote": "2013-08-07T01:49:54", 
       "id": 16203965
     }, 
     {
@@ -2107,6 +2248,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.759500000000003, 
       "x": -74.190700000000007, 
+      "latest_vote": "2013-08-07T02:17:42", 
       "id": 16203866
     }, 
     {
@@ -2124,6 +2266,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.984400000000001, 
       "x": -75.900499999999994, 
+      "latest_vote": "2013-08-07T02:01:25", 
       "id": 16203822
     }, 
     {
@@ -2141,6 +2284,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 28.071300000000001, 
       "x": -82.555400000000006, 
+      "latest_vote": "2013-08-07T02:01:19", 
       "id": 16203678
     }, 
     {
@@ -2158,6 +2302,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.204000000000001, 
       "x": -72.630099999999999, 
+      "latest_vote": "2013-08-07T02:18:15", 
       "id": 16203676
     }, 
     {
@@ -2175,6 +2320,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.628500000000003, 
       "x": -70.686199999999999, 
+      "latest_vote": "2013-08-07T02:01:05", 
       "id": 16203558
     }, 
     {
@@ -2192,6 +2338,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.204000000000001, 
       "x": -72.630099999999999, 
+      "latest_vote": "2013-08-07T02:18:29", 
       "id": 16203477
     }, 
     {
@@ -2209,6 +2356,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.072200000000002, 
       "x": -76.805800000000005, 
+      "latest_vote": "2013-08-06T21:42:07", 
       "id": 16203371
     }, 
     {
@@ -2226,6 +2374,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.928800000000003, 
       "x": -124.06, 
+      "latest_vote": "2013-08-07T01:50:53", 
       "id": 16203315
     }, 
     {
@@ -2243,6 +2392,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.595199999999998, 
       "x": -83.120099999999994, 
+      "latest_vote": "2013-08-07T01:01:21", 
       "id": 16203215
     }, 
     {
@@ -2260,6 +2410,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 26.6069, 
       "x": -80.177700000000002, 
+      "latest_vote": "2013-08-07T00:53:38", 
       "id": 16203194
     }, 
     {
@@ -2277,6 +2428,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.030799999999999, 
       "x": -83.936099999999996, 
+      "latest_vote": "2013-08-07T00:19:45", 
       "id": 16203079
     }, 
     {
@@ -2294,6 +2446,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 28.804200000000002, 
       "x": -81.885599999999997, 
+      "latest_vote": "2013-08-06T22:58:52", 
       "id": 16202789
     }, 
     {
@@ -2311,6 +2464,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.347000000000001, 
       "x": -71.074799999999996, 
+      "latest_vote": "2013-08-07T01:49:58", 
       "id": 16202769
     }, 
     {
@@ -2328,6 +2482,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 27.7714, 
       "x": -82.391499999999994, 
+      "latest_vote": "2013-08-07T01:02:03", 
       "id": 16202732
     }, 
     {
@@ -2345,6 +2500,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.9437, 
       "x": -75.229100000000003, 
+      "latest_vote": "2013-08-07T01:49:19", 
       "id": 16202593
     }, 
     {
@@ -2362,6 +2518,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.411900000000003, 
       "x": -71.176500000000004, 
+      "latest_vote": "2013-08-07T01:43:41", 
       "id": 16202179
     }, 
     {
@@ -2379,6 +2536,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.780200000000001, 
       "x": -122.459, 
+      "latest_vote": "2013-08-07T02:19:23", 
       "id": 16202059
     }, 
     {
@@ -2396,6 +2554,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.876399999999997, 
       "x": -93.286799999999999, 
+      "latest_vote": "2013-08-07T02:04:53", 
       "id": 16201979
     }, 
     {
@@ -2413,6 +2572,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.158299999999997, 
       "x": -122.634, 
+      "latest_vote": "2013-08-07T01:47:03", 
       "id": 16201951
     }, 
     {
@@ -2430,6 +2590,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.982399999999998, 
       "x": -73.689300000000003, 
+      "latest_vote": "2013-08-07T00:57:07", 
       "id": 16201865
     }, 
     {
@@ -2447,6 +2608,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 28.143000000000001, 
       "x": -80.696399999999997, 
+      "latest_vote": "2013-08-07T02:21:49", 
       "id": 16201745
     }, 
     {
@@ -2464,6 +2626,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.963299999999997, 
       "x": -96.745199999999997, 
+      "latest_vote": "2013-08-07T02:05:20", 
       "id": 16201620
     }, 
     {
@@ -2481,6 +2644,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.377499999999998, 
       "x": -71.131200000000007, 
+      "latest_vote": "2013-08-06T22:00:15", 
       "id": 16201610
     }, 
     {
@@ -2498,6 +2662,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.377499999999998, 
       "x": -71.131200000000007, 
+      "latest_vote": "2013-08-06T22:54:03", 
       "id": 16201599
     }, 
     {
@@ -2515,6 +2680,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.158299999999997, 
       "x": -122.634, 
+      "latest_vote": "2013-08-07T01:51:21", 
       "id": 16201568
     }, 
     {
@@ -2532,6 +2698,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.017099999999999, 
       "x": -121.91, 
+      "latest_vote": "2013-08-07T02:05:33", 
       "id": 16201563
     }, 
     {
@@ -2549,6 +2716,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.405000000000001, 
       "x": -82.731399999999994, 
+      "latest_vote": "2013-08-07T01:51:09", 
       "id": 16201559
     }, 
     {
@@ -2566,6 +2734,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.686199999999999, 
       "x": -71.105699999999999, 
+      "latest_vote": "2013-08-07T01:51:06", 
       "id": 16201488
     }, 
     {
@@ -2583,6 +2752,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.952100000000002, 
       "x": -122.074, 
+      "latest_vote": "2013-08-07T02:20:39", 
       "id": 16201467
     }, 
     {
@@ -2600,6 +2770,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.305, 
       "x": -71.231800000000007, 
+      "latest_vote": "2013-08-07T02:06:36", 
       "id": 16201423
     }, 
     {
@@ -2617,6 +2788,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.952100000000002, 
       "x": -122.074, 
+      "latest_vote": "2013-08-07T02:06:32", 
       "id": 16201405
     }, 
     {
@@ -2634,6 +2806,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.863199999999999, 
       "x": -85.967399999999998, 
+      "latest_vote": "2013-08-07T01:03:15", 
       "id": 16201404
     }, 
     {
@@ -2651,6 +2824,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.952100000000002, 
       "x": -122.074, 
+      "latest_vote": "2013-08-07T01:02:54", 
       "id": 16201353
     }, 
     {
@@ -2668,6 +2842,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.078699999999998, 
       "x": -84.377200000000002, 
+      "latest_vote": "2013-08-07T00:45:47", 
       "id": 16201325
     }, 
     {
@@ -2685,6 +2860,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.715699999999998, 
       "x": -73.556200000000004, 
+      "latest_vote": "2013-08-07T00:45:43", 
       "id": 16201321
     }, 
     {
@@ -2702,6 +2878,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.952100000000002, 
       "x": -122.074, 
+      "latest_vote": "2013-08-07T01:15:47", 
       "id": 16201299
     }, 
     {
@@ -2719,6 +2896,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.688600000000001, 
       "x": -72.729100000000003, 
+      "latest_vote": "2013-08-07T01:08:37", 
       "id": 16201159
     }, 
     {
@@ -2736,6 +2914,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 45.531100000000002, 
       "x": -94.209199999999996, 
+      "latest_vote": "2013-08-07T02:06:11", 
       "id": 16201116
     }, 
     {
@@ -2753,6 +2932,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.101599999999998, 
       "x": -76.884500000000003, 
+      "latest_vote": "2013-08-06T22:54:52", 
       "id": 16200808
     }, 
     {
@@ -2770,6 +2950,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.405000000000001, 
       "x": -82.731399999999994, 
+      "latest_vote": "2013-08-07T00:45:16", 
       "id": 16200783
     }, 
     {
@@ -2787,6 +2968,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.427599999999998, 
       "x": -77.668700000000001, 
+      "latest_vote": "2013-08-07T02:22:00", 
       "id": 16200733
     }, 
     {
@@ -2804,6 +2986,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 30.027200000000001, 
       "x": -95.529300000000006, 
+      "latest_vote": "2013-08-06T22:55:14", 
       "id": 16200706
     }, 
     {
@@ -2821,6 +3004,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 25.954499999999999, 
       "x": -80.183599999999998, 
+      "latest_vote": "2013-08-07T00:44:59", 
       "id": 16200703
     }, 
     {
@@ -2838,6 +3022,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.743400000000001, 
       "x": -76.225700000000003, 
+      "latest_vote": "2013-08-07T01:55:47", 
       "id": 16200699
     }, 
     {
@@ -2855,6 +3040,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.743400000000001, 
       "x": -76.225700000000003, 
+      "latest_vote": "2013-08-07T01:07:10", 
       "id": 16200693
     }, 
     {
@@ -2872,6 +3058,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.220100000000002, 
       "x": -80.790099999999995, 
+      "latest_vote": "2013-08-06T22:55:52", 
       "id": 16200672
     }, 
     {
@@ -2889,6 +3076,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.427599999999998, 
       "x": -77.668700000000001, 
+      "latest_vote": "2013-08-07T00:03:47", 
       "id": 16200586
     }, 
     {
@@ -2906,6 +3094,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.389400000000002, 
       "x": -76.488100000000003, 
+      "latest_vote": "2013-08-07T00:20:44", 
       "id": 16200549
     }, 
     {
@@ -2923,6 +3112,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.645899999999997, 
       "x": -70.997500000000002, 
+      "latest_vote": "2013-08-06T22:58:17", 
       "id": 16200498
     }, 
     {
@@ -2940,6 +3130,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.5901, 
       "x": -85.361900000000006, 
+      "latest_vote": "2013-08-06T22:59:02", 
       "id": 16200362
     }, 
     {
@@ -2957,6 +3148,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 30.4941, 
       "x": -97.829800000000006, 
+      "latest_vote": "2013-08-07T01:15:24", 
       "id": 16200337
     }, 
     {
@@ -2974,6 +3166,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.785400000000003, 
       "x": -78.779600000000002, 
+      "latest_vote": "2013-08-07T00:02:24", 
       "id": 16200250
     }, 
     {
@@ -2991,6 +3184,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.483499999999999, 
       "x": -119.905, 
+      "latest_vote": "2013-08-07T01:06:09", 
       "id": 16200039
     }, 
     {
@@ -3008,6 +3202,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.055599999999998, 
       "x": -76.024600000000007, 
+      "latest_vote": "2013-08-07T01:06:06", 
       "id": 16199877
     }, 
     {
@@ -3025,6 +3220,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.715299999999999, 
       "x": -121.07899999999999, 
+      "latest_vote": "2013-08-07T00:46:52", 
       "id": 16199852
     }, 
     {
@@ -3042,6 +3238,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.475999999999999, 
       "x": -86.467200000000005, 
+      "latest_vote": "2013-08-07T02:07:23", 
       "id": 16199834
     }, 
     {
@@ -3059,6 +3256,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.158299999999997, 
       "x": -122.634, 
+      "latest_vote": "2013-08-07T01:12:15", 
       "id": 16199816
     }, 
     {
@@ -3076,6 +3274,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.868699999999997, 
       "x": -75.3857, 
+      "latest_vote": "2013-08-07T01:12:10", 
       "id": 16199756
     }, 
     {
@@ -3093,6 +3292,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.707599999999999, 
       "x": -85.861900000000006, 
+      "latest_vote": "2013-08-07T02:07:37", 
       "id": 16199725
     }, 
     {
@@ -3110,6 +3310,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 26.628399999999999, 
       "x": -81.867599999999996, 
+      "latest_vote": "2013-08-07T01:16:42", 
       "id": 16199648
     }, 
     {
@@ -3127,6 +3328,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.9437, 
       "x": -75.229100000000003, 
+      "latest_vote": "2013-08-07T02:07:47", 
       "id": 16199637
     }, 
     {
@@ -3144,6 +3346,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.379100000000001, 
       "x": -81.264600000000002, 
+      "latest_vote": "2013-08-07T01:11:28", 
       "id": 16199482
     }, 
     {
@@ -3161,6 +3364,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.965699999999998, 
       "x": -77.9589, 
+      "latest_vote": "2013-08-07T01:16:36", 
       "id": 16199390
     }, 
     {
@@ -3178,6 +3382,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.9437, 
       "x": -75.229100000000003, 
+      "latest_vote": "2013-08-07T01:11:05", 
       "id": 16199371
     }, 
     {
@@ -3195,6 +3400,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.881500000000003, 
       "x": -73.907499999999999, 
+      "latest_vote": "2013-08-07T00:55:04", 
       "id": 16199317
     }, 
     {
@@ -3212,6 +3418,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 28.3002, 
       "x": -82.634100000000004, 
+      "latest_vote": "2013-08-07T01:10:54", 
       "id": 16199305
     }, 
     {
@@ -3229,6 +3436,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.020400000000002, 
       "x": -83.011899999999997, 
+      "latest_vote": "2013-08-07T00:47:47", 
       "id": 16198901
     }, 
     {
@@ -3246,6 +3454,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 30.5868, 
       "x": -87.025199999999998, 
+      "latest_vote": "2013-08-06T22:06:03", 
       "id": 16198831
     }, 
     {
@@ -3263,6 +3472,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.445, 
       "x": -93.740700000000004, 
+      "latest_vote": "2013-08-07T00:50:12", 
       "id": 16198297
     }, 
     {
@@ -3280,6 +3490,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.420699999999997, 
       "x": -71.158199999999994, 
+      "latest_vote": "2013-08-07T02:09:31", 
       "id": 16198026
     }, 
     {
@@ -3297,6 +3508,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.442799999999998, 
       "x": -75.354500000000002, 
+      "latest_vote": "2013-08-07T01:10:19", 
       "id": 16197666
     }, 
     {
@@ -3314,6 +3526,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 29.954599999999999, 
       "x": -90.123400000000004, 
+      "latest_vote": "2013-08-07T01:09:39", 
       "id": 16197636
     }, 
     {
@@ -3331,6 +3544,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.932600000000001, 
       "x": -70.823899999999995, 
+      "latest_vote": "2013-08-06T23:05:11", 
       "id": 16197637
     }, 
     {
@@ -3348,6 +3562,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.0869, 
       "x": -78.923699999999997, 
+      "latest_vote": "2013-08-07T02:09:13", 
       "id": 16197620
     }, 
     {
@@ -3365,6 +3580,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.200299999999999, 
       "x": -82.738399999999999, 
+      "latest_vote": "2013-08-06T22:07:01", 
       "id": 16197610
     }, 
     {
@@ -3382,6 +3598,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.760300000000001, 
       "x": -73.890799999999999, 
+      "latest_vote": "2013-08-07T00:49:24", 
       "id": 16197573
     }, 
     {
@@ -3399,6 +3616,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.170900000000003, 
       "x": -118.343, 
+      "latest_vote": "2013-08-07T00:54:23", 
       "id": 16197463
     }, 
     {
@@ -3416,6 +3634,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.966000000000001, 
       "x": -71.552300000000002, 
+      "latest_vote": "2013-08-07T00:49:14", 
       "id": 16197307
     }, 
     {
@@ -3433,6 +3652,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.4679, 
       "x": -90.121899999999997, 
+      "latest_vote": "2013-08-07T00:21:46", 
       "id": 16197127
     }, 
     {
@@ -3450,6 +3670,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.007800000000003, 
       "x": -77.545599999999993, 
+      "latest_vote": "2013-08-07T00:55:45", 
       "id": 16196880
     }, 
     {
@@ -3467,6 +3688,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.294699999999999, 
       "x": -71.130499999999998, 
+      "latest_vote": "2013-08-07T00:48:59", 
       "id": 16196860
     }, 
     {
@@ -3484,6 +3706,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.069200000000002, 
       "x": -122.164, 
+      "latest_vote": "2013-08-07T00:48:47", 
       "id": 16196840
     }, 
     {
@@ -3501,6 +3724,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 27.955400000000001, 
       "x": -82.459800000000001, 
+      "latest_vote": "2013-08-06T22:37:13", 
       "id": 16196739
     }, 
     {
@@ -3518,6 +3742,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 27.955400000000001, 
       "x": -82.459800000000001, 
+      "latest_vote": "2013-08-07T00:11:34", 
       "id": 16196738
     }, 
     {
@@ -3535,6 +3760,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.371299999999998, 
       "x": -71.180400000000006, 
+      "latest_vote": "2013-08-07T00:11:25", 
       "id": 16196725
     }, 
     {
@@ -3552,6 +3778,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.120800000000003, 
       "x": -84.543700000000001, 
+      "latest_vote": "2013-08-06T22:35:10", 
       "id": 16196576
     }, 
     {
@@ -3569,6 +3796,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.078400000000002, 
       "x": -71.634100000000004, 
+      "latest_vote": "2013-08-06T21:45:15", 
       "id": 16196438
     }, 
     {
@@ -3586,6 +3814,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.930399999999999, 
       "x": -77.028199999999998, 
+      "latest_vote": "2013-08-07T00:40:48", 
       "id": 16196428
     }, 
     {
@@ -3603,6 +3832,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.640000000000001, 
       "x": -86.308599999999998, 
+      "latest_vote": "2013-08-06T22:37:57", 
       "id": 16196370
     }, 
     {
@@ -3620,6 +3850,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.764800000000001, 
       "x": -73.777500000000003, 
+      "latest_vote": "2013-08-06T21:45:57", 
       "id": 16196093
     }, 
     {
@@ -3637,6 +3868,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.422400000000003, 
       "x": -111.928, 
+      "latest_vote": "2013-08-07T02:10:16", 
       "id": 16194854
     }, 
     {
@@ -3654,6 +3886,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.642899999999997, 
       "x": -99.326999999999998, 
+      "latest_vote": "2013-08-07T00:57:47", 
       "id": 16194740
     }, 
     {
@@ -3671,6 +3904,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.508499999999998, 
       "x": -71.201300000000003, 
+      "latest_vote": "2013-08-07T00:07:30", 
       "id": 16194697
     }, 
     {
@@ -3688,6 +3922,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.217599999999997, 
       "x": -86.458500000000001, 
+      "latest_vote": "2013-08-07T00:10:17", 
       "id": 16194645
     }, 
     {
@@ -3705,6 +3940,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.707799999999999, 
       "x": -84.4208, 
+      "latest_vote": "2013-08-07T00:24:24", 
       "id": 16194638
     }, 
     {
@@ -3722,6 +3958,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.6524, 
       "x": -122.431, 
+      "latest_vote": "2013-08-07T02:10:34", 
       "id": 16194500
     }, 
     {
@@ -3739,6 +3976,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.055500000000002, 
       "x": -70.187299999999993, 
+      "latest_vote": "2013-08-07T02:10:38", 
       "id": 16194365
     }, 
     {
@@ -3756,6 +3994,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.275399999999998, 
       "x": -121.206, 
+      "latest_vote": "2013-08-07T00:14:39", 
       "id": 16194324
     }, 
     {
@@ -3773,6 +4012,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 45.530999999999999, 
       "x": -122.633, 
+      "latest_vote": "2013-08-06T22:04:20", 
       "id": 16194292
     }, 
     {
@@ -3790,6 +4030,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.349699999999999, 
       "x": -71.546899999999994, 
+      "latest_vote": "2013-08-07T00:14:24", 
       "id": 16194273
     }, 
     {
@@ -3807,6 +4048,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 28.398, 
       "x": -82.537899999999993, 
+      "latest_vote": "2013-08-06T23:10:32", 
       "id": 16194250
     }, 
     {
@@ -3824,6 +4066,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 46.615900000000003, 
       "x": -94.281400000000005, 
+      "latest_vote": "2013-08-06T22:29:26", 
       "id": 16194234
     }, 
     {
@@ -3841,6 +4084,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.807299999999998, 
       "x": -84.019499999999994, 
+      "latest_vote": "2013-08-06T23:06:15", 
       "id": 16194232
     }, 
     {
@@ -3858,6 +4102,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.243000000000002, 
       "x": -71.873400000000004, 
+      "latest_vote": "2013-08-07T00:13:57", 
       "id": 16194213
     }, 
     {
@@ -3875,6 +4120,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.349699999999999, 
       "x": -71.546899999999994, 
+      "latest_vote": "2013-08-06T22:05:18", 
       "id": 16194075
     }, 
     {
@@ -3892,6 +4138,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.085700000000003, 
       "x": -73.541700000000006, 
+      "latest_vote": "2013-08-07T00:14:12", 
       "id": 16194024
     }, 
     {
@@ -3909,6 +4156,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.8172, 
       "x": -77.122600000000006, 
+      "latest_vote": "2013-08-07T00:14:27", 
       "id": 16193997
     }, 
     {
@@ -3926,6 +4174,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.422400000000003, 
       "x": -111.928, 
+      "latest_vote": "2013-08-07T00:14:39", 
       "id": 16193988
     }, 
     {
@@ -3943,6 +4192,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.349699999999999, 
       "x": -71.546899999999994, 
+      "latest_vote": "2013-08-07T00:55:33", 
       "id": 16193980
     }, 
     {
@@ -3960,6 +4210,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.349699999999999, 
       "x": -71.546899999999994, 
+      "latest_vote": "2013-08-07T00:31:34", 
       "id": 16193930
     }, 
     {
@@ -3977,6 +4228,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.429699999999997, 
       "x": -74.407300000000006, 
+      "latest_vote": "2013-08-06T22:30:55", 
       "id": 16193888
     }, 
     {
@@ -3994,6 +4246,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.308300000000003, 
       "x": -76.677199999999999, 
+      "latest_vote": "2013-08-07T00:12:55", 
       "id": 16193840
     }, 
     {
@@ -4011,6 +4264,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.432099999999998, 
       "x": -71.056100000000001, 
+      "latest_vote": "2013-08-06T21:06:08", 
       "id": 16193842
     }, 
     {
@@ -4028,6 +4282,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.082099999999997, 
       "x": -72.554400000000001, 
+      "latest_vote": "2013-08-06T21:11:36", 
       "id": 16193780
     }, 
     {
@@ -4045,6 +4300,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.823399999999999, 
       "x": -117.09699999999999, 
+      "latest_vote": "2013-08-06T21:52:38", 
       "id": 16193773
     }, 
     {
@@ -4062,6 +4318,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 29.988600000000002, 
       "x": -90.250399999999999, 
+      "latest_vote": "2013-08-06T22:37:07", 
       "id": 16193719
     }, 
     {
@@ -4079,6 +4336,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.301299999999998, 
       "x": -76.799899999999994, 
+      "latest_vote": "2013-08-06T22:02:46", 
       "id": 16193531
     }, 
     {
@@ -4096,6 +4354,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 27.783100000000001, 
       "x": -80.483199999999997, 
+      "latest_vote": "2013-08-06T20:18:51", 
       "id": 16193424
     }, 
     {
@@ -4113,6 +4372,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.793500000000002, 
       "x": -74.022499999999994, 
+      "latest_vote": "2013-08-07T00:31:59", 
       "id": 16193410
     }, 
     {
@@ -4130,6 +4390,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 27.783100000000001, 
       "x": -80.483199999999997, 
+      "latest_vote": "2013-08-06T20:18:39", 
       "id": 16193346
     }, 
     {
@@ -4147,6 +4408,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.178699999999999, 
       "x": -84.245999999999995, 
+      "latest_vote": "2013-08-07T00:34:56", 
       "id": 16193300
     }, 
     {
@@ -4164,6 +4426,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.830500000000001, 
       "x": -96.7727, 
+      "latest_vote": "2013-08-06T21:55:21", 
       "id": 16193290
     }, 
     {
@@ -4181,6 +4444,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.062199999999997, 
       "x": -118.38200000000001, 
+      "latest_vote": "2013-08-07T00:32:36", 
       "id": 16193281
     }, 
     {
@@ -4198,6 +4462,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.824399999999997, 
       "x": -122.23099999999999, 
+      "latest_vote": "2013-08-06T20:39:27", 
       "id": 16193263
     }, 
     {
@@ -4215,6 +4480,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.433799999999998, 
       "x": -103.476, 
+      "latest_vote": "2013-08-07T02:11:15", 
       "id": 16193258
     }, 
     {
@@ -4232,6 +4498,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.854999999999997, 
       "x": -74.277799999999999, 
+      "latest_vote": "2013-08-06T21:56:06", 
       "id": 16193117
     }, 
     {
@@ -4249,6 +4516,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 27.783100000000001, 
       "x": -80.483199999999997, 
+      "latest_vote": "2013-08-06T20:18:04", 
       "id": 16193114
     }, 
     {
@@ -4266,6 +4534,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.609499999999997, 
       "x": -83.721699999999998, 
+      "latest_vote": "2013-08-06T21:57:00", 
       "id": 16193069
     }, 
     {
@@ -4283,6 +4552,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.755200000000002, 
       "x": -75.530900000000003, 
+      "latest_vote": "2013-08-06T22:09:35", 
       "id": 16192922
     }, 
     {
@@ -4300,6 +4570,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 31.935600000000001, 
       "x": -109.804, 
+      "latest_vote": "2013-08-06T20:42:38", 
       "id": 16192815
     }, 
     {
@@ -4317,6 +4588,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 28.398, 
       "x": -82.537899999999993, 
+      "latest_vote": "2013-08-06T22:34:33", 
       "id": 16192769
     }, 
     {
@@ -4334,6 +4606,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.830500000000001, 
       "x": -96.7727, 
+      "latest_vote": "2013-08-06T22:34:17", 
       "id": 16192621
     }, 
     {
@@ -4351,6 +4624,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.949800000000003, 
       "x": -77.015600000000006, 
+      "latest_vote": "2013-08-06T20:19:43", 
       "id": 16192609
     }, 
     {
@@ -4368,6 +4642,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.128700000000002, 
       "x": -87.148799999999994, 
+      "latest_vote": "2013-08-07T00:27:01", 
       "id": 16192567
     }, 
     {
@@ -4385,6 +4660,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.429200000000002, 
       "x": -76.304400000000001, 
+      "latest_vote": "2013-08-06T21:59:11", 
       "id": 16192507
     }, 
     {
@@ -4402,6 +4678,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.687100000000001, 
       "x": -73.074399999999997, 
+      "latest_vote": "2013-08-06T21:59:33", 
       "id": 16192388
     }, 
     {
@@ -4419,6 +4696,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.021900000000002, 
       "x": -74.9328, 
+      "latest_vote": "2013-08-07T00:18:46", 
       "id": 16192378
     }, 
     {
@@ -4436,6 +4714,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.949800000000003, 
       "x": -77.015600000000006, 
+      "latest_vote": "2013-08-07T00:18:34", 
       "id": 16192280
     }, 
     {
@@ -4453,6 +4732,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.687100000000001, 
       "x": -73.074399999999997, 
+      "latest_vote": "2013-08-07T00:20:04", 
       "id": 16192256
     }, 
     {
@@ -4470,6 +4750,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.093299999999999, 
       "x": -71.404399999999995, 
+      "latest_vote": "2013-08-06T22:00:40", 
       "id": 16192234
     }, 
     {
@@ -4487,6 +4768,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.845300000000002, 
       "x": -81.258499999999998, 
+      "latest_vote": "2013-08-07T00:18:10", 
       "id": 16192224
     }, 
     {
@@ -4504,6 +4786,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.444499999999998, 
       "x": -122.655, 
+      "latest_vote": "2013-08-07T01:21:43", 
       "id": 16192223
     }, 
     {
@@ -4521,6 +4804,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.391399999999997, 
       "x": -71.094700000000003, 
+      "latest_vote": "2013-08-06T23:15:42", 
       "id": 16192190
     }, 
     {
@@ -4538,6 +4822,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.687100000000001, 
       "x": -73.074399999999997, 
+      "latest_vote": "2013-08-06T23:09:49", 
       "id": 16192164
     }, 
     {
@@ -4555,6 +4840,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.405500000000004, 
       "x": -122.078, 
+      "latest_vote": "2013-08-07T00:41:58", 
       "id": 16192159
     }, 
     {
@@ -4572,6 +4858,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.499299999999998, 
       "x": -74.5214, 
+      "latest_vote": "2013-08-07T00:30:58", 
       "id": 16192109
     }, 
     {
@@ -4589,6 +4876,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.491999999999997, 
       "x": -86.926100000000005, 
+      "latest_vote": "2013-08-07T00:17:05", 
       "id": 16191973
     }, 
     {
@@ -4606,6 +4894,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.887300000000003, 
       "x": -70.887200000000007, 
+      "latest_vote": "2013-08-06T20:41:02", 
       "id": 16191695
     }, 
     {
@@ -4623,6 +4912,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.256399999999999, 
       "x": -85.750699999999995, 
+      "latest_vote": "2013-08-07T01:21:29", 
       "id": 16191336
     }, 
     {
@@ -4640,6 +4930,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.762700000000002, 
       "x": -122.16, 
+      "latest_vote": "2013-08-06T22:42:36", 
       "id": 16191244
     }, 
     {
@@ -4657,6 +4948,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.9407, 
       "x": -82.9786, 
+      "latest_vote": "2013-08-06T22:10:46", 
       "id": 16191242
     }, 
     {
@@ -4674,6 +4966,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.617800000000003, 
       "x": -74.149500000000003, 
+      "latest_vote": "2013-08-07T00:16:26", 
       "id": 16191182
     }, 
     {
@@ -4691,6 +4984,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.830500000000001, 
       "x": -96.7727, 
+      "latest_vote": "2013-08-07T00:21:58", 
       "id": 16191176
     }, 
     {
@@ -4708,6 +5002,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.6372, 
       "x": -81.418400000000005, 
+      "latest_vote": "2013-08-07T02:14:05", 
       "id": 16191114
     }, 
     {
@@ -4725,6 +5020,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.012099999999997, 
       "x": -79.125, 
+      "latest_vote": "2013-08-07T00:15:35", 
       "id": 16191095
     }, 
     {
@@ -4742,6 +5038,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.827100000000002, 
       "x": -88.924099999999996, 
+      "latest_vote": "2013-08-06T20:41:22", 
       "id": 16191022
     }, 
     {
@@ -4759,6 +5056,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.6374, 
       "x": -82.558400000000006, 
+      "latest_vote": "2013-08-07T00:22:46", 
       "id": 16190891
     }, 
     {
@@ -4776,6 +5074,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.800800000000002, 
       "x": -68.563000000000002, 
+      "latest_vote": "2013-08-07T00:22:18", 
       "id": 16190885
     }, 
     {
@@ -4793,6 +5092,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.830500000000001, 
       "x": -96.7727, 
+      "latest_vote": "2013-08-07T00:22:02", 
       "id": 16190792
     }, 
     {
@@ -4810,6 +5110,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.628300000000003, 
       "x": -77.353200000000001, 
+      "latest_vote": "2013-08-06T20:41:30", 
       "id": 16190698
     }, 
     {
@@ -4827,6 +5128,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.830500000000001, 
       "x": -96.7727, 
+      "latest_vote": "2013-08-07T00:25:33", 
       "id": 16190647
     }, 
     {
@@ -4844,6 +5146,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.1143, 
       "x": -80.693899999999999, 
+      "latest_vote": "2013-08-06T22:12:10", 
       "id": 16190598
     }, 
     {
@@ -4861,6 +5164,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.830500000000001, 
       "x": -96.7727, 
+      "latest_vote": "2013-08-07T01:22:33", 
       "id": 16190583
     }, 
     {
@@ -4878,6 +5182,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 27.197500000000002, 
       "x": -80.253100000000003, 
+      "latest_vote": "2013-08-07T01:22:27", 
       "id": 16190496
     }, 
     {
@@ -4895,6 +5200,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.799599999999998, 
       "x": -73.970299999999995, 
+      "latest_vote": "2013-08-07T00:20:56", 
       "id": 16190481
     }, 
     {
@@ -4912,6 +5218,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.7378, 
       "x": -121.848, 
+      "latest_vote": "2013-08-07T00:29:34", 
       "id": 16190459
     }, 
     {
@@ -4929,6 +5236,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.369399999999999, 
       "x": -75.254099999999994, 
+      "latest_vote": "2013-08-07T00:24:30", 
       "id": 16190319
     }, 
     {
@@ -4946,6 +5254,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.879600000000003, 
       "x": -73.197699999999998, 
+      "latest_vote": "2013-08-06T22:46:06", 
       "id": 16190312
     }, 
     {
@@ -4963,6 +5272,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.830500000000001, 
       "x": -96.7727, 
+      "latest_vote": "2013-08-07T00:20:04", 
       "id": 16190286
     }, 
     {
@@ -4980,6 +5290,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 45.443199999999997, 
       "x": -122.515, 
+      "latest_vote": "2013-08-07T00:57:03", 
       "id": 16190280
     }, 
     {
@@ -4997,6 +5308,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.276400000000002, 
       "x": -71.819500000000005, 
+      "latest_vote": "2013-08-06T21:59:35", 
       "id": 16190263
     }, 
     {
@@ -5014,6 +5326,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.879600000000003, 
       "x": -73.197699999999998, 
+      "latest_vote": "2013-08-06T19:08:05", 
       "id": 16190220
     }, 
     {
@@ -5031,6 +5344,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.276400000000002, 
       "x": -71.819500000000005, 
+      "latest_vote": "2013-08-06T22:09:00", 
       "id": 16190183
     }, 
     {
@@ -5048,6 +5362,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.559800000000003, 
       "x": -71.170000000000002, 
+      "latest_vote": "2013-08-06T22:09:13", 
       "id": 16190100
     }, 
     {
@@ -5065,6 +5380,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.491999999999997, 
       "x": -86.926100000000005, 
+      "latest_vote": "2013-08-06T22:09:23", 
       "id": 16190074
     }, 
     {
@@ -5082,6 +5398,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.491999999999997, 
       "x": -86.926100000000005, 
+      "latest_vote": "2013-08-06T21:36:56", 
       "id": 16190070
     }, 
     {
@@ -5099,6 +5416,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.491999999999997, 
       "x": -86.926100000000005, 
+      "latest_vote": "2013-08-06T20:10:24", 
       "id": 16190066
     }, 
     {
@@ -5116,6 +5434,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.369300000000003, 
       "x": -73.919899999999998, 
+      "latest_vote": "2013-08-07T00:25:53", 
       "id": 16190043
     }, 
     {
@@ -5133,6 +5452,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.830500000000001, 
       "x": -96.7727, 
+      "latest_vote": "2013-08-07T00:25:39", 
       "id": 16190024
     }, 
     {
@@ -5150,6 +5470,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.150799999999997, 
       "x": -83.382300000000001, 
+      "latest_vote": "2013-08-07T00:33:36", 
       "id": 16190003
     }, 
     {
@@ -5167,6 +5488,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.392000000000003, 
       "x": -82.019400000000005, 
+      "latest_vote": "2013-08-07T00:25:25", 
       "id": 16189993
     }, 
     {
@@ -5184,6 +5506,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.640099999999997, 
       "x": -73.904399999999995, 
+      "latest_vote": "2013-08-06T22:50:33", 
       "id": 16189920
     }, 
     {
@@ -5201,6 +5524,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.155099999999997, 
       "x": -79.8142, 
+      "latest_vote": "2013-08-07T00:25:06", 
       "id": 16189887
     }, 
     {
@@ -5218,6 +5542,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.8767, 
       "x": -83.895300000000006, 
+      "latest_vote": "2013-08-07T00:05:42", 
       "id": 16189872
     }, 
     {
@@ -5235,6 +5560,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.8767, 
       "x": -83.895300000000006, 
+      "latest_vote": "2013-08-07T00:24:42", 
       "id": 16189767
     }, 
     {
@@ -5252,6 +5578,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.867899999999999, 
       "x": -73.919799999999995, 
+      "latest_vote": "2013-08-07T00:29:45", 
       "id": 16189763
     }, 
     {
@@ -5269,6 +5596,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.209699999999998, 
       "x": -74.061999999999998, 
+      "latest_vote": "2013-08-07T00:24:24", 
       "id": 16189753
     }, 
     {
@@ -5286,6 +5614,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.772799999999997, 
       "x": -78.635099999999994, 
+      "latest_vote": "2013-08-06T20:07:52", 
       "id": 16189711
     }, 
     {
@@ -5303,6 +5632,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.674599999999998, 
       "x": -82.017099999999999, 
+      "latest_vote": "2013-08-06T22:52:19", 
       "id": 16189670
     }, 
     {
@@ -5320,6 +5650,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.830500000000001, 
       "x": -96.7727, 
+      "latest_vote": "2013-08-07T00:23:47", 
       "id": 16189618
     }, 
     {
@@ -5337,6 +5668,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.201000000000001, 
       "x": -71.688000000000002, 
+      "latest_vote": "2013-08-06T18:51:23", 
       "id": 16189615
     }, 
     {
@@ -5354,6 +5686,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.095300000000002, 
       "x": -86.457700000000003, 
+      "latest_vote": "2013-08-06T22:48:38", 
       "id": 16189599
     }, 
     {
@@ -5371,6 +5704,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.1691, 
       "x": -96.691900000000004, 
+      "latest_vote": null, 
       "id": 16189486
     }, 
     {
@@ -5388,6 +5722,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.262999999999998, 
       "x": -107.754, 
+      "latest_vote": "2013-08-07T00:28:16", 
       "id": 16189361
     }, 
     {
@@ -5405,6 +5740,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.780299999999997, 
       "x": -90.623999999999995, 
+      "latest_vote": "2013-08-07T00:23:03", 
       "id": 16189362
     }, 
     {
@@ -5422,6 +5758,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 28.538399999999999, 
       "x": -81.374700000000004, 
+      "latest_vote": "2013-08-06T20:31:53", 
       "id": 16189089
     }, 
     {
@@ -5439,6 +5776,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.856200000000001, 
       "x": -84.621200000000002, 
+      "latest_vote": "2013-08-07T00:29:53", 
       "id": 16189074
     }, 
     {
@@ -5456,6 +5794,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.076300000000003, 
       "x": -87.728399999999993, 
+      "latest_vote": "2013-08-07T00:29:31", 
       "id": 16189028
     }, 
     {
@@ -5473,6 +5812,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.209699999999998, 
       "x": -74.061999999999998, 
+      "latest_vote": "2013-08-07T00:32:47", 
       "id": 16188911
     }, 
     {
@@ -5490,6 +5830,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.216000000000001, 
       "x": -71.204400000000007, 
+      "latest_vote": "2013-08-07T00:29:11", 
       "id": 16188877
     }, 
     {
@@ -5507,6 +5848,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.4467, 
       "x": -74.489000000000004, 
+      "latest_vote": "2013-08-07T00:32:23", 
       "id": 16188786
     }, 
     {
@@ -5524,6 +5866,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.203600000000002, 
       "x": -74.011600000000001, 
+      "latest_vote": "2013-08-07T01:56:41", 
       "id": 16188732
     }, 
     {
@@ -5541,6 +5884,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.583100000000002, 
       "x": -77.333799999999997, 
+      "latest_vote": "2013-08-06T19:12:09", 
       "id": 16188671
     }, 
     {
@@ -5558,6 +5902,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.583100000000002, 
       "x": -77.333799999999997, 
+      "latest_vote": "2013-08-07T00:28:25", 
       "id": 16188666
     }, 
     {
@@ -5575,6 +5920,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.685600000000001, 
       "x": -84.485200000000006, 
+      "latest_vote": "2013-08-07T00:28:11", 
       "id": 16188598
     }, 
     {
@@ -5592,6 +5938,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.830500000000001, 
       "x": -96.7727, 
+      "latest_vote": "2013-08-07T00:27:53", 
       "id": 16188558
     }, 
     {
@@ -5609,6 +5956,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.832099999999997, 
       "x": -73.999200000000002, 
+      "latest_vote": "2013-08-07T01:24:09", 
       "id": 16188477
     }, 
     {
@@ -5626,6 +5974,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.399000000000001, 
       "x": -71.123099999999994, 
+      "latest_vote": "2013-08-06T22:47:24", 
       "id": 16188461
     }, 
     {
@@ -5643,6 +5992,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.830500000000001, 
       "x": -96.7727, 
+      "latest_vote": "2013-08-06T19:17:05", 
       "id": 16188409
     }, 
     {
@@ -5660,6 +6010,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.411499999999997, 
       "x": -71.052199999999999, 
+      "latest_vote": "2013-08-07T00:30:41", 
       "id": 16188277
     }, 
     {
@@ -5677,6 +6028,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.3279, 
       "x": -76.744, 
+      "latest_vote": "2013-08-07T00:26:48", 
       "id": 16188245
     }, 
     {
@@ -5694,6 +6046,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.458399999999997, 
       "x": -122.685, 
+      "latest_vote": "2013-08-07T00:30:13", 
       "id": 16188228
     }, 
     {
@@ -5711,6 +6064,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.779800000000002, 
       "x": -122.489, 
+      "latest_vote": "2013-08-06T23:24:16", 
       "id": 16188221
     }, 
     {
@@ -5728,6 +6082,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 46.107799999999997, 
       "x": -97.638199999999998, 
+      "latest_vote": "2013-08-06T23:50:41", 
       "id": 16188211
     }, 
     {
@@ -5745,6 +6100,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.718800000000002, 
       "x": -122.15900000000001, 
+      "latest_vote": "2013-08-07T00:29:48", 
       "id": 16188108
     }, 
     {
@@ -5762,6 +6118,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.468200000000003, 
       "x": -81.513999999999996, 
+      "latest_vote": "2013-08-06T23:23:49", 
       "id": 16188059
     }, 
     {
@@ -5779,6 +6136,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.782600000000002, 
       "x": -122.43600000000001, 
+      "latest_vote": "2013-08-07T00:20:23", 
       "id": 16188037
     }, 
     {
@@ -5796,6 +6154,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 26.140499999999999, 
       "x": -80.1738, 
+      "latest_vote": "2013-08-06T23:20:13", 
       "id": 16188015
     }, 
     {
@@ -5813,6 +6172,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.940300000000001, 
       "x": -77.0886, 
+      "latest_vote": "2013-08-07T00:33:13", 
       "id": 16187926
     }, 
     {
@@ -5830,6 +6190,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.428400000000003, 
       "x": -76.769800000000004, 
+      "latest_vote": "2013-08-06T20:00:35", 
       "id": 16187914
     }, 
     {
@@ -5847,6 +6208,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.830500000000001, 
       "x": -96.7727, 
+      "latest_vote": "2013-08-07T00:33:28", 
       "id": 16187691
     }, 
     {
@@ -5864,6 +6226,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 28.364000000000001, 
       "x": -80.747, 
+      "latest_vote": "2013-08-06T22:06:10", 
       "id": 16187551
     }, 
     {
@@ -5881,6 +6244,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.330399999999997, 
       "x": -76.637200000000007, 
+      "latest_vote": "2013-08-07T00:33:52", 
       "id": 16187516
     }, 
     {
@@ -5898,6 +6262,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.658000000000001, 
       "x": -91.528099999999995, 
+      "latest_vote": "2013-08-06T20:37:01", 
       "id": 16187325
     }, 
     {
@@ -5915,6 +6280,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.830500000000001, 
       "x": -96.7727, 
+      "latest_vote": "2013-08-07T00:34:27", 
       "id": 16187290
     }, 
     {
@@ -5932,6 +6298,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.781799999999997, 
       "x": -69.980500000000006, 
+      "latest_vote": "2013-08-06T23:28:21", 
       "id": 16187238
     }, 
     {
@@ -5949,6 +6316,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.658000000000001, 
       "x": -91.528099999999995, 
+      "latest_vote": "2013-08-07T00:34:57", 
       "id": 16187130
     }, 
     {
@@ -5966,6 +6334,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.3688, 
       "x": -72.345799999999997, 
+      "latest_vote": "2013-08-06T23:28:37", 
       "id": 16187057
     }, 
     {
@@ -5983,6 +6352,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.032800000000002, 
       "x": -89.498099999999994, 
+      "latest_vote": "2013-08-06T19:17:50", 
       "id": 16187058
     }, 
     {
@@ -6000,6 +6370,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.940800000000003, 
       "x": -93.224500000000006, 
+      "latest_vote": "2013-08-07T00:35:17", 
       "id": 16186954
     }, 
     {
@@ -6017,6 +6388,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.817100000000003, 
       "x": -84.281899999999993, 
+      "latest_vote": "2013-08-07T00:38:06", 
       "id": 16186923
     }, 
     {
@@ -6034,6 +6406,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 26.383400000000002, 
       "x": -80.163200000000003, 
+      "latest_vote": "2013-08-06T19:18:19", 
       "id": 16186889
     }, 
     {
@@ -6051,6 +6424,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.209699999999998, 
       "x": -74.061999999999998, 
+      "latest_vote": "2013-08-07T00:35:50", 
       "id": 16186840
     }, 
     {
@@ -6068,6 +6442,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.017800000000001, 
       "x": -80.211299999999994, 
+      "latest_vote": "2013-08-06T23:29:26", 
       "id": 16186792
     }, 
     {
@@ -6085,6 +6460,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.745199999999997, 
       "x": -73.980800000000002, 
+      "latest_vote": "2013-08-07T00:36:05", 
       "id": 16186709
     }, 
     {
@@ -6102,6 +6478,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.798999999999999, 
       "x": -76.786000000000001, 
+      "latest_vote": "2013-08-06T23:29:52", 
       "id": 16186693
     }, 
     {
@@ -6119,6 +6496,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.085900000000002, 
       "x": -77.174400000000006, 
+      "latest_vote": "2013-08-06T22:51:35", 
       "id": 16186685
     }, 
     {
@@ -6136,6 +6514,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.754199999999997, 
       "x": -88.061000000000007, 
+      "latest_vote": "2013-08-06T22:51:31", 
       "id": 16186616
     }, 
     {
@@ -6153,6 +6532,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.770400000000002, 
       "x": -74.030900000000003, 
+      "latest_vote": "2013-08-06T22:20:57", 
       "id": 16186390
     }, 
     {
@@ -6170,6 +6550,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 25.671199999999999, 
       "x": -80.372299999999996, 
+      "latest_vote": "2013-08-06T23:34:40", 
       "id": 16186281
     }, 
     {
@@ -6187,6 +6568,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.054099999999998, 
       "x": -123.092, 
+      "latest_vote": "2013-08-06T23:34:36", 
       "id": 16186242
     }, 
     {
@@ -6204,6 +6586,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.628799999999998, 
       "x": -73.945800000000006, 
+      "latest_vote": "2013-08-07T00:39:54", 
       "id": 16186239
     }, 
     {
@@ -6221,6 +6604,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 25.986999999999998, 
       "x": -80.140500000000003, 
+      "latest_vote": "2013-08-06T23:33:52", 
       "id": 16186134
     }, 
     {
@@ -6238,6 +6622,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 27.921199999999999, 
       "x": -82.508499999999998, 
+      "latest_vote": "2013-08-07T00:39:19", 
       "id": 16186103
     }, 
     {
@@ -6255,6 +6640,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.841000000000001, 
       "x": -73.857200000000006, 
+      "latest_vote": "2013-08-06T22:10:08", 
       "id": 16186056
     }, 
     {
@@ -6272,6 +6658,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.8658, 
       "x": -83.892099999999999, 
+      "latest_vote": "2013-08-06T22:10:03", 
       "id": 16186001
     }, 
     {
@@ -6289,6 +6676,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.777200000000001, 
       "x": -71.436700000000002, 
+      "latest_vote": "2013-08-06T22:09:53", 
       "id": 16185982
     }, 
     {
@@ -6306,6 +6694,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.188200000000002, 
       "x": -85.441199999999995, 
+      "latest_vote": "2013-08-06T22:50:23", 
       "id": 16185937
     }, 
     {
@@ -6323,6 +6712,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.034199999999998, 
       "x": -76.126300000000001, 
+      "latest_vote": "2013-08-06T23:31:53", 
       "id": 16185930
     }, 
     {
@@ -6340,6 +6730,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.946800000000003, 
       "x": -93.290999999999997, 
+      "latest_vote": "2013-08-07T01:25:55", 
       "id": 16185902
     }, 
     {
@@ -6357,6 +6748,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.770400000000002, 
       "x": -74.030900000000003, 
+      "latest_vote": "2013-08-06T23:31:37", 
       "id": 16185895
     }, 
     {
@@ -6374,6 +6766,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 26.921299999999999, 
       "x": -80.075900000000004, 
+      "latest_vote": "2013-08-06T22:09:19", 
       "id": 16185868
     }, 
     {
@@ -6391,6 +6784,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.460599999999999, 
       "x": -117.19199999999999, 
+      "latest_vote": "2013-08-06T19:23:04", 
       "id": 16185851
     }, 
     {
@@ -6408,6 +6802,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.460599999999999, 
       "x": -117.19199999999999, 
+      "latest_vote": "2013-08-06T19:23:00", 
       "id": 16185765
     }, 
     {
@@ -6425,6 +6820,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 26.921299999999999, 
       "x": -80.075900000000004, 
+      "latest_vote": "2013-08-06T22:08:41", 
       "id": 16185717
     }, 
     {
@@ -6442,6 +6838,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.6584, 
       "x": -81.233400000000003, 
+      "latest_vote": "2013-08-06T23:30:57", 
       "id": 16185688
     }, 
     {
@@ -6459,6 +6856,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.2682, 
       "x": -84.942999999999998, 
+      "latest_vote": "2013-08-06T23:56:23", 
       "id": 16185653
     }, 
     {
@@ -6476,6 +6874,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.957500000000003, 
       "x": -118.398, 
+      "latest_vote": "2013-08-07T00:37:06", 
       "id": 16185617
     }, 
     {
@@ -6493,6 +6892,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.569600000000001, 
       "x": -81.525199999999998, 
+      "latest_vote": "2013-08-06T19:21:53", 
       "id": 16185594
     }, 
     {
@@ -6510,6 +6910,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 26.026299999999999, 
       "x": -80.189099999999996, 
+      "latest_vote": "2013-08-06T22:08:12", 
       "id": 16185539
     }, 
     {
@@ -6527,6 +6928,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.1389, 
       "x": -73.347999999999999, 
+      "latest_vote": "2013-08-06T22:54:56", 
       "id": 16185516
     }, 
     {
@@ -6544,6 +6946,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.883699999999997, 
       "x": -76.766300000000001, 
+      "latest_vote": "2013-08-06T22:11:00", 
       "id": 16185487
     }, 
     {
@@ -6561,6 +6964,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.581699999999998, 
       "x": -72.897900000000007, 
+      "latest_vote": "2013-08-07T00:41:20", 
       "id": 16185467
     }, 
     {
@@ -6578,6 +6982,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.962499999999999, 
       "x": -95.254499999999993, 
+      "latest_vote": "2013-08-06T19:21:04", 
       "id": 16185449
     }, 
     {
@@ -6595,6 +7000,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.366, 
       "x": -71.103499999999997, 
+      "latest_vote": "2013-08-07T00:41:40", 
       "id": 16185403
     }, 
     {
@@ -6612,6 +7018,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 45.840400000000002, 
       "x": -108.465, 
+      "latest_vote": "2013-08-07T00:12:12", 
       "id": 16185364
     }, 
     {
@@ -6629,6 +7036,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 26.383400000000002, 
       "x": -80.163200000000003, 
+      "latest_vote": "2013-08-06T22:11:42", 
       "id": 16185194
     }, 
     {
@@ -6646,6 +7054,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.774999999999999, 
       "x": -72.895700000000005, 
+      "latest_vote": "2013-08-07T01:30:28", 
       "id": 16185125
     }, 
     {
@@ -6663,6 +7072,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.745199999999997, 
       "x": -73.980800000000002, 
+      "latest_vote": "2013-08-07T00:56:44", 
       "id": 16185101
     }, 
     {
@@ -6680,6 +7090,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.116500000000002, 
       "x": -88.502200000000002, 
+      "latest_vote": "2013-08-07T00:43:37", 
       "id": 16185100
     }, 
     {
@@ -6697,6 +7108,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.5779, 
       "x": -71.643799999999999, 
+      "latest_vote": "2013-08-07T01:30:20", 
       "id": 16185052
     }, 
     {
@@ -6714,6 +7126,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.774999999999999, 
       "x": -72.895700000000005, 
+      "latest_vote": "2013-08-07T01:30:16", 
       "id": 16185056
     }, 
     {
@@ -6731,6 +7144,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.124200000000002, 
       "x": -79.460899999999995, 
+      "latest_vote": "2013-08-07T00:42:40", 
       "id": 16185019
     }, 
     {
@@ -6748,6 +7162,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.965800000000002, 
       "x": -83.003600000000006, 
+      "latest_vote": "2013-08-06T22:12:19", 
       "id": 16184980
     }, 
     {
@@ -6765,6 +7180,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.544600000000003, 
       "x": -83.213899999999995, 
+      "latest_vote": "2013-08-06T23:40:09", 
       "id": 16184956
     }, 
     {
@@ -6782,6 +7198,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 28.5105, 
       "x": -81.356999999999999, 
+      "latest_vote": "2013-08-06T20:09:38", 
       "id": 16184911
     }, 
     {
@@ -6799,6 +7216,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.774999999999999, 
       "x": -72.895700000000005, 
+      "latest_vote": "2013-08-06T22:59:17", 
       "id": 16184902
     }, 
     {
@@ -6816,6 +7234,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.745199999999997, 
       "x": -73.980800000000002, 
+      "latest_vote": "2013-08-06T22:59:12", 
       "id": 16184852
     }, 
     {
@@ -6833,6 +7252,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.756900000000002, 
       "x": -71.222200000000001, 
+      "latest_vote": "2013-08-07T00:07:50", 
       "id": 16184840
     }, 
     {
@@ -6850,6 +7270,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.384399999999999, 
       "x": -92.521100000000004, 
+      "latest_vote": "2013-08-06T22:59:03", 
       "id": 16184803
     }, 
     {
@@ -6867,6 +7288,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.613700000000001, 
       "x": -90.214299999999994, 
+      "latest_vote": "2013-08-06T19:26:08", 
       "id": 16184738
     }, 
     {
@@ -6884,6 +7306,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.714300000000001, 
       "x": -78.660600000000002, 
+      "latest_vote": "2013-08-06T23:44:01", 
       "id": 16184733
     }, 
     {
@@ -6901,6 +7324,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.286099999999998, 
       "x": -71.070599999999999, 
+      "latest_vote": "2013-08-06T23:43:59", 
       "id": 16184652
     }, 
     {
@@ -6918,6 +7342,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.770400000000002, 
       "x": -74.030900000000003, 
+      "latest_vote": "2013-08-06T21:11:14", 
       "id": 16184618
     }, 
     {
@@ -6935,6 +7360,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.530000000000001, 
       "x": -83.782799999999995, 
+      "latest_vote": "2013-08-06T22:58:34", 
       "id": 16184537
     }, 
     {
@@ -6952,6 +7378,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.785400000000003, 
       "x": -71.954800000000006, 
+      "latest_vote": "2013-08-06T22:13:48", 
       "id": 16184465
     }, 
     {
@@ -6969,6 +7396,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.198799999999999, 
       "x": -120.654, 
+      "latest_vote": "2013-08-06T23:43:26", 
       "id": 16184415
     }, 
     {
@@ -6986,6 +7414,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.745100000000001, 
       "x": -77.237099999999998, 
+      "latest_vote": "2013-08-06T22:14:03", 
       "id": 16184283
     }, 
     {
@@ -7003,6 +7432,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.468499999999999, 
       "x": -72.1768, 
+      "latest_vote": "2013-08-06T22:14:14", 
       "id": 16184251
     }, 
     {
@@ -7020,6 +7450,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.837699999999998, 
       "x": -93.480000000000004, 
+      "latest_vote": "2013-08-06T22:56:33", 
       "id": 16184218
     }, 
     {
@@ -7037,6 +7468,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.766300000000001, 
       "x": -83.278000000000006, 
+      "latest_vote": "2013-08-06T23:00:01", 
       "id": 16184213
     }, 
     {
@@ -7054,6 +7486,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.693600000000004, 
       "x": -73.926500000000004, 
+      "latest_vote": "2013-08-06T22:14:27", 
       "id": 16184138
     }, 
     {
@@ -7071,6 +7504,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.270800000000001, 
       "x": -83.808700000000002, 
+      "latest_vote": "2013-08-06T23:41:43", 
       "id": 16184118
     }, 
     {
@@ -7088,6 +7522,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.077199999999998, 
       "x": -72.0321, 
+      "latest_vote": "2013-08-07T01:31:15", 
       "id": 16184056
     }, 
     {
@@ -7105,6 +7540,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.897799999999997, 
       "x": -87.789000000000001, 
+      "latest_vote": "2013-08-07T01:11:34", 
       "id": 16183960
     }, 
     {
@@ -7122,6 +7558,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 26.355899999999998, 
       "x": -80.171599999999998, 
+      "latest_vote": "2013-08-06T22:14:47", 
       "id": 16183942
     }, 
     {
@@ -7139,6 +7576,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.756399999999999, 
       "x": -73.970299999999995, 
+      "latest_vote": "2013-08-06T23:59:46", 
       "id": 16183913
     }, 
     {
@@ -7156,6 +7594,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 27.072600000000001, 
       "x": -82.435500000000005, 
+      "latest_vote": "2013-08-06T22:14:59", 
       "id": 16183879
     }, 
     {
@@ -7173,6 +7612,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.357599999999998, 
       "x": -80.060000000000002, 
+      "latest_vote": "2013-08-06T23:01:03", 
       "id": 16183813
     }, 
     {
@@ -7190,6 +7630,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.753599999999999, 
       "x": -81.3249, 
+      "latest_vote": "2013-08-06T19:27:23", 
       "id": 16183803
     }, 
     {
@@ -7207,6 +7648,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.945900000000002, 
       "x": -76.253500000000003, 
+      "latest_vote": "2013-08-06T23:01:15", 
       "id": 16183772
     }, 
     {
@@ -7224,6 +7666,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.878999999999998, 
       "x": -77.020700000000005, 
+      "latest_vote": "2013-08-06T22:16:52", 
       "id": 16183736
     }, 
     {
@@ -7241,6 +7684,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.604599999999998, 
       "x": -75.746300000000005, 
+      "latest_vote": "2013-08-06T23:01:20", 
       "id": 16183730
     }, 
     {
@@ -7258,6 +7702,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.101500000000001, 
       "x": -122.211, 
+      "latest_vote": "2013-08-06T22:16:42", 
       "id": 16183713
     }, 
     {
@@ -7275,6 +7720,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.585799999999999, 
       "x": -73.657499999999999, 
+      "latest_vote": "2013-08-06T22:16:39", 
       "id": 16183683
     }, 
     {
@@ -7292,6 +7738,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.878999999999998, 
       "x": -77.020700000000005, 
+      "latest_vote": "2013-08-07T00:10:03", 
       "id": 16183599
     }, 
     {
@@ -7309,6 +7756,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.266599999999997, 
       "x": -71.617199999999997, 
+      "latest_vote": "2013-08-06T23:01:45", 
       "id": 16183546
     }, 
     {
@@ -7326,6 +7774,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.742600000000003, 
       "x": -73.949100000000001, 
+      "latest_vote": "2013-08-07T00:42:13", 
       "id": 16183533
     }, 
     {
@@ -7343,6 +7792,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.383000000000003, 
       "x": -71.427700000000002, 
+      "latest_vote": "2013-08-06T19:33:18", 
       "id": 16183526
     }, 
     {
@@ -7360,6 +7810,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.781399999999998, 
       "x": -71.084199999999996, 
+      "latest_vote": "2013-08-06T23:46:59", 
       "id": 16183493
     }, 
     {
@@ -7377,6 +7828,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.913899999999998, 
       "x": -69.824799999999996, 
+      "latest_vote": "2013-08-06T20:10:33", 
       "id": 16183439
     }, 
     {
@@ -7394,6 +7846,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.674199999999999, 
       "x": -73.709100000000007, 
+      "latest_vote": "2013-08-06T23:03:50", 
       "id": 16183435
     }, 
     {
@@ -7411,6 +7864,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.604599999999998, 
       "x": -75.746300000000005, 
+      "latest_vote": "2013-08-07T00:55:57", 
       "id": 16183415
     }, 
     {
@@ -7428,6 +7882,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.825699999999998, 
       "x": -86.688599999999994, 
+      "latest_vote": "2013-08-06T22:15:55", 
       "id": 16183407
     }, 
     {
@@ -7445,6 +7900,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.357599999999998, 
       "x": -80.060000000000002, 
+      "latest_vote": "2013-08-06T22:15:51", 
       "id": 16183380
     }, 
     {
@@ -7462,6 +7918,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 29.484100000000002, 
       "x": -82.864500000000007, 
+      "latest_vote": "2013-08-06T23:54:04", 
       "id": 16183368
     }, 
     {
@@ -7479,6 +7936,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.607599999999998, 
       "x": -82.312299999999993, 
+      "latest_vote": "2013-08-06T23:48:58", 
       "id": 16183358
     }, 
     {
@@ -7496,6 +7954,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.368699999999997, 
       "x": -117.21899999999999, 
+      "latest_vote": "2013-08-06T22:15:36", 
       "id": 16183346
     }, 
     {
@@ -7513,6 +7972,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.774500000000003, 
       "x": -77.381399999999999, 
+      "latest_vote": "2013-08-07T01:14:17", 
       "id": 16183342
     }, 
     {
@@ -7530,6 +7990,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.825699999999998, 
       "x": -86.688599999999994, 
+      "latest_vote": "2013-08-06T22:15:31", 
       "id": 16183285
     }, 
     {
@@ -7547,6 +8008,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.185699999999997, 
       "x": -70.913600000000002, 
+      "latest_vote": "2013-08-06T22:17:06", 
       "id": 16183286
     }, 
     {
@@ -7564,6 +8026,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.012300000000003, 
       "x": -73.163200000000003, 
+      "latest_vote": "2013-08-06T19:30:46", 
       "id": 16183234
     }, 
     {
@@ -7581,6 +8044,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.674599999999998, 
       "x": -82.017099999999999, 
+      "latest_vote": "2013-08-06T22:17:17", 
       "id": 16183194
     }, 
     {
@@ -7598,6 +8062,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.110999999999997, 
       "x": -76.139300000000006, 
+      "latest_vote": "2013-08-06T22:17:20", 
       "id": 16183182
     }, 
     {
@@ -7615,6 +8080,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 30.229399999999998, 
       "x": -95.510800000000003, 
+      "latest_vote": "2013-08-07T01:14:32", 
       "id": 16183137
     }, 
     {
@@ -7632,6 +8098,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 28.772099999999998, 
       "x": -82.591399999999993, 
+      "latest_vote": "2013-08-06T19:34:46", 
       "id": 16183122
     }, 
     {
@@ -7649,6 +8116,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.128100000000003, 
       "x": -72.5715, 
+      "latest_vote": "2013-08-06T22:17:40", 
       "id": 16183025
     }, 
     {
@@ -7666,6 +8134,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.774500000000003, 
       "x": -77.381399999999999, 
+      "latest_vote": "2013-08-06T23:55:38", 
       "id": 16182985
     }, 
     {
@@ -7683,6 +8152,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.585799999999999, 
       "x": -73.657499999999999, 
+      "latest_vote": "2013-08-06T23:55:36", 
       "id": 16182966
     }, 
     {
@@ -7700,6 +8170,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.042200000000001, 
       "x": -81.557500000000005, 
+      "latest_vote": "2013-08-06T23:40:54", 
       "id": 16182923
     }, 
     {
@@ -7717,6 +8188,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.272100000000002, 
       "x": -71.424800000000005, 
+      "latest_vote": "2013-08-06T23:08:31", 
       "id": 16182915
     }, 
     {
@@ -7734,6 +8206,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.787100000000002, 
       "x": -96.820300000000003, 
+      "latest_vote": "2013-08-06T23:04:07", 
       "id": 16182864
     }, 
     {
@@ -7751,6 +8224,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.2483, 
       "x": -73.7744, 
+      "latest_vote": "2013-08-06T23:04:11", 
       "id": 16182857
     }, 
     {
@@ -7768,6 +8242,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.906100000000002, 
       "x": -122.273, 
+      "latest_vote": "2013-08-07T00:42:45", 
       "id": 16182786
     }, 
     {
@@ -7785,6 +8260,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 27.6479, 
       "x": -80.360699999999994, 
+      "latest_vote": "2013-08-07T00:22:34", 
       "id": 16182732
     }, 
     {
@@ -7802,6 +8278,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.787100000000002, 
       "x": -96.820300000000003, 
+      "latest_vote": "2013-08-06T23:04:32", 
       "id": 16182734
     }, 
     {
@@ -7819,6 +8296,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 30.0928, 
       "x": -93.731999999999999, 
+      "latest_vote": "2013-08-06T23:54:00", 
       "id": 16182665
     }, 
     {
@@ -7836,6 +8314,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.781799999999997, 
       "x": -69.980500000000006, 
+      "latest_vote": "2013-08-06T23:53:43", 
       "id": 16182648
     }, 
     {
@@ -7853,6 +8332,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 30.345800000000001, 
       "x": -97.765600000000006, 
+      "latest_vote": "2013-08-06T23:53:41", 
       "id": 16182643
     }, 
     {
@@ -7870,6 +8350,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.787100000000002, 
       "x": -96.820300000000003, 
+      "latest_vote": "2013-08-07T00:15:38", 
       "id": 16182614
     }, 
     {
@@ -7887,6 +8368,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.284700000000001, 
       "x": -71.127700000000004, 
+      "latest_vote": "2013-08-07T00:17:47", 
       "id": 16182585
     }, 
     {
@@ -7904,6 +8386,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.906100000000002, 
       "x": -122.273, 
+      "latest_vote": "2013-08-06T23:05:12", 
       "id": 16182498
     }, 
     {
@@ -7921,6 +8404,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.456200000000003, 
       "x": -77.643799999999999, 
+      "latest_vote": "2013-08-06T23:05:23", 
       "id": 16182493
     }, 
     {
@@ -7938,6 +8422,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.490400000000001, 
       "x": -87.456900000000005, 
+      "latest_vote": "2013-08-06T22:19:32", 
       "id": 16182480
     }, 
     {
@@ -7955,6 +8440,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 29.6265, 
       "x": -98.445800000000006, 
+      "latest_vote": "2013-08-07T00:18:30", 
       "id": 16182469
     }, 
     {
@@ -7972,6 +8458,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.383000000000003, 
       "x": -71.427700000000002, 
+      "latest_vote": "2013-08-07T00:18:43", 
       "id": 16182460
     }, 
     {
@@ -7989,6 +8476,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.5214, 
       "x": -72.813100000000006, 
+      "latest_vote": "2013-08-07T00:19:48", 
       "id": 16182453
     }, 
     {
@@ -8006,6 +8494,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.058199999999999, 
       "x": -85.664900000000003, 
+      "latest_vote": "2013-08-06T23:05:56", 
       "id": 16182448
     }, 
     {
@@ -8023,6 +8512,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.945900000000002, 
       "x": -75.238900000000001, 
+      "latest_vote": "2013-08-06T19:43:29", 
       "id": 16182261
     }, 
     {
@@ -8040,6 +8530,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 46.503100000000003, 
       "x": -67.869900000000001, 
+      "latest_vote": "2013-08-07T00:20:10", 
       "id": 16182234
     }, 
     {
@@ -8057,6 +8548,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.808100000000003, 
       "x": -70.420900000000003, 
+      "latest_vote": "2013-08-07T00:21:23", 
       "id": 16182199
     }, 
     {
@@ -8074,6 +8566,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.738500000000002, 
       "x": -73.790000000000006, 
+      "latest_vote": "2013-08-07T00:21:31", 
       "id": 16182146
     }, 
     {
@@ -8091,6 +8584,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.547899999999998, 
       "x": -122.26900000000001, 
+      "latest_vote": "2013-08-07T00:21:37", 
       "id": 16182142
     }, 
     {
@@ -8108,6 +8602,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.8217, 
       "x": -86.146900000000002, 
+      "latest_vote": "2013-08-07T00:21:48", 
       "id": 16182122
     }, 
     {
@@ -8125,6 +8620,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 26.524799999999999, 
       "x": -80.1768, 
+      "latest_vote": "2013-08-07T00:28:40", 
       "id": 16182073
     }, 
     {
@@ -8142,6 +8638,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.9634, 
       "x": -78.516599999999997, 
+      "latest_vote": "2013-08-06T22:20:43", 
       "id": 16182012
     }, 
     {
@@ -8159,6 +8656,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.536700000000003, 
       "x": -82.680999999999997, 
+      "latest_vote": "2013-08-06T19:41:02", 
       "id": 16181997
     }, 
     {
@@ -8176,6 +8674,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.2836, 
       "x": -122.129, 
+      "latest_vote": null, 
       "id": 16181970
     }, 
     {
@@ -8193,6 +8692,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.7943, 
       "x": -75.534300000000002, 
+      "latest_vote": "2013-08-07T00:22:35", 
       "id": 16181956
     }, 
     {
@@ -8210,6 +8710,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.284700000000001, 
       "x": -71.127700000000004, 
+      "latest_vote": "2013-08-07T00:27:32", 
       "id": 16181945
     }, 
     {
@@ -8227,6 +8728,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.408200000000001, 
       "x": -84.617599999999996, 
+      "latest_vote": "2013-08-07T00:27:31", 
       "id": 16181904
     }, 
     {
@@ -8244,6 +8746,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.775300000000001, 
       "x": -74.393299999999996, 
+      "latest_vote": "2013-08-06T19:49:35", 
       "id": 16181809
     }, 
     {
@@ -8261,6 +8764,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.730200000000004, 
       "x": -99.293899999999994, 
+      "latest_vote": "2013-08-06T23:06:34", 
       "id": 16181773
     }, 
     {
@@ -8278,6 +8782,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.432099999999998, 
       "x": -71.056100000000001, 
+      "latest_vote": "2013-08-06T19:39:12", 
       "id": 16181635
     }, 
     {
@@ -8295,6 +8800,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.361199999999997, 
       "x": -69.1922, 
+      "latest_vote": "2013-08-07T00:26:53", 
       "id": 16181571
     }, 
     {
@@ -8312,6 +8818,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.811300000000003, 
       "x": -70.877300000000005, 
+      "latest_vote": "2013-08-06T23:06:25", 
       "id": 16181494
     }, 
     {
@@ -8329,6 +8836,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.274700000000003, 
       "x": -71.0899, 
+      "latest_vote": "2013-08-06T18:49:20", 
       "id": 16181492
     }, 
     {
@@ -8346,6 +8854,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.377499999999998, 
       "x": -71.131200000000007, 
+      "latest_vote": "2013-08-06T20:46:08", 
       "id": 16181491
     }, 
     {
@@ -8363,6 +8872,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.756900000000002, 
       "x": -71.222200000000001, 
+      "latest_vote": "2013-08-06T20:18:11", 
       "id": 16181475
     }, 
     {
@@ -8380,6 +8890,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.3307, 
       "x": -72.6751, 
+      "latest_vote": "2013-08-06T20:32:37", 
       "id": 16181454
     }, 
     {
@@ -8397,6 +8908,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.6798, 
       "x": -117.18899999999999, 
+      "latest_vote": "2013-08-06T23:57:25", 
       "id": 16181315
     }, 
     {
@@ -8414,6 +8926,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.371299999999998, 
       "x": -71.180400000000006, 
+      "latest_vote": "2013-08-07T00:25:48", 
       "id": 16181311
     }, 
     {
@@ -8431,6 +8944,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.421300000000002, 
       "x": -71.113399999999999, 
+      "latest_vote": "2013-08-07T00:11:27", 
       "id": 16181276
     }, 
     {
@@ -8448,6 +8962,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.411900000000003, 
       "x": -71.176500000000004, 
+      "latest_vote": "2013-08-06T20:03:10", 
       "id": 16181188
     }, 
     {
@@ -8465,6 +8980,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.252099999999999, 
       "x": -75.085999999999999, 
+      "latest_vote": "2013-08-06T18:48:45", 
       "id": 16181081
     }, 
     {
@@ -8482,6 +8998,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.381799999999998, 
       "x": -71.103200000000001, 
+      "latest_vote": "2013-08-07T00:23:50", 
       "id": 16181017
     }, 
     {
@@ -8499,6 +9016,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.381799999999998, 
       "x": -71.103200000000001, 
+      "latest_vote": "2013-08-07T00:23:11", 
       "id": 16181016
     }, 
     {
@@ -8516,6 +9034,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.381799999999998, 
       "x": -71.103200000000001, 
+      "latest_vote": "2013-08-07T01:17:43", 
       "id": 16181015
     }, 
     {
@@ -8533,6 +9052,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.381799999999998, 
       "x": -71.103200000000001, 
+      "latest_vote": "2013-08-07T00:22:45", 
       "id": 16181014
     }, 
     {
@@ -8550,6 +9070,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.381799999999998, 
       "x": -71.103200000000001, 
+      "latest_vote": "2013-08-07T00:28:39", 
       "id": 16181013
     }, 
     {
@@ -8567,6 +9088,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.7806, 
       "x": -116.461, 
+      "latest_vote": "2013-08-07T00:28:25", 
       "id": 16181008
     }, 
     {
@@ -8584,6 +9106,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.381799999999998, 
       "x": -71.103200000000001, 
+      "latest_vote": "2013-08-07T01:17:24", 
       "id": 16180998
     }, 
     {
@@ -8601,6 +9124,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.624499999999998, 
       "x": -117.794, 
+      "latest_vote": "2013-08-07T00:28:47", 
       "id": 16180989
     }, 
     {
@@ -8618,6 +9142,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.624499999999998, 
       "x": -117.794, 
+      "latest_vote": "2013-08-07T00:28:57", 
       "id": 16180986
     }, 
     {
@@ -8635,6 +9160,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.624499999999998, 
       "x": -117.794, 
+      "latest_vote": "2013-08-07T00:29:13", 
       "id": 16180953
     }, 
     {
@@ -8652,6 +9178,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.689399999999999, 
       "x": -72.935400000000001, 
+      "latest_vote": "2013-08-06T18:51:44", 
       "id": 16180823
     }, 
     {
@@ -8669,6 +9196,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.687100000000001, 
       "x": -73.074399999999997, 
+      "latest_vote": "2013-08-07T00:29:28", 
       "id": 16180815
     }, 
     {
@@ -8686,6 +9214,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.101500000000001, 
       "x": -118.452, 
+      "latest_vote": "2013-08-06T17:52:06", 
       "id": 16180798
     }, 
     {
@@ -8703,6 +9232,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.784300000000002, 
       "x": -117.018, 
+      "latest_vote": "2013-08-07T00:22:02", 
       "id": 16180573
     }, 
     {
@@ -8720,6 +9250,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.358699999999999, 
       "x": -121.184, 
+      "latest_vote": "2013-08-07T00:29:49", 
       "id": 16180456
     }, 
     {
@@ -8737,6 +9268,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.866599999999998, 
       "x": -118.048, 
+      "latest_vote": "2013-08-06T23:39:42", 
       "id": 16180445
     }, 
     {
@@ -8754,6 +9286,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.489199999999997, 
       "x": -118.197, 
+      "latest_vote": "2013-08-06T19:31:42", 
       "id": 16180444
     }, 
     {
@@ -8771,6 +9304,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.142299999999999, 
       "x": -118.126, 
+      "latest_vote": "2013-08-06T20:21:33", 
       "id": 16180370
     }, 
     {
@@ -8788,6 +9322,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 20.770099999999999, 
       "x": -156.32499999999999, 
+      "latest_vote": "2013-08-06T23:10:34", 
       "id": 16180369
     }, 
     {
@@ -8805,6 +9340,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.170900000000003, 
       "x": -118.343, 
+      "latest_vote": "2013-08-06T23:39:36", 
       "id": 16180271
     }, 
     {
@@ -8822,6 +9358,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.985500000000002, 
       "x": -118.453, 
+      "latest_vote": "2013-08-07T00:31:35", 
       "id": 16180196
     }, 
     {
@@ -8839,6 +9376,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.1995, 
       "x": -118.54000000000001, 
+      "latest_vote": "2013-08-07T00:32:46", 
       "id": 16180126
     }, 
     {
@@ -8856,6 +9394,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.3521, 
       "x": -72.044200000000004, 
+      "latest_vote": "2013-08-06T20:43:27", 
       "id": 16180112
     }, 
     {
@@ -8873,6 +9412,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.3521, 
       "x": -72.044200000000004, 
+      "latest_vote": "2013-08-06T20:43:42", 
       "id": 16180082
     }, 
     {
@@ -8890,6 +9430,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.087000000000003, 
       "x": -115.13800000000001, 
+      "latest_vote": "2013-08-06T18:54:06", 
       "id": 16180075
     }, 
     {
@@ -8907,6 +9448,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 21.925599999999999, 
       "x": -159.52699999999999, 
+      "latest_vote": "2013-08-06T20:11:59", 
       "id": 16180038
     }, 
     {
@@ -8924,6 +9466,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.686100000000003, 
       "x": -121.381, 
+      "latest_vote": "2013-08-07T00:37:30", 
       "id": 16180029
     }, 
     {
@@ -8941,6 +9484,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.3521, 
       "x": -72.044200000000004, 
+      "latest_vote": "2013-08-06T20:43:50", 
       "id": 16180006
     }, 
     {
@@ -8958,6 +9502,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.793900000000001, 
       "x": -116.96599999999999, 
+      "latest_vote": null, 
       "id": 16179978
     }, 
     {
@@ -8975,6 +9520,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.739699999999999, 
       "x": -122.333, 
+      "latest_vote": "2013-08-06T18:31:37", 
       "id": 16179970
     }, 
     {
@@ -8992,6 +9538,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.3521, 
       "x": -72.044200000000004, 
+      "latest_vote": null, 
       "id": 16179958
     }, 
     {
@@ -9009,6 +9556,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.3521, 
       "x": -72.044200000000004, 
+      "latest_vote": "2013-08-06T18:56:38", 
       "id": 16179948
     }, 
     {
@@ -9026,6 +9574,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.6997, 
       "x": -105.967, 
+      "latest_vote": "2013-08-07T00:36:19", 
       "id": 16179945
     }, 
     {
@@ -9043,6 +9592,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.079099999999997, 
       "x": -106.617, 
+      "latest_vote": "2013-08-07T00:35:22", 
       "id": 16179926
     }, 
     {
@@ -9060,6 +9610,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.158299999999997, 
       "x": -122.634, 
+      "latest_vote": "2013-08-06T23:09:48", 
       "id": 16179925
     }, 
     {
@@ -9077,6 +9628,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.144599999999997, 
       "x": -118.39, 
+      "latest_vote": "2013-08-07T00:38:01", 
       "id": 16179832
     }, 
     {
@@ -9094,6 +9646,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.651200000000003, 
       "x": -117.59399999999999, 
+      "latest_vote": "2013-08-06T19:44:32", 
       "id": 16179812
     }, 
     {
@@ -9111,6 +9664,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.809199999999997, 
       "x": -118.349, 
+      "latest_vote": "2013-08-06T23:10:58", 
       "id": 16179810
     }, 
     {
@@ -9128,6 +9682,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.651200000000003, 
       "x": -117.59399999999999, 
+      "latest_vote": "2013-08-06T18:52:42", 
       "id": 16179807
     }, 
     {
@@ -9145,6 +9700,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.464799999999997, 
       "x": -118.64100000000001, 
+      "latest_vote": "2013-08-06T15:53:24", 
       "id": 16179802
     }, 
     {
@@ -9162,6 +9718,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.651200000000003, 
       "x": -117.59399999999999, 
+      "latest_vote": "2013-08-06T20:25:30", 
       "id": 16179800
     }, 
     {
@@ -9179,6 +9736,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.651200000000003, 
       "x": -117.59399999999999, 
+      "latest_vote": "2013-08-06T20:03:35", 
       "id": 16179784
     }, 
     {
@@ -9196,6 +9754,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.001800000000003, 
       "x": -118.395, 
+      "latest_vote": "2013-08-06T20:44:28", 
       "id": 16179728
     }, 
     {
@@ -9213,6 +9772,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.4831, 
       "x": -122.13, 
+      "latest_vote": null, 
       "id": 16179715
     }, 
     {
@@ -9230,6 +9790,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.829900000000002, 
       "x": -118.315, 
+      "latest_vote": "2013-08-06T20:49:03", 
       "id": 16179691
     }, 
     {
@@ -9247,6 +9808,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.829900000000002, 
       "x": -118.315, 
+      "latest_vote": "2013-08-06T23:39:12", 
       "id": 16179677
     }, 
     {
@@ -9264,6 +9826,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.001800000000003, 
       "x": -118.395, 
+      "latest_vote": "2013-08-06T20:12:24", 
       "id": 16179638
     }, 
     {
@@ -9281,6 +9844,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.2819, 
       "x": -118.438, 
+      "latest_vote": "2013-08-06T18:56:00", 
       "id": 16179636
     }, 
     {
@@ -9298,6 +9862,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.923900000000003, 
       "x": -83.877200000000002, 
+      "latest_vote": "2013-08-06T23:11:48", 
       "id": 16179460
     }, 
     {
@@ -9315,6 +9880,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.147100000000002, 
       "x": -89.406899999999993, 
+      "latest_vote": "2013-08-06T17:52:10", 
       "id": 16179434
     }, 
     {
@@ -9332,6 +9898,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.885599999999997, 
       "x": -92.860600000000005, 
+      "latest_vote": "2013-08-07T00:39:20", 
       "id": 16179303
     }, 
     {
@@ -9349,6 +9916,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.180799999999998, 
       "x": -94.167699999999996, 
+      "latest_vote": "2013-08-06T18:56:22", 
       "id": 16179256
     }, 
     {
@@ -9366,6 +9934,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.180799999999998, 
       "x": -94.167699999999996, 
+      "latest_vote": "2013-08-06T20:22:00", 
       "id": 16179251
     }, 
     {
@@ -9383,6 +9952,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.180799999999998, 
       "x": -94.167699999999996, 
+      "latest_vote": "2013-08-06T20:12:33", 
       "id": 16179248
     }, 
     {
@@ -9400,6 +9970,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.244900000000001, 
       "x": -110.92100000000001, 
+      "latest_vote": null, 
       "id": 16179247
     }, 
     {
@@ -9417,6 +9988,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.180799999999998, 
       "x": -94.167699999999996, 
+      "latest_vote": "2013-08-06T19:41:57", 
       "id": 16179242
     }, 
     {
@@ -9434,6 +10006,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.758800000000001, 
       "x": -111.86499999999999, 
+      "latest_vote": "2013-08-06T20:22:13", 
       "id": 16179236
     }, 
     {
@@ -9451,6 +10024,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.016199999999998, 
       "x": -88.267899999999997, 
+      "latest_vote": "2013-08-06T20:22:23", 
       "id": 16179179
     }, 
     {
@@ -9468,6 +10042,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.016800000000003, 
       "x": -106.756, 
+      "latest_vote": "2013-08-06T18:56:54", 
       "id": 16179162
     }, 
     {
@@ -9485,6 +10060,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.180199999999999, 
       "x": -88.331500000000005, 
+      "latest_vote": "2013-08-06T23:13:01", 
       "id": 16178941
     }, 
     {
@@ -9502,6 +10078,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.180199999999999, 
       "x": -88.331500000000005, 
+      "latest_vote": "2013-08-06T19:42:05", 
       "id": 16178893
     }, 
     {
@@ -9519,6 +10096,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.828899999999997, 
       "x": -105.03700000000001, 
+      "latest_vote": "2013-08-06T23:12:59", 
       "id": 16178792
     }, 
     {
@@ -9536,6 +10114,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.828899999999997, 
       "x": -105.03700000000001, 
+      "latest_vote": "2013-08-07T01:27:35", 
       "id": 16178788
     }, 
     {
@@ -9553,6 +10132,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.624099999999999, 
       "x": -122.04900000000001, 
+      "latest_vote": "2013-08-07T00:42:36", 
       "id": 16178749
     }, 
     {
@@ -9570,6 +10150,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.497999999999998, 
       "x": -112.377, 
+      "latest_vote": "2013-08-06T20:33:18", 
       "id": 16178746
     }, 
     {
@@ -9587,6 +10168,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.8996, 
       "x": -91.087000000000003, 
+      "latest_vote": "2013-08-06T20:22:34", 
       "id": 16178740
     }, 
     {
@@ -9604,6 +10186,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.8996, 
       "x": -91.087000000000003, 
+      "latest_vote": "2013-08-06T20:52:07", 
       "id": 16178618
     }, 
     {
@@ -9621,6 +10204,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.030500000000004, 
       "x": -87.691800000000001, 
+      "latest_vote": "2013-08-06T18:58:48", 
       "id": 16178617
     }, 
     {
@@ -9638,6 +10222,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.8996, 
       "x": -91.087000000000003, 
+      "latest_vote": "2013-08-06T18:58:28", 
       "id": 16178596
     }, 
     {
@@ -9655,6 +10240,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.875500000000002, 
       "x": -93.374399999999994, 
+      "latest_vote": "2013-08-07T00:46:29", 
       "id": 16178587
     }, 
     {
@@ -9672,6 +10258,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 45.492800000000003, 
       "x": -122.73, 
+      "latest_vote": "2013-08-07T00:45:55", 
       "id": 16178485
     }, 
     {
@@ -9689,6 +10276,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.403199999999998, 
       "x": -123.358, 
+      "latest_vote": "2013-08-07T00:46:01", 
       "id": 16178438
     }, 
     {
@@ -9706,6 +10294,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.763100000000001, 
       "x": -122.29000000000001, 
+      "latest_vote": "2013-08-07T00:45:51", 
       "id": 16178433
     }, 
     {
@@ -9723,6 +10312,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.8611, 
       "x": -122.762, 
+      "latest_vote": "2013-08-06T18:57:42", 
       "id": 16178426
     }, 
     {
@@ -9740,6 +10330,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.875500000000002, 
       "x": -93.374399999999994, 
+      "latest_vote": "2013-08-06T20:51:21", 
       "id": 16178322
     }, 
     {
@@ -9757,6 +10348,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.875500000000002, 
       "x": -93.374399999999994, 
+      "latest_vote": "2013-08-06T23:14:46", 
       "id": 16178313
     }, 
     {
@@ -9774,6 +10366,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.875500000000002, 
       "x": -93.374399999999994, 
+      "latest_vote": "2013-08-06T23:14:50", 
       "id": 16178307
     }, 
     {
@@ -9791,6 +10384,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.875500000000002, 
       "x": -93.374399999999994, 
+      "latest_vote": "2013-08-07T00:43:42", 
       "id": 16178298
     }, 
     {
@@ -9808,6 +10402,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.875500000000002, 
       "x": -93.374399999999994, 
+      "latest_vote": "2013-08-07T00:43:36", 
       "id": 16178291
     }, 
     {
@@ -9825,6 +10420,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.875500000000002, 
       "x": -93.374399999999994, 
+      "latest_vote": "2013-08-07T00:39:56", 
       "id": 16178283
     }, 
     {
@@ -9842,6 +10438,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.072299999999998, 
       "x": -106.578, 
+      "latest_vote": "2013-08-07T01:32:21", 
       "id": 16178177
     }, 
     {
@@ -9859,6 +10456,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 29.467199999999998, 
       "x": -98.530000000000001, 
+      "latest_vote": "2013-08-06T18:59:50", 
       "id": 16178120
     }, 
     {
@@ -9876,6 +10474,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.582000000000001, 
       "x": -90.264200000000002, 
+      "latest_vote": "2013-08-06T19:47:41", 
       "id": 16178101
     }, 
     {
@@ -9893,6 +10492,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.618400000000001, 
       "x": -105.96299999999999, 
+      "latest_vote": "2013-08-06T19:42:11", 
       "id": 16178094
     }, 
     {
@@ -9910,6 +10510,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.627499999999998, 
       "x": -112.05200000000001, 
+      "latest_vote": "2013-08-07T01:21:40", 
       "id": 16178048
     }, 
     {
@@ -9927,6 +10528,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.840000000000003, 
       "x": -116.90300000000001, 
+      "latest_vote": "2013-08-07T00:47:53", 
       "id": 16178033
     }, 
     {
@@ -9944,6 +10546,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.739699999999999, 
       "x": -122.333, 
+      "latest_vote": "2013-08-07T00:48:25", 
       "id": 16178019
     }, 
     {
@@ -9961,6 +10564,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.6417, 
       "x": -123.553, 
+      "latest_vote": "2013-08-07T00:49:07", 
       "id": 16178004
     }, 
     {
@@ -9978,6 +10582,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.573300000000003, 
       "x": -87.880399999999995, 
+      "latest_vote": "2013-08-07T00:49:11", 
       "id": 16177973
     }, 
     {
@@ -9995,6 +10600,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.357399999999998, 
       "x": -111.045, 
+      "latest_vote": "2013-08-07T01:45:55", 
       "id": 16177944
     }, 
     {
@@ -10012,6 +10618,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.134799999999998, 
       "x": -106.51900000000001, 
+      "latest_vote": "2013-08-06T20:33:56", 
       "id": 16177937
     }, 
     {
@@ -10029,6 +10636,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 29.467199999999998, 
       "x": -98.530000000000001, 
+      "latest_vote": null, 
       "id": 16177908
     }, 
     {
@@ -10046,6 +10654,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.044199999999996, 
       "x": -88.110200000000006, 
+      "latest_vote": "2013-08-06T22:22:23", 
       "id": 16177906
     }, 
     {
@@ -10063,6 +10672,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 31.528600000000001, 
       "x": -110.26000000000001, 
+      "latest_vote": "2013-08-07T00:50:20", 
       "id": 16177895
     }, 
     {
@@ -10080,6 +10690,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.357399999999998, 
       "x": -111.045, 
+      "latest_vote": "2013-08-07T00:11:00", 
       "id": 16177841
     }, 
     {
@@ -10097,6 +10708,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.357399999999998, 
       "x": -111.045, 
+      "latest_vote": "2013-08-07T00:56:10", 
       "id": 16177840
     }, 
     {
@@ -10114,6 +10726,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.357399999999998, 
       "x": -111.045, 
+      "latest_vote": "2013-08-07T00:26:46", 
       "id": 16177825
     }, 
     {
@@ -10131,6 +10744,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.093299999999999, 
       "x": -71.404399999999995, 
+      "latest_vote": "2013-08-07T01:22:25", 
       "id": 16177811
     }, 
     {
@@ -10148,6 +10762,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.057400000000001, 
       "x": -123.188, 
+      "latest_vote": "2013-08-07T00:51:08", 
       "id": 16177784
     }, 
     {
@@ -10165,6 +10780,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.599299999999999, 
       "x": -105.107, 
+      "latest_vote": "2013-08-06T22:22:34", 
       "id": 16177768
     }, 
     {
@@ -10182,6 +10798,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.393599999999999, 
       "x": -111.846, 
+      "latest_vote": "2013-08-06T19:33:28", 
       "id": 16177681
     }, 
     {
@@ -10199,6 +10816,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.393599999999999, 
       "x": -111.846, 
+      "latest_vote": "2013-08-07T00:32:25", 
       "id": 16177645
     }, 
     {
@@ -10216,6 +10834,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.293599999999998, 
       "x": -122.392, 
+      "latest_vote": "2013-08-06T23:17:29", 
       "id": 16177499
     }, 
     {
@@ -10233,6 +10852,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.621099999999998, 
       "x": -105.967, 
+      "latest_vote": "2013-08-07T00:52:07", 
       "id": 16177435
     }, 
     {
@@ -10250,6 +10870,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.5139, 
       "x": -91.801500000000004, 
+      "latest_vote": "2013-08-06T23:17:15", 
       "id": 16177259
     }, 
     {
@@ -10267,6 +10888,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.857500000000002, 
       "x": -96.597099999999998, 
+      "latest_vote": "2013-08-06T20:04:01", 
       "id": 16177035
     }, 
     {
@@ -10284,6 +10906,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.433799999999998, 
       "x": -97.5184, 
+      "latest_vote": "2013-08-07T00:25:41", 
       "id": 16176968
     }, 
     {
@@ -10301,6 +10924,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.566400000000002, 
       "x": -91.671800000000005, 
+      "latest_vote": "2013-08-06T19:42:30", 
       "id": 16176933
     }, 
     {
@@ -10318,6 +10942,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.939500000000002, 
       "x": -122.017, 
+      "latest_vote": "2013-08-07T00:56:22", 
       "id": 16176917
     }, 
     {
@@ -10335,6 +10960,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.517000000000003, 
       "x": -96.789599999999993, 
+      "latest_vote": "2013-08-07T01:29:05", 
       "id": 16176855
     }, 
     {
@@ -10352,6 +10978,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 20.770099999999999, 
       "x": -156.32499999999999, 
+      "latest_vote": "2013-08-06T18:31:06", 
       "id": 16176775
     }, 
     {
@@ -10369,6 +10996,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.2744, 
       "x": -110.82899999999999, 
+      "latest_vote": "2013-08-06T19:01:33", 
       "id": 16176749
     }, 
     {
@@ -10386,6 +11014,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.2744, 
       "x": -110.82899999999999, 
+      "latest_vote": "2013-08-06T20:34:06", 
       "id": 16176747
     }, 
     {
@@ -10403,6 +11032,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.390700000000002, 
       "x": -97.553899999999999, 
+      "latest_vote": null, 
       "id": 16176746
     }, 
     {
@@ -10420,6 +11050,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.2744, 
       "x": -110.82899999999999, 
+      "latest_vote": "2013-08-06T20:41:37", 
       "id": 16176745
     }, 
     {
@@ -10437,6 +11068,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.2744, 
       "x": -110.82899999999999, 
+      "latest_vote": "2013-08-06T23:19:16", 
       "id": 16176743
     }, 
     {
@@ -10454,6 +11086,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 45.547400000000003, 
       "x": -122.63800000000001, 
+      "latest_vote": "2013-08-06T23:19:20", 
       "id": 16176737
     }, 
     {
@@ -10471,6 +11104,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.2744, 
       "x": -110.82899999999999, 
+      "latest_vote": "2013-08-06T19:34:46", 
       "id": 16176736
     }, 
     {
@@ -10488,6 +11122,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.2744, 
       "x": -110.82899999999999, 
+      "latest_vote": "2013-08-06T23:19:37", 
       "id": 16176724
     }, 
     {
@@ -10505,6 +11140,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.2744, 
       "x": -110.82899999999999, 
+      "latest_vote": "2013-08-07T00:24:12", 
       "id": 16176723
     }, 
     {
@@ -10522,6 +11158,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.2744, 
       "x": -110.82899999999999, 
+      "latest_vote": "2013-08-06T23:42:11", 
       "id": 16176721
     }, 
     {
@@ -10539,6 +11176,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.2744, 
       "x": -110.82899999999999, 
+      "latest_vote": "2013-08-06T20:12:51", 
       "id": 16176718
     }, 
     {
@@ -10556,6 +11194,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.2744, 
       "x": -110.82899999999999, 
+      "latest_vote": "2013-08-06T19:32:02", 
       "id": 16176713
     }, 
     {
@@ -10573,6 +11212,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.2744, 
       "x": -110.82899999999999, 
+      "latest_vote": "2013-08-06T20:22:58", 
       "id": 16176707
     }, 
     {
@@ -10590,6 +11230,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.2744, 
       "x": -110.82899999999999, 
+      "latest_vote": "2013-08-06T23:20:13", 
       "id": 16176690
     }, 
     {
@@ -10607,6 +11248,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.2744, 
       "x": -110.82899999999999, 
+      "latest_vote": "2013-08-06T23:53:55", 
       "id": 16176673
     }, 
     {
@@ -10624,6 +11266,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.474600000000002, 
       "x": -112.01300000000001, 
+      "latest_vote": "2013-08-07T00:57:51", 
       "id": 16176669
     }, 
     {
@@ -10641,6 +11284,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.2744, 
       "x": -110.82899999999999, 
+      "latest_vote": "2013-08-06T23:20:19", 
       "id": 16176668
     }, 
     {
@@ -10658,6 +11302,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.2744, 
       "x": -110.82899999999999, 
+      "latest_vote": "2013-08-07T00:58:22", 
       "id": 16176666
     }, 
     {
@@ -10675,6 +11320,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.6357, 
       "x": -87.738600000000005, 
+      "latest_vote": "2013-08-06T16:23:27", 
       "id": 16176660
     }, 
     {
@@ -10692,6 +11338,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.930399999999999, 
       "x": -77.028199999999998, 
+      "latest_vote": "2013-08-06T19:32:09", 
       "id": 16176655
     }, 
     {
@@ -10709,6 +11356,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.8795, 
       "x": -111.75, 
+      "latest_vote": "2013-08-06T23:20:37", 
       "id": 16176653
     }, 
     {
@@ -10726,6 +11374,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.6327, 
       "x": -122.322, 
+      "latest_vote": "2013-08-07T00:59:06", 
       "id": 16176614
     }, 
     {
@@ -10743,6 +11392,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.424700000000001, 
       "x": -93.096299999999999, 
+      "latest_vote": "2013-08-07T00:59:20", 
       "id": 16176613
     }, 
     {
@@ -10760,6 +11410,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 45.5749, 
       "x": -122.68899999999999, 
+      "latest_vote": "2013-08-06T18:21:15", 
       "id": 16176587
     }, 
     {
@@ -10777,6 +11428,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.6877, 
       "x": -122.19199999999999, 
+      "latest_vote": "2013-08-07T00:23:42", 
       "id": 16176565
     }, 
     {
@@ -10794,6 +11446,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 20.7331, 
       "x": -156.44999999999999, 
+      "latest_vote": "2013-08-07T00:59:50", 
       "id": 16176546
     }, 
     {
@@ -10811,6 +11464,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.0428, 
       "x": -88.079700000000003, 
+      "latest_vote": "2013-08-06T23:42:40", 
       "id": 16176545
     }, 
     {
@@ -10828,6 +11482,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.326799999999999, 
       "x": -107.831, 
+      "latest_vote": "2013-08-07T01:00:09", 
       "id": 16176491
     }, 
     {
@@ -10845,6 +11500,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 21.289400000000001, 
       "x": -157.755, 
+      "latest_vote": "2013-08-07T01:00:22", 
       "id": 16176483
     }, 
     {
@@ -10862,6 +11518,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 31.138400000000001, 
       "x": -97.934200000000004, 
+      "latest_vote": "2013-08-06T23:21:48", 
       "id": 16176482
     }, 
     {
@@ -10879,6 +11536,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.107500000000002, 
       "x": -106.57599999999999, 
+      "latest_vote": "2013-08-07T01:01:09", 
       "id": 16176481
     }, 
     {
@@ -10896,6 +11554,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 31.138400000000001, 
       "x": -97.934200000000004, 
+      "latest_vote": "2013-08-07T01:01:11", 
       "id": 16176473
     }, 
     {
@@ -10913,6 +11572,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.080500000000001, 
       "x": -123.07299999999999, 
+      "latest_vote": "2013-08-06T19:21:12", 
       "id": 16176441
     }, 
     {
@@ -10930,6 +11590,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 29.816800000000001, 
       "x": -95.522499999999994, 
+      "latest_vote": "2013-08-06T23:21:26", 
       "id": 16176423
     }, 
     {
@@ -10947,6 +11608,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.3215, 
       "x": -124.089, 
+      "latest_vote": "2013-08-06T19:57:34", 
       "id": 16176398
     }, 
     {
@@ -10964,6 +11626,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.032800000000002, 
       "x": -89.498099999999994, 
+      "latest_vote": "2013-08-07T01:04:52", 
       "id": 16176313
     }, 
     {
@@ -10981,6 +11644,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.675400000000003, 
       "x": -104.962, 
+      "latest_vote": "2013-08-06T20:57:04", 
       "id": 16176309
     }, 
     {
@@ -10998,6 +11662,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.928800000000003, 
       "x": -104.946, 
+      "latest_vote": "2013-08-07T01:04:33", 
       "id": 16176285
     }, 
     {
@@ -11015,6 +11680,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.928800000000003, 
       "x": -104.946, 
+      "latest_vote": "2013-08-07T01:04:31", 
       "id": 16176283
     }, 
     {
@@ -11032,6 +11698,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.928800000000003, 
       "x": -104.946, 
+      "latest_vote": "2013-08-07T01:04:28", 
       "id": 16176282
     }, 
     {
@@ -11049,6 +11716,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 31.066299999999998, 
       "x": -98.180700000000002, 
+      "latest_vote": "2013-08-06T20:45:08", 
       "id": 16176250
     }, 
     {
@@ -11066,6 +11734,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.928800000000003, 
       "x": -104.946, 
+      "latest_vote": "2013-08-06T20:24:04", 
       "id": 16176248
     }, 
     {
@@ -11083,6 +11752,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.928800000000003, 
       "x": -104.946, 
+      "latest_vote": "2013-08-07T01:03:32", 
       "id": 16176232
     }, 
     {
@@ -11100,6 +11770,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.928800000000003, 
       "x": -104.946, 
+      "latest_vote": "2013-08-07T01:46:44", 
       "id": 16176201
     }, 
     {
@@ -11117,6 +11788,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.134799999999998, 
       "x": -106.51900000000001, 
+      "latest_vote": "2013-08-06T19:57:52", 
       "id": 16176173
     }, 
     {
@@ -11134,6 +11806,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.552500000000002, 
       "x": -119.717, 
+      "latest_vote": "2013-08-06T18:49:33", 
       "id": 16176110
     }, 
     {
@@ -11151,6 +11824,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.593600000000002, 
       "x": -112.10899999999999, 
+      "latest_vote": "2013-08-07T01:02:19", 
       "id": 16176088
     }, 
     {
@@ -11168,6 +11842,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.7134, 
       "x": -111.889, 
+      "latest_vote": "2013-08-06T23:26:52", 
       "id": 16176054
     }, 
     {
@@ -11185,6 +11860,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.816600000000001, 
       "x": -104.77800000000001, 
+      "latest_vote": "2013-08-06T19:42:10", 
       "id": 16176019
     }, 
     {
@@ -11202,6 +11878,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.430500000000002, 
       "x": -111.84099999999999, 
+      "latest_vote": "2013-08-07T00:10:26", 
       "id": 16176012
     }, 
     {
@@ -11219,6 +11896,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.502800000000001, 
       "x": -111.747, 
+      "latest_vote": "2013-08-06T20:04:17", 
       "id": 16176007
     }, 
     {
@@ -11236,6 +11914,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.125300000000003, 
       "x": -84.866600000000005, 
+      "latest_vote": "2013-08-07T01:31:36", 
       "id": 16176001
     }, 
     {
@@ -11253,6 +11932,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.751899999999999, 
       "x": -92.345699999999994, 
+      "latest_vote": "2013-08-06T22:22:28", 
       "id": 16175982
     }, 
     {
@@ -11270,6 +11950,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.441499999999998, 
       "x": -105.369, 
+      "latest_vote": "2013-08-06T18:19:44", 
       "id": 16175981
     }, 
     {
@@ -11287,6 +11968,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.430500000000002, 
       "x": -111.84099999999999, 
+      "latest_vote": "2013-08-06T19:15:11", 
       "id": 16175962
     }, 
     {
@@ -11304,6 +11986,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.580100000000002, 
       "x": -116.21899999999999, 
+      "latest_vote": "2013-08-07T00:33:33", 
       "id": 16175948
     }, 
     {
@@ -11321,6 +12004,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.063000000000002, 
       "x": -103.28100000000001, 
+      "latest_vote": "2013-08-06T23:59:34", 
       "id": 16175927
     }, 
     {
@@ -11338,6 +12022,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.697099999999999, 
       "x": -97.433000000000007, 
+      "latest_vote": "2013-08-07T01:07:04", 
       "id": 16175899
     }, 
     {
@@ -11355,6 +12040,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.788899999999998, 
       "x": -107.199, 
+      "latest_vote": "2013-08-07T01:07:22", 
       "id": 16175895
     }, 
     {
@@ -11372,6 +12058,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.545200000000001, 
       "x": -90.619699999999995, 
+      "latest_vote": "2013-08-06T19:52:55", 
       "id": 16175872
     }, 
     {
@@ -11389,6 +12076,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.165900000000001, 
       "x": -93.499200000000002, 
+      "latest_vote": "2013-08-06T23:27:47", 
       "id": 16175871
     }, 
     {
@@ -11406,6 +12094,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.545200000000001, 
       "x": -90.619699999999995, 
+      "latest_vote": "2013-08-06T19:42:52", 
       "id": 16175867
     }, 
     {
@@ -11423,6 +12112,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.545200000000001, 
       "x": -90.619699999999995, 
+      "latest_vote": "2013-08-05T02:41:52", 
       "id": 16175866
     }, 
     {
@@ -11440,6 +12130,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.464700000000001, 
       "x": -87.698999999999998, 
+      "latest_vote": "2013-08-07T01:08:16", 
       "id": 16175865
     }, 
     {
@@ -11457,6 +12148,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.545200000000001, 
       "x": -90.619699999999995, 
+      "latest_vote": "2013-08-07T01:08:31", 
       "id": 16175855
     }, 
     {
@@ -11474,6 +12166,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.545200000000001, 
       "x": -90.619699999999995, 
+      "latest_vote": "2013-08-07T01:08:35", 
       "id": 16175852
     }, 
     {
@@ -11491,6 +12184,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.545200000000001, 
       "x": -90.619699999999995, 
+      "latest_vote": "2013-08-06T18:20:31", 
       "id": 16175844
     }, 
     {
@@ -11508,6 +12202,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.545200000000001, 
       "x": -90.619699999999995, 
+      "latest_vote": "2013-08-07T01:09:04", 
       "id": 16175815
     }, 
     {
@@ -11525,6 +12220,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.840000000000003, 
       "x": -116.90300000000001, 
+      "latest_vote": "2013-08-07T01:09:23", 
       "id": 16175805
     }, 
     {
@@ -11542,6 +12238,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.727400000000003, 
       "x": -98.046199999999999, 
+      "latest_vote": "2013-08-06T23:56:49", 
       "id": 16175785
     }, 
     {
@@ -11559,6 +12256,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.749099999999999, 
       "x": -83.969499999999996, 
+      "latest_vote": "2013-08-07T01:09:43", 
       "id": 16175773
     }, 
     {
@@ -11576,6 +12274,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.173999999999999, 
       "x": -87.964299999999994, 
+      "latest_vote": "2013-08-07T02:22:15", 
       "id": 16175740
     }, 
     {
@@ -11593,6 +12292,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.173999999999999, 
       "x": -87.964299999999994, 
+      "latest_vote": "2013-08-07T01:29:44", 
       "id": 16175729
     }, 
     {
@@ -11610,6 +12310,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.241799999999998, 
       "x": -110.947, 
+      "latest_vote": "2013-08-07T02:02:24", 
       "id": 16175691
     }, 
     {
@@ -11627,6 +12328,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.317599999999999, 
       "x": -88.909300000000002, 
+      "latest_vote": "2013-08-06T23:56:52", 
       "id": 16175641
     }, 
     {
@@ -11644,6 +12346,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.317599999999999, 
       "x": -88.909300000000002, 
+      "latest_vote": "2013-08-06T23:58:03", 
       "id": 16175637
     }, 
     {
@@ -11661,6 +12364,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.317599999999999, 
       "x": -88.909300000000002, 
+      "latest_vote": "2013-08-06T23:28:44", 
       "id": 16175636
     }, 
     {
@@ -11678,6 +12382,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 25.989999999999998, 
       "x": -81.5334, 
+      "latest_vote": "2013-08-06T23:28:40", 
       "id": 16175635
     }, 
     {
@@ -11695,6 +12400,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.317599999999999, 
       "x": -88.909300000000002, 
+      "latest_vote": "2013-08-07T01:28:40", 
       "id": 16175634
     }, 
     {
@@ -11712,6 +12418,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.317599999999999, 
       "x": -88.909300000000002, 
+      "latest_vote": "2013-08-07T00:33:45", 
       "id": 16175625
     }, 
     {
@@ -11729,6 +12436,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.125900000000001, 
       "x": -87.946799999999996, 
+      "latest_vote": "2013-08-05T02:49:00", 
       "id": 16175624
     }, 
     {
@@ -11746,6 +12454,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 25.989999999999998, 
       "x": -81.5334, 
+      "latest_vote": "2013-08-07T02:02:56", 
       "id": 16175584
     }, 
     {
@@ -11763,6 +12472,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 25.989999999999998, 
       "x": -81.5334, 
+      "latest_vote": "2013-08-07T01:44:58", 
       "id": 16175571
     }, 
     {
@@ -11780,6 +12490,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.131300000000003, 
       "x": -103.032, 
+      "latest_vote": "2013-08-07T01:29:21", 
       "id": 16175570
     }, 
     {
@@ -11797,6 +12508,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.791800000000002, 
       "x": -122.304, 
+      "latest_vote": "2013-08-07T00:46:36", 
       "id": 16175552
     }, 
     {
@@ -11814,6 +12526,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.924199999999999, 
       "x": -88.840800000000002, 
+      "latest_vote": "2013-08-06T19:53:08", 
       "id": 16175507
     }, 
     {
@@ -11831,6 +12544,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 25.989999999999998, 
       "x": -81.5334, 
+      "latest_vote": "2013-08-07T01:30:08", 
       "id": 16175500
     }, 
     {
@@ -11848,6 +12562,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.6327, 
       "x": -122.322, 
+      "latest_vote": "2013-08-06T23:53:20", 
       "id": 16175493
     }, 
     {
@@ -11865,6 +12580,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.6327, 
       "x": -122.322, 
+      "latest_vote": "2013-08-06T19:32:28", 
       "id": 16175490
     }, 
     {
@@ -11882,6 +12598,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.011000000000003, 
       "x": -119.84099999999999, 
+      "latest_vote": "2013-08-07T00:16:37", 
       "id": 16175485
     }, 
     {
@@ -11899,6 +12616,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.670699999999997, 
       "x": -97.281000000000006, 
+      "latest_vote": "2013-08-06T16:00:00", 
       "id": 16175465
     }, 
     {
@@ -11916,6 +12634,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.670699999999997, 
       "x": -97.281000000000006, 
+      "latest_vote": "2013-08-06T20:13:17", 
       "id": 16175414
     }, 
     {
@@ -11933,6 +12652,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.670699999999997, 
       "x": -97.281000000000006, 
+      "latest_vote": "2013-08-06T19:47:12", 
       "id": 16175389
     }, 
     {
@@ -11950,6 +12670,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 30.664300000000001, 
       "x": -98.577699999999993, 
+      "latest_vote": "2013-08-07T02:04:40", 
       "id": 16175348
     }, 
     {
@@ -11967,6 +12688,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 18.385200000000001, 
       "x": -66.063100000000006, 
+      "latest_vote": "2013-08-07T02:04:29", 
       "id": 16175312
     }, 
     {
@@ -11984,6 +12706,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 30.5364, 
       "x": -90.107200000000006, 
+      "latest_vote": "2013-08-06T23:54:26", 
       "id": 16175276
     }, 
     {
@@ -12001,6 +12724,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.648299999999999, 
       "x": -122.53400000000001, 
+      "latest_vote": "2013-08-06T19:42:52", 
       "id": 16175274
     }, 
     {
@@ -12018,6 +12742,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.256599999999999, 
       "x": -106.697, 
+      "latest_vote": "2013-08-06T20:25:13", 
       "id": 16175261
     }, 
     {
@@ -12035,6 +12760,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.728499999999997, 
       "x": -104.95399999999999, 
+      "latest_vote": "2013-08-07T02:04:16", 
       "id": 16175230
     }, 
     {
@@ -12052,6 +12778,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.499499999999998, 
       "x": -124.056, 
+      "latest_vote": "2013-08-06T20:25:20", 
       "id": 16175192
     }, 
     {
@@ -12069,6 +12796,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 29.833500000000001, 
       "x": -95.4739, 
+      "latest_vote": "2013-08-06T19:41:38", 
       "id": 16175177
     }, 
     {
@@ -12086,6 +12814,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.632399999999997, 
       "x": -112.11199999999999, 
+      "latest_vote": "2013-08-06T23:30:52", 
       "id": 16175119
     }, 
     {
@@ -12103,6 +12832,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.045400000000001, 
       "x": -105.21299999999999, 
+      "latest_vote": "2013-08-07T00:10:23", 
       "id": 16175112
     }, 
     {
@@ -12120,6 +12850,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.6858, 
       "x": -111.82899999999999, 
+      "latest_vote": "2013-08-06T16:23:44", 
       "id": 16175101
     }, 
     {
@@ -12137,6 +12868,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.981200000000001, 
       "x": -89.729699999999994, 
+      "latest_vote": "2013-08-07T01:45:21", 
       "id": 16175078
     }, 
     {
@@ -12154,6 +12886,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.827199999999998, 
       "x": -88.216499999999996, 
+      "latest_vote": null, 
       "id": 16175008
     }, 
     {
@@ -12171,6 +12904,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.993000000000002, 
       "x": -105.071, 
+      "latest_vote": null, 
       "id": 16174971
     }, 
     {
@@ -12188,6 +12922,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.9039, 
       "x": -93.573099999999997, 
+      "latest_vote": "2013-08-04T21:24:22", 
       "id": 16174969
     }, 
     {
@@ -12205,6 +12940,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.925800000000002, 
       "x": -124.45399999999999, 
+      "latest_vote": "2013-08-06T23:43:22", 
       "id": 16174951
     }, 
     {
@@ -12222,6 +12958,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.701599999999999, 
       "x": -97.382199999999997, 
+      "latest_vote": "2013-08-04T21:10:10", 
       "id": 16174914
     }, 
     {
@@ -12239,6 +12976,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.256, 
       "x": -115.14100000000001, 
+      "latest_vote": "2013-08-06T23:43:16", 
       "id": 16174911
     }, 
     {
@@ -12256,6 +12994,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.633400000000002, 
       "x": -106.95399999999999, 
+      "latest_vote": "2013-08-07T00:29:09", 
       "id": 16174903
     }, 
     {
@@ -12273,6 +13012,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.848199999999999, 
       "x": -88.8416, 
+      "latest_vote": "2013-08-06T23:49:13", 
       "id": 16174899
     }, 
     {
@@ -12290,6 +13030,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.517000000000003, 
       "x": -96.789599999999993, 
+      "latest_vote": "2013-08-06T23:43:02", 
       "id": 16174887
     }, 
     {
@@ -12307,6 +13048,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.756100000000004, 
       "x": -97.135800000000003, 
+      "latest_vote": "2013-08-06T18:25:01", 
       "id": 16174881
     }, 
     {
@@ -12324,6 +13066,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 30.082699999999999, 
       "x": -97.843900000000005, 
+      "latest_vote": "2013-08-06T16:23:34", 
       "id": 16174880
     }, 
     {
@@ -12341,6 +13084,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.513500000000001, 
       "x": -112.053, 
+      "latest_vote": "2013-08-06T20:45:42", 
       "id": 16174877
     }, 
     {
@@ -12358,6 +13102,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 0.0, 
       "x": 0.0, 
+      "latest_vote": "2013-08-04T21:12:36", 
       "id": 16174850
     }, 
     {
@@ -12375,6 +13120,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.968200000000003, 
       "x": -96.583299999999994, 
+      "latest_vote": "2013-08-06T23:42:57", 
       "id": 16174806
     }, 
     {
@@ -12392,6 +13138,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.730600000000003, 
       "x": -123.911, 
+      "latest_vote": "2013-08-06T21:20:50", 
       "id": 16174677
     }, 
     {
@@ -12409,6 +13156,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.730600000000003, 
       "x": -123.911, 
+      "latest_vote": "2013-08-06T23:42:53", 
       "id": 16174618
     }, 
     {
@@ -12426,6 +13174,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.730600000000003, 
       "x": -123.911, 
+      "latest_vote": "2013-08-07T01:57:03", 
       "id": 16174584
     }, 
     {
@@ -12443,6 +13192,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.8996, 
       "x": -91.087000000000003, 
+      "latest_vote": "2013-08-06T20:13:39", 
       "id": 16174578
     }, 
     {
@@ -12460,6 +13210,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.9236, 
       "x": -87.653400000000005, 
+      "latest_vote": "2013-08-06T23:42:47", 
       "id": 16174554
     }, 
     {
@@ -12477,6 +13228,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.104500000000002, 
       "x": -115.068, 
+      "latest_vote": "2013-08-06T20:35:17", 
       "id": 16174526
     }, 
     {
@@ -12494,6 +13246,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.840800000000002, 
       "x": -122.337, 
+      "latest_vote": "2013-08-06T19:21:52", 
       "id": 16174498
     }, 
     {
@@ -12511,6 +13264,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.593699999999998, 
       "x": -112.176, 
+      "latest_vote": "2013-08-07T00:54:17", 
       "id": 16174492
     }, 
     {
@@ -12528,6 +13282,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.309899999999999, 
       "x": -122.31399999999999, 
+      "latest_vote": "2013-08-06T20:13:58", 
       "id": 16174490
     }, 
     {
@@ -12545,6 +13300,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.008099999999999, 
       "x": -87.706000000000003, 
+      "latest_vote": "2013-08-06T22:08:15", 
       "id": 16174483
     }, 
     {
@@ -12562,6 +13318,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.5869, 
       "x": -122.298, 
+      "latest_vote": "2013-08-06T23:53:48", 
       "id": 16174466
     }, 
     {
@@ -12579,6 +13336,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.625599999999999, 
       "x": -123.066, 
+      "latest_vote": "2013-08-06T21:00:28", 
       "id": 16174444
     }, 
     {
@@ -12596,6 +13354,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.155900000000003, 
       "x": -86.789299999999997, 
+      "latest_vote": "2013-08-06T18:59:48", 
       "id": 16174419
     }, 
     {
@@ -12613,6 +13372,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 29.906400000000001, 
       "x": -95.655199999999994, 
+      "latest_vote": "2013-08-06T14:56:32", 
       "id": 16174394
     }, 
     {
@@ -12630,6 +13390,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 30.2668, 
       "x": -97.714299999999994, 
+      "latest_vote": null, 
       "id": 16174392
     }, 
     {
@@ -12647,6 +13408,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.621099999999998, 
       "x": -105.967, 
+      "latest_vote": "2013-08-06T23:43:48", 
       "id": 16174384
     }, 
     {
@@ -12664,6 +13426,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.632399999999997, 
       "x": -112.11199999999999, 
+      "latest_vote": "2013-08-06T23:43:50", 
       "id": 16174342
     }, 
     {
@@ -12681,6 +13444,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.632399999999997, 
       "x": -112.11199999999999, 
+      "latest_vote": "2013-08-06T19:30:40", 
       "id": 16174337
     }, 
     {
@@ -12698,6 +13462,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.632399999999997, 
       "x": -112.11199999999999, 
+      "latest_vote": "2013-08-06T17:42:43", 
       "id": 16174336
     }, 
     {
@@ -12715,6 +13480,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.632399999999997, 
       "x": -112.11199999999999, 
+      "latest_vote": "2013-08-06T19:08:30", 
       "id": 16174335
     }, 
     {
@@ -12732,6 +13498,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.632399999999997, 
       "x": -112.11199999999999, 
+      "latest_vote": "2013-08-07T00:20:23", 
       "id": 16174334
     }, 
     {
@@ -12749,6 +13516,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.632399999999997, 
       "x": -112.11199999999999, 
+      "latest_vote": "2013-08-06T18:31:47", 
       "id": 16174333
     }, 
     {
@@ -12766,6 +13534,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.632399999999997, 
       "x": -112.11199999999999, 
+      "latest_vote": "2013-08-07T01:29:09", 
       "id": 16174331
     }, 
     {
@@ -12783,6 +13552,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.632399999999997, 
       "x": -112.11199999999999, 
+      "latest_vote": "2013-08-06T23:58:52", 
       "id": 16174330
     }, 
     {
@@ -12800,6 +13570,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.632399999999997, 
       "x": -112.11199999999999, 
+      "latest_vote": null, 
       "id": 16174326
     }, 
     {
@@ -12817,6 +13588,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.632399999999997, 
       "x": -112.11199999999999, 
+      "latest_vote": "2013-08-07T01:45:28", 
       "id": 16174323
     }, 
     {
@@ -12834,6 +13606,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.632399999999997, 
       "x": -112.11199999999999, 
+      "latest_vote": "2013-08-05T23:17:07", 
       "id": 16174322
     }, 
     {
@@ -12851,6 +13624,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.632399999999997, 
       "x": -112.11199999999999, 
+      "latest_vote": "2013-08-07T00:22:43", 
       "id": 16174319
     }, 
     {
@@ -12868,6 +13642,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.383699999999997, 
       "x": -86.132499999999993, 
+      "latest_vote": null, 
       "id": 16174298
     }, 
     {
@@ -12885,6 +13660,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 19.6647, 
       "x": -155.98099999999999, 
+      "latest_vote": "2013-08-06T15:47:23", 
       "id": 16174284
     }, 
     {
@@ -12902,6 +13678,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 46.144799999999996, 
       "x": -122.88, 
+      "latest_vote": "2013-08-05T23:20:22", 
       "id": 16174273
     }, 
     {
@@ -12919,6 +13696,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.828000000000003, 
       "x": -93.378200000000007, 
+      "latest_vote": "2013-08-06T23:55:32", 
       "id": 16174163
     }, 
     {
@@ -12936,6 +13714,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.658099999999997, 
       "x": -96.183199999999999, 
+      "latest_vote": "2013-08-07T00:02:15", 
       "id": 16174143
     }, 
     {
@@ -12953,6 +13732,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.979399999999998, 
       "x": -91.718900000000005, 
+      "latest_vote": "2013-08-07T01:29:57", 
       "id": 16174109
     }, 
     {
@@ -12970,6 +13750,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.5259, 
       "x": -89.774000000000001, 
+      "latest_vote": "2013-08-06T20:35:59", 
       "id": 16174098
     }, 
     {
@@ -12987,6 +13768,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 45.689799999999998, 
       "x": -123.884, 
+      "latest_vote": "2013-08-07T01:27:57", 
       "id": 16174072
     }, 
     {
@@ -13004,6 +13786,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.319000000000003, 
       "x": -89.540599999999998, 
+      "latest_vote": "2013-08-06T23:44:59", 
       "id": 16174044
     }, 
     {
@@ -13021,6 +13804,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 45.522100000000002, 
       "x": -123.107, 
+      "latest_vote": "2013-08-06T23:44:57", 
       "id": 16174014
     }, 
     {
@@ -13038,6 +13822,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.9711, 
       "x": -87.829400000000007, 
+      "latest_vote": null, 
       "id": 16173939
     }, 
     {
@@ -13055,6 +13840,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.534199999999998, 
       "x": -105.04300000000001, 
+      "latest_vote": "2013-08-07T00:35:09", 
       "id": 16173929
     }, 
     {
@@ -13072,6 +13858,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.534199999999998, 
       "x": -105.04300000000001, 
+      "latest_vote": "2013-08-07T01:25:09", 
       "id": 16173921
     }, 
     {
@@ -13089,6 +13876,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.534199999999998, 
       "x": -105.04300000000001, 
+      "latest_vote": "2013-08-06T23:44:46", 
       "id": 16173913
     }, 
     {
@@ -13106,6 +13894,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.534199999999998, 
       "x": -105.04300000000001, 
+      "latest_vote": "2013-08-06T22:20:24", 
       "id": 16173906
     }, 
     {
@@ -13123,6 +13912,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.534199999999998, 
       "x": -105.04300000000001, 
+      "latest_vote": "2013-08-06T23:44:38", 
       "id": 16173895
     }, 
     {
@@ -13140,6 +13930,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.921999999999997, 
       "x": -88.304199999999994, 
+      "latest_vote": "2013-08-07T00:30:12", 
       "id": 16173767
     }, 
     {
@@ -13157,6 +13948,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.418199999999999, 
       "x": -122.452, 
+      "latest_vote": "2013-08-06T20:36:09", 
       "id": 16173756
     }, 
     {
@@ -13174,6 +13966,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.049799999999998, 
       "x": -109.425, 
+      "latest_vote": "2013-08-06T23:45:42", 
       "id": 16173690
     }, 
     {
@@ -13191,6 +13984,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.829900000000002, 
       "x": -97.616200000000006, 
+      "latest_vote": "2013-08-06T21:50:07", 
       "id": 16173684
     }, 
     {
@@ -13208,6 +14002,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 31.119800000000001, 
       "x": -97.729699999999994, 
+      "latest_vote": "2013-08-06T20:36:25", 
       "id": 16173683
     }, 
     {
@@ -13225,6 +14020,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 45.013100000000001, 
       "x": -123.101, 
+      "latest_vote": "2013-08-06T16:25:22", 
       "id": 16173660
     }, 
     {
@@ -13242,6 +14038,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 29.969200000000001, 
       "x": -90.029600000000002, 
+      "latest_vote": "2013-08-06T23:53:56", 
       "id": 16173625
     }, 
     {
@@ -13259,6 +14056,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.543799999999997, 
       "x": -101.89, 
+      "latest_vote": "2013-08-06T19:36:31", 
       "id": 16173607
     }, 
     {
@@ -13276,6 +14074,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 46.796599999999998, 
       "x": -92.094499999999996, 
+      "latest_vote": "2013-08-06T18:36:34", 
       "id": 16173554
     }, 
     {
@@ -13293,6 +14092,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 22.078800000000001, 
       "x": -159.34999999999999, 
+      "latest_vote": "2013-08-06T20:25:44", 
       "id": 16173553
     }, 
     {
@@ -13310,6 +14110,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.4358, 
       "x": -90.904399999999995, 
+      "latest_vote": null, 
       "id": 16173544
     }, 
     {
@@ -13327,6 +14128,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.909999999999997, 
       "x": -87.866600000000005, 
+      "latest_vote": "2013-08-06T18:38:12", 
       "id": 16173530
     }, 
     {
@@ -13344,6 +14146,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 45.209600000000002, 
       "x": -123.218, 
+      "latest_vote": "2013-08-07T01:44:27", 
       "id": 16173512
     }, 
     {
@@ -13361,6 +14164,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.283799999999999, 
       "x": -115.306, 
+      "latest_vote": "2013-08-06T23:46:06", 
       "id": 16173490
     }, 
     {
@@ -13378,6 +14182,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.151400000000002, 
       "x": -97.821399999999997, 
+      "latest_vote": "2013-08-05T03:08:50", 
       "id": 16173463
     }, 
     {
@@ -13395,6 +14200,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.838799999999999, 
       "x": -122.85899999999999, 
+      "latest_vote": "2013-08-07T01:28:50", 
       "id": 16173438
     }, 
     {
@@ -13412,6 +14218,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.057400000000001, 
       "x": -123.188, 
+      "latest_vote": "2013-08-06T23:46:11", 
       "id": 16173418
     }, 
     {
@@ -13429,6 +14236,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.946800000000003, 
       "x": -93.290999999999997, 
+      "latest_vote": "2013-08-06T23:46:17", 
       "id": 16173412
     }, 
     {
@@ -13446,6 +14254,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.929900000000004, 
       "x": -118.999, 
+      "latest_vote": "2013-08-06T20:46:34", 
       "id": 16173411
     }, 
     {
@@ -13463,6 +14272,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 31.119800000000001, 
       "x": -97.729699999999994, 
+      "latest_vote": "2013-08-06T19:53:39", 
       "id": 16173404
     }, 
     {
@@ -13480,6 +14290,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.309899999999999, 
       "x": -122.31399999999999, 
+      "latest_vote": "2013-08-06T23:55:17", 
       "id": 16173397
     }, 
     {
@@ -13497,6 +14308,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 29.697399999999998, 
       "x": -95.587000000000003, 
+      "latest_vote": "2013-08-06T19:41:03", 
       "id": 16173378
     }, 
     {
@@ -13514,6 +14326,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.869399999999999, 
       "x": -96.409000000000006, 
+      "latest_vote": "2013-08-06T20:25:52", 
       "id": 16173366
     }, 
     {
@@ -13531,6 +14344,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.528100000000002, 
       "x": -96.503299999999996, 
+      "latest_vote": "2013-08-06T16:27:06", 
       "id": 16173362
     }, 
     {
@@ -13548,6 +14362,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.528100000000002, 
       "x": -96.503299999999996, 
+      "latest_vote": "2013-08-06T19:58:45", 
       "id": 16173341
     }, 
     {
@@ -13565,6 +14380,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.079099999999997, 
       "x": -106.617, 
+      "latest_vote": "2013-08-06T19:53:41", 
       "id": 16173338
     }, 
     {
@@ -13582,6 +14398,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.831099999999999, 
       "x": -84.048199999999994, 
+      "latest_vote": "2013-08-07T02:10:52", 
       "id": 16173335
     }, 
     {
@@ -13599,6 +14416,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.858499999999999, 
       "x": -106.20099999999999, 
+      "latest_vote": "2013-08-06T19:42:55", 
       "id": 16173334
     }, 
     {
@@ -13616,6 +14434,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.831099999999999, 
       "x": -84.048199999999994, 
+      "latest_vote": "2013-08-06T14:51:59", 
       "id": 16173329
     }, 
     {
@@ -13633,6 +14452,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.831099999999999, 
       "x": -84.048199999999994, 
+      "latest_vote": "2013-08-06T23:55:00", 
       "id": 16173327
     }, 
     {
@@ -13650,6 +14470,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.831099999999999, 
       "x": -84.048199999999994, 
+      "latest_vote": "2013-08-07T00:45:09", 
       "id": 16173323
     }, 
     {
@@ -13667,6 +14488,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.955300000000001, 
       "x": -87.948800000000006, 
+      "latest_vote": "2013-08-07T01:40:05", 
       "id": 16173320
     }, 
     {
@@ -13684,6 +14506,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.955300000000001, 
       "x": -87.948800000000006, 
+      "latest_vote": "2013-08-07T00:09:19", 
       "id": 16173312
     }, 
     {
@@ -13701,6 +14524,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.528100000000002, 
       "x": -96.503299999999996, 
+      "latest_vote": "2013-08-05T23:32:29", 
       "id": 16173307
     }, 
     {
@@ -13718,6 +14542,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.309600000000003, 
       "x": -82.381200000000007, 
+      "latest_vote": "2013-08-06T20:26:05", 
       "id": 16173305
     }, 
     {
@@ -13735,6 +14560,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 36.0974, 
       "x": -114.92400000000001, 
+      "latest_vote": "2013-08-06T16:06:36", 
       "id": 16173293
     }, 
     {
@@ -13752,6 +14578,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 37.670699999999997, 
       "x": -97.281000000000006, 
+      "latest_vote": "2013-08-06T18:49:57", 
       "id": 16173287
     }, 
     {
@@ -13769,6 +14596,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.938899999999997, 
       "x": -105.79600000000001, 
+      "latest_vote": "2013-08-06T19:23:45", 
       "id": 16173280
     }, 
     {
@@ -13786,6 +14614,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.590200000000003, 
       "x": -105.19799999999999, 
+      "latest_vote": "2013-08-06T18:05:05", 
       "id": 16173271
     }, 
     {
@@ -13803,6 +14632,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.247599999999998, 
       "x": -96.811199999999999, 
+      "latest_vote": "2013-08-07T02:19:01", 
       "id": 16173264
     }, 
     {
@@ -13820,6 +14650,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.247599999999998, 
       "x": -96.811199999999999, 
+      "latest_vote": "2013-08-07T02:20:07", 
       "id": 16173259
     }, 
     {
@@ -13837,6 +14668,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.095700000000001, 
       "x": -87.711100000000002, 
+      "latest_vote": "2013-08-07T01:26:23", 
       "id": 16173257
     }, 
     {
@@ -13854,6 +14686,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.521099999999997, 
       "x": -123.29600000000001, 
+      "latest_vote": "2013-08-05T03:12:44", 
       "id": 16173249
     }, 
     {
@@ -13871,6 +14704,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.247599999999998, 
       "x": -96.811199999999999, 
+      "latest_vote": "2013-08-07T01:29:29", 
       "id": 16173244
     }, 
     {
@@ -13888,6 +14722,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.780299999999997, 
       "x": -90.623999999999995, 
+      "latest_vote": "2013-08-06T16:28:20", 
       "id": 16173232
     }, 
     {
@@ -13905,6 +14740,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 45.979399999999998, 
       "x": -94.362399999999994, 
+      "latest_vote": "2013-08-06T19:37:18", 
       "id": 16173227
     }, 
     {
@@ -13922,6 +14758,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 48.498899999999999, 
       "x": -122.607, 
+      "latest_vote": "2013-08-07T00:54:30", 
       "id": 16173225
     }, 
     {
@@ -13939,6 +14776,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.780299999999997, 
       "x": -90.623999999999995, 
+      "latest_vote": "2013-08-06T21:05:44", 
       "id": 16173224
     }, 
     {
@@ -13956,6 +14794,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.646999999999998, 
       "x": -87.620699999999999, 
+      "latest_vote": "2013-08-06T23:47:30", 
       "id": 16173222
     }, 
     {
@@ -13973,6 +14812,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.244900000000001, 
       "x": -110.92100000000001, 
+      "latest_vote": "2013-08-07T00:30:28", 
       "id": 16173220
     }, 
     {
@@ -13990,6 +14830,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 30.038799999999998, 
       "x": -99.151300000000006, 
+      "latest_vote": "2013-08-06T19:29:05", 
       "id": 16173216
     }, 
     {
@@ -14007,6 +14848,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 30.397200000000002, 
       "x": -97.751800000000003, 
+      "latest_vote": "2013-08-07T02:19:52", 
       "id": 16173210
     }, 
     {
@@ -14024,6 +14866,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.718000000000004, 
       "x": -112.006, 
+      "latest_vote": "2013-08-06T20:26:36", 
       "id": 16173207
     }, 
     {
@@ -14041,6 +14884,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 45.458300000000001, 
       "x": -122.797, 
+      "latest_vote": "2013-08-07T00:16:45", 
       "id": 16173193
     }, 
     {
@@ -14058,6 +14902,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 45.458300000000001, 
       "x": -122.797, 
+      "latest_vote": "2013-08-07T00:09:40", 
       "id": 16173184
     }, 
     {
@@ -14075,6 +14920,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 21.447800000000001, 
       "x": -158.024, 
+      "latest_vote": "2013-08-06T20:26:47", 
       "id": 16173179
     }, 
     {
@@ -14092,6 +14938,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.244900000000001, 
       "x": -110.92100000000001, 
+      "latest_vote": "2013-08-06T19:30:25", 
       "id": 16173173
     }, 
     {
@@ -14109,6 +14956,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 45.458300000000001, 
       "x": -122.797, 
+      "latest_vote": "2013-08-06T23:48:24", 
       "id": 16173172
     }, 
     {
@@ -14126,6 +14974,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 29.48, 
       "x": -98.352599999999995, 
+      "latest_vote": "2013-08-06T16:28:45", 
       "id": 16173171
     }, 
     {
@@ -14143,6 +14992,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 45.458300000000001, 
       "x": -122.797, 
+      "latest_vote": "2013-08-06T23:48:27", 
       "id": 16173166
     }, 
     {
@@ -14160,6 +15010,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.014699999999998, 
       "x": -95.635300000000001, 
+      "latest_vote": "2013-08-05T03:14:59", 
       "id": 16173157
     }, 
     {
@@ -14177,6 +15028,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 45.458300000000001, 
       "x": -122.797, 
+      "latest_vote": "2013-08-06T18:24:51", 
       "id": 16173154
     }, 
     {
@@ -14194,6 +15046,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 45.458300000000001, 
       "x": -122.797, 
+      "latest_vote": "2013-08-06T19:53:49", 
       "id": 16173145
     }, 
     {
@@ -14211,6 +15064,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.313899999999997, 
       "x": -106.444, 
+      "latest_vote": "2013-08-06T16:09:01", 
       "id": 16173143
     }, 
     {
@@ -14228,6 +15082,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 34.195500000000003, 
       "x": -95.071799999999996, 
+      "latest_vote": "2013-08-04T14:40:46", 
       "id": 16173141
     }, 
     {
@@ -14245,6 +15100,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.291699999999999, 
       "x": -95.996799999999993, 
+      "latest_vote": "2013-08-06T20:05:36", 
       "id": 16173137
     }, 
     {
@@ -14262,6 +15118,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.583199999999998, 
       "x": -93.756900000000002, 
+      "latest_vote": "2013-08-06T22:31:59", 
       "id": 16173118
     }, 
     {
@@ -14279,6 +15136,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.583199999999998, 
       "x": -93.756900000000002, 
+      "latest_vote": "2013-08-06T19:21:49", 
       "id": 16173111
     }, 
     {
@@ -14296,6 +15154,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.192300000000003, 
       "x": -88.222300000000004, 
+      "latest_vote": "2013-08-06T17:58:52", 
       "id": 16173084
     }, 
     {
@@ -14313,6 +15172,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.946800000000003, 
       "x": -95.281899999999993, 
+      "latest_vote": "2013-08-06T19:17:34", 
       "id": 16173074
     }, 
     {
@@ -14330,6 +15190,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 29.920999999999999, 
       "x": -95.493499999999997, 
+      "latest_vote": "2013-08-06T16:28:54", 
       "id": 16173066
     }, 
     {
@@ -14347,6 +15208,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.782800000000002, 
       "x": -112.36499999999999, 
+      "latest_vote": "2013-08-06T20:38:12", 
       "id": 16172970
     }, 
     {
@@ -14364,6 +15226,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.8996, 
       "x": -91.087000000000003, 
+      "latest_vote": null, 
       "id": 16172963
     }, 
     {
@@ -14381,6 +15244,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.938899999999997, 
       "x": -105.79600000000001, 
+      "latest_vote": "2013-08-06T19:35:28", 
       "id": 16172952
     }, 
     {
@@ -14398,6 +15262,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.938899999999997, 
       "x": -105.79600000000001, 
+      "latest_vote": null, 
       "id": 16172947
     }, 
     {
@@ -14415,6 +15280,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.938899999999997, 
       "x": -105.79600000000001, 
+      "latest_vote": "2013-08-07T01:29:29", 
       "id": 16172941
     }, 
     {
@@ -14432,6 +15298,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.938899999999997, 
       "x": -105.79600000000001, 
+      "latest_vote": "2013-08-06T18:34:58", 
       "id": 16172934
     }, 
     {
@@ -14449,6 +15316,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.8996, 
       "x": -91.087000000000003, 
+      "latest_vote": null, 
       "id": 16172929
     }, 
     {
@@ -14466,6 +15334,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 39.938899999999997, 
       "x": -105.79600000000001, 
+      "latest_vote": "2013-08-06T18:57:19", 
       "id": 16172922
     }, 
     {
@@ -14483,6 +15352,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 48.211199999999998, 
       "x": -114.294, 
+      "latest_vote": "2013-08-07T02:10:33", 
       "id": 16172913
     }, 
     {
@@ -14500,6 +15370,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 29.476700000000001, 
       "x": -90.543800000000005, 
+      "latest_vote": "2013-08-06T23:53:05", 
       "id": 16172905
     }, 
     {
@@ -14517,6 +15388,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.8996, 
       "x": -91.087000000000003, 
+      "latest_vote": "2013-08-06T18:36:16", 
       "id": 16172904
     }, 
     {
@@ -14534,6 +15406,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.244900000000001, 
       "x": -110.92100000000001, 
+      "latest_vote": "2013-08-06T23:57:42", 
       "id": 16172901
     }, 
     {
@@ -14551,6 +15424,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.0381, 
       "x": -105.283, 
+      "latest_vote": "2013-08-07T00:07:28", 
       "id": 16172892
     }, 
     {
@@ -14568,6 +15442,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.6233, 
       "x": -95.970200000000006, 
+      "latest_vote": "2013-08-06T18:40:35", 
       "id": 16172881
     }, 
     {
@@ -14585,6 +15460,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.8996, 
       "x": -91.087000000000003, 
+      "latest_vote": "2013-08-07T01:25:51", 
       "id": 16172866
     }, 
     {
@@ -14602,6 +15478,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 30.208100000000002, 
       "x": -97.800399999999996, 
+      "latest_vote": "2013-08-06T19:43:24", 
       "id": 16172862
     }, 
     {
@@ -14619,6 +15496,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.190199999999997, 
       "x": -97.2804, 
+      "latest_vote": "2013-08-06T20:26:57", 
       "id": 16172842
     }, 
     {
@@ -14636,6 +15514,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.127099999999999, 
       "x": -89.7423, 
+      "latest_vote": "2013-08-07T02:11:01", 
       "id": 16172823
     }, 
     {
@@ -14653,6 +15532,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 0.0, 
       "x": 0.0, 
+      "latest_vote": "2013-08-04T14:59:34", 
       "id": 16172804
     }, 
     {
@@ -14670,6 +15550,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 48.068600000000004, 
       "x": -123.059, 
+      "latest_vote": "2013-08-06T16:10:35", 
       "id": 16172799
     }, 
     {
@@ -14687,6 +15568,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 46.645299999999999, 
       "x": -111.974, 
+      "latest_vote": "2013-08-07T02:18:43", 
       "id": 16172777
     }, 
     {
@@ -14704,6 +15586,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 45.389800000000001, 
       "x": -122.589, 
+      "latest_vote": "2013-08-07T02:20:49", 
       "id": 16172765
     }, 
     {
@@ -14721,6 +15604,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 45.017600000000002, 
       "x": -87.282899999999998, 
+      "latest_vote": "2013-08-06T18:15:01", 
       "id": 16172759
     }, 
     {
@@ -14738,6 +15622,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.6267, 
       "x": -87.5959, 
+      "latest_vote": "2013-08-07T02:10:15", 
       "id": 16172755
     }, 
     {
@@ -14755,6 +15640,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.950200000000002, 
       "x": -96.710899999999995, 
+      "latest_vote": "2013-08-06T23:53:24", 
       "id": 16172752
     }, 
     {
@@ -14772,6 +15658,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 45.644599999999997, 
       "x": -122.623, 
+      "latest_vote": "2013-08-06T19:37:31", 
       "id": 16172733
     }, 
     {
@@ -14789,6 +15676,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.574599999999997, 
       "x": -122.81100000000001, 
+      "latest_vote": "2013-08-07T01:27:12", 
       "id": 16172731
     }, 
     {
@@ -14806,6 +15694,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.716200000000001, 
       "x": -87.554400000000001, 
+      "latest_vote": "2013-08-07T02:18:56", 
       "id": 16172727
     }, 
     {
@@ -14823,6 +15712,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 44.421500000000002, 
       "x": -124.047, 
+      "latest_vote": "2013-08-06T18:36:51", 
       "id": 16172726
     }, 
     {
@@ -14840,6 +15730,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.950200000000002, 
       "x": -96.710899999999995, 
+      "latest_vote": "2013-08-07T02:02:39", 
       "id": 16172722
     }, 
     {
@@ -14857,6 +15748,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.1023, 
       "x": -106.67, 
+      "latest_vote": "2013-08-06T22:23:00", 
       "id": 16172721
     }, 
     {
@@ -14874,6 +15766,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 35.6997, 
       "x": -105.967, 
+      "latest_vote": "2013-08-06T19:43:37", 
       "id": 16172711
     }, 
     {
@@ -14891,6 +15784,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 30.684999999999999, 
       "x": -97.910399999999996, 
+      "latest_vote": "2013-08-07T02:02:28", 
       "id": 16172702
     }, 
     {
@@ -14908,6 +15802,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.630200000000002, 
       "x": -116.297, 
+      "latest_vote": "2013-08-07T02:22:05", 
       "id": 16172697
     }, 
     {
@@ -14925,6 +15820,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 38.639099999999999, 
       "x": -92.116299999999995, 
+      "latest_vote": "2013-08-07T02:02:14", 
       "id": 16172696
     }, 
     {
@@ -14942,6 +15838,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 32.414700000000003, 
       "x": -111.295, 
+      "latest_vote": "2013-08-07T02:02:10", 
       "id": 16172694
     }, 
     {
@@ -14959,6 +15856,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.3581, 
       "x": -122.59399999999999, 
+      "latest_vote": "2013-08-07T02:01:57", 
       "id": 16172690
     }, 
     {
@@ -14976,6 +15874,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 47.3581, 
       "x": -122.59399999999999, 
+      "latest_vote": "2013-08-06T23:54:20", 
       "id": 16172688
     }, 
     {
@@ -14993,6 +15892,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.663899999999998, 
       "x": -90.556700000000006, 
+      "latest_vote": "2013-08-07T02:01:42", 
       "id": 16172687
     }, 
     {
@@ -15010,6 +15910,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 33.316299999999998, 
       "x": -111.831, 
+      "latest_vote": "2013-08-06T23:54:23", 
       "id": 16172681
     }, 
     {
@@ -15027,6 +15928,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.5259, 
       "x": -89.774000000000001, 
+      "latest_vote": "2013-08-06T20:38:30", 
       "id": 16172671
     }, 
     {
@@ -15044,6 +15946,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 40.166800000000002, 
       "x": -105.13500000000001, 
+      "latest_vote": "2013-08-07T02:01:17", 
       "id": 16172661
     }, 
     {
@@ -15061,6 +15964,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 43.650799999999997, 
       "x": -93.371300000000005, 
+      "latest_vote": "2013-08-07T02:01:02", 
       "id": 16172657
     }, 
     {
@@ -15078,6 +15982,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 41.6357, 
       "x": -87.738600000000005, 
+      "latest_vote": "2013-08-07T02:00:58", 
       "id": 16172648
     }, 
     {
@@ -15095,6 +16000,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.377499999999998, 
       "x": -71.131200000000007, 
+      "latest_vote": "2013-08-07T02:00:55", 
       "id": 16172587
     }, 
     {
@@ -15112,6 +16018,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.377499999999998, 
       "x": -71.131200000000007, 
+      "latest_vote": "2013-08-07T02:00:45", 
       "id": 16172583
     }, 
     {
@@ -15129,6 +16036,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.411900000000003, 
       "x": -71.176500000000004, 
+      "latest_vote": "2013-08-06T23:54:49", 
       "id": 16172581
     }, 
     {
@@ -15146,6 +16054,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.371299999999998, 
       "x": -71.180400000000006, 
+      "latest_vote": "2013-08-06T18:44:49", 
       "id": 16172578
     }, 
     {
@@ -15163,6 +16072,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.455800000000004, 
       "x": -71.215000000000003, 
+      "latest_vote": "2013-08-06T20:04:32", 
       "id": 16172566
     }, 
     {
@@ -15180,6 +16090,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.394199999999998, 
       "x": -71.180199999999999, 
+      "latest_vote": "2013-08-07T01:59:07", 
       "id": 16172560
     }, 
     {
@@ -15197,6 +16108,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.392299999999999, 
       "x": -71.131299999999996, 
+      "latest_vote": "2013-08-07T00:26:27", 
       "id": 16172556
     }, 
     {
@@ -15214,6 +16126,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.369900000000001, 
       "x": -71.236800000000002, 
+      "latest_vote": "2013-08-07T01:59:24", 
       "id": 16172542
     }, 
     {
@@ -15231,6 +16144,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.377499999999998, 
       "x": -71.131200000000007, 
+      "latest_vote": "2013-08-07T02:19:15", 
       "id": 16172533
     }, 
     {
@@ -15248,6 +16162,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.421300000000002, 
       "x": -71.113399999999999, 
+      "latest_vote": "2013-08-07T01:59:36", 
       "id": 16172530
     }, 
     {
@@ -15265,6 +16180,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.366, 
       "x": -71.103499999999997, 
+      "latest_vote": "2013-08-05T03:22:37", 
       "id": 16172304
     }, 
     {
@@ -15282,6 +16198,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.420699999999997, 
       "x": -71.158199999999994, 
+      "latest_vote": "2013-08-07T02:20:02", 
       "id": 16172303
     }, 
     {
@@ -15299,6 +16216,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.420699999999997, 
       "x": -71.158199999999994, 
+      "latest_vote": "2013-08-07T00:30:43", 
       "id": 16172296
     }, 
     {
@@ -15316,6 +16234,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.366, 
       "x": -71.103499999999997, 
+      "latest_vote": "2013-08-07T01:59:56", 
       "id": 16172286
     }, 
     {
@@ -15333,6 +16252,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.366, 
       "x": -71.103499999999997, 
+      "latest_vote": "2013-08-07T02:21:37", 
       "id": 16172283
     }, 
     {
@@ -15350,6 +16270,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.369900000000001, 
       "x": -71.236800000000002, 
+      "latest_vote": "2013-08-07T02:10:16", 
       "id": 16172281
     }, 
     {
@@ -15367,6 +16288,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.420699999999997, 
       "x": -71.158199999999994, 
+      "latest_vote": "2013-08-07T02:00:15", 
       "id": 16172277
     }, 
     {
@@ -15384,6 +16306,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.415199999999999, 
       "x": -71.005300000000005, 
+      "latest_vote": "2013-08-07T02:00:16", 
       "id": 16172274
     }, 
     {
@@ -15401,6 +16324,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.377499999999998, 
       "x": -71.131200000000007, 
+      "latest_vote": "2013-08-07T02:18:49", 
       "id": 16172266
     }, 
     {
@@ -15418,6 +16342,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.392299999999999, 
       "x": -71.131299999999996, 
+      "latest_vote": "2013-08-07T00:22:10", 
       "id": 16172265
     }, 
     {
@@ -15435,6 +16360,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.366, 
       "x": -71.103499999999997, 
+      "latest_vote": "2013-08-07T02:20:46", 
       "id": 16172207
     }, 
     {
@@ -15452,6 +16378,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.411900000000003, 
       "x": -71.176500000000004, 
+      "latest_vote": "2013-08-06T19:43:58", 
       "id": 16172188
     }, 
     {
@@ -15469,6 +16396,7 @@ opendebate.processFetchedQuestions({
       "iface": "question", 
       "y": 42.415199999999999, 
       "x": -71.005300000000005, 
+      "latest_vote": "2013-08-07T00:22:15", 
       "id": 16172172
     }
   ]
