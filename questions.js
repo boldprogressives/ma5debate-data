@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Bellingham", 
+      "first_name": "James", 
+      "last_name": "Martin", 
+      "user_id": 1809757, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "MA_04", 
+      "created": "2013-08-07T22:16:19", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.068399999999997, 
+      "x": -71.475999999999999, 
+      "latest_vote": null, 
+      "id": 16223006
+    }, 
+    {
       "city": "Amherst", 
       "first_name": "Sam", 
       "last_name": "Andrews", 
@@ -4078,13 +4096,13 @@ opendebate.processFetchedQuestions({
       "district": "MA_02", 
       "created": "2013-08-07T01:15:00", 
       "state_votes": 4, 
-      "votes": 33, 
+      "votes": 34, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.270200000000003, 
       "x": -71.845100000000002, 
-      "latest_vote": "2013-08-07T12:57:50", 
+      "latest_vote": "2013-08-07T22:17:42", 
       "id": 16211476
     }, 
     {
@@ -12718,13 +12736,13 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-06T13:36:44", 
       "state_votes": 8, 
-      "votes": 35, 
+      "votes": 36, 
       "district_votes": 2, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.421300000000002, 
       "x": -71.113399999999999, 
-      "latest_vote": "2013-08-07T20:44:20", 
+      "latest_vote": "2013-08-07T22:16:49", 
       "id": 16181276
     }, 
     {
@@ -17578,13 +17596,13 @@ opendebate.processFetchedQuestions({
       "district": "OR_01", 
       "created": "2013-08-04T14:54:08", 
       "state_votes": 3, 
-      "votes": 34, 
+      "votes": 35, 
       "district_votes": 1, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.522100000000002, 
       "x": -123.107, 
-      "latest_vote": "2013-08-07T20:33:02", 
+      "latest_vote": "2013-08-07T22:17:20", 
       "id": 16174014
     }, 
     {
@@ -18280,13 +18298,13 @@ opendebate.processFetchedQuestions({
       "district": "IL_08", 
       "created": "2013-08-04T01:58:31", 
       "state_votes": 5, 
-      "votes": 37, 
+      "votes": 38, 
       "district_votes": 1, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.955300000000001, 
       "x": -87.948800000000006, 
-      "latest_vote": "2013-08-07T20:32:41", 
+      "latest_vote": "2013-08-07T22:16:15", 
       "id": 16173312
     }, 
     {
