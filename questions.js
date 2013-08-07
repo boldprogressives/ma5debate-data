@@ -16245,14 +16245,14 @@ opendebate.processFetchedQuestions({
       "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
       "district": "TX_10", 
       "created": "2013-08-04T00:59:23", 
-      "state_votes": 37, 
-      "votes": 569, 
+      "state_votes": 38, 
+      "votes": 570, 
       "district_votes": 10, 
       "state": "TX", 
       "iface": "question", 
       "y": 30.397200000000002, 
       "x": -97.751800000000003, 
-      "latest_vote": "2013-08-07T08:56:10", 
+      "latest_vote": "2013-08-07T09:05:57", 
       "id": 16173210
     }, 
     {
