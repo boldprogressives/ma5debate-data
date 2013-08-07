@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Gardner", 
+      "first_name": "Wilda", 
+      "last_name": "Webster", 
+      "user_id": 1709400, 
+      "submission": "The Congress needs an overseer committee.  Either you work for the good of the country and ALL of it people or get out.  No work, no pay.  Question:  Are rt wing conservatives on a suicide mission?", 
+      "district": "MA_03", 
+      "created": "2013-08-07T11:05:35", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.5745, 
+      "x": -71.995400000000004, 
+      "latest_vote": null, 
+      "id": 16215494
+    }, 
+    {
       "city": "Merrimack", 
       "first_name": "Carol", 
       "last_name": "DiPirro", 
