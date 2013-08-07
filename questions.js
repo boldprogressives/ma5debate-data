@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Natick", 
+      "first_name": "Jamie", 
+      "last_name": "Magee", 
+      "user_id": 1809632, 
+      "submission": "Do you support the Small Brewer Reinvestment and Expanding Workforce Act (Small BREW Act), HR 494? Do you like locally brewed beer? Which local brew do you enjoy?", 
+      "district": "MA_05", 
+      "created": "2013-08-07T17:54:45", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.287199999999999, 
+      "x": -71.3523, 
+      "latest_vote": null, 
+      "id": 16219500
+    }, 
+    {
       "city": "Watertown", 
       "first_name": "Mike", 
       "last_name": "Mandel", 
