@@ -6705,14 +6705,14 @@ opendebate.processFetchedQuestions({
       "submission": "From what industry have you received the most political contributions - in this race and previously, what of their issues will you/have you voted on and how did you vote?", 
       "district": "MA_02", 
       "created": "2013-08-06T16:12:19", 
-      "state_votes": 1, 
-      "votes": 9, 
+      "state_votes": 2, 
+      "votes": 10, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.276400000000002, 
       "x": -71.819500000000005, 
-      "latest_vote": "2013-08-07T08:45:46", 
+      "latest_vote": "2013-08-07T09:08:49", 
       "id": 16190263
     }, 
     {
