@@ -16876,13 +16876,13 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:27:03", 
       "state_votes": 50, 
-      "votes": 656, 
+      "votes": 657, 
       "district_votes": 11, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.6267, 
       "x": -87.5959, 
-      "latest_vote": "2013-08-07T04:39:03", 
+      "latest_vote": "2013-08-07T05:30:24", 
       "id": 16172755
     }, 
     {
