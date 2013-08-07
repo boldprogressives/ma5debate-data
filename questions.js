@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "San Antonio", 
+      "first_name": "Mary A", 
+      "last_name": "Leon", 
+      "user_id": 143081, 
+      "submission": "When are Democrats going to stand UNITED and finally expose all the Republican Tea Party LIES about everything from Obamacare to our US Economy and let the American People learn the TRUTH?   ", 
+      "district": "TX_35", 
+      "created": "2013-08-07T18:01:39", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "TX", 
+      "iface": "question", 
+      "y": 29.4786, 
+      "x": -98.487200000000001, 
+      "latest_vote": null, 
+      "id": 16219526
+    }, 
+    {
       "city": "Natick", 
       "first_name": "Jamie", 
       "last_name": "Magee", 
