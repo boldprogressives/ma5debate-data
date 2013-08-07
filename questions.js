@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Butte", 
+      "first_name": "Tina", 
+      "last_name": "Smollack", 
+      "user_id": 1758882, 
+      "submission": "How do you propose to heed the people's concerns when there is special interest moneys and lobbyists' monies tugging you in an opposite direction?", 
+      "district": "MT_01", 
+      "created": "2013-08-07T14:04:43", 
+      "state_votes": 0, 
+      "votes": 1, 
+      "district_votes": 0, 
+      "state": "MT", 
+      "iface": "question", 
+      "y": 45.9467, 
+      "x": -112.517, 
+      "latest_vote": "2013-08-07T14:05:05", 
+      "id": 16216285
+    }, 
+    {
       "city": "Washington", 
       "first_name": "Irene", 
       "last_name": "Colthurst", 
@@ -100,13 +118,13 @@ opendebate.processFetchedQuestions({
       "district": "FL_22", 
       "created": "2013-08-07T12:29:19", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "district_votes": 0, 
       "state": "FL", 
       "iface": "question", 
       "y": 26.5242, 
       "x": -80.107299999999995, 
-      "latest_vote": "2013-08-07T12:39:38", 
+      "latest_vote": "2013-08-07T14:05:54", 
       "id": 16215668
     }, 
     {
@@ -17398,13 +17416,13 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
       "state_votes": 76, 
-      "votes": 930, 
+      "votes": 931, 
       "district_votes": 19, 
       "state": "MT", 
       "iface": "question", 
       "y": 46.645299999999999, 
       "x": -111.974, 
-      "latest_vote": "2013-08-07T13:40:39", 
+      "latest_vote": "2013-08-07T14:05:49", 
       "id": 16172777
     }, 
     {
@@ -17524,13 +17542,13 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:20:39", 
       "state_votes": 49, 
-      "votes": 760, 
+      "votes": 761, 
       "district_votes": 11, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.716200000000001, 
       "x": -87.554400000000001, 
-      "latest_vote": "2013-08-07T13:47:39", 
+      "latest_vote": "2013-08-07T14:05:24", 
       "id": 16172727
     }, 
     {
@@ -18154,13 +18172,13 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:33:11", 
       "state_votes": 61, 
-      "votes": 791, 
+      "votes": 792, 
       "district_votes": 18, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.377499999999998, 
       "x": -71.131200000000007, 
-      "latest_vote": "2013-08-07T13:47:37", 
+      "latest_vote": "2013-08-07T14:05:29", 
       "id": 16172266
     }, 
     {
