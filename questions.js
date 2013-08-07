@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Watertown", 
+      "first_name": "Mike", 
+      "last_name": "Mandel", 
+      "user_id": 519137, 
+      "submission": "Do you support the use of federal funds to evaluate the health effects of cell phone towers?", 
+      "district": "MA_05", 
+      "created": "2013-08-07T17:52:15", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.371299999999998, 
+      "x": -71.180400000000006, 
+      "latest_vote": null, 
+      "id": 16219491
+    }, 
+    {
       "city": "Melrose", 
       "first_name": "Robert", 
       "last_name": "Leydon", 
