@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Las Vegas", 
+      "first_name": "davidwhoisdma@gmaikl.com", 
+      "last_name": "Collins", 
+      "user_id": 1806734, 
+      "submission": "why do our representives hate us? The American people.", 
+      "district": "NV_03", 
+      "created": "2013-08-07T07:06:48", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NV", 
+      "iface": "question", 
+      "y": 36.140000000000001, 
+      "x": -115.34999999999999, 
+      "latest_vote": null, 
+      "id": 16214090
+    }, 
+    {
       "city": "Buffalo", 
       "first_name": "Bethany", 
       "last_name": "Stachowiak", 
