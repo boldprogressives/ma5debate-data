@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Monterey Park", 
+      "first_name": "AL", 
+      "last_name": "LAZO", 
+      "user_id": 1783449, 
+      "submission": "IF JOE BIDEN WERE TO TRADE PLACES WITH PRESIDENT OBAMA, FOR A WEEK, WILL THEY APPROVE THE BUDGET AND EVERYTHING ELSE AND.  PROVE THEIR IGNORANCE AND UGLYNESS.  ALSO, WHY IS IT THAT SUPREME JUSTICES DON'T HAVE A TERM LIMIT AT THOSE JOBS,  BRING SOME NEW BLOOD AT LEAST EVERY TEN YEARS AND GET RID OF THE LIKES OF A. SCALIA, WITH HIS ANAL RETENTIVE ATTITUDE, HE IS A JUDGE NOT GOD.", 
+      "district": "CA_27", 
+      "created": "2013-08-07T03:30:44", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "CA", 
+      "iface": "question", 
+      "y": 34.048499999999997, 
+      "x": -118.15000000000001, 
+      "latest_vote": null, 
+      "id": 16213092
+    }, 
+    {
       "city": "Mosinee", 
       "first_name": "Jacob", 
       "last_name": "Griesmer", 
@@ -1288,13 +1306,13 @@ opendebate.processFetchedQuestions({
       "district": "VA_03", 
       "created": "2013-08-06T22:53:34", 
       "state_votes": 2, 
-      "votes": 16, 
+      "votes": 17, 
       "district_votes": 1, 
       "state": "VA", 
       "iface": "question", 
       "y": 37.558300000000003, 
       "x": -77.488600000000005, 
-      "latest_vote": "2013-08-07T03:01:04", 
+      "latest_vote": "2013-08-07T03:31:54", 
       "id": 16208824
     }, 
     {
@@ -1918,13 +1936,13 @@ opendebate.processFetchedQuestions({
       "district": "FL_08", 
       "created": "2013-08-06T21:46:34", 
       "state_votes": 9, 
-      "votes": 55, 
+      "votes": 56, 
       "district_votes": 4, 
       "state": "FL", 
       "iface": "question", 
       "y": 28.024699999999999, 
       "x": -80.539199999999994, 
-      "latest_vote": "2013-08-07T03:14:46", 
+      "latest_vote": "2013-08-07T03:30:35", 
       "id": 16206470
     }, 
     {
