@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Worcester", 
+      "first_name": "Bill", 
+      "last_name": "Tower", 
+      "user_id": 907448, 
+      "submission": "Are you willing to stand up for the rights of Native American tribal rights and correct the injustices they have suffered over the years?", 
+      "district": "MA_02", 
+      "created": "2013-08-07T19:49:20", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.254100000000001, 
+      "x": -71.773099999999999, 
+      "latest_vote": null, 
+      "id": 16220428
+    }, 
+    {
       "city": "Somerville", 
       "first_name": "Christian", 
       "last_name": "Roselund", 
