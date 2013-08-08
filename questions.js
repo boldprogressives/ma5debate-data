@@ -21339,14 +21339,14 @@ opendebate.processFetchedQuestions({
       "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
       "district": "MA_05", 
       "created": "2013-08-03T20:51:46", 
-      "state_votes": 52, 
-      "votes": 290, 
+      "state_votes": 53, 
+      "votes": 291, 
       "district_votes": 15, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3699, 
       "x": -71.2368, 
-      "latest_vote": "2013-08-08T13:27:04", 
+      "latest_vote": "2013-08-08T13:59:46", 
       "id": 16172542
     }, 
     {

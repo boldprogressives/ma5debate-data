@@ -6,6 +6,21 @@ opendebate.processTimeline({
       "first_name": "Sam", 
       "last_name": "Geller", 
       "user_id": 1808953, 
+      "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
+      "district": "MA_07", 
+      "created": "2013-08-08T13:59:46", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3683, 
+      "x": -71.0824, 
+      "id": 16226171, 
+      "question_id": "16172542"
+    }, 
+    {
+      "city": "Cambridge", 
+      "first_name": "Sam", 
+      "last_name": "Geller", 
+      "user_id": 1808953, 
       "submission": "Given the likelihood that a Republican majority will continue to block any legislative activity in the House, what will you do to advance a progressive agenda?", 
       "district": "MA_07", 
       "created": "2013-08-08T13:54:48", 
@@ -303,21 +318,6 @@ opendebate.processTimeline({
       "x": -80.3302, 
       "id": 16226137, 
       "question_id": "16174014"
-    }, 
-    {
-      "city": "Holden", 
-      "first_name": "Eric", 
-      "last_name": "Osterberg", 
-      "user_id": 1693910, 
-      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
-      "district": "MA_02", 
-      "created": "2013-08-08T13:47:24", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3458, 
-      "x": -71.8463, 
-      "id": 16226135, 
-      "question_id": "16173210"
     }, 
     {
       "city": "West Islip", 
