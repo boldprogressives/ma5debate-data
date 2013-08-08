@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Amy", 
       "last_name": "McQuillan", 
       "user_id": 1674708, 
-      "submission": "Will you fight to protect the Clean Air Act, the Clean Water Act and the EPA in a House of Representatives that has become increasingly hostile to all three?", 
+      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
       "district": "CA_50", 
-      "created": "2013-08-08T20:36:55", 
+      "created": "2013-08-08T20:37:40", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 33.0263, 
       "x": -116.857, 
-      "id": 16233331, 
-      "question_id": "16226952"
+      "id": 16233337, 
+      "question_id": "16172697"
     }, 
     {
       "city": "Lexington", 
