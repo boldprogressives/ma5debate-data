@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Shelburne", 
+      "first_name": "Deborah", 
+      "last_name": "Andrew", 
+      "user_id": 604337, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "MA_01", 
+      "created": "2013-08-08T14:59:53", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.5834, 
+      "x": -72.7715, 
+      "id": 16226501, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "Montague", 
       "first_name": "Barry", 
       "last_name": "De Jasu", 
@@ -288,21 +303,6 @@ opendebate.processTimeline({
       "x": -70.9082, 
       "id": 16226470, 
       "question_id": "16199834"
-    }, 
-    {
-      "city": "Swampscott", 
-      "first_name": "Ramon", 
-      "last_name": "Feiven", 
-      "user_id": 1668338, 
-      "submission": "Will you protect Social Security And Medicare by not cutting it with the chained CPI for Social Security that has been mentioned.  Also, no cuts to Medicare but closing the donute hole 100% so seniors aren't left fending for themselves to pay full price for their drugs.", 
-      "district": "MA_06", 
-      "created": "2013-08-08T14:45:59", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4723, 
-      "x": -70.9082, 
-      "id": 16226469, 
-      "question_id": "16175570"
     }
   ]
 });
