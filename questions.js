@@ -21321,14 +21321,14 @@ opendebate.processFetchedQuestions({
       "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
       "district": "MA_05", 
       "created": "2013-08-03T21:18:50", 
-      "state_votes": 29, 
-      "votes": 210, 
+      "state_votes": 30, 
+      "votes": 211, 
       "district_votes": 7, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-08T14:33:23", 
+      "latest_vote": "2013-08-08T15:07:14", 
       "id": 16172583
     }, 
     {

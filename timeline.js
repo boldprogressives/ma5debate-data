@@ -6,6 +6,21 @@ opendebate.processTimeline({
       "first_name": "Demitri", 
       "last_name": "Denir", 
       "user_id": 1668195, 
+      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
+      "district": "MA_07", 
+      "created": "2013-08-08T15:07:14", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3914, 
+      "x": -71.0947, 
+      "id": 16226524, 
+      "question_id": "16172583"
+    }, 
+    {
+      "city": "Somerville", 
+      "first_name": "Demitri", 
+      "last_name": "Denir", 
+      "user_id": 1668195, 
       "submission": "Do you support the labeling of GMOs and if so, what do you intend to do to promote people's right to know what is in their food?", 
       "district": "MA_07", 
       "created": "2013-08-08T15:06:34", 
@@ -288,21 +303,6 @@ opendebate.processTimeline({
       "x": -81.3098, 
       "id": 16226490, 
       "question_id": "16175078"
-    }, 
-    {
-      "city": "Casselberry", 
-      "first_name": "Annmari", 
-      "last_name": "Lundin", 
-      "user_id": 1695695, 
-      "submission": "Why have so few Wall Street CEOs been indicted for their part in the 2007 Economic Crash ?  Who has been protecting them ?", 
-      "district": "FL_07", 
-      "created": "2013-08-08T14:55:07", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 28.6608, 
-      "x": -81.3098, 
-      "id": 16226488, 
-      "question_id": "16205046"
     }
   ]
 });
