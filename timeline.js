@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Lowell", 
+      "first_name": "Ryan", 
+      "last_name": "Hammond", 
+      "user_id": 1688366, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "MA_03", 
+      "created": "2013-08-08T20:47:28", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.6345, 
+      "x": -71.2968, 
+      "id": 16233452, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Pflugerville", 
+      "first_name": "Rory", 
+      "last_name": "Roberts", 
+      "user_id": 1150074, 
+      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
+      "district": "TX_17", 
+      "created": "2013-08-08T20:47:19", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 30.4419, 
+      "x": -97.6273, 
+      "id": 16233450, 
+      "question_id": "16203866"
+    }, 
+    {
       "city": "Hemet", 
       "first_name": "gerald", 
       "last_name": "lassoff", 
@@ -274,40 +304,6 @@ opendebate.processTimeline({
       "x": -73.2165, 
       "id": 16233265, 
       "question_id": "16172697"
-    }, 
-    {
-      "city": "Austin", 
-      "first_name": "rose", 
-      "last_name": "roma", 
-      "user_id": 1676769, 
-      "submission": "What will you do to prevent abuse snd exploitation of the elderly?", 
-      "district": "TX_25", 
-      "created": "2013-08-08T20:32:07", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "TX", 
-      "iface": "timeline_question", 
-      "y": 30.2915, 
-      "x": -97.7339, 
-      "latest_vote": null, 
-      "id": 16233239, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "McKinleyville", 
-      "first_name": "Beth", 
-      "last_name": "Bennion", 
-      "user_id": 1620797, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
-      "district": "CA_02", 
-      "created": "2013-08-08T20:29:44", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 40.8726, 
-      "x": -124.071, 
-      "id": 16233225, 
-      "question_id": "16175740"
     }
   ]
 });
