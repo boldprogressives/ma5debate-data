@@ -9091,16 +9091,16 @@ opendebate.processFetchedQuestions({
       "submission": "What is your view of the \"Race to the Top\" approach to education and its reliance on increased standardized testing and nationwide standardization via the Common Core?", 
       "district": "MA_05", 
       "created": "2013-08-06T19:39:57", 
-      "state_votes": 10, 
-      "votes": 132, 
-      "district_votes": 3, 
+      "state_votes": 11, 
+      "votes": 133, 
+      "district_votes": 4, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4119, 
       "x": -71.1765, 
-      "latest_vote": "2013-08-08T19:29:15", 
+      "latest_vote": "2013-08-08T19:35:28", 
       "id": 16202179, 
-      "trending_score": 5.5
+      "trending_score": 6.0
     }, 
     {
       "city": "San Francisco", 
@@ -9860,7 +9860,7 @@ opendebate.processFetchedQuestions({
       "x": -86.4672, 
       "latest_vote": "2013-08-08T19:31:11", 
       "id": 16199834, 
-      "trending_score": 7.833333333333333
+      "trending_score": 8.083333333333332
     }, 
     {
       "city": "Ashland", 
@@ -12341,15 +12341,15 @@ opendebate.processFetchedQuestions({
       "district": "NJ_04", 
       "created": "2013-08-06T16:02:41", 
       "state_votes": 5, 
-      "votes": 37, 
+      "votes": 38, 
       "district_votes": 0, 
       "state": "NJ", 
       "iface": "question", 
       "y": 40.2097, 
       "x": -74.062, 
-      "latest_vote": "2013-08-08T19:31:03", 
+      "latest_vote": "2013-08-08T19:35:46", 
       "id": 16189753, 
-      "trending_score": 5.5
+      "trending_score": 6.5
     }, 
     {
       "city": "Raleigh", 
@@ -12949,15 +12949,15 @@ opendebate.processFetchedQuestions({
       "district": "DC_01", 
       "created": "2013-08-06T15:35:39", 
       "state_votes": 4, 
-      "votes": 55, 
+      "votes": 56, 
       "district_votes": 0, 
       "state": "DC", 
       "iface": "question", 
       "y": 38.9403, 
       "x": -77.0886, 
-      "latest_vote": "2013-08-08T18:47:05", 
+      "latest_vote": "2013-08-08T19:35:56", 
       "id": 16187926, 
-      "trending_score": 4.5
+      "trending_score": 5.5
     }, 
     {
       "city": "owings mills", 
@@ -15628,15 +15628,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_07", 
       "created": "2013-08-06T14:19:00", 
       "state_votes": 9, 
-      "votes": 45, 
+      "votes": 46, 
       "district_votes": 3, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.2847, 
       "x": -71.1277, 
-      "latest_vote": "2013-08-08T18:41:28", 
+      "latest_vote": "2013-08-08T19:35:55", 
       "id": 16181945, 
-      "trending_score": 7.5
+      "trending_score": 8.5
     }, 
     {
       "city": "Hamilton", 
@@ -18030,7 +18030,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7896, 
       "latest_vote": "2013-08-08T19:32:00", 
       "id": 16176855, 
-      "trending_score": 5.375
+      "trending_score": 5.5
     }, 
     {
       "city": "Kula", 
@@ -20625,15 +20625,15 @@ opendebate.processFetchedQuestions({
       "district": "AZ_06", 
       "created": "2013-08-04T19:23:31", 
       "state_votes": 8, 
-      "votes": 68, 
+      "votes": 69, 
       "district_votes": 3, 
       "state": "AZ", 
       "iface": "question", 
       "y": 33.6324, 
       "x": -112.112, 
-      "latest_vote": "2013-08-08T19:24:43", 
+      "latest_vote": "2013-08-08T19:35:42", 
       "id": 16174342, 
-      "trending_score": 8.5
+      "trending_score": 9.5
     }, 
     {
       "city": "Phoenix", 
@@ -21583,7 +21583,7 @@ opendebate.processFetchedQuestions({
       "x": -122.314, 
       "latest_vote": "2013-08-08T19:31:24", 
       "id": 16173397, 
-      "trending_score": 5.25
+      "trending_score": 5.333333333333333
     }, 
     {
       "city": "Houston", 
@@ -21784,15 +21784,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_08", 
       "created": "2013-08-04T02:02:13", 
       "state_votes": 43, 
-      "votes": 292, 
+      "votes": 293, 
       "district_votes": 9, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.9553, 
       "x": -87.9488, 
-      "latest_vote": "2013-08-08T19:30:21", 
+      "latest_vote": "2013-08-08T19:35:36", 
       "id": 16173320, 
-      "trending_score": 37.125
+      "trending_score": 38.125
     }, 
     {
       "city": "Bensenville", 
@@ -21982,7 +21982,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-08T19:32:35", 
       "id": 16173264, 
-      "trending_score": 150.03846153846155
+      "trending_score": 150.04166666666666
     }, 
     {
       "city": "Prosper", 
@@ -22020,7 +22020,7 @@ opendebate.processFetchedQuestions({
       "x": -87.7111, 
       "latest_vote": "2013-08-08T19:33:48", 
       "id": 16173257, 
-      "trending_score": 58.125
+      "trending_score": 28.75
     }, 
     {
       "city": "Corvallis", 
@@ -23665,15 +23665,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:52:54", 
       "state_votes": 139, 
-      "votes": 810, 
+      "votes": 811, 
       "district_votes": 38, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4207, 
       "x": -71.1582, 
-      "latest_vote": "2013-08-08T19:30:49", 
+      "latest_vote": "2013-08-08T19:35:16", 
       "id": 16172303, 
-      "trending_score": 89.07142857142857
+      "trending_score": 90.07142857142857
     }, 
     {
       "city": "Arlington", 
@@ -23806,7 +23806,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-08T19:35:05", 
       "id": 16172266, 
-      "trending_score": 38.166666666666664
+      "trending_score": 50.44047619047619
     }, 
     {
       "city": "Cambridge", 
