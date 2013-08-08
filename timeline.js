@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Orleans", 
+      "first_name": "Patricia", 
+      "last_name": "White", 
+      "user_id": 476880, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "MA_09", 
+      "created": "2013-08-08T14:35:37", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 41.7818, 
+      "x": -69.9805, 
+      "id": 16226413, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "Swampscott", 
       "first_name": "Ramon", 
       "last_name": "Feiven", 
@@ -285,21 +300,6 @@ opendebate.processTimeline({
       "x": -70.9082, 
       "id": 16226392, 
       "question_id": "16172542"
-    }, 
-    {
-      "city": "Swampscott", 
-      "first_name": "Ramon", 
-      "last_name": "Feiven", 
-      "user_id": 1668338, 
-      "submission": "why are the democrats so afraid to stand up to the republicans..? you stand up to a bully they usually back down.", 
-      "district": "MA_06", 
-      "created": "2013-08-08T14:31:18", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4723, 
-      "x": -70.9082, 
-      "id": 16226390, 
-      "question_id": "16172823"
     }, 
     {
       "city": "Winchester", 
