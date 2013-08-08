@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Newton Center", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809934, 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "district": "MA_04", 
+      "created": "2013-08-08T16:14:57", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3088, 
+      "x": -71.1918, 
+      "id": 16226990, 
+      "question_id": "16172281"
+    }, 
+    {
       "city": "Fort Lauderdale", 
       "first_name": "Kathleen", 
       "last_name": "Levy", 
       "user_id": 1779547, 
-      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
       "district": "FL_20", 
-      "created": "2013-08-08T16:13:58", 
+      "created": "2013-08-08T16:14:16", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 26.2058, 
       "x": -80.2663, 
-      "id": 16226983, 
-      "question_id": "16172303"
+      "id": 16226984, 
+      "question_id": "16173335"
     }, 
     {
       "city": "Lexington", 
@@ -315,21 +330,6 @@ opendebate.processTimeline({
       "x": -71.1804, 
       "id": 16226863, 
       "question_id": "16172866"
-    }, 
-    {
-      "city": "North Chelmsford", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809924, 
-      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
-      "district": "MA_03", 
-      "created": "2013-08-08T15:56:14", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.6333, 
-      "x": -71.3843, 
-      "id": 16226857, 
-      "question_id": "16173335"
     }
   ]
 });
