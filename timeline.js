@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Atlanta", 
+      "first_name": "William", 
+      "last_name": "Trapnell", 
+      "user_id": 1183617, 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "district": "GA_06", 
+      "created": "2013-08-08T20:54:02", 
+      "state": "GA", 
+      "iface": "timeline_vote", 
+      "y": 33.8912, 
+      "x": -84.2508, 
+      "id": 16233509, 
+      "question_id": "16172281"
+    }, 
+    {
       "city": "Phila", 
       "first_name": "Michele", 
       "last_name": "Koskinen", 
       "user_id": 1577050, 
-      "submission": "What would you do to stop the unbridled takeover of American resources by Corporate America.", 
+      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
       "district": "PA_01", 
-      "created": "2013-08-08T20:52:42", 
+      "created": "2013-08-08T20:53:51", 
       "state": "PA", 
       "iface": "timeline_vote", 
       "y": 39.9685, 
       "x": -75.1731, 
-      "id": 16233498, 
-      "question_id": "16174109"
+      "id": 16233506, 
+      "question_id": "16172697"
     }, 
     {
       "city": "Princeton", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -114.836, 
       "id": 16233288, 
       "question_id": "16175740"
-    }, 
-    {
-      "city": "Palo Alto", 
-      "first_name": "Stephen", 
-      "last_name": "Rosenblum", 
-      "user_id": 69837, 
-      "submission": "Do you consider whistleblower Americans Bradley Manning & Edward Snowden heros or villians? Why? ", 
-      "district": "CA_18", 
-      "created": "2013-08-08T20:34:16", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 37.4399, 
-      "x": -122.152, 
-      "id": 16233286, 
-      "question_id": "16174044"
     }
   ]
 });
