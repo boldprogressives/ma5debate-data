@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Who is financing your campaign and what have you promised in return for this support?", 
+      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
       "district": "MA_04", 
-      "created": "2013-08-08T16:55:44", 
+      "created": "2013-08-08T16:56:42", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227527, 
-      "question_id": "16199725"
+      "id": 16227530, 
+      "question_id": "16180998"
     }, 
     {
       "city": "Boston", 
