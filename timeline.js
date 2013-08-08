@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Holliston", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809907, 
+      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T15:32:00", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.1988, 
+      "x": -71.4351, 
+      "id": 16226636, 
+      "question_id": "16172727"
+    }, 
+    {
       "city": "Fresh  Meadows", 
       "first_name": "Paul", 
       "last_name": "Dambrosi", 
       "user_id": 401923, 
-      "submission": "Will you support carbon taxes?", 
+      "submission": "Do you support a financial transaction tax?", 
       "district": "NY_06", 
-      "created": "2013-08-08T15:31:02", 
+      "created": "2013-08-08T15:31:18", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7385, 
       "x": -73.79, 
-      "id": 16226627, 
-      "question_id": "16174323"
+      "id": 16226629, 
+      "question_id": "16174331"
     }, 
     {
       "city": "Framingham", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -81.3098, 
       "id": 16226494, 
       "question_id": "16173193"
-    }, 
-    {
-      "city": "Cincinnati", 
-      "first_name": "john", 
-      "last_name": "ballek", 
-      "user_id": 1783799, 
-      "submission": "If the government agencies that took money from social security, returned it with 6% annual interest; do you feel it would be sustainable(without cutting benefits) for the foreseeable future?", 
-      "district": "OH_02", 
-      "created": "2013-08-08T14:52:36", 
-      "state": "OH", 
-      "iface": "timeline_vote", 
-      "y": 39.0787, 
-      "x": -84.3772, 
-      "id": 16226484, 
-      "question_id": "16201325"
     }
   ]
 });
