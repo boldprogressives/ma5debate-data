@@ -8712,15 +8712,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_01", 
       "created": "2013-08-06T20:10:21", 
       "state_votes": 23, 
-      "votes": 121, 
+      "votes": 122, 
       "district_votes": 8, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.204, 
       "x": -72.6301, 
-      "latest_vote": "2013-08-08T18:50:35", 
+      "latest_vote": "2013-08-08T18:52:56", 
       "id": 16203676, 
-      "trending_score": 22.5
+      "trending_score": 23.0
     }, 
     {
       "city": "Gloucester", 
@@ -8902,15 +8902,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_14", 
       "created": "2013-08-06T19:48:07", 
       "state_votes": 12, 
-      "votes": 62, 
+      "votes": 63, 
       "district_votes": 4, 
       "state": "FL", 
       "iface": "question", 
       "y": 27.7714, 
       "x": -82.3915, 
-      "latest_vote": "2013-08-08T17:36:44", 
+      "latest_vote": "2013-08-08T18:52:17", 
       "id": 16202732, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Philadelphia", 
@@ -18231,15 +18231,15 @@ opendebate.processFetchedQuestions({
       "district": "AZ_02", 
       "created": "2013-08-05T06:17:51", 
       "state_votes": 1, 
-      "votes": 32, 
+      "votes": 33, 
       "district_votes": 0, 
       "state": "AZ", 
       "iface": "question", 
       "y": 32.2744, 
       "x": -110.829, 
-      "latest_vote": "2013-08-08T17:51:11", 
+      "latest_vote": "2013-08-08T18:52:41", 
       "id": 16176666, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Midlothian", 
@@ -19276,15 +19276,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_08", 
       "created": "2013-08-05T01:42:38", 
       "state_votes": 48, 
-      "votes": 189, 
+      "votes": 190, 
       "district_votes": 15, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.174, 
       "x": -87.9643, 
-      "latest_vote": "2013-08-08T18:50:33", 
+      "latest_vote": "2013-08-08T18:52:44", 
       "id": 16175729, 
-      "trending_score": 24.166666666666668
+      "trending_score": 25.166666666666668
     }, 
     {
       "city": "Tucson", 
@@ -21137,16 +21137,16 @@ opendebate.processFetchedQuestions({
       "submission": "do you support a min wage increase", 
       "district": "LA_02", 
       "created": "2013-08-04T07:58:27", 
-      "state_votes": 18, 
-      "votes": 120, 
+      "state_votes": 19, 
+      "votes": 121, 
       "district_votes": 6, 
       "state": "LA", 
       "iface": "question", 
       "y": 29.9692, 
       "x": -90.0296, 
-      "latest_vote": "2013-08-08T18:30:24", 
+      "latest_vote": "2013-08-08T18:52:11", 
       "id": 16173625, 
-      "trending_score": 5.833333333333333
+      "trending_score": 6.166666666666667
     }, 
     {
       "city": "Lubbock", 
@@ -21251,16 +21251,16 @@ opendebate.processFetchedQuestions({
       "submission": "Can our Postal Service be saved from the death blow Congress dealt it in 2006?", 
       "district": "OR_01", 
       "created": "2013-08-04T04:11:32", 
-      "state_votes": 15, 
-      "votes": 123, 
+      "state_votes": 16, 
+      "votes": 124, 
       "district_votes": 5, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.2096, 
       "x": -123.218, 
-      "latest_vote": "2013-08-08T18:34:03", 
+      "latest_vote": "2013-08-08T18:52:04", 
       "id": 16173512, 
-      "trending_score": 8.0
+      "trending_score": 8.5
     }, 
     {
       "city": "Las Vegas", 
@@ -21593,16 +21593,16 @@ opendebate.processFetchedQuestions({
       "submission": "Why does Congress get a fat retirement and the rest of America gets a 401K?", 
       "district": "TN_02", 
       "created": "2013-08-04T02:04:57", 
-      "state_votes": 17, 
-      "votes": 119, 
+      "state_votes": 18, 
+      "votes": 120, 
       "district_votes": 5, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.8311, 
       "x": -84.0482, 
-      "latest_vote": "2013-08-08T18:42:21", 
+      "latest_vote": "2013-08-08T18:52:50", 
       "id": 16173327, 
-      "trending_score": 6.5
+      "trending_score": 6.833333333333333
     }, 
     {
       "city": "Louisville", 
@@ -22505,16 +22505,16 @@ opendebate.processFetchedQuestions({
       "submission": "How quickly would you say that the Keystone Pipeline must NEVER BE BUILT, since it would be an ecological disaster?", 
       "district": "CO_02", 
       "created": "2013-08-03T23:35:00", 
-      "state_votes": 16, 
-      "votes": 117, 
+      "state_votes": 17, 
+      "votes": 118, 
       "district_votes": 5, 
       "state": "CO", 
       "iface": "question", 
       "y": 39.9389, 
       "x": -105.796, 
-      "latest_vote": "2013-08-08T18:39:37", 
+      "latest_vote": "2013-08-08T18:52:59", 
       "id": 16172941, 
-      "trending_score": 7.833333333333333
+      "trending_score": 8.166666666666668
     }, 
     {
       "city": "Winter Park", 
@@ -22704,7 +22704,7 @@ opendebate.processFetchedQuestions({
       "x": -91.087, 
       "latest_vote": "2013-08-08T18:14:51", 
       "id": 16172866, 
-      "trending_score": 7.75
+      "trending_score": 5.041666666666667
     }, 
     {
       "city": "Austin", 
@@ -22761,7 +22761,7 @@ opendebate.processFetchedQuestions({
       "x": -89.7423, 
       "latest_vote": "2013-08-08T18:46:36", 
       "id": 16172823, 
-      "trending_score": 21.25
+      "trending_score": 14.041666666666666
     }, 
     {
       "city": "", 
@@ -22943,15 +22943,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:20:39", 
       "state_votes": 147, 
-      "votes": 1240, 
+      "votes": 1241, 
       "district_votes": 37, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.7162, 
       "x": -87.5544, 
-      "latest_vote": "2013-08-08T18:49:52", 
+      "latest_vote": "2013-08-08T18:52:27", 
       "id": 16172727, 
-      "trending_score": 20.76666666666667
+      "trending_score": 20.933333333333334
     }, 
     {
       "city": "Waldport", 
@@ -23152,15 +23152,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:08:10", 
       "state_votes": 16, 
-      "votes": 220, 
+      "votes": 221, 
       "district_votes": 3, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.3581, 
       "x": -122.594, 
-      "latest_vote": "2013-08-08T18:50:22", 
+      "latest_vote": "2013-08-08T18:52:40", 
       "id": 16172688, 
-      "trending_score": 25.0
+      "trending_score": 25.5
     }, 
     {
       "city": "Eldridge", 
@@ -23227,16 +23227,16 @@ opendebate.processFetchedQuestions({
       "submission": "where is the accountability? we are lied into war, our lawmakers are obviously involved in insider trading on Wall Street ,the average American is working two jobs to barely survive ,while presidents and CEOs in corporate America make more than they ever have any history of man ,yet God forbid if you're walking down the street with a rock of crack cocaine in your pocket you go directly to jail what's up with that? ", 
       "district": "CO_04", 
       "created": "2013-08-03T22:00:05", 
-      "state_votes": 9, 
-      "votes": 121, 
+      "state_votes": 10, 
+      "votes": 122, 
       "district_votes": 2, 
       "state": "CO", 
       "iface": "question", 
       "y": 40.1668, 
       "x": -105.135, 
-      "latest_vote": "2013-08-08T18:43:07", 
+      "latest_vote": "2013-08-08T18:52:44", 
       "id": 16172661, 
-      "trending_score": 4.0
+      "trending_score": 4.5
     }, 
     {
       "city": "Albert Lea", 
@@ -23445,7 +23445,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2368, 
       "latest_vote": "2013-08-08T18:32:16", 
       "id": 16172542, 
-      "trending_score": 9.833333333333334
+      "trending_score": 7.416666666666667
     }, 
     {
       "city": "Cambridge", 
@@ -23456,15 +23456,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T20:45:26", 
       "state_votes": 167, 
-      "votes": 909, 
+      "votes": 910, 
       "district_votes": 47, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-08T18:51:43", 
+      "latest_vote": "2013-08-08T18:52:23", 
       "id": 16172533, 
-      "trending_score": 20.225
+      "trending_score": 20.425
     }, 
     {
       "city": "Medford", 
@@ -23513,15 +23513,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:52:54", 
       "state_votes": 139, 
-      "votes": 797, 
+      "votes": 798, 
       "district_votes": 38, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4207, 
       "x": -71.1582, 
-      "latest_vote": "2013-08-08T18:50:15", 
+      "latest_vote": "2013-08-08T18:52:10", 
       "id": 16172303, 
-      "trending_score": 19.9
+      "trending_score": 20.15
     }, 
     {
       "city": "Arlington", 
@@ -23570,15 +23570,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:44:14", 
       "state_votes": 40, 
-      "votes": 235, 
+      "votes": 236, 
       "district_votes": 11, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.366, 
       "x": -71.1035, 
-      "latest_vote": "2013-08-08T18:45:56", 
+      "latest_vote": "2013-08-08T18:52:14", 
       "id": 16172283, 
-      "trending_score": 26.0
+      "trending_score": 26.5
     }, 
     {
       "city": "Waltham", 
@@ -23589,15 +23589,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:42:20", 
       "state_votes": 146, 
-      "votes": 918, 
+      "votes": 919, 
       "district_votes": 42, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3699, 
       "x": -71.2368, 
-      "latest_vote": "2013-08-08T18:49:39", 
+      "latest_vote": "2013-08-08T18:52:49", 
       "id": 16172281, 
-      "trending_score": 17.333333333333332
+      "trending_score": 17.583333333333332
     }, 
     {
       "city": "Arlington", 
