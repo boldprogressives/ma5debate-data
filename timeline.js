@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Lucy", 
       "last_name": "Haskins", 
       "user_id": 1680366, 
-      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
       "district": "MA_08", 
-      "created": "2013-08-08T16:28:59", 
+      "created": "2013-08-08T16:29:53", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3606, 
       "x": -71.0654, 
-      "id": 16227195, 
-      "question_id": "16172727"
+      "id": 16227217, 
+      "question_id": "16172303"
+    }, 
+    {
+      "city": "Sterling", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809942, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "MA_02", 
+      "created": "2013-08-08T16:29:34", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4417, 
+      "x": -71.7746, 
+      "id": 16227210, 
+      "question_id": "16173264"
     }, 
     {
       "city": "Weston", 
@@ -318,24 +333,6 @@ opendebate.processTimeline({
       "x": -71.215, 
       "latest_vote": null, 
       "id": 16226956
-    }, 
-    {
-      "city": "Lexington", 
-      "first_name": "Mark", 
-      "last_name": "Sandeen", 
-      "user_id": 1809930, 
-      "submission": "Will you fight to protect the Clean Air Act, the Clean Water Act and the EPA in a House of Representatives that has become increasingly hostile to all three?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T16:09:01", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.4558, 
-      "x": -71.215, 
-      "latest_vote": null, 
-      "id": 16226952
     }
   ]
 });
