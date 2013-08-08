@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Nahant", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809953, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "MA_06", 
-      "created": "2013-08-08T17:10:00", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4263, 
-      "x": -70.9242, 
-      "id": 16227670, 
-      "question_id": "16172266"
-    }, 
-    {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "When will you force Eric Holder and the DOJ to start prosecuting the criminal elements in the Wall Street firms that attributed to the great economic crash of 2008?", 
+      "submission": "What do you feel about the Republican's relentless push to eliminate or seriously curtail abortion rights in most states, and what can be done about it?", 
       "district": "MA_04", 
-      "created": "2013-08-08T17:09:37", 
+      "created": "2013-08-08T17:10:49", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227667, 
-      "question_id": "16209667"
+      "id": 16227677, 
+      "question_id": "16172892"
+    }, 
+    {
+      "city": "Nahant", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809953, 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "district": "MA_06", 
+      "created": "2013-08-08T17:10:41", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4263, 
+      "x": -70.9242, 
+      "id": 16227676, 
+      "question_id": "16173259"
     }, 
     {
       "city": "Peoria", 
