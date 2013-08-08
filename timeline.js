@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Austin", 
-      "first_name": "Otto", 
-      "last_name": "Olivera", 
-      "user_id": 187492, 
-      "submission": "Do/would you support an investigation of any/all Representative\u2019s that signed the Norquist pledge as having a conflict of interest with their pledge to uphold the Constitution and make government work?", 
-      "district": "TX_10", 
-      "created": "2013-08-08T20:13:59", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 30.3788, 
-      "x": -97.7111, 
-      "id": 16232995, 
-      "question_id": "16206139"
-    }, 
-    {
       "city": "Holt", 
       "first_name": "LEILA", 
       "last_name": "NYE", 
       "user_id": 1778492, 
-      "submission": "Will you pledge to have the minimum wage raised for every form of business\u2014so that all workers get their fair share and help support their families?", 
+      "submission": "Do you believe that members of Congress should be held to at least as high of an ethical standard as teachers?  If so, would you be willing to make the results of an similar background check public?", 
       "district": "MI_08", 
-      "created": "2013-08-08T20:13:50", 
+      "created": "2013-08-08T20:15:00", 
       "state": "MI", 
       "iface": "timeline_vote", 
       "y": 42.6405, 
       "x": -84.5287, 
-      "id": 16232993, 
-      "question_id": "16198901"
+      "id": 16233011, 
+      "question_id": "16194645"
+    }, 
+    {
+      "city": "Ann Arbor", 
+      "first_name": "Wendy", 
+      "last_name": "Ransom", 
+      "user_id": 1737291, 
+      "submission": "Why don't we change the lobbying rules so that we do not have a system that legalizes bribery, and why do we not reform the filibuster so congress does not have an excuse to continue doing nothing ?", 
+      "district": "MI_12", 
+      "created": "2013-08-08T20:15:00", 
+      "state": "MI", 
+      "iface": "timeline_vote", 
+      "y": 42.3068, 
+      "x": -83.7004, 
+      "id": 16233012, 
+      "question_id": "16174072"
+    }, 
+    {
+      "city": "Austin", 
+      "first_name": "Otto", 
+      "last_name": "Olivera", 
+      "user_id": 187492, 
+      "submission": "Why is there not even ONE mention about possibly repealing the \"Patriot Act\", even though that one law has completely obliterated all of our civil rights that were guaranteed in the Constitution??? All USA laws have become invalid, especially for protecting against oppressive governmental organizations, by simply declaring ANYONE an \"Enemy Combatant\" with no real justification for that declaration. The Constitution was specifically created to design precautions against an oppressive government that already had gone too far (Britain). ", 
+      "district": "TX_10", 
+      "created": "2013-08-08T20:14:51", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 30.3788, 
+      "x": -97.7111, 
+      "id": 16233009, 
+      "question_id": "16176201"
     }, 
     {
       "city": "Austin", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -71.2044, 
       "id": 16232595, 
       "question_id": "16172823"
-    }, 
-    {
-      "city": "Perris", 
-      "first_name": "Lesley", 
-      "last_name": "Giger", 
-      "user_id": 1693200, 
-      "submission": "Do you support the labeling of GMOs and if so, what do you intend to do to promote people's right to know what is in their food?", 
-      "district": "CA_41", 
-      "created": "2013-08-08T19:52:54", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 33.7836, 
-      "x": -117.339, 
-      "id": 16232585, 
-      "question_id": "16176001"
     }
   ]
 });
