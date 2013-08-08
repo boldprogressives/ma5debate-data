@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Fresh  Meadows", 
+      "first_name": "Paul", 
+      "last_name": "Dambrosi", 
+      "user_id": 401923, 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "district": "NY_06", 
+      "created": "2013-08-08T15:28:43", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.7385, 
+      "x": -73.79, 
+      "id": 16226613, 
+      "question_id": "16172303"
+    }, 
+    {
       "city": "Framingham", 
       "first_name": "Barbara", 
       "last_name": "Safran", 
       "user_id": 1783165, 
-      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
+      "submission": "What can you do to improve public transit nationally, including building a good rail network, when the governors and legislatures of some key states are so resistant to it?", 
       "district": "MA_05", 
-      "created": "2013-08-08T15:27:57", 
+      "created": "2013-08-08T15:28:05", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2721, 
       "x": -71.4248, 
-      "id": 16226610, 
-      "question_id": "16203866"
+      "id": 16226611, 
+      "question_id": "16172286"
     }, 
     {
       "city": "Chambersburg", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -84.3772, 
       "id": 16226484, 
       "question_id": "16201325"
-    }, 
-    {
-      "city": "Swampscott", 
-      "first_name": "Ramon", 
-      "last_name": "Feiven", 
-      "user_id": 1668338, 
-      "submission": "How realistic is it that Wall Street/Banks will ever be held criminally accountable for the destruction it did to Americans and the ecomony?", 
-      "district": "MA_06", 
-      "created": "2013-08-08T14:46:24", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4723, 
-      "x": -70.9082, 
-      "id": 16226473, 
-      "question_id": "16173397"
     }
   ]
 });
