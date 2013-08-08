@@ -21447,14 +21447,14 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
       "district": "MA_05", 
       "created": "2013-08-03T17:42:20", 
-      "state_votes": 121, 
-      "votes": 842, 
+      "state_votes": 122, 
+      "votes": 843, 
       "district_votes": 32, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3699, 
       "x": -71.2368, 
-      "latest_vote": "2013-08-08T12:32:20", 
+      "latest_vote": "2013-08-08T12:55:46", 
       "id": 16172281
     }, 
     {
