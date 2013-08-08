@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Would you be willing to re-shape the appalling and atrocious Congressional behavior, now referred to as \"refusal to govern,\" into a reframed issue around \"continued seditious behavior\" worthy of legal challenge?", 
+      "submission": "will you support legislation ending the cap on social security wages", 
       "district": "MA_04", 
-      "created": "2013-08-08T17:11:56", 
+      "created": "2013-08-08T17:12:55", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227683, 
-      "question_id": "16187926"
+      "id": 16227686, 
+      "question_id": "16208816"
     }, 
     {
       "city": "Peoria", 
