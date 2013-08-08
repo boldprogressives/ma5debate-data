@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Chambersburg", 
+      "first_name": "anthony", 
+      "last_name": "taylor", 
+      "user_id": 1722138, 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "district": "PA_09", 
+      "created": "2013-08-08T15:25:52", 
+      "state": "PA", 
+      "iface": "timeline_vote", 
+      "y": 39.9335, 
+      "x": -77.6746, 
+      "id": 16226595, 
+      "question_id": "16172755"
+    }, 
+    {
       "city": "South Dartmouth", 
       "first_name": "Jeffrey", 
       "last_name": "Simon", 
       "user_id": 374010, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
       "district": "MA_09", 
-      "created": "2013-08-08T15:24:56", 
+      "created": "2013-08-08T15:25:23", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 41.598, 
       "x": -70.954, 
-      "id": 16226588, 
-      "question_id": "16172266"
+      "id": 16226590, 
+      "question_id": "16172913"
     }, 
     {
       "city": "Lexington", 
@@ -300,21 +315,6 @@ opendebate.processTimeline({
       "x": -73.2165, 
       "latest_vote": null, 
       "id": 16226427
-    }, 
-    {
-      "city": "Framingham", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809895, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T14:36:05", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2721, 
-      "x": -71.4248, 
-      "id": 16226417, 
-      "question_id": "16172266"
     }
   ]
 });
