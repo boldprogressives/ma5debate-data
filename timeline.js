@@ -6,14 +6,47 @@ opendebate.processTimeline({
       "first_name": "Carolyn", 
       "last_name": "Tiffany", 
       "user_id": 517663, 
-      "submission": "Do you support the concept of keeping church and state separate?", 
+      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
       "district": "MA_05", 
-      "created": "2013-08-08T15:49:02", 
+      "created": "2013-08-08T15:49:54", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.4484, 
       "x": -71.2338, 
-      "id": 16226778, 
+      "id": 16226781, 
+      "question_id": "16172697"
+    }, 
+    {
+      "city": "Point Pleasant Beach", 
+      "first_name": "Robert", 
+      "last_name": "Moreau, DVM, ACVECC", 
+      "user_id": 387762, 
+      "submission": "Will you sponsor a bill that requires a Congressperson to recuse themselves on any vote where they have accepted monies from any party that stands to gain financially from the legislation?", 
+      "district": "NJ_04", 
+      "created": "2013-08-08T15:49:10", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NJ", 
+      "iface": "timeline_question", 
+      "y": 40.0792, 
+      "x": -74.0659, 
+      "latest_vote": null, 
+      "id": 16226780
+    }, 
+    {
+      "city": "Albuquerque", 
+      "first_name": "Charles", 
+      "last_name": "Shelly", 
+      "user_id": 1057793, 
+      "submission": "Do you support the concept of keeping church and state separate?", 
+      "district": "NM_01", 
+      "created": "2013-08-08T15:49:08", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 35.0723, 
+      "x": -106.578, 
+      "id": 16226779, 
       "question_id": "16173921"
     }, 
     {
@@ -48,21 +81,6 @@ opendebate.processTimeline({
       "x": -74.0659, 
       "latest_vote": null, 
       "id": 16226768
-    }, 
-    {
-      "city": "Albuquerque", 
-      "first_name": "Charles", 
-      "last_name": "Shelly", 
-      "user_id": 1057793, 
-      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
-      "district": "NM_01", 
-      "created": "2013-08-08T15:47:13", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 35.0723, 
-      "x": -106.578, 
-      "id": 16226765, 
-      "question_id": "16173210"
     }, 
     {
       "city": "Uxbridge", 
@@ -291,24 +309,6 @@ opendebate.processTimeline({
       "x": -71.215, 
       "latest_vote": null, 
       "id": 16226585
-    }, 
-    {
-      "city": "Lexington", 
-      "first_name": "John", 
-      "last_name": "Frey", 
-      "user_id": 1079779, 
-      "submission": "Will you help block construction of the KXL pipeline? Will you take serious measures to address climate change?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T15:20:58", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.4558, 
-      "x": -71.215, 
-      "latest_vote": null, 
-      "id": 16226578
     }
   ]
 });
