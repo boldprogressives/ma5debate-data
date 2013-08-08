@@ -2,19 +2,37 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Lexington", 
+      "first_name": "Mark", 
+      "last_name": "Sandeen", 
+      "user_id": 1809930, 
+      "submission": "Will you fight to protect the Clean Air Act, the Clean Water Act and the EPA in a House of Representatives that has become increasingly hostile to all three?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T16:09:01", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.4558, 
+      "x": -71.215, 
+      "latest_vote": null, 
+      "id": 16226952
+    }, 
+    {
       "city": "Watertown", 
       "first_name": "Bill", 
       "last_name": "Mahoney", 
       "user_id": 458708, 
-      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
+      "submission": "It is time we stop rewarding companies that outsource American jobs.  Would you propose a new tax on these companies, an import tax on products produced by these companies or some other form of incentive to keep jobs in this country?  Please be specific.", 
       "district": "MA_05", 
-      "created": "2013-08-08T16:07:56", 
+      "created": "2013-08-08T16:08:55", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3713, 
       "x": -71.1804, 
-      "id": 16226942, 
-      "question_id": "16175637"
+      "id": 16226950, 
+      "question_id": "16175276"
     }, 
     {
       "city": "lexington", 
@@ -296,21 +314,6 @@ opendebate.processTimeline({
       "y": 42.0784, 
       "x": -71.6341, 
       "id": 16226751, 
-      "question_id": "16172777"
-    }, 
-    {
-      "city": "Hyannis", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809913, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "MA_09", 
-      "created": "2013-08-08T15:42:09", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 41.6515, 
-      "x": -70.2956, 
-      "id": 16226746, 
       "question_id": "16172777"
     }
   ]
