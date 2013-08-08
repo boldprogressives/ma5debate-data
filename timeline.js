@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Where do you stand with regard to GMO labeling. Is it our right as citizens to have complete transparency with regard to the foods we choose to eat. ", 
+      "district": "MA_04", 
+      "created": "2013-08-08T17:29:01", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16227868, 
+      "question_id": "16178048"
+    }, 
+    {
       "city": "Springfield", 
       "first_name": "", 
       "last_name": "", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -72.487, 
       "id": 16227860, 
       "question_id": "16188211"
-    }, 
-    {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "When will we get universal health care? And would you support a single payer system similar to Canada's?", 
-      "district": "MA_04", 
-      "created": "2013-08-08T17:27:52", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16227858, 
-      "question_id": "16174014"
     }, 
     {
       "city": "Ann Arbor", 

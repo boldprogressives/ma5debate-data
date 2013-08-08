@@ -85,16 +85,16 @@ opendebate.processFetchedQuestions({
       "submission": "Many people asked great questions. Mine is: Will you continue to work to keep abortion, not just legal, because it is still legal, but also make sure that facilities are easy to access, low cost and not expensive and hundreds of miles away, making abortion a hardship for poor or middle class women?Without low cost and easy access, you will find that women find charlatans like Gosnell risking their lives. ", 
       "district": "MA_01", 
       "created": "2013-08-08T16:17:51", 
-      "state_votes": 2, 
-      "votes": 2, 
+      "state_votes": 3, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4555, 
       "x": -73.25, 
-      "latest_vote": "2013-08-08T16:36:33", 
+      "latest_vote": "2013-08-08T17:28:33", 
       "id": 16227025, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Lexington", 
@@ -104,16 +104,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you push the federal government to provide more support to communities who are implementing climate action plans, reducing emissions and adapting to the severe impacts of climate change?", 
       "district": "MA_05", 
       "created": "2013-08-08T16:15:40", 
-      "state_votes": 2, 
-      "votes": 2, 
+      "state_votes": 3, 
+      "votes": 3, 
       "district_votes": 2, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4558, 
       "x": -71.215, 
-      "latest_vote": "2013-08-08T16:41:16", 
+      "latest_vote": "2013-08-08T17:28:42", 
       "id": 16226994, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Lexington", 
@@ -123,16 +123,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you support legislation designed to encourage more local farms and farming that is less dependent on fossil fuels?", 
       "district": "MA_05", 
       "created": "2013-08-08T16:13:08", 
-      "state_votes": 3, 
-      "votes": 3, 
+      "state_votes": 4, 
+      "votes": 4, 
       "district_votes": 2, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4558, 
       "x": -71.215, 
-      "latest_vote": "2013-08-08T16:59:09", 
+      "latest_vote": "2013-08-08T17:28:44", 
       "id": 16226977, 
-      "trending_score": 3.5
+      "trending_score": 4.5
     }, 
     {
       "city": "Lexington", 
@@ -607,7 +607,7 @@ opendebate.processFetchedQuestions({
       "x": -71.4467, 
       "latest_vote": "2013-08-08T16:40:24", 
       "id": 16225595, 
-      "trending_score": 2.0
+      "trending_score": 2.25
     }, 
     {
       "city": "Watertown", 
@@ -626,7 +626,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1804, 
       "latest_vote": "2013-08-08T16:40:16", 
       "id": 16225591, 
-      "trending_score": 2.0
+      "trending_score": 2.25
     }, 
     {
       "city": "Littleton", 
@@ -8331,16 +8331,16 @@ opendebate.processFetchedQuestions({
       "submission": "Where do you stand on trade agreements such as the Trans Pacific Partnership, and the secrecy surrounding it?", 
       "district": "MA_01", 
       "created": "2013-08-06T20:06:05", 
-      "state_votes": 7, 
-      "votes": 38, 
+      "state_votes": 8, 
+      "votes": 39, 
       "district_votes": 2, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.204, 
       "x": -72.6301, 
-      "latest_vote": "2013-08-08T16:10:34", 
+      "latest_vote": "2013-08-08T17:28:42", 
       "id": 16203477, 
-      "trending_score": 3.5
+      "trending_score": 4.5
     }, 
     {
       "city": "Elmira", 
@@ -8730,16 +8730,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you fight to protect voting rights of all Americans?", 
       "district": "OH_09", 
       "created": "2013-08-06T19:27:12", 
-      "state_votes": 16, 
-      "votes": 79, 
-      "district_votes": 4, 
+      "state_votes": 17, 
+      "votes": 80, 
+      "district_votes": 5, 
       "state": "OH", 
       "iface": "question", 
       "y": 41.405, 
       "x": -82.7314, 
-      "latest_vote": "2013-08-08T16:53:41", 
+      "latest_vote": "2013-08-08T17:28:07", 
       "id": 16201559, 
-      "trending_score": 5.5
+      "trending_score": 6.5
     }, 
     {
       "city": "North Andover", 
@@ -16957,16 +16957,16 @@ opendebate.processFetchedQuestions({
       "submission": "Where do you stand with regard to GMO labeling. Is it our right as citizens to have complete transparency with regard to the foods we choose to eat. ", 
       "district": "AZ_06", 
       "created": "2013-08-05T17:03:13", 
-      "state_votes": 0, 
-      "votes": 38, 
+      "state_votes": 1, 
+      "votes": 39, 
       "district_votes": 0, 
       "state": "AZ", 
       "iface": "question", 
       "y": 33.6275, 
       "x": -112.052, 
-      "latest_vote": "2013-08-07T08:08:55", 
+      "latest_vote": "2013-08-08T17:29:01", 
       "id": 16178048, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Rathdrum", 
@@ -20453,16 +20453,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you consider whistleblower Americans Bradley Manning & Edward Snowden heros or villians? Why? ", 
       "district": "MO_08", 
       "created": "2013-08-04T15:03:20", 
-      "state_votes": 16, 
-      "votes": 83, 
-      "district_votes": 4, 
+      "state_votes": 17, 
+      "votes": 84, 
+      "district_votes": 5, 
       "state": "MO", 
       "iface": "question", 
       "y": 37.319, 
       "x": -89.5406, 
-      "latest_vote": "2013-08-08T16:53:10", 
+      "latest_vote": "2013-08-08T17:28:34", 
       "id": 16174044, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Forest Grove", 
