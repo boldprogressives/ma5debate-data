@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Austin", 
-      "first_name": "Otto", 
-      "last_name": "Olivera", 
-      "user_id": 187492, 
-      "submission": "Why is it that Halliburton only gets a $200K fine for destroying evidence concerning the Gulf oil spill when if you make a copy of a DVD you get a $250K fine and up to 5 years in prison?", 
-      "district": "TX_10", 
-      "created": "2013-08-08T20:08:49", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 30.3788, 
-      "x": -97.7111, 
-      "id": 16232912, 
-      "question_id": "16175493"
-    }, 
-    {
       "city": "Holt", 
       "first_name": "LEILA", 
       "last_name": "NYE", 
       "user_id": 1778492, 
-      "submission": "What bill do you intend to introduce to eliminate corporations moving jobs out of the country and decrease the use of H-1B visas that corporations abuse and falsely say no Americans to do the job?", 
+      "submission": "Do you support removing, or substantially raising, the SS salary cap?", 
       "district": "MI_08", 
-      "created": "2013-08-08T20:08:34", 
+      "created": "2013-08-08T20:09:59", 
       "state": "MI", 
       "iface": "timeline_vote", 
       "y": 42.6405, 
       "x": -84.5287, 
-      "id": 16232909, 
-      "question_id": "16175815"
+      "id": 16232925, 
+      "question_id": "16209605"
+    }, 
+    {
+      "city": "Austin", 
+      "first_name": "Otto", 
+      "last_name": "Olivera", 
+      "user_id": 187492, 
+      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "district": "TX_10", 
+      "created": "2013-08-08T20:09:39", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 30.3788, 
+      "x": -97.7111, 
+      "id": 16232923, 
+      "question_id": "16172727"
     }, 
     {
       "city": "San Diego", 
