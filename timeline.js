@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
+      "submission": "what will you do to bring jobs back to America and stop out sourcing everything?", 
       "district": "MA_04", 
-      "created": "2013-08-08T16:52:02", 
+      "created": "2013-08-08T16:52:53", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227511, 
-      "question_id": "16203676"
+      "id": 16227515, 
+      "question_id": "16175641"
     }, 
     {
       "city": "Boston", 
