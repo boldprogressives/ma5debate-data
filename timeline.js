@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Carolyn", 
       "last_name": "Tiffany", 
       "user_id": 517663, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "submission": "Do you support the concept of keeping church and state separate?", 
       "district": "MA_05", 
-      "created": "2013-08-08T15:48:03", 
+      "created": "2013-08-08T15:49:02", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.4484, 
       "x": -71.2338, 
-      "id": 16226773, 
-      "question_id": "16172913"
+      "id": 16226778, 
+      "question_id": "16173921"
     }, 
     {
       "city": "Palos Park", 
