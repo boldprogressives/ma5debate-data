@@ -7677,14 +7677,14 @@ opendebate.processFetchedQuestions({
       "submission": "How would you reform the process of drawing congressional districts so that it represents the interests of the people and does not favor any one party?", 
       "district": "OR_02", 
       "created": "2013-08-06T19:35:07", 
-      "state_votes": 11, 
-      "votes": 77, 
+      "state_votes": 12, 
+      "votes": 78, 
       "district_votes": 5, 
       "state": "OR", 
       "iface": "question", 
       "y": 42.1583, 
       "x": -122.634, 
-      "latest_vote": "2013-08-08T14:11:05", 
+      "latest_vote": "2013-08-08T14:23:16", 
       "id": 16201951
     }, 
     {

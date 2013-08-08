@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Cambridge", 
+      "first_name": "Sam", 
+      "last_name": "Geller", 
+      "user_id": 1808953, 
+      "submission": "How would you reform the process of drawing congressional districts so that it represents the interests of the people and does not favor any one party?", 
+      "district": "MA_07", 
+      "created": "2013-08-08T14:23:16", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3683, 
+      "x": -71.0824, 
+      "id": 16226340, 
+      "question_id": "16201951"
+    }, 
+    {
       "city": "Winchester", 
       "first_name": "", 
       "last_name": "", 
@@ -285,21 +300,6 @@ opendebate.processTimeline({
       "x": -71.146, 
       "id": 16226316, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Winchester", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809890, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T14:19:42", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4529, 
-      "x": -71.146, 
-      "id": 16226315, 
-      "question_id": "16173264"
     }, 
     {
       "city": "Sterling", 
