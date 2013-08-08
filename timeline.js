@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Henry", 
       "last_name": "Harrison", 
       "user_id": 1074803, 
-      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
+      "submission": "Do you support the concept of keeping church and state separate?", 
       "district": "MA_05", 
-      "created": "2013-08-08T15:11:48", 
+      "created": "2013-08-08T15:12:32", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.4239, 
       "x": -71.3142, 
-      "id": 16226531, 
-      "question_id": "16173210"
+      "id": 16226534, 
+      "question_id": "16173921"
     }, 
     {
       "city": "Somerville", 
