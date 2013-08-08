@@ -8398,13 +8398,13 @@ opendebate.processFetchedQuestions({
       "district": "TN_04", 
       "created": "2013-08-06T18:47:43", 
       "state_votes": 14, 
-      "votes": 89, 
+      "votes": 90, 
       "district_votes": 6, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.476, 
       "x": -86.4672, 
-      "latest_vote": "2013-08-08T14:46:04", 
+      "latest_vote": "2013-08-08T14:54:52", 
       "id": 16199834
     }, 
     {
@@ -16138,13 +16138,13 @@ opendebate.processFetchedQuestions({
       "district": "SD_01", 
       "created": "2013-08-05T08:33:08", 
       "state_votes": 12, 
-      "votes": 91, 
+      "votes": 92, 
       "district_votes": 3, 
       "state": "SD", 
       "iface": "question", 
       "y": 43.517, 
       "x": -96.7896, 
-      "latest_vote": "2013-08-08T14:46:14", 
+      "latest_vote": "2013-08-08T14:54:49", 
       "id": 16176855
     }, 
     {
