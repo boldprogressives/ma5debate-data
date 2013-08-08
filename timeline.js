@@ -2,19 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Carver", 
+      "first_name": "Judith", 
+      "last_name": "Kelly", 
+      "user_id": 1652499, 
+      "submission": "What is your view of the \"Race to the Top\" approach to education and its reliance on increased standardized testing and nationwide standardization via the Common Core?", 
+      "district": "MA_09", 
+      "created": "2013-08-08T18:50:00", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 41.8805, 
+      "x": -70.7675, 
+      "id": 16230914, 
+      "question_id": "16202179"
+    }, 
+    {
+      "city": "Atlanta", 
+      "first_name": "Barbara", 
+      "last_name": "Carr", 
+      "user_id": 31461, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "GA_06", 
+      "created": "2013-08-08T18:49:55", 
+      "state": "GA", 
+      "iface": "timeline_vote", 
+      "y": 33.8755, 
+      "x": -84.3334, 
+      "id": 16230913, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Rochester", 
       "first_name": "Ira", 
       "last_name": "Simel", 
       "user_id": 1095087, 
-      "submission": "Would you support the proposition that Big Oil should help to fund the veterans rehab issues, and their benefits since they were sent to fight for their safe access to oil.", 
+      "submission": "Will you vote to end subsides on sugar, corn syrup, etc. that contribute to  obesity?", 
       "district": "NY_25", 
-      "created": "2013-08-08T18:48:45", 
+      "created": "2013-08-08T18:49:53", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 43.1519, 
       "x": -77.5935, 
-      "id": 16230898, 
-      "question_id": "16173438"
+      "id": 16230912, 
+      "question_id": "16174330"
+    }, 
+    {
+      "city": "Ponce de Leon", 
+      "first_name": "Jack", 
+      "last_name": "Yates", 
+      "user_id": 1772170, 
+      "submission": "Why are we subsidizing farmers to not grow crops or sending our food overseas to feed others when so many Americans in our country our going hungry!", 
+      "district": "FL_01", 
+      "created": "2013-08-08T18:49:23", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 30.771, 
+      "x": -85.9538, 
+      "id": 16230902, 
+      "question_id": "16226345"
     }, 
     {
       "city": "Delray Beach", 
@@ -30,21 +75,6 @@ opendebate.processTimeline({
       "x": -80.1028, 
       "id": 16230896, 
       "question_id": "16175493"
-    }, 
-    {
-      "city": "Ponce de Leon", 
-      "first_name": "Jack", 
-      "last_name": "Yates", 
-      "user_id": 1772170, 
-      "submission": "What is your position on the validity of the Citizens United decision that corporations have the same rights as citizens?", 
-      "district": "FL_01", 
-      "created": "2013-08-08T18:48:20", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 30.771, 
-      "x": -85.9538, 
-      "id": 16230893, 
-      "question_id": "16172265"
     }, 
     {
       "city": "Somerville", 
@@ -190,21 +220,6 @@ opendebate.processTimeline({
       "question_id": "16199725"
     }, 
     {
-      "city": "Carver", 
-      "first_name": "Judith", 
-      "last_name": "Kelly", 
-      "user_id": 1652499, 
-      "submission": "It is time we stop rewarding companies that outsource American jobs.  Would you propose a new tax on these companies, an import tax on products produced by these companies or some other form of incentive to keep jobs in this country?  Please be specific.", 
-      "district": "MA_09", 
-      "created": "2013-08-08T18:45:13", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 41.8805, 
-      "x": -70.7675, 
-      "id": 16230824, 
-      "question_id": "16175276"
-    }, 
-    {
       "city": "Pahrump", 
       "first_name": "Connie", 
       "last_name": "Howard", 
@@ -293,25 +308,6 @@ opendebate.processTimeline({
       "x": -71.1907, 
       "id": 16230784, 
       "question_id": "16213319"
-    }, 
-    {
-      "city": "Battle Ground", 
-      "first_name": "Ken", 
-      "last_name": "Hunt", 
-      "user_id": 1807927, 
-      "submission": "Do you believe the open debate format should be extended to all 50 states in the United States?", 
-      "district": "WA_03", 
-      "created": "2013-08-08T18:42:37", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "WA", 
-      "iface": "timeline_question", 
-      "y": 45.795, 
-      "x": -122.52, 
-      "latest_vote": null, 
-      "id": 16230774, 
-      "trending_score": 0.5
     }
   ]
 });
