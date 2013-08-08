@@ -2,34 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Boston", 
-      "first_name": "Lucy", 
-      "last_name": "Haskins", 
-      "user_id": 1680366, 
-      "submission": "Outlaw the use of \"Private Defense Contractors\". They a nothing more than mercenaries, and as such, are not beholden to the laws and restraints that keep the public safe from official law enforcement.", 
-      "district": "MA_08", 
-      "created": "2013-08-08T16:47:01", 
+      "city": "Worcester", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809735, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "MA_02", 
+      "created": "2013-08-08T16:47:50", 
       "state": "MA", 
       "iface": "timeline_vote", 
-      "y": 42.3606, 
-      "x": -71.0654, 
-      "id": 16227473, 
-      "question_id": "16194273"
+      "y": 42.2862, 
+      "x": -71.7959, 
+      "id": 16227482, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "do you support a min wage increase", 
+      "submission": "Who are your corporate sponsors? Would you be in favor of all politicians wearing patches on their cloths with the corporate logo's of their sponsors just like athletes do. This way we know where the money comes from before we vote.", 
       "district": "MA_04", 
-      "created": "2013-08-08T16:46:44", 
+      "created": "2013-08-08T16:47:48", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227472, 
-      "question_id": "16173625"
+      "id": 16227481, 
+      "question_id": "16175691"
+    }, 
+    {
+      "city": "Arlington Heights", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809944, 
+      "submission": "Will you prioritize the development of clean renewable energy \u2013 and adopting a national renewable portfolio standard modeled on Massachusetts\u2019 RPS standard? ", 
+      "district": "MA_05", 
+      "created": "2013-08-08T16:47:45", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4203, 
+      "x": -71.1809, 
+      "id": 16227480, 
+      "question_id": "16226961"
+    }, 
+    {
+      "city": "Boston", 
+      "first_name": "Lucy", 
+      "last_name": "Haskins", 
+      "user_id": 1680366, 
+      "submission": "Will you pledge to uphold the Affordable Care Act and help states implement it -- not defund it?", 
+      "district": "MA_08", 
+      "created": "2013-08-08T16:47:28", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3606, 
+      "x": -71.0654, 
+      "id": 16227479, 
+      "question_id": "16181276"
     }, 
     {
       "city": "Leominster", 
@@ -45,21 +75,6 @@ opendebate.processTimeline({
       "x": -71.7535, 
       "id": 16227462, 
       "question_id": "16172207"
-    }, 
-    {
-      "city": "Arlington Heights", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809944, 
-      "submission": "Will you push the federal government to provide more support to communities who are implementing climate action plans, reducing emissions and adapting to the severe impacts of climate change?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T16:41:16", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4203, 
-      "x": -71.1809, 
-      "id": 16227414, 
-      "question_id": "16226994"
     }, 
     {
       "city": "Medford", 
@@ -306,21 +321,6 @@ opendebate.processTimeline({
       "x": -71.215, 
       "latest_vote": "2013-08-08T16:39:09", 
       "id": 16226969
-    }, 
-    {
-      "city": "Watertown", 
-      "first_name": "Bill", 
-      "last_name": "Mahoney", 
-      "user_id": 458708, 
-      "submission": "When will the Congress return all the money of  our Social Security funds we paid for or retirement  return back to the Social Security fund?  We need a date and we need every penny which was  robbed from our people's  money Returned NOW! ", 
-      "district": "MA_05", 
-      "created": "2013-08-08T16:11:35", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3713, 
-      "x": -71.1804, 
-      "id": 16226968, 
-      "question_id": "16201865"
     }
   ]
 });
