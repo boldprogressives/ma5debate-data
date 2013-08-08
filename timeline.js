@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Framingham", 
-      "first_name": "Barbara", 
-      "last_name": "Safran", 
-      "user_id": 1783165, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T15:33:01", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2721, 
-      "x": -71.4248, 
-      "id": 16226648, 
-      "question_id": "16172281"
-    }, 
-    {
       "city": "Holliston", 
       "first_name": "", 
       "last_name": "", 
       "user_id": 1809907, 
-      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "submission": "Congress persons have voted to put themselves in the driver's seat when it comes to their salaries. They vote themselves raises and we as citizens cannot over turn. What will you do to stop this practice?", 
       "district": "MA_05", 
-      "created": "2013-08-08T15:32:45", 
+      "created": "2013-08-08T15:34:02", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.1988, 
       "x": -71.4351, 
-      "id": 16226646, 
-      "question_id": "16173335"
+      "id": 16226658, 
+      "question_id": "16173244"
+    }, 
+    {
+      "city": "Framingham", 
+      "first_name": "Barbara", 
+      "last_name": "Safran", 
+      "user_id": 1783165, 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T15:33:38", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2721, 
+      "x": -71.4248, 
+      "id": 16226655, 
+      "question_id": "16172303"
     }, 
     {
       "city": "Fresh  Meadows", 
