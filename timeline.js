@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Will you vote against any proposal that supports the TarSands Keystone project?", 
+      "submission": "Do you think Citizens United should be abandoned and the idea of corporations as people is unfair to real people?", 
       "district": "MA_04", 
-      "created": "2013-08-08T16:53:51", 
+      "created": "2013-08-08T16:54:56", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227522, 
-      "question_id": "16199877"
+      "id": 16227524, 
+      "question_id": "16201423"
     }, 
     {
       "city": "Boston", 
