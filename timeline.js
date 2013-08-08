@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "lexington", 
+      "first_name": "Carolyn", 
+      "last_name": "Tiffany", 
+      "user_id": 517663, 
+      "submission": "Who is financing your campaign and what have you promised in return for this support?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T15:59:53", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4484, 
+      "x": -71.2338, 
+      "id": 16226880, 
+      "question_id": "16199725"
+    }, 
+    {
       "city": "Village of Nagog Woods", 
       "first_name": "", 
       "last_name": "", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -71.4123, 
       "id": 16226876, 
       "question_id": "16172777"
-    }, 
-    {
-      "city": "lexington", 
-      "first_name": "Carolyn", 
-      "last_name": "Tiffany", 
-      "user_id": 517663, 
-      "submission": "Will you support carbon taxes?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T15:58:35", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4484, 
-      "x": -71.2338, 
-      "id": 16226875, 
-      "question_id": "16174323"
     }, 
     {
       "city": "Albuquerque", 
