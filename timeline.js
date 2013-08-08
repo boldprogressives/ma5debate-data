@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Framingham", 
-      "first_name": "Barbara", 
-      "last_name": "Safran", 
-      "user_id": 1783165, 
-      "submission": "do you support a min wage increase", 
-      "district": "MA_05", 
-      "created": "2013-08-08T15:30:02", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2721, 
-      "x": -71.4248, 
-      "id": 16226620, 
-      "question_id": "16173625"
-    }, 
-    {
       "city": "Fresh  Meadows", 
       "first_name": "Paul", 
       "last_name": "Dambrosi", 
       "user_id": 401923, 
-      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
+      "submission": "Will you support carbon taxes?", 
       "district": "NY_06", 
-      "created": "2013-08-08T15:29:28", 
+      "created": "2013-08-08T15:31:02", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7385, 
       "x": -73.79, 
-      "id": 16226614, 
-      "question_id": "16202059"
+      "id": 16226627, 
+      "question_id": "16174323"
+    }, 
+    {
+      "city": "Framingham", 
+      "first_name": "Barbara", 
+      "last_name": "Safran", 
+      "user_id": 1783165, 
+      "submission": "How realistic is it that Wall Street/Banks will ever be held criminally accountable for the destruction it did to Americans and the ecomony?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T15:30:45", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2721, 
+      "x": -71.4248, 
+      "id": 16226626, 
+      "question_id": "16173397"
     }, 
     {
       "city": "Chambersburg", 
