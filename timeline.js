@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "North Andover", 
+      "first_name": "Mary", 
+      "last_name": "McCormick", 
+      "user_id": 1698240, 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "district": "MA_06", 
+      "created": "2013-08-08T15:14:59", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.6862, 
+      "x": -71.1057, 
+      "id": 16226548, 
+      "question_id": "16172755"
+    }, 
+    {
       "city": "Westport", 
       "first_name": "", 
       "last_name": "", 
@@ -297,24 +312,6 @@ opendebate.processTimeline({
       "x": -71.146, 
       "latest_vote": "2013-08-08T15:03:47", 
       "id": 16226347
-    }, 
-    {
-      "city": "Muskegon", 
-      "first_name": "Steve", 
-      "last_name": "keglovitz", 
-      "user_id": 495844, 
-      "submission": "Why are we subsidizing farmers to not grow crops or sending our food overseas to feed others when so many Americans in our country our going hungry!", 
-      "district": "MI_02", 
-      "created": "2013-08-08T14:24:55", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MI", 
-      "iface": "timeline_question", 
-      "y": 43.1684, 
-      "x": -86.1845, 
-      "latest_vote": null, 
-      "id": 16226345
     }
   ]
 });
