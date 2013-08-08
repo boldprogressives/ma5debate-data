@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Cherry Valley", 
+      "first_name": "Ramsay", 
+      "last_name": "Macinnes", 
+      "user_id": 1598797, 
+      "submission": "What will you do to overturn Citizen's United?", 
+      "district": "MA_02", 
+      "created": "2013-08-08T16:02:57", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.243, 
+      "x": -71.8734, 
+      "id": 16226895, 
+      "question_id": "16172765"
+    }, 
+    {
+      "city": "Albuquerque", 
+      "first_name": "Charles", 
+      "last_name": "Shelly", 
+      "user_id": 1057793, 
+      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
+      "district": "NM_01", 
+      "created": "2013-08-08T16:02:17", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 35.0723, 
+      "x": -106.578, 
+      "id": 16226892, 
+      "question_id": "16172207"
+    }, 
+    {
       "city": "Palos Park", 
       "first_name": "Devin", 
       "last_name": "Ferreira", 
@@ -63,21 +93,6 @@ opendebate.processTimeline({
       "x": -71.4123, 
       "id": 16226876, 
       "question_id": "16172777"
-    }, 
-    {
-      "city": "Albuquerque", 
-      "first_name": "Charles", 
-      "last_name": "Shelly", 
-      "user_id": 1057793, 
-      "submission": "In 2006, the lame-duck GOP congress enacted a bill forcing the U.S.Postal service to fully fund pensions for the next 75 years and do it in ten years. It's a bill that was designed to ruin the USPS so it could be privatized. Will you work to repeal this onerous bill and introduce legislation to allow the USPS to compete with private carriers?", 
-      "district": "NM_01", 
-      "created": "2013-08-08T15:58:28", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 35.0723, 
-      "x": -106.578, 
-      "id": 16226873, 
-      "question_id": "16206983"
     }, 
     {
       "city": "Westwood", 
@@ -294,21 +309,6 @@ opendebate.processTimeline({
       "x": -71.3523, 
       "id": 16226743, 
       "question_id": "16172281"
-    }, 
-    {
-      "city": "Dighton", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809909, 
-      "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
-      "district": "MA_04", 
-      "created": "2013-08-08T15:39:08", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 41.819, 
-      "x": -71.1353, 
-      "id": 16226732, 
-      "question_id": "16172542"
     }
   ]
 });

@@ -20961,14 +20961,14 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do to overturn Citizen's United?", 
       "district": "OR_05", 
       "created": "2013-08-03T22:30:45", 
-      "state_votes": 71, 
-      "votes": 471, 
+      "state_votes": 72, 
+      "votes": 472, 
       "district_votes": 17, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.3898, 
       "x": -122.589, 
-      "latest_vote": "2013-08-08T15:56:23", 
+      "latest_vote": "2013-08-08T16:02:57", 
       "id": 16172765
     }, 
     {
@@ -21844,13 +21844,13 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:00:17", 
       "state_votes": 124, 
-      "votes": 727, 
+      "votes": 728, 
       "district_votes": 36, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.366, 
       "x": -71.1035, 
-      "latest_vote": "2013-08-08T15:55:59", 
+      "latest_vote": "2013-08-08T16:02:17", 
       "id": 16172207
     }, 
     {
