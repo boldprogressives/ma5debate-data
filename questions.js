@@ -10,13 +10,13 @@ opendebate.processFetchedQuestions({
       "district": "MA_01", 
       "created": "2013-08-08T11:45:30", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.1564, 
       "x": -72.7787, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-08T12:21:09", 
       "id": 16225646
     }, 
     {
