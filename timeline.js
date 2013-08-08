@@ -6,6 +6,36 @@ opendebate.processTimeline({
       "first_name": "Annmari", 
       "last_name": "Lundin", 
       "user_id": 1695695, 
+      "submission": "Given that America is engaged in perpetual war, significantly draining our economy, and in my opinion, not significantly protecting our freedom, what are your thoughts on the perpetual warfare state?", 
+      "district": "FL_07", 
+      "created": "2013-08-08T14:56:33", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 28.6608, 
+      "x": -81.3098, 
+      "id": 16226494, 
+      "question_id": "16173193"
+    }, 
+    {
+      "city": "Casselberry", 
+      "first_name": "Annmari", 
+      "last_name": "Lundin", 
+      "user_id": 1695695, 
+      "submission": "Why does Congress get a fat retirement and the rest of America gets a 401K?", 
+      "district": "FL_07", 
+      "created": "2013-08-08T14:56:08", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 28.6608, 
+      "x": -81.3098, 
+      "id": 16226493, 
+      "question_id": "16173327"
+    }, 
+    {
+      "city": "Casselberry", 
+      "first_name": "Annmari", 
+      "last_name": "Lundin", 
+      "user_id": 1695695, 
       "submission": "Who are your corporate sponsors? Would you be in favor of all politicians wearing patches on their cloths with the corporate logo's of their sponsors just like athletes do. This way we know where the money comes from before we vote.", 
       "district": "FL_07", 
       "created": "2013-08-08T14:55:59", 
@@ -270,36 +300,6 @@ opendebate.processTimeline({
       "x": -70.9082, 
       "id": 16226466, 
       "question_id": "16175078"
-    }, 
-    {
-      "city": "Swampscott", 
-      "first_name": "Ramon", 
-      "last_name": "Feiven", 
-      "user_id": 1668338, 
-      "submission": "What are your thoughts on how to stop corporate welfare, tax loopholes and subsidies.", 
-      "district": "MA_06", 
-      "created": "2013-08-08T14:45:21", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4723, 
-      "x": -70.9082, 
-      "id": 16226465, 
-      "question_id": "16206470"
-    }, 
-    {
-      "city": "Swampscott", 
-      "first_name": "Ramon", 
-      "last_name": "Feiven", 
-      "user_id": 1668338, 
-      "submission": "Can you explain why the people responsible for the failure of Wall Street and the banking industry have not been held accountable for the destruction of our economy.", 
-      "district": "MA_06", 
-      "created": "2013-08-08T14:45:16", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4723, 
-      "x": -70.9082, 
-      "id": 16226464, 
-      "question_id": "16201979"
     }
   ]
 });
