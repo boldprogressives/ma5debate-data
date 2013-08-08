@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "", 
       "last_name": "", 
       "user_id": 1809907, 
-      "submission": "Congress persons have voted to put themselves in the driver's seat when it comes to their salaries. They vote themselves raises and we as citizens cannot over turn. What will you do to stop this practice?", 
+      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
       "district": "MA_05", 
-      "created": "2013-08-08T15:34:02", 
+      "created": "2013-08-08T15:34:59", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.1988, 
       "x": -71.4351, 
-      "id": 16226658, 
-      "question_id": "16173244"
+      "id": 16226670, 
+      "question_id": "16175740"
+    }, 
+    {
+      "city": "Fresh  Meadows", 
+      "first_name": "Paul", 
+      "last_name": "Dambrosi", 
+      "user_id": 401923, 
+      "submission": "Where do you stand on trade agreements such as the Trans Pacific Partnership, and the secrecy surrounding it?", 
+      "district": "NY_06", 
+      "created": "2013-08-08T15:34:37", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.7385, 
+      "x": -73.79, 
+      "id": 16226666, 
+      "question_id": "16203477"
     }, 
     {
       "city": "Framingham", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -71.4248, 
       "id": 16226655, 
       "question_id": "16172303"
-    }, 
-    {
-      "city": "Fresh  Meadows", 
-      "first_name": "Paul", 
-      "last_name": "Dambrosi", 
-      "user_id": 401923, 
-      "submission": "Do you support a financial transaction tax?", 
-      "district": "NY_06", 
-      "created": "2013-08-08T15:31:18", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.7385, 
-      "x": -73.79, 
-      "id": 16226629, 
-      "question_id": "16174331"
     }, 
     {
       "city": "Chambersburg", 
