@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "will you support legislation ending the cap on social security wages", 
+      "submission": "Investments in early childhood have been found by economists to have a 7 to 1 return on investment. Would you introduce legislation for programs such as newborn home visiting, parenting education and support, and high quality available and affordable early childhood education?", 
       "district": "MA_04", 
-      "created": "2013-08-08T17:12:55", 
+      "created": "2013-08-08T17:13:52", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227686, 
-      "question_id": "16208816"
+      "id": 16227690, 
+      "question_id": "16172296"
+    }, 
+    {
+      "city": "Hardin", 
+      "first_name": "sj", 
+      "last_name": "DeClue", 
+      "user_id": 1655849, 
+      "submission": "ALEC is taking over state legislation in republican states.  Will you keep constituents informed as to members of ALEC in the state governments?", 
+      "district": "KY_01", 
+      "created": "2013-08-08T17:13:19", 
+      "state": "KY", 
+      "iface": "timeline_vote", 
+      "y": 36.7811, 
+      "x": -88.2527, 
+      "id": 16227688, 
+      "question_id": "16173111"
     }, 
     {
       "city": "Peoria", 
@@ -294,24 +309,6 @@ opendebate.processTimeline({
       "x": -71.1312, 
       "latest_vote": "2013-08-08T16:34:33", 
       "id": 16227124
-    }, 
-    {
-      "city": "Roslindale", 
-      "first_name": "Michael", 
-      "last_name": "Berger", 
-      "user_id": 1809940, 
-      "submission": "Where is your balance between safety from terrorists and Constitutional protection for civil liberties (4th Amendement)?", 
-      "district": "MA_07", 
-      "created": "2013-08-08T16:25:15", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.2847, 
-      "x": -71.1277, 
-      "latest_vote": null, 
-      "id": 16227113
     }
   ]
 });
