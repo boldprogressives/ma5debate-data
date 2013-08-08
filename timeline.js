@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "", 
       "last_name": "", 
       "user_id": 1809949, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and if not why not?", 
+      "submission": "What will you do to stop coal mining by mountain top removal?", 
       "district": "MA_01", 
-      "created": "2013-08-08T17:21:52", 
+      "created": "2013-08-08T17:23:02", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.1229, 
       "x": -72.487, 
-      "id": 16227808, 
-      "question_id": "16186709"
+      "id": 16227816, 
+      "question_id": "16178298"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Will you actively support real measures to fight global warming? Or should I just continue my plan to vote Green Party?", 
+      "submission": "Will you propose returning to REPUBLICAN top tax rates for the ultra-rich to reduce our deficit - either Eisenhower's 91% or Nixon's 70% - since neither of these created a depression or recession?", 
       "district": "MA_04", 
-      "created": "2013-08-08T17:21:51", 
+      "created": "2013-08-08T17:23:00", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227807, 
-      "question_id": "16201116"
+      "id": 16227815, 
+      "question_id": "16177435"
     }, 
     {
       "city": "villanova", 
