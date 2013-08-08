@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Carolyn", 
       "last_name": "Tiffany", 
       "user_id": 517663, 
-      "submission": "Who is financing your campaign and what have you promised in return for this support?", 
+      "submission": "What will you do to ensure anyone that works full time has a living wage with benefits?", 
       "district": "MA_05", 
-      "created": "2013-08-08T15:59:53", 
+      "created": "2013-08-08T16:00:59", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.4484, 
       "x": -71.2338, 
-      "id": 16226880, 
-      "question_id": "16199725"
+      "id": 16226886, 
+      "question_id": "16175636"
+    }, 
+    {
+      "city": "Washington", 
+      "first_name": "michael", 
+      "last_name": "snook", 
+      "user_id": 61793, 
+      "submission": "How can Manning and Snowden be in trouble and Dick Chaney isn't in trouble for outing Valerie Plame?", 
+      "district": "DC_01", 
+      "created": "2013-08-08T16:00:32", 
+      "state": "DC", 
+      "iface": "timeline_vote", 
+      "y": 38.9304, 
+      "x": -77.0282, 
+      "id": 16226883, 
+      "question_id": "16201620"
     }, 
     {
       "city": "Village of Nagog Woods", 
@@ -45,21 +60,6 @@ opendebate.processTimeline({
       "x": -106.578, 
       "id": 16226873, 
       "question_id": "16206983"
-    }, 
-    {
-      "city": "Washington", 
-      "first_name": "michael", 
-      "last_name": "snook", 
-      "user_id": 61793, 
-      "submission": "How would you reform the process of drawing congressional districts so that it represents the interests of the people and does not favor any one party?", 
-      "district": "DC_01", 
-      "created": "2013-08-08T15:57:12", 
-      "state": "DC", 
-      "iface": "timeline_vote", 
-      "y": 38.9304, 
-      "x": -77.0282, 
-      "id": 16226869, 
-      "question_id": "16201951"
     }, 
     {
       "city": "Westwood", 
