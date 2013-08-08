@@ -2,34 +2,94 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Where do you stand on the issue of abortion?", 
+      "district": "MA_04", 
+      "created": "2013-08-08T22:27:04", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16238219, 
+      "question_id": "16192234"
+    }, 
+    {
       "city": "Germantown", 
       "first_name": "angela", 
       "last_name": "schneider", 
       "user_id": 1711371, 
-      "submission": "Would you support a ban on Congresspersons accepting jobs as corporate lobbyists for at least ten years after leaving Congress?", 
+      "submission": "How do you propose stopping the GOPs continued assault on women's reproductive rights?", 
       "district": "WI_05", 
-      "created": "2013-08-08T22:26:01", 
+      "created": "2013-08-08T22:27:01", 
       "state": "WI", 
       "iface": "timeline_vote", 
       "y": 43.2244, 
       "x": -88.1451, 
-      "id": 16238199, 
-      "question_id": "16178177"
+      "id": 16238216, 
+      "question_id": "16205884"
+    }, 
+    {
+      "city": "Moorestown", 
+      "first_name": "Patricia", 
+      "last_name": "Dawson", 
+      "user_id": 1118551, 
+      "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
+      "district": "NJ_03", 
+      "created": "2013-08-08T22:26:45", 
+      "state": "NJ", 
+      "iface": "timeline_vote", 
+      "y": 39.9622, 
+      "x": -74.9828, 
+      "id": 16238212, 
+      "question_id": "16173320"
+    }, 
+    {
+      "city": "Adelanto", 
+      "first_name": "Marilynn", 
+      "last_name": "Fasick", 
+      "user_id": 1191205, 
+      "submission": "What will you do to get congress to work on a jobs bill instead of wasting taxpayers money trying to repeal The Affordable Healthcare Act?", 
+      "district": "CA_08", 
+      "created": "2013-08-08T22:26:44", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 34.5894, 
+      "x": -117.48, 
+      "id": 16238211, 
+      "question_id": "16203558"
     }, 
     {
       "city": "Marysville", 
       "first_name": "Elizabeth", 
       "last_name": "Johnson", 
       "user_id": 1103955, 
-      "submission": "How would you reform the process of drawing congressional districts so that it represents the interests of the people and does not favor any one party?", 
+      "submission": "What are your thoughts on how to stop corporate welfare, tax loopholes and subsidies.", 
       "district": "WA_02", 
-      "created": "2013-08-08T22:26:01", 
+      "created": "2013-08-08T22:26:20", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 48.0984, 
       "x": -122.237, 
-      "id": 16238200, 
-      "question_id": "16201951"
+      "id": 16238207, 
+      "question_id": "16206470"
+    }, 
+    {
+      "city": "New Haven", 
+      "first_name": "Vincent", 
+      "last_name": "Marottoli", 
+      "user_id": 1559824, 
+      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
+      "district": "CT_03", 
+      "created": "2013-08-08T22:26:18", 
+      "state": "CT", 
+      "iface": "timeline_vote", 
+      "y": 41.3217, 
+      "x": -72.8592, 
+      "id": 16238205, 
+      "question_id": "16180998"
     }, 
     {
       "city": "Hollywood", 
@@ -45,21 +105,6 @@ opendebate.processTimeline({
       "x": -80.1891, 
       "id": 16238197, 
       "question_id": "16175570"
-    }, 
-    {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "How would you raise the federal wage to at least $10.10 an hour for all employees, not just new hires indexed to inflation?", 
-      "district": "MA_04", 
-      "created": "2013-08-08T22:25:47", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16238194, 
-      "question_id": "16214331"
     }, 
     {
       "city": "Derby", 
@@ -90,21 +135,6 @@ opendebate.processTimeline({
       "x": -93.7755, 
       "id": 16238192, 
       "question_id": "16180998"
-    }, 
-    {
-      "city": "Moorestown", 
-      "first_name": "Patricia", 
-      "last_name": "Dawson", 
-      "user_id": 1118551, 
-      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
-      "district": "NJ_03", 
-      "created": "2013-08-08T22:25:27", 
-      "state": "NJ", 
-      "iface": "timeline_vote", 
-      "y": 39.9622, 
-      "x": -74.9828, 
-      "id": 16238185, 
-      "question_id": "16172697"
     }, 
     {
       "city": "West Chatham", 
@@ -270,36 +300,6 @@ opendebate.processTimeline({
       "x": -71.2338, 
       "id": 16238070, 
       "question_id": "16174109"
-    }, 
-    {
-      "city": "Cambridge", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1810088, 
-      "submission": "Our public structures help assure our quality of life, what will you do to strengthen our public health infrastructure (e.g. state lab institute) in the face of 25+% cuts over the past few years?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T22:20:59", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.366, 
-      "x": -71.1035, 
-      "id": 16238066, 
-      "question_id": "16230698"
-    }, 
-    {
-      "city": "West Palm Beach", 
-      "first_name": "Ruben", 
-      "last_name": "Rosario", 
-      "user_id": 1578738, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
-      "district": "FL_20", 
-      "created": "2013-08-08T22:20:58", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 26.8431, 
-      "x": -80.0877, 
-      "id": 16238068, 
-      "question_id": "16175740"
     }
   ]
 });
