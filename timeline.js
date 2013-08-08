@@ -2,49 +2,94 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Boca Raton", 
+      "first_name": "janice", 
+      "last_name": "blodgett", 
+      "user_id": 193543, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "FL_21", 
+      "created": "2013-08-08T18:47:50", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 26.3556, 
+      "x": -80.1952, 
+      "id": 16230890, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "New York", 
       "first_name": "Roxanne", 
       "last_name": "Warren", 
       "user_id": 172287, 
-      "submission": "Will you push the federal government to provide more support to communities who are implementing climate action plans, reducing emissions and adapting to the severe impacts of climate change?", 
+      "submission": "Are you now a member of ALEC, or plan on joining ALEC.", 
       "district": "NY_10", 
-      "created": "2013-08-08T18:47:02", 
+      "created": "2013-08-08T18:47:48", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7996, 
       "x": -73.9703, 
-      "id": 16230868, 
-      "question_id": "16226994"
+      "id": 16230888, 
+      "question_id": "16204636"
     }, 
     {
       "city": "Rochester", 
       "first_name": "Ira", 
       "last_name": "Simel", 
       "user_id": 1095087, 
-      "submission": "When will we get universal health care? And would you support a single payer system similar to Canada's?", 
+      "submission": "Who is financing your campaign and what have you promised in return for this support?", 
       "district": "NY_25", 
-      "created": "2013-08-08T18:46:53", 
+      "created": "2013-08-08T18:47:48", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 43.1519, 
       "x": -77.5935, 
-      "id": 16230859, 
-      "question_id": "16174014"
+      "id": 16230889, 
+      "question_id": "16199725"
+    }, 
+    {
+      "city": "Delray Beach", 
+      "first_name": "Joyce", 
+      "last_name": "Glassman", 
+      "user_id": 1783208, 
+      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
+      "district": "FL_22", 
+      "created": "2013-08-08T18:47:32", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 26.4613, 
+      "x": -80.1028, 
+      "id": 16230886, 
+      "question_id": "16175634"
     }, 
     {
       "city": "Ponce de Leon", 
       "first_name": "Jack", 
       "last_name": "Yates", 
       "user_id": 1772170, 
-      "submission": "Will you aggressively prosecute those at Goldman Sachs and other banks/financial institutions for their continued illegal activities which have resulted in the serious and continuing economic disaster in this country?", 
+      "submission": "Will you sponsor a bill that requires a Congressperson to recuse themselves on any vote where they have accepted monies from any party that stands to gain financially from the legislation?", 
       "district": "FL_01", 
-      "created": "2013-08-08T18:46:50", 
+      "created": "2013-08-08T18:47:22", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 30.771, 
       "x": -85.9538, 
-      "id": 16230858, 
-      "question_id": "16225925"
+      "id": 16230883, 
+      "question_id": "16226780"
+    }, 
+    {
+      "city": "Tulsa", 
+      "first_name": "Nadjia", 
+      "last_name": "Zouioueche", 
+      "user_id": 767824, 
+      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
+      "district": "OK_01", 
+      "created": "2013-08-08T18:47:08", 
+      "state": "OK", 
+      "iface": "timeline_vote", 
+      "y": 36.149, 
+      "x": -95.9535, 
+      "id": 16230876, 
+      "question_id": "16173210"
     }, 
     {
       "city": "Katy", 
@@ -81,21 +126,6 @@ opendebate.processTimeline({
       "trending_score": 0.5
     }, 
     {
-      "city": "Tulsa", 
-      "first_name": "Nadjia", 
-      "last_name": "Zouioueche", 
-      "user_id": 767824, 
-      "submission": "Will you support legislation to change our income tax so the very wealthy pay 90% of their yearly income as they did in the 1950s and 60s?", 
-      "district": "OK_01", 
-      "created": "2013-08-08T18:46:38", 
-      "state": "OK", 
-      "iface": "timeline_vote", 
-      "y": 36.149, 
-      "x": -95.9535, 
-      "id": 16230855, 
-      "question_id": "16172688"
-    }, 
-    {
       "city": "Beachwood", 
       "first_name": "Richard", 
       "last_name": "Engel", 
@@ -109,21 +139,6 @@ opendebate.processTimeline({
       "x": -81.514, 
       "id": 16230853, 
       "question_id": "16172823"
-    }, 
-    {
-      "city": "Delray Beach", 
-      "first_name": "Joyce", 
-      "last_name": "Glassman", 
-      "user_id": 1783208, 
-      "submission": "Will you support legislation to change our income tax so the very wealthy pay 90% of their yearly income as they did in the 1950s and 60s?", 
-      "district": "FL_22", 
-      "created": "2013-08-08T18:46:32", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 26.4613, 
-      "x": -80.1028, 
-      "id": 16230851, 
-      "question_id": "16172688"
     }, 
     {
       "city": "Reading", 
@@ -293,25 +308,6 @@ opendebate.processTimeline({
       "x": -68.0098, 
       "id": 16230773, 
       "question_id": "16172727"
-    }, 
-    {
-      "city": "Tucson", 
-      "first_name": "Sam", 
-      "last_name": "Katz", 
-      "user_id": 1809644, 
-      "submission": "AR15's are a \"civilian \" version of the M16A1 Assault Rifle, a weapon of WAR. Would you support legislation that would outlaw private possession of all weapons of WAR, while affirming our 2nd Amendment Rights to own a hunting  rifle, etc.?", 
-      "district": "AZ_02", 
-      "created": "2013-08-08T18:42:24", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "AZ", 
-      "iface": "timeline_question", 
-      "y": 32.3574, 
-      "x": -111.045, 
-      "latest_vote": null, 
-      "id": 16230765, 
-      "trending_score": 0.5
     }
   ]
 });
