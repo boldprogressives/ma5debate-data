@@ -20475,14 +20475,14 @@ opendebate.processFetchedQuestions({
       "submission": "Given the likelihood that a Republican majority will continue to block any legislative activity in the House, what will you do to advance a progressive agenda?", 
       "district": "MA_05", 
       "created": "2013-08-03T20:43:04", 
-      "state_votes": 9, 
-      "votes": 94, 
-      "district_votes": 5, 
+      "state_votes": 10, 
+      "votes": 95, 
+      "district_votes": 6, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.421300000000002, 
       "x": -71.113399999999999, 
-      "latest_vote": "2013-08-07T23:40:25", 
+      "latest_vote": "2013-08-08T00:38:21", 
       "id": 16172530
     }, 
     {
