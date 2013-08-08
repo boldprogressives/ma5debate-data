@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Revere", 
+      "first_name": "Philip", 
+      "last_name": "Cataldo", 
+      "user_id": 732584, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T16:25:00", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4152, 
+      "x": -71.0053, 
+      "id": 16227110, 
+      "question_id": "16173264"
+    }, 
+    {
       "city": "Brooklyn", 
       "first_name": "", 
       "last_name": "", 
@@ -318,24 +333,6 @@ opendebate.processTimeline({
       "x": -71.8734, 
       "id": 16226895, 
       "question_id": "16172765"
-    }, 
-    {
-      "city": "Palos Park", 
-      "first_name": "Devin", 
-      "last_name": "Ferreira", 
-      "user_id": 1809916, 
-      "submission": "Should there be a per-person limit on the dollar amount one can contribute to any political campaign?", 
-      "district": "IL_03", 
-      "created": "2013-08-08T16:01:31", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "IL", 
-      "iface": "timeline_question", 
-      "y": 41.6716, 
-      "x": -87.8598, 
-      "latest_vote": null, 
-      "id": 16226890
     }
   ]
 });
