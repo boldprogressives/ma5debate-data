@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Barbara", 
       "last_name": "Safran", 
       "user_id": 1783165, 
-      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
+      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
       "district": "MA_05", 
-      "created": "2013-08-08T15:26:55", 
+      "created": "2013-08-08T15:27:57", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2721, 
       "x": -71.4248, 
-      "id": 16226601, 
-      "question_id": "16175230"
+      "id": 16226610, 
+      "question_id": "16203866"
+    }, 
+    {
+      "city": "Chambersburg", 
+      "first_name": "anthony", 
+      "last_name": "taylor", 
+      "user_id": 1722138, 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "district": "PA_09", 
+      "created": "2013-08-08T15:27:37", 
+      "state": "PA", 
+      "iface": "timeline_vote", 
+      "y": 39.9335, 
+      "x": -77.6746, 
+      "id": 16226608, 
+      "question_id": "16172913"
     }, 
     {
       "city": "South Dartmouth", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -70.954, 
       "id": 16226599, 
       "question_id": "16202059"
-    }, 
-    {
-      "city": "Chambersburg", 
-      "first_name": "anthony", 
-      "last_name": "taylor", 
-      "user_id": 1722138, 
-      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
-      "district": "PA_09", 
-      "created": "2013-08-08T15:25:52", 
-      "state": "PA", 
-      "iface": "timeline_vote", 
-      "y": 39.9335, 
-      "x": -77.6746, 
-      "id": 16226595, 
-      "question_id": "16172755"
     }, 
     {
       "city": "Lexington", 
