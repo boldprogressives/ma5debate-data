@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Stephen", 
       "last_name": "Rosenblum", 
       "user_id": 69837, 
-      "submission": "Will you protect Social Security And Medicare by not cutting it with the chained CPI for Social Security that has been mentioned.  Also, no cuts to Medicare but closing the donute hole 100% so seniors aren't left fending for themselves to pay full price for their drugs.", 
+      "submission": "Would you support a living wage law that would force corporations, like Wal-Mart, whose Walton family owns more wealth than 40% of all Americans, to pay  living wages to all of their workers?", 
       "district": "CA_18", 
-      "created": "2013-08-08T20:29:45", 
+      "created": "2013-08-08T20:30:58", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 37.4399, 
       "x": -122.152, 
-      "id": 16233226, 
-      "question_id": "16175570"
+      "id": 16233230, 
+      "question_id": "16210264"
     }, 
     {
       "city": "McKinleyville", 
