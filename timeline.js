@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Washington", 
+      "first_name": "michael", 
+      "last_name": "snook", 
+      "user_id": 61793, 
+      "submission": "How would you reform the process of drawing congressional districts so that it represents the interests of the people and does not favor any one party?", 
+      "district": "DC_01", 
+      "created": "2013-08-08T15:57:12", 
+      "state": "DC", 
+      "iface": "timeline_vote", 
+      "y": 38.9304, 
+      "x": -77.0282, 
+      "id": 16226869, 
+      "question_id": "16201951"
+    }, 
+    {
       "city": "Westwood", 
       "first_name": "Cathy", 
       "last_name": "Buckley", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -71.2044, 
       "id": 16226868, 
       "question_id": "16172303"
-    }, 
-    {
-      "city": "Washington", 
-      "first_name": "michael", 
-      "last_name": "snook", 
-      "user_id": 61793, 
-      "submission": "Will you support carbon taxes?", 
-      "district": "DC_01", 
-      "created": "2013-08-08T15:57:02", 
-      "state": "DC", 
-      "iface": "timeline_vote", 
-      "y": 38.9304, 
-      "x": -77.0282, 
-      "id": 16226867, 
-      "question_id": "16174323"
     }, 
     {
       "city": "Watertown", 
