@@ -6,6 +6,21 @@ opendebate.processTimeline({
       "first_name": "Eva", 
       "last_name": "Cutler", 
       "user_id": 1809430, 
+      "submission": "What would you do to stop the unbridled takeover of American resources by Corporate America.", 
+      "district": "FL_23", 
+      "created": "2013-08-08T13:28:44", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 25.9781, 
+      "x": -80.3302, 
+      "id": 16226040, 
+      "question_id": "16174109"
+    }, 
+    {
+      "city": "Hollywood", 
+      "first_name": "Eva", 
+      "last_name": "Cutler", 
+      "user_id": 1809430, 
       "submission": "Congress persons have voted to put themselves in the driver's seat when it comes to their salaries. They vote themselves raises and we as citizens cannot over turn. What will you do to stop this practice?", 
       "district": "FL_23", 
       "created": "2013-08-08T13:28:26", 
@@ -285,21 +300,6 @@ opendebate.processTimeline({
       "x": -80.3302, 
       "id": 16226014, 
       "question_id": "16172281"
-    }, 
-    {
-      "city": "Boston", 
-      "first_name": "Rayleen", 
-      "last_name": "Nunez", 
-      "user_id": 20493, 
-      "submission": "With climate change a reality, what concrete actions will you take to help insure that solar, wind, and other alternative forms of energy production  (not nuclear) will receive generous subsidies from the government instead of fossil fuel-based energy companies?", 
-      "district": "MA_07", 
-      "created": "2013-08-08T13:25:13", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.337, 
-      "x": -71.0638, 
-      "id": 16226013, 
-      "question_id": "16222484"
     }, 
     {
       "city": "West Islip", 
