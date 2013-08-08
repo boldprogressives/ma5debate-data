@@ -2,19 +2,52 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Brooklyn", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1775579, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "NY_11", 
+      "created": "2013-08-08T16:18:00", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.5965, 
+      "x": -73.9729, 
+      "id": 16227028, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Pittsfield", 
+      "first_name": "Carla", 
+      "last_name": "Skidmore, RN", 
+      "user_id": 208564, 
+      "submission": "Many people asked great questions. Mine is: Will you continue to work to keep abortion, not just legal, because it is still legal, but also make sure that facilities are easy to access, low cost and not expensive and hundreds of miles away, making abortion a hardship for poor or middle class women?Without low cost and easy access, you will find that women find charlatans like Gosnell risking their lives. ", 
+      "district": "MA_01", 
+      "created": "2013-08-08T16:17:51", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.4555, 
+      "x": -73.25, 
+      "latest_vote": null, 
+      "id": 16227025
+    }, 
+    {
       "city": "Reseda", 
       "first_name": "Lui", 
       "last_name": "Deak", 
       "user_id": 1685090, 
-      "submission": "Why is it that Halliburton only gets a $200K fine for destroying evidence concerning the Gulf oil spill when if you make a copy of a DVD you get a $250K fine and up to 5 years in prison?", 
+      "submission": "What are you going to do to regulate banks and stock exchange speculations?", 
       "district": "CA_30", 
-      "created": "2013-08-08T16:17:02", 
+      "created": "2013-08-08T16:17:51", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 34.1995, 
       "x": -118.54, 
-      "id": 16227009, 
-      "question_id": "16175493"
+      "id": 16227026, 
+      "question_id": "16172283"
     }, 
     {
       "city": "Newton Center", 
@@ -303,36 +336,6 @@ opendebate.processTimeline({
       "x": -87.8598, 
       "latest_vote": null, 
       "id": 16226890
-    }, 
-    {
-      "city": "Washington", 
-      "first_name": "michael", 
-      "last_name": "snook", 
-      "user_id": 61793, 
-      "submission": "To all Candidates...Will you support Elizabeth Warren's bill to allow college students to borrow under 1% interest of college loans? ", 
-      "district": "DC_01", 
-      "created": "2013-08-08T16:01:21", 
-      "state": "DC", 
-      "iface": "timeline_vote", 
-      "y": 38.9304, 
-      "x": -77.0282, 
-      "id": 16226888, 
-      "question_id": "16200733"
-    }, 
-    {
-      "city": "Village of Nagog Woods", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809929, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "MA_03", 
-      "created": "2013-08-08T15:58:54", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.517, 
-      "x": -71.4123, 
-      "id": 16226876, 
-      "question_id": "16172777"
     }
   ]
 });
