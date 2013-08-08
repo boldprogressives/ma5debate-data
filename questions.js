@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Muskegon", 
+      "first_name": "Steve", 
+      "last_name": "keglovitz", 
+      "user_id": 495844, 
+      "submission": "Why are we subsidizing farmers to not grow crops or sending our food overseas to feed others when so many Americans in our country our going hungry!", 
+      "district": "MI_02", 
+      "created": "2013-08-08T14:24:55", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MI", 
+      "iface": "question", 
+      "y": 43.1684, 
+      "x": -86.1845, 
+      "latest_vote": null, 
+      "id": 16226345
+    }, 
+    {
       "city": "Sterling", 
       "first_name": "Blaine", 
       "last_name": "Bershad", 
@@ -20764,13 +20782,13 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
       "state_votes": 208, 
-      "votes": 1543, 
+      "votes": 1544, 
       "district_votes": 57, 
       "state": "MT", 
       "iface": "question", 
       "y": 46.6453, 
       "x": -111.974, 
-      "latest_vote": "2013-08-08T14:19:36", 
+      "latest_vote": "2013-08-08T14:24:28", 
       "id": 16172777
     }, 
     {

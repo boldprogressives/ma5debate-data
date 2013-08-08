@@ -2,6 +2,39 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Muskegon", 
+      "first_name": "Steve", 
+      "last_name": "keglovitz", 
+      "user_id": 495844, 
+      "submission": "Why are we subsidizing farmers to not grow crops or sending our food overseas to feed others when so many Americans in our country our going hungry!", 
+      "district": "MI_02", 
+      "created": "2013-08-08T14:24:55", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MI", 
+      "iface": "timeline_question", 
+      "y": 43.1684, 
+      "x": -86.1845, 
+      "latest_vote": null, 
+      "id": 16226345
+    }, 
+    {
+      "city": "Baytown", 
+      "first_name": "Eduardo", 
+      "last_name": "Estrada Jr", 
+      "user_id": 1783135, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "TX_36", 
+      "created": "2013-08-08T14:24:28", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 29.7959, 
+      "x": -94.9731, 
+      "id": 16226343, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Cambridge", 
       "first_name": "Sam", 
       "last_name": "Geller", 
@@ -280,26 +313,11 @@ opendebate.processTimeline({
       "district": "MA_05", 
       "created": "2013-08-08T14:20:04", 
       "state": "MA", 
-      "iface": "timeline_vote", 
+      "iface": "vote", 
       "y": 42.4529, 
       "x": -71.146, 
       "id": 16226317, 
       "question_id": "16172727"
-    }, 
-    {
-      "city": "Winchester", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809890, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T14:19:55", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4529, 
-      "x": -71.146, 
-      "id": 16226316, 
-      "question_id": "16172266"
     }, 
     {
       "city": "Sterling", 
@@ -642,24 +660,6 @@ opendebate.processTimeline({
       "x": -79.9703, 
       "latest_vote": "2013-08-08T13:16:43", 
       "id": 16225206
-    }, 
-    {
-      "city": "Enfield", 
-      "first_name": "Lynda", 
-      "last_name": "Lawson", 
-      "user_id": 1645059, 
-      "submission": "Will they support a return to Media Ownership and truth Regulations regarding Truth in News, to end misinformation (like Fox) and end the divide in America caused by media reporting misinformation on purpose to the public?", 
-      "district": "CT_02", 
-      "created": "2013-08-08T04:20:32", 
-      "state_votes": 1, 
-      "votes": 1, 
-      "district_votes": 0, 
-      "state": "CT", 
-      "iface": "question", 
-      "y": 41.9869, 
-      "x": -72.5653, 
-      "latest_vote": "2013-08-08T13:17:27", 
-      "id": 16225198
     }
   ]
 });
