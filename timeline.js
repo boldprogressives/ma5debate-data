@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Ramona", 
+      "first_name": "Amy", 
+      "last_name": "McQuillan", 
+      "user_id": 1674708, 
+      "submission": "Will you fight to protect the Clean Air Act, the Clean Water Act and the EPA in a House of Representatives that has become increasingly hostile to all three?", 
+      "district": "CA_50", 
+      "created": "2013-08-08T20:36:55", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 33.0263, 
+      "x": -116.857, 
+      "id": 16233331, 
+      "question_id": "16226952"
+    }, 
+    {
+      "city": "Lexington", 
+      "first_name": "Joanne", 
+      "last_name": "Roberts", 
+      "user_id": 1762068, 
+      "submission": "When will Congress be made to realize they are of the people, by the people, and for the people and receive the same compensation as the majority of people, not just the wealthy?", 
+      "district": "KY_06", 
+      "created": "2013-08-08T20:36:53", 
+      "state": "KY", 
+      "iface": "timeline_vote", 
+      "y": 38.0632, 
+      "x": -84.4495, 
+      "id": 16233329, 
+      "question_id": "16185868"
+    }, 
+    {
       "city": "Olympia", 
       "first_name": "Bev", 
       "last_name": "Bassett", 
       "user_id": 1773668, 
-      "submission": "How quickly would you say that the Keystone Pipeline must NEVER BE BUILT, since it would be an ecological disaster?", 
+      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
       "district": "WA_10", 
-      "created": "2013-08-08T20:35:56", 
+      "created": "2013-08-08T20:36:36", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 47.1038, 
       "x": -122.868, 
-      "id": 16233313, 
-      "question_id": "16172941"
+      "id": 16233326, 
+      "question_id": "16172697"
     }, 
     {
       "city": "Melrose", 
@@ -105,21 +135,6 @@ opendebate.processTimeline({
       "x": -73.2165, 
       "id": 16233265, 
       "question_id": "16172697"
-    }, 
-    {
-      "city": "Lexington", 
-      "first_name": "Joanne", 
-      "last_name": "Roberts", 
-      "user_id": 1762068, 
-      "submission": "Who's going to stop the Republicans from stealing our Social Security money since they've been barrowing against it for years and now they don't want to pay it back.", 
-      "district": "KY_06", 
-      "created": "2013-08-08T20:33:02", 
-      "state": "KY", 
-      "iface": "timeline_vote", 
-      "y": 38.0632, 
-      "x": -84.4495, 
-      "id": 16233258, 
-      "question_id": "16174899"
     }, 
     {
       "city": "Austin", 
@@ -297,25 +312,6 @@ opendebate.processTimeline({
       "x": -83.7004, 
       "id": 16233082, 
       "question_id": "16200733"
-    }, 
-    {
-      "city": "Austin", 
-      "first_name": "rose", 
-      "last_name": "roma", 
-      "user_id": 1676769, 
-      "submission": "What will you do to guard OUR SOCIAL SECURITY ACCOUNTS we own and prevent from them being a.  reduced or denied to us and b. our social security funds being funneled into other purposes?", 
-      "district": "TX_25", 
-      "created": "2013-08-08T20:19:01", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "TX", 
-      "iface": "timeline_question", 
-      "y": 30.2915, 
-      "x": -97.7339, 
-      "latest_vote": null, 
-      "id": 16233077, 
-      "trending_score": 0.5
     }
   ]
 });
