@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Livermore", 
+      "first_name": "Edward", 
+      "last_name": "Kansa", 
+      "user_id": 1777190, 
+      "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
+      "district": "CA_15", 
+      "created": "2013-08-08T20:21:57", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 37.6814, 
+      "x": -121.753, 
+      "id": 16233096, 
+      "question_id": "16173320"
+    }, 
+    {
+      "city": "Lexington", 
+      "first_name": "Joanne", 
+      "last_name": "Roberts", 
+      "user_id": 1762068, 
+      "submission": "Will you do anything about employers who are cutting full time employees to part time,in order to avoid offering healthcare? If not, will you expand Medicaid to include those people?", 
+      "district": "KY_06", 
+      "created": "2013-08-08T20:21:22", 
+      "state": "KY", 
+      "iface": "timeline_vote", 
+      "y": 38.0632, 
+      "x": -84.4495, 
+      "id": 16233090, 
+      "question_id": "16210777"
+    }, 
+    {
       "city": "Ann Arbor", 
       "first_name": "Wendy", 
       "last_name": "Ransom", 
@@ -34,21 +64,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16233077, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Lexington", 
-      "first_name": "Joanne", 
-      "last_name": "Roberts", 
-      "user_id": 1762068, 
-      "submission": "How can we stop paying Congress for not doing their jobs and take away their healthcare benefits?", 
-      "district": "KY_06", 
-      "created": "2013-08-08T20:18:45", 
-      "state": "KY", 
-      "iface": "timeline_vote", 
-      "y": 38.0632, 
-      "x": -84.4495, 
-      "id": 16233076, 
-      "question_id": "16210559"
     }, 
     {
       "city": "Sparta", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -88.2368, 
       "id": 16232723, 
       "question_id": "16172777"
-    }, 
-    {
-      "city": "Ulster Park", 
-      "first_name": "Karl", 
-      "last_name": "Schintone", 
-      "user_id": 1684721, 
-      "submission": "Why have so few Wall Street CEOs been indicted for their part in the 2007 Economic Crash ?  Who has been protecting them ?", 
-      "district": "NY_19", 
-      "created": "2013-08-08T19:58:55", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 41.8666, 
-      "x": -73.9902, 
-      "id": 16232716, 
-      "question_id": "16205046"
     }
   ]
 });
