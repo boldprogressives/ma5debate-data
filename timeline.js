@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Watertown", 
+      "first_name": "Bill", 
+      "last_name": "Mahoney", 
+      "user_id": 458708, 
+      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T16:07:56", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3713, 
+      "x": -71.1804, 
+      "id": 16226942, 
+      "question_id": "16175637"
+    }, 
+    {
       "city": "lexington", 
       "first_name": "Carolyn", 
       "last_name": "Tiffany", 
       "user_id": 517663, 
-      "submission": "What will you do to address climate change?", 
+      "submission": "Where does climate change stand in your hierarchy of priorities?  What will you do when you are in Congress to reduce global warming pollution? ", 
       "district": "MA_05", 
-      "created": "2013-08-08T16:07:03", 
+      "created": "2013-08-08T16:07:47", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.4484, 
       "x": -71.2338, 
-      "id": 16226937, 
-      "question_id": "16217358"
+      "id": 16226941, 
+      "question_id": "16222825"
     }, 
     {
       "city": "Albuquerque", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -70.2956, 
       "id": 16226746, 
       "question_id": "16172777"
-    }, 
-    {
-      "city": "Lexington", 
-      "first_name": "Robert", 
-      "last_name": "Lund", 
-      "user_id": 1079021, 
-      "submission": "What will you do to overturn Citizen's United?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T15:40:52", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4484, 
-      "x": -71.2338, 
-      "id": 16226744, 
-      "question_id": "16172765"
     }
   ]
 });
