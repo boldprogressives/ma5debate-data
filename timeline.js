@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Perris", 
+      "first_name": "Lesley", 
+      "last_name": "Giger", 
+      "user_id": 1693200, 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
+      "district": "CA_41", 
+      "created": "2013-08-08T19:45:06", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 33.7836, 
+      "x": -117.339, 
+      "id": 16232444, 
+      "question_id": "16202059"
+    }, 
+    {
+      "city": "Holt", 
+      "first_name": "LEILA", 
+      "last_name": "NYE", 
+      "user_id": 1778492, 
+      "submission": "What steps will you take to restore livable wages to the shredded middle class, and to restore our voting rights?", 
+      "district": "MI_08", 
+      "created": "2013-08-08T19:44:57", 
+      "state": "MI", 
+      "iface": "timeline_vote", 
+      "y": 42.6405, 
+      "x": -84.5287, 
+      "id": 16232443, 
+      "question_id": "16172657"
+    }, 
+    {
+      "city": "Overland Park", 
+      "first_name": "Robert", 
+      "last_name": "Luby", 
+      "user_id": 1678599, 
+      "submission": "What will you do to support real campaign finance reform that will remove entrenched special interest money and its attendant corruption from our aspiring democracy?", 
+      "district": "KS_03", 
+      "created": "2013-08-08T19:44:52", 
+      "state": "KS", 
+      "iface": "timeline_vote", 
+      "y": 38.9925, 
+      "x": -94.6829, 
+      "id": 16232440, 
+      "question_id": "16186239"
+    }, 
+    {
       "city": "Grass Valley", 
       "first_name": "Joyce", 
       "last_name": "Wilson", 
@@ -15,21 +60,6 @@ opendebate.processTimeline({
       "x": -121.029, 
       "id": 16232428, 
       "question_id": "16172690"
-    }, 
-    {
-      "city": "Holt", 
-      "first_name": "LEILA", 
-      "last_name": "NYE", 
-      "user_id": 1778492, 
-      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
-      "district": "MI_08", 
-      "created": "2013-08-08T19:43:53", 
-      "state": "MI", 
-      "iface": "timeline_vote", 
-      "y": 42.6405, 
-      "x": -84.5287, 
-      "id": 16232427, 
-      "question_id": "16175634"
     }, 
     {
       "city": "Lafayette", 
@@ -47,21 +77,6 @@ opendebate.processTimeline({
       "question_id": "16173257"
     }, 
     {
-      "city": "Overland Park", 
-      "first_name": "Robert", 
-      "last_name": "Luby", 
-      "user_id": 1678599, 
-      "submission": "In one word: would you have voted yes or no on the Amash Amendment to limit the NSA's collection of records under S 215 of the Patriot Act to records that pertain to a person subject to investigation ", 
-      "district": "KS_03", 
-      "created": "2013-08-08T19:43:47", 
-      "state": "KS", 
-      "iface": "timeline_vote", 
-      "y": 38.9925, 
-      "x": -94.6829, 
-      "id": 16232425, 
-      "question_id": "16213569"
-    }, 
-    {
       "city": "Chestnut Hill", 
       "first_name": "", 
       "last_name": "", 
@@ -75,21 +90,6 @@ opendebate.processTimeline({
       "x": -71.1571, 
       "id": 16232423, 
       "question_id": "16172303"
-    }, 
-    {
-      "city": "Perris", 
-      "first_name": "Lesley", 
-      "last_name": "Giger", 
-      "user_id": 1693200, 
-      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
-      "district": "CA_41", 
-      "created": "2013-08-08T19:43:31", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 33.7836, 
-      "x": -117.339, 
-      "id": 16232420, 
-      "question_id": "16202059"
     }, 
     {
       "city": "Fresh  Meadows", 
