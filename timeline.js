@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Fresh  Meadows", 
-      "first_name": "Paul", 
-      "last_name": "Dambrosi", 
-      "user_id": 401923, 
-      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
-      "district": "NY_06", 
-      "created": "2013-08-08T15:28:43", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.7385, 
-      "x": -73.79, 
-      "id": 16226613, 
-      "question_id": "16172303"
-    }, 
-    {
       "city": "Framingham", 
       "first_name": "Barbara", 
       "last_name": "Safran", 
       "user_id": 1783165, 
-      "submission": "What can you do to improve public transit nationally, including building a good rail network, when the governors and legislatures of some key states are so resistant to it?", 
+      "submission": "do you support a min wage increase", 
       "district": "MA_05", 
-      "created": "2013-08-08T15:28:05", 
+      "created": "2013-08-08T15:30:02", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2721, 
       "x": -71.4248, 
-      "id": 16226611, 
-      "question_id": "16172286"
+      "id": 16226620, 
+      "question_id": "16173625"
+    }, 
+    {
+      "city": "Fresh  Meadows", 
+      "first_name": "Paul", 
+      "last_name": "Dambrosi", 
+      "user_id": 401923, 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
+      "district": "NY_06", 
+      "created": "2013-08-08T15:29:28", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.7385, 
+      "x": -73.79, 
+      "id": 16226614, 
+      "question_id": "16202059"
     }, 
     {
       "city": "Chambersburg", 
