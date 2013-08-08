@@ -20512,13 +20512,13 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T23:23:07", 
       "state_votes": 125, 
-      "votes": 793, 
+      "votes": 794, 
       "district_votes": 28, 
       "state": "MT", 
       "iface": "question", 
       "y": 48.2112, 
       "x": -114.294, 
-      "latest_vote": "2013-08-08T13:27:56", 
+      "latest_vote": "2013-08-08T13:40:07", 
       "id": 16172913
     }, 
     {
@@ -20728,13 +20728,13 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
       "state_votes": 204, 
-      "votes": 1536, 
+      "votes": 1537, 
       "district_votes": 56, 
       "state": "MT", 
       "iface": "question", 
       "y": 46.6453, 
       "x": -111.974, 
-      "latest_vote": "2013-08-08T13:32:11", 
+      "latest_vote": "2013-08-08T13:40:35", 
       "id": 16172777
     }, 
     {
@@ -21034,13 +21034,13 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:09:55", 
       "state_votes": 80, 
-      "votes": 619, 
+      "votes": 620, 
       "district_votes": 20, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.3581, 
       "x": -122.594, 
-      "latest_vote": "2013-08-08T13:24:02", 
+      "latest_vote": "2013-08-08T13:40:53", 
       "id": 16172690
     }, 
     {
@@ -21394,13 +21394,13 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:52:54", 
       "state_votes": 115, 
-      "votes": 715, 
+      "votes": 716, 
       "district_votes": 29, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4207, 
       "x": -71.1582, 
-      "latest_vote": "2013-08-08T13:25:51", 
+      "latest_vote": "2013-08-08T13:40:21", 
       "id": 16172303
     }, 
     {
