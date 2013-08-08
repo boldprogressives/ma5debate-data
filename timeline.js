@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Lucy", 
       "last_name": "Haskins", 
       "user_id": 1680366, 
-      "submission": "Do you support the labeling of GMOs and if so, what do you intend to do to promote people's right to know what is in their food?", 
+      "submission": "Will you support immigration reform with a path to citizenship ?", 
       "district": "MA_08", 
-      "created": "2013-08-08T16:33:01", 
+      "created": "2013-08-08T16:33:58", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3606, 
       "x": -71.0654, 
-      "id": 16227275, 
-      "question_id": "16176001"
+      "id": 16227298, 
+      "question_id": "16172648"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "submission": "Do you support the concept of keeping church and state separate?", 
       "district": "MA_04", 
-      "created": "2013-08-08T16:32:49", 
+      "created": "2013-08-08T16:33:57", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227270, 
-      "question_id": "16173259"
+      "id": 16227297, 
+      "question_id": "16173921"
     }, 
     {
       "city": "Sterling", 
