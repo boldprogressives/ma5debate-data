@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "North Andover", 
-      "first_name": "Mary", 
-      "last_name": "McCormick", 
-      "user_id": 1698240, 
-      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
-      "district": "MA_06", 
-      "created": "2013-08-08T15:16:51", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.6862, 
-      "x": -71.1057, 
-      "id": 16226560, 
-      "question_id": "16172731"
-    }, 
-    {
       "city": "Lincoln", 
       "first_name": "Henry", 
       "last_name": "Harrison", 
       "user_id": 1074803, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
       "district": "MA_05", 
-      "created": "2013-08-08T15:16:35", 
+      "created": "2013-08-08T15:18:02", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.4239, 
       "x": -71.3142, 
-      "id": 16226558, 
-      "question_id": "16173264"
+      "id": 16226570, 
+      "question_id": "16173320"
+    }, 
+    {
+      "city": "North Andover", 
+      "first_name": "Mary", 
+      "last_name": "McCormick", 
+      "user_id": 1698240, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "MA_06", 
+      "created": "2013-08-08T15:17:36", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.6862, 
+      "x": -71.1057, 
+      "id": 16226568, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Westport", 
