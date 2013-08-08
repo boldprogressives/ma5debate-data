@@ -16587,14 +16587,14 @@ opendebate.processFetchedQuestions({
       "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
       "district": "IL_08", 
       "created": "2013-08-05T01:44:45", 
-      "state_votes": 41, 
-      "votes": 219, 
-      "district_votes": 17, 
+      "state_votes": 42, 
+      "votes": 220, 
+      "district_votes": 18, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.173999999999999, 
       "x": -87.964299999999994, 
-      "latest_vote": "2013-08-08T00:26:10", 
+      "latest_vote": "2013-08-08T00:59:40", 
       "id": 16175740
     }, 
     {
