@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Watertown", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809923, 
+      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T15:56:05", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3713, 
+      "x": -71.1804, 
+      "id": 16226854, 
+      "question_id": "16172731"
+    }, 
+    {
       "city": "North Chelmsford", 
       "first_name": "", 
       "last_name": "", 
       "user_id": 1809924, 
-      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
       "district": "MA_03", 
-      "created": "2013-08-08T15:54:57", 
+      "created": "2013-08-08T15:55:59", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.6333, 
       "x": -71.3843, 
-      "id": 16226836, 
-      "question_id": "16172755"
+      "id": 16226852, 
+      "question_id": "16172207"
+    }, 
+    {
+      "city": "Albuquerque", 
+      "first_name": "Charles", 
+      "last_name": "Shelly", 
+      "user_id": 1057793, 
+      "submission": "How would you reform the process of drawing congressional districts so that it represents the interests of the people and does not favor any one party?", 
+      "district": "NM_01", 
+      "created": "2013-08-08T15:55:17", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 35.0723, 
+      "x": -106.578, 
+      "id": 16226841, 
+      "question_id": "16201951"
     }, 
     {
       "city": "lexington", 
@@ -30,21 +60,6 @@ opendebate.processTimeline({
       "x": -71.2338, 
       "id": 16226835, 
       "question_id": "16174323"
-    }, 
-    {
-      "city": "Watertown", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809923, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "MA_05", 
-      "created": "2013-08-08T15:54:30", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3713, 
-      "x": -71.1804, 
-      "id": 16226830, 
-      "question_id": "16172777"
     }, 
     {
       "city": "Reseda", 
@@ -123,21 +138,6 @@ opendebate.processTimeline({
       "x": -74.0659, 
       "latest_vote": null, 
       "id": 16226780
-    }, 
-    {
-      "city": "Albuquerque", 
-      "first_name": "Charles", 
-      "last_name": "Shelly", 
-      "user_id": 1057793, 
-      "submission": "Do you support the concept of keeping church and state separate?", 
-      "district": "NM_01", 
-      "created": "2013-08-08T15:49:08", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 35.0723, 
-      "x": -106.578, 
-      "id": 16226779, 
-      "question_id": "16173921"
     }, 
     {
       "city": "Palos Park", 
