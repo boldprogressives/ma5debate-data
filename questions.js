@@ -123,16 +123,16 @@ opendebate.processFetchedQuestions({
       "submission": "Our public structures help assure our quality of life, what will you do to strengthen our public health infrastructure (e.g. state lab institute) in the face of 25+% cuts over the past few years?", 
       "district": "MA_05", 
       "created": "2013-08-08T18:39:54", 
-      "state_votes": 11, 
-      "votes": 11, 
-      "district_votes": 11, 
+      "state_votes": 12, 
+      "votes": 12, 
+      "district_votes": 12, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.366, 
       "x": -71.1035, 
-      "latest_vote": "2013-08-08T18:47:04", 
+      "latest_vote": "2013-08-08T18:53:37", 
       "id": 16230698, 
-      "trending_score": 11.5
+      "trending_score": 12.5
     }, 
     {
       "city": "Naples", 
@@ -6603,15 +6603,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_02", 
       "created": "2013-08-07T01:15:00", 
       "state_votes": 6, 
-      "votes": 41, 
+      "votes": 42, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.2702, 
       "x": -71.8451, 
-      "latest_vote": "2013-08-08T18:25:23", 
+      "latest_vote": "2013-08-08T18:54:03", 
       "id": 16211476, 
-      "trending_score": 4.5
+      "trending_score": 5.5
     }, 
     {
       "city": "Baltimore", 
@@ -7514,16 +7514,16 @@ opendebate.processFetchedQuestions({
       "submission": "What is your stance on the Equal Rights Amendment and will push for it to be a part of our Constitution?", 
       "district": "MI_13", 
       "created": "2013-08-06T22:12:00", 
-      "state_votes": 5, 
-      "votes": 114, 
+      "state_votes": 6, 
+      "votes": 115, 
       "district_votes": 1, 
       "state": "MI", 
       "iface": "question", 
       "y": 42.3415, 
       "x": -83.3971, 
-      "latest_vote": "2013-08-08T16:46:25", 
+      "latest_vote": "2013-08-08T18:53:17", 
       "id": 16207550, 
-      "trending_score": 2.5
+      "trending_score": 3.0
     }, 
     {
       "city": "Painesville", 
@@ -8047,15 +8047,15 @@ opendebate.processFetchedQuestions({
       "district": "VA_01", 
       "created": "2013-08-06T21:24:53", 
       "state_votes": 14, 
-      "votes": 78, 
+      "votes": 79, 
       "district_votes": 4, 
       "state": "VA", 
       "iface": "question", 
       "y": 38.6736, 
       "x": -77.4268, 
-      "latest_vote": "2013-08-08T18:50:40", 
+      "latest_vote": "2013-08-08T18:53:36", 
       "id": 16205884, 
-      "trending_score": 5.5
+      "trending_score": 6.5
     }, 
     {
       "city": "McKinleyville", 
@@ -8711,16 +8711,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
       "district": "MA_01", 
       "created": "2013-08-06T20:10:21", 
-      "state_votes": 23, 
-      "votes": 122, 
+      "state_votes": 24, 
+      "votes": 123, 
       "district_votes": 8, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.204, 
       "x": -72.6301, 
-      "latest_vote": "2013-08-08T18:52:56", 
+      "latest_vote": "2013-08-08T18:53:46", 
       "id": 16203676, 
-      "trending_score": 23.0
+      "trending_score": 23.5
     }, 
     {
       "city": "Gloucester", 
@@ -9005,7 +9005,7 @@ opendebate.processFetchedQuestions({
       "x": -122.634, 
       "latest_vote": "2013-08-08T18:33:25", 
       "id": 16201951, 
-      "trending_score": 9.5
+      "trending_score": 6.416666666666667
     }, 
     {
       "city": "Rye", 
@@ -18307,15 +18307,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_07", 
       "created": "2013-08-05T05:22:37", 
       "state_votes": 9, 
-      "votes": 60, 
+      "votes": 61, 
       "district_votes": 2, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.6327, 
       "x": -122.322, 
-      "latest_vote": "2013-08-08T17:07:00", 
+      "latest_vote": "2013-08-08T18:53:53", 
       "id": 16176614, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Hot Springs National Park", 
@@ -19390,15 +19390,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_12", 
       "created": "2013-08-05T01:05:31", 
       "state_votes": 44, 
-      "votes": 258, 
+      "votes": 259, 
       "district_votes": 9, 
       "state": "IL", 
       "iface": "question", 
       "y": 38.3176, 
       "x": -88.9093, 
-      "latest_vote": "2013-08-08T18:47:32", 
+      "latest_vote": "2013-08-08T18:53:05", 
       "id": 16175634, 
-      "trending_score": 21.0
+      "trending_score": 21.5
     }, 
     {
       "city": "Mount Vernon", 
@@ -22392,15 +22392,15 @@ opendebate.processFetchedQuestions({
       "district": "KS_02", 
       "created": "2013-08-03T23:55:59", 
       "state_votes": 4, 
-      "votes": 40, 
+      "votes": 41, 
       "district_votes": 0, 
       "state": "KS", 
       "iface": "question", 
       "y": 38.9468, 
       "x": -95.2819, 
-      "latest_vote": "2013-08-08T18:37:04", 
+      "latest_vote": "2013-08-08T18:53:20", 
       "id": 16173074, 
-      "trending_score": 3.25
+      "trending_score": 4.25
     }, 
     {
       "city": "Houston", 
@@ -23474,16 +23474,16 @@ opendebate.processFetchedQuestions({
       "submission": "Given the likelihood that a Republican majority will continue to block any legislative activity in the House, what will you do to advance a progressive agenda?", 
       "district": "MA_05", 
       "created": "2013-08-03T20:43:04", 
-      "state_votes": 16, 
-      "votes": 116, 
+      "state_votes": 17, 
+      "votes": 117, 
       "district_votes": 7, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4213, 
       "x": -71.1134, 
-      "latest_vote": "2013-08-08T18:33:27", 
+      "latest_vote": "2013-08-08T18:53:31", 
       "id": 16172530, 
-      "trending_score": 4.75
+      "trending_score": 5.083333333333333
     }, 
     {
       "city": "Cambridge", 
