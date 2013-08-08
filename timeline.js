@@ -7,6 +7,30 @@ opendebate.processTimeline({
       "last_name": "", 
       "user_id": 1778818, 
       "district": "MA_05", 
+      "created": "2013-08-08T13:07:52", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16225888, 
+      "question_id": "16173257"
+    }, 
+    {
+      "city": "Natick", 
+      "first_name": "michael young", 
+      "last_name": "", 
+      "user_id": 1778818, 
+      "district": "MA_05", 
+      "created": "2013-08-08T13:07:09", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16225887, 
+      "question_id": "16172866"
+    }, 
+    {
+      "city": "Natick", 
+      "first_name": "michael young", 
+      "last_name": "", 
+      "user_id": 1778818, 
+      "district": "MA_05", 
       "created": "2013-08-08T13:06:42", 
       "state": "MA", 
       "iface": "vote", 
@@ -216,30 +240,6 @@ opendebate.processTimeline({
       "iface": "vote", 
       "id": 16225867, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Natick", 
-      "first_name": "michael young", 
-      "last_name": "", 
-      "user_id": 1778818, 
-      "district": "MA_05", 
-      "created": "2013-08-08T13:03:07", 
-      "state": "MA", 
-      "iface": "vote", 
-      "id": 16225866, 
-      "question_id": "16172727"
-    }, 
-    {
-      "city": "Columbia", 
-      "first_name": "Brian", 
-      "last_name": "Joseph", 
-      "user_id": 1577386, 
-      "district": "MD_03", 
-      "created": "2013-08-08T13:03:03", 
-      "state": "MD", 
-      "iface": "vote", 
-      "id": 16225865, 
-      "question_id": "16173264"
     }, 
     {
       "city": "Fitchburg", 
