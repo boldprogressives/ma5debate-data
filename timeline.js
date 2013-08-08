@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Boston", 
-      "first_name": "Lucy", 
-      "last_name": "Haskins", 
-      "user_id": 1680366, 
-      "submission": "What is your position on INCREASING Social Security benefits?", 
-      "district": "MA_08", 
-      "created": "2013-08-08T16:42:05", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3606, 
-      "x": -71.0654, 
-      "id": 16227428, 
-      "question_id": "16207967"
-    }, 
-    {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
+      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
       "district": "MA_04", 
-      "created": "2013-08-08T16:41:44", 
+      "created": "2013-08-08T16:42:55", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227424, 
-      "question_id": "16172697"
+      "id": 16227440, 
+      "question_id": "16175230"
+    }, 
+    {
+      "city": "Boston", 
+      "first_name": "Lucy", 
+      "last_name": "Haskins", 
+      "user_id": 1680366, 
+      "submission": "Why is the U.S. Congress,year after year,taking funds out of the Social Security fund.This is not legal,yet the U.S. Congress Continues this practice.Why ? Martin Boroian", 
+      "district": "MA_08", 
+      "created": "2013-08-08T16:42:54", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3606, 
+      "x": -71.0654, 
+      "id": 16227439, 
+      "question_id": "16201488"
     }, 
     {
       "city": "Arlington Heights", 
