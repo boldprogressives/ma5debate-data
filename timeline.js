@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Stoneham", 
+      "first_name": "Paul", 
+      "last_name": "Henry", 
+      "user_id": 616646, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "MA_05", 
+      "created": "2013-08-08T15:51:35", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4826, 
+      "x": -71.0964, 
+      "id": 16226801, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "lexington", 
+      "first_name": "Carolyn", 
+      "last_name": "Tiffany", 
+      "user_id": 517663, 
+      "submission": "Would you support replacing \"Obamacare\" with single-payer coverage (Medicare for All)?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T15:51:34", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4484, 
+      "x": -71.2338, 
+      "id": 16226800, 
+      "question_id": "16175729"
+    }, 
+    {
       "city": "Acton", 
       "first_name": "", 
       "last_name": "", 
@@ -15,21 +45,6 @@ opendebate.processTimeline({
       "x": -71.4467, 
       "id": 16226794, 
       "question_id": "16173921"
-    }, 
-    {
-      "city": "lexington", 
-      "first_name": "Carolyn", 
-      "last_name": "Tiffany", 
-      "user_id": 517663, 
-      "submission": "What would you do to stop the unbridled takeover of American resources by Corporate America.", 
-      "district": "MA_05", 
-      "created": "2013-08-08T15:50:52", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4484, 
-      "x": -71.2338, 
-      "id": 16226792, 
-      "question_id": "16174109"
     }, 
     {
       "city": "Harvard", 
@@ -291,21 +306,6 @@ opendebate.processTimeline({
       "x": -71.4248, 
       "id": 16226655, 
       "question_id": "16172303"
-    }, 
-    {
-      "city": "Chambersburg", 
-      "first_name": "anthony", 
-      "last_name": "taylor", 
-      "user_id": 1722138, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
-      "district": "PA_09", 
-      "created": "2013-08-08T15:27:37", 
-      "state": "PA", 
-      "iface": "timeline_vote", 
-      "y": 39.9335, 
-      "x": -77.6746, 
-      "id": 16226608, 
-      "question_id": "16172913"
     }
   ]
 });
