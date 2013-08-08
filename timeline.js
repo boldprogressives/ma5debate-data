@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
+      "submission": "Do you support the legalization of marijuana (which should be taxed & regulated like alcohol or tobacco)? If so, would you allow the release of nonviolent offenders from prison?", 
       "district": "MA_04", 
-      "created": "2013-08-08T16:40:00", 
+      "created": "2013-08-08T16:41:08", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227393, 
-      "question_id": "16175634"
+      "id": 16227410, 
+      "question_id": "16172722"
+    }, 
+    {
+      "city": "Boston", 
+      "first_name": "Lucy", 
+      "last_name": "Haskins", 
+      "user_id": 1680366, 
+      "submission": "What are you going to do about the revolving door of regulators and private industry? The corruption taking place here is unbelievable. Example FCC Comcast takeover of NBC scandal. ", 
+      "district": "MA_08", 
+      "created": "2013-08-08T16:41:02", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3606, 
+      "x": -71.0654, 
+      "id": 16227409, 
+      "question_id": "16199756"
     }, 
     {
       "city": "Arlington Heights", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -71.1809, 
       "id": 16227389, 
       "question_id": "16226967"
-    }, 
-    {
-      "city": "Boston", 
-      "first_name": "Lucy", 
-      "last_name": "Haskins", 
-      "user_id": 1680366, 
-      "submission": "What would you do to end the SCOTUS ruling Citizens United & how will you stop the GOP led states enacting extremist voter suppresion?", 
-      "district": "MA_08", 
-      "created": "2013-08-08T16:39:44", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3606, 
-      "x": -71.0654, 
-      "id": 16227388, 
-      "question_id": "16207073"
     }, 
     {
       "city": "Medford", 
