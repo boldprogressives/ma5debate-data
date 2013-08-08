@@ -2,64 +2,79 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Carver", 
-      "first_name": "Judith", 
-      "last_name": "Kelly", 
-      "user_id": 1652499, 
-      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
-      "district": "MA_09", 
-      "created": "2013-08-08T19:06:58", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 41.8805, 
-      "x": -70.7675, 
-      "id": 16231227, 
-      "question_id": "16180998"
-    }, 
-    {
       "city": "Rochester", 
       "first_name": "Ira", 
       "last_name": "Simel", 
       "user_id": 1095087, 
-      "submission": "Where do you stand with regard to GMO labeling. Is it our right as citizens to have complete transparency with regard to the foods we choose to eat. ", 
+      "submission": "Will you stop the attack on workers rights to collective bargaining and help support strengthening labor law ", 
       "district": "NY_25", 
-      "created": "2013-08-08T19:06:58", 
+      "created": "2013-08-08T19:07:57", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 43.1519, 
       "x": -77.5935, 
-      "id": 16231228, 
-      "question_id": "16178048"
+      "id": 16231248, 
+      "question_id": "16184056"
+    }, 
+    {
+      "city": "Newburgh", 
+      "first_name": "Diane", 
+      "last_name": "Brown", 
+      "user_id": 1692621, 
+      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
+      "district": "NY_18", 
+      "created": "2013-08-08T19:07:48", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 41.5175, 
+      "x": -74.0602, 
+      "id": 16231246, 
+      "question_id": "16203676"
+    }, 
+    {
+      "city": "Carver", 
+      "first_name": "Judith", 
+      "last_name": "Kelly", 
+      "user_id": 1652499, 
+      "submission": "Will you vote to end all fossil-fuel subsidies?", 
+      "district": "MA_09", 
+      "created": "2013-08-08T19:07:47", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 41.8805, 
+      "x": -70.7675, 
+      "id": 16231244, 
+      "question_id": "16201353"
     }, 
     {
       "city": "Sebastopol", 
       "first_name": "Richard", 
       "last_name": "Moore", 
       "user_id": 657766, 
-      "submission": "Our public structures help assure our quality of life, what will you do to strengthen our public health infrastructure (e.g. state lab institute) in the face of 25+% cuts over the past few years?", 
+      "submission": "What steps will you take to restore livable wages to the shredded middle class, and to restore our voting rights?", 
       "district": "CA_02", 
-      "created": "2013-08-08T19:06:56", 
+      "created": "2013-08-08T19:07:47", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 38.4019, 
       "x": -122.852, 
-      "id": 16231226, 
-      "question_id": "16230698"
+      "id": 16231245, 
+      "question_id": "16172657"
     }, 
     {
       "city": "Tijeras", 
       "first_name": "Paul", 
       "last_name": "Davis", 
       "user_id": 25702, 
-      "submission": "Would you support replacing \"Obamacare\" with single-payer coverage (Medicare for All)?", 
+      "submission": "What is your position on INCREASING Social Security benefits?", 
       "district": "NM_01", 
-      "created": "2013-08-08T19:06:36", 
+      "created": "2013-08-08T19:07:45", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 35.0158, 
       "x": -106.28, 
-      "id": 16231220, 
-      "question_id": "16175729"
+      "id": 16231243, 
+      "question_id": "16207967"
     }, 
     {
       "city": "Ankeny", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -76.0753, 
       "id": 16231073, 
       "question_id": "16202059"
-    }, 
-    {
-      "city": "Mesa", 
-      "first_name": "Linda", 
-      "last_name": "Bendele", 
-      "user_id": 1780229, 
-      "submission": "Why  is social security only funded by the lowest earners in the country.", 
-      "district": "AZ_05", 
-      "created": "2013-08-08T18:58:23", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 33.3773, 
-      "x": -111.66, 
-      "id": 16231059, 
-      "question_id": "16173225"
     }
   ]
 });
