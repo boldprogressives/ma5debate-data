@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Boston", 
+      "first_name": "Lucy", 
+      "last_name": "Haskins", 
+      "user_id": 1680366, 
+      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "district": "MA_08", 
+      "created": "2013-08-08T16:28:59", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3606, 
+      "x": -71.0654, 
+      "id": 16227195, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Weston", 
+      "first_name": "Kathi", 
+      "last_name": "Conley", 
+      "user_id": 1125094, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T16:28:41", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3659, 
+      "x": -71.301, 
+      "id": 16227183, 
+      "question_id": "16173264"
+    }, 
+    {
       "city": "Cambridge", 
       "first_name": "Astrid", 
       "last_name": "Dodds", 
@@ -306,36 +336,6 @@ opendebate.processTimeline({
       "x": -71.215, 
       "latest_vote": null, 
       "id": 16226952
-    }, 
-    {
-      "city": "lexington", 
-      "first_name": "Carolyn", 
-      "last_name": "Tiffany", 
-      "user_id": 517663, 
-      "submission": "Where does climate change stand in your hierarchy of priorities?  What will you do when you are in Congress to reduce global warming pollution? ", 
-      "district": "MA_05", 
-      "created": "2013-08-08T16:07:47", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4484, 
-      "x": -71.2338, 
-      "id": 16226941, 
-      "question_id": "16222825"
-    }, 
-    {
-      "city": "Albuquerque", 
-      "first_name": "Charles", 
-      "last_name": "Shelly", 
-      "user_id": 1057793, 
-      "submission": "How can Manning and Snowden be in trouble and Dick Chaney isn't in trouble for outing Valerie Plame?", 
-      "district": "NM_01", 
-      "created": "2013-08-08T16:06:06", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 35.0723, 
-      "x": -106.578, 
-      "id": 16226928, 
-      "question_id": "16201620"
     }
   ]
 });
