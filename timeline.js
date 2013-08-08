@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Hemet", 
+      "first_name": "gerald", 
+      "last_name": "lassoff", 
+      "user_id": 1743391, 
+      "submission": "What will you do to overturn Citizen's United?", 
+      "district": "CA_36", 
+      "created": "2013-08-08T20:46:14", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 33.6522, 
+      "x": -116.899, 
+      "id": 16233441, 
+      "question_id": "16172765"
+    }, 
+    {
       "city": "Elizabeth", 
       "first_name": "Robert", 
       "last_name": "Stephens", 
@@ -69,16 +84,16 @@ opendebate.processTimeline({
       "submission": "What do you think about gambling and gaming and the recent casino plans put out for this year not only in the 5th district? Are there better ways for MA to get revenue other than casinos?", 
       "district": "MA_05", 
       "created": "2013-08-08T20:43:23", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
+      "state_votes": 1, 
+      "votes": 1, 
+      "district_votes": 1, 
       "state": "MA", 
       "iface": "timeline_question", 
       "y": 42.3923, 
       "x": -71.1313, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-08T20:46:03", 
       "id": 16233394, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "yakima", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -124.071, 
       "id": 16233225, 
       "question_id": "16175740"
-    }, 
-    {
-      "city": "Cedar City", 
-      "first_name": "Patricia", 
-      "last_name": "Reed", 
-      "user_id": 1566601, 
-      "submission": "Why  is social security only funded by the lowest earners in the country.", 
-      "district": "UT_02", 
-      "created": "2013-08-08T20:29:12", 
-      "state": "UT", 
-      "iface": "timeline_vote", 
-      "y": 37.6621, 
-      "x": -113.196, 
-      "id": 16233223, 
-      "question_id": "16173225"
     }
   ]
 });
