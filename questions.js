@@ -18441,14 +18441,14 @@ opendebate.processFetchedQuestions({
       "submission": "What will do you do expand the solvency of Social Security and Medicare past their current deadlines? ", 
       "district": "AZ_08", 
       "created": "2013-08-04T20:07:44", 
-      "state_votes": 26, 
-      "votes": 153, 
+      "state_votes": 27, 
+      "votes": 154, 
       "district_votes": 8, 
       "state": "AZ", 
       "iface": "question", 
       "y": 33.5937, 
       "x": -112.176, 
-      "latest_vote": "2013-08-08T14:08:23", 
+      "latest_vote": "2013-08-08T14:41:57", 
       "id": 16174492
     }, 
     {

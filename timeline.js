@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Swampscott", 
+      "first_name": "Ramon", 
+      "last_name": "Feiven", 
+      "user_id": 1668338, 
+      "submission": "What will do you do expand the solvency of Social Security and Medicare past their current deadlines? ", 
+      "district": "MA_06", 
+      "created": "2013-08-08T14:41:57", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4723, 
+      "x": -70.9082, 
+      "id": 16226434, 
+      "question_id": "16174492"
+    }, 
+    {
       "city": "Bridgeport", 
       "first_name": "Robb", 
       "last_name": "Sauerhoff", 
@@ -298,26 +313,11 @@ opendebate.processTimeline({
       "district": "MA_06", 
       "created": "2013-08-08T14:32:14", 
       "state": "MA", 
-      "iface": "timeline_vote", 
+      "iface": "vote", 
       "y": 42.4723, 
       "x": -70.9082, 
       "id": 16226394, 
       "question_id": "16175729"
-    }, 
-    {
-      "city": "Swampscott", 
-      "first_name": "Ramon", 
-      "last_name": "Feiven", 
-      "user_id": 1668338, 
-      "submission": "Why is it that Halliburton only gets a $200K fine for destroying evidence concerning the Gulf oil spill when if you make a copy of a DVD you get a $250K fine and up to 5 years in prison?", 
-      "district": "MA_06", 
-      "created": "2013-08-08T14:32:07", 
-      "state": "MA", 
-      "iface": "vote", 
-      "y": 42.4723, 
-      "x": -70.9082, 
-      "id": 16226393, 
-      "question_id": "16175493"
     }, 
     {
       "city": "Winchester", 
