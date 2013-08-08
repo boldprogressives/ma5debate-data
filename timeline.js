@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Phila", 
+      "first_name": "Michele", 
+      "last_name": "Koskinen", 
+      "user_id": 1577050, 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "district": "PA_01", 
+      "created": "2013-08-08T20:51:33", 
+      "state": "PA", 
+      "iface": "timeline_vote", 
+      "y": 39.9685, 
+      "x": -75.1731, 
+      "id": 16233494, 
+      "question_id": "16173335"
+    }, 
+    {
       "city": "Princeton", 
       "first_name": "Angela", 
       "last_name": "Diorio", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -74.6695, 
       "id": 16233492, 
       "question_id": "16175634"
-    }, 
-    {
-      "city": "Phila", 
-      "first_name": "Michele", 
-      "last_name": "Koskinen", 
-      "user_id": 1577050, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
-      "district": "PA_01", 
-      "created": "2013-08-08T20:50:37", 
-      "state": "PA", 
-      "iface": "timeline_vote", 
-      "y": 39.9685, 
-      "x": -75.1731, 
-      "id": 16233491, 
-      "question_id": "16172533"
     }, 
     {
       "city": "Marietta", 
