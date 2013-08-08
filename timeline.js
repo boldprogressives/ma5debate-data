@@ -7,6 +7,48 @@ opendebate.processTimeline({
       "last_name": "", 
       "user_id": 1778818, 
       "district": "MA_05", 
+      "created": "2013-08-08T13:12:43", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16225926, 
+      "question_id": "16173327"
+    }, 
+    {
+      "city": "West Islip", 
+      "first_name": "S", 
+      "last_name": "Bonomo", 
+      "user_id": 17275, 
+      "submission": "Will you aggressively prosecute those at Goldman Sachs and other banks/financial institutions for their continued illegal activities which have resulted in the serious and continuing economic disaster in this country?", 
+      "district": "NY_02", 
+      "created": "2013-08-08T13:12:42", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NY", 
+      "iface": "question", 
+      "y": 40.7093, 
+      "x": -73.2993, 
+      "latest_vote": null, 
+      "id": 16225925
+    }, 
+    {
+      "city": "Natick", 
+      "first_name": "michael young", 
+      "last_name": "", 
+      "user_id": 1778818, 
+      "district": "MA_05", 
+      "created": "2013-08-08T13:12:23", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16225924, 
+      "question_id": "16175691"
+    }, 
+    {
+      "city": "Natick", 
+      "first_name": "michael young", 
+      "last_name": "", 
+      "user_id": 1778818, 
+      "district": "MA_05", 
       "created": "2013-08-08T13:11:59", 
       "state": "MA", 
       "iface": "vote", 
@@ -39,7 +81,7 @@ opendebate.processTimeline({
     }, 
     {
       "city": "West Islip", 
-      "first_name": "Sue", 
+      "first_name": "S", 
       "last_name": "Bonomo", 
       "user_id": 17275, 
       "district": "NY_02", 
@@ -51,7 +93,7 @@ opendebate.processTimeline({
     }, 
     {
       "city": "West Islip", 
-      "first_name": "Sue", 
+      "first_name": "S", 
       "last_name": "Bonomo", 
       "user_id": 17275, 
       "district": "NY_02", 
@@ -63,7 +105,7 @@ opendebate.processTimeline({
     }, 
     {
       "city": "West Islip", 
-      "first_name": "Sue", 
+      "first_name": "S", 
       "last_name": "Bonomo", 
       "user_id": 17275, 
       "district": "NY_02", 
@@ -75,7 +117,7 @@ opendebate.processTimeline({
     }, 
     {
       "city": "West Islip", 
-      "first_name": "Sue", 
+      "first_name": "S", 
       "last_name": "Bonomo", 
       "user_id": 17275, 
       "district": "NY_02", 
@@ -87,7 +129,7 @@ opendebate.processTimeline({
     }, 
     {
       "city": "West Islip", 
-      "first_name": "Sue", 
+      "first_name": "S", 
       "last_name": "Bonomo", 
       "user_id": 17275, 
       "district": "NY_02", 
@@ -111,7 +153,7 @@ opendebate.processTimeline({
     }, 
     {
       "city": "West Islip", 
-      "first_name": "Sue", 
+      "first_name": "S", 
       "last_name": "Bonomo", 
       "user_id": 17275, 
       "district": "NY_02", 
@@ -123,7 +165,7 @@ opendebate.processTimeline({
     }, 
     {
       "city": "West Islip", 
-      "first_name": "Sue", 
+      "first_name": "S", 
       "last_name": "Bonomo", 
       "user_id": 17275, 
       "district": "NY_02", 
@@ -147,7 +189,7 @@ opendebate.processTimeline({
     }, 
     {
       "city": "West Islip", 
-      "first_name": "Sue", 
+      "first_name": "S", 
       "last_name": "Bonomo", 
       "user_id": 17275, 
       "district": "NY_02", 
@@ -159,7 +201,7 @@ opendebate.processTimeline({
     }, 
     {
       "city": "West Islip", 
-      "first_name": "Sue", 
+      "first_name": "S", 
       "last_name": "Bonomo", 
       "user_id": 17275, 
       "district": "NY_02", 
@@ -171,7 +213,7 @@ opendebate.processTimeline({
     }, 
     {
       "city": "West Islip", 
-      "first_name": "Sue", 
+      "first_name": "S", 
       "last_name": "Bonomo", 
       "user_id": 17275, 
       "district": "NY_02", 
@@ -195,7 +237,7 @@ opendebate.processTimeline({
     }, 
     {
       "city": "West Islip", 
-      "first_name": "Sue", 
+      "first_name": "S", 
       "last_name": "Bonomo", 
       "user_id": 17275, 
       "district": "NY_02", 
@@ -207,7 +249,7 @@ opendebate.processTimeline({
     }, 
     {
       "city": "West Islip", 
-      "first_name": "Sue", 
+      "first_name": "S", 
       "last_name": "Bonomo", 
       "user_id": 17275, 
       "district": "NY_02", 
@@ -216,30 +258,6 @@ opendebate.processTimeline({
       "iface": "vote", 
       "id": 16225904, 
       "question_id": "16172281"
-    }, 
-    {
-      "city": "West Islip", 
-      "first_name": "Sue", 
-      "last_name": "Bonomo", 
-      "user_id": 17275, 
-      "district": "NY_02", 
-      "created": "2013-08-08T13:09:37", 
-      "state": "NY", 
-      "iface": "vote", 
-      "id": 16225903, 
-      "question_id": "16172755"
-    }, 
-    {
-      "city": "Hardin", 
-      "first_name": "sj", 
-      "last_name": "DeClue", 
-      "user_id": 1655849, 
-      "district": "KY_01", 
-      "created": "2013-08-08T13:09:29", 
-      "state": "KY", 
-      "iface": "vote", 
-      "id": 16225901, 
-      "question_id": "16199852"
     }, 
     {
       "city": "Fitchburg", 
@@ -582,24 +600,6 @@ opendebate.processTimeline({
       "x": -124.06, 
       "latest_vote": null, 
       "id": 16225191
-    }, 
-    {
-      "city": "Peoria", 
-      "first_name": "John", 
-      "last_name": "Salch", 
-      "user_id": 1054735, 
-      "submission": "Why hasn't the Gerrymandering situation been sent straight to the Supreme Court?  It is in direct opposition to the \"One person, one vote\" principle.", 
-      "district": "IL_17", 
-      "created": "2013-08-08T03:44:52", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "IL", 
-      "iface": "question", 
-      "y": 40.6375, 
-      "x": -89.4968, 
-      "latest_vote": null, 
-      "id": 16225156
     }
   ]
 });
