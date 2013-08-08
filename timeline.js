@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Somerville", 
+      "first_name": "Demitri", 
+      "last_name": "Denir", 
+      "user_id": 1668195, 
+      "submission": "Do you support the labeling of GMOs and if so, what do you intend to do to promote people's right to know what is in their food?", 
+      "district": "MA_07", 
+      "created": "2013-08-08T15:06:34", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3914, 
+      "x": -71.0947, 
+      "id": 16226522, 
+      "question_id": "16176001"
+    }, 
+    {
       "city": "Newton", 
       "first_name": "Mario", 
       "last_name": "Troiani", 
@@ -288,21 +303,6 @@ opendebate.processTimeline({
       "x": -81.3098, 
       "id": 16226488, 
       "question_id": "16205046"
-    }, 
-    {
-      "city": "Casselberry", 
-      "first_name": "Annmari", 
-      "last_name": "Lundin", 
-      "user_id": 1695695, 
-      "submission": "What is your stand on full disclosure of all campaign contributions, including specifically identifiable individual and corporate donations to PACs.", 
-      "district": "FL_07", 
-      "created": "2013-08-08T14:54:52", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 28.6608, 
-      "x": -81.3098, 
-      "id": 16226487, 
-      "question_id": "16199834"
     }
   ]
 });

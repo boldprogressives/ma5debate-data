@@ -17109,14 +17109,14 @@ opendebate.processFetchedQuestions({
       "submission": "Do you support the labeling of GMOs and if so, what do you intend to do to promote people's right to know what is in their food?", 
       "district": "TN_03", 
       "created": "2013-08-05T02:57:27", 
-      "state_votes": 40, 
-      "votes": 220, 
+      "state_votes": 41, 
+      "votes": 221, 
       "district_votes": 11, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.1253, 
       "x": -84.8666, 
-      "latest_vote": "2013-08-08T14:33:48", 
+      "latest_vote": "2013-08-08T15:06:34", 
       "id": 16176001
     }, 
     {
