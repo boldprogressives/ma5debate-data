@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Ann Arbor", 
+      "first_name": "Wendy", 
+      "last_name": "Ransom", 
+      "user_id": 1737291, 
+      "submission": "Will you protect Social Security And Medicare by not cutting it with the chained CPI for Social Security that has been mentioned.  Also, no cuts to Medicare but closing the donute hole 100% so seniors aren't left fending for themselves to pay full price for their drugs.", 
+      "district": "MI_12", 
+      "created": "2013-08-08T20:19:53", 
+      "state": "MI", 
+      "iface": "timeline_vote", 
+      "y": 42.3068, 
+      "x": -83.7004, 
+      "id": 16233081, 
+      "question_id": "16175570"
+    }, 
+    {
       "city": "Austin", 
       "first_name": "rose", 
       "last_name": "roma", 
@@ -49,21 +64,6 @@ opendebate.processTimeline({
       "x": -93.1272, 
       "id": 16233075, 
       "question_id": "16175740"
-    }, 
-    {
-      "city": "Ann Arbor", 
-      "first_name": "Wendy", 
-      "last_name": "Ransom", 
-      "user_id": 1737291, 
-      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
-      "district": "MI_12", 
-      "created": "2013-08-08T20:18:31", 
-      "state": "MI", 
-      "iface": "timeline_vote", 
-      "y": 42.3068, 
-      "x": -83.7004, 
-      "id": 16233072, 
-      "question_id": "16203676"
     }, 
     {
       "city": "Austin", 
