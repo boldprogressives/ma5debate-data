@@ -1595,7 +1595,7 @@ opendebate.processFetchedQuestions({
       "x": -81.514, 
       "latest_vote": "2013-08-08T17:46:05", 
       "id": 16224262, 
-      "trending_score": 3.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Tewksbury", 
@@ -1614,7 +1614,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2229, 
       "latest_vote": "2013-08-08T13:23:24", 
       "id": 16223981, 
-      "trending_score": 1.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Angola", 
@@ -1633,7 +1633,7 @@ opendebate.processFetchedQuestions({
       "x": -84.9896, 
       "latest_vote": "2013-08-08T17:37:22", 
       "id": 16223890, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Sudbury", 
@@ -1652,7 +1652,7 @@ opendebate.processFetchedQuestions({
       "x": -71.4277, 
       "latest_vote": "2013-08-08T17:37:11", 
       "id": 16223847, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Angola", 
@@ -1671,7 +1671,7 @@ opendebate.processFetchedQuestions({
       "x": -84.9896, 
       "latest_vote": "2013-08-08T13:24:08", 
       "id": 16223793, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Angola", 
@@ -6564,16 +6564,16 @@ opendebate.processFetchedQuestions({
       "submission": "How can we stop paying Congress for not doing their jobs and take away their healthcare benefits?", 
       "district": "GA_07", 
       "created": "2013-08-07T00:27:32", 
-      "state_votes": 4, 
-      "votes": 27, 
+      "state_votes": 5, 
+      "votes": 28, 
       "district_votes": 0, 
       "state": "GA", 
       "iface": "question", 
       "y": 33.9372, 
       "x": -83.9611, 
-      "latest_vote": "2013-08-07T07:40:06", 
+      "latest_vote": "2013-08-08T17:53:09", 
       "id": 16210559, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Clovis", 
@@ -8864,15 +8864,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_11", 
       "created": "2013-08-06T19:25:15", 
       "state_votes": 9, 
-      "votes": 75, 
+      "votes": 76, 
       "district_votes": 3, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.9521, 
       "x": -122.074, 
-      "latest_vote": "2013-08-08T17:33:15", 
+      "latest_vote": "2013-08-08T17:53:06", 
       "id": 16201467, 
-      "trending_score": 3.5
+      "trending_score": 4.5
     }, 
     {
       "city": "Needham Heights", 
@@ -15627,16 +15627,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you support the 90% of Americans who are demanding that GMO's be labeled nationwide?", 
       "district": "CA_45", 
       "created": "2013-08-06T11:54:48", 
-      "state_votes": 4, 
-      "votes": 38, 
-      "district_votes": 1, 
+      "state_votes": 5, 
+      "votes": 39, 
+      "district_votes": 2, 
       "state": "CA", 
       "iface": "question", 
       "y": 33.6245, 
       "x": -117.794, 
-      "latest_vote": "2013-08-08T17:33:58", 
+      "latest_vote": "2013-08-08T17:53:06", 
       "id": 16180953, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Rowe", 
@@ -17128,16 +17128,16 @@ opendebate.processFetchedQuestions({
       "submission": "Where do you stand on the issue of GMO food products in the American food supply and the evidence that they are harming the health of Americans while benefiting corporations like Monsanto?", 
       "district": "WI_01", 
       "created": "2013-08-05T16:32:35", 
-      "state_votes": 2, 
-      "votes": 38, 
-      "district_votes": 0, 
+      "state_votes": 3, 
+      "votes": 39, 
+      "district_votes": 1, 
       "state": "WI", 
       "iface": "question", 
       "y": 42.5733, 
       "x": -87.8804, 
-      "latest_vote": "2013-08-08T17:34:17", 
+      "latest_vote": "2013-08-08T17:53:30", 
       "id": 16177973, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Tucson", 
@@ -17242,16 +17242,16 @@ opendebate.processFetchedQuestions({
       "submission": "A proposal hasbeen made to privitize the water supply.  Where do you stand on this, and what actions do you plan to address the proposal?", 
       "district": "AZ_02", 
       "created": "2013-08-05T15:40:22", 
-      "state_votes": 4, 
-      "votes": 38, 
-      "district_votes": 1, 
+      "state_votes": 5, 
+      "votes": 39, 
+      "district_votes": 2, 
       "state": "AZ", 
       "iface": "question", 
       "y": 32.3574, 
       "x": -111.045, 
-      "latest_vote": "2013-08-08T17:31:25", 
+      "latest_vote": "2013-08-08T17:53:47", 
       "id": 16177841, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Tucson", 
@@ -19067,15 +19067,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_12", 
       "created": "2013-08-05T01:05:31", 
       "state_votes": 43, 
-      "votes": 239, 
+      "votes": 241, 
       "district_votes": 9, 
       "state": "IL", 
       "iface": "question", 
       "y": 38.3176, 
       "x": -88.9093, 
-      "latest_vote": "2013-08-08T17:51:26", 
+      "latest_vote": "2013-08-08T17:53:14", 
       "id": 16175634, 
-      "trending_score": 24.125
+      "trending_score": 26.125
     }, 
     {
       "city": "Mount Vernon", 
@@ -19561,15 +19561,15 @@ opendebate.processFetchedQuestions({
       "district": "WI_02", 
       "created": "2013-08-04T21:54:34", 
       "state_votes": 15, 
-      "votes": 96, 
+      "votes": 97, 
       "district_votes": 8, 
       "state": "WI", 
       "iface": "question", 
       "y": 42.9812, 
       "x": -89.7297, 
-      "latest_vote": "2013-08-08T17:50:52", 
+      "latest_vote": "2013-08-08T17:53:56", 
       "id": 16175078, 
-      "trending_score": 12.5
+      "trending_score": 13.5
     }, 
     {
       "city": "Iuka", 
@@ -20530,15 +20530,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_05", 
       "created": "2013-08-04T15:18:55", 
       "state_votes": 37, 
-      "votes": 214, 
+      "votes": 217, 
       "district_votes": 5, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.6898, 
       "x": -123.884, 
-      "latest_vote": "2013-08-08T17:51:23", 
+      "latest_vote": "2013-08-08T17:53:38", 
       "id": 16174072, 
-      "trending_score": 23.166666666666668
+      "trending_score": 26.166666666666668
     }, 
     {
       "city": "Cape Girardeau", 
@@ -21499,15 +21499,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:25:59", 
       "state_votes": 204, 
-      "votes": 1276, 
+      "votes": 1278, 
       "district_votes": 65, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-08T17:52:29", 
+      "latest_vote": "2013-08-08T17:54:01", 
       "id": 16173264, 
-      "trending_score": 22.035714285714285
+      "trending_score": 22.583333333333332
     }, 
     {
       "city": "Prosper", 
@@ -22259,15 +22259,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T23:23:07", 
       "state_votes": 146, 
-      "votes": 855, 
+      "votes": 856, 
       "district_votes": 37, 
       "state": "MT", 
       "iface": "question", 
       "y": 48.2112, 
       "x": -114.294, 
-      "latest_vote": "2013-08-08T17:52:39", 
+      "latest_vote": "2013-08-08T17:53:51", 
       "id": 16172913, 
-      "trending_score": 21.708333333333332
+      "trending_score": 22.041666666666668
     }, 
     {
       "city": "Montegut", 
@@ -22487,15 +22487,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
       "state_votes": 240, 
-      "votes": 1616, 
+      "votes": 1617, 
       "district_votes": 68, 
       "state": "MT", 
       "iface": "question", 
       "y": 46.6453, 
       "x": -111.974, 
-      "latest_vote": "2013-08-08T17:52:23", 
+      "latest_vote": "2013-08-08T17:53:30", 
       "id": 16172777, 
-      "trending_score": 20.833333333333332
+      "trending_score": 21.083333333333332
     }, 
     {
       "city": "Gladstone", 
@@ -22506,15 +22506,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_05", 
       "created": "2013-08-03T22:30:45", 
       "state_votes": 80, 
-      "votes": 512, 
+      "votes": 513, 
       "district_votes": 19, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.3898, 
       "x": -122.589, 
-      "latest_vote": "2013-08-08T17:52:50", 
+      "latest_vote": "2013-08-08T17:53:08", 
       "id": 16172765, 
-      "trending_score": 26.833333333333332
+      "trending_score": 27.333333333333332
     }, 
     {
       "city": "Egg Harbor", 
@@ -22544,15 +22544,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:27:03", 
       "state_votes": 160, 
-      "votes": 949, 
+      "votes": 953, 
       "district_votes": 44, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.6267, 
       "x": -87.5959, 
-      "latest_vote": "2013-08-08T17:51:09", 
+      "latest_vote": "2013-08-08T17:54:02", 
       "id": 16172755, 
-      "trending_score": 21.3
+      "trending_score": 22.708333333333332
     }, 
     {
       "city": "Richardson", 
@@ -22620,15 +22620,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:20:39", 
       "state_votes": 145, 
-      "votes": 1184, 
+      "votes": 1186, 
       "district_votes": 37, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.7162, 
       "x": -87.5544, 
-      "latest_vote": "2013-08-08T17:51:42", 
+      "latest_vote": "2013-08-08T17:53:21", 
       "id": 16172727, 
-      "trending_score": 24.25
+      "trending_score": 24.96666666666667
     }, 
     {
       "city": "Waldport", 
@@ -22818,7 +22818,7 @@ opendebate.processFetchedQuestions({
       "x": -122.594, 
       "latest_vote": "2013-08-08T17:46:09", 
       "id": 16172690, 
-      "trending_score": 9.633333333333335
+      "trending_score": 7.15
     }, 
     {
       "city": "Gig Harbor", 
@@ -23141,7 +23141,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-08T17:52:38", 
       "id": 16172533, 
-      "trending_score": 30.642857142857142
+      "trending_score": 30.666666666666668
     }, 
     {
       "city": "Medford", 
@@ -23266,15 +23266,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:42:20", 
       "state_votes": 144, 
-      "votes": 893, 
+      "votes": 894, 
       "district_votes": 42, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3699, 
       "x": -71.2368, 
-      "latest_vote": "2013-08-08T17:50:38", 
+      "latest_vote": "2013-08-08T17:53:17", 
       "id": 16172281, 
-      "trending_score": 12.285714285714286
+      "trending_score": 12.583333333333334
     }, 
     {
       "city": "Arlington", 
@@ -23323,15 +23323,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:33:11", 
       "state_votes": 211, 
-      "votes": 1279, 
+      "votes": 1280, 
       "district_votes": 63, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-08T17:51:48", 
+      "latest_vote": "2013-08-08T17:53:23", 
       "id": 16172266, 
-      "trending_score": 23.25
+      "trending_score": 23.583333333333332
     }, 
     {
       "city": "Cambridge", 
@@ -23474,16 +23474,16 @@ opendebate.processFetchedQuestions({
       "submission": "Should the US be investing more in education? If so, what should we invest in (pre-school, public universities, technology upgrades for high schools, etc.) and how should we pay for it?", 
       "district": "MA_05", 
       "created": "2013-08-03T16:28:41", 
-      "state_votes": 8, 
-      "votes": 30, 
+      "state_votes": 9, 
+      "votes": 31, 
       "district_votes": 3, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4152, 
       "x": -71.0053, 
-      "latest_vote": "2013-08-08T17:46:34", 
+      "latest_vote": "2013-08-08T17:53:33", 
       "id": 16172172, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "cambridge", 
