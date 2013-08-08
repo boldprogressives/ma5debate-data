@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Do you think Citizens United should be abandoned and the idea of corporations as people is unfair to real people?", 
+      "submission": "Who is financing your campaign and what have you promised in return for this support?", 
       "district": "MA_04", 
-      "created": "2013-08-08T16:54:56", 
+      "created": "2013-08-08T16:55:44", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227524, 
-      "question_id": "16201423"
+      "id": 16227527, 
+      "question_id": "16199725"
     }, 
     {
       "city": "Boston", 
