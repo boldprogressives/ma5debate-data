@@ -1016,16 +1016,16 @@ opendebate.processFetchedQuestions({
       "submission": "Re Gun Control:  Will you fight the NRA to achieve basic reforms that most Americans agree on?:* Some people should never own any type of weapon.* Some weapons should never be owned by anyone.* Background checks should be universal and enforced.* Basic defense of self and home requires only a simple rifle and/or pistol, not assault weapons.* The Second Amendment refers to a \"well-regulated militia\"; this clause cannot be ignored, everything that follows relates to that.  It does not mean that any and all Americans may own any and all forms of weaponry. Would you support an amendment to the U.S. Constitution clarifying the Second Amendment as suggested above?", 
       "district": "MA_01", 
       "created": "2013-08-08T19:33:48", 
-      "state_votes": 0, 
-      "votes": 5, 
-      "district_votes": 0, 
+      "state_votes": 1, 
+      "votes": 6, 
+      "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.1229, 
       "x": -72.487, 
-      "latest_vote": "2013-08-08T22:09:34", 
+      "latest_vote": "2013-08-08T22:33:10", 
       "id": 16232223, 
-      "trending_score": 5.5
+      "trending_score": 6.5
     }, 
     {
       "city": "Watertown", 
@@ -5281,7 +5281,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1231, 
       "latest_vote": "2013-08-08T22:15:04", 
       "id": 16217107, 
-      "trending_score": 2.5
+      "trending_score": 3.25
     }, 
     {
       "city": "Quincy", 
@@ -6298,16 +6298,16 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do to ensure gun control legislation is passed.", 
       "district": "NC_06", 
       "created": "2013-08-07T04:34:50", 
-      "state_votes": 1, 
-      "votes": 10, 
-      "district_votes": 0, 
+      "state_votes": 2, 
+      "votes": 11, 
+      "district_votes": 1, 
       "state": "NC", 
       "iface": "question", 
       "y": 36.2007, 
       "x": -79.6777, 
-      "latest_vote": "2013-08-08T22:12:18", 
+      "latest_vote": "2013-08-08T22:33:03", 
       "id": 16213459, 
-      "trending_score": 3.25
+      "trending_score": 4.25
     }, 
     {
       "city": "Gibsonton", 
@@ -8160,16 +8160,16 @@ opendebate.processFetchedQuestions({
       "submission": "When will you force Eric Holder and the DOJ to start prosecuting the criminal elements in the Wall Street firms that attributed to the great economic crash of 2008?", 
       "district": "CA_43", 
       "created": "2013-08-06T23:44:31", 
-      "state_votes": 9, 
-      "votes": 67, 
-      "district_votes": 3, 
+      "state_votes": 10, 
+      "votes": 68, 
+      "district_votes": 4, 
       "state": "CA", 
       "iface": "question", 
       "y": 33.9753, 
       "x": -118.354, 
-      "latest_vote": "2013-08-08T22:05:57", 
+      "latest_vote": "2013-08-08T22:33:56", 
       "id": 16209667, 
-      "trending_score": 6.333333333333333
+      "trending_score": 6.833333333333333
     }, 
     {
       "city": "Lexington", 
@@ -8332,15 +8332,15 @@ opendebate.processFetchedQuestions({
       "district": "PA_14", 
       "created": "2013-08-06T22:53:13", 
       "state_votes": 7, 
-      "votes": 79, 
+      "votes": 80, 
       "district_votes": 2, 
       "state": "PA", 
       "iface": "question", 
       "y": 40.4289, 
       "x": -79.9232, 
-      "latest_vote": "2013-08-08T22:32:49", 
+      "latest_vote": "2013-08-08T22:33:41", 
       "id": 16208816, 
-      "trending_score": 14.0
+      "trending_score": 14.5
     }, 
     {
       "city": "Sarasota", 
@@ -8788,15 +8788,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_04", 
       "created": "2013-08-06T22:02:13", 
       "state_votes": 6, 
-      "votes": 68, 
+      "votes": 69, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.1677, 
       "x": -71.3601, 
-      "latest_vote": "2013-08-08T22:32:29", 
+      "latest_vote": "2013-08-08T22:33:18", 
       "id": 16207233, 
-      "trending_score": 15.5
+      "trending_score": 31.166666666666668
     }, 
     {
       "city": "Melbourne Beach", 
@@ -8959,15 +8959,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_06", 
       "created": "2013-08-06T21:47:06", 
       "state_votes": 12, 
-      "votes": 54, 
+      "votes": 55, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.5181, 
       "x": -70.9045, 
-      "latest_vote": "2013-08-08T22:09:30", 
+      "latest_vote": "2013-08-08T22:33:45", 
       "id": 16206519, 
-      "trending_score": 12.166666666666666
+      "trending_score": 13.166666666666666
     }, 
     {
       "city": "Melbourne Beach", 
@@ -9605,15 +9605,15 @@ opendebate.processFetchedQuestions({
       "district": "AZ_03", 
       "created": "2013-08-06T20:46:46", 
       "state_votes": 16, 
-      "votes": 132, 
+      "votes": 133, 
       "district_votes": 2, 
       "state": "AZ", 
       "iface": "question", 
       "y": 32.2505, 
       "x": -111.03, 
-      "latest_vote": "2013-08-08T22:33:01", 
+      "latest_vote": "2013-08-08T22:34:00", 
       "id": 16205046, 
-      "trending_score": 10.166666666666666
+      "trending_score": 10.416666666666666
     }, 
     {
       "city": "Daly City", 
@@ -9822,7 +9822,7 @@ opendebate.processFetchedQuestions({
       "x": -74.1907, 
       "latest_vote": "2013-08-08T22:30:07", 
       "id": 16203866, 
-      "trending_score": 9.192567567567568
+      "trending_score": 8.294444444444444
     }, 
     {
       "city": "Watertown", 
@@ -9879,7 +9879,7 @@ opendebate.processFetchedQuestions({
       "x": -72.6301, 
       "latest_vote": "2013-08-08T22:32:30", 
       "id": 16203676, 
-      "trending_score": 15.85
+      "trending_score": 14.556818181818182
     }, 
     {
       "city": "Gloucester", 
@@ -9966,15 +9966,15 @@ opendebate.processFetchedQuestions({
       "district": "MI_11", 
       "created": "2013-08-06T19:59:23", 
       "state_votes": 15, 
-      "votes": 85, 
+      "votes": 86, 
       "district_votes": 4, 
       "state": "MI", 
       "iface": "question", 
       "y": 42.5952, 
       "x": -83.1201, 
-      "latest_vote": "2013-08-08T22:32:54", 
+      "latest_vote": "2013-08-08T22:33:22", 
       "id": 16203215, 
-      "trending_score": 21.25
+      "trending_score": 22.25
     }, 
     {
       "city": "Lake Worth", 
@@ -10107,7 +10107,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1765, 
       "latest_vote": "2013-08-08T22:29:19", 
       "id": 16202179, 
-      "trending_score": 4.166666666666666
+      "trending_score": 3.1666666666666665
     }, 
     {
       "city": "San Francisco", 
@@ -10118,15 +10118,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_12", 
       "created": "2013-08-06T19:37:02", 
       "state_votes": 41, 
-      "votes": 514, 
+      "votes": 515, 
       "district_votes": 14, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.7802, 
       "x": -122.459, 
-      "latest_vote": "2013-08-08T22:29:03", 
+      "latest_vote": "2013-08-08T22:33:03", 
       "id": 16202059, 
-      "trending_score": 7.856944444444444
+      "trending_score": 7.931818181818182
     }, 
     {
       "city": "Richfield", 
@@ -10175,15 +10175,15 @@ opendebate.processFetchedQuestions({
       "district": "NY_16", 
       "created": "2013-08-06T19:33:42", 
       "state_votes": 9, 
-      "votes": 65, 
+      "votes": 66, 
       "district_votes": 1, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.9824, 
       "x": -73.6893, 
-      "latest_vote": "2013-08-08T22:06:05", 
+      "latest_vote": "2013-08-08T22:33:34", 
       "id": 16201865, 
-      "trending_score": 12.25
+      "trending_score": 13.25
     }, 
     {
       "city": "Melbourne", 
@@ -10221,7 +10221,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7452, 
       "latest_vote": "2013-08-08T22:31:56", 
       "id": 16201620, 
-      "trending_score": 7.366666666666667
+      "trending_score": 6.924242424242424
     }, 
     {
       "city": "Cambridge", 
@@ -10289,15 +10289,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_11", 
       "created": "2013-08-06T19:27:17", 
       "state_votes": 11, 
-      "votes": 78, 
+      "votes": 80, 
       "district_votes": 4, 
       "state": "CA", 
       "iface": "question", 
       "y": 38.0171, 
       "x": -121.91, 
-      "latest_vote": "2013-08-08T22:23:03", 
+      "latest_vote": "2013-08-08T22:34:00", 
       "id": 16201563, 
-      "trending_score": 12.25
+      "trending_score": 14.25
     }, 
     {
       "city": "Sandusky", 
@@ -10308,15 +10308,15 @@ opendebate.processFetchedQuestions({
       "district": "OH_09", 
       "created": "2013-08-06T19:27:12", 
       "state_votes": 18, 
-      "votes": 111, 
+      "votes": 112, 
       "district_votes": 5, 
       "state": "OH", 
       "iface": "question", 
       "y": 41.405, 
       "x": -82.7314, 
-      "latest_vote": "2013-08-08T22:32:34", 
+      "latest_vote": "2013-08-08T22:33:24", 
       "id": 16201559, 
-      "trending_score": 31.125
+      "trending_score": 32.125
     }, 
     {
       "city": "North Andover", 
@@ -10354,7 +10354,7 @@ opendebate.processFetchedQuestions({
       "x": -122.074, 
       "latest_vote": "2013-08-08T22:31:33", 
       "id": 16201467, 
-      "trending_score": 9.75
+      "trending_score": 13.833333333333334
     }, 
     {
       "city": "Needham Heights", 
@@ -10544,7 +10544,7 @@ opendebate.processFetchedQuestions({
       "x": -76.8845, 
       "latest_vote": "2013-08-08T17:33:38", 
       "id": 16200808, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Sandusky", 
@@ -10859,15 +10859,15 @@ opendebate.processFetchedQuestions({
       "district": "TN_04", 
       "created": "2013-08-06T18:47:43", 
       "state_votes": 19, 
-      "votes": 174, 
+      "votes": 175, 
       "district_votes": 7, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.476, 
       "x": -86.4672, 
-      "latest_vote": "2013-08-08T22:22:52", 
+      "latest_vote": "2013-08-08T22:33:31", 
       "id": 16199834, 
-      "trending_score": 12.464285714285714
+      "trending_score": 12.607142857142858
     }, 
     {
       "city": "Ashland", 
@@ -10897,15 +10897,15 @@ opendebate.processFetchedQuestions({
       "district": "PA_07", 
       "created": "2013-08-06T18:46:11", 
       "state_votes": 7, 
-      "votes": 69, 
+      "votes": 70, 
       "district_votes": 0, 
       "state": "PA", 
       "iface": "question", 
       "y": 39.8687, 
       "x": -75.3857, 
-      "latest_vote": "2013-08-08T22:30:14", 
+      "latest_vote": "2013-08-08T22:33:12", 
       "id": 16199756, 
-      "trending_score": 14.166666666666666
+      "trending_score": 15.166666666666666
     }, 
     {
       "city": "Elizabethtown", 
@@ -11695,15 +11695,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_03", 
       "created": "2013-08-06T17:20:17", 
       "state_votes": 8, 
-      "votes": 55, 
+      "votes": 56, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3497, 
       "x": -71.5469, 
-      "latest_vote": "2013-08-08T22:04:13", 
+      "latest_vote": "2013-08-08T22:33:53", 
       "id": 16194273, 
-      "trending_score": 12.166666666666666
+      "trending_score": 13.166666666666666
     }, 
     {
       "city": "Spring Hill", 
@@ -12796,16 +12796,16 @@ opendebate.processFetchedQuestions({
       "submission": "Since I am constantly hearing single women parents are looking for public assistance, even though they may be working two or more low-wage jobs, why isn't more being done for equal pay for women in all jobs, as well as higher min. wages, even if it is just for your state.", 
       "district": "ME_02", 
       "created": "2013-08-06T16:25:58", 
-      "state_votes": 1, 
-      "votes": 11, 
+      "state_votes": 2, 
+      "votes": 12, 
       "district_votes": 0, 
       "state": "ME", 
       "iface": "question", 
       "y": 44.8008, 
       "x": -68.563, 
-      "latest_vote": "2013-08-08T20:23:03", 
+      "latest_vote": "2013-08-08T22:33:39", 
       "id": 16190885, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Dallas", 
@@ -12815,16 +12815,16 @@ opendebate.processFetchedQuestions({
       "submission": "How do we continue to have hope that every American is entitled to pursue their dreams when the behavior of state congress like Texas and Federal congress seem so preoccupied with the needs and agendas of the 1%?", 
       "district": "TX_32", 
       "created": "2013-08-06T16:24:16", 
-      "state_votes": 0, 
-      "votes": 10, 
+      "state_votes": 1, 
+      "votes": 11, 
       "district_votes": 0, 
       "state": "TX", 
       "iface": "question", 
       "y": 32.8305, 
       "x": -96.7727, 
-      "latest_vote": "2013-08-07T08:24:43", 
+      "latest_vote": "2013-08-08T22:33:05", 
       "id": 16190792, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Mechanicsville", 
@@ -13071,7 +13071,7 @@ opendebate.processFetchedQuestions({
       "x": -73.1977, 
       "latest_vote": "2013-08-08T19:21:25", 
       "id": 16190220, 
-      "trending_score": 1.5
+      "trending_score": 1.25
     }, 
     {
       "city": "Worcester", 
@@ -13993,16 +13993,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you stand up to gun lobbyists to support strong measures about gun control or will you shy away from it because it is too hot?", 
       "district": "TX_32", 
       "created": "2013-08-06T15:32:29", 
-      "state_votes": 2, 
-      "votes": 8, 
-      "district_votes": 0, 
+      "state_votes": 3, 
+      "votes": 9, 
+      "district_votes": 1, 
       "state": "TX", 
       "iface": "question", 
       "y": 32.8305, 
       "x": -96.7727, 
-      "latest_vote": "2013-08-08T18:39:44", 
+      "latest_vote": "2013-08-08T22:33:05", 
       "id": 16187691, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Cocoa", 
@@ -14715,16 +14715,16 @@ opendebate.processFetchedQuestions({
       "submission": "What do you plan to do about...(1) Passing strict gun control legislation and (2) Restoring Section 4 of the VRA?", 
       "district": "OH_11", 
       "created": "2013-08-06T15:05:56", 
-      "state_votes": 0, 
-      "votes": 3, 
-      "district_votes": 0, 
+      "state_votes": 1, 
+      "votes": 4, 
+      "district_votes": 1, 
       "state": "OH", 
       "iface": "question", 
       "y": 41.5696, 
       "x": -81.5252, 
-      "latest_vote": "2013-08-06T19:21:53", 
+      "latest_vote": "2013-08-08T22:33:12", 
       "id": 16185594, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Hollywood", 
@@ -14838,7 +14838,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1035, 
       "latest_vote": "2013-08-08T22:32:46", 
       "id": 16185403, 
-      "trending_score": 9.0
+      "trending_score": 6.5
     }, 
     {
       "city": "billings", 
@@ -14990,7 +14990,7 @@ opendebate.processFetchedQuestions({
       "x": -79.4609, 
       "latest_vote": "2013-08-08T20:01:45", 
       "id": 16185019, 
-      "trending_score": 4.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Columbus", 
@@ -16168,7 +16168,7 @@ opendebate.processFetchedQuestions({
       "x": -80.3607, 
       "latest_vote": "2013-08-08T22:12:36", 
       "id": 16182732, 
-      "trending_score": 4.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Dallas", 
@@ -17023,7 +17023,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1032, 
       "latest_vote": "2013-08-08T22:04:56", 
       "id": 16181013, 
-      "trending_score": 4.0
+      "trending_score": 3.166666666666667
     }, 
     {
       "city": "Cathedral City", 
@@ -17118,7 +17118,7 @@ opendebate.processFetchedQuestions({
       "x": -117.794, 
       "latest_vote": "2013-08-08T22:05:39", 
       "id": 16180953, 
-      "trending_score": 2.416666666666667
+      "trending_score": 2.8333333333333335
     }, 
     {
       "city": "Rowe", 
@@ -18467,7 +18467,7 @@ opendebate.processFetchedQuestions({
       "x": -106.578, 
       "latest_vote": "2013-08-08T22:32:58", 
       "id": 16178177, 
-      "trending_score": 22.75
+      "trending_score": 18.225
     }, 
     {
       "city": "San Antonio", 
@@ -19010,15 +19010,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_01", 
       "created": "2013-08-05T09:48:49", 
       "state_votes": 8, 
-      "votes": 85, 
+      "votes": 86, 
       "district_votes": 2, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.9395, 
       "x": -122.017, 
-      "latest_vote": "2013-08-08T22:24:02", 
+      "latest_vote": "2013-08-08T22:33:22", 
       "id": 16176917, 
-      "trending_score": 12.25
+      "trending_score": 13.25
     }, 
     {
       "city": "Sioux Falls", 
@@ -19227,7 +19227,7 @@ opendebate.processFetchedQuestions({
       "x": -110.829, 
       "latest_vote": "2013-08-08T20:20:57", 
       "id": 16176723, 
-      "trending_score": 3.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Tucson", 
@@ -19884,15 +19884,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_07", 
       "created": "2013-08-05T03:21:23", 
       "state_votes": 8, 
-      "votes": 77, 
+      "votes": 78, 
       "district_votes": 2, 
       "state": "CO", 
       "iface": "question", 
       "y": 39.9288, 
       "x": -104.946, 
-      "latest_vote": "2013-08-08T22:31:16", 
+      "latest_vote": "2013-08-08T22:33:11", 
       "id": 16176201, 
-      "trending_score": 20.25
+      "trending_score": 21.25
     }, 
     {
       "city": "Albuquerque", 
@@ -20044,7 +20044,7 @@ opendebate.processFetchedQuestions({
       "x": -84.8666, 
       "latest_vote": "2013-08-08T22:07:36", 
       "id": 16176001, 
-      "trending_score": 7.125
+      "trending_score": 6.458333333333333
     }, 
     {
       "city": "Little Rock", 
@@ -20424,7 +20424,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9643, 
       "latest_vote": "2013-08-08T22:32:57", 
       "id": 16175740, 
-      "trending_score": 30.125
+      "trending_score": 30.069444444444443
     }, 
     {
       "city": "Buffalo Grove", 
@@ -20492,15 +20492,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_12", 
       "created": "2013-08-05T01:07:07", 
       "state_votes": 21, 
-      "votes": 155, 
+      "votes": 156, 
       "district_votes": 7, 
       "state": "IL", 
       "iface": "question", 
       "y": 38.3176, 
       "x": -88.9093, 
-      "latest_vote": "2013-08-08T22:32:36", 
+      "latest_vote": "2013-08-08T22:33:42", 
       "id": 16175637, 
-      "trending_score": 11.833333333333334
+      "trending_score": 12.166666666666666
     }, 
     {
       "city": "Mount Vernon", 
@@ -20557,7 +20557,7 @@ opendebate.processFetchedQuestions({
       "x": -88.9093, 
       "latest_vote": "2013-08-08T22:27:51", 
       "id": 16175634, 
-      "trending_score": 6.083333333333333
+      "trending_score": 6.958333333333333
     }, 
     {
       "city": "Mount Vernon", 
@@ -20644,15 +20644,15 @@ opendebate.processFetchedQuestions({
       "district": "NE_03", 
       "created": "2013-08-05T00:36:55", 
       "state_votes": 13, 
-      "votes": 193, 
+      "votes": 194, 
       "district_votes": 3, 
       "state": "NE", 
       "iface": "question", 
       "y": 41.1313, 
       "x": -103.032, 
-      "latest_vote": "2013-08-08T22:30:07", 
+      "latest_vote": "2013-08-08T22:33:39", 
       "id": 16175570, 
-      "trending_score": 17.0
+      "trending_score": 17.166666666666668
     }, 
     {
       "city": "Mountlake Terrace", 
@@ -20709,7 +20709,7 @@ opendebate.processFetchedQuestions({
       "x": -81.5334, 
       "latest_vote": "2013-08-08T22:29:57", 
       "id": 16175500, 
-      "trending_score": 5.978571428571429
+      "trending_score": 6.035714285714286
     }, 
     {
       "city": "Seattle", 
@@ -20728,7 +20728,7 @@ opendebate.processFetchedQuestions({
       "x": -122.322, 
       "latest_vote": "2013-08-08T22:30:28", 
       "id": 16175493, 
-      "trending_score": 6.05
+      "trending_score": 6.003448275862069
     }, 
     {
       "city": "Seattle", 
@@ -21982,7 +21982,7 @@ opendebate.processFetchedQuestions({
       "x": -91.7189, 
       "latest_vote": "2013-08-08T22:31:12", 
       "id": 16174109, 
-      "trending_score": 4.063725490196078
+      "trending_score": 4.772058823529411
     }, 
     {
       "city": "Baraboo", 
@@ -22020,7 +22020,7 @@ opendebate.processFetchedQuestions({
       "x": -123.884, 
       "latest_vote": "2013-08-08T22:29:42", 
       "id": 16174072, 
-      "trending_score": 8.083333333333332
+      "trending_score": 8.958333333333332
     }, 
     {
       "city": "Cape Girardeau", 
@@ -22115,7 +22115,7 @@ opendebate.processFetchedQuestions({
       "x": -105.043, 
       "latest_vote": "2013-08-08T22:30:13", 
       "id": 16173921, 
-      "trending_score": 7.830357142857142
+      "trending_score": 8.020833333333334
     }, 
     {
       "city": "Fort Collins", 
@@ -22297,15 +22297,15 @@ opendebate.processFetchedQuestions({
       "district": "LA_02", 
       "created": "2013-08-04T07:58:27", 
       "state_votes": 20, 
-      "votes": 165, 
+      "votes": 168, 
       "district_votes": 6, 
       "state": "LA", 
       "iface": "question", 
       "y": 29.9692, 
       "x": -90.0296, 
-      "latest_vote": "2013-08-08T22:32:53", 
+      "latest_vote": "2013-08-08T22:33:51", 
       "id": 16173625, 
-      "trending_score": 13.166666666666666
+      "trending_score": 13.916666666666666
     }, 
     {
       "city": "Lubbock", 
@@ -22411,15 +22411,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_01", 
       "created": "2013-08-04T04:11:32", 
       "state_votes": 17, 
-      "votes": 148, 
+      "votes": 149, 
       "district_votes": 5, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.2096, 
       "x": -123.218, 
-      "latest_vote": "2013-08-08T22:32:07", 
+      "latest_vote": "2013-08-08T22:33:11", 
       "id": 16173512, 
-      "trending_score": 5.833333333333333
+      "trending_score": 6.0
     }, 
     {
       "city": "Las Vegas", 
@@ -22695,16 +22695,16 @@ opendebate.processFetchedQuestions({
       "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
       "district": "TN_02", 
       "created": "2013-08-04T02:07:32", 
-      "state_votes": 118, 
-      "votes": 785, 
-      "district_votes": 26, 
+      "state_votes": 119, 
+      "votes": 786, 
+      "district_votes": 27, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.8311, 
       "x": -84.0482, 
-      "latest_vote": "2013-08-08T22:30:06", 
+      "latest_vote": "2013-08-08T22:33:55", 
       "id": 16173335, 
-      "trending_score": 7.017857142857143
+      "trending_score": 7.214285714285714
     }, 
     {
       "city": "Evansville", 
@@ -22780,7 +22780,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-08T22:16:48", 
       "id": 16173323, 
-      "trending_score": 9.5
+      "trending_score": 6.416666666666667
     }, 
     {
       "city": "Bensenville", 
@@ -22799,7 +22799,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9488, 
       "latest_vote": "2013-08-08T22:29:37", 
       "id": 16173320, 
-      "trending_score": 6.5375
+      "trending_score": 6.516666666666667
     }, 
     {
       "city": "Bensenville", 
@@ -22980,16 +22980,16 @@ opendebate.processFetchedQuestions({
       "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
       "district": "TX_03", 
       "created": "2013-08-04T01:25:59", 
-      "state_votes": 224, 
-      "votes": 1472, 
-      "district_votes": 74, 
+      "state_votes": 225, 
+      "votes": 1473, 
+      "district_votes": 75, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-08T22:32:31", 
+      "latest_vote": "2013-08-08T22:33:18", 
       "id": 16173264, 
-      "trending_score": 5.408843537414966
+      "trending_score": 5.306760204081632
     }, 
     {
       "city": "Prosper", 
@@ -23008,7 +23008,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-08T22:32:50", 
       "id": 16173259, 
-      "trending_score": 7.946428571428571
+      "trending_score": 8.337606837606836
     }, 
     {
       "city": "Manitowoc", 
@@ -23027,7 +23027,7 @@ opendebate.processFetchedQuestions({
       "x": -87.7111, 
       "latest_vote": "2013-08-08T22:30:44", 
       "id": 16173257, 
-      "trending_score": 11.65
+      "trending_score": 12.8125
     }, 
     {
       "city": "Corvallis", 
@@ -23065,7 +23065,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-08T22:11:03", 
       "id": 16173244, 
-      "trending_score": 5.4226190476190474
+      "trending_score": 5.3809523809523805
     }, 
     {
       "city": "Saint Peters", 
@@ -23740,16 +23740,16 @@ opendebate.processFetchedQuestions({
       "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
       "district": "MT_01", 
       "created": "2013-08-03T23:23:07", 
-      "state_votes": 159, 
-      "votes": 1018, 
+      "state_votes": 160, 
+      "votes": 1019, 
       "district_votes": 41, 
       "state": "MT", 
       "iface": "question", 
       "y": 48.2112, 
       "x": -114.294, 
-      "latest_vote": "2013-08-08T22:29:24", 
+      "latest_vote": "2013-08-08T22:33:57", 
       "id": 16172913, 
-      "trending_score": 6.772058823529412
+      "trending_score": 6.651515151515151
     }, 
     {
       "city": "Montegut", 
@@ -23920,7 +23920,7 @@ opendebate.processFetchedQuestions({
       "x": -89.7423, 
       "latest_vote": "2013-08-08T22:29:24", 
       "id": 16172823, 
-      "trending_score": 4.901315789473684
+      "trending_score": 4.85
     }, 
     {
       "city": "", 
@@ -23968,16 +23968,16 @@ opendebate.processFetchedQuestions({
       "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
-      "state_votes": 267, 
-      "votes": 1834, 
+      "state_votes": 268, 
+      "votes": 1835, 
       "district_votes": 77, 
       "state": "MT", 
       "iface": "question", 
       "y": 46.6453, 
       "x": -111.974, 
-      "latest_vote": "2013-08-08T22:32:29", 
+      "latest_vote": "2013-08-08T22:33:11", 
       "id": 16172777, 
-      "trending_score": 6.777472527472527
+      "trending_score": 6.577724358974359
     }, 
     {
       "city": "Gladstone", 
@@ -24026,15 +24026,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:27:03", 
       "state_votes": 173, 
-      "votes": 1206, 
+      "votes": 1207, 
       "district_votes": 47, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.6267, 
       "x": -87.5959, 
-      "latest_vote": "2013-08-08T22:32:59", 
+      "latest_vote": "2013-08-08T22:33:47", 
       "id": 16172755, 
-      "trending_score": 8.408430232558139
+      "trending_score": 7.742424242424242
     }, 
     {
       "city": "Richardson", 
@@ -24091,7 +24091,7 @@ opendebate.processFetchedQuestions({
       "x": -122.811, 
       "latest_vote": "2013-08-08T22:30:28", 
       "id": 16172731, 
-      "trending_score": 11.541666666666666
+      "trending_score": 10.455555555555556
     }, 
     {
       "city": "Chicago", 
@@ -24110,7 +24110,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5544, 
       "latest_vote": "2013-08-08T22:32:51", 
       "id": 16172727, 
-      "trending_score": 7.10047281323877
+      "trending_score": 6.6561264822134385
     }, 
     {
       "city": "Waldport", 
@@ -24148,7 +24148,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7109, 
       "latest_vote": "2013-08-08T22:31:03", 
       "id": 16172722, 
-      "trending_score": 7.15
+      "trending_score": 7.25
     }, 
     {
       "city": "Albuquerque", 
@@ -24224,7 +24224,7 @@ opendebate.processFetchedQuestions({
       "x": -116.297, 
       "latest_vote": "2013-08-08T22:30:51", 
       "id": 16172697, 
-      "trending_score": 11.473913043478262
+      "trending_score": 11.047101449275361
     }, 
     {
       "city": "Holts Summit", 
@@ -24300,7 +24300,7 @@ opendebate.processFetchedQuestions({
       "x": -122.594, 
       "latest_vote": "2013-08-08T22:30:20", 
       "id": 16172690, 
-      "trending_score": 12.75
+      "trending_score": 11.420634920634921
     }, 
     {
       "city": "Gig Harbor", 
@@ -24414,7 +24414,7 @@ opendebate.processFetchedQuestions({
       "x": -93.3713, 
       "latest_vote": "2013-08-08T22:31:00", 
       "id": 16172657, 
-      "trending_score": 4.3
+      "trending_score": 4.625
     }, 
     {
       "city": "Midlothian", 
@@ -24433,7 +24433,7 @@ opendebate.processFetchedQuestions({
       "x": -87.7386, 
       "latest_vote": "2013-08-08T22:31:06", 
       "id": 16172648, 
-      "trending_score": 6.422077922077922
+      "trending_score": 6.553030303030304
     }, 
     {
       "city": "Great Neck", 
@@ -24490,7 +24490,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-08T22:30:52", 
       "id": 16172583, 
-      "trending_score": 6.7
+      "trending_score": 7.366666666666667
     }, 
     {
       "city": "ARLINGTON", 
@@ -24614,16 +24614,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
       "district": "MA_05", 
       "created": "2013-08-03T20:45:26", 
-      "state_votes": 178, 
-      "votes": 1045, 
+      "state_votes": 180, 
+      "votes": 1047, 
       "district_votes": 53, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-08T22:30:35", 
+      "latest_vote": "2013-08-08T22:33:22", 
       "id": 16172533, 
-      "trending_score": 7.692982456140351
+      "trending_score": 7.745614035087719
     }, 
     {
       "city": "Medford", 
@@ -24737,7 +24737,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1035, 
       "latest_vote": "2013-08-08T22:30:20", 
       "id": 16172283, 
-      "trending_score": 7.35
+      "trending_score": 7.75
     }, 
     {
       "city": "Waltham", 
@@ -24747,16 +24747,16 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
       "district": "MA_05", 
       "created": "2013-08-03T17:42:20", 
-      "state_votes": 158, 
-      "votes": 1017, 
+      "state_votes": 159, 
+      "votes": 1018, 
       "district_votes": 50, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3699, 
       "x": -71.2368, 
-      "latest_vote": "2013-08-08T22:29:31", 
+      "latest_vote": "2013-08-08T22:33:53", 
       "id": 16172281, 
-      "trending_score": 9.383333333333333
+      "trending_score": 9.433333333333334
     }, 
     {
       "city": "Arlington", 
@@ -24804,16 +24804,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "MA_05", 
       "created": "2013-08-03T17:33:11", 
-      "state_votes": 240, 
-      "votes": 1545, 
-      "district_votes": 71, 
+      "state_votes": 241, 
+      "votes": 1546, 
+      "district_votes": 72, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-08T22:32:26", 
+      "latest_vote": "2013-08-08T22:33:09", 
       "id": 16172266, 
-      "trending_score": 6.945714285714286
+      "trending_score": 6.786764705882353
     }, 
     {
       "city": "Cambridge", 
@@ -24918,16 +24918,16 @@ opendebate.processFetchedQuestions({
       "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
       "district": "MA_05", 
       "created": "2013-08-03T17:00:17", 
-      "state_votes": 140, 
-      "votes": 795, 
-      "district_votes": 42, 
+      "state_votes": 141, 
+      "votes": 796, 
+      "district_votes": 43, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.366, 
       "x": -71.1035, 
-      "latest_vote": "2013-08-08T22:32:35", 
+      "latest_vote": "2013-08-08T22:33:37", 
       "id": 16172207, 
-      "trending_score": 8.27142857142857
+      "trending_score": 8.414285714285715
     }, 
     {
       "city": "Arlington", 
