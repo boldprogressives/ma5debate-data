@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Reseda", 
+      "first_name": "Lui", 
+      "last_name": "Deak", 
+      "user_id": 1685090, 
+      "submission": "Why is it that Halliburton only gets a $200K fine for destroying evidence concerning the Gulf oil spill when if you make a copy of a DVD you get a $250K fine and up to 5 years in prison?", 
+      "district": "CA_30", 
+      "created": "2013-08-08T16:17:02", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 34.1995, 
+      "x": -118.54, 
+      "id": 16227009, 
+      "question_id": "16175493"
+    }, 
+    {
+      "city": "Newton Center", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809934, 
+      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
+      "district": "MA_04", 
+      "created": "2013-08-08T16:16:36", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3088, 
+      "x": -71.1918, 
+      "id": 16227003, 
+      "question_id": "16172207"
+    }, 
+    {
       "city": "Fort Lauderdale", 
       "first_name": "Kathleen", 
       "last_name": "Levy", 
@@ -33,21 +63,6 @@ opendebate.processTimeline({
       "x": -71.215, 
       "latest_vote": null, 
       "id": 16226994
-    }, 
-    {
-      "city": "Newton Center", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809934, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
-      "district": "MA_04", 
-      "created": "2013-08-08T16:15:28", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3088, 
-      "x": -71.1918, 
-      "id": 16226993, 
-      "question_id": "16173264"
     }, 
     {
       "city": "Lexington", 
@@ -318,21 +333,6 @@ opendebate.processTimeline({
       "x": -71.4123, 
       "id": 16226876, 
       "question_id": "16172777"
-    }, 
-    {
-      "city": "Westwood", 
-      "first_name": "Cathy", 
-      "last_name": "Buckley", 
-      "user_id": 1676111, 
-      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
-      "district": "MA_08", 
-      "created": "2013-08-08T15:57:04", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.216, 
-      "x": -71.2044, 
-      "id": 16226868, 
-      "question_id": "16172303"
     }
   ]
 });
