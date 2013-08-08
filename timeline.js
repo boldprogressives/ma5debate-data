@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Mary", 
       "last_name": "McCormick", 
       "user_id": 1698240, 
-      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
       "district": "MA_06", 
-      "created": "2013-08-08T15:14:59", 
+      "created": "2013-08-08T15:16:00", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.6862, 
       "x": -71.1057, 
-      "id": 16226548, 
-      "question_id": "16172755"
+      "id": 16226551, 
+      "question_id": "16172533"
     }, 
     {
       "city": "Westport", 
