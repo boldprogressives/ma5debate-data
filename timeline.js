@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "MA_04", 
+      "created": "2013-08-08T16:30:57", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16227232, 
+      "question_id": "16173264"
+    }, 
+    {
       "city": "Boston", 
       "first_name": "Lucy", 
       "last_name": "Haskins", 
       "user_id": 1680366, 
-      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "submission": "Do you support the concept of keeping church and state separate?", 
       "district": "MA_08", 
-      "created": "2013-08-08T16:29:53", 
+      "created": "2013-08-08T16:30:54", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3606, 
       "x": -71.0654, 
-      "id": 16227217, 
-      "question_id": "16172303"
+      "id": 16227231, 
+      "question_id": "16173921"
     }, 
     {
       "city": "Sterling", 
@@ -315,24 +330,6 @@ opendebate.processTimeline({
       "x": -71.215, 
       "latest_vote": null, 
       "id": 16226961
-    }, 
-    {
-      "city": "Lexington", 
-      "first_name": "Mark", 
-      "last_name": "Sandeen", 
-      "user_id": 1809930, 
-      "submission": "Will you fight for standards limiting emissions from new and existing power plants? ", 
-      "district": "MA_05", 
-      "created": "2013-08-08T16:10:05", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.4558, 
-      "x": -71.215, 
-      "latest_vote": null, 
-      "id": 16226956
     }
   ]
 });
