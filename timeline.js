@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Acton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809918, 
+      "submission": "Do you support the concept of keeping church and state separate?", 
+      "district": "MA_03", 
+      "created": "2013-08-08T15:50:57", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4774, 
+      "x": -71.4467, 
+      "id": 16226794, 
+      "question_id": "16173921"
+    }, 
+    {
       "city": "lexington", 
       "first_name": "Carolyn", 
       "last_name": "Tiffany", 
       "user_id": 517663, 
-      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
+      "submission": "What would you do to stop the unbridled takeover of American resources by Corporate America.", 
       "district": "MA_05", 
-      "created": "2013-08-08T15:49:54", 
+      "created": "2013-08-08T15:50:52", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.4484, 
       "x": -71.2338, 
-      "id": 16226781, 
-      "question_id": "16172697"
+      "id": 16226792, 
+      "question_id": "16174109"
+    }, 
+    {
+      "city": "Harvard", 
+      "first_name": "Deborah", 
+      "last_name": "Thomson", 
+      "user_id": 516630, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "MA_03", 
+      "created": "2013-08-08T15:50:02", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.5031, 
+      "x": -71.5759, 
+      "id": 16226783, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Point Pleasant Beach", 
@@ -276,39 +306,6 @@ opendebate.processTimeline({
       "x": -77.6746, 
       "id": 16226608, 
       "question_id": "16172913"
-    }, 
-    {
-      "city": "South Dartmouth", 
-      "first_name": "Jeffrey", 
-      "last_name": "Simon", 
-      "user_id": 374010, 
-      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
-      "district": "MA_09", 
-      "created": "2013-08-08T15:26:37", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 41.598, 
-      "x": -70.954, 
-      "id": 16226599, 
-      "question_id": "16202059"
-    }, 
-    {
-      "city": "Lexington", 
-      "first_name": "John", 
-      "last_name": "Frey", 
-      "user_id": 1079779, 
-      "submission": "What is your position on construction of the propose KXL pipeline and on global climate change? How would you vote if given the chance?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T15:24:32", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.4558, 
-      "x": -71.215, 
-      "latest_vote": null, 
-      "id": 16226585
     }
   ]
 });
