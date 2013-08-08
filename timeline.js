@@ -6,6 +6,21 @@ opendebate.processTimeline({
       "first_name": "Eva", 
       "last_name": "Cutler", 
       "user_id": 1809430, 
+      "submission": "Are you willing to fight for womens rights to determine their own healthcare?  Or do you think that \"you\" know what is best for every woman? Healthcare is not a religious  decision, it is a health decision to be made by woman of all faiths.", 
+      "district": "FL_23", 
+      "created": "2013-08-08T13:37:02", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 25.9781, 
+      "x": -80.3302, 
+      "id": 16226071, 
+      "question_id": "16199305"
+    }, 
+    {
+      "city": "Hollywood", 
+      "first_name": "Eva", 
+      "last_name": "Cutler", 
+      "user_id": 1809430, 
       "submission": "What is your view on implementing the Affordable Care Act?", 
       "district": "FL_23", 
       "created": "2013-08-08T13:36:27", 
@@ -285,21 +300,6 @@ opendebate.processTimeline({
       "x": -80.3302, 
       "id": 16226045, 
       "question_id": "16173320"
-    }, 
-    {
-      "city": "Hollywood", 
-      "first_name": "Eva", 
-      "last_name": "Cutler", 
-      "user_id": 1809430, 
-      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
-      "district": "FL_23", 
-      "created": "2013-08-08T13:29:56", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 25.9781, 
-      "x": -80.3302, 
-      "id": 16226044, 
-      "question_id": "16172697"
     }, 
     {
       "city": "West Islip", 

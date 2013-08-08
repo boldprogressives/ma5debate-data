@@ -8488,13 +8488,13 @@ opendebate.processFetchedQuestions({
       "district": "FL_12", 
       "created": "2013-08-06T18:38:35", 
       "state_votes": 4, 
-      "votes": 63, 
+      "votes": 64, 
       "district_votes": 1, 
       "state": "FL", 
       "iface": "question", 
       "y": 28.3002, 
       "x": -82.6341, 
-      "latest_vote": "2013-08-07T23:45:41", 
+      "latest_vote": "2013-08-08T13:37:02", 
       "id": 16199305
     }, 
     {
