@@ -7,6 +7,30 @@ opendebate.processTimeline({
       "last_name": "Nunez", 
       "user_id": 20493, 
       "district": "MA_07", 
+      "created": "2013-08-08T13:16:01", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "id": 16225951, 
+      "question_id": "16225281"
+    }, 
+    {
+      "city": "Natick", 
+      "first_name": "michael young", 
+      "last_name": "", 
+      "user_id": 1778818, 
+      "district": "MA_05", 
+      "created": "2013-08-08T13:15:52", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "id": 16225950, 
+      "question_id": "16174492"
+    }, 
+    {
+      "city": "Boston", 
+      "first_name": "Rayleen", 
+      "last_name": "Nunez", 
+      "user_id": 20493, 
+      "district": "MA_07", 
       "created": "2013-08-08T13:15:49", 
       "state": "MA", 
       "iface": "timeline_vote", 
@@ -218,18 +242,6 @@ opendebate.processTimeline({
       "question_id": "16203866"
     }, 
     {
-      "city": "Natick", 
-      "first_name": "michael young", 
-      "last_name": "", 
-      "user_id": 1778818, 
-      "district": "MA_05", 
-      "created": "2013-08-08T13:12:43", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "id": 16225926, 
-      "question_id": "16173327"
-    }, 
-    {
       "city": "West Islip", 
       "first_name": "S", 
       "last_name": "Bonomo", 
@@ -246,18 +258,6 @@ opendebate.processTimeline({
       "x": -73.2993, 
       "latest_vote": "2013-08-08T13:15:04", 
       "id": 16225925
-    }, 
-    {
-      "city": "Natick", 
-      "first_name": "michael young", 
-      "last_name": "", 
-      "user_id": 1778818, 
-      "district": "MA_05", 
-      "created": "2013-08-08T13:12:23", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "id": 16225924, 
-      "question_id": "16175691"
     }, 
     {
       "city": "Fitchburg", 
@@ -447,14 +447,14 @@ opendebate.processTimeline({
       "submission": "Why rob us of what our taxes paid for? Social Security & Medicare are our right to have & not a privilege! My Mother needs more & she earned it for over 40 years of employment & paid her taxes, so DO NOT TAKE IT-EXPAND IT NOW!!!", 
       "district": "MA_06", 
       "created": "2013-08-08T05:14:51", 
-      "state_votes": 0, 
-      "votes": 0, 
+      "state_votes": 1, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "timeline_question", 
       "y": 42.5181, 
       "x": -70.9045, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-08T13:16:01", 
       "id": 16225281
     }, 
     {
