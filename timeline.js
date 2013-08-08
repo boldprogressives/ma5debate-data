@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Boston", 
-      "first_name": "Lucy", 
-      "last_name": "Haskins", 
-      "user_id": 1680366, 
-      "submission": "Where do you stand on the issue of GMO food products in the American food supply and the evidence that they are harming the health of Americans while benefiting corporations like Monsanto?", 
-      "district": "MA_08", 
-      "created": "2013-08-08T16:50:59", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3606, 
-      "x": -71.0654, 
-      "id": 16227505, 
-      "question_id": "16177973"
-    }, 
-    {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Why have so few Wall Street CEOs been indicted for their part in the 2007 Economic Crash ?  Who has been protecting them ?", 
+      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
       "district": "MA_04", 
-      "created": "2013-08-08T16:50:44", 
+      "created": "2013-08-08T16:52:02", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227503, 
-      "question_id": "16205046"
+      "id": 16227511, 
+      "question_id": "16203676"
+    }, 
+    {
+      "city": "Boston", 
+      "first_name": "Lucy", 
+      "last_name": "Haskins", 
+      "user_id": 1680366, 
+      "submission": "Are you willing to work to phase out nuclear power, and what will you do to support the development of renewables?", 
+      "district": "MA_08", 
+      "created": "2013-08-08T16:51:14", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3606, 
+      "x": -71.0654, 
+      "id": 16227509, 
+      "question_id": "16199317"
     }, 
     {
       "city": "Leominster", 
