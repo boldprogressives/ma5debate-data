@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Watertown", 
+      "first_name": "Bill", 
+      "last_name": "Mahoney", 
+      "user_id": 458708, 
+      "submission": "will you support legislation ending the cap on social security wages", 
+      "district": "MA_05", 
+      "created": "2013-08-08T16:10:02", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3713, 
+      "x": -71.1804, 
+      "id": 16226955, 
+      "question_id": "16208816"
+    }, 
+    {
       "city": "Lexington", 
       "first_name": "Mark", 
       "last_name": "Sandeen", 
@@ -18,21 +33,6 @@ opendebate.processTimeline({
       "x": -71.215, 
       "latest_vote": null, 
       "id": 16226952
-    }, 
-    {
-      "city": "Watertown", 
-      "first_name": "Bill", 
-      "last_name": "Mahoney", 
-      "user_id": 458708, 
-      "submission": "It is time we stop rewarding companies that outsource American jobs.  Would you propose a new tax on these companies, an import tax on products produced by these companies or some other form of incentive to keep jobs in this country?  Please be specific.", 
-      "district": "MA_05", 
-      "created": "2013-08-08T16:08:55", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3713, 
-      "x": -71.1804, 
-      "id": 16226950, 
-      "question_id": "16175276"
     }, 
     {
       "city": "lexington", 
