@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "what will you do to bring jobs back to America and stop out sourcing everything?", 
+      "submission": "Will you vote against any proposal that supports the TarSands Keystone project?", 
       "district": "MA_04", 
-      "created": "2013-08-08T16:52:53", 
+      "created": "2013-08-08T16:53:51", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227515, 
-      "question_id": "16175641"
+      "id": 16227522, 
+      "question_id": "16199877"
     }, 
     {
       "city": "Boston", 
