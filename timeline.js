@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Warden", 
+      "first_name": "Robert", 
+      "last_name": "Skelton", 
+      "user_id": 1740869, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "WA_04", 
+      "created": "2013-08-08T17:05:01", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 46.9714, 
+      "x": -119.08, 
+      "id": 16227608, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Will you vote to end tax loopholes for the rich, big business subsides, overseas corporate tax loopholes, wasteful wars, foreign country subsides, quality health care for all, good safe food for all, clean air, clean energy, clean safe drinking water, useful education and job opportunities for all hard working citizens that can achieve these levels and deserve it, gun control, to end wall street fraud and corruption.", 
+      "submission": "Climate change has many facets: CO2/CH4 emissions, permafrost melting, ocean warming/acidification, overpopulation, et al. Who among you has a plan to defeat this unprecedented hydra of challenges?", 
       "district": "MA_04", 
-      "created": "2013-08-08T17:03:56", 
+      "created": "2013-08-08T17:04:57", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227598, 
-      "question_id": "16203215"
+      "id": 16227606, 
+      "question_id": "16201745"
     }, 
     {
       "city": "Springfield", 
       "first_name": "", 
       "last_name": "", 
       "user_id": 1809949, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
+      "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
       "district": "MA_01", 
-      "created": "2013-08-08T17:03:54", 
+      "created": "2013-08-08T17:04:40", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.1229, 
       "x": -72.487, 
-      "id": 16227597, 
-      "question_id": "16175740"
+      "id": 16227605, 
+      "question_id": "16175500"
     }, 
     {
       "city": "lexington", 
@@ -294,21 +309,6 @@ opendebate.processTimeline({
       "x": -118.54, 
       "id": 16227026, 
       "question_id": "16172283"
-    }, 
-    {
-      "city": "Newton Center", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809934, 
-      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
-      "district": "MA_04", 
-      "created": "2013-08-08T16:16:36", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3088, 
-      "x": -71.1918, 
-      "id": 16227003, 
-      "question_id": "16172207"
     }
   ]
 });
