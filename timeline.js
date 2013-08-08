@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Lucy", 
       "last_name": "Haskins", 
       "user_id": 1680366, 
-      "submission": "Why is Social Security referred to by many elected Representatives and Senators in Washington as an \"entitlement\" when, first, we all pay or paid into it during all of our working years, and second, by law, normal tax revenue can not be used to fund It?  Is it because the government has used up all the money paid into Social Security over the years, and so that now the government has to raise more money to pay Social Security's current obligations?", 
+      "submission": "Hunger and the threat of hunger are very real for millions of Americans. What legislation would you propose to protect the SNAP Program?", 
       "district": "MA_08", 
-      "created": "2013-08-08T16:43:48", 
+      "created": "2013-08-08T16:45:00", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3606, 
       "x": -71.0654, 
-      "id": 16227447, 
-      "question_id": "16180456"
+      "id": 16227454, 
+      "question_id": "16188108"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Serving in Congress is not a career.  Will you vote for term limits?", 
+      "submission": "What can you do to improve public transit nationally, including building a good rail network, when the governors and legislatures of some key states are so resistant to it?", 
       "district": "MA_04", 
-      "created": "2013-08-08T16:43:47", 
+      "created": "2013-08-08T16:44:49", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227446, 
-      "question_id": "16173323"
+      "id": 16227452, 
+      "question_id": "16172286"
     }, 
     {
       "city": "Leominster", 
