@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
-      "district": "MA_04", 
-      "created": "2013-08-08T16:34:52", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16227314, 
-      "question_id": "16172542"
-    }, 
-    {
       "city": "Boston", 
       "first_name": "Lucy", 
       "last_name": "Haskins", 
       "user_id": 1680366, 
-      "submission": "Why is it that Halliburton only gets a $200K fine for destroying evidence concerning the Gulf oil spill when if you make a copy of a DVD you get a $250K fine and up to 5 years in prison?", 
+      "submission": "Why have so few Wall Street CEOs been indicted for their part in the 2007 Economic Crash ?  Who has been protecting them ?", 
       "district": "MA_08", 
-      "created": "2013-08-08T16:34:25", 
+      "created": "2013-08-08T16:35:56", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3606, 
       "x": -71.0654, 
-      "id": 16227309, 
-      "question_id": "16175493"
+      "id": 16227323, 
+      "question_id": "16205046"
+    }, 
+    {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Would you support replacing \"Obamacare\" with single-payer coverage (Medicare for All)?", 
+      "district": "MA_04", 
+      "created": "2013-08-08T16:35:53", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16227322, 
+      "question_id": "16175729"
+    }, 
+    {
+      "city": "Arlington Heights", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809944, 
+      "submission": "Will you push the federal government to provide more support to communities who are implementing climate action plans, reducing emissions and adapting to the severe impacts of climate change?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T16:35:26", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4203, 
+      "x": -71.1809, 
+      "id": 16227319, 
+      "question_id": "16226994"
     }, 
     {
       "city": "Sterling", 
@@ -198,14 +213,14 @@ opendebate.processTimeline({
       "submission": "Will you push the federal government to provide more support to communities who are implementing climate action plans, reducing emissions and adapting to the severe impacts of climate change?", 
       "district": "MA_05", 
       "created": "2013-08-08T16:15:40", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
+      "state_votes": 1, 
+      "votes": 1, 
+      "district_votes": 1, 
       "state": "MA", 
       "iface": "timeline_question", 
       "y": 42.4558, 
       "x": -71.215, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-08T16:35:26", 
       "id": 16226994
     }, 
     {
@@ -312,24 +327,6 @@ opendebate.processTimeline({
       "x": -71.215, 
       "latest_vote": null, 
       "id": 16226965
-    }, 
-    {
-      "city": "Lexington", 
-      "first_name": "Mark", 
-      "last_name": "Sandeen", 
-      "user_id": 1809930, 
-      "submission": "Will you prioritize the development of clean renewable energy \u2013 and adopting a national renewable portfolio standard modeled on Massachusetts\u2019 RPS standard? ", 
-      "district": "MA_05", 
-      "created": "2013-08-08T16:10:37", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.4558, 
-      "x": -71.215, 
-      "latest_vote": null, 
-      "id": 16226961
     }
   ]
 });
