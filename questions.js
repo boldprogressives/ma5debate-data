@@ -6616,13 +6616,13 @@ opendebate.processFetchedQuestions({
       "district": "FL_08", 
       "created": "2013-08-06T21:46:34", 
       "state_votes": 19, 
-      "votes": 84, 
+      "votes": 85, 
       "district_votes": 7, 
       "state": "FL", 
       "iface": "question", 
       "y": 28.0247, 
       "x": -80.5392, 
-      "latest_vote": "2013-08-08T14:45:21", 
+      "latest_vote": "2013-08-08T14:55:24", 
       "id": 16206470
     }, 
     {
@@ -7210,13 +7210,13 @@ opendebate.processFetchedQuestions({
       "district": "AZ_03", 
       "created": "2013-08-06T20:46:46", 
       "state_votes": 12, 
-      "votes": 87, 
+      "votes": 88, 
       "district_votes": 2, 
       "state": "AZ", 
       "iface": "question", 
       "y": 32.2505, 
       "x": -111.03, 
-      "latest_vote": "2013-08-08T14:45:49", 
+      "latest_vote": "2013-08-08T14:55:07", 
       "id": 16205046
     }, 
     {
@@ -17488,13 +17488,13 @@ opendebate.processFetchedQuestions({
       "district": "AZ_02", 
       "created": "2013-08-05T01:25:10", 
       "state_votes": 11, 
-      "votes": 99, 
+      "votes": 100, 
       "district_votes": 2, 
       "state": "AZ", 
       "iface": "question", 
       "y": 32.2418, 
       "x": -110.947, 
-      "latest_vote": "2013-08-08T14:44:11", 
+      "latest_vote": "2013-08-08T14:55:59", 
       "id": 16175691
     }, 
     {
@@ -18046,13 +18046,13 @@ opendebate.processFetchedQuestions({
       "district": "WI_02", 
       "created": "2013-08-04T21:54:34", 
       "state_votes": 11, 
-      "votes": 86, 
+      "votes": 87, 
       "district_votes": 6, 
       "state": "WI", 
       "iface": "question", 
       "y": 42.9812, 
       "x": -89.7297, 
-      "latest_vote": "2013-08-08T14:45:34", 
+      "latest_vote": "2013-08-08T14:55:23", 
       "id": 16175078
     }, 
     {
