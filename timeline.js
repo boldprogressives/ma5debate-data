@@ -2,6 +2,39 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Cambridge", 
+      "first_name": "Sam", 
+      "last_name": "Geller", 
+      "user_id": 1808953, 
+      "submission": "Given the likelihood that a Republican majority will continue to block any legislative activity in the House, what will you do to advance a progressive agenda?", 
+      "district": "MA_07", 
+      "created": "2013-08-08T13:54:48", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3683, 
+      "x": -71.0824, 
+      "id": 16226159, 
+      "question_id": "16172530"
+    }, 
+    {
+      "city": "Roslindale", 
+      "first_name": "Joseph", 
+      "last_name": "Mclaughlin", 
+      "user_id": 1780335, 
+      "submission": "Would you support an investigation of our military contractors by setting up a task force commission?", 
+      "district": "MA_07", 
+      "created": "2013-08-08T13:54:13", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.2847, 
+      "x": -71.1277, 
+      "latest_vote": null, 
+      "id": 16226158
+    }, 
+    {
       "city": "Roslindale", 
       "first_name": "Joseph", 
       "last_name": "Mclaughlin", 
@@ -285,21 +318,6 @@ opendebate.processTimeline({
       "x": -71.8463, 
       "id": 16226135, 
       "question_id": "16173210"
-    }, 
-    {
-      "city": "Hollywood", 
-      "first_name": "Eva", 
-      "last_name": "Cutler", 
-      "user_id": 1809430, 
-      "submission": "Will you pledge to uphold the Affordable Care Act and help states implement it -- not defund it?", 
-      "district": "FL_23", 
-      "created": "2013-08-08T13:47:02", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 25.9781, 
-      "x": -80.3302, 
-      "id": 16226133, 
-      "question_id": "16181276"
     }, 
     {
       "city": "West Islip", 
@@ -642,24 +660,6 @@ opendebate.processTimeline({
       "x": -71.4277, 
       "latest_vote": "2013-08-08T13:17:41", 
       "id": 16225194
-    }, 
-    {
-      "city": "Arcata", 
-      "first_name": "Linda", 
-      "last_name": "Bernard", 
-      "user_id": 1179209, 
-      "submission": "Are you supportive of Social Security? Would you consider increased S.S. wage deductions for future recipients?", 
-      "district": "CA_02", 
-      "created": "2013-08-08T04:10:07", 
-      "state_votes": 1, 
-      "votes": 1, 
-      "district_votes": 0, 
-      "state": "CA", 
-      "iface": "timeline_question", 
-      "y": 40.9288, 
-      "x": -124.06, 
-      "latest_vote": "2013-08-08T13:17:48", 
-      "id": 16225191
     }
   ]
 });

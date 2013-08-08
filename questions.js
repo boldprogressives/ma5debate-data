@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Roslindale", 
+      "first_name": "Joseph", 
+      "last_name": "Mclaughlin", 
+      "user_id": 1780335, 
+      "submission": "Would you support an investigation of our military contractors by setting up a task force commission?", 
+      "district": "MA_07", 
+      "created": "2013-08-08T13:54:13", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.2847, 
+      "x": -71.1277, 
+      "latest_vote": null, 
+      "id": 16226158
+    }, 
+    {
       "city": "West Islip", 
       "first_name": "S", 
       "last_name": "Bonomo", 
@@ -21357,14 +21375,14 @@ opendebate.processFetchedQuestions({
       "submission": "Given the likelihood that a Republican majority will continue to block any legislative activity in the House, what will you do to advance a progressive agenda?", 
       "district": "MA_05", 
       "created": "2013-08-03T20:43:04", 
-      "state_votes": 11, 
-      "votes": 102, 
+      "state_votes": 12, 
+      "votes": 103, 
       "district_votes": 7, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4213, 
       "x": -71.1134, 
-      "latest_vote": "2013-08-08T13:45:37", 
+      "latest_vote": "2013-08-08T13:54:48", 
       "id": 16172530
     }, 
     {
