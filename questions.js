@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Bridgeport", 
+      "first_name": "Robb", 
+      "last_name": "Sauerhoff", 
+      "user_id": 1557378, 
+      "submission": "Would you support, endorse, or propose legislation that requires all federally funded or subsidized new building construction to incorporate long-term energy consumption environmental impact assessments that are required to incorporate  non-fossil fuel energy sources (e.g, solar, wind, fuel cell, thermal)? ", 
+      "district": "CT_04", 
+      "created": "2013-08-08T14:38:59", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "CT", 
+      "iface": "question", 
+      "y": 41.1679, 
+      "x": -73.2165, 
+      "latest_vote": null, 
+      "id": 16226427
+    }, 
+    {
       "city": "Winchester", 
       "first_name": "donna", 
       "last_name": "campbell", 

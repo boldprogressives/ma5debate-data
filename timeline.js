@@ -2,6 +2,24 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Bridgeport", 
+      "first_name": "Robb", 
+      "last_name": "Sauerhoff", 
+      "user_id": 1557378, 
+      "submission": "Would you support, endorse, or propose legislation that requires all federally funded or subsidized new building construction to incorporate long-term energy consumption environmental impact assessments that are required to incorporate  non-fossil fuel energy sources (e.g, solar, wind, fuel cell, thermal)? ", 
+      "district": "CT_04", 
+      "created": "2013-08-08T14:38:59", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "CT", 
+      "iface": "timeline_question", 
+      "y": 41.1679, 
+      "x": -73.2165, 
+      "latest_vote": null, 
+      "id": 16226427
+    }, 
+    {
       "city": "Framingham", 
       "first_name": "", 
       "last_name": "", 
@@ -295,7 +313,7 @@ opendebate.processTimeline({
       "district": "MA_06", 
       "created": "2013-08-08T14:32:07", 
       "state": "MA", 
-      "iface": "timeline_vote", 
+      "iface": "vote", 
       "y": 42.4723, 
       "x": -70.9082, 
       "id": 16226393, 
@@ -642,24 +660,6 @@ opendebate.processTimeline({
       "x": -71.0253, 
       "latest_vote": "2013-08-08T13:16:28", 
       "id": 16225264
-    }, 
-    {
-      "city": "Westfield", 
-      "first_name": "George", 
-      "last_name": "Berz", 
-      "user_id": 1690172, 
-      "submission": "Congress is suppose to represent people not just the rich . Make them pay the same taxes I do also the same with Social Security Fair is fair.", 
-      "district": "MA_01", 
-      "created": "2013-08-08T04:32:43", 
-      "state_votes": 1, 
-      "votes": 1, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "question", 
-      "y": 42.1564, 
-      "x": -72.7787, 
-      "latest_vote": "2013-08-08T13:16:38", 
-      "id": 16225223
     }
   ]
 });
