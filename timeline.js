@@ -2,6 +2,39 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "South Dartmouth", 
+      "first_name": "Jeffrey", 
+      "last_name": "Simon", 
+      "user_id": 374010, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "MA_09", 
+      "created": "2013-08-08T15:24:56", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 41.598, 
+      "x": -70.954, 
+      "id": 16226588, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Lexington", 
+      "first_name": "John", 
+      "last_name": "Frey", 
+      "user_id": 1079779, 
+      "submission": "What is your position on construction of the propose KXL pipeline and on global climate change? How would you vote if given the chance?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T15:24:32", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.4558, 
+      "x": -71.215, 
+      "latest_vote": null, 
+      "id": 16226585
+    }, 
+    {
       "city": "Lexington", 
       "first_name": "John", 
       "last_name": "Frey", 
@@ -282,36 +315,6 @@ opendebate.processTimeline({
       "x": -71.4248, 
       "id": 16226417, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Orleans", 
-      "first_name": "Patricia", 
-      "last_name": "White", 
-      "user_id": 476880, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "MA_09", 
-      "created": "2013-08-08T14:35:37", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 41.7818, 
-      "x": -69.9805, 
-      "id": 16226413, 
-      "question_id": "16172266"
-    }, 
-    {
-      "city": "Mt Horeb", 
-      "first_name": "Gerhard & Sonja", 
-      "last_name": "Luetschwager", 
-      "user_id": 1131163, 
-      "submission": "Do you support the concept of keeping church and state separate?", 
-      "district": "WI_02", 
-      "created": "2013-08-08T14:29:25", 
-      "state": "WI", 
-      "iface": "timeline_vote", 
-      "y": 42.9812, 
-      "x": -89.7297, 
-      "id": 16226373, 
-      "question_id": "16173921"
     }
   ]
 });
