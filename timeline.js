@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "villanova", 
+      "first_name": "RALPH", 
+      "last_name": "monteiro", 
+      "user_id": 297734, 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "district": "PA_07", 
+      "created": "2013-08-08T17:16:57", 
+      "state": "PA", 
+      "iface": "timeline_vote", 
+      "y": 40.0362, 
+      "x": -75.3493, 
+      "id": 16227718, 
+      "question_id": "16173259"
+    }, 
+    {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "The sequester just slashed Meals on Wheels, food stamps, Section 8 vouchers for housing for the needy.How come in April, when the sequester hit the commuting congressional members with inconvenienltly long waiting suddenly money was found to eliminate inconveniences. What is your view on congressional priorities affecting the American people ?", 
+      "submission": "Why is Social Security referred to by many elected Representatives and Senators in Washington as an \"entitlement\" when, first, we all pay or paid into it during all of our working years, and second, by law, normal tax revenue can not be used to fund It?  Is it because the government has used up all the money paid into Social Security over the years, and so that now the government has to raise more money to pay Social Security's current obligations?", 
       "district": "MA_04", 
-      "created": "2013-08-08T17:15:54", 
+      "created": "2013-08-08T17:16:38", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227707, 
-      "question_id": "16206216"
+      "id": 16227714, 
+      "question_id": "16180456"
     }, 
     {
       "city": "Great Neck", 
@@ -291,21 +306,6 @@ opendebate.processTimeline({
       "x": -71.7746, 
       "id": 16227263, 
       "question_id": "16172690"
-    }, 
-    {
-      "city": "Weston", 
-      "first_name": "Kathi", 
-      "last_name": "Conley", 
-      "user_id": 1125094, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T16:28:41", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3659, 
-      "x": -71.301, 
-      "id": 16227183, 
-      "question_id": "16173264"
     }
   ]
 });
