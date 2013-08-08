@@ -2,19 +2,52 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Westport", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809901, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "MA_09", 
+      "created": "2013-08-08T15:13:12", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 41.6076, 
+      "x": -71.0839, 
+      "id": 16226537, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Staten Island", 
+      "first_name": "Elizabeth", 
+      "last_name": "LaBue", 
+      "user_id": 1767402, 
+      "submission": "Among the many issues in our country currently (government oversight, our environment, Wall St., our economy, social security, education) what are the top issues that matter to you the most & what will be your position on those issues?", 
+      "district": "NY_11", 
+      "created": "2013-08-08T15:13:08", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NY", 
+      "iface": "timeline_question", 
+      "y": 40.6288, 
+      "x": -74.0946, 
+      "latest_vote": null, 
+      "id": 16226536
+    }, 
+    {
       "city": "Lincoln", 
       "first_name": "Henry", 
       "last_name": "Harrison", 
       "user_id": 1074803, 
-      "submission": "Do you support the concept of keeping church and state separate?", 
+      "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
       "district": "MA_05", 
-      "created": "2013-08-08T15:12:32", 
+      "created": "2013-08-08T15:13:07", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.4239, 
       "x": -71.3142, 
-      "id": 16226534, 
-      "question_id": "16173921"
+      "id": 16226535, 
+      "question_id": "16172542"
     }, 
     {
       "city": "Somerville", 
@@ -282,36 +315,6 @@ opendebate.processTimeline({
       "x": -86.1845, 
       "latest_vote": null, 
       "id": 16226345
-    }, 
-    {
-      "city": "Cambridge", 
-      "first_name": "Sam", 
-      "last_name": "Geller", 
-      "user_id": 1808953, 
-      "submission": "How would you reform the process of drawing congressional districts so that it represents the interests of the people and does not favor any one party?", 
-      "district": "MA_07", 
-      "created": "2013-08-08T14:23:16", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3683, 
-      "x": -71.0824, 
-      "id": 16226340, 
-      "question_id": "16201951"
-    }, 
-    {
-      "city": "Hollister", 
-      "first_name": "Gene", 
-      "last_name": "Ruzicka", 
-      "user_id": 1774383, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "MO_07", 
-      "created": "2013-08-08T14:19:20", 
-      "state": "MO", 
-      "iface": "timeline_vote", 
-      "y": 36.6284, 
-      "x": -93.2076, 
-      "id": 16226310, 
-      "question_id": "16172777"
     }
   ]
 });
