@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "SALT LAKE CITY", 
+      "first_name": "Michael", 
+      "last_name": "Smith", 
+      "user_id": 1243221, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "UT_04", 
+      "created": "2013-08-08T15:04:16", 
+      "state": "UT", 
+      "iface": "timeline_vote", 
+      "y": 40.6858, 
+      "x": -111.829, 
+      "id": 16226512, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Winchester", 
       "first_name": "donna", 
       "last_name": "campbell", 
@@ -288,21 +303,6 @@ opendebate.processTimeline({
       "x": -81.3098, 
       "id": 16226483, 
       "question_id": "16176721"
-    }, 
-    {
-      "city": "Casselberry", 
-      "first_name": "Annmari", 
-      "last_name": "Lundin", 
-      "user_id": 1695695, 
-      "submission": "Do you support Jim Moran's bill to ban the use of gas chambers to euthanize shelter animals?", 
-      "district": "FL_07", 
-      "created": "2013-08-08T14:52:14", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 28.6608, 
-      "x": -81.3098, 
-      "id": 16226482, 
-      "question_id": "16221676"
     }
   ]
 });
