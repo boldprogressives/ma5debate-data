@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Winchester", 
+      "first_name": "donna", 
+      "last_name": "campbell", 
+      "user_id": 1809890, 
+      "submission": "How do you explain the damaging gridlock in congress and how do you propose to encourage and effect bipartisan cooperation to move on, solve problems and accomplish much needed legislation?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T14:26:32", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.4529, 
+      "x": -71.146, 
+      "latest_vote": null, 
+      "id": 16226347
+    }, 
+    {
       "city": "Muskegon", 
       "first_name": "Steve", 
       "last_name": "keglovitz", 
@@ -19846,13 +19864,13 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:25:59", 
       "state_votes": 175, 
-      "votes": 1199, 
+      "votes": 1200, 
       "district_votes": 53, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-08T14:19:42", 
+      "latest_vote": "2013-08-08T14:26:37", 
       "id": 16173264
     }, 
     {
@@ -20908,13 +20926,13 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:20:39", 
       "state_votes": 126, 
-      "votes": 1119, 
+      "votes": 1120, 
       "district_votes": 30, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.7162, 
       "x": -87.5544, 
-      "latest_vote": "2013-08-08T14:20:04", 
+      "latest_vote": "2013-08-08T14:26:40", 
       "id": 16172727
     }, 
     {
@@ -21574,13 +21592,13 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:33:11", 
       "state_votes": 179, 
-      "votes": 1197, 
+      "votes": 1198, 
       "district_votes": 54, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-08T14:19:55", 
+      "latest_vote": "2013-08-08T14:26:36", 
       "id": 16172266
     }, 
     {
