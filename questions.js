@@ -19864,13 +19864,13 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:15:12", 
       "state_votes": 18, 
-      "votes": 184, 
+      "votes": 185, 
       "district_votes": 1, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-08T12:26:45", 
+      "latest_vote": "2013-08-08T13:28:26", 
       "id": 16173244
     }, 
     {
@@ -20007,14 +20007,14 @@ opendebate.processFetchedQuestions({
       "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
       "district": "TX_10", 
       "created": "2013-08-04T00:59:23", 
-      "state_votes": 130, 
-      "votes": 758, 
+      "state_votes": 131, 
+      "votes": 759, 
       "district_votes": 29, 
       "state": "TX", 
       "iface": "question", 
       "y": 30.3972, 
       "x": -97.7518, 
-      "latest_vote": "2013-08-08T13:25:40", 
+      "latest_vote": "2013-08-08T13:28:14", 
       "id": 16173210
     }, 
     {
