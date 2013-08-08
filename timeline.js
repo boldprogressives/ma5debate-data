@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Hyannis", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809913, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "MA_09", 
+      "created": "2013-08-08T15:42:09", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 41.6515, 
+      "x": -70.2956, 
+      "id": 16226746, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Lexington", 
       "first_name": "Robert", 
       "last_name": "Lund", 
@@ -294,21 +309,6 @@ opendebate.processTimeline({
       "x": -74.0946, 
       "latest_vote": null, 
       "id": 16226536
-    }, 
-    {
-      "city": "Somerville", 
-      "first_name": "Demitri", 
-      "last_name": "Denir", 
-      "user_id": 1668195, 
-      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
-      "district": "MA_07", 
-      "created": "2013-08-08T15:07:14", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3914, 
-      "x": -71.0947, 
-      "id": 16226524, 
-      "question_id": "16172583"
     }
   ]
 });

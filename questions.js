@@ -20889,14 +20889,14 @@ opendebate.processFetchedQuestions({
       "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
-      "state_votes": 220, 
-      "votes": 1561, 
+      "state_votes": 221, 
+      "votes": 1562, 
       "district_votes": 63, 
       "state": "MT", 
       "iface": "question", 
       "y": 46.6453, 
       "x": -111.974, 
-      "latest_vote": "2013-08-08T15:38:35", 
+      "latest_vote": "2013-08-08T15:42:09", 
       "id": 16172777
     }, 
     {
