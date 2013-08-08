@@ -2,6 +2,24 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Lexington", 
+      "first_name": "John", 
+      "last_name": "Frey", 
+      "user_id": 1079779, 
+      "submission": "Will you help block construction of the KXL pipeline? Will you take serious measures to address climate change?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T15:20:58", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.4558, 
+      "x": -71.215, 
+      "latest_vote": null, 
+      "id": 16226578
+    }, 
+    {
       "city": "Lincoln", 
       "first_name": "Henry", 
       "last_name": "Harrison", 
@@ -294,21 +312,6 @@ opendebate.processTimeline({
       "x": -89.7297, 
       "id": 16226373, 
       "question_id": "16173921"
-    }, 
-    {
-      "city": "Baytown", 
-      "first_name": "Eduardo", 
-      "last_name": "Estrada Jr", 
-      "user_id": 1783135, 
-      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
-      "district": "TX_36", 
-      "created": "2013-08-08T14:27:16", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 29.7959, 
-      "x": -94.9731, 
-      "id": 16226353, 
-      "question_id": "16172207"
     }
   ]
 });

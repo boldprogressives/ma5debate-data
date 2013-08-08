@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Lexington", 
+      "first_name": "John", 
+      "last_name": "Frey", 
+      "user_id": 1079779, 
+      "submission": "Will you help block construction of the KXL pipeline? Will you take serious measures to address climate change?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T15:20:58", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.4558, 
+      "x": -71.215, 
+      "latest_vote": null, 
+      "id": 16226578
+    }, 
+    {
       "city": "Staten Island", 
       "first_name": "Elizabeth", 
       "last_name": "LaBue", 
