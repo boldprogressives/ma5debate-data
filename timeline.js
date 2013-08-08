@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Henry", 
       "last_name": "Harrison", 
       "user_id": 1074803, 
-      "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
+      "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
       "district": "MA_05", 
-      "created": "2013-08-08T15:18:02", 
+      "created": "2013-08-08T15:18:47", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.4239, 
       "x": -71.3142, 
-      "id": 16226570, 
-      "question_id": "16173320"
+      "id": 16226573, 
+      "question_id": "16175500"
+    }, 
+    {
+      "city": "Methuen", 
+      "first_name": "Joyce", 
+      "last_name": "Koop", 
+      "user_id": 1698071, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "MA_03", 
+      "created": "2013-08-08T15:18:06", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.7288, 
+      "x": -71.1803, 
+      "id": 16226571, 
+      "question_id": "16172777"
     }, 
     {
       "city": "North Andover", 
@@ -294,24 +309,6 @@ opendebate.processTimeline({
       "x": -94.9731, 
       "id": 16226353, 
       "question_id": "16172207"
-    }, 
-    {
-      "city": "Winchester", 
-      "first_name": "donna", 
-      "last_name": "campbell", 
-      "user_id": 1809890, 
-      "submission": "How do you explain the damaging gridlock in congress and how do you propose to encourage and effect bipartisan cooperation to move on, solve problems and accomplish much needed legislation?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T14:26:32", 
-      "state_votes": 1, 
-      "votes": 1, 
-      "district_votes": 1, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.4529, 
-      "x": -71.146, 
-      "latest_vote": "2013-08-08T15:03:47", 
-      "id": 16226347
     }
   ]
 });
