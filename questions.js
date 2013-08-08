@@ -8712,15 +8712,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_01", 
       "created": "2013-08-06T20:10:21", 
       "state_votes": 24, 
-      "votes": 123, 
+      "votes": 124, 
       "district_votes": 8, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.204, 
       "x": -72.6301, 
-      "latest_vote": "2013-08-08T18:53:46", 
+      "latest_vote": "2013-08-08T18:54:51", 
       "id": 16203676, 
-      "trending_score": 23.5
+      "trending_score": 24.0
     }, 
     {
       "city": "Gloucester", 
@@ -8959,15 +8959,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_12", 
       "created": "2013-08-06T19:37:02", 
       "state_votes": 37, 
-      "votes": 327, 
+      "votes": 328, 
       "district_votes": 13, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.7802, 
       "x": -122.459, 
-      "latest_vote": "2013-08-08T18:50:58", 
+      "latest_vote": "2013-08-08T18:54:15", 
       "id": 16202059, 
-      "trending_score": 33.75
+      "trending_score": 34.083333333333336
     }, 
     {
       "city": "Richfield", 
@@ -9053,16 +9053,16 @@ opendebate.processFetchedQuestions({
       "submission": "How can Manning and Snowden be in trouble and Dick Chaney isn't in trouble for outing Valerie Plame?", 
       "district": "TX_32", 
       "created": "2013-08-06T19:28:40", 
-      "state_votes": 24, 
-      "votes": 112, 
+      "state_votes": 25, 
+      "votes": 113, 
       "district_votes": 6, 
       "state": "TX", 
       "iface": "question", 
       "y": 32.9633, 
       "x": -96.7452, 
-      "latest_vote": "2013-08-08T18:32:26", 
+      "latest_vote": "2013-08-08T18:54:13", 
       "id": 16201620, 
-      "trending_score": 9.416666666666666
+      "trending_score": 9.75
     }, 
     {
       "city": "Cambridge", 
@@ -9699,16 +9699,16 @@ opendebate.processFetchedQuestions({
       "submission": "What is your stand on full disclosure of all campaign contributions, including specifically identifiable individual and corporate donations to PACs.", 
       "district": "TN_04", 
       "created": "2013-08-06T18:47:43", 
-      "state_votes": 17, 
-      "votes": 108, 
+      "state_votes": 18, 
+      "votes": 109, 
       "district_votes": 7, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.476, 
       "x": -86.4672, 
-      "latest_vote": "2013-08-08T18:31:42", 
+      "latest_vote": "2013-08-08T18:54:44", 
       "id": 16199834, 
-      "trending_score": 10.5
+      "trending_score": 11.0
     }, 
     {
       "city": "Ashland", 
@@ -18876,16 +18876,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you support the labeling of GMOs and if so, what do you intend to do to promote people's right to know what is in their food?", 
       "district": "TN_03", 
       "created": "2013-08-05T02:57:27", 
-      "state_votes": 49, 
-      "votes": 241, 
-      "district_votes": 12, 
+      "state_votes": 50, 
+      "votes": 242, 
+      "district_votes": 13, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.1253, 
       "x": -84.8666, 
-      "latest_vote": "2013-08-08T18:39:57", 
+      "latest_vote": "2013-08-08T18:54:40", 
       "id": 16176001, 
-      "trending_score": 11.25
+      "trending_score": 11.75
     }, 
     {
       "city": "Little Rock", 
@@ -19294,16 +19294,16 @@ opendebate.processFetchedQuestions({
       "submission": "Who are your corporate sponsors? Would you be in favor of all politicians wearing patches on their cloths with the corporate logo's of their sponsors just like athletes do. This way we know where the money comes from before we vote.", 
       "district": "AZ_02", 
       "created": "2013-08-05T01:25:10", 
-      "state_votes": 14, 
-      "votes": 113, 
+      "state_votes": 15, 
+      "votes": 114, 
       "district_votes": 2, 
       "state": "AZ", 
       "iface": "question", 
       "y": 32.2418, 
       "x": -110.947, 
-      "latest_vote": "2013-08-08T18:31:08", 
+      "latest_vote": "2013-08-08T18:54:32", 
       "id": 16175691, 
-      "trending_score": 8.0
+      "trending_score": 8.5
     }, 
     {
       "city": "Mount Vernon", 
@@ -19561,15 +19561,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_07", 
       "created": "2013-08-05T00:11:21", 
       "state_votes": 43, 
-      "votes": 231, 
+      "votes": 232, 
       "district_votes": 8, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.6327, 
       "x": -122.322, 
-      "latest_vote": "2013-08-08T18:50:38", 
+      "latest_vote": "2013-08-08T18:54:31", 
       "id": 16175493, 
-      "trending_score": 36.833333333333336
+      "trending_score": 37.333333333333336
     }, 
     {
       "city": "Seattle", 
@@ -20853,15 +20853,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_05", 
       "created": "2013-08-04T15:18:55", 
       "state_votes": 39, 
-      "votes": 251, 
+      "votes": 252, 
       "district_votes": 5, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.6898, 
       "x": -123.884, 
-      "latest_vote": "2013-08-08T18:50:03", 
+      "latest_vote": "2013-08-08T18:54:23", 
       "id": 16174072, 
-      "trending_score": 30.5
+      "trending_score": 31.0
     }, 
     {
       "city": "Cape Girardeau", 
@@ -21822,15 +21822,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:25:59", 
       "state_votes": 208, 
-      "votes": 1328, 
+      "votes": 1329, 
       "district_votes": 66, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-08T18:51:16", 
+      "latest_vote": "2013-08-08T18:54:57", 
       "id": 16173264, 
-      "trending_score": 26.05
+      "trending_score": 26.25
     }, 
     {
       "city": "Prosper", 
@@ -22818,7 +22818,7 @@ opendebate.processFetchedQuestions({
       "x": -111.974, 
       "latest_vote": "2013-08-08T18:51:12", 
       "id": 16172777, 
-      "trending_score": 24.477777777777778
+      "trending_score": 20.333333333333332
     }, 
     {
       "city": "Gladstone", 
@@ -22829,15 +22829,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_05", 
       "created": "2013-08-03T22:30:45", 
       "state_votes": 81, 
-      "votes": 539, 
+      "votes": 540, 
       "district_votes": 19, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.3898, 
       "x": -122.589, 
-      "latest_vote": "2013-08-08T18:50:21", 
+      "latest_vote": "2013-08-08T18:55:01", 
       "id": 16172765, 
-      "trending_score": 25.708333333333332
+      "trending_score": 26.041666666666668
     }, 
     {
       "city": "Egg Harbor", 
@@ -23265,16 +23265,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you support immigration reform with a path to citizenship ?", 
       "district": "IL_01", 
       "created": "2013-08-03T21:55:55", 
-      "state_votes": 45, 
-      "votes": 222, 
-      "district_votes": 15, 
+      "state_votes": 46, 
+      "votes": 223, 
+      "district_votes": 16, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.6357, 
       "x": -87.7386, 
-      "latest_vote": "2013-08-08T18:33:52", 
+      "latest_vote": "2013-08-08T18:54:14", 
       "id": 16172648, 
-      "trending_score": 18.5
+      "trending_score": 19.0
     }, 
     {
       "city": "Great Neck", 
@@ -23483,7 +23483,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1134, 
       "latest_vote": "2013-08-08T18:53:31", 
       "id": 16172530, 
-      "trending_score": 5.083333333333333
+      "trending_score": 6.833333333333333
     }, 
     {
       "city": "Cambridge", 
@@ -23570,15 +23570,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:44:14", 
       "state_votes": 40, 
-      "votes": 236, 
+      "votes": 237, 
       "district_votes": 11, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.366, 
       "x": -71.1035, 
-      "latest_vote": "2013-08-08T18:52:14", 
+      "latest_vote": "2013-08-08T18:54:48", 
       "id": 16172283, 
-      "trending_score": 26.5
+      "trending_score": 27.0
     }, 
     {
       "city": "Waltham", 
@@ -23646,15 +23646,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:33:11", 
       "state_votes": 219, 
-      "votes": 1332, 
+      "votes": 1333, 
       "district_votes": 63, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-08T18:51:55", 
+      "latest_vote": "2013-08-08T18:54:42", 
       "id": 16172266, 
-      "trending_score": 27.25
+      "trending_score": 27.45
     }, 
     {
       "city": "Cambridge", 

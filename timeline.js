@@ -2,6 +2,81 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "", 
+      "first_name": "James Gaertner", 
+      "last_name": "As a senior citizen who never had the option of a pension plan, please expand SS benefits!", 
+      "user_id": 1778905, 
+      "submission": "What will you do to overturn Citizen's United?", 
+      "district": "", 
+      "created": "2013-08-08T18:55:01", 
+      "state": "", 
+      "iface": "timeline_vote", 
+      "y": 0.0, 
+      "x": 0.0, 
+      "id": 16231004, 
+      "question_id": "16172765"
+    }, 
+    {
+      "city": "Katy", 
+      "first_name": "John", 
+      "last_name": "Ryan", 
+      "user_id": 86045, 
+      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
+      "district": "TX_07", 
+      "created": "2013-08-08T18:54:51", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 29.7683, 
+      "x": -95.7431, 
+      "id": 16231002, 
+      "question_id": "16203676"
+    }, 
+    {
+      "city": "Carver", 
+      "first_name": "Judith", 
+      "last_name": "Kelly", 
+      "user_id": 1652499, 
+      "submission": "What is your stand on full disclosure of all campaign contributions, including specifically identifiable individual and corporate donations to PACs.", 
+      "district": "MA_09", 
+      "created": "2013-08-08T18:54:44", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 41.8805, 
+      "x": -70.7675, 
+      "id": 16231000, 
+      "question_id": "16199834"
+    }, 
+    {
+      "city": "Arlington", 
+      "first_name": "Rhianna", 
+      "last_name": "VanHeynigen", 
+      "user_id": 1810001, 
+      "submission": "Do you support the labeling of GMOs and if so, what do you intend to do to promote people's right to know what is in their food?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T18:54:40", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4207, 
+      "x": -71.1582, 
+      "id": 16230998, 
+      "question_id": "16176001"
+    }, 
+    {
+      "city": "Seminole", 
+      "first_name": "Peggy", 
+      "last_name": "Alcorn", 
+      "user_id": 1777085, 
+      "submission": "Why is it that Halliburton only gets a $200K fine for destroying evidence concerning the Gulf oil spill when if you make a copy of a DVD you get a $250K fine and up to 5 years in prison?", 
+      "district": "FL_13", 
+      "created": "2013-08-08T18:54:31", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 27.8508, 
+      "x": -82.8291, 
+      "id": 16230996, 
+      "question_id": "16175493"
+    }, 
+    {
       "city": "Ponce de Leon", 
       "first_name": "Jack", 
       "last_name": "Yates", 
@@ -15,21 +90,6 @@ opendebate.processTimeline({
       "x": -85.9538, 
       "id": 16230990, 
       "question_id": "16211476"
-    }, 
-    {
-      "city": "Carver", 
-      "first_name": "Judith", 
-      "last_name": "Kelly", 
-      "user_id": 1652499, 
-      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
-      "district": "MA_09", 
-      "created": "2013-08-08T18:53:46", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 41.8805, 
-      "x": -70.7675, 
-      "id": 16230988, 
-      "question_id": "16203676"
     }, 
     {
       "city": "Rochester", 
@@ -60,21 +120,6 @@ opendebate.processTimeline({
       "x": -86.1469, 
       "id": 16230981, 
       "question_id": "16175634"
-    }, 
-    {
-      "city": "Arlington", 
-      "first_name": "Rhianna", 
-      "last_name": "VanHeynigen", 
-      "user_id": 1810001, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T18:51:51", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4207, 
-      "x": -71.1582, 
-      "id": 16230958, 
-      "question_id": "16172913"
     }, 
     {
       "city": "Atlanta", 
@@ -171,21 +216,6 @@ opendebate.processTimeline({
       "question_id": "16204636"
     }, 
     {
-      "city": "Katy", 
-      "first_name": "John", 
-      "last_name": "Ryan", 
-      "user_id": 86045, 
-      "submission": "Will you support legislation to change our income tax so the very wealthy pay 90% of their yearly income as they did in the 1950s and 60s?", 
-      "district": "TX_07", 
-      "created": "2013-08-08T18:46:48", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 29.7683, 
-      "x": -95.7431, 
-      "id": 16230857, 
-      "question_id": "16172688"
-    }, 
-    {
       "city": "Long Beach", 
       "first_name": "William", 
       "last_name": "Bower", 
@@ -278,36 +308,6 @@ opendebate.processTimeline({
       "x": -71.4375, 
       "id": 16230805, 
       "question_id": "16203866"
-    }, 
-    {
-      "city": "Lexington", 
-      "first_name": "John", 
-      "last_name": "Frey", 
-      "user_id": 1079779, 
-      "submission": "What is your position on construction of the propose KXL pipeline and on global climate change? How would you vote if given the chance?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T18:43:36", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4558, 
-      "x": -71.215, 
-      "id": 16230797, 
-      "question_id": "16226585"
-    }, 
-    {
-      "city": "Somerville", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809995, 
-      "submission": "Would you support replacing \"Obamacare\" with single-payer coverage (Medicare for All)?", 
-      "district": "MA_07", 
-      "created": "2013-08-08T18:43:11", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3818, 
-      "x": -71.1032, 
-      "id": 16230789, 
-      "question_id": "16175729"
     }
   ]
 });
