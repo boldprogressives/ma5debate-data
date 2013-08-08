@@ -20961,14 +20961,14 @@ opendebate.processFetchedQuestions({
       "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
       "district": "IL_02", 
       "created": "2013-08-03T22:20:39", 
-      "state_votes": 127, 
-      "votes": 1122, 
+      "state_votes": 128, 
+      "votes": 1123, 
       "district_votes": 30, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.7162, 
       "x": -87.5544, 
-      "latest_vote": "2013-08-08T14:29:33", 
+      "latest_vote": "2013-08-08T15:01:36", 
       "id": 16172727
     }, 
     {

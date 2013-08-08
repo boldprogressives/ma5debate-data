@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Somerville", 
+      "first_name": "Demitri", 
+      "last_name": "Denir", 
+      "user_id": 1668195, 
+      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "district": "MA_07", 
+      "created": "2013-08-08T15:01:36", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3914, 
+      "x": -71.0947, 
+      "id": 16226503, 
+      "question_id": "16172727"
+    }, 
+    {
       "city": "Shelburne", 
       "first_name": "Deborah", 
       "last_name": "Andrew", 
@@ -288,21 +303,6 @@ opendebate.processTimeline({
       "x": -70.9082, 
       "id": 16226472, 
       "question_id": "16176855"
-    }, 
-    {
-      "city": "Swampscott", 
-      "first_name": "Ramon", 
-      "last_name": "Feiven", 
-      "user_id": 1668338, 
-      "submission": "What is your stand on full disclosure of all campaign contributions, including specifically identifiable individual and corporate donations to PACs.", 
-      "district": "MA_06", 
-      "created": "2013-08-08T14:46:04", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4723, 
-      "x": -70.9082, 
-      "id": 16226470, 
-      "question_id": "16199834"
     }
   ]
 });
