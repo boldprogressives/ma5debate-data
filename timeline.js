@@ -6,15 +6,33 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "What do you feel about the Republican's relentless push to eliminate or seriously curtail abortion rights in most states, and what can be done about it?", 
+      "submission": "Would you be willing to re-shape the appalling and atrocious Congressional behavior, now referred to as \"refusal to govern,\" into a reframed issue around \"continued seditious behavior\" worthy of legal challenge?", 
       "district": "MA_04", 
-      "created": "2013-08-08T17:10:49", 
+      "created": "2013-08-08T17:11:56", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227677, 
-      "question_id": "16172892"
+      "id": 16227683, 
+      "question_id": "16187926"
+    }, 
+    {
+      "city": "Peoria", 
+      "first_name": "john", 
+      "last_name": "salch", 
+      "user_id": 1054735, 
+      "submission": "Will you support legislation prohibiting Congressional personnel from accepting any contributions from outside their own district?", 
+      "district": "IL_17", 
+      "created": "2013-08-08T17:11:25", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "IL", 
+      "iface": "timeline_question", 
+      "y": 40.6986, 
+      "x": -89.6098, 
+      "latest_vote": null, 
+      "id": 16227680
     }, 
     {
       "city": "Nahant", 
@@ -33,8 +51,8 @@ opendebate.processTimeline({
     }, 
     {
       "city": "Peoria", 
-      "first_name": "John", 
-      "last_name": "Salch", 
+      "first_name": "john", 
+      "last_name": "salch", 
       "user_id": 1054735, 
       "submission": "Will you support legislation to forbid congressional and senatorial personnel from accepting any gratuity from a lobbyist?", 
       "district": "IL_17", 
@@ -294,21 +312,6 @@ opendebate.processTimeline({
       "x": -71.1277, 
       "latest_vote": null, 
       "id": 16227113
-    }, 
-    {
-      "city": "Revere", 
-      "first_name": "Philip", 
-      "last_name": "Cataldo", 
-      "user_id": 732584, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T16:25:00", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4152, 
-      "x": -71.0053, 
-      "id": 16227110, 
-      "question_id": "16173264"
     }
   ]
 });
