@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Henry", 
       "last_name": "Harrison", 
       "user_id": 1074803, 
-      "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
+      "submission": "Would you support replacing \"Obamacare\" with single-payer coverage (Medicare for All)?", 
       "district": "MA_05", 
-      "created": "2013-08-08T15:18:47", 
+      "created": "2013-08-08T15:20:01", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.4239, 
       "x": -71.3142, 
-      "id": 16226573, 
-      "question_id": "16175500"
+      "id": 16226576, 
+      "question_id": "16175729"
     }, 
     {
       "city": "Methuen", 
