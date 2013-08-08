@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "bridgeport", 
+      "first_name": "adnan", 
+      "last_name": "khan", 
+      "user_id": 1184871, 
+      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
+      "district": "CT_04", 
+      "created": "2013-08-08T20:32:00", 
+      "state": "CT", 
+      "iface": "timeline_vote", 
+      "y": 41.1679, 
+      "x": -73.2165, 
+      "id": 16233238, 
+      "question_id": "16203866"
+    }, 
+    {
       "city": "Palo Alto", 
       "first_name": "Stephen", 
       "last_name": "Rosenblum", 
       "user_id": 69837, 
-      "submission": "Would you support a living wage law that would force corporations, like Wal-Mart, whose Walton family owns more wealth than 40% of all Americans, to pay  living wages to all of their workers?", 
+      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
       "district": "CA_18", 
-      "created": "2013-08-08T20:30:58", 
+      "created": "2013-08-08T20:31:51", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 37.4399, 
       "x": -122.152, 
-      "id": 16233230, 
-      "question_id": "16210264"
+      "id": 16233237, 
+      "question_id": "16180998"
+    }, 
+    {
+      "city": "Barberton", 
+      "first_name": "Beverly", 
+      "last_name": "Capicola", 
+      "user_id": 1776014, 
+      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
+      "district": "OH_13", 
+      "created": "2013-08-08T20:31:12", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 41.0147, 
+      "x": -81.6145, 
+      "id": 16233233, 
+      "question_id": "16175740"
     }, 
     {
       "city": "McKinleyville", 
@@ -286,36 +316,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16233025, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Fort Lauderdale", 
-      "first_name": "Joan", 
-      "last_name": "Hasselbach", 
-      "user_id": 1172101, 
-      "submission": "Will you support legislation to change our income tax so the very wealthy pay 90% of their yearly income as they did in the 1950s and 60s?", 
-      "district": "FL_23", 
-      "created": "2013-08-08T20:15:45", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 26.0882, 
-      "x": -80.1845, 
-      "id": 16233024, 
-      "question_id": "16172688"
-    }, 
-    {
-      "city": "Holt", 
-      "first_name": "LEILA", 
-      "last_name": "NYE", 
-      "user_id": 1778492, 
-      "submission": "Do you believe that members of Congress should be held to at least as high of an ethical standard as teachers?  If so, would you be willing to make the results of an similar background check public?", 
-      "district": "MI_08", 
-      "created": "2013-08-08T20:15:00", 
-      "state": "MI", 
-      "iface": "timeline_vote", 
-      "y": 42.6405, 
-      "x": -84.5287, 
-      "id": 16233011, 
-      "question_id": "16194645"
     }
   ]
 });
