@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Newton", 
+      "first_name": "Mario", 
+      "last_name": "Troiani", 
+      "user_id": 142064, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "MA_04", 
+      "created": "2013-08-08T15:05:54", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3511, 
+      "x": -71.2074, 
+      "id": 16226517, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Somerville", 
+      "first_name": "Demitri", 
+      "last_name": "Denir", 
+      "user_id": 1668195, 
+      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
+      "district": "MA_07", 
+      "created": "2013-08-08T15:05:34", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3914, 
+      "x": -71.0947, 
+      "id": 16226515, 
+      "question_id": "16173257"
+    }, 
+    {
+      "city": "Somerville", 
+      "first_name": "Demitri", 
+      "last_name": "Denir", 
+      "user_id": 1668195, 
+      "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
+      "district": "MA_07", 
+      "created": "2013-08-08T15:05:03", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3914, 
+      "x": -71.0947, 
+      "id": 16226514, 
+      "question_id": "16172542"
+    }, 
+    {
       "city": "SALT LAKE CITY", 
       "first_name": "Michael", 
       "last_name": "Smith", 
@@ -258,51 +303,6 @@ opendebate.processTimeline({
       "x": -81.3098, 
       "id": 16226487, 
       "question_id": "16199834"
-    }, 
-    {
-      "city": "Casselberry", 
-      "first_name": "Annmari", 
-      "last_name": "Lundin", 
-      "user_id": 1695695, 
-      "submission": "What would you do to eliminate congressional pensions so congress has a stake in social security retirement benifits.", 
-      "district": "FL_07", 
-      "created": "2013-08-08T14:54:49", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 28.6608, 
-      "x": -81.3098, 
-      "id": 16226486, 
-      "question_id": "16176855"
-    }, 
-    {
-      "city": "Cincinnati", 
-      "first_name": "john", 
-      "last_name": "ballek", 
-      "user_id": 1783799, 
-      "submission": "If the government agencies that took money from social security, returned it with 6% annual interest; do you feel it would be sustainable(without cutting benefits) for the foreseeable future?", 
-      "district": "OH_02", 
-      "created": "2013-08-08T14:52:36", 
-      "state": "OH", 
-      "iface": "timeline_vote", 
-      "y": 39.0787, 
-      "x": -84.3772, 
-      "id": 16226484, 
-      "question_id": "16201325"
-    }, 
-    {
-      "city": "Casselberry", 
-      "first_name": "Annmari", 
-      "last_name": "Lundin", 
-      "user_id": 1695695, 
-      "submission": "What will you do to overturn the AG-GAG laws?  What will you do to support animal rights and the humane treatment of animals in this country?  If nothing, why not?  What are your views on cruelty?", 
-      "district": "FL_07", 
-      "created": "2013-08-08T14:52:30", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 28.6608, 
-      "x": -81.3098, 
-      "id": 16226483, 
-      "question_id": "16176721"
     }
   ]
 });
