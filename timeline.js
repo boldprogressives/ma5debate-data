@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Dighton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809909, 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "district": "MA_04", 
+      "created": "2013-08-08T15:37:00", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 41.819, 
+      "x": -71.1353, 
+      "id": 16226695, 
+      "question_id": "16172755"
+    }, 
+    {
+      "city": "Derby", 
+      "first_name": "David", 
+      "last_name": "Starr", 
+      "user_id": 1687001, 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "district": "CT_03", 
+      "created": "2013-08-08T15:36:59", 
+      "state": "CT", 
+      "iface": "timeline_vote", 
+      "y": 41.3819, 
+      "x": -73.0797, 
+      "id": 16226694, 
+      "question_id": "16173335"
+    }, 
+    {
       "city": "Fresh  Meadows", 
       "first_name": "Paul", 
       "last_name": "Dambrosi", 
@@ -15,21 +45,6 @@ opendebate.processTimeline({
       "x": -73.79, 
       "id": 16226681, 
       "question_id": "16174334"
-    }, 
-    {
-      "city": "Derby", 
-      "first_name": "David", 
-      "last_name": "Starr", 
-      "user_id": 1687001, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
-      "district": "CT_03", 
-      "created": "2013-08-08T15:35:55", 
-      "state": "CT", 
-      "iface": "timeline_vote", 
-      "y": 41.3819, 
-      "x": -73.0797, 
-      "id": 16226680, 
-      "question_id": "16172281"
     }, 
     {
       "city": "Holliston", 
@@ -294,24 +309,6 @@ opendebate.processTimeline({
       "x": -72.5301, 
       "id": 16226499, 
       "question_id": "16172281"
-    }, 
-    {
-      "city": "Bridgeport", 
-      "first_name": "Robb", 
-      "last_name": "Sauerhoff", 
-      "user_id": 1557378, 
-      "submission": "Science has proven again and again that many herbicides and pesticides initially approved for agricultural and residential use are highly toxic to the environment.  Would you propose, endorse, and/or support, legislation that imposes statutory time limits on regulatory approvals for all pesticides and herbicides, which triggers a  mandatory environmental impact reassessment every 8 to 10 years without exception and does not allow \"grandfathering\" of any such products that have already approved for use?     ", 
-      "district": "CT_04", 
-      "created": "2013-08-08T14:58:33", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "CT", 
-      "iface": "timeline_question", 
-      "y": 41.1679, 
-      "x": -73.2165, 
-      "latest_vote": null, 
-      "id": 16226498
     }
   ]
 });
