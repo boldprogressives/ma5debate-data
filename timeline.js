@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "", 
       "last_name": "", 
       "user_id": 1809949, 
-      "submission": "What will you do to fund public education, including higher education, to keep tuition affordable and pay full time adjunct faculty on par with tenured faculty?", 
+      "submission": "What is your plan to reduce human population growth?", 
       "district": "MA_01", 
-      "created": "2013-08-08T17:26:58", 
+      "created": "2013-08-08T17:28:01", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.1229, 
       "x": -72.487, 
-      "id": 16227849, 
-      "question_id": "16186056"
+      "id": 16227860, 
+      "question_id": "16188211"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "What will you do about cuts to Social Security and Medicare benefits?", 
+      "submission": "When will we get universal health care? And would you support a single payer system similar to Canada's?", 
       "district": "MA_04", 
-      "created": "2013-08-08T17:26:51", 
+      "created": "2013-08-08T17:27:52", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227848, 
-      "question_id": "16208033"
+      "id": 16227858, 
+      "question_id": "16174014"
     }, 
     {
       "city": "Ann Arbor", 
@@ -153,7 +153,7 @@ opendebate.processTimeline({
       "x": -89.6098, 
       "latest_vote": null, 
       "id": 16227680, 
-      "trending_score": 0.0
+      "trending_score": 0.5
     }, 
     {
       "city": "Nahant", 
@@ -187,7 +187,7 @@ opendebate.processTimeline({
       "x": -89.6098, 
       "latest_vote": null, 
       "id": 16227662, 
-      "trending_score": 0.0
+      "trending_score": 0.5
     }, 
     {
       "city": "Warden", 
