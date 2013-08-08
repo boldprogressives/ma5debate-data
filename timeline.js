@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Carolyn", 
       "last_name": "Tiffany", 
       "user_id": 517663, 
-      "submission": "Will you make Climate Change the highest National priority in your campaign? And will you support the policy that clean energy sources, which bypass the carbon cycle entirely should be : the foundation of a National Energy policy; the means of reviving the US industrial base; and the solution to the jobs crisis?  ", 
+      "submission": "What specific steps would you take to combat climate change while in office?", 
       "district": "MA_05", 
-      "created": "2013-08-08T16:04:37", 
+      "created": "2013-08-08T16:05:38", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.4484, 
       "x": -71.2338, 
-      "id": 16226903, 
-      "question_id": "16188911"
+      "id": 16226917, 
+      "question_id": "16169991"
     }, 
     {
       "city": "Wilmington", 
