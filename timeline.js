@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Bev", 
       "last_name": "Bassett", 
       "user_id": 1773668, 
-      "submission": "Do you support the labeling of GMOs and if so, what do you intend to do to promote people's right to know what is in their food?", 
+      "submission": "How quickly would you say that the Keystone Pipeline must NEVER BE BUILT, since it would be an ecological disaster?", 
       "district": "WA_10", 
-      "created": "2013-08-08T20:34:56", 
+      "created": "2013-08-08T20:35:56", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 47.1038, 
       "x": -122.868, 
-      "id": 16233295, 
-      "question_id": "16176001"
+      "id": 16233313, 
+      "question_id": "16172941"
     }, 
     {
       "city": "Melrose", 
