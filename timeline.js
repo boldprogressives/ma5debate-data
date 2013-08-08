@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Marietta", 
-      "first_name": "John", 
-      "last_name": "Brewer", 
-      "user_id": 1578014, 
-      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
-      "district": "OH_06", 
-      "created": "2013-08-08T20:50:01", 
-      "state": "OH", 
-      "iface": "timeline_vote", 
-      "y": 39.4736, 
-      "x": -81.4792, 
-      "id": 16233468, 
-      "question_id": "16173257"
-    }, 
-    {
       "city": "Princeton", 
       "first_name": "Angela", 
       "last_name": "Diorio", 
       "user_id": 1763286, 
-      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
+      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
       "district": "NJ_12", 
-      "created": "2013-08-08T20:49:54", 
+      "created": "2013-08-08T20:50:47", 
       "state": "NJ", 
       "iface": "timeline_vote", 
       "y": 40.3675, 
       "x": -74.6695, 
-      "id": 16233465, 
-      "question_id": "16173257"
+      "id": 16233492, 
+      "question_id": "16175634"
+    }, 
+    {
+      "city": "Phila", 
+      "first_name": "Michele", 
+      "last_name": "Koskinen", 
+      "user_id": 1577050, 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "district": "PA_01", 
+      "created": "2013-08-08T20:50:37", 
+      "state": "PA", 
+      "iface": "timeline_vote", 
+      "y": 39.9685, 
+      "x": -75.1731, 
+      "id": 16233491, 
+      "question_id": "16172533"
+    }, 
+    {
+      "city": "Marietta", 
+      "first_name": "John", 
+      "last_name": "Brewer", 
+      "user_id": 1578014, 
+      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "district": "OH_06", 
+      "created": "2013-08-08T20:50:32", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 39.4736, 
+      "x": -81.4792, 
+      "id": 16233490, 
+      "question_id": "16172727"
     }, 
     {
       "city": "Pflugerville", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -122.152, 
       "id": 16233286, 
       "question_id": "16174044"
-    }, 
-    {
-      "city": "Hull", 
-      "first_name": "Kevin", 
-      "last_name": "Loechner", 
-      "user_id": 1545729, 
-      "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
-      "district": "MA_08", 
-      "created": "2013-08-08T20:33:40", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2308, 
-      "x": -70.8391, 
-      "id": 16233270, 
-      "question_id": "16172542"
     }
   ]
 });
