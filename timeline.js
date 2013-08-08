@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Springfield", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809949, 
-      "submission": "What will you do to stop coal mining by mountain top removal?", 
-      "district": "MA_01", 
-      "created": "2013-08-08T17:23:02", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.1229, 
-      "x": -72.487, 
-      "id": 16227816, 
-      "question_id": "16178298"
-    }, 
-    {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Will you propose returning to REPUBLICAN top tax rates for the ultra-rich to reduce our deficit - either Eisenhower's 91% or Nixon's 70% - since neither of these created a depression or recession?", 
+      "submission": "Why were / are banks receiving bailouts, while students receive high interest loans rather  than grants?", 
       "district": "MA_04", 
-      "created": "2013-08-08T17:23:00", 
+      "created": "2013-08-08T17:23:59", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227815, 
-      "question_id": "16177435"
+      "id": 16227826, 
+      "question_id": "16174806"
+    }, 
+    {
+      "city": "Springfield", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809949, 
+      "submission": "What are you going to do about climate disruption?", 
+      "district": "MA_01", 
+      "created": "2013-08-08T17:23:58", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.1229, 
+      "x": -72.487, 
+      "id": 16227825, 
+      "question_id": "16198026"
+    }, 
+    {
+      "city": "Ann Arbor", 
+      "first_name": "Claudia", 
+      "last_name": "Myszke", 
+      "user_id": 25453, 
+      "submission": "Will you support Senator Leahy's (chair of the Senate Judiciary Committee)  The Justice Safety Valve Act of 2013, S. 619, Would you also enter an amendment that would cover all crimes where there was no one injured and most importantly make it retroactive?", 
+      "district": "MI_12", 
+      "created": "2013-08-08T17:23:33", 
+      "state": "MI", 
+      "iface": "timeline_vote", 
+      "y": 42.2708, 
+      "x": -83.8087, 
+      "id": 16227820, 
+      "question_id": "16219635"
     }, 
     {
       "city": "villanova", 
@@ -291,21 +306,6 @@ opendebate.processTimeline({
       "x": -71.7959, 
       "id": 16227498, 
       "question_id": "16172777"
-    }, 
-    {
-      "city": "Arlington Heights", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809944, 
-      "submission": "Will you fight to protect the Clean Air Act, the Clean Water Act and the EPA in a House of Representatives that has become increasingly hostile to all three?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T16:48:49", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4203, 
-      "x": -71.1809, 
-      "id": 16227487, 
-      "question_id": "16226952"
     }
   ]
 });
