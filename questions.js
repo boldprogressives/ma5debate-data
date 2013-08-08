@@ -124,15 +124,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-08T16:13:08", 
       "state_votes": 4, 
-      "votes": 4, 
+      "votes": 5, 
       "district_votes": 2, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4558, 
       "x": -71.215, 
-      "latest_vote": "2013-08-08T17:28:44", 
+      "latest_vote": "2013-08-08T17:30:41", 
       "id": 16226977, 
-      "trending_score": 4.5
+      "trending_score": 5.5
     }, 
     {
       "city": "Lexington", 
@@ -5538,16 +5538,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you believe it is time to debate for and enforce stricter anti-trust legislation for all industry?", 
       "district": "GA_13", 
       "created": "2013-08-07T02:56:57", 
-      "state_votes": 0, 
-      "votes": 5, 
+      "state_votes": 1, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "GA", 
       "iface": "question", 
       "y": 33.5118, 
       "x": -84.3168, 
-      "latest_vote": "2013-08-07T12:52:42", 
+      "latest_vote": "2013-08-08T17:30:57", 
       "id": 16212684, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Jonesboro", 
@@ -9566,16 +9566,16 @@ opendebate.processFetchedQuestions({
       "submission": "\"Lobbying\" is essentially a legal method for wealthy corporations and special interest groups to obtain legislation and subsidies not available to individual American citizens and small businesses.  Additionally, the groups using \"lobbyists\" (often former elected officials with \"contacts\" in Congress), are able to deduct the expenses of lobbying from their taxable income.  It is tax-deductible bribery by the \"haves\" in order to maintain their ascendency over the \"have-nots,\" and should be illegal.   Do you support eliminating lobbying?  If so, how will you go about getting rid of it; if not, why not?", 
       "district": "PA_08", 
       "created": "2013-08-06T18:09:43", 
-      "state_votes": 2, 
-      "votes": 37, 
+      "state_votes": 3, 
+      "votes": 38, 
       "district_votes": 0, 
       "state": "PA", 
       "iface": "question", 
       "y": 40.4428, 
       "x": -75.3545, 
-      "latest_vote": "2013-08-08T00:01:36", 
+      "latest_vote": "2013-08-08T17:30:21", 
       "id": 16197666, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "New Orleans", 
@@ -10060,16 +10060,16 @@ opendebate.processFetchedQuestions({
       "submission": "How can we keep our post offices up and running?", 
       "district": "MA_09", 
       "created": "2013-08-06T17:22:17", 
-      "state_votes": 8, 
-      "votes": 37, 
+      "state_votes": 9, 
+      "votes": 38, 
       "district_votes": 2, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.0555, 
       "x": -70.1873, 
-      "latest_vote": "2013-08-08T13:48:26", 
+      "latest_vote": "2013-08-08T17:30:40", 
       "id": 16194365, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Redmond", 
@@ -10250,16 +10250,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you oppose current efforts by House Republicans to slash the Food Stamp program as part of the current agriculture bill.", 
       "district": "VA_08", 
       "created": "2013-08-06T17:15:38", 
-      "state_votes": 4, 
-      "votes": 37, 
+      "state_votes": 5, 
+      "votes": 38, 
       "district_votes": 0, 
       "state": "VA", 
       "iface": "question", 
       "y": 38.8172, 
       "x": -77.1226, 
-      "latest_vote": "2013-08-07T23:56:49", 
+      "latest_vote": "2013-08-08T17:30:53", 
       "id": 16193997, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "tempe", 
@@ -13214,16 +13214,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you support a modern and more logical/successful approach to drug abuse, as opposed to the failed \"War on Drugs\"", 
       "district": "CT_01", 
       "created": "2013-08-06T15:04:05", 
-      "state_votes": 0, 
-      "votes": 6, 
+      "state_votes": 1, 
+      "votes": 7, 
       "district_votes": 0, 
       "state": "CT", 
       "iface": "question", 
       "y": 41.5817, 
       "x": -72.8979, 
-      "latest_vote": "2013-08-07T00:41:20", 
+      "latest_vote": "2013-08-08T17:30:16", 
       "id": 16185467, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Lawrence", 
@@ -13423,16 +13423,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you support government transparency with it's finances with the public about the government's C.A.F.R's (Comprehensive Annual Financial Reports)?", 
       "district": "OH_03", 
       "created": "2013-08-06T14:58:45", 
-      "state_votes": 0, 
-      "votes": 6, 
+      "state_votes": 1, 
+      "votes": 7, 
       "district_votes": 0, 
       "state": "OH", 
       "iface": "question", 
       "y": 39.9658, 
       "x": -83.0036, 
-      "latest_vote": "2013-08-07T08:43:15", 
+      "latest_vote": "2013-08-08T17:30:11", 
       "id": 16184980, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Birmingham", 
@@ -19066,16 +19066,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you protect Social Security And Medicare by not cutting it with the chained CPI for Social Security that has been mentioned.  Also, no cuts to Medicare but closing the donute hole 100% so seniors aren't left fending for themselves to pay full price for their drugs.", 
       "district": "NE_03", 
       "created": "2013-08-05T00:36:55", 
-      "state_votes": 10, 
-      "votes": 91, 
-      "district_votes": 2, 
+      "state_votes": 11, 
+      "votes": 92, 
+      "district_votes": 3, 
       "state": "NE", 
       "iface": "question", 
       "y": 41.1313, 
       "x": -103.032, 
-      "latest_vote": "2013-08-08T16:50:13", 
+      "latest_vote": "2013-08-08T17:30:23", 
       "id": 16175570, 
-      "trending_score": 4.5
+      "trending_score": 5.5
     }, 
     {
       "city": "Mountlake Terrace", 
@@ -19465,16 +19465,16 @@ opendebate.processFetchedQuestions({
       "submission": "Climate change is moving us towards a planet that may not support human life.  Will you make addressing climate change one of your highest priorities?", 
       "district": "WI_02", 
       "created": "2013-08-04T21:54:34", 
-      "state_votes": 14, 
-      "votes": 91, 
-      "district_votes": 7, 
+      "state_votes": 15, 
+      "votes": 92, 
+      "district_votes": 8, 
       "state": "WI", 
       "iface": "question", 
       "y": 42.9812, 
       "x": -89.7297, 
-      "latest_vote": "2013-08-08T16:50:35", 
+      "latest_vote": "2013-08-08T17:30:06", 
       "id": 16175078, 
-      "trending_score": 7.5
+      "trending_score": 8.5
     }, 
     {
       "city": "Iuka", 
@@ -21632,15 +21632,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_10", 
       "created": "2013-08-04T00:59:23", 
       "state_votes": 151, 
-      "votes": 784, 
+      "votes": 785, 
       "district_votes": 35, 
       "state": "TX", 
       "iface": "question", 
       "y": 30.3972, 
       "x": -97.7518, 
-      "latest_vote": "2013-08-08T17:19:11", 
+      "latest_vote": "2013-08-08T17:30:59", 
       "id": 16173210, 
-      "trending_score": 9.88095238095238
+      "trending_score": 10.214285714285714
     }, 
     {
       "city": "Cottonwood", 
@@ -22164,15 +22164,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T23:23:07", 
       "state_votes": 146, 
-      "votes": 825, 
+      "votes": 826, 
       "district_votes": 37, 
       "state": "MT", 
       "iface": "question", 
       "y": 48.2112, 
       "x": -114.294, 
-      "latest_vote": "2013-08-08T17:15:07", 
+      "latest_vote": "2013-08-08T17:30:42", 
       "id": 16172913, 
-      "trending_score": 18.2
+      "trending_score": 18.7
     }, 
     {
       "city": "Montegut", 
@@ -22449,15 +22449,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:27:03", 
       "state_votes": 160, 
-      "votes": 915, 
+      "votes": 916, 
       "district_votes": 44, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.6267, 
       "x": -87.5959, 
-      "latest_vote": "2013-08-08T17:18:46", 
+      "latest_vote": "2013-08-08T17:30:27", 
       "id": 16172755, 
-      "trending_score": 15.666666666666666
+      "trending_score": 16.166666666666668
     }, 
     {
       "city": "Richardson", 
@@ -22525,15 +22525,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:20:39", 
       "state_votes": 145, 
-      "votes": 1147, 
+      "votes": 1148, 
       "district_votes": 37, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.7162, 
       "x": -87.5544, 
-      "latest_vote": "2013-08-08T17:18:34", 
+      "latest_vote": "2013-08-08T17:30:12", 
       "id": 16172727, 
-      "trending_score": 18.642857142857142
+      "trending_score": 19.142857142857142
     }, 
     {
       "city": "Waldport", 
@@ -23038,15 +23038,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T20:45:26", 
       "state_votes": 163, 
-      "votes": 835, 
+      "votes": 836, 
       "district_votes": 46, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-08T17:16:40", 
+      "latest_vote": "2013-08-08T17:30:37", 
       "id": 16172533, 
-      "trending_score": 10.547619047619047
+      "trending_score": 10.88095238095238
     }, 
     {
       "city": "Medford", 
@@ -23171,15 +23171,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:42:20", 
       "state_votes": 144, 
-      "votes": 876, 
+      "votes": 877, 
       "district_votes": 42, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3699, 
       "x": -71.2368, 
-      "latest_vote": "2013-08-08T17:15:19", 
+      "latest_vote": "2013-08-08T17:30:31", 
       "id": 16172281, 
-      "trending_score": 11.1875
+      "trending_score": 11.520833333333334
     }, 
     {
       "city": "Arlington", 
@@ -23228,15 +23228,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:33:11", 
       "state_votes": 208, 
-      "votes": 1234, 
+      "votes": 1235, 
       "district_votes": 62, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-08T17:16:26", 
+      "latest_vote": "2013-08-08T17:30:09", 
       "id": 16172266, 
-      "trending_score": 16.916666666666668
+      "trending_score": 17.25
     }, 
     {
       "city": "Cambridge", 
