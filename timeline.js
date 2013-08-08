@@ -3,33 +3,48 @@ opendebate.processTimeline({
   "entries": [
     {
       "city": "Austin", 
-      "first_name": "Otto", 
-      "last_name": "Olivera", 
-      "user_id": 187492, 
-      "submission": "why are the democrats so afraid to stand up to the republicans..? you stand up to a bully they usually back down.", 
-      "district": "TX_10", 
-      "created": "2013-08-08T20:10:58", 
+      "first_name": "rose", 
+      "last_name": "roma", 
+      "user_id": 1676769, 
+      "submission": "Why is it that Halliburton only gets a $200K fine for destroying evidence concerning the Gulf oil spill when if you make a copy of a DVD you get a $250K fine and up to 5 years in prison?", 
+      "district": "TX_25", 
+      "created": "2013-08-08T20:11:54", 
       "state": "TX", 
       "iface": "timeline_vote", 
-      "y": 30.3788, 
-      "x": -97.7111, 
-      "id": 16232942, 
-      "question_id": "16172823"
+      "y": 30.2915, 
+      "x": -97.7339, 
+      "id": 16232959, 
+      "question_id": "16175493"
     }, 
     {
       "city": "Holt", 
       "first_name": "LEILA", 
       "last_name": "NYE", 
       "user_id": 1778492, 
-      "submission": "Can we break gridlock?  Can you give a concrete example of an issue on which you think you could make progress by forging a compromise with those crazy DC Republicans?", 
+      "submission": "Will you take action to overturn Citizens United with an effective Constitutional Amendment?", 
       "district": "MI_08", 
-      "created": "2013-08-08T20:10:48", 
+      "created": "2013-08-08T20:11:54", 
       "state": "MI", 
       "iface": "timeline_vote", 
       "y": 42.6405, 
       "x": -84.5287, 
-      "id": 16232938, 
-      "question_id": "16201599"
+      "id": 16232960, 
+      "question_id": "16182966"
+    }, 
+    {
+      "city": "Austin", 
+      "first_name": "Otto", 
+      "last_name": "Olivera", 
+      "user_id": 187492, 
+      "submission": "Would you support a living wage law that would force corporations, like Wal-Mart, whose Walton family owns more wealth than 40% of all Americans, to pay  living wages to all of their workers?", 
+      "district": "TX_10", 
+      "created": "2013-08-08T20:11:54", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 30.3788, 
+      "x": -97.7111, 
+      "id": 16232961, 
+      "question_id": "16210264"
     }, 
     {
       "city": "Lexington", 
@@ -293,25 +308,6 @@ opendebate.processTimeline({
       "x": -117.339, 
       "id": 16232585, 
       "question_id": "16176001"
-    }, 
-    {
-      "city": "Rancho Palos Verdes", 
-      "first_name": "BILL", 
-      "last_name": "MCLAUGHLIN", 
-      "user_id": 749145, 
-      "submission": "WOULD YOU WORK TO END US TORTURE AND ITS WARS, SANCTIONS, AND DRONE ATTACKS,  THAT HAVE KILLED SO MANY?", 
-      "district": "CA_33", 
-      "created": "2013-08-08T19:49:27", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "CA", 
-      "iface": "timeline_question", 
-      "y": 33.7667, 
-      "x": -118.367, 
-      "latest_vote": null, 
-      "id": 16232520, 
-      "trending_score": 0.5
     }
   ]
 });
