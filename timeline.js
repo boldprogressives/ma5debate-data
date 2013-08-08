@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Nahant", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809953, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "MA_06", 
+      "created": "2013-08-08T17:10:00", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4263, 
+      "x": -70.9242, 
+      "id": 16227670, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Will you support a ban on hydrofracking for natural gas?", 
+      "submission": "When will you force Eric Holder and the DOJ to start prosecuting the criminal elements in the Wall Street firms that attributed to the great economic crash of 2008?", 
       "district": "MA_04", 
-      "created": "2013-08-08T17:09:04", 
+      "created": "2013-08-08T17:09:37", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227663, 
-      "question_id": "16205951"
+      "id": 16227667, 
+      "question_id": "16209667"
     }, 
     {
       "city": "Peoria", 
@@ -294,21 +309,6 @@ opendebate.processTimeline({
       "x": -71.0053, 
       "id": 16227110, 
       "question_id": "16173264"
-    }, 
-    {
-      "city": "Brooklyn", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1775579, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "NY_11", 
-      "created": "2013-08-08T16:18:00", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.5965, 
-      "x": -73.9729, 
-      "id": 16227028, 
-      "question_id": "16172266"
     }
   ]
 });
