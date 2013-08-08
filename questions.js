@@ -21591,14 +21591,14 @@ opendebate.processFetchedQuestions({
       "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "MA_05", 
       "created": "2013-08-03T17:33:11", 
-      "state_votes": 181, 
-      "votes": 1201, 
-      "district_votes": 54, 
+      "state_votes": 182, 
+      "votes": 1202, 
+      "district_votes": 55, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-08T14:35:37", 
+      "latest_vote": "2013-08-08T14:36:05", 
       "id": 16172266
     }, 
     {

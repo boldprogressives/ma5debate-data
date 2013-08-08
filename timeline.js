@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Framingham", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809895, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T14:36:05", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2721, 
+      "x": -71.4248, 
+      "id": 16226417, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "Orleans", 
       "first_name": "Patricia", 
       "last_name": "White", 
@@ -285,21 +300,6 @@ opendebate.processTimeline({
       "x": -70.9082, 
       "id": 16226393, 
       "question_id": "16175493"
-    }, 
-    {
-      "city": "Swampscott", 
-      "first_name": "Ramon", 
-      "last_name": "Feiven", 
-      "user_id": 1668338, 
-      "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
-      "district": "MA_06", 
-      "created": "2013-08-08T14:31:46", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4723, 
-      "x": -70.9082, 
-      "id": 16226392, 
-      "question_id": "16172542"
     }, 
     {
       "city": "Winchester", 
