@@ -2,6 +2,39 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Wilmington", 
+      "first_name": "Eileen", 
+      "last_name": "MacDougall", 
+      "user_id": 1606428, 
+      "submission": "What will you do personally to stop the outflow of jobs for middle and low income Americans?", 
+      "district": "MA_06", 
+      "created": "2013-08-08T16:03:59", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.5598, 
+      "x": -71.17, 
+      "latest_vote": null, 
+      "id": 16226899
+    }, 
+    {
+      "city": "lexington", 
+      "first_name": "Carolyn", 
+      "last_name": "Tiffany", 
+      "user_id": 517663, 
+      "submission": "Why is there not even ONE mention about possibly repealing the \"Patriot Act\", even though that one law has completely obliterated all of our civil rights that were guaranteed in the Constitution??? All USA laws have become invalid, especially for protecting against oppressive governmental organizations, by simply declaring ANYONE an \"Enemy Combatant\" with no real justification for that declaration. The Constitution was specifically created to design precautions against an oppressive government that already had gone too far (Britain). ", 
+      "district": "MA_05", 
+      "created": "2013-08-08T16:03:11", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4484, 
+      "x": -71.2338, 
+      "id": 16226897, 
+      "question_id": "16176201"
+    }, 
+    {
       "city": "Cherry Valley", 
       "first_name": "Ramsay", 
       "last_name": "Macinnes", 
@@ -63,21 +96,6 @@ opendebate.processTimeline({
       "x": -77.0282, 
       "id": 16226888, 
       "question_id": "16200733"
-    }, 
-    {
-      "city": "lexington", 
-      "first_name": "Carolyn", 
-      "last_name": "Tiffany", 
-      "user_id": 517663, 
-      "submission": "What will you do to curb the influence of lobbyist and limit campaign spending.  ", 
-      "district": "MA_05", 
-      "created": "2013-08-08T16:01:21", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4484, 
-      "x": -71.2338, 
-      "id": 16226889, 
-      "question_id": "16201563"
     }, 
     {
       "city": "Village of Nagog Woods", 
@@ -294,21 +312,6 @@ opendebate.processTimeline({
       "x": -71.2338, 
       "id": 16226744, 
       "question_id": "16172765"
-    }, 
-    {
-      "city": "Natick", 
-      "first_name": "John", 
-      "last_name": "Chiros", 
-      "user_id": 1552489, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T15:40:30", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2872, 
-      "x": -71.3523, 
-      "id": 16226743, 
-      "question_id": "16172281"
     }
   ]
 });

@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Wilmington", 
+      "first_name": "Eileen", 
+      "last_name": "MacDougall", 
+      "user_id": 1606428, 
+      "submission": "What will you do personally to stop the outflow of jobs for middle and low income Americans?", 
+      "district": "MA_06", 
+      "created": "2013-08-08T16:03:59", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.5598, 
+      "x": -71.17, 
+      "latest_vote": null, 
+      "id": 16226899
+    }, 
+    {
       "city": "Palos Park", 
       "first_name": "Devin", 
       "last_name": "Ferreira", 
@@ -17073,14 +17091,14 @@ opendebate.processFetchedQuestions({
       "submission": "Why is there not even ONE mention about possibly repealing the \"Patriot Act\", even though that one law has completely obliterated all of our civil rights that were guaranteed in the Constitution??? All USA laws have become invalid, especially for protecting against oppressive governmental organizations, by simply declaring ANYONE an \"Enemy Combatant\" with no real justification for that declaration. The Constitution was specifically created to design precautions against an oppressive government that already had gone too far (Britain). ", 
       "district": "CO_07", 
       "created": "2013-08-05T03:21:23", 
-      "state_votes": 4, 
-      "votes": 53, 
-      "district_votes": 0, 
+      "state_votes": 5, 
+      "votes": 54, 
+      "district_votes": 1, 
       "state": "CO", 
       "iface": "question", 
       "y": 39.9288, 
       "x": -104.946, 
-      "latest_vote": "2013-08-07T23:50:00", 
+      "latest_vote": "2013-08-08T16:03:11", 
       "id": 16176201
     }, 
     {
