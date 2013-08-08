@@ -2,49 +2,79 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "San Marcos", 
-      "first_name": "Beth", 
-      "last_name": "Hawes", 
-      "user_id": 180919, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "TX_21", 
-      "created": "2013-08-08T19:18:57", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 29.8826, 
-      "x": -97.9451, 
-      "id": 16231499, 
-      "question_id": "16172266"
-    }, 
-    {
       "city": "Rochester", 
       "first_name": "Ira", 
       "last_name": "Simel", 
       "user_id": 1095087, 
-      "submission": "In support of the democratic process, would you favor an election law that requires candidates (including incumbents) to participate in debates with their challengers?", 
+      "submission": "What will you do to protect and improve the ACA [Obamacare]And would it be better to just make it Medicare for all, not a new program.", 
       "district": "NY_25", 
-      "created": "2013-08-08T19:18:56", 
+      "created": "2013-08-08T19:19:59", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 43.1519, 
       "x": -77.5935, 
-      "id": 16231497, 
-      "question_id": "16185194"
+      "id": 16231514, 
+      "question_id": "16189362"
+    }, 
+    {
+      "city": "Burley", 
+      "first_name": "Nancy", 
+      "last_name": "Hansen", 
+      "user_id": 1779783, 
+      "submission": "How can we get rid of supreme court judges who lied to get the job,i,e\",I won't legislate from the bench or trash settled law\"? Or judges who do not follow the ethics of the lower courts and sit in on cases their wife have vested and loud interest in. ", 
+      "district": "WA_06", 
+      "created": "2013-08-08T19:19:55", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 47.4123, 
+      "x": -122.63, 
+      "id": 16231513, 
+      "question_id": "16207233"
     }, 
     {
       "city": "Massillon", 
       "first_name": "Tom and Betty", 
       "last_name": "Cliff", 
       "user_id": 1776730, 
-      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
+      "submission": "What will you do to overturn Citizen's United?", 
       "district": "OH_16", 
-      "created": "2013-08-08T19:18:41", 
+      "created": "2013-08-08T19:19:53", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 40.8028, 
       "x": -81.5208, 
-      "id": 16231495, 
-      "question_id": "16203866"
+      "id": 16231512, 
+      "question_id": "16172765"
+    }, 
+    {
+      "city": "San Marcos", 
+      "first_name": "Beth", 
+      "last_name": "Hawes", 
+      "user_id": 180919, 
+      "submission": "Do you support the legalization of marijuana (which should be taxed & regulated like alcohol or tobacco)? If so, would you allow the release of nonviolent offenders from prison?", 
+      "district": "TX_21", 
+      "created": "2013-08-08T19:19:36", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 29.8826, 
+      "x": -97.9451, 
+      "id": 16231507, 
+      "question_id": "16172722"
+    }, 
+    {
+      "city": "Watertown", 
+      "first_name": "Nicholas", 
+      "last_name": "Carter", 
+      "user_id": 1767493, 
+      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T19:19:29", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3713, 
+      "x": -71.1804, 
+      "id": 16231504, 
+      "question_id": "16172207"
     }, 
     {
       "city": "Wright City", 
@@ -120,21 +150,6 @@ opendebate.processTimeline({
       "x": -121.204, 
       "id": 16231453, 
       "question_id": "16172727"
-    }, 
-    {
-      "city": "Burley", 
-      "first_name": "Nancy", 
-      "last_name": "Hansen", 
-      "user_id": 1779783, 
-      "submission": "Where do you stand on trade agreements such as the Trans Pacific Partnership, and the secrecy surrounding it?", 
-      "district": "WA_06", 
-      "created": "2013-08-08T19:16:31", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 47.4123, 
-      "x": -122.63, 
-      "id": 16231442, 
-      "question_id": "16203477"
     }, 
     {
       "city": "Petaluma", 
@@ -285,21 +300,6 @@ opendebate.processTimeline({
       "x": -105.575, 
       "id": 16231273, 
       "question_id": "16172755"
-    }, 
-    {
-      "city": "Mill Valley", 
-      "first_name": "Eric", 
-      "last_name": "Parks", 
-      "user_id": 657931, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
-      "district": "CA_02", 
-      "created": "2013-08-08T19:08:55", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 37.8903, 
-      "x": -122.568, 
-      "id": 16231267, 
-      "question_id": "16172913"
     }
   ]
 });
