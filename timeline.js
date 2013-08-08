@@ -2,19 +2,94 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Parsippany", 
+      "first_name": "alexis", 
+      "last_name": "betancourt", 
+      "user_id": 1730839, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "NJ_11", 
+      "created": "2013-08-08T17:55:58", 
+      "state": "NJ", 
+      "iface": "timeline_vote", 
+      "y": 40.8594, 
+      "x": -74.4134, 
+      "id": 16229067, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Albuquerque", 
+      "first_name": "Kathy", 
+      "last_name": "Barnarr", 
+      "user_id": 1526430, 
+      "submission": "Why is it that Halliburton only gets a $200K fine for destroying evidence concerning the Gulf oil spill when if you make a copy of a DVD you get a $250K fine and up to 5 years in prison?", 
+      "district": "NM_01", 
+      "created": "2013-08-08T17:55:56", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 35.1023, 
+      "x": -106.67, 
+      "id": 16229066, 
+      "question_id": "16175493"
+    }, 
+    {
+      "city": "Los Angeles", 
+      "first_name": "Orinio G", 
+      "last_name": "Opinaldo", 
+      "user_id": 146576, 
+      "submission": "How would you reform the process of drawing congressional districts so that it represents the interests of the people and does not favor any one party?", 
+      "district": "CA_37", 
+      "created": "2013-08-08T17:55:55", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 34.0305, 
+      "x": -118.318, 
+      "id": 16229065, 
+      "question_id": "16201951"
+    }, 
+    {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Do you support the separation of Church and State?", 
+      "submission": "Will you actively support and promote the proposal for a Constitution Amendment protecting the right to vote?  (see freetovote.org)", 
       "district": "MA_04", 
-      "created": "2013-08-08T17:55:01", 
+      "created": "2013-08-08T17:55:54", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16229042, 
-      "question_id": "16178438"
+      "id": 16229064, 
+      "question_id": "16185403"
+    }, 
+    {
+      "city": "Shrewsbury", 
+      "first_name": "Suzanne", 
+      "last_name": "Bedard", 
+      "user_id": 1694469, 
+      "submission": "Congress persons have voted to put themselves in the driver's seat when it comes to their salaries. They vote themselves raises and we as citizens cannot over turn. What will you do to stop this practice?", 
+      "district": "PA_04", 
+      "created": "2013-08-08T17:55:20", 
+      "state": "PA", 
+      "iface": "timeline_vote", 
+      "y": 39.7622, 
+      "x": -76.6785, 
+      "id": 16229053, 
+      "question_id": "16173244"
+    }, 
+    {
+      "city": "Lexington", 
+      "first_name": "John", 
+      "last_name": "Frey", 
+      "user_id": 1079779, 
+      "submission": "Are you willing to work to phase out nuclear power, and what will you do to support the development of renewables?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T17:55:05", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4558, 
+      "x": -71.215, 
+      "id": 16229046, 
+      "question_id": "16199317"
     }, 
     {
       "city": "Upper Black Eddy", 
@@ -47,21 +122,6 @@ opendebate.processTimeline({
       "question_id": "16201979"
     }, 
     {
-      "city": "Los Angeles", 
-      "first_name": "Orinio G", 
-      "last_name": "Opinaldo", 
-      "user_id": 146576, 
-      "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
-      "district": "CA_37", 
-      "created": "2013-08-08T17:54:58", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 34.0305, 
-      "x": -118.318, 
-      "id": 16229040, 
-      "question_id": "16172542"
-    }, 
-    {
       "city": "Oviedo", 
       "first_name": "Sandra", 
       "last_name": "North", 
@@ -75,36 +135,6 @@ opendebate.processTimeline({
       "x": -81.1504, 
       "id": 16229039, 
       "question_id": "16172727"
-    }, 
-    {
-      "city": "Shrewsbury", 
-      "first_name": "Suzanne", 
-      "last_name": "Bedard", 
-      "user_id": 1694469, 
-      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
-      "district": "PA_04", 
-      "created": "2013-08-08T17:54:52", 
-      "state": "PA", 
-      "iface": "timeline_vote", 
-      "y": 39.7622, 
-      "x": -76.6785, 
-      "id": 16229036, 
-      "question_id": "16202059"
-    }, 
-    {
-      "city": "Parsippany", 
-      "first_name": "alexis", 
-      "last_name": "betancourt", 
-      "user_id": 1730839, 
-      "submission": "why are the democrats so afraid to stand up to the republicans..? you stand up to a bully they usually back down.", 
-      "district": "NJ_11", 
-      "created": "2013-08-08T17:54:52", 
-      "state": "NJ", 
-      "iface": "timeline_vote", 
-      "y": 40.8594, 
-      "x": -74.4134, 
-      "id": 16229037, 
-      "question_id": "16172823"
     }, 
     {
       "city": "Billings", 
@@ -154,21 +184,6 @@ opendebate.processTimeline({
       "x": -73.9703, 
       "id": 16229021, 
       "question_id": "16172755"
-    }, 
-    {
-      "city": "Lexington", 
-      "first_name": "John", 
-      "last_name": "Frey", 
-      "user_id": 1079779, 
-      "submission": "A proposal hasbeen made to privitize the water supply.  Where do you stand on this, and what actions do you plan to address the proposal?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T17:53:47", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4558, 
-      "x": -71.215, 
-      "id": 16229015, 
-      "question_id": "16177841"
     }, 
     {
       "city": "Hollywood", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -122.019, 
       "id": 16228921, 
       "question_id": "16173257"
-    }, 
-    {
-      "city": "Gambier", 
-      "first_name": "Gail & Bob", 
-      "last_name": "Lyall", 
-      "user_id": 1698498, 
-      "submission": "Climate change is moving us towards a planet that may not support human life.  Will you make addressing climate change one of your highest priorities?", 
-      "district": "OH_07", 
-      "created": "2013-08-08T17:50:52", 
-      "state": "OH", 
-      "iface": "timeline_vote", 
-      "y": 40.347, 
-      "x": -82.3474, 
-      "id": 16228895, 
-      "question_id": "16175078"
     }
   ]
 });
