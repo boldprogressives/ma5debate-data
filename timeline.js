@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Winchester", 
+      "first_name": "donna", 
+      "last_name": "campbell", 
+      "user_id": 1809890, 
+      "submission": "How do you explain the damaging gridlock in congress and how do you propose to encourage and effect bipartisan cooperation to move on, solve problems and accomplish much needed legislation?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T15:03:47", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4529, 
+      "x": -71.146, 
+      "id": 16226510, 
+      "question_id": "16226347"
+    }, 
+    {
+      "city": "Marblehead", 
+      "first_name": "Viola", 
+      "last_name": "Moran", 
+      "user_id": 1189749, 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "district": "MA_06", 
+      "created": "2013-08-08T15:03:33", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.497, 
+      "x": -70.8661, 
+      "id": 16226509, 
+      "question_id": "16173335"
+    }, 
+    {
+      "city": "Somerville", 
+      "first_name": "Demitri", 
+      "last_name": "Denir", 
+      "user_id": 1668195, 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "district": "MA_07", 
+      "created": "2013-08-08T15:03:18", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3914, 
+      "x": -71.0947, 
+      "id": 16226508, 
+      "question_id": "16173335"
+    }, 
+    {
       "city": "Somerville", 
       "first_name": "Demitri", 
       "last_name": "Denir", 
@@ -258,51 +303,6 @@ opendebate.processTimeline({
       "x": -81.3098, 
       "id": 16226482, 
       "question_id": "16221676"
-    }, 
-    {
-      "city": "Casselberry", 
-      "first_name": "Annmari", 
-      "last_name": "Lundin", 
-      "user_id": 1695695, 
-      "submission": "How quickly would you BAN the use of animals for lab experiments, etc.?", 
-      "district": "FL_07", 
-      "created": "2013-08-08T14:52:04", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 28.6608, 
-      "x": -81.3098, 
-      "id": 16226479, 
-      "question_id": "16172947"
-    }, 
-    {
-      "city": "Casselberry", 
-      "first_name": "Annmari", 
-      "last_name": "Lundin", 
-      "user_id": 1695695, 
-      "submission": "Will you support the ERA and women's rights to make their own health care decisions without government interference, even if it includes abortion?  If not, why not? ", 
-      "district": "FL_07", 
-      "created": "2013-08-08T14:51:34", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 28.6608, 
-      "x": -81.3098, 
-      "id": 16226478, 
-      "question_id": "16176653"
-    }, 
-    {
-      "city": "Casselberry", 
-      "first_name": "Annmari", 
-      "last_name": "Lundin", 
-      "user_id": 1695695, 
-      "submission": "Where do you stand on the issue of gay marriage and furthering LGBT rights?", 
-      "district": "FL_07", 
-      "created": "2013-08-08T14:50:53", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 28.6608, 
-      "x": -81.3098, 
-      "id": 16226476, 
-      "question_id": "16183713"
     }
   ]
 });
