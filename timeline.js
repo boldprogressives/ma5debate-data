@@ -2,6 +2,54 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Natick", 
+      "first_name": "michael young", 
+      "last_name": "", 
+      "user_id": 1778818, 
+      "district": "MA_05", 
+      "created": "2013-08-08T13:03:00", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16225864, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Columbia", 
+      "first_name": "Brian", 
+      "last_name": "Joseph", 
+      "user_id": 1577386, 
+      "district": "MD_03", 
+      "created": "2013-08-08T13:02:57", 
+      "state": "MD", 
+      "iface": "vote", 
+      "id": 16225863, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Natick", 
+      "first_name": "michael young", 
+      "last_name": "", 
+      "user_id": 1778818, 
+      "district": "MA_05", 
+      "created": "2013-08-08T13:02:46", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16225862, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Natick", 
+      "first_name": "michael young", 
+      "last_name": "", 
+      "user_id": 1778818, 
+      "district": "MA_05", 
+      "created": "2013-08-08T13:02:21", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16225859, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Salem", 
       "first_name": "William", 
       "last_name": "Dearstyne", 
@@ -210,54 +258,6 @@ opendebate.processTimeline({
       "iface": "vote", 
       "id": 16225812, 
       "question_id": "16172303"
-    }, 
-    {
-      "city": "Easthampton", 
-      "first_name": "Wojciech", 
-      "last_name": "Rowinski", 
-      "user_id": 155549, 
-      "district": "MA_01", 
-      "created": "2013-08-08T12:32:43", 
-      "state": "MA", 
-      "iface": "vote", 
-      "id": 16225811, 
-      "question_id": "16172207"
-    }, 
-    {
-      "city": "Easthampton", 
-      "first_name": "Wojciech", 
-      "last_name": "Rowinski", 
-      "user_id": 155549, 
-      "district": "MA_01", 
-      "created": "2013-08-08T12:32:39", 
-      "state": "MA", 
-      "iface": "vote", 
-      "id": 16225810, 
-      "question_id": "16173210"
-    }, 
-    {
-      "city": "Easthampton", 
-      "first_name": "Wojciech", 
-      "last_name": "Rowinski", 
-      "user_id": 155549, 
-      "district": "MA_01", 
-      "created": "2013-08-08T12:32:28", 
-      "state": "MA", 
-      "iface": "vote", 
-      "id": 16225809, 
-      "question_id": "16172913"
-    }, 
-    {
-      "city": "Easthampton", 
-      "first_name": "Wojciech", 
-      "last_name": "Rowinski", 
-      "user_id": 155549, 
-      "district": "MA_01", 
-      "created": "2013-08-08T12:32:26", 
-      "state": "MA", 
-      "iface": "vote", 
-      "id": 16225808, 
-      "question_id": "16172533"
     }, 
     {
       "city": "Westfield", 
