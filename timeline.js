@@ -2,34 +2,68 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Rochester", 
+      "first_name": "Ira", 
+      "last_name": "Simel", 
+      "user_id": 1095087, 
+      "submission": "What steps do you intend to take to help prevent discriminatory practices violating the constitutional voting rights of non-white and poor citizens?", 
+      "district": "NY_25", 
+      "created": "2013-08-08T19:06:04", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 43.1519, 
+      "x": -77.5935, 
+      "id": 16231213, 
+      "question_id": "16174163"
+    }, 
+    {
       "city": "Tijeras", 
       "first_name": "Paul", 
       "last_name": "Davis", 
       "user_id": 25702, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
       "district": "NM_01", 
-      "created": "2013-08-08T19:05:00", 
+      "created": "2013-08-08T19:05:55", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 35.0158, 
       "x": -106.28, 
-      "id": 16231201, 
-      "question_id": "16175740"
+      "id": 16231210, 
+      "question_id": "16172913"
     }, 
     {
       "city": "Sebastopol", 
       "first_name": "Richard", 
       "last_name": "Moore", 
       "user_id": 657766, 
-      "submission": "Do you support the labeling of GMOs and if so, what do you intend to do to promote people's right to know what is in their food?", 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
       "district": "CA_02", 
-      "created": "2013-08-08T19:04:59", 
+      "created": "2013-08-08T19:05:55", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 38.4019, 
       "x": -122.852, 
-      "id": 16231200, 
-      "question_id": "16176001"
+      "id": 16231211, 
+      "question_id": "16173259"
+    }, 
+    {
+      "city": "Ankeny", 
+      "first_name": "CHARLES", 
+      "last_name": "MEYER", 
+      "user_id": 1710113, 
+      "submission": "How do you propose that we can get money out of politics so that the voice and needs  of the people speak louder than the corporations and very wealthy?", 
+      "district": "IA_03", 
+      "created": "2013-08-08T19:05:33", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "IA", 
+      "iface": "timeline_question", 
+      "y": 41.7241, 
+      "x": -93.6097, 
+      "latest_vote": null, 
+      "id": 16231207, 
+      "trending_score": 0.5
     }, 
     {
       "city": "Carver", 
@@ -45,21 +79,6 @@ opendebate.processTimeline({
       "x": -70.7675, 
       "id": 16231199, 
       "question_id": "16201423"
-    }, 
-    {
-      "city": "Rochester", 
-      "first_name": "Ira", 
-      "last_name": "Simel", 
-      "user_id": 1095087, 
-      "submission": "Would you eliminate the use of GMO (Genetically Modified Organism) foods. They are detrimental to human health, and hazardous to the environment.", 
-      "district": "NY_25", 
-      "created": "2013-08-08T19:04:43", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 43.1519, 
-      "x": -77.5935, 
-      "id": 16231197, 
-      "question_id": "16193930"
     }, 
     {
       "city": "Watertown", 
@@ -285,21 +304,6 @@ opendebate.processTimeline({
       "x": -111.66, 
       "id": 16231059, 
       "question_id": "16173225"
-    }, 
-    {
-      "city": "Katy", 
-      "first_name": "John", 
-      "last_name": "Ryan", 
-      "user_id": 86045, 
-      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
-      "district": "TX_07", 
-      "created": "2013-08-08T18:57:47", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 29.7683, 
-      "x": -95.7431, 
-      "id": 16231041, 
-      "question_id": "16175634"
     }
   ]
 });
