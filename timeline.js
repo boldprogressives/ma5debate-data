@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Carolyn", 
       "last_name": "Tiffany", 
       "user_id": 517663, 
-      "submission": "What specific steps would you take to combat climate change while in office?", 
+      "submission": "What will you do to address climate change?", 
       "district": "MA_05", 
-      "created": "2013-08-08T16:05:38", 
+      "created": "2013-08-08T16:07:03", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.4484, 
       "x": -71.2338, 
-      "id": 16226917, 
-      "question_id": "16169991"
+      "id": 16226937, 
+      "question_id": "16217358"
+    }, 
+    {
+      "city": "Albuquerque", 
+      "first_name": "Charles", 
+      "last_name": "Shelly", 
+      "user_id": 1057793, 
+      "submission": "How can Manning and Snowden be in trouble and Dick Chaney isn't in trouble for outing Valerie Plame?", 
+      "district": "NM_01", 
+      "created": "2013-08-08T16:06:06", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 35.0723, 
+      "x": -106.578, 
+      "id": 16226928, 
+      "question_id": "16201620"
     }, 
     {
       "city": "Wilmington", 
@@ -48,21 +63,6 @@ opendebate.processTimeline({
       "x": -71.8734, 
       "id": 16226895, 
       "question_id": "16172765"
-    }, 
-    {
-      "city": "Albuquerque", 
-      "first_name": "Charles", 
-      "last_name": "Shelly", 
-      "user_id": 1057793, 
-      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
-      "district": "NM_01", 
-      "created": "2013-08-08T16:02:17", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 35.0723, 
-      "x": -106.578, 
-      "id": 16226892, 
-      "question_id": "16172207"
     }, 
     {
       "city": "Palos Park", 
