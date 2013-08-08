@@ -466,15 +466,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_01", 
       "created": "2013-08-08T16:17:51", 
       "state_votes": 3, 
-      "votes": 6, 
+      "votes": 7, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4555, 
       "x": -73.25, 
-      "latest_vote": "2013-08-08T18:41:45", 
+      "latest_vote": "2013-08-08T18:43:25", 
       "id": 16227025, 
-      "trending_score": 6.5
+      "trending_score": 7.5
     }, 
     {
       "city": "Lexington", 
@@ -731,16 +731,16 @@ opendebate.processFetchedQuestions({
       "submission": "What is your position on construction of the propose KXL pipeline and on global climate change? How would you vote if given the chance?", 
       "district": "MA_05", 
       "created": "2013-08-08T15:24:32", 
-      "state_votes": 2, 
-      "votes": 2, 
-      "district_votes": 0, 
+      "state_votes": 3, 
+      "votes": 3, 
+      "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4558, 
       "x": -71.215, 
-      "latest_vote": "2013-08-08T17:00:23", 
+      "latest_vote": "2013-08-08T18:43:36", 
       "id": 16226585, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Lexington", 
@@ -6820,7 +6820,7 @@ opendebate.processFetchedQuestions({
       "x": -93.1815, 
       "latest_vote": "2013-08-08T17:16:09", 
       "id": 16210738, 
-      "trending_score": 1.5
+      "trending_score": 1.25
     }, 
     {
       "city": "Torrington", 
@@ -8921,15 +8921,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_12", 
       "created": "2013-08-06T19:37:02", 
       "state_votes": 37, 
-      "votes": 322, 
+      "votes": 323, 
       "district_votes": 13, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.7802, 
       "x": -122.459, 
-      "latest_vote": "2013-08-08T18:42:50", 
+      "latest_vote": "2013-08-08T18:43:56", 
       "id": 16202059, 
-      "trending_score": 32.08333333333333
+      "trending_score": 32.41666666666667
     }, 
     {
       "city": "Richfield", 
@@ -9138,7 +9138,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1057, 
       "latest_vote": "2013-08-08T18:36:11", 
       "id": 16201488, 
-      "trending_score": 3.0
+      "trending_score": 4.25
     }, 
     {
       "city": "Pleasant Hill", 
@@ -9423,7 +9423,7 @@ opendebate.processFetchedQuestions({
       "x": -80.1836, 
       "latest_vote": "2013-08-08T18:15:27", 
       "id": 16200703, 
-      "trending_score": 3.0
+      "trending_score": 4.25
     }, 
     {
       "city": "Chesapeake", 
@@ -10354,7 +10354,7 @@ opendebate.processFetchedQuestions({
       "x": -99.327, 
       "latest_vote": "2013-08-08T17:19:42", 
       "id": 16194740, 
-      "trending_score": 1.5
+      "trending_score": 1.25
     }, 
     {
       "city": "Burlington", 
@@ -19237,16 +19237,16 @@ opendebate.processFetchedQuestions({
       "submission": "Would you support replacing \"Obamacare\" with single-payer coverage (Medicare for All)?", 
       "district": "IL_08", 
       "created": "2013-08-05T01:42:38", 
-      "state_votes": 47, 
-      "votes": 187, 
+      "state_votes": 48, 
+      "votes": 188, 
       "district_votes": 15, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.174, 
       "x": -87.9643, 
-      "latest_vote": "2013-08-08T18:38:59", 
+      "latest_vote": "2013-08-08T18:43:11", 
       "id": 16175729, 
-      "trending_score": 22.166666666666668
+      "trending_score": 23.166666666666668
     }, 
     {
       "city": "Tucson", 
@@ -19674,16 +19674,16 @@ opendebate.processFetchedQuestions({
       "submission": "It is time we stop rewarding companies that outsource American jobs.  Would you propose a new tax on these companies, an import tax on products produced by these companies or some other form of incentive to keep jobs in this country?  Please be specific.", 
       "district": "LA_01", 
       "created": "2013-08-04T22:35:27", 
-      "state_votes": 21, 
-      "votes": 143, 
+      "state_votes": 22, 
+      "votes": 144, 
       "district_votes": 7, 
       "state": "LA", 
       "iface": "question", 
       "y": 30.5364, 
       "x": -90.1072, 
-      "latest_vote": "2013-08-08T18:32:18", 
+      "latest_vote": "2013-08-08T18:43:31", 
       "id": 16175276, 
-      "trending_score": 10.833333333333334
+      "trending_score": 11.333333333333334
     }, 
     {
       "city": "Bainbridge Island", 
@@ -19732,15 +19732,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_01", 
       "created": "2013-08-04T22:24:13", 
       "state_votes": 21, 
-      "votes": 154, 
+      "votes": 155, 
       "district_votes": 6, 
       "state": "CO", 
       "iface": "question", 
       "y": 39.7285, 
       "x": -104.954, 
-      "latest_vote": "2013-08-08T18:37:47", 
+      "latest_vote": "2013-08-08T18:43:20", 
       "id": 16175230, 
-      "trending_score": 5.5
+      "trending_score": 6.0
     }, 
     {
       "city": "Seal Rock", 
@@ -20150,15 +20150,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_05", 
       "created": "2013-08-04T20:26:19", 
       "state_votes": 3, 
-      "votes": 54, 
+      "votes": 55, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "question", 
       "y": 44.7306, 
       "x": -123.911, 
-      "latest_vote": "2013-08-08T17:45:00", 
+      "latest_vote": "2013-08-08T18:43:30", 
       "id": 16174618, 
-      "trending_score": 3.5
+      "trending_score": 4.5
     }, 
     {
       "city": "Siletz", 
@@ -21574,16 +21574,16 @@ opendebate.processFetchedQuestions({
       "submission": "Serving in Congress is not a career.  Will you vote for term limits?", 
       "district": "TN_02", 
       "created": "2013-08-04T02:02:46", 
-      "state_votes": 17, 
-      "votes": 144, 
+      "state_votes": 18, 
+      "votes": 146, 
       "district_votes": 2, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.8311, 
       "x": -84.0482, 
-      "latest_vote": "2013-08-08T18:42:59", 
+      "latest_vote": "2013-08-08T18:43:41", 
       "id": 16173323, 
-      "trending_score": 3.5
+      "trending_score": 4.5
     }, 
     {
       "city": "Bensenville", 
@@ -21803,15 +21803,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:22:04", 
       "state_votes": 129, 
-      "votes": 733, 
+      "votes": 734, 
       "district_votes": 34, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-08T18:40:43", 
+      "latest_vote": "2013-08-08T18:43:33", 
       "id": 16173259, 
-      "trending_score": 12.3
+      "trending_score": 12.5
     }, 
     {
       "city": "Manitowoc", 
@@ -23190,15 +23190,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_04", 
       "created": "2013-08-03T22:00:05", 
       "state_votes": 9, 
-      "votes": 120, 
+      "votes": 121, 
       "district_votes": 2, 
       "state": "CO", 
       "iface": "question", 
       "y": 40.1668, 
       "x": -105.135, 
-      "latest_vote": "2013-08-08T18:29:16", 
+      "latest_vote": "2013-08-08T18:43:07", 
       "id": 16172661, 
-      "trending_score": 3.5
+      "trending_score": 4.0
     }, 
     {
       "city": "Albert Lea", 
@@ -23616,7 +23616,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-08T18:41:29", 
       "id": 16172266, 
-      "trending_score": 19.726190476190474
+      "trending_score": 27.1125
     }, 
     {
       "city": "Cambridge", 
