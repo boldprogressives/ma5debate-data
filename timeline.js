@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "villanova", 
+      "first_name": "RALPH", 
+      "last_name": "monteiro", 
+      "user_id": 297734, 
+      "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
+      "district": "PA_07", 
+      "created": "2013-08-08T17:18:57", 
+      "state": "PA", 
+      "iface": "timeline_vote", 
+      "y": 40.0362, 
+      "x": -75.3493, 
+      "id": 16227755, 
+      "question_id": "16175500"
+    }, 
+    {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Reagan outlawed the growth and production of \"Hemp\" during his \"War on Drugs.\" Hemp was used in WWII as alternative fuel. Pesticide free, Herbicide free, drought resistant. Would you bring Hemp back?", 
+      "submission": "Why is the U.S. Congress,year after year,taking funds out of the Social Security fund.This is not legal,yet the U.S. Congress Continues this practice.Why ? Martin Boroian", 
       "district": "MA_04", 
-      "created": "2013-08-08T17:18:01", 
+      "created": "2013-08-08T17:18:47", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227737, 
-      "question_id": "16200337"
+      "id": 16227753, 
+      "question_id": "16201488"
+    }, 
+    {
+      "city": "Northborough", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809956, 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "district": "MA_02", 
+      "created": "2013-08-08T17:18:46", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3161, 
+      "x": -71.6482, 
+      "id": 16227751, 
+      "question_id": "16172755"
     }, 
     {
       "city": "Springfield", 
       "first_name": "", 
       "last_name": "", 
       "user_id": 1809949, 
-      "submission": "How quickly would you say that the Keystone Pipeline must NEVER BE BUILT, since it would be an ecological disaster?", 
+      "submission": "What will you do to ensure that all Americans have access to the voting booth and what will you do to get money out of our elections so that we all have an equal voice?", 
       "district": "MA_01", 
-      "created": "2013-08-08T17:17:59", 
+      "created": "2013-08-08T17:18:46", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.1229, 
       "x": -72.487, 
-      "id": 16227736, 
-      "question_id": "16172941"
-    }, 
-    {
-      "city": "villanova", 
-      "first_name": "RALPH", 
-      "last_name": "monteiro", 
-      "user_id": 297734, 
-      "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
-      "district": "PA_07", 
-      "created": "2013-08-08T17:17:54", 
-      "state": "PA", 
-      "iface": "timeline_vote", 
-      "y": 40.0362, 
-      "x": -75.3493, 
-      "id": 16227735, 
-      "question_id": "16173320"
+      "id": 16227752, 
+      "question_id": "16205834"
     }, 
     {
       "city": "Great Neck", 
@@ -291,21 +306,6 @@ opendebate.processTimeline({
       "x": -71.1134, 
       "id": 16227381, 
       "question_id": "16172913"
-    }, 
-    {
-      "city": "Sterling", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809942, 
-      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
-      "district": "MA_02", 
-      "created": "2013-08-08T16:32:28", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4417, 
-      "x": -71.7746, 
-      "id": 16227263, 
-      "question_id": "16172690"
     }
   ]
 });
