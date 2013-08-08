@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Palo Alto", 
+      "first_name": "Stephen", 
+      "last_name": "Rosenblum", 
+      "user_id": 69837, 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
+      "district": "CA_18", 
+      "created": "2013-08-08T20:28:59", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 37.4399, 
+      "x": -122.152, 
+      "id": 16233216, 
+      "question_id": "16202059"
+    }, 
+    {
       "city": "Cedar City", 
       "first_name": "Patricia", 
       "last_name": "Reed", 
       "user_id": 1566601, 
-      "submission": "Why is it that Halliburton only gets a $200K fine for destroying evidence concerning the Gulf oil spill when if you make a copy of a DVD you get a $250K fine and up to 5 years in prison?", 
+      "submission": "To all Candidates...Will you support Elizabeth Warren's bill to allow college students to borrow under 1% interest of college loans? ", 
       "district": "UT_02", 
-      "created": "2013-08-08T20:28:02", 
+      "created": "2013-08-08T20:28:44", 
       "state": "UT", 
       "iface": "timeline_vote", 
       "y": 37.6621, 
       "x": -113.196, 
-      "id": 16233205, 
-      "question_id": "16175493"
+      "id": 16233213, 
+      "question_id": "16200733"
+    }, 
+    {
+      "city": "Greenfield", 
+      "first_name": "Katherine", 
+      "last_name": "Batsis", 
+      "user_id": 1692590, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "MA_02", 
+      "created": "2013-08-08T20:28:14", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.6029, 
+      "x": -72.5986, 
+      "id": 16233206, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Philo", 
@@ -282,36 +312,6 @@ opendebate.processTimeline({
       "x": -121.352, 
       "id": 16232892, 
       "question_id": "16201979"
-    }, 
-    {
-      "city": "Leasburg", 
-      "first_name": "Larry", 
-      "last_name": "Zingrich", 
-      "user_id": 1655770, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
-      "district": "MO_08", 
-      "created": "2013-08-08T20:06:34", 
-      "state": "MO", 
-      "iface": "timeline_vote", 
-      "y": 38.0629, 
-      "x": -91.198, 
-      "id": 16232884, 
-      "question_id": "16175740"
-    }, 
-    {
-      "city": "Lexington", 
-      "first_name": "Robert", 
-      "last_name": "Sankey", 
-      "user_id": 1073379, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
-      "district": "NE_03", 
-      "created": "2013-08-08T20:03:59", 
-      "state": "NE", 
-      "iface": "timeline_vote", 
-      "y": 40.7812, 
-      "x": -99.7428, 
-      "id": 16232838, 
-      "question_id": "16175740"
     }
   ]
 });
