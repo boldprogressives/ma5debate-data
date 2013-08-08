@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Palos Park", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809916, 
-      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
-      "district": "IL_03", 
-      "created": "2013-08-08T15:45:59", 
-      "state": "IL", 
-      "iface": "timeline_vote", 
-      "y": 41.6716, 
-      "x": -87.8598, 
-      "id": 16226762, 
-      "question_id": "16172727"
-    }, 
-    {
       "city": "lexington", 
       "first_name": "Carolyn", 
       "last_name": "Tiffany", 
       "user_id": 517663, 
-      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
       "district": "MA_05", 
-      "created": "2013-08-08T15:45:44", 
+      "created": "2013-08-08T15:46:33", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.4484, 
       "x": -71.2338, 
-      "id": 16226758, 
-      "question_id": "16172303"
+      "id": 16226764, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Palos Park", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809916, 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "district": "IL_03", 
+      "created": "2013-08-08T15:46:12", 
+      "state": "IL", 
+      "iface": "timeline_vote", 
+      "y": 41.6716, 
+      "x": -87.8598, 
+      "id": 16226763, 
+      "question_id": "16172755"
     }, 
     {
       "city": "Uxbridge", 
