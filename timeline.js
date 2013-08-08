@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Boston", 
+      "first_name": "Lucy", 
+      "last_name": "Haskins", 
+      "user_id": 1680366, 
+      "submission": "Outlaw the use of \"Private Defense Contractors\". They a nothing more than mercenaries, and as such, are not beholden to the laws and restraints that keep the public safe from official law enforcement.", 
+      "district": "MA_08", 
+      "created": "2013-08-08T16:47:01", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3606, 
+      "x": -71.0654, 
+      "id": 16227473, 
+      "question_id": "16194273"
+    }, 
+    {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "where is the accountability? we are lied into war, our lawmakers are obviously involved in insider trading on Wall Street ,the average American is working two jobs to barely survive ,while presidents and CEOs in corporate America make more than they ever have any history of man ,yet God forbid if you're walking down the street with a rock of crack cocaine in your pocket you go directly to jail what's up with that? ", 
+      "submission": "do you support a min wage increase", 
       "district": "MA_04", 
-      "created": "2013-08-08T16:45:57", 
+      "created": "2013-08-08T16:46:44", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227463, 
-      "question_id": "16172661"
+      "id": 16227472, 
+      "question_id": "16173625"
     }, 
     {
       "city": "Leominster", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -71.7535, 
       "id": 16227462, 
       "question_id": "16172207"
-    }, 
-    {
-      "city": "Boston", 
-      "first_name": "Lucy", 
-      "last_name": "Haskins", 
-      "user_id": 1680366, 
-      "submission": "How can we have a sustainable economy where no relief goes to the middle class nor to the very poor?", 
-      "district": "MA_08", 
-      "created": "2013-08-08T16:45:19", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3606, 
-      "x": -71.0654, 
-      "id": 16227458, 
-      "question_id": "16204677"
     }, 
     {
       "city": "Arlington Heights", 
