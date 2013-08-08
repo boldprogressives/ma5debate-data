@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Tuscola", 
+      "first_name": "Ken", 
+      "last_name": "Conrad", 
+      "user_id": 392287, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "TX_19", 
+      "created": "2013-08-08T17:30:00", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 32.2, 
+      "x": -99.9111, 
+      "id": 16227879, 
+      "question_id": "16173264"
+    }, 
+    {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Where do you stand with regard to GMO labeling. Is it our right as citizens to have complete transparency with regard to the foods we choose to eat. ", 
+      "submission": "Would you support the pardoning of all victimless crime marijuana (Cannabis) offenders? Depopulating our For Profit Prisons?", 
       "district": "MA_04", 
-      "created": "2013-08-08T17:29:01", 
+      "created": "2013-08-08T17:29:58", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227868, 
-      "question_id": "16178048"
+      "id": 16227878, 
+      "question_id": "16208291"
     }, 
     {
       "city": "Springfield", 
       "first_name": "", 
       "last_name": "", 
       "user_id": 1809949, 
-      "submission": "What is your plan to reduce human population growth?", 
+      "submission": "What will you do to ensure gun control legislation is passed.", 
       "district": "MA_01", 
-      "created": "2013-08-08T17:28:01", 
+      "created": "2013-08-08T17:29:54", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.1229, 
       "x": -72.487, 
-      "id": 16227860, 
-      "question_id": "16188211"
+      "id": 16227877, 
+      "question_id": "16213459"
     }, 
     {
       "city": "Ann Arbor", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -71.7535, 
       "id": 16227502, 
       "question_id": "16172722"
-    }, 
-    {
-      "city": "Worcester", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809735, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "MA_02", 
-      "created": "2013-08-08T16:50:13", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2862, 
-      "x": -71.7959, 
-      "id": 16227498, 
-      "question_id": "16172777"
     }
   ]
 });
