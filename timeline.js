@@ -2,34 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Portland", 
+      "first_name": "Dave", 
+      "last_name": "Dunkak", 
+      "user_id": 196310, 
+      "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
+      "district": "OR_03", 
+      "created": "2013-08-08T20:22:59", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 45.4826, 
+      "x": -122.637, 
+      "id": 16233120, 
+      "question_id": "16173320"
+    }, 
+    {
       "city": "Livermore", 
       "first_name": "Edward", 
       "last_name": "Kansa", 
       "user_id": 1777190, 
-      "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
+      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
       "district": "CA_15", 
-      "created": "2013-08-08T20:21:57", 
+      "created": "2013-08-08T20:22:56", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 37.6814, 
       "x": -121.753, 
-      "id": 16233096, 
-      "question_id": "16173320"
+      "id": 16233119, 
+      "question_id": "16172697"
+    }, 
+    {
+      "city": "Belmont", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810041, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "MA_05", 
+      "created": "2013-08-08T20:22:49", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3942, 
+      "x": -71.1802, 
+      "id": 16233115, 
+      "question_id": "16172777"
     }, 
     {
       "city": "Lexington", 
       "first_name": "Joanne", 
       "last_name": "Roberts", 
       "user_id": 1762068, 
-      "submission": "Will you do anything about employers who are cutting full time employees to part time,in order to avoid offering healthcare? If not, will you expand Medicaid to include those people?", 
+      "submission": "What can be we do as citizens to change  the Supreme Court Justices lifetime jobs to specific term limits?", 
       "district": "KY_06", 
-      "created": "2013-08-08T20:21:22", 
+      "created": "2013-08-08T20:22:17", 
       "state": "KY", 
       "iface": "timeline_vote", 
       "y": 38.0632, 
       "x": -84.4495, 
-      "id": 16233090, 
-      "question_id": "16210777"
+      "id": 16233102, 
+      "question_id": "16192922"
     }, 
     {
       "city": "Ann Arbor", 
@@ -278,36 +308,6 @@ opendebate.processTimeline({
       "x": -118.428, 
       "id": 16232787, 
       "question_id": "16172533"
-    }, 
-    {
-      "city": "Lock Haven", 
-      "first_name": "john", 
-      "last_name": "wallen", 
-      "user_id": 635773, 
-      "submission": "Why have so few Wall Street CEOs been indicted for their part in the 2007 Economic Crash ?  Who has been protecting them ?", 
-      "district": "PA_05", 
-      "created": "2013-08-08T20:00:56", 
-      "state": "PA", 
-      "iface": "timeline_vote", 
-      "y": 41.1347, 
-      "x": -77.4497, 
-      "id": 16232783, 
-      "question_id": "16205046"
-    }, 
-    {
-      "city": "Scotts Hill", 
-      "first_name": "william", 
-      "last_name": "hulley", 
-      "user_id": 937047, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "TN_07", 
-      "created": "2013-08-08T19:59:09", 
-      "state": "TN", 
-      "iface": "timeline_vote", 
-      "y": 35.5043, 
-      "x": -88.2368, 
-      "id": 16232723, 
-      "question_id": "16172777"
     }
   ]
 });
