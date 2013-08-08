@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Melrose", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809214, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T20:33:59", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.46, 
-      "x": -71.0589, 
-      "id": 16233280, 
-      "question_id": "16172281"
-    }, 
-    {
       "city": "Olympia", 
       "first_name": "Bev", 
       "last_name": "Bassett", 
       "user_id": 1773668, 
-      "submission": "What are you going to do to regulate banks and stock exchange speculations?", 
+      "submission": "Do you support the labeling of GMOs and if so, what do you intend to do to promote people's right to know what is in their food?", 
       "district": "WA_10", 
-      "created": "2013-08-08T20:33:56", 
+      "created": "2013-08-08T20:34:56", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 47.1038, 
       "x": -122.868, 
-      "id": 16233278, 
-      "question_id": "16172283"
+      "id": 16233295, 
+      "question_id": "16176001"
+    }, 
+    {
+      "city": "Melrose", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809214, 
+      "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T20:34:44", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.46, 
+      "x": -71.0589, 
+      "id": 16233293, 
+      "question_id": "16172542"
+    }, 
+    {
+      "city": "Boulder City", 
+      "first_name": "Albert", 
+      "last_name": "Savage", 
+      "user_id": 234102, 
+      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
+      "district": "NV_03", 
+      "created": "2013-08-08T20:34:31", 
+      "state": "NV", 
+      "iface": "timeline_vote", 
+      "y": 35.9778, 
+      "x": -114.836, 
+      "id": 16233288, 
+      "question_id": "16175740"
     }, 
     {
       "city": "Palo Alto", 
       "first_name": "Stephen", 
       "last_name": "Rosenblum", 
       "user_id": 69837, 
-      "submission": "The sequester just slashed Meals on Wheels, food stamps, Section 8 vouchers for housing for the needy.  Since we all have to \"tighten our belts\" how come Congress gets a pay RAISE this year?", 
+      "submission": "Do you consider whistleblower Americans Bradley Manning & Edward Snowden heros or villians? Why? ", 
       "district": "CA_18", 
-      "created": "2013-08-08T20:33:56", 
+      "created": "2013-08-08T20:34:16", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 37.4399, 
       "x": -122.152, 
-      "id": 16233279, 
-      "question_id": "16209412"
+      "id": 16233286, 
+      "question_id": "16174044"
     }, 
     {
       "city": "Hull", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16233077, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Sparta", 
-      "first_name": "Michael@Carolyn", 
-      "last_name": "Larsen", 
-      "user_id": 1051391, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
-      "district": "MO_07", 
-      "created": "2013-08-08T20:18:39", 
-      "state": "MO", 
-      "iface": "timeline_vote", 
-      "y": 36.9647, 
-      "x": -93.1272, 
-      "id": 16233075, 
-      "question_id": "16175740"
     }
   ]
 });
