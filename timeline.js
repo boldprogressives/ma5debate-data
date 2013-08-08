@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Investments in early childhood have been found by economists to have a 7 to 1 return on investment. Would you introduce legislation for programs such as newborn home visiting, parenting education and support, and high quality available and affordable early childhood education?", 
+      "submission": "when is congress going to make foods containing GMO'S be labeled. so we can choose what we are eating. & how many times  are they going to let MONSANTO keep killing us. ", 
       "district": "MA_04", 
-      "created": "2013-08-08T17:13:52", 
+      "created": "2013-08-08T17:15:02", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227690, 
-      "question_id": "16172296"
+      "id": 16227696, 
+      "question_id": "16203965"
     }, 
     {
       "city": "Hardin", 
       "first_name": "sj", 
       "last_name": "DeClue", 
       "user_id": 1655849, 
-      "submission": "ALEC is taking over state legislation in republican states.  Will you keep constituents informed as to members of ALEC in the state governments?", 
+      "submission": "How will you support the dignity and freedom of women to make medical decisions with their health care providers without interference of federal and state laws?", 
       "district": "KY_01", 
-      "created": "2013-08-08T17:13:19", 
+      "created": "2013-08-08T17:14:22", 
       "state": "KY", 
       "iface": "timeline_vote", 
       "y": 36.7811, 
       "x": -88.2527, 
-      "id": 16227688, 
-      "question_id": "16173111"
+      "id": 16227692, 
+      "question_id": "16183415"
     }, 
     {
       "city": "Peoria", 
