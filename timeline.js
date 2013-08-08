@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Do you agree that accepting money from corporate interests with an economic stake in how Congressmen vote, and then voting on matters that affect them, is pernicious and close to bribery?  If not, why not?  ", 
+      "district": "MA_04", 
+      "created": "2013-08-08T17:02:56", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16227589, 
+      "question_id": "16176481"
+    }, 
+    {
+      "city": "Springfield", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809949, 
+      "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
+      "district": "MA_01", 
+      "created": "2013-08-08T17:02:51", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.1229, 
+      "x": -72.487, 
+      "id": 16227587, 
+      "question_id": "16172542"
+    }, 
+    {
       "city": "lexington", 
       "first_name": "Carolyn", 
       "last_name": "Tiffany", 
@@ -15,36 +45,6 @@ opendebate.processTimeline({
       "x": -71.2338, 
       "id": 16227581, 
       "question_id": "16226961"
-    }, 
-    {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "Are you willing to fight for womens rights to determine their own healthcare?  Or do you think that \"you\" know what is best for every woman? Healthcare is not a religious  decision, it is a health decision to be made by woman of all faiths.", 
-      "district": "MA_04", 
-      "created": "2013-08-08T17:02:00", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16227580, 
-      "question_id": "16199305"
-    }, 
-    {
-      "city": "Springfield", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809949, 
-      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
-      "district": "MA_01", 
-      "created": "2013-08-08T17:01:57", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.1229, 
-      "x": -72.487, 
-      "id": 16227579, 
-      "question_id": "16172690"
     }, 
     {
       "city": "Somerville", 
