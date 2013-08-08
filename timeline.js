@@ -6,6 +6,21 @@ opendebate.processTimeline({
       "first_name": "Eva", 
       "last_name": "Cutler", 
       "user_id": 1809430, 
+      "submission": "Why does Congress get a fat retirement and the rest of America gets a 401K?", 
+      "district": "FL_23", 
+      "created": "2013-08-08T13:33:23", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 25.9781, 
+      "x": -80.3302, 
+      "id": 16226059, 
+      "question_id": "16173327"
+    }, 
+    {
+      "city": "Hollywood", 
+      "first_name": "Eva", 
+      "last_name": "Cutler", 
+      "user_id": 1809430, 
       "submission": "Can our Postal Service be saved from the death blow Congress dealt it in 2006?", 
       "district": "FL_23", 
       "created": "2013-08-08T13:32:53", 
@@ -285,21 +300,6 @@ opendebate.processTimeline({
       "x": -80.3302, 
       "id": 16226031, 
       "question_id": "16172542"
-    }, 
-    {
-      "city": "Hardin", 
-      "first_name": "sj", 
-      "last_name": "DeClue", 
-      "user_id": 1655849, 
-      "submission": "What will you do to ensure anyone that works full time has a living wage with benefits?", 
-      "district": "KY_01", 
-      "created": "2013-08-08T13:27:02", 
-      "state": "KY", 
-      "iface": "timeline_vote", 
-      "y": 36.7811, 
-      "x": -88.2527, 
-      "id": 16226030, 
-      "question_id": "16175636"
     }, 
     {
       "city": "West Islip", 
