@@ -6991,7 +6991,7 @@ opendebate.processFetchedQuestions({
       "x": -79.9232, 
       "latest_vote": "2013-08-08T18:25:12", 
       "id": 16209148, 
-      "trending_score": 4.5
+      "trending_score": 7.25
     }, 
     {
       "city": "Litchfield", 
@@ -7295,7 +7295,7 @@ opendebate.processFetchedQuestions({
       "x": -80.1568, 
       "latest_vote": "2013-08-08T18:15:48", 
       "id": 16207977, 
-      "trending_score": 3.0
+      "trending_score": 4.25
     }, 
     {
       "city": "Pompano Beach", 
@@ -7970,16 +7970,16 @@ opendebate.processFetchedQuestions({
       "submission": "Art 3 Sec 2 of the Constitution gives Congress the power to regulate the Supreme Court \r\n\r\nand to make exceptions to the Court's jurisdiction.\r\n\r\nArt I Sec 4 of the Constitution gives Congress the power write election law and to regulate \r\n\r\nthe elections for Senators and Representatives.\r\n\r\nArt I Sec 5 of the Constitution gives each House of Congress the power to be the sole \r\n\r\njudge of the elections of it's own members.\r\n\r\nCitizens United vs FEC notwithstanding, are you willing to put forth comprehensive \r\n\r\nlegislation to get big money out of politics, and to use the existing (Art 3 Sec 2) \r\n\r\njurisdiction-stripping power to prevent judicial interference with that legislation?", 
       "district": "CA_30", 
       "created": "2013-08-06T21:17:33", 
-      "state_votes": 3, 
-      "votes": 21, 
+      "state_votes": 4, 
+      "votes": 22, 
       "district_votes": 1, 
       "state": "CA", 
       "iface": "question", 
       "y": 34.2798, 
       "x": -118.5, 
-      "latest_vote": "2013-08-08T00:50:46", 
+      "latest_vote": "2013-08-08T18:36:40", 
       "id": 16205787, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Oakland", 
@@ -9035,15 +9035,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_06", 
       "created": "2013-08-06T19:25:37", 
       "state_votes": 7, 
-      "votes": 51, 
+      "votes": 52, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.6862, 
       "x": -71.1057, 
-      "latest_vote": "2013-08-08T18:15:33", 
+      "latest_vote": "2013-08-08T18:36:11", 
       "id": 16201488, 
-      "trending_score": 2.5
+      "trending_score": 3.0
     }, 
     {
       "city": "Pleasant Hill", 
@@ -9605,15 +9605,15 @@ opendebate.processFetchedQuestions({
       "district": "PA_07", 
       "created": "2013-08-06T18:46:11", 
       "state_votes": 7, 
-      "votes": 58, 
+      "votes": 59, 
       "district_votes": 0, 
       "state": "PA", 
       "iface": "question", 
       "y": 39.8687, 
       "x": -75.3857, 
-      "latest_vote": "2013-08-08T18:21:48", 
+      "latest_vote": "2013-08-08T18:36:43", 
       "id": 16199756, 
-      "trending_score": 6.5
+      "trending_score": 7.5
     }, 
     {
       "city": "Elizabethtown", 
@@ -9765,7 +9765,7 @@ opendebate.processFetchedQuestions({
       "x": -82.6341, 
       "latest_vote": "2013-08-08T18:32:55", 
       "id": 16199305, 
-      "trending_score": 5.0
+      "trending_score": 8.25
     }, 
     {
       "city": "Columbus", 
@@ -15818,15 +15818,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_45", 
       "created": "2013-08-06T11:54:48", 
       "state_votes": 5, 
-      "votes": 39, 
+      "votes": 40, 
       "district_votes": 2, 
       "state": "CA", 
       "iface": "question", 
       "y": 33.6245, 
       "x": -117.794, 
-      "latest_vote": "2013-08-08T17:53:06", 
+      "latest_vote": "2013-08-08T18:36:40", 
       "id": 16180953, 
-      "trending_score": 3.5
+      "trending_score": 4.5
     }, 
     {
       "city": "Rowe", 
@@ -17243,15 +17243,15 @@ opendebate.processFetchedQuestions({
       "district": "AZ_06", 
       "created": "2013-08-05T17:03:13", 
       "state_votes": 2, 
-      "votes": 40, 
+      "votes": 41, 
       "district_votes": 1, 
       "state": "AZ", 
       "iface": "question", 
       "y": 33.6275, 
       "x": -112.052, 
-      "latest_vote": "2013-08-08T17:51:39", 
+      "latest_vote": "2013-08-08T18:36:20", 
       "id": 16178048, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Rathdrum", 
@@ -17319,15 +17319,15 @@ opendebate.processFetchedQuestions({
       "district": "WI_01", 
       "created": "2013-08-05T16:32:35", 
       "state_votes": 3, 
-      "votes": 39, 
+      "votes": 40, 
       "district_votes": 1, 
       "state": "WI", 
       "iface": "question", 
       "y": 42.5733, 
       "x": -87.8804, 
-      "latest_vote": "2013-08-08T17:53:30", 
+      "latest_vote": "2013-08-08T18:36:50", 
       "id": 16177973, 
-      "trending_score": 3.5
+      "trending_score": 4.5
     }, 
     {
       "city": "Tucson", 
@@ -17338,15 +17338,15 @@ opendebate.processFetchedQuestions({
       "district": "AZ_02", 
       "created": "2013-08-05T16:24:48", 
       "state_votes": 9, 
-      "votes": 84, 
+      "votes": 85, 
       "district_votes": 3, 
       "state": "AZ", 
       "iface": "question", 
       "y": 32.3574, 
       "x": -111.045, 
-      "latest_vote": "2013-08-08T18:18:08", 
+      "latest_vote": "2013-08-08T18:36:19", 
       "id": 16177944, 
-      "trending_score": 7.5
+      "trending_score": 8.5
     }, 
     {
       "city": "Albuquerque", 
@@ -17737,15 +17737,15 @@ opendebate.processFetchedQuestions({
       "district": "SD_01", 
       "created": "2013-08-05T08:33:08", 
       "state_votes": 14, 
-      "votes": 103, 
+      "votes": 104, 
       "district_votes": 3, 
       "state": "SD", 
       "iface": "question", 
       "y": 43.517, 
       "x": -96.7896, 
-      "latest_vote": "2013-08-08T18:25:29", 
+      "latest_vote": "2013-08-08T18:36:26", 
       "id": 16176855, 
-      "trending_score": 7.5
+      "trending_score": 8.0
     }, 
     {
       "city": "Kula", 
@@ -19417,7 +19417,7 @@ opendebate.processFetchedQuestions({
       "x": -81.5334, 
       "latest_vote": "2013-08-08T18:34:24", 
       "id": 16175500, 
-      "trending_score": 57.25
+      "trending_score": 28.5
     }, 
     {
       "city": "Seattle", 
@@ -20681,16 +20681,16 @@ opendebate.processFetchedQuestions({
       "submission": "What would you do to stop the unbridled takeover of American resources by Corporate America.", 
       "district": "IA_01", 
       "created": "2013-08-04T15:47:40", 
-      "state_votes": 38, 
-      "votes": 231, 
+      "state_votes": 39, 
+      "votes": 232, 
       "district_votes": 8, 
       "state": "IA", 
       "iface": "question", 
       "y": 41.9794, 
       "x": -91.7189, 
-      "latest_vote": "2013-08-08T18:28:43", 
+      "latest_vote": "2013-08-08T18:36:38", 
       "id": 16174109, 
-      "trending_score": 36.166666666666664
+      "trending_score": 18.333333333333332
     }, 
     {
       "city": "Baraboo", 
@@ -20728,7 +20728,7 @@ opendebate.processFetchedQuestions({
       "x": -123.884, 
       "latest_vote": "2013-08-08T18:35:47", 
       "id": 16174072, 
-      "trending_score": 56.5
+      "trending_score": 28.5
     }, 
     {
       "city": "Cape Girardeau", 
@@ -21688,16 +21688,16 @@ opendebate.processFetchedQuestions({
       "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
       "district": "TX_03", 
       "created": "2013-08-04T01:25:59", 
-      "state_votes": 206, 
-      "votes": 1319, 
+      "state_votes": 207, 
+      "votes": 1320, 
       "district_votes": 65, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-08T18:31:09", 
+      "latest_vote": "2013-08-08T18:36:49", 
       "id": 16173264, 
-      "trending_score": 17.928571428571427
+      "trending_score": 18.071428571428573
     }, 
     {
       "city": "Prosper", 
@@ -21773,7 +21773,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-08T18:35:16", 
       "id": 16173244, 
-      "trending_score": 30.0
+      "trending_score": 20.083333333333332
     }, 
     {
       "city": "Saint Peters", 
@@ -21821,16 +21821,16 @@ opendebate.processFetchedQuestions({
       "submission": "Why  is social security only funded by the lowest earners in the country.", 
       "district": "WA_02", 
       "created": "2013-08-04T01:08:19", 
-      "state_votes": 35, 
-      "votes": 231, 
+      "state_votes": 36, 
+      "votes": 232, 
       "district_votes": 8, 
       "state": "WA", 
       "iface": "question", 
       "y": 48.4989, 
       "x": -122.607, 
-      "latest_vote": "2013-08-08T18:31:27", 
+      "latest_vote": "2013-08-08T18:37:02", 
       "id": 16173225, 
-      "trending_score": 25.0
+      "trending_score": 25.5
     }, 
     {
       "city": "Saint Peters", 
@@ -22676,16 +22676,16 @@ opendebate.processFetchedQuestions({
       "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
-      "state_votes": 240, 
-      "votes": 1653, 
+      "state_votes": 241, 
+      "votes": 1654, 
       "district_votes": 68, 
       "state": "MT", 
       "iface": "question", 
       "y": 46.6453, 
       "x": -111.974, 
-      "latest_vote": "2013-08-08T18:31:02", 
+      "latest_vote": "2013-08-08T18:36:41", 
       "id": 16172777, 
-      "trending_score": 19.095238095238095
+      "trending_score": 19.26190476190476
     }, 
     {
       "city": "Gladstone", 
@@ -22696,15 +22696,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_05", 
       "created": "2013-08-03T22:30:45", 
       "state_votes": 81, 
-      "votes": 534, 
+      "votes": 535, 
       "district_votes": 19, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.3898, 
       "x": -122.589, 
-      "latest_vote": "2013-08-08T18:31:58", 
+      "latest_vote": "2013-08-08T18:36:19", 
       "id": 16172765, 
-      "trending_score": 36.25
+      "trending_score": 36.75
     }, 
     {
       "city": "Egg Harbor", 
@@ -22733,16 +22733,16 @@ opendebate.processFetchedQuestions({
       "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
       "district": "IL_02", 
       "created": "2013-08-03T22:27:03", 
-      "state_votes": 163, 
-      "votes": 998, 
+      "state_votes": 164, 
+      "votes": 999, 
       "district_votes": 44, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.6267, 
       "x": -87.5959, 
-      "latest_vote": "2013-08-08T18:34:15", 
+      "latest_vote": "2013-08-08T18:37:01", 
       "id": 16172755, 
-      "trending_score": 36.708333333333336
+      "trending_score": 37.041666666666664
     }, 
     {
       "city": "Richardson", 
@@ -22790,16 +22790,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
       "district": "WA_06", 
       "created": "2013-08-03T22:21:20", 
-      "state_votes": 94, 
-      "votes": 653, 
+      "state_votes": 95, 
+      "votes": 654, 
       "district_votes": 21, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.5746, 
       "x": -122.811, 
-      "latest_vote": "2013-08-08T18:32:38", 
+      "latest_vote": "2013-08-08T18:36:08", 
       "id": 16172731, 
-      "trending_score": 7.225
+      "trending_score": 7.425
     }, 
     {
       "city": "Chicago", 
@@ -22818,7 +22818,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5544, 
       "latest_vote": "2013-08-08T18:32:14", 
       "id": 16172727, 
-      "trending_score": 29.0
+      "trending_score": 23.225
     }, 
     {
       "city": "Waldport", 
@@ -22943,15 +22943,15 @@ opendebate.processFetchedQuestions({
       "district": "MO_03", 
       "created": "2013-08-03T22:10:40", 
       "state_votes": 3, 
-      "votes": 40, 
+      "votes": 41, 
       "district_votes": 2, 
       "state": "MO", 
       "iface": "question", 
       "y": 38.6391, 
       "x": -92.1163, 
-      "latest_vote": "2013-08-08T17:52:11", 
+      "latest_vote": "2013-08-08T18:36:33", 
       "id": 16172696, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Marana", 
@@ -23141,7 +23141,7 @@ opendebate.processFetchedQuestions({
       "x": -87.7386, 
       "latest_vote": "2013-08-08T18:33:52", 
       "id": 16172648, 
-      "trending_score": 37.25
+      "trending_score": 18.5
     }, 
     {
       "city": "Great Neck", 
@@ -23189,16 +23189,16 @@ opendebate.processFetchedQuestions({
       "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
       "district": "MA_05", 
       "created": "2013-08-03T21:18:50", 
-      "state_votes": 37, 
-      "votes": 242, 
+      "state_votes": 38, 
+      "votes": 243, 
       "district_votes": 8, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-08T18:30:46", 
+      "latest_vote": "2013-08-08T18:36:27", 
       "id": 16172583, 
-      "trending_score": 34.25
+      "trending_score": 17.5
     }, 
     {
       "city": "ARLINGTON", 
@@ -23445,7 +23445,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1035, 
       "latest_vote": "2013-08-08T18:29:26", 
       "id": 16172283, 
-      "trending_score": 47.5
+      "trending_score": 24.0
     }, 
     {
       "city": "Waltham", 
