@@ -2,6 +2,44 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "El Segundo", 
+      "first_name": "Annie", 
+      "last_name": "Kinney", 
+      "user_id": 299391, 
+      "submission": "Will you work to end all wars abroad and what efforts will you make to repair relations with other citizens of the world?", 
+      "district": "CA_33", 
+      "created": "2013-08-08T18:41:52", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "CA", 
+      "iface": "question", 
+      "y": 33.9238, 
+      "x": -118.406, 
+      "latest_vote": null, 
+      "id": 16230751, 
+      "trending_score": 0.5
+    }, 
+    {
+      "city": "Battle Ground", 
+      "first_name": "Ken", 
+      "last_name": "Hunt", 
+      "user_id": 1807927, 
+      "submission": "Do you believe the open debate format where the voters submit and vote for which questions should be asked is a good format?", 
+      "district": "WA_03", 
+      "created": "2013-08-08T18:41:34", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WA", 
+      "iface": "question", 
+      "y": 45.795, 
+      "x": -122.52, 
+      "latest_vote": null, 
+      "id": 16230745, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Cambridge", 
       "first_name": "Cynthia", 
       "last_name": "Tschampl", 
@@ -390,15 +428,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_01", 
       "created": "2013-08-08T16:17:51", 
       "state_votes": 3, 
-      "votes": 5, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4555, 
       "x": -73.25, 
-      "latest_vote": "2013-08-08T18:27:29", 
+      "latest_vote": "2013-08-08T18:41:45", 
       "id": 16227025, 
-      "trending_score": 5.5
+      "trending_score": 6.5
     }, 
     {
       "city": "Lexington", 
@@ -466,15 +504,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-08T16:12:07", 
       "state_votes": 3, 
-      "votes": 4, 
+      "votes": 5, 
       "district_votes": 2, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4558, 
       "x": -71.215, 
-      "latest_vote": "2013-08-08T18:15:06", 
+      "latest_vote": "2013-08-08T18:41:30", 
       "id": 16226969, 
-      "trending_score": 4.5
+      "trending_score": 5.5
     }, 
     {
       "city": "Lexington", 
@@ -7580,7 +7618,7 @@ opendebate.processFetchedQuestions({
       "x": -82.5584, 
       "latest_vote": "2013-08-08T18:18:07", 
       "id": 16207073, 
-      "trending_score": 3.5
+      "trending_score": 5.25
     }, 
     {
       "city": "Hollywood", 
@@ -7610,15 +7648,15 @@ opendebate.processFetchedQuestions({
       "district": "ME_01", 
       "created": "2013-08-06T21:56:32", 
       "state_votes": 24, 
-      "votes": 76, 
+      "votes": 77, 
       "district_votes": 6, 
       "state": "ME", 
       "iface": "question", 
       "y": 43.664, 
       "x": -70.2918, 
-      "latest_vote": "2013-08-08T18:21:28", 
+      "latest_vote": "2013-08-08T18:41:34", 
       "id": 16206983, 
-      "trending_score": 5.5
+      "trending_score": 6.5
     }, 
     {
       "city": "San Francisco", 
@@ -7713,7 +7751,7 @@ opendebate.processFetchedQuestions({
       "x": -80.5392, 
       "latest_vote": "2013-08-08T18:24:31", 
       "id": 16206470, 
-      "trending_score": 18.5
+      "trending_score": 9.5
     }, 
     {
       "city": "Kerrville", 
@@ -7952,15 +7990,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_02", 
       "created": "2013-08-06T21:20:24", 
       "state_votes": 14, 
-      "votes": 73, 
+      "votes": 74, 
       "district_votes": 3, 
       "state": "CA", 
       "iface": "question", 
       "y": 40.8726, 
       "x": -124.071, 
-      "latest_vote": "2013-08-08T18:38:47", 
+      "latest_vote": "2013-08-08T18:41:36", 
       "id": 16205834, 
-      "trending_score": 7.5
+      "trending_score": 8.5
     }, 
     {
       "city": "Addison", 
@@ -8606,7 +8644,7 @@ opendebate.processFetchedQuestions({
       "x": -72.6301, 
       "latest_vote": "2013-08-08T18:33:22", 
       "id": 16203676, 
-      "trending_score": 42.5
+      "trending_score": 21.5
     }, 
     {
       "city": "Gloucester", 
@@ -8844,16 +8882,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
       "district": "CA_12", 
       "created": "2013-08-06T19:37:02", 
-      "state_votes": 35, 
-      "votes": 320, 
+      "state_votes": 36, 
+      "votes": 321, 
       "district_votes": 13, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.7802, 
       "x": -122.459, 
-      "latest_vote": "2013-08-08T18:39:00", 
+      "latest_vote": "2013-08-08T18:41:33", 
       "id": 16202059, 
-      "trending_score": 47.0
+      "trending_score": 31.75
     }, 
     {
       "city": "Richfield", 
@@ -8872,7 +8910,7 @@ opendebate.processFetchedQuestions({
       "x": -93.2868, 
       "latest_vote": "2013-08-08T18:30:19", 
       "id": 16201979, 
-      "trending_score": 16.5
+      "trending_score": 8.5
     }, 
     {
       "city": "Ashland", 
@@ -8948,7 +8986,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7452, 
       "latest_vote": "2013-08-08T18:32:26", 
       "id": 16201620, 
-      "trending_score": 14.0
+      "trending_score": 9.416666666666666
     }, 
     {
       "city": "Cambridge", 
@@ -9016,15 +9054,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_11", 
       "created": "2013-08-06T19:27:17", 
       "state_votes": 10, 
-      "votes": 67, 
+      "votes": 68, 
       "district_votes": 4, 
       "state": "CA", 
       "iface": "question", 
       "y": 38.0171, 
       "x": -121.91, 
-      "latest_vote": "2013-08-08T18:15:33", 
+      "latest_vote": "2013-08-08T18:41:34", 
       "id": 16201563, 
-      "trending_score": 4.5
+      "trending_score": 5.5
     }, 
     {
       "city": "Sandusky", 
@@ -9309,7 +9347,7 @@ opendebate.processFetchedQuestions({
       "x": -77.6687, 
       "latest_vote": "2013-08-08T18:27:00", 
       "id": 16200733, 
-      "trending_score": 20.5
+      "trending_score": 10.5
     }, 
     {
       "city": "Spring", 
@@ -9757,15 +9795,15 @@ opendebate.processFetchedQuestions({
       "district": "NY_16", 
       "created": "2013-08-06T18:38:57", 
       "state_votes": 11, 
-      "votes": 41, 
+      "votes": 42, 
       "district_votes": 2, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.8815, 
       "x": -73.9075, 
-      "latest_vote": "2013-08-08T18:39:26", 
+      "latest_vote": "2013-08-08T18:41:22", 
       "id": 16199317, 
-      "trending_score": 6.5
+      "trending_score": 7.5
     }, 
     {
       "city": "New Port Richey", 
@@ -15362,15 +15400,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_07", 
       "created": "2013-08-06T14:19:00", 
       "state_votes": 9, 
-      "votes": 44, 
+      "votes": 45, 
       "district_votes": 3, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.2847, 
       "x": -71.1277, 
-      "latest_vote": "2013-08-08T18:37:39", 
+      "latest_vote": "2013-08-08T18:41:28", 
       "id": 16181945, 
-      "trending_score": 6.5
+      "trending_score": 7.5
     }, 
     {
       "city": "Hamilton", 
@@ -15780,15 +15818,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_07", 
       "created": "2013-08-06T12:32:01", 
       "state_votes": 13, 
-      "votes": 79, 
+      "votes": 80, 
       "district_votes": 5, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3818, 
       "x": -71.1032, 
-      "latest_vote": "2013-08-08T18:27:15", 
+      "latest_vote": "2013-08-08T18:41:11", 
       "id": 16180998, 
-      "trending_score": 7.5
+      "trending_score": 8.5
     }, 
     {
       "city": "Irvine", 
@@ -17365,7 +17403,7 @@ opendebate.processFetchedQuestions({
       "x": -111.045, 
       "latest_vote": "2013-08-08T18:38:04", 
       "id": 16177944, 
-      "trending_score": 9.5
+      "trending_score": 5.0
     }, 
     {
       "city": "Albuquerque", 
@@ -17764,7 +17802,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7896, 
       "latest_vote": "2013-08-08T18:36:26", 
       "id": 16176855, 
-      "trending_score": 8.0
+      "trending_score": 15.166666666666666
     }, 
     {
       "city": "Kula", 
@@ -19151,7 +19189,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9643, 
       "latest_vote": "2013-08-08T18:34:47", 
       "id": 16175740, 
-      "trending_score": 29.5
+      "trending_score": 19.75
     }, 
     {
       "city": "Buffalo Grove", 
@@ -19208,7 +19246,7 @@ opendebate.processFetchedQuestions({
       "x": -88.9093, 
       "latest_vote": "2013-08-08T18:39:16", 
       "id": 16175641, 
-      "trending_score": 5.0
+      "trending_score": 3.4166666666666665
     }, 
     {
       "city": "Mount Vernon", 
@@ -19902,16 +19940,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you vote to label GMOs?", 
       "district": "CO_03", 
       "created": "2013-08-04T21:08:15", 
-      "state_votes": 0, 
-      "votes": 21, 
+      "state_votes": 1, 
+      "votes": 22, 
       "district_votes": 0, 
       "state": "CO", 
       "iface": "question", 
       "y": 39.6334, 
       "x": -106.954, 
-      "latest_vote": "2013-08-07T08:20:45", 
+      "latest_vote": "2013-08-08T18:41:17", 
       "id": 16174903, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Ripon", 
@@ -20492,15 +20530,15 @@ opendebate.processFetchedQuestions({
       "district": "AZ_06", 
       "created": "2013-08-04T19:15:06", 
       "state_votes": 6, 
-      "votes": 72, 
+      "votes": 73, 
       "district_votes": 1, 
       "state": "AZ", 
       "iface": "question", 
       "y": 33.6324, 
       "x": -112.112, 
-      "latest_vote": "2013-08-08T18:19:13", 
+      "latest_vote": "2013-08-08T18:41:12", 
       "id": 16174330, 
-      "trending_score": 4.5
+      "trending_score": 5.5
     }, 
     {
       "city": "Phoenix", 
@@ -20681,16 +20719,16 @@ opendebate.processFetchedQuestions({
       "submission": "Social Security can be fixed by, eliminating the income cap and forcing congress to pay back every cent that it borrowed.The deficit can be fixed by eliminating all foreign aid, especially to countries that don't like the US except for our money.The banking industry is a shambles. Banks need to be prosecuted to the fullest extent of the law and made accountable.All \"pork\" on legislation needs to be eliminated!The President needs line item veto power, just like many State governors have.The military budget can be fixed not by limiting promotions (a moral issue), but by stopping PCS moves every two years. By keeping pilots in the cockpit until they retire or leave the service. It makes no sense to spend millions training someone to fly and then when they are at their peck in experience pull them out of the cockpit to fly a desk. This is so true of Commissioned officers in all branches. The only pilots who get to fly their entire career are Army Warrants.What is your stance on these issues?", 
       "district": "NE_01", 
       "created": "2013-08-04T16:17:21", 
-      "state_votes": 0, 
-      "votes": 21, 
+      "state_votes": 1, 
+      "votes": 22, 
       "district_votes": 0, 
       "state": "NE", 
       "iface": "question", 
       "y": 40.6581, 
       "x": -96.1832, 
-      "latest_vote": "2013-08-07T08:28:31", 
+      "latest_vote": "2013-08-08T18:41:40", 
       "id": 16174143, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Cedar Rapids", 
@@ -20834,15 +20872,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_02", 
       "created": "2013-08-04T14:21:20", 
       "state_votes": 104, 
-      "votes": 659, 
+      "votes": 660, 
       "district_votes": 25, 
       "state": "CO", 
       "iface": "question", 
       "y": 40.5342, 
       "x": -105.043, 
-      "latest_vote": "2013-08-08T18:37:50", 
+      "latest_vote": "2013-08-08T18:41:53", 
       "id": 16173921, 
-      "trending_score": 12.65
+      "trending_score": 12.9
     }, 
     {
       "city": "Fort Collins", 
@@ -21194,16 +21232,16 @@ opendebate.processFetchedQuestions({
       "submission": "Would you support the proposition that Big Oil should help to fund the veterans rehab issues, and their benefits since they were sent to fight for their safe access to oil.", 
       "district": "OR_05", 
       "created": "2013-08-04T03:25:27", 
-      "state_votes": 24, 
-      "votes": 145, 
+      "state_votes": 25, 
+      "votes": 146, 
       "district_votes": 6, 
       "state": "OR", 
       "iface": "question", 
       "y": 44.8388, 
       "x": -122.859, 
-      "latest_vote": "2013-08-08T18:26:08", 
+      "latest_vote": "2013-08-08T18:41:38", 
       "id": 16173438, 
-      "trending_score": 5.25
+      "trending_score": 6.25
     }, 
     {
       "city": "Eugene", 
@@ -21317,7 +21355,7 @@ opendebate.processFetchedQuestions({
       "x": -122.314, 
       "latest_vote": "2013-08-08T18:06:28", 
       "id": 16173397, 
-      "trending_score": 5.0
+      "trending_score": 9.166666666666666
     }, 
     {
       "city": "Houston", 
@@ -21526,7 +21564,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9488, 
       "latest_vote": "2013-08-08T18:34:12", 
       "id": 16173320, 
-      "trending_score": 18.0
+      "trending_score": 12.083333333333334
     }, 
     {
       "city": "Bensenville", 
@@ -21708,15 +21746,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:25:59", 
       "state_votes": 207, 
-      "votes": 1322, 
+      "votes": 1323, 
       "district_votes": 65, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-08T18:39:29", 
+      "latest_vote": "2013-08-08T18:41:39", 
       "id": 16173264, 
-      "trending_score": 21.26190476190476
+      "trending_score": 25.5125
     }, 
     {
       "city": "Prosper", 
@@ -22533,7 +22571,7 @@ opendebate.processFetchedQuestions({
       "x": -110.921, 
       "latest_vote": "2013-08-08T18:14:44", 
       "id": 16172901, 
-      "trending_score": 5.5
+      "trending_score": 3.0
     }, 
     {
       "city": "Boulder", 
@@ -22752,16 +22790,16 @@ opendebate.processFetchedQuestions({
       "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
       "district": "IL_02", 
       "created": "2013-08-03T22:27:03", 
-      "state_votes": 164, 
-      "votes": 1001, 
+      "state_votes": 165, 
+      "votes": 1002, 
       "district_votes": 44, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.6267, 
       "x": -87.5959, 
-      "latest_vote": "2013-08-08T18:40:23", 
+      "latest_vote": "2013-08-08T18:41:16", 
       "id": 16172755, 
-      "trending_score": 37.708333333333336
+      "trending_score": 38.041666666666664
     }, 
     {
       "city": "Richardson", 
@@ -23341,16 +23379,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
       "district": "MA_05", 
       "created": "2013-08-03T20:45:26", 
-      "state_votes": 165, 
-      "votes": 903, 
+      "state_votes": 166, 
+      "votes": 905, 
       "district_votes": 46, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-08T18:38:07", 
+      "latest_vote": "2013-08-08T18:41:19", 
       "id": 16172533, 
-      "trending_score": 24.166666666666668
+      "trending_score": 24.666666666666668
     }, 
     {
       "city": "Medford", 
@@ -23531,16 +23569,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "MA_05", 
       "created": "2013-08-03T17:33:11", 
-      "state_votes": 218, 
-      "votes": 1328, 
+      "state_votes": 219, 
+      "votes": 1329, 
       "district_votes": 63, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-08T18:39:05", 
+      "latest_vote": "2013-08-08T18:41:29", 
       "id": 16172266, 
-      "trending_score": 19.583333333333332
+      "trending_score": 19.726190476190474
     }, 
     {
       "city": "Cambridge", 
