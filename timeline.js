@@ -2,34 +2,52 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Newton Center", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809934, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
-      "district": "MA_04", 
-      "created": "2013-08-08T16:14:57", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3088, 
-      "x": -71.1918, 
-      "id": 16226990, 
-      "question_id": "16172281"
-    }, 
-    {
       "city": "Fort Lauderdale", 
       "first_name": "Kathleen", 
       "last_name": "Levy", 
       "user_id": 1779547, 
-      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
       "district": "FL_20", 
-      "created": "2013-08-08T16:14:16", 
+      "created": "2013-08-08T16:15:51", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 26.2058, 
       "x": -80.2663, 
-      "id": 16226984, 
-      "question_id": "16173335"
+      "id": 16226996, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Lexington", 
+      "first_name": "Mark", 
+      "last_name": "Sandeen", 
+      "user_id": 1809930, 
+      "submission": "Will you push the federal government to provide more support to communities who are implementing climate action plans, reducing emissions and adapting to the severe impacts of climate change?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T16:15:40", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.4558, 
+      "x": -71.215, 
+      "latest_vote": null, 
+      "id": 16226994
+    }, 
+    {
+      "city": "Newton Center", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809934, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "MA_04", 
+      "created": "2013-08-08T16:15:28", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3088, 
+      "x": -71.1918, 
+      "id": 16226993, 
+      "question_id": "16173264"
     }, 
     {
       "city": "Lexington", 
@@ -315,21 +333,6 @@ opendebate.processTimeline({
       "x": -71.2044, 
       "id": 16226868, 
       "question_id": "16172303"
-    }, 
-    {
-      "city": "Watertown", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809923, 
-      "submission": "Solar would bring in new jobs and the factorys built in this country you could even run street lights, stop and go lights i know it would help with the citys tax base, becouse i build solar heat exchangers for the low income folks and it works becouse my heating bills run 16.00 dollars a month 2 years ago last year 48 dollars a month why would not want that ?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T15:56:34", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3713, 
-      "x": -71.1804, 
-      "id": 16226863, 
-      "question_id": "16172866"
     }
   ]
 });
