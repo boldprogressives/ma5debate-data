@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Wendy", 
       "last_name": "Ransom", 
       "user_id": 1737291, 
-      "submission": "Will you protect Social Security And Medicare by not cutting it with the chained CPI for Social Security that has been mentioned.  Also, no cuts to Medicare but closing the donute hole 100% so seniors aren't left fending for themselves to pay full price for their drugs.", 
+      "submission": "To all Candidates...Will you support Elizabeth Warren's bill to allow college students to borrow under 1% interest of college loans? ", 
       "district": "MI_12", 
-      "created": "2013-08-08T20:19:53", 
+      "created": "2013-08-08T20:20:11", 
       "state": "MI", 
       "iface": "timeline_vote", 
       "y": 42.3068, 
       "x": -83.7004, 
-      "id": 16233081, 
-      "question_id": "16175570"
+      "id": 16233082, 
+      "question_id": "16200733"
     }, 
     {
       "city": "Austin", 
