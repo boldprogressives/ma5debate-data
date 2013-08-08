@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Marietta", 
+      "first_name": "John", 
+      "last_name": "Brewer", 
+      "user_id": 1578014, 
+      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
+      "district": "OH_06", 
+      "created": "2013-08-08T20:50:01", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 39.4736, 
+      "x": -81.4792, 
+      "id": 16233468, 
+      "question_id": "16173257"
+    }, 
+    {
+      "city": "Princeton", 
+      "first_name": "Angela", 
+      "last_name": "Diorio", 
+      "user_id": 1763286, 
+      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
+      "district": "NJ_12", 
+      "created": "2013-08-08T20:49:54", 
+      "state": "NJ", 
+      "iface": "timeline_vote", 
+      "y": 40.3675, 
+      "x": -74.6695, 
+      "id": 16233465, 
+      "question_id": "16173257"
+    }, 
+    {
       "city": "Pflugerville", 
       "first_name": "Rory", 
       "last_name": "Roberts", 
       "user_id": 1150074, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
       "district": "TX_17", 
-      "created": "2013-08-08T20:48:38", 
+      "created": "2013-08-08T20:49:39", 
       "state": "TX", 
       "iface": "timeline_vote", 
       "y": 30.4419, 
       "x": -97.6273, 
-      "id": 16233459, 
-      "question_id": "16172266"
+      "id": 16233463, 
+      "question_id": "16173257"
     }, 
     {
       "city": "Lowell", 
@@ -274,36 +304,6 @@ opendebate.processTimeline({
       "x": -70.8391, 
       "id": 16233270, 
       "question_id": "16172542"
-    }, 
-    {
-      "city": "Barberton", 
-      "first_name": "Beverly", 
-      "last_name": "Capicola", 
-      "user_id": 1776014, 
-      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
-      "district": "OH_13", 
-      "created": "2013-08-08T20:33:29", 
-      "state": "OH", 
-      "iface": "timeline_vote", 
-      "y": 41.0147, 
-      "x": -81.6145, 
-      "id": 16233268, 
-      "question_id": "16172697"
-    }, 
-    {
-      "city": "bridgeport", 
-      "first_name": "adnan", 
-      "last_name": "khan", 
-      "user_id": 1184871, 
-      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
-      "district": "CT_04", 
-      "created": "2013-08-08T20:33:17", 
-      "state": "CT", 
-      "iface": "timeline_vote", 
-      "y": 41.1679, 
-      "x": -73.2165, 
-      "id": 16233265, 
-      "question_id": "16172697"
     }
   ]
 });
