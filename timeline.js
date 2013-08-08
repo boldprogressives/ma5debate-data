@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Cedar City", 
+      "first_name": "Patricia", 
+      "last_name": "Reed", 
+      "user_id": 1566601, 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
+      "district": "UT_02", 
+      "created": "2013-08-08T20:25:57", 
+      "state": "UT", 
+      "iface": "timeline_vote", 
+      "y": 37.6621, 
+      "x": -113.196, 
+      "id": 16233186, 
+      "question_id": "16202059"
+    }, 
+    {
       "city": "Philo", 
       "first_name": "kurt", 
       "last_name": "englehart", 
       "user_id": 1637407, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
       "district": "OH_12", 
-      "created": "2013-08-08T20:25:00", 
+      "created": "2013-08-08T20:25:54", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 39.8483, 
       "x": -81.9365, 
-      "id": 16233169, 
-      "question_id": "16173264"
+      "id": 16233185, 
+      "question_id": "16173335"
     }, 
     {
       "city": "Belmont", 
       "first_name": "", 
       "last_name": "", 
       "user_id": 1810041, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
+      "submission": "What will you do to overturn Citizen's United?", 
       "district": "MA_05", 
-      "created": "2013-08-08T20:24:59", 
+      "created": "2013-08-08T20:25:05", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3942, 
       "x": -71.1802, 
-      "id": 16233168, 
-      "question_id": "16175740"
+      "id": 16233171, 
+      "question_id": "16172765"
     }, 
     {
       "city": "Lexington", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -99.7428, 
       "id": 16232838, 
       "question_id": "16175740"
-    }, 
-    {
-      "city": "Overland Park", 
-      "first_name": "Robert", 
-      "last_name": "Luby", 
-      "user_id": 1678599, 
-      "submission": "What will you do to help the nation transition off of fossil fuels and towards renewable energy?", 
-      "district": "KS_03", 
-      "created": "2013-08-08T20:03:20", 
-      "state": "KS", 
-      "iface": "timeline_vote", 
-      "y": 38.9925, 
-      "x": -94.6829, 
-      "id": 16232834, 
-      "question_id": "16220270"
     }
   ]
 });
