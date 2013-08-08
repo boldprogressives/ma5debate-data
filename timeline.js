@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "Will you have te courage to stop/stand against the present obstruction in congress?", 
-      "district": "MA_04", 
-      "created": "2013-08-08T17:24:56", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16227833, 
-      "question_id": "16200783"
-    }, 
-    {
       "city": "Springfield", 
       "first_name": "", 
       "last_name": "", 
       "user_id": 1809949, 
-      "submission": "Why are you not speaking up about the police/surveillance state that's been developing in this country, and defending whistle blowers like Snowden and Manning as the heroic citizens they are? ", 
+      "submission": "Where do you stand on labeling GMO ingredients and the tar sands pipeline?", 
       "district": "MA_01", 
-      "created": "2013-08-08T17:24:55", 
+      "created": "2013-08-08T17:25:56", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.1229, 
       "x": -72.487, 
-      "id": 16227832, 
-      "question_id": "16193888"
+      "id": 16227841, 
+      "question_id": "16176019"
+    }, 
+    {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Do we really need 800 overseas military bases? Does it make sense to invest in peaceful coexistence and greening the planet", 
+      "district": "MA_04", 
+      "created": "2013-08-08T17:25:31", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16227839, 
+      "question_id": "16180989"
     }, 
     {
       "city": "Ann Arbor", 
