@@ -2,6 +2,39 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Montague", 
+      "first_name": "Barry", 
+      "last_name": "De Jasu", 
+      "user_id": 222139, 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "district": "MA_02", 
+      "created": "2013-08-08T14:58:43", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.5367, 
+      "x": -72.5301, 
+      "id": 16226499, 
+      "question_id": "16172281"
+    }, 
+    {
+      "city": "Bridgeport", 
+      "first_name": "Robb", 
+      "last_name": "Sauerhoff", 
+      "user_id": 1557378, 
+      "submission": "Science has proven again and again that many herbicides and pesticides initially approved for agricultural and residential use are highly toxic to the environment.  Would you propose, endorse, and/or support, legislation that imposes statutory time limits on regulatory approvals for all pesticides and herbicides, which triggers a  mandatory environmental impact reassessment every 8 to 10 years without exception and does not allow \"grandfathering\" of any such products that have already approved for use?     ", 
+      "district": "CT_04", 
+      "created": "2013-08-08T14:58:33", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "CT", 
+      "iface": "timeline_question", 
+      "y": 41.1679, 
+      "x": -73.2165, 
+      "latest_vote": null, 
+      "id": 16226498
+    }, 
+    {
       "city": "Casselberry", 
       "first_name": "Annmari", 
       "last_name": "Lundin", 
@@ -270,36 +303,6 @@ opendebate.processTimeline({
       "x": -70.9082, 
       "id": 16226469, 
       "question_id": "16175570"
-    }, 
-    {
-      "city": "Swampscott", 
-      "first_name": "Ramon", 
-      "last_name": "Feiven", 
-      "user_id": 1668338, 
-      "submission": "Why have so few Wall Street CEOs been indicted for their part in the 2007 Economic Crash ?  Who has been protecting them ?", 
-      "district": "MA_06", 
-      "created": "2013-08-08T14:45:49", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4723, 
-      "x": -70.9082, 
-      "id": 16226468, 
-      "question_id": "16205046"
-    }, 
-    {
-      "city": "Swampscott", 
-      "first_name": "Ramon", 
-      "last_name": "Feiven", 
-      "user_id": 1668338, 
-      "submission": "Climate change is moving us towards a planet that may not support human life.  Will you make addressing climate change one of your highest priorities?", 
-      "district": "MA_06", 
-      "created": "2013-08-08T14:45:34", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4723, 
-      "x": -70.9082, 
-      "id": 16226466, 
-      "question_id": "16175078"
     }
   ]
 });
