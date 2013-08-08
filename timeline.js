@@ -7,6 +7,30 @@ opendebate.processTimeline({
       "last_name": "", 
       "user_id": 1778818, 
       "district": "MA_05", 
+      "created": "2013-08-08T13:11:59", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16225923, 
+      "question_id": "16175493"
+    }, 
+    {
+      "city": "Natick", 
+      "first_name": "michael young", 
+      "last_name": "", 
+      "user_id": 1778818, 
+      "district": "MA_05", 
+      "created": "2013-08-08T13:11:24", 
+      "state": "MA", 
+      "iface": "vote", 
+      "id": 16225921, 
+      "question_id": "16175729"
+    }, 
+    {
+      "city": "Natick", 
+      "first_name": "michael young", 
+      "last_name": "", 
+      "user_id": 1778818, 
+      "district": "MA_05", 
       "created": "2013-08-08T13:10:52", 
       "state": "MA", 
       "iface": "vote", 
@@ -216,30 +240,6 @@ opendebate.processTimeline({
       "iface": "vote", 
       "id": 16225901, 
       "question_id": "16199852"
-    }, 
-    {
-      "city": "West Islip", 
-      "first_name": "Sue", 
-      "last_name": "Bonomo", 
-      "user_id": 17275, 
-      "district": "NY_02", 
-      "created": "2013-08-08T13:09:29", 
-      "state": "NY", 
-      "iface": "vote", 
-      "id": 16225902, 
-      "question_id": "16172727"
-    }, 
-    {
-      "city": "West Islip", 
-      "first_name": "Sue", 
-      "last_name": "Bonomo", 
-      "user_id": 17275, 
-      "district": "NY_02", 
-      "created": "2013-08-08T13:09:26", 
-      "state": "NY", 
-      "iface": "vote", 
-      "id": 16225900, 
-      "question_id": "16172266"
     }, 
     {
       "city": "Fitchburg", 
