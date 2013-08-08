@@ -2,19 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Sacramento", 
+      "first_name": "Kim", 
+      "last_name": "Honeychurch", 
+      "user_id": 145299, 
+      "submission": "why are the democrats so afraid to stand up to the republicans..? you stand up to a bully they usually back down.", 
+      "district": "CA_07", 
+      "created": "2013-08-08T20:05:02", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 38.4835, 
+      "x": -121.352, 
+      "id": 16232856, 
+      "question_id": "16172823"
+    }, 
+    {
+      "city": "Leasburg", 
+      "first_name": "Larry", 
+      "last_name": "Zingrich", 
+      "user_id": 1655770, 
+      "submission": "What steps will you take to restore livable wages to the shredded middle class, and to restore our voting rights?", 
+      "district": "MO_08", 
+      "created": "2013-08-08T20:04:55", 
+      "state": "MO", 
+      "iface": "timeline_vote", 
+      "y": 38.0629, 
+      "x": -91.198, 
+      "id": 16232854, 
+      "question_id": "16172657"
+    }, 
+    {
+      "city": "Holt", 
+      "first_name": "LEILA", 
+      "last_name": "NYE", 
+      "user_id": 1778492, 
+      "submission": "How will you protect women's rights, especially reproductive rights, against the ongoing efforts to restrict them?", 
+      "district": "MI_08", 
+      "created": "2013-08-08T20:04:52", 
+      "state": "MI", 
+      "iface": "timeline_vote", 
+      "y": 42.6405, 
+      "x": -84.5287, 
+      "id": 16232853, 
+      "question_id": "16186923"
+    }, 
+    {
       "city": "Lexington", 
       "first_name": "Robert", 
       "last_name": "Sankey", 
       "user_id": 1073379, 
-      "submission": "Are you willing to fight for womens rights to determine their own healthcare?  Or do you think that \"you\" know what is best for every woman? Healthcare is not a religious  decision, it is a health decision to be made by woman of all faiths.", 
+      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
       "district": "NE_03", 
-      "created": "2013-08-08T20:03:27", 
+      "created": "2013-08-08T20:03:59", 
       "state": "NE", 
       "iface": "timeline_vote", 
       "y": 40.7812, 
       "x": -99.7428, 
-      "id": 16232835, 
-      "question_id": "16199305"
+      "id": 16232838, 
+      "question_id": "16175740"
     }, 
     {
       "city": "Overland Park", 
@@ -30,36 +75,6 @@ opendebate.processTimeline({
       "x": -94.6829, 
       "id": 16232834, 
       "question_id": "16220270"
-    }, 
-    {
-      "city": "Sacramento", 
-      "first_name": "Kim", 
-      "last_name": "Honeychurch", 
-      "user_id": 145299, 
-      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
-      "district": "CA_07", 
-      "created": "2013-08-08T20:03:19", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 38.4835, 
-      "x": -121.352, 
-      "id": 16232833, 
-      "question_id": "16173259"
-    }, 
-    {
-      "city": "Holt", 
-      "first_name": "LEILA", 
-      "last_name": "NYE", 
-      "user_id": 1778492, 
-      "submission": "Would you support legislation like the Voter Empowerment Act (H.R. 12) to create national voting standards to ensure free, fair, and accessible elections nationwide?", 
-      "district": "MI_08", 
-      "created": "2013-08-08T20:03:18", 
-      "state": "MI", 
-      "iface": "timeline_vote", 
-      "y": 42.6405, 
-      "x": -84.5287, 
-      "id": 16232831, 
-      "question_id": "16181013"
     }, 
     {
       "city": "Lexington", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -117.407, 
       "id": 16232518, 
       "question_id": "16172690"
-    }, 
-    {
-      "city": "Mondovi", 
-      "first_name": "Peggy", 
-      "last_name": "Savides", 
-      "user_id": 160685, 
-      "submission": "Hunger and the threat of hunger are very real for millions of Americans. What legislation would you propose to protect the SNAP Program?", 
-      "district": "WI_03", 
-      "created": "2013-08-08T19:46:19", 
-      "state": "WI", 
-      "iface": "timeline_vote", 
-      "y": 44.5664, 
-      "x": -91.6718, 
-      "id": 16232462, 
-      "question_id": "16188108"
     }
   ]
 });
