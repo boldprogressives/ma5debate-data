@@ -6,6 +6,21 @@ opendebate.processTimeline({
       "first_name": "Eva", 
       "last_name": "Cutler", 
       "user_id": 1809430, 
+      "submission": "Would you back legislation that banned any elected official from becoming a lobbiest upon leaving office?", 
+      "district": "FL_23", 
+      "created": "2013-08-08T13:38:20", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 25.9781, 
+      "x": -80.3302, 
+      "id": 16226074, 
+      "question_id": "16208488"
+    }, 
+    {
+      "city": "Hollywood", 
+      "first_name": "Eva", 
+      "last_name": "Cutler", 
+      "user_id": 1809430, 
       "submission": "Are you willing to fight for womens rights to determine their own healthcare?  Or do you think that \"you\" know what is best for every woman? Healthcare is not a religious  decision, it is a health decision to be made by woman of all faiths.", 
       "district": "FL_23", 
       "created": "2013-08-08T13:37:02", 
@@ -285,21 +300,6 @@ opendebate.processTimeline({
       "x": -80.3302, 
       "id": 16226046, 
       "question_id": "16175230"
-    }, 
-    {
-      "city": "Hollywood", 
-      "first_name": "Eva", 
-      "last_name": "Cutler", 
-      "user_id": 1809430, 
-      "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
-      "district": "FL_23", 
-      "created": "2013-08-08T13:30:03", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 25.9781, 
-      "x": -80.3302, 
-      "id": 16226045, 
-      "question_id": "16173320"
     }, 
     {
       "city": "West Islip", 
