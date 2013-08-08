@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Michele", 
       "last_name": "Koskinen", 
       "user_id": 1577050, 
-      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "submission": "What would you do to stop the unbridled takeover of American resources by Corporate America.", 
       "district": "PA_01", 
-      "created": "2013-08-08T20:51:33", 
+      "created": "2013-08-08T20:52:42", 
       "state": "PA", 
       "iface": "timeline_vote", 
       "y": 39.9685, 
       "x": -75.1731, 
-      "id": 16233494, 
-      "question_id": "16173335"
+      "id": 16233498, 
+      "question_id": "16174109"
     }, 
     {
       "city": "Princeton", 
