@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Framingham", 
+      "first_name": "Barbara", 
+      "last_name": "Safran", 
+      "user_id": 1783165, 
+      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T15:26:55", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2721, 
+      "x": -71.4248, 
+      "id": 16226601, 
+      "question_id": "16175230"
+    }, 
+    {
+      "city": "South Dartmouth", 
+      "first_name": "Jeffrey", 
+      "last_name": "Simon", 
+      "user_id": 374010, 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
+      "district": "MA_09", 
+      "created": "2013-08-08T15:26:37", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 41.598, 
+      "x": -70.954, 
+      "id": 16226599, 
+      "question_id": "16202059"
+    }, 
+    {
       "city": "Chambersburg", 
       "first_name": "anthony", 
       "last_name": "taylor", 
@@ -15,21 +45,6 @@ opendebate.processTimeline({
       "x": -77.6746, 
       "id": 16226595, 
       "question_id": "16172755"
-    }, 
-    {
-      "city": "South Dartmouth", 
-      "first_name": "Jeffrey", 
-      "last_name": "Simon", 
-      "user_id": 374010, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
-      "district": "MA_09", 
-      "created": "2013-08-08T15:25:23", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 41.598, 
-      "x": -70.954, 
-      "id": 16226590, 
-      "question_id": "16172913"
     }, 
     {
       "city": "Lexington", 
@@ -297,24 +312,6 @@ opendebate.processTimeline({
       "x": -70.9082, 
       "id": 16226473, 
       "question_id": "16173397"
-    }, 
-    {
-      "city": "Bridgeport", 
-      "first_name": "Robb", 
-      "last_name": "Sauerhoff", 
-      "user_id": 1557378, 
-      "submission": "Would you support, endorse, or propose legislation that requires all federally funded or subsidized new building construction to incorporate long-term energy consumption environmental impact assessments that are required to incorporate  non-fossil fuel energy sources (e.g, solar, wind, fuel cell, thermal)? ", 
-      "district": "CT_04", 
-      "created": "2013-08-08T14:38:59", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "CT", 
-      "iface": "timeline_question", 
-      "y": 41.1679, 
-      "x": -73.2165, 
-      "latest_vote": null, 
-      "id": 16226427
     }
   ]
 });
