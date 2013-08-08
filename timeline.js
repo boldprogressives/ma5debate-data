@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Lincoln", 
+      "first_name": "Henry", 
+      "last_name": "Harrison", 
+      "user_id": 1074803, 
+      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T15:11:48", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4239, 
+      "x": -71.3142, 
+      "id": 16226531, 
+      "question_id": "16173210"
+    }, 
+    {
       "city": "Somerville", 
       "first_name": "Demitri", 
       "last_name": "Denir", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -93.2076, 
       "id": 16226310, 
       "question_id": "16172777"
-    }, 
-    {
-      "city": "San Diego", 
-      "first_name": "mark", 
-      "last_name": "vanderhoof", 
-      "user_id": 790671, 
-      "submission": "How realistic is it that Wall Street/Banks will ever be held criminally accountable for the destruction it did to Americans and the ecomony?", 
-      "district": "CA_53", 
-      "created": "2013-08-08T14:12:51", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 32.7617, 
-      "x": -117.071, 
-      "id": 16226294, 
-      "question_id": "16173397"
     }
   ]
 });
