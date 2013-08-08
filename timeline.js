@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Reseda", 
+      "first_name": "Lui", 
+      "last_name": "Deak", 
+      "user_id": 1685090, 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "district": "CA_30", 
+      "created": "2013-08-08T15:53:04", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 34.1995, 
+      "x": -118.54, 
+      "id": 16226811, 
+      "question_id": "16172281"
+    }, 
+    {
+      "city": "lexington", 
+      "first_name": "Carolyn", 
+      "last_name": "Tiffany", 
+      "user_id": 517663, 
+      "submission": "What is your view of the \"Race to the Top\" approach to education and its reliance on increased standardized testing and nationwide standardization via the Common Core?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T15:52:48", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4484, 
+      "x": -71.2338, 
+      "id": 16226809, 
+      "question_id": "16202179"
+    }, 
+    {
       "city": "Stoneham", 
       "first_name": "Paul", 
       "last_name": "Henry", 
@@ -15,21 +45,6 @@ opendebate.processTimeline({
       "x": -71.0964, 
       "id": 16226801, 
       "question_id": "16172777"
-    }, 
-    {
-      "city": "lexington", 
-      "first_name": "Carolyn", 
-      "last_name": "Tiffany", 
-      "user_id": 517663, 
-      "submission": "Would you support replacing \"Obamacare\" with single-payer coverage (Medicare for All)?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T15:51:34", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4484, 
-      "x": -71.2338, 
-      "id": 16226800, 
-      "question_id": "16175729"
     }, 
     {
       "city": "Acton", 
@@ -291,21 +306,6 @@ opendebate.processTimeline({
       "x": -71.4351, 
       "id": 16226672, 
       "question_id": "16173257"
-    }, 
-    {
-      "city": "Framingham", 
-      "first_name": "Barbara", 
-      "last_name": "Safran", 
-      "user_id": 1783165, 
-      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T15:33:38", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2721, 
-      "x": -71.4248, 
-      "id": 16226655, 
-      "question_id": "16172303"
     }
   ]
 });
