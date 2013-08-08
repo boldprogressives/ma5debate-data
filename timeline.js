@@ -2,34 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "North Chelmsford", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809924, 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "district": "MA_03", 
+      "created": "2013-08-08T15:54:57", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.6333, 
+      "x": -71.3843, 
+      "id": 16226836, 
+      "question_id": "16172755"
+    }, 
+    {
       "city": "lexington", 
       "first_name": "Carolyn", 
       "last_name": "Tiffany", 
       "user_id": 517663, 
-      "submission": "Will you vote against any proposal that supports the TarSands Keystone project?", 
+      "submission": "Will you support carbon taxes?", 
       "district": "MA_05", 
-      "created": "2013-08-08T15:53:55", 
+      "created": "2013-08-08T15:54:52", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.4484, 
       "x": -71.2338, 
-      "id": 16226821, 
-      "question_id": "16199877"
+      "id": 16226835, 
+      "question_id": "16174323"
+    }, 
+    {
+      "city": "Watertown", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809923, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "MA_05", 
+      "created": "2013-08-08T15:54:30", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3713, 
+      "x": -71.1804, 
+      "id": 16226830, 
+      "question_id": "16172777"
     }, 
     {
       "city": "Reseda", 
       "first_name": "Lui", 
       "last_name": "Deak", 
       "user_id": 1685090, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
       "district": "CA_30", 
-      "created": "2013-08-08T15:53:29", 
+      "created": "2013-08-08T15:54:25", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 34.1995, 
       "x": -118.54, 
-      "id": 16226820, 
-      "question_id": "16172913"
+      "id": 16226825, 
+      "question_id": "16172690"
     }, 
     {
       "city": "Stoneham", 
@@ -276,36 +306,6 @@ opendebate.processTimeline({
       "x": -73.7258, 
       "id": 16226708, 
       "question_id": "16203477"
-    }, 
-    {
-      "city": "Fresh  Meadows", 
-      "first_name": "Paul", 
-      "last_name": "Dambrosi", 
-      "user_id": 401923, 
-      "submission": "Will you vote for taxing all income the same, regardless of source; especially taxing capital gains the same as ordinary income?", 
-      "district": "NY_06", 
-      "created": "2013-08-08T15:35:57", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.7385, 
-      "x": -73.79, 
-      "id": 16226681, 
-      "question_id": "16174334"
-    }, 
-    {
-      "city": "Holliston", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809907, 
-      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T15:35:16", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.1988, 
-      "x": -71.4351, 
-      "id": 16226672, 
-      "question_id": "16173257"
     }
   ]
 });
