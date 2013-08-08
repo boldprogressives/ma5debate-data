@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Village of Nagog Woods", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809929, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "MA_03", 
+      "created": "2013-08-08T15:58:54", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.517, 
+      "x": -71.4123, 
+      "id": 16226876, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "lexington", 
+      "first_name": "Carolyn", 
+      "last_name": "Tiffany", 
+      "user_id": 517663, 
+      "submission": "Will you support carbon taxes?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T15:58:35", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4484, 
+      "x": -71.2338, 
+      "id": 16226875, 
+      "question_id": "16174323"
+    }, 
+    {
+      "city": "Albuquerque", 
+      "first_name": "Charles", 
+      "last_name": "Shelly", 
+      "user_id": 1057793, 
+      "submission": "In 2006, the lame-duck GOP congress enacted a bill forcing the U.S.Postal service to fully fund pensions for the next 75 years and do it in ten years. It's a bill that was designed to ruin the USPS so it could be privatized. Will you work to repeal this onerous bill and introduce legislation to allow the USPS to compete with private carriers?", 
+      "district": "NM_01", 
+      "created": "2013-08-08T15:58:28", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 35.0723, 
+      "x": -106.578, 
+      "id": 16226873, 
+      "question_id": "16206983"
+    }, 
+    {
       "city": "Washington", 
       "first_name": "michael", 
       "last_name": "snook", 
@@ -75,36 +120,6 @@ opendebate.processTimeline({
       "x": -71.1312, 
       "id": 16226855, 
       "question_id": "16172281"
-    }, 
-    {
-      "city": "Albuquerque", 
-      "first_name": "Charles", 
-      "last_name": "Shelly", 
-      "user_id": 1057793, 
-      "submission": "How would you reform the process of drawing congressional districts so that it represents the interests of the people and does not favor any one party?", 
-      "district": "NM_01", 
-      "created": "2013-08-08T15:55:17", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 35.0723, 
-      "x": -106.578, 
-      "id": 16226841, 
-      "question_id": "16201951"
-    }, 
-    {
-      "city": "lexington", 
-      "first_name": "Carolyn", 
-      "last_name": "Tiffany", 
-      "user_id": 517663, 
-      "submission": "Will you support carbon taxes?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T15:54:52", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4484, 
-      "x": -71.2338, 
-      "id": 16226835, 
-      "question_id": "16174323"
     }, 
     {
       "city": "Reseda", 
@@ -291,21 +306,6 @@ opendebate.processTimeline({
       "x": -71.1353, 
       "id": 16226732, 
       "question_id": "16172542"
-    }, 
-    {
-      "city": "Saint Petersburg", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809910, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
-      "district": "FL_13", 
-      "created": "2013-08-08T15:38:00", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 27.8783, 
-      "x": -82.6492, 
-      "id": 16226715, 
-      "question_id": "16172913"
     }
   ]
 });
