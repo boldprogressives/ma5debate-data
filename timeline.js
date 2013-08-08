@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Reseda", 
-      "first_name": "Lui", 
-      "last_name": "Deak", 
-      "user_id": 1685090, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
-      "district": "CA_30", 
-      "created": "2013-08-08T15:53:04", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 34.1995, 
-      "x": -118.54, 
-      "id": 16226811, 
-      "question_id": "16172281"
-    }, 
-    {
       "city": "lexington", 
       "first_name": "Carolyn", 
       "last_name": "Tiffany", 
       "user_id": 517663, 
-      "submission": "What is your view of the \"Race to the Top\" approach to education and its reliance on increased standardized testing and nationwide standardization via the Common Core?", 
+      "submission": "Will you vote against any proposal that supports the TarSands Keystone project?", 
       "district": "MA_05", 
-      "created": "2013-08-08T15:52:48", 
+      "created": "2013-08-08T15:53:55", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.4484, 
       "x": -71.2338, 
-      "id": 16226809, 
-      "question_id": "16202179"
+      "id": 16226821, 
+      "question_id": "16199877"
+    }, 
+    {
+      "city": "Reseda", 
+      "first_name": "Lui", 
+      "last_name": "Deak", 
+      "user_id": 1685090, 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "district": "CA_30", 
+      "created": "2013-08-08T15:53:29", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 34.1995, 
+      "x": -118.54, 
+      "id": 16226820, 
+      "question_id": "16172913"
     }, 
     {
       "city": "Stoneham", 
