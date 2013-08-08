@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Mary", 
       "last_name": "McCormick", 
       "user_id": 1698240, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
       "district": "MA_06", 
-      "created": "2013-08-08T15:16:00", 
+      "created": "2013-08-08T15:16:51", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.6862, 
       "x": -71.1057, 
-      "id": 16226551, 
-      "question_id": "16172533"
+      "id": 16226560, 
+      "question_id": "16172731"
+    }, 
+    {
+      "city": "Lincoln", 
+      "first_name": "Henry", 
+      "last_name": "Harrison", 
+      "user_id": 1074803, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T15:16:35", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4239, 
+      "x": -71.3142, 
+      "id": 16226558, 
+      "question_id": "16173264"
     }, 
     {
       "city": "Westport", 
@@ -48,21 +63,6 @@ opendebate.processTimeline({
       "x": -74.0946, 
       "latest_vote": null, 
       "id": 16226536
-    }, 
-    {
-      "city": "Lincoln", 
-      "first_name": "Henry", 
-      "last_name": "Harrison", 
-      "user_id": 1074803, 
-      "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T15:13:07", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4239, 
-      "x": -71.3142, 
-      "id": 16226535, 
-      "question_id": "16172542"
     }, 
     {
       "city": "Somerville", 
