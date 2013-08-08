@@ -6,15 +6,33 @@ opendebate.processTimeline({
       "first_name": "Kathleen", 
       "last_name": "Levy", 
       "user_id": 1779547, 
-      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
       "district": "FL_20", 
-      "created": "2013-08-08T16:12:57", 
+      "created": "2013-08-08T16:13:58", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 26.2058, 
       "x": -80.2663, 
-      "id": 16226976, 
-      "question_id": "16172727"
+      "id": 16226983, 
+      "question_id": "16172303"
+    }, 
+    {
+      "city": "Lexington", 
+      "first_name": "Mark", 
+      "last_name": "Sandeen", 
+      "user_id": 1809930, 
+      "submission": "Will you support legislation designed to encourage more local farms and farming that is less dependent on fossil fuels?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T16:13:08", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.4558, 
+      "x": -71.215, 
+      "latest_vote": null, 
+      "id": 16226977
     }, 
     {
       "city": "Lexington", 
@@ -312,21 +330,6 @@ opendebate.processTimeline({
       "x": -71.3843, 
       "id": 16226857, 
       "question_id": "16173335"
-    }, 
-    {
-      "city": "Cambridge", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809926, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T15:56:07", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3775, 
-      "x": -71.1312, 
-      "id": 16226855, 
-      "question_id": "16172281"
     }
   ]
 });
