@@ -6,15 +6,45 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "when is congress going to make foods containing GMO'S be labeled. so we can choose what we are eating. & how many times  are they going to let MONSANTO keep killing us. ", 
+      "submission": "The sequester just slashed Meals on Wheels, food stamps, Section 8 vouchers for housing for the needy.How come in April, when the sequester hit the commuting congressional members with inconvenienltly long waiting suddenly money was found to eliminate inconveniences. What is your view on congressional priorities affecting the American people ?", 
       "district": "MA_04", 
-      "created": "2013-08-08T17:15:02", 
+      "created": "2013-08-08T17:15:54", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227696, 
-      "question_id": "16203965"
+      "id": 16227707, 
+      "question_id": "16206216"
+    }, 
+    {
+      "city": "Great Neck", 
+      "first_name": "Ethan", 
+      "last_name": "Jucovy", 
+      "user_id": 1195198, 
+      "submission": "Investments in early childhood have been found by economists to have a 7 to 1 return on investment. Would you introduce legislation for programs such as newborn home visiting, parenting education and support, and high quality available and affordable early childhood education?", 
+      "district": "NY_03", 
+      "created": "2013-08-08T17:15:22", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.7867, 
+      "x": -73.7258, 
+      "id": 16227703, 
+      "question_id": "16172296"
+    }, 
+    {
+      "city": "Moreno Valley", 
+      "first_name": "Luean", 
+      "last_name": "Anthony", 
+      "user_id": 1669853, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "CA_41", 
+      "created": "2013-08-08T17:15:17", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 33.9655, 
+      "x": -117.249, 
+      "id": 16227698, 
+      "question_id": "16173264"
     }, 
     {
       "city": "Hardin", 
@@ -173,21 +203,6 @@ opendebate.processTimeline({
       "question_id": "16172266"
     }, 
     {
-      "city": "Great Neck", 
-      "first_name": "Ethan", 
-      "last_name": "Jucovy", 
-      "user_id": 1195198, 
-      "submission": "Who is financing your campaign and what have you promised in return for this support?", 
-      "district": "NY_03", 
-      "created": "2013-08-08T16:57:18", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.7867, 
-      "x": -73.7258, 
-      "id": 16227534, 
-      "question_id": "16199725"
-    }, 
-    {
       "city": "Boston", 
       "first_name": "Lucy", 
       "last_name": "Haskins", 
@@ -291,24 +306,6 @@ opendebate.processTimeline({
       "x": -71.301, 
       "id": 16227183, 
       "question_id": "16173264"
-    }, 
-    {
-      "city": "Cambridge", 
-      "first_name": "Astrid", 
-      "last_name": "Dodds", 
-      "user_id": 234304, 
-      "submission": "Why is only 1 of the 9 people currently representing MA in the US House of Representatives a woman?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T16:25:53", 
-      "state_votes": 1, 
-      "votes": 1, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.3775, 
-      "x": -71.1312, 
-      "latest_vote": "2013-08-08T16:34:33", 
-      "id": 16227124
     }
   ]
 });
