@@ -1985,16 +1985,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you support National standards for how federal elections should be run, to reduce long wait times at polls, limit unexplained removal of voter registrations and challenges to voters at the pole,  uneven eligibility of voting rights for federal elections,  making it a crime to send of false and misleading info to voters via mail, email or phone call, and how districts must be drawn to ensure that gerrymandering is minimized?", 
       "district": "MA_05", 
       "created": "2013-08-07T21:48:30", 
-      "state_votes": 0, 
-      "votes": 2, 
+      "state_votes": 1, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3713, 
       "x": -71.1804, 
-      "latest_vote": "2013-08-07T23:27:34", 
+      "latest_vote": "2013-08-08T17:35:08", 
       "id": 16222728, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Louisville", 
@@ -6507,16 +6507,16 @@ opendebate.processFetchedQuestions({
       "submission": "Would you support a living wage law that would force corporations, like Wal-Mart, whose Walton family owns more wealth than 40% of all Americans, to pay  living wages to all of their workers?", 
       "district": "CA_46", 
       "created": "2013-08-07T00:12:33", 
-      "state_votes": 16, 
-      "votes": 71, 
-      "district_votes": 6, 
+      "state_votes": 17, 
+      "votes": 72, 
+      "district_votes": 7, 
       "state": "CA", 
       "iface": "question", 
       "y": 33.8428, 
       "x": -117.955, 
-      "latest_vote": "2013-08-08T16:58:50", 
+      "latest_vote": "2013-08-08T17:35:07", 
       "id": 16210264, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Hemet", 
@@ -8237,15 +8237,15 @@ opendebate.processFetchedQuestions({
       "district": "NJ_08", 
       "created": "2013-08-06T20:14:44", 
       "state_votes": 18, 
-      "votes": 124, 
+      "votes": 132, 
       "district_votes": 5, 
       "state": "NJ", 
       "iface": "question", 
       "y": 40.7595, 
       "x": -74.1907, 
-      "latest_vote": "2013-08-08T17:33:41", 
+      "latest_vote": "2013-08-08T17:35:39", 
       "id": 16203866, 
-      "trending_score": 17.25
+      "trending_score": 25.25
     }, 
     {
       "city": "Watertown", 
@@ -8541,15 +8541,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_12", 
       "created": "2013-08-06T19:37:02", 
       "state_votes": 34, 
-      "votes": 246, 
+      "votes": 256, 
       "district_votes": 13, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.7802, 
       "x": -122.459, 
-      "latest_vote": "2013-08-08T17:34:56", 
+      "latest_vote": "2013-08-08T17:36:00", 
       "id": 16202059, 
-      "trending_score": 21.25
+      "trending_score": 31.25
     }, 
     {
       "city": "Richfield", 
@@ -9452,16 +9452,16 @@ opendebate.processFetchedQuestions({
       "submission": "Are you willing to work to phase out nuclear power, and what will you do to support the development of renewables?", 
       "district": "NY_16", 
       "created": "2013-08-06T18:38:57", 
-      "state_votes": 9, 
-      "votes": 37, 
+      "state_votes": 10, 
+      "votes": 38, 
       "district_votes": 1, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.8815, 
       "x": -73.9075, 
-      "latest_vote": "2013-08-08T17:20:07", 
+      "latest_vote": "2013-08-08T17:35:20", 
       "id": 16199317, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "New Port Richey", 
@@ -10079,16 +10079,16 @@ opendebate.processFetchedQuestions({
       "submission": "If you lose your job and have to live on a minimum wage, how long do you think you could last in today's economy? Will you support increasing the minimum wage to a living wage?", 
       "district": "OR_02", 
       "created": "2013-08-06T17:21:23", 
-      "state_votes": 5, 
-      "votes": 32, 
+      "state_votes": 6, 
+      "votes": 33, 
       "district_votes": 1, 
       "state": "OR", 
       "iface": "question", 
       "y": 44.2754, 
       "x": -121.206, 
-      "latest_vote": "2013-08-08T00:02:52", 
+      "latest_vote": "2013-08-08T17:36:00", 
       "id": 16194324, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Portland", 
@@ -18459,15 +18459,15 @@ opendebate.processFetchedQuestions({
       "district": "TN_03", 
       "created": "2013-08-05T02:57:27", 
       "state_votes": 47, 
-      "votes": 228, 
+      "votes": 229, 
       "district_votes": 12, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.1253, 
       "x": -84.8666, 
-      "latest_vote": "2013-08-08T17:34:38", 
+      "latest_vote": "2013-08-08T17:35:54", 
       "id": 16176001, 
-      "trending_score": 13.125
+      "trending_score": 14.125
     }, 
     {
       "city": "Little Rock", 
@@ -18763,15 +18763,15 @@ opendebate.processFetchedQuestions({
       "district": "IA_02", 
       "created": "2013-08-05T02:30:12", 
       "state_votes": 4, 
-      "votes": 23, 
+      "votes": 24, 
       "district_votes": 0, 
       "state": "IA", 
       "iface": "question", 
       "y": 41.5452, 
       "x": -90.6197, 
-      "latest_vote": "2013-08-07T08:10:15", 
+      "latest_vote": "2013-08-08T17:35:47", 
       "id": 16175815, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Rathdrum", 
@@ -18839,15 +18839,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_08", 
       "created": "2013-08-05T01:44:45", 
       "state_votes": 56, 
-      "votes": 255, 
+      "votes": 256, 
       "district_votes": 24, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.174, 
       "x": -87.9643, 
-      "latest_vote": "2013-08-08T17:34:02", 
+      "latest_vote": "2013-08-08T17:36:01", 
       "id": 16175740, 
-      "trending_score": 16.5
+      "trending_score": 17.5
     }, 
     {
       "city": "Buffalo Grove", 
@@ -19047,16 +19047,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you work to eliminate the Income Cap on SS \"Contributions\"?", 
       "district": "FL_25", 
       "created": "2013-08-05T00:37:42", 
-      "state_votes": 5, 
-      "votes": 69, 
-      "district_votes": 1, 
+      "state_votes": 6, 
+      "votes": 70, 
+      "district_votes": 2, 
       "state": "FL", 
       "iface": "question", 
       "y": 25.99, 
       "x": -81.5334, 
-      "latest_vote": "2013-08-08T16:59:37", 
+      "latest_vote": "2013-08-08T17:35:54", 
       "id": 16175571, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Sidney", 
@@ -19124,15 +19124,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_25", 
       "created": "2013-08-05T00:22:27", 
       "state_votes": 44, 
-      "votes": 224, 
+      "votes": 227, 
       "district_votes": 14, 
       "state": "FL", 
       "iface": "question", 
       "y": 25.99, 
       "x": -81.5334, 
-      "latest_vote": "2013-08-08T17:32:36", 
+      "latest_vote": "2013-08-08T17:35:56", 
       "id": 16175500, 
-      "trending_score": 16.125
+      "trending_score": 19.125
     }, 
     {
       "city": "Seattle", 
@@ -19143,15 +19143,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_07", 
       "created": "2013-08-05T00:11:21", 
       "state_votes": 42, 
-      "votes": 186, 
+      "votes": 189, 
       "district_votes": 8, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.6327, 
       "x": -122.322, 
-      "latest_vote": "2013-08-08T17:35:02", 
+      "latest_vote": "2013-08-08T17:35:59", 
       "id": 16175493, 
-      "trending_score": 31.166666666666668
+      "trending_score": 34.166666666666664
     }, 
     {
       "city": "Seattle", 
@@ -20187,16 +20187,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you vote to end subsides on sugar, corn syrup, etc. that contribute to  obesity?", 
       "district": "AZ_06", 
       "created": "2013-08-04T19:15:06", 
-      "state_votes": 5, 
-      "votes": 70, 
-      "district_votes": 0, 
+      "state_votes": 6, 
+      "votes": 71, 
+      "district_votes": 1, 
       "state": "AZ", 
       "iface": "question", 
       "y": 33.6324, 
       "x": -112.112, 
-      "latest_vote": "2013-08-08T16:59:08", 
+      "latest_vote": "2013-08-08T17:35:23", 
       "id": 16174330, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Phoenix", 
@@ -20397,15 +20397,15 @@ opendebate.processFetchedQuestions({
       "district": "IA_01", 
       "created": "2013-08-04T15:47:40", 
       "state_votes": 38, 
-      "votes": 208, 
+      "votes": 209, 
       "district_votes": 8, 
       "state": "IA", 
       "iface": "question", 
       "y": 41.9794, 
       "x": -91.7189, 
-      "latest_vote": "2013-08-08T17:34:21", 
+      "latest_vote": "2013-08-08T17:35:44", 
       "id": 16174109, 
-      "trending_score": 15.125
+      "trending_score": 16.125
     }, 
     {
       "city": "Baraboo", 
@@ -20435,15 +20435,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_05", 
       "created": "2013-08-04T15:18:55", 
       "state_votes": 37, 
-      "votes": 203, 
+      "votes": 204, 
       "district_votes": 5, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.6898, 
       "x": -123.884, 
-      "latest_vote": "2013-08-08T17:19:27", 
+      "latest_vote": "2013-08-08T17:35:55", 
       "id": 16174072, 
-      "trending_score": 12.166666666666666
+      "trending_score": 13.166666666666666
     }, 
     {
       "city": "Cape Girardeau", 
@@ -20530,15 +20530,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_02", 
       "created": "2013-08-04T14:21:20", 
       "state_votes": 102, 
-      "votes": 631, 
+      "votes": 632, 
       "district_votes": 24, 
       "state": "CO", 
       "iface": "question", 
       "y": 40.5342, 
       "x": -105.043, 
-      "latest_vote": "2013-08-08T17:32:43", 
+      "latest_vote": "2013-08-08T17:35:20", 
       "id": 16173921, 
-      "trending_score": 13.7
+      "trending_score": 14.2
     }, 
     {
       "city": "Fort Collins", 
@@ -21127,7 +21127,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-08T17:31:32", 
       "id": 16173335, 
-      "trending_score": 10.916666666666666
+      "trending_score": 8.083333333333334
     }, 
     {
       "city": "Evansville", 
@@ -21431,7 +21431,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-08T17:33:48", 
       "id": 16173259, 
-      "trending_score": 10.583333333333334
+      "trending_score": 7.833333333333333
     }, 
     {
       "city": "Manitowoc", 
@@ -21480,15 +21480,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:15:12", 
       "state_votes": 30, 
-      "votes": 201, 
+      "votes": 203, 
       "district_votes": 3, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-08T17:33:55", 
+      "latest_vote": "2013-08-08T17:35:48", 
       "id": 16173244, 
-      "trending_score": 17.166666666666668
+      "trending_score": 19.166666666666668
     }, 
     {
       "city": "Saint Peters", 
@@ -22164,15 +22164,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T23:23:07", 
       "state_votes": 146, 
-      "votes": 832, 
+      "votes": 837, 
       "district_votes": 37, 
       "state": "MT", 
       "iface": "question", 
       "y": 48.2112, 
       "x": -114.294, 
-      "latest_vote": "2013-08-08T17:35:05", 
+      "latest_vote": "2013-08-08T17:35:22", 
       "id": 16172913, 
-      "trending_score": 21.166666666666668
+      "trending_score": 23.666666666666668
     }, 
     {
       "city": "Montegut", 
@@ -22335,15 +22335,15 @@ opendebate.processFetchedQuestions({
       "district": "WI_02", 
       "created": "2013-08-03T22:52:12", 
       "state_votes": 56, 
-      "votes": 373, 
+      "votes": 374, 
       "district_votes": 13, 
       "state": "WI", 
       "iface": "question", 
       "y": 43.1271, 
       "x": -89.7423, 
-      "latest_vote": "2013-08-08T17:32:13", 
+      "latest_vote": "2013-08-08T17:35:26", 
       "id": 16172823, 
-      "trending_score": 17.125
+      "trending_score": 18.125
     }, 
     {
       "city": "", 
@@ -22372,16 +22372,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you work to stop the landspreading of and growing of food in toxic municipal sewage and industrial waste, and will you introduce a MA State labeling  law for food grown in sludge?", 
       "district": "WA_06", 
       "created": "2013-08-03T22:38:52", 
-      "state_votes": 0, 
-      "votes": 2, 
+      "state_votes": 1, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "WA", 
       "iface": "question", 
       "y": 48.0686, 
       "x": -123.059, 
-      "latest_vote": "2013-08-06T16:10:35", 
+      "latest_vote": "2013-08-08T17:35:55", 
       "id": 16172799, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Helena", 
@@ -22411,15 +22411,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_05", 
       "created": "2013-08-03T22:30:45", 
       "state_votes": 80, 
-      "votes": 488, 
+      "votes": 489, 
       "district_votes": 19, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.3898, 
       "x": -122.589, 
-      "latest_vote": "2013-08-08T17:35:06", 
+      "latest_vote": "2013-08-08T17:35:33", 
       "id": 16172765, 
-      "trending_score": 30.125
+      "trending_score": 31.125
     }, 
     {
       "city": "Egg Harbor", 
@@ -22449,15 +22449,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:27:03", 
       "state_votes": 160, 
-      "votes": 923, 
+      "votes": 926, 
       "district_votes": 44, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.6267, 
       "x": -87.5959, 
-      "latest_vote": "2013-08-08T17:34:46", 
+      "latest_vote": "2013-08-08T17:35:57", 
       "id": 16172755, 
-      "trending_score": 19.142857142857142
+      "trending_score": 20.642857142857142
     }, 
     {
       "city": "Richardson", 
@@ -22506,15 +22506,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:21:20", 
       "state_votes": 92, 
-      "votes": 636, 
+      "votes": 638, 
       "district_votes": 21, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.5746, 
       "x": -122.811, 
-      "latest_vote": "2013-08-08T17:31:50", 
+      "latest_vote": "2013-08-08T17:35:56", 
       "id": 16172731, 
-      "trending_score": 11.125
+      "trending_score": 12.125
     }, 
     {
       "city": "Chicago", 
@@ -22525,15 +22525,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:20:39", 
       "state_votes": 145, 
-      "votes": 1152, 
+      "votes": 1155, 
       "district_votes": 37, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.7162, 
       "x": -87.5544, 
-      "latest_vote": "2013-08-08T17:34:32", 
+      "latest_vote": "2013-08-08T17:35:52", 
       "id": 16172727, 
-      "trending_score": 20.625
+      "trending_score": 22.125
     }, 
     {
       "city": "Waldport", 
@@ -22715,15 +22715,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:09:55", 
       "state_votes": 92, 
-      "votes": 639, 
+      "votes": 640, 
       "district_votes": 24, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.3581, 
       "x": -122.594, 
-      "latest_vote": "2013-08-08T17:31:43", 
+      "latest_vote": "2013-08-08T17:35:26", 
       "id": 16172690, 
-      "trending_score": 11.166666666666666
+      "trending_score": 7.583333333333333
     }, 
     {
       "city": "Gig Harbor", 
@@ -22905,15 +22905,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T21:18:50", 
       "state_votes": 37, 
-      "votes": 219, 
+      "votes": 220, 
       "district_votes": 8, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-08T17:19:08", 
+      "latest_vote": "2013-08-08T17:35:39", 
       "id": 16172583, 
-      "trending_score": 12.166666666666666
+      "trending_score": 13.166666666666666
     }, 
     {
       "city": "ARLINGTON", 
@@ -23095,15 +23095,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:52:54", 
       "state_votes": 136, 
-      "votes": 746, 
+      "votes": 748, 
       "district_votes": 38, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4207, 
       "x": -71.1582, 
-      "latest_vote": "2013-08-08T17:31:06", 
+      "latest_vote": "2013-08-08T17:35:50", 
       "id": 16172303, 
-      "trending_score": 17.125
+      "trending_score": 11.854166666666666
     }, 
     {
       "city": "Arlington", 
@@ -23171,15 +23171,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:42:20", 
       "state_votes": 144, 
-      "votes": 877, 
+      "votes": 878, 
       "district_votes": 42, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3699, 
       "x": -71.2368, 
-      "latest_vote": "2013-08-08T17:30:31", 
+      "latest_vote": "2013-08-08T17:35:27", 
       "id": 16172281, 
-      "trending_score": 11.166666666666666
+      "trending_score": 11.5
     }, 
     {
       "city": "Arlington", 
@@ -23228,15 +23228,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:33:11", 
       "state_votes": 208, 
-      "votes": 1243, 
+      "votes": 1247, 
       "district_votes": 62, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-08T17:34:59", 
+      "latest_vote": "2013-08-08T17:35:55", 
       "id": 16172266, 
-      "trending_score": 19.1875
+      "trending_score": 20.520833333333332
     }, 
     {
       "city": "Cambridge", 
@@ -23350,7 +23350,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1035, 
       "latest_vote": "2013-08-08T17:31:13", 
       "id": 16172207, 
-      "trending_score": 23.1
+      "trending_score": 11.2
     }, 
     {
       "city": "Arlington", 
