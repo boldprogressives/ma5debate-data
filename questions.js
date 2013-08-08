@@ -8712,15 +8712,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_01", 
       "created": "2013-08-06T20:10:21", 
       "state_votes": 24, 
-      "votes": 124, 
+      "votes": 125, 
       "district_votes": 8, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.204, 
       "x": -72.6301, 
-      "latest_vote": "2013-08-08T18:54:51", 
+      "latest_vote": "2013-08-08T18:55:58", 
       "id": 16203676, 
-      "trending_score": 24.0
+      "trending_score": 24.5
     }, 
     {
       "city": "Gloucester", 
@@ -19883,16 +19883,16 @@ opendebate.processFetchedQuestions({
       "submission": "Climate change is moving us towards a planet that may not support human life.  Will you make addressing climate change one of your highest priorities?", 
       "district": "WI_02", 
       "created": "2013-08-04T21:54:34", 
-      "state_votes": 15, 
-      "votes": 104, 
+      "state_votes": 16, 
+      "votes": 105, 
       "district_votes": 8, 
       "state": "WI", 
       "iface": "question", 
       "y": 42.9812, 
       "x": -89.7297, 
-      "latest_vote": "2013-08-08T18:26:45", 
+      "latest_vote": "2013-08-08T18:55:49", 
       "id": 16175078, 
-      "trending_score": 10.5
+      "trending_score": 11.0
     }, 
     {
       "city": "Iuka", 
@@ -21309,15 +21309,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_05", 
       "created": "2013-08-04T03:25:27", 
       "state_votes": 25, 
-      "votes": 147, 
+      "votes": 148, 
       "district_votes": 6, 
       "state": "OR", 
       "iface": "question", 
       "y": 44.8388, 
       "x": -122.859, 
-      "latest_vote": "2013-08-08T18:48:45", 
+      "latest_vote": "2013-08-08T18:55:28", 
       "id": 16173438, 
-      "trending_score": 7.25
+      "trending_score": 8.25
     }, 
     {
       "city": "Eugene", 
@@ -21422,16 +21422,16 @@ opendebate.processFetchedQuestions({
       "submission": "How realistic is it that Wall Street/Banks will ever be held criminally accountable for the destruction it did to Americans and the ecomony?", 
       "district": "WA_09", 
       "created": "2013-08-04T02:57:39", 
-      "state_votes": 11, 
-      "votes": 106, 
+      "state_votes": 12, 
+      "votes": 107, 
       "district_votes": 3, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.3099, 
       "x": -122.314, 
-      "latest_vote": "2013-08-08T18:49:09", 
+      "latest_vote": "2013-08-08T18:55:39", 
       "id": 16173397, 
-      "trending_score": 4.833333333333333
+      "trending_score": 5.333333333333333
     }, 
     {
       "city": "Houston", 
@@ -22107,15 +22107,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_01", 
       "created": "2013-08-04T00:46:08", 
       "state_votes": 7, 
-      "votes": 45, 
+      "votes": 46, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.4583, 
       "x": -122.797, 
-      "latest_vote": "2013-08-08T17:21:08", 
+      "latest_vote": "2013-08-08T18:55:28", 
       "id": 16173184, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Mililani", 
@@ -22810,15 +22810,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
       "state_votes": 242, 
-      "votes": 1664, 
+      "votes": 1665, 
       "district_votes": 68, 
       "state": "MT", 
       "iface": "question", 
       "y": 46.6453, 
       "x": -111.974, 
-      "latest_vote": "2013-08-08T18:51:12", 
+      "latest_vote": "2013-08-08T18:55:45", 
       "id": 16172777, 
-      "trending_score": 20.333333333333332
+      "trending_score": 20.5
     }, 
     {
       "city": "Gladstone", 
@@ -22867,15 +22867,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:27:03", 
       "state_votes": 165, 
-      "votes": 1006, 
+      "votes": 1007, 
       "district_votes": 44, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.6267, 
       "x": -87.5959, 
-      "latest_vote": "2013-08-08T18:51:48", 
+      "latest_vote": "2013-08-08T18:55:49", 
       "id": 16172755, 
-      "trending_score": 23.625
+      "trending_score": 23.825
     }, 
     {
       "city": "Richardson", 
@@ -23597,7 +23597,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2368, 
       "latest_vote": "2013-08-08T18:52:49", 
       "id": 16172281, 
-      "trending_score": 17.583333333333332
+      "trending_score": 17.65
     }, 
     {
       "city": "Arlington", 
