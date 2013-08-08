@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "lexington", 
+      "first_name": "Carolyn", 
+      "last_name": "Tiffany", 
+      "user_id": 517663, 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T15:44:46", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4484, 
+      "x": -71.2338, 
+      "id": 16226754, 
+      "question_id": "16172281"
+    }, 
+    {
+      "city": "Uxbridge", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809914, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "MA_02", 
+      "created": "2013-08-08T15:44:26", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.0784, 
+      "x": -71.6341, 
+      "id": 16226751, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Hyannis", 
       "first_name": "", 
       "last_name": "", 
@@ -276,39 +306,6 @@ opendebate.processTimeline({
       "x": -71.1057, 
       "id": 16226568, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Westport", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809901, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "MA_09", 
-      "created": "2013-08-08T15:13:12", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 41.6076, 
-      "x": -71.0839, 
-      "id": 16226537, 
-      "question_id": "16172266"
-    }, 
-    {
-      "city": "Staten Island", 
-      "first_name": "Elizabeth", 
-      "last_name": "LaBue", 
-      "user_id": 1767402, 
-      "submission": "Among the many issues in our country currently (government oversight, our environment, Wall St., our economy, social security, education) what are the top issues that matter to you the most & what will be your position on those issues?", 
-      "district": "NY_11", 
-      "created": "2013-08-08T15:13:08", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "NY", 
-      "iface": "timeline_question", 
-      "y": 40.6288, 
-      "x": -74.0946, 
-      "latest_vote": null, 
-      "id": 16226536
     }
   ]
 });
