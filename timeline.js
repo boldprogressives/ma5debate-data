@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "", 
       "last_name": "", 
       "user_id": 1809949, 
-      "submission": "Where do you stand on labeling GMO ingredients and the tar sands pipeline?", 
+      "submission": "What will you do to fund public education, including higher education, to keep tuition affordable and pay full time adjunct faculty on par with tenured faculty?", 
       "district": "MA_01", 
-      "created": "2013-08-08T17:25:56", 
+      "created": "2013-08-08T17:26:58", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.1229, 
       "x": -72.487, 
-      "id": 16227841, 
-      "question_id": "16176019"
+      "id": 16227849, 
+      "question_id": "16186056"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Do we really need 800 overseas military bases? Does it make sense to invest in peaceful coexistence and greening the planet", 
+      "submission": "What will you do about cuts to Social Security and Medicare benefits?", 
       "district": "MA_04", 
-      "created": "2013-08-08T17:25:31", 
+      "created": "2013-08-08T17:26:51", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227839, 
-      "question_id": "16180989"
+      "id": 16227848, 
+      "question_id": "16208033"
     }, 
     {
       "city": "Ann Arbor", 
@@ -152,7 +152,8 @@ opendebate.processTimeline({
       "y": 40.6986, 
       "x": -89.6098, 
       "latest_vote": null, 
-      "id": 16227680
+      "id": 16227680, 
+      "trending_score": 0.0
     }, 
     {
       "city": "Nahant", 
@@ -185,7 +186,8 @@ opendebate.processTimeline({
       "y": 40.6986, 
       "x": -89.6098, 
       "latest_vote": null, 
-      "id": 16227662
+      "id": 16227662, 
+      "trending_score": 0.0
     }, 
     {
       "city": "Warden", 
