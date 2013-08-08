@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Dighton", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809909, 
+      "submission": "why are the democrats so afraid to stand up to the republicans..? you stand up to a bully they usually back down.", 
+      "district": "MA_04", 
+      "created": "2013-08-08T15:39:01", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 41.819, 
+      "x": -71.1353, 
+      "id": 16226730, 
+      "question_id": "16172823"
+    }, 
+    {
+      "city": "Natick", 
+      "first_name": "John", 
+      "last_name": "Chiros", 
+      "user_id": 1552489, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T15:39:00", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2872, 
+      "x": -71.3523, 
+      "id": 16226729, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Lexington", 
+      "first_name": "Robert", 
+      "last_name": "Lund", 
+      "user_id": 1079021, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T15:38:48", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4484, 
+      "x": -71.2338, 
+      "id": 16226727, 
+      "question_id": "16173264"
+    }, 
+    {
       "city": "Saint Petersburg", 
       "first_name": "", 
       "last_name": "", 
@@ -30,21 +75,6 @@ opendebate.processTimeline({
       "x": -73.0797, 
       "id": 16226714, 
       "question_id": "16172542"
-    }, 
-    {
-      "city": "Dighton", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809909, 
-      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
-      "district": "MA_04", 
-      "created": "2013-08-08T15:37:52", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 41.819, 
-      "x": -71.1353, 
-      "id": 16226713, 
-      "question_id": "16172207"
     }, 
     {
       "city": "Everett", 
@@ -279,36 +309,6 @@ opendebate.processTimeline({
       "x": -71.0947, 
       "id": 16226524, 
       "question_id": "16172583"
-    }, 
-    {
-      "city": "Newton", 
-      "first_name": "Mario", 
-      "last_name": "Troiani", 
-      "user_id": 142064, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "MA_04", 
-      "created": "2013-08-08T15:05:54", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3511, 
-      "x": -71.2074, 
-      "id": 16226517, 
-      "question_id": "16172266"
-    }, 
-    {
-      "city": "SALT LAKE CITY", 
-      "first_name": "Michael", 
-      "last_name": "Smith", 
-      "user_id": 1243221, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "UT_04", 
-      "created": "2013-08-08T15:04:16", 
-      "state": "UT", 
-      "iface": "timeline_vote", 
-      "y": 40.6858, 
-      "x": -111.829, 
-      "id": 16226512, 
-      "question_id": "16172777"
     }
   ]
 });
