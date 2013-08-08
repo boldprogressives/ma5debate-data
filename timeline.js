@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Pflugerville", 
+      "first_name": "Rory", 
+      "last_name": "Roberts", 
+      "user_id": 1150074, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "TX_17", 
+      "created": "2013-08-08T20:48:38", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 30.4419, 
+      "x": -97.6273, 
+      "id": 16233459, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "Lowell", 
       "first_name": "Ryan", 
       "last_name": "Hammond", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -71.2968, 
       "id": 16233452, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Pflugerville", 
-      "first_name": "Rory", 
-      "last_name": "Roberts", 
-      "user_id": 1150074, 
-      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
-      "district": "TX_17", 
-      "created": "2013-08-08T20:47:19", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 30.4419, 
-      "x": -97.6273, 
-      "id": 16233450, 
-      "question_id": "16203866"
     }, 
     {
       "city": "Hemet", 
