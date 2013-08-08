@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Holden", 
+      "first_name": "Eric", 
+      "last_name": "Osterberg", 
+      "user_id": 1693910, 
+      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
+      "district": "MA_02", 
+      "created": "2013-08-08T13:47:24", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3458, 
+      "x": -71.8463, 
+      "id": 16226135, 
+      "question_id": "16173210"
+    }, 
+    {
+      "city": "Hollywood", 
+      "first_name": "Eva", 
+      "last_name": "Cutler", 
+      "user_id": 1809430, 
+      "submission": "Will you pledge to uphold the Affordable Care Act and help states implement it -- not defund it?", 
+      "district": "FL_23", 
+      "created": "2013-08-08T13:47:02", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 25.9781, 
+      "x": -80.3302, 
+      "id": 16226133, 
+      "question_id": "16181276"
+    }, 
+    {
       "city": "Hollywood", 
       "first_name": "Eva", 
       "last_name": "Cutler", 
@@ -269,36 +299,6 @@ opendebate.processTimeline({
       "y": 42.4529, 
       "x": -71.146, 
       "id": 16226111, 
-      "question_id": "16172266"
-    }, 
-    {
-      "city": "Hollywood", 
-      "first_name": "Eva", 
-      "last_name": "Cutler", 
-      "user_id": 1809430, 
-      "submission": "Since Congress main concern is budget cuts and entitlements. Will they be an example by slashing their salaries? ", 
-      "district": "FL_23", 
-      "created": "2013-08-08T13:43:38", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 25.9781, 
-      "x": -80.3302, 
-      "id": 16226108, 
-      "question_id": "16200703"
-    }, 
-    {
-      "city": "Winchester", 
-      "first_name": "Gil", 
-      "last_name": "Graham", 
-      "user_id": 1807134, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T13:43:38", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4529, 
-      "x": -71.146, 
-      "id": 16226109, 
       "question_id": "16172266"
     }, 
     {
