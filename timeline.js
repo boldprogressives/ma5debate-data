@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Elaine Smith", 
       "last_name": "Smith", 
       "user_id": 139591, 
-      "submission": "Will you fight to protect the Clean Air Act, the Clean Water Act and the EPA in a House of Representatives that has become increasingly hostile to all three?", 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
       "district": "WA_04", 
-      "created": "2013-08-08T20:41:01", 
+      "created": "2013-08-08T20:41:41", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 46.5952, 
       "x": -120.537, 
-      "id": 16233367, 
-      "question_id": "16226952"
+      "id": 16233377, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Lower Lake", 
+      "first_name": "Beverly", 
+      "last_name": "Poncia", 
+      "user_id": 1094630, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "CA_03", 
+      "created": "2013-08-08T20:41:15", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 38.902, 
+      "x": -122.614, 
+      "id": 16233369, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Cambridge", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16233195, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Belmont", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1810041, 
-      "submission": "What will you do to overturn Citizen's United?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T20:25:05", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3942, 
-      "x": -71.1802, 
-      "id": 16233171, 
-      "question_id": "16172765"
     }
   ]
 });
