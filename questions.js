@@ -2,6 +2,24 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Fitchburg", 
+      "first_name": "pat", 
+      "last_name": "wilkins", 
+      "user_id": 516815, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "MA_03", 
+      "created": "2013-08-08T12:46:43", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.5763, 
+      "x": -71.8021, 
+      "latest_vote": null, 
+      "id": 16225839
+    }, 
+    {
       "city": "Westfield", 
       "first_name": "Raymond", 
       "last_name": "Ourand", 
