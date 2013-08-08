@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Why were / are banks receiving bailouts, while students receive high interest loans rather  than grants?", 
+      "submission": "Will you have te courage to stop/stand against the present obstruction in congress?", 
       "district": "MA_04", 
-      "created": "2013-08-08T17:23:59", 
+      "created": "2013-08-08T17:24:56", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16227826, 
-      "question_id": "16174806"
+      "id": 16227833, 
+      "question_id": "16200783"
     }, 
     {
       "city": "Springfield", 
       "first_name": "", 
       "last_name": "", 
       "user_id": 1809949, 
-      "submission": "What are you going to do about climate disruption?", 
+      "submission": "Why are you not speaking up about the police/surveillance state that's been developing in this country, and defending whistle blowers like Snowden and Manning as the heroic citizens they are? ", 
       "district": "MA_01", 
-      "created": "2013-08-08T17:23:58", 
+      "created": "2013-08-08T17:24:55", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.1229, 
       "x": -72.487, 
-      "id": 16227825, 
-      "question_id": "16198026"
+      "id": 16227832, 
+      "question_id": "16193888"
     }, 
     {
       "city": "Ann Arbor", 
