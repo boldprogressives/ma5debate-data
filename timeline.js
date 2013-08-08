@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "lexington", 
+      "first_name": "Carolyn", 
+      "last_name": "Tiffany", 
+      "user_id": 517663, 
+      "submission": "Will you make Climate Change the highest National priority in your campaign? And will you support the policy that clean energy sources, which bypass the carbon cycle entirely should be : the foundation of a National Energy policy; the means of reviving the US industrial base; and the solution to the jobs crisis?  ", 
+      "district": "MA_05", 
+      "created": "2013-08-08T16:04:37", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4484, 
+      "x": -71.2338, 
+      "id": 16226903, 
+      "question_id": "16188911"
+    }, 
+    {
       "city": "Wilmington", 
       "first_name": "Eileen", 
       "last_name": "MacDougall", 
@@ -18,21 +33,6 @@ opendebate.processTimeline({
       "x": -71.17, 
       "latest_vote": null, 
       "id": 16226899
-    }, 
-    {
-      "city": "lexington", 
-      "first_name": "Carolyn", 
-      "last_name": "Tiffany", 
-      "user_id": 517663, 
-      "submission": "Why is there not even ONE mention about possibly repealing the \"Patriot Act\", even though that one law has completely obliterated all of our civil rights that were guaranteed in the Constitution??? All USA laws have become invalid, especially for protecting against oppressive governmental organizations, by simply declaring ANYONE an \"Enemy Combatant\" with no real justification for that declaration. The Constitution was specifically created to design precautions against an oppressive government that already had gone too far (Britain). ", 
-      "district": "MA_05", 
-      "created": "2013-08-08T16:03:11", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4484, 
-      "x": -71.2338, 
-      "id": 16226897, 
-      "question_id": "16176201"
     }, 
     {
       "city": "Cherry Valley", 
