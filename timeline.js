@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
-      "district": "MA_04", 
-      "created": "2013-08-08T16:42:55", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16227440, 
-      "question_id": "16175230"
-    }, 
-    {
       "city": "Boston", 
       "first_name": "Lucy", 
       "last_name": "Haskins", 
       "user_id": 1680366, 
-      "submission": "Why is the U.S. Congress,year after year,taking funds out of the Social Security fund.This is not legal,yet the U.S. Congress Continues this practice.Why ? Martin Boroian", 
+      "submission": "Why is Social Security referred to by many elected Representatives and Senators in Washington as an \"entitlement\" when, first, we all pay or paid into it during all of our working years, and second, by law, normal tax revenue can not be used to fund It?  Is it because the government has used up all the money paid into Social Security over the years, and so that now the government has to raise more money to pay Social Security's current obligations?", 
       "district": "MA_08", 
-      "created": "2013-08-08T16:42:54", 
+      "created": "2013-08-08T16:43:48", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3606, 
       "x": -71.0654, 
-      "id": 16227439, 
-      "question_id": "16201488"
+      "id": 16227447, 
+      "question_id": "16180456"
+    }, 
+    {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Serving in Congress is not a career.  Will you vote for term limits?", 
+      "district": "MA_04", 
+      "created": "2013-08-08T16:43:47", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16227446, 
+      "question_id": "16173323"
+    }, 
+    {
+      "city": "Leominster", 
+      "first_name": "cody", 
+      "last_name": "caisse", 
+      "user_id": 1710230, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "MA_02", 
+      "created": "2013-08-08T16:43:13", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.5253, 
+      "x": -71.7535, 
+      "id": 16227442, 
+      "question_id": "16173264"
     }, 
     {
       "city": "Arlington Heights", 
@@ -306,24 +321,6 @@ opendebate.processTimeline({
       "x": -71.1804, 
       "id": 16226968, 
       "question_id": "16201865"
-    }, 
-    {
-      "city": "Lexington", 
-      "first_name": "Mark", 
-      "last_name": "Sandeen", 
-      "user_id": 1809930, 
-      "submission": "Will you work to remove the billions of dollars of subsidies and incentives currently going to the fossil fuel industry \u2013 the most profitable industry in the world? ", 
-      "district": "MA_05", 
-      "created": "2013-08-08T16:11:34", 
-      "state_votes": 2, 
-      "votes": 2, 
-      "district_votes": 1, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.4558, 
-      "x": -71.215, 
-      "latest_vote": "2013-08-08T16:39:47", 
-      "id": 16226967
     }
   ]
 });
