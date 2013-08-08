@@ -2,6 +2,70 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Holt", 
+      "first_name": "LEILA", 
+      "last_name": "NYE", 
+      "user_id": 1778492, 
+      "submission": "What would you do to end the SCOTUS ruling Citizens United & how will you stop the GOP led states enacting extremist voter suppresion?", 
+      "district": "MI_08", 
+      "created": "2013-08-08T19:55:01", 
+      "state": "MI", 
+      "iface": "timeline_vote", 
+      "y": 42.6405, 
+      "x": -84.5287, 
+      "id": 16232625, 
+      "question_id": "16207073"
+    }, 
+    {
+      "city": "Overland Park", 
+      "first_name": "Robert", 
+      "last_name": "Luby", 
+      "user_id": 1678599, 
+      "submission": "Many seniors still can't get health care they need to have a healthy and happy life. Co-pay of 20percent isn't affordable on social security. Many states put obstacles in way of Medicaid. What can you do to address this situation??", 
+      "district": "KS_03", 
+      "created": "2013-08-08T19:54:49", 
+      "state": "KS", 
+      "iface": "timeline_vote", 
+      "y": 38.9925, 
+      "x": -94.6829, 
+      "id": 16232623, 
+      "question_id": "16182493"
+    }, 
+    {
+      "city": "Somerville", 
+      "first_name": "Iyleen", 
+      "last_name": "Ismail", 
+      "user_id": 1809997, 
+      "submission": "Do you support comprehensive immigration reform/pathway to citizenship for immigrants? ", 
+      "district": "MA_07", 
+      "created": "2013-08-08T19:54:45", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.3818, 
+      "x": -71.1032, 
+      "latest_vote": null, 
+      "id": 16232621, 
+      "trending_score": 0.5
+    }, 
+    {
+      "city": "Ulster Park", 
+      "first_name": "Karl", 
+      "last_name": "Schintone", 
+      "user_id": 1684721, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "NY_19", 
+      "created": "2013-08-08T19:54:18", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 41.8666, 
+      "x": -73.9902, 
+      "id": 16232614, 
+      "question_id": "16173264"
+    }, 
+    {
       "city": "Lafayette", 
       "first_name": "Shari", 
       "last_name": "Hinkel", 
@@ -15,21 +79,6 @@ opendebate.processTimeline({
       "x": -92.0655, 
       "id": 16232611, 
       "question_id": "16173264"
-    }, 
-    {
-      "city": "Holt", 
-      "first_name": "LEILA", 
-      "last_name": "NYE", 
-      "user_id": 1778492, 
-      "submission": "What will you do to ensure anyone that works full time has a living wage with benefits?", 
-      "district": "MI_08", 
-      "created": "2013-08-08T19:53:47", 
-      "state": "MI", 
-      "iface": "timeline_vote", 
-      "y": 42.6405, 
-      "x": -84.5287, 
-      "id": 16232610, 
-      "question_id": "16175636"
     }, 
     {
       "city": "Atlanta", 
@@ -62,24 +111,9 @@ opendebate.processTimeline({
       "question_id": "16172823"
     }, 
     {
-      "city": "Ulster Park", 
-      "first_name": "Karl", 
-      "last_name": "Schintone", 
-      "user_id": 1684721, 
-      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
-      "district": "NY_19", 
-      "created": "2013-08-08T19:53:12", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 41.8666, 
-      "x": -73.9902, 
-      "id": 16232594, 
-      "question_id": "16172755"
-    }, 
-    {
       "city": "Lock Haven", 
-      "first_name": "John", 
-      "last_name": "Wallen", 
+      "first_name": "john", 
+      "last_name": "wallen", 
       "user_id": 635773, 
       "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "PA_05", 
@@ -105,21 +139,6 @@ opendebate.processTimeline({
       "x": -117.339, 
       "id": 16232585, 
       "question_id": "16176001"
-    }, 
-    {
-      "city": "Overland Park", 
-      "first_name": "Robert", 
-      "last_name": "Luby", 
-      "user_id": 1678599, 
-      "submission": "Art 3 Sec 2 of the Constitution gives Congress the power to regulate the Supreme Court \r\n\r\nand to make exceptions to the Court's jurisdiction.\r\n\r\nArt I Sec 4 of the Constitution gives Congress the power write election law and to regulate \r\n\r\nthe elections for Senators and Representatives.\r\n\r\nArt I Sec 5 of the Constitution gives each House of Congress the power to be the sole \r\n\r\njudge of the elections of it's own members.\r\n\r\nCitizens United vs FEC notwithstanding, are you willing to put forth comprehensive \r\n\r\nlegislation to get big money out of politics, and to use the existing (Art 3 Sec 2) \r\n\r\njurisdiction-stripping power to prevent judicial interference with that legislation?", 
-      "district": "KS_03", 
-      "created": "2013-08-08T19:52:20", 
-      "state": "KS", 
-      "iface": "timeline_vote", 
-      "y": 38.9925, 
-      "x": -94.6829, 
-      "id": 16232569, 
-      "question_id": "16205787"
     }, 
     {
       "city": "Rancho Palos Verdes", 
@@ -297,21 +316,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16232327, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "New Orleans", 
-      "first_name": "Sharon", 
-      "last_name": "Santee", 
-      "user_id": 888690, 
-      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
-      "district": "LA_02", 
-      "created": "2013-08-08T19:39:08", 
-      "state": "LA", 
-      "iface": "timeline_vote", 
-      "y": 30.0171, 
-      "x": -90.0193, 
-      "id": 16232326, 
-      "question_id": "16203676"
     }
   ]
 });
