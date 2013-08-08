@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Palos Park", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809916, 
+      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "district": "IL_03", 
+      "created": "2013-08-08T15:45:59", 
+      "state": "IL", 
+      "iface": "timeline_vote", 
+      "y": 41.6716, 
+      "x": -87.8598, 
+      "id": 16226762, 
+      "question_id": "16172727"
+    }, 
+    {
       "city": "lexington", 
       "first_name": "Carolyn", 
       "last_name": "Tiffany", 
       "user_id": 517663, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
       "district": "MA_05", 
-      "created": "2013-08-08T15:44:46", 
+      "created": "2013-08-08T15:45:44", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.4484, 
       "x": -71.2338, 
-      "id": 16226754, 
-      "question_id": "16172281"
+      "id": 16226758, 
+      "question_id": "16172303"
     }, 
     {
       "city": "Uxbridge", 
@@ -291,21 +306,6 @@ opendebate.processTimeline({
       "x": -71.1803, 
       "id": 16226571, 
       "question_id": "16172777"
-    }, 
-    {
-      "city": "North Andover", 
-      "first_name": "Mary", 
-      "last_name": "McCormick", 
-      "user_id": 1698240, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "MA_06", 
-      "created": "2013-08-08T15:17:36", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.6862, 
-      "x": -71.1057, 
-      "id": 16226568, 
-      "question_id": "16172266"
     }
   ]
 });
