@@ -6,6 +6,36 @@ opendebate.processTimeline({
       "first_name": "Demitri", 
       "last_name": "Denir", 
       "user_id": 1668195, 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "district": "MA_07", 
+      "created": "2013-08-08T15:03:00", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3914, 
+      "x": -71.0947, 
+      "id": 16226507, 
+      "question_id": "16173259"
+    }, 
+    {
+      "city": "Somerville", 
+      "first_name": "Demitri", 
+      "last_name": "Denir", 
+      "user_id": 1668195, 
+      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
+      "district": "MA_07", 
+      "created": "2013-08-08T15:02:39", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3914, 
+      "x": -71.0947, 
+      "id": 16226506, 
+      "question_id": "16172207"
+    }, 
+    {
+      "city": "Somerville", 
+      "first_name": "Demitri", 
+      "last_name": "Denir", 
+      "user_id": 1668195, 
       "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
       "district": "MA_07", 
       "created": "2013-08-08T15:01:36", 
@@ -273,36 +303,6 @@ opendebate.processTimeline({
       "x": -81.3098, 
       "id": 16226476, 
       "question_id": "16183713"
-    }, 
-    {
-      "city": "Swampscott", 
-      "first_name": "Ramon", 
-      "last_name": "Feiven", 
-      "user_id": 1668338, 
-      "submission": "How realistic is it that Wall Street/Banks will ever be held criminally accountable for the destruction it did to Americans and the ecomony?", 
-      "district": "MA_06", 
-      "created": "2013-08-08T14:46:24", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4723, 
-      "x": -70.9082, 
-      "id": 16226473, 
-      "question_id": "16173397"
-    }, 
-    {
-      "city": "Swampscott", 
-      "first_name": "Ramon", 
-      "last_name": "Feiven", 
-      "user_id": 1668338, 
-      "submission": "What would you do to eliminate congressional pensions so congress has a stake in social security retirement benifits.", 
-      "district": "MA_06", 
-      "created": "2013-08-08T14:46:14", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4723, 
-      "x": -70.9082, 
-      "id": 16226472, 
-      "question_id": "16176855"
     }
   ]
 });
