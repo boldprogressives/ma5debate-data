@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Natick", 
-      "first_name": "John", 
-      "last_name": "Chiros", 
-      "user_id": 1552489, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T15:39:31", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2872, 
-      "x": -71.3523, 
-      "id": 16226735, 
-      "question_id": "16173264"
-    }, 
-    {
       "city": "Lexington", 
       "first_name": "Robert", 
       "last_name": "Lund", 
       "user_id": 1079021, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "submission": "What will you do to overturn Citizen's United?", 
       "district": "MA_05", 
-      "created": "2013-08-08T15:39:15", 
+      "created": "2013-08-08T15:40:52", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.4484, 
       "x": -71.2338, 
-      "id": 16226733, 
-      "question_id": "16172533"
+      "id": 16226744, 
+      "question_id": "16172765"
+    }, 
+    {
+      "city": "Natick", 
+      "first_name": "John", 
+      "last_name": "Chiros", 
+      "user_id": 1552489, 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T15:40:30", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2872, 
+      "x": -71.3523, 
+      "id": 16226743, 
+      "question_id": "16172281"
     }, 
     {
       "city": "Dighton", 
