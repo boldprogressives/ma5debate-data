@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Cambridge", 
+      "first_name": "Zev", 
+      "last_name": "Dickstein", 
+      "user_id": 1810046, 
+      "submission": "Solar would bring in new jobs and the factorys built in this country you could even run street lights, stop and go lights i know it would help with the citys tax base, becouse i build solar heat exchangers for the low income folks and it works becouse my heating bills run 16.00 dollars a month 2 years ago last year 48 dollars a month why would not want that ?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T20:39:40", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3923, 
+      "x": -71.1313, 
+      "id": 16233351, 
+      "question_id": "16172866"
+    }, 
+    {
+      "city": "New York", 
+      "first_name": "Carol", 
+      "last_name": "Jackson", 
+      "user_id": 976116, 
+      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
+      "district": "NY_10", 
+      "created": "2013-08-08T20:39:37", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.7773, 
+      "x": -73.9825, 
+      "id": 16233350, 
+      "question_id": "16203676"
+    }, 
+    {
       "city": "Ramona", 
       "first_name": "Amy", 
       "last_name": "McQuillan", 
@@ -282,36 +312,6 @@ opendebate.processTimeline({
       "x": -122.637, 
       "id": 16233159, 
       "question_id": "16226952"
-    }, 
-    {
-      "city": "Fort Myers", 
-      "first_name": "Norman", 
-      "last_name": "Kurland", 
-      "user_id": 129749, 
-      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
-      "district": "FL_19", 
-      "created": "2013-08-08T20:24:22", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 26.5069, 
-      "x": -81.9285, 
-      "id": 16233154, 
-      "question_id": "16203676"
-    }, 
-    {
-      "city": "Ann Arbor", 
-      "first_name": "Wendy", 
-      "last_name": "Ransom", 
-      "user_id": 1737291, 
-      "submission": "To all Candidates...Will you support Elizabeth Warren's bill to allow college students to borrow under 1% interest of college loans? ", 
-      "district": "MI_12", 
-      "created": "2013-08-08T20:20:11", 
-      "state": "MI", 
-      "iface": "timeline_vote", 
-      "y": 42.3068, 
-      "x": -83.7004, 
-      "id": 16233082, 
-      "question_id": "16200733"
     }
   ]
 });
