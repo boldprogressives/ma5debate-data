@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Framingham", 
+      "first_name": "Barbara", 
+      "last_name": "Safran", 
+      "user_id": 1783165, 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T15:33:01", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2721, 
+      "x": -71.4248, 
+      "id": 16226648, 
+      "question_id": "16172281"
+    }, 
+    {
       "city": "Holliston", 
       "first_name": "", 
       "last_name": "", 
       "user_id": 1809907, 
-      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
       "district": "MA_05", 
-      "created": "2013-08-08T15:32:00", 
+      "created": "2013-08-08T15:32:45", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.1988, 
       "x": -71.4351, 
-      "id": 16226636, 
-      "question_id": "16172727"
+      "id": 16226646, 
+      "question_id": "16173335"
     }, 
     {
       "city": "Fresh  Meadows", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -73.79, 
       "id": 16226629, 
       "question_id": "16174331"
-    }, 
-    {
-      "city": "Framingham", 
-      "first_name": "Barbara", 
-      "last_name": "Safran", 
-      "user_id": 1783165, 
-      "submission": "How realistic is it that Wall Street/Banks will ever be held criminally accountable for the destruction it did to Americans and the ecomony?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T15:30:45", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2721, 
-      "x": -71.4248, 
-      "id": 16226626, 
-      "question_id": "16173397"
     }, 
     {
       "city": "Chambersburg", 
