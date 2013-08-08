@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "yakima", 
+      "first_name": "Elaine Smith", 
+      "last_name": "Smith", 
+      "user_id": 139591, 
+      "submission": "Will you fight to protect the Clean Air Act, the Clean Water Act and the EPA in a House of Representatives that has become increasingly hostile to all three?", 
+      "district": "WA_04", 
+      "created": "2013-08-08T20:41:01", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 46.5952, 
+      "x": -120.537, 
+      "id": 16233367, 
+      "question_id": "16226952"
+    }, 
+    {
       "city": "Cambridge", 
       "first_name": "Zev", 
       "last_name": "Dickstein", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -71.1802, 
       "id": 16233171, 
       "question_id": "16172765"
-    }, 
-    {
-      "city": "Portland", 
-      "first_name": "Dave", 
-      "last_name": "Dunkak", 
-      "user_id": 196310, 
-      "submission": "Will you fight to protect the Clean Air Act, the Clean Water Act and the EPA in a House of Representatives that has become increasingly hostile to all three?", 
-      "district": "OR_03", 
-      "created": "2013-08-08T20:24:35", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 45.4826, 
-      "x": -122.637, 
-      "id": 16233159, 
-      "question_id": "16226952"
     }
   ]
 });
