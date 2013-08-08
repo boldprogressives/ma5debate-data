@@ -6,6 +6,21 @@ opendebate.processTimeline({
       "first_name": "Annmari", 
       "last_name": "Lundin", 
       "user_id": 1695695, 
+      "submission": "Will you support the ERA and women's rights to make their own health care decisions without government interference, even if it includes abortion?  If not, why not? ", 
+      "district": "FL_07", 
+      "created": "2013-08-08T14:51:34", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 28.6608, 
+      "x": -81.3098, 
+      "id": 16226478, 
+      "question_id": "16176653"
+    }, 
+    {
+      "city": "Casselberry", 
+      "first_name": "Annmari", 
+      "last_name": "Lundin", 
+      "user_id": 1695695, 
       "submission": "Where do you stand on the issue of gay marriage and furthering LGBT rights?", 
       "district": "FL_07", 
       "created": "2013-08-08T14:50:53", 
@@ -285,21 +300,6 @@ opendebate.processTimeline({
       "x": -70.9082, 
       "id": 16226451, 
       "question_id": "16173512"
-    }, 
-    {
-      "city": "Swampscott", 
-      "first_name": "Ramon", 
-      "last_name": "Feiven", 
-      "user_id": 1668338, 
-      "submission": "What is your stance on the Equal Rights Amendment and will push for it to be a part of our Constitution?", 
-      "district": "MA_06", 
-      "created": "2013-08-08T14:43:36", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4723, 
-      "x": -70.9082, 
-      "id": 16226450, 
-      "question_id": "16207550"
     }, 
     {
       "city": "Bridgeport", 
