@@ -2,19 +2,68 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Elizabeth", 
+      "first_name": "Robert", 
+      "last_name": "Stephens", 
+      "user_id": 127246, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "NJ_08", 
+      "created": "2013-08-08T20:44:03", 
+      "state": "NJ", 
+      "iface": "timeline_vote", 
+      "y": 40.6562, 
+      "x": -74.2185, 
+      "id": 16233406, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "Tucson", 
       "first_name": "Pricilla", 
       "last_name": "Smith", 
       "user_id": 1699383, 
-      "submission": "Why is it that Halliburton only gets a $200K fine for destroying evidence concerning the Gulf oil spill when if you make a copy of a DVD you get a $250K fine and up to 5 years in prison?", 
+      "submission": "Why don't we change the lobbying rules so that we do not have a system that legalizes bribery, and why do we not reform the filibuster so congress does not have an excuse to continue doing nothing ?", 
       "district": "AZ_02", 
-      "created": "2013-08-08T20:42:55", 
+      "created": "2013-08-08T20:43:59", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 32.2539, 
       "x": -110.885, 
-      "id": 16233385, 
-      "question_id": "16175493"
+      "id": 16233404, 
+      "question_id": "16174072"
+    }, 
+    {
+      "city": "New Braintree", 
+      "first_name": "L. J.", 
+      "last_name": "Lanfranchi", 
+      "user_id": 1698340, 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "district": "MA_02", 
+      "created": "2013-08-08T20:43:30", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.321, 
+      "x": -72.1426, 
+      "id": 16233397, 
+      "question_id": "16172303"
+    }, 
+    {
+      "city": "Cambridge", 
+      "first_name": "Zev", 
+      "last_name": "Dickstein", 
+      "user_id": 1810046, 
+      "submission": "What do you think about gambling and gaming and the recent casino plans put out for this year not only in the 5th district? Are there better ways for MA to get revenue other than casinos?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T20:43:23", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.3923, 
+      "x": -71.1313, 
+      "latest_vote": null, 
+      "id": 16233394, 
+      "trending_score": 0.5
     }, 
     {
       "city": "yakima", 
@@ -45,21 +94,6 @@ opendebate.processTimeline({
       "x": -122.614, 
       "id": 16233369, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Cambridge", 
-      "first_name": "Zev", 
-      "last_name": "Dickstein", 
-      "user_id": 1810046, 
-      "submission": "Solar would bring in new jobs and the factorys built in this country you could even run street lights, stop and go lights i know it would help with the citys tax base, becouse i build solar heat exchangers for the low income folks and it works becouse my heating bills run 16.00 dollars a month 2 years ago last year 48 dollars a month why would not want that ?", 
-      "district": "MA_05", 
-      "created": "2013-08-08T20:39:40", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3923, 
-      "x": -71.1313, 
-      "id": 16233351, 
-      "question_id": "16172866"
     }, 
     {
       "city": "New York", 
@@ -278,36 +312,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16233222, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Greenfield", 
-      "first_name": "Katherine", 
-      "last_name": "Batsis", 
-      "user_id": 1692590, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "MA_02", 
-      "created": "2013-08-08T20:28:14", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.6029, 
-      "x": -72.5986, 
-      "id": 16233206, 
-      "question_id": "16172266"
-    }, 
-    {
-      "city": "Philo", 
-      "first_name": "kurt", 
-      "last_name": "englehart", 
-      "user_id": 1637407, 
-      "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
-      "district": "OH_12", 
-      "created": "2013-08-08T20:27:45", 
-      "state": "OH", 
-      "iface": "timeline_vote", 
-      "y": 39.8483, 
-      "x": -81.9365, 
-      "id": 16233204, 
-      "question_id": "16175500"
     }
   ]
 });
