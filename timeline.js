@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Robert", 
       "last_name": "Stephens", 
       "user_id": 127246, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
       "district": "NJ_08", 
-      "created": "2013-08-08T20:45:01", 
+      "created": "2013-08-08T20:45:18", 
       "state": "NJ", 
       "iface": "timeline_vote", 
       "y": 40.6562, 
       "x": -74.2185, 
-      "id": 16233428, 
-      "question_id": "16173264"
+      "id": 16233434, 
+      "question_id": "16172697"
     }, 
     {
       "city": "Saint Paul", 
