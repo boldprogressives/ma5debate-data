@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Casselberry", 
+      "first_name": "Annmari", 
+      "last_name": "Lundin", 
+      "user_id": 1695695, 
+      "submission": "Where do you stand on the issue of gay marriage and furthering LGBT rights?", 
+      "district": "FL_07", 
+      "created": "2013-08-08T14:50:53", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 28.6608, 
+      "x": -81.3098, 
+      "id": 16226476, 
+      "question_id": "16183713"
+    }, 
+    {
       "city": "Swampscott", 
       "first_name": "Ramon", 
       "last_name": "Feiven", 
@@ -285,21 +300,6 @@ opendebate.processTimeline({
       "x": -70.9082, 
       "id": 16226450, 
       "question_id": "16207550"
-    }, 
-    {
-      "city": "Swampscott", 
-      "first_name": "Ramon", 
-      "last_name": "Feiven", 
-      "user_id": 1668338, 
-      "submission": "Given that America is engaged in perpetual war, significantly draining our economy, and in my opinion, not significantly protecting our freedom, what are your thoughts on the perpetual warfare state?", 
-      "district": "MA_06", 
-      "created": "2013-08-08T14:43:28", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4723, 
-      "x": -70.9082, 
-      "id": 16226449, 
-      "question_id": "16173193"
     }, 
     {
       "city": "Bridgeport", 
