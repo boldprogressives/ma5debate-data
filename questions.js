@@ -816,7 +816,7 @@ opendebate.processFetchedQuestions({
       "x": -73.2993, 
       "latest_vote": "2013-08-08T18:22:26", 
       "id": 16225925, 
-      "trending_score": 5.166666666666667
+      "trending_score": 2.3333333333333335
     }, 
     {
       "city": "Fitchburg", 
@@ -6849,16 +6849,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you think SCOTUS and their family should be involved in campaigns like GROUNDSWELL to promote misinformation when other US Judges are not?", 
       "district": "KY_01", 
       "created": "2013-08-06T23:47:06", 
-      "state_votes": 1, 
-      "votes": 21, 
+      "state_votes": 2, 
+      "votes": 22, 
       "district_votes": 0, 
       "state": "KY", 
       "iface": "question", 
       "y": 36.7811, 
       "x": -88.2527, 
-      "latest_vote": "2013-08-07T03:55:33", 
+      "latest_vote": "2013-08-08T18:35:51", 
       "id": 16209714, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Inglewood", 
@@ -7020,16 +7020,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you support abolition of the death penalty?", 
       "district": "VA_03", 
       "created": "2013-08-06T22:53:34", 
-      "state_votes": 2, 
-      "votes": 21, 
+      "state_votes": 3, 
+      "votes": 22, 
       "district_votes": 1, 
       "state": "VA", 
       "iface": "question", 
       "y": 37.5583, 
       "x": -77.4886, 
-      "latest_vote": "2013-08-07T22:54:20", 
+      "latest_vote": "2013-08-08T18:36:00", 
       "id": 16208824, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Pittsburgh", 
@@ -7040,15 +7040,15 @@ opendebate.processFetchedQuestions({
       "district": "PA_14", 
       "created": "2013-08-06T22:53:13", 
       "state_votes": 7, 
-      "votes": 54, 
+      "votes": 55, 
       "district_votes": 2, 
       "state": "PA", 
       "iface": "question", 
       "y": 40.4289, 
       "x": -79.9232, 
-      "latest_vote": "2013-08-08T18:27:02", 
+      "latest_vote": "2013-08-08T18:35:58", 
       "id": 16208816, 
-      "trending_score": 5.5
+      "trending_score": 6.5
     }, 
     {
       "city": "Sarasota", 
@@ -7306,15 +7306,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_20", 
       "created": "2013-08-06T22:24:43", 
       "state_votes": 8, 
-      "votes": 59, 
+      "votes": 60, 
       "district_votes": 3, 
       "state": "FL", 
       "iface": "question", 
       "y": 26.2336, 
       "x": -80.1568, 
-      "latest_vote": "2013-08-08T18:27:43", 
+      "latest_vote": "2013-08-08T18:35:28", 
       "id": 16207967, 
-      "trending_score": 9.5
+      "trending_score": 10.5
     }, 
     {
       "city": "South San Francisco", 
@@ -7496,15 +7496,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_04", 
       "created": "2013-08-06T22:02:13", 
       "state_votes": 6, 
-      "votes": 40, 
+      "votes": 42, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.1677, 
       "x": -71.3601, 
-      "latest_vote": "2013-08-08T18:21:09", 
+      "latest_vote": "2013-08-08T18:35:58", 
       "id": 16207233, 
-      "trending_score": 3.0
+      "trending_score": 4.0
     }, 
     {
       "city": "Melbourne Beach", 
@@ -8674,15 +8674,15 @@ opendebate.processFetchedQuestions({
       "district": "MI_11", 
       "created": "2013-08-06T19:59:23", 
       "state_votes": 14, 
-      "votes": 67, 
+      "votes": 68, 
       "district_votes": 4, 
       "state": "MI", 
       "iface": "question", 
       "y": 42.5952, 
       "x": -83.1201, 
-      "latest_vote": "2013-08-08T18:19:14", 
+      "latest_vote": "2013-08-08T18:35:34", 
       "id": 16203215, 
-      "trending_score": 6.5
+      "trending_score": 7.5
     }, 
     {
       "city": "Lake Worth", 
@@ -9054,15 +9054,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_11", 
       "created": "2013-08-06T19:25:15", 
       "state_votes": 9, 
-      "votes": 81, 
+      "votes": 82, 
       "district_votes": 3, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.9521, 
       "x": -122.074, 
-      "latest_vote": "2013-08-08T18:34:45", 
+      "latest_vote": "2013-08-08T18:35:30", 
       "id": 16201467, 
-      "trending_score": 9.5
+      "trending_score": 10.5
     }, 
     {
       "city": "Needham Heights", 
@@ -9575,7 +9575,7 @@ opendebate.processFetchedQuestions({
       "x": -86.4672, 
       "latest_vote": "2013-08-08T18:31:42", 
       "id": 16199834, 
-      "trending_score": 11.5
+      "trending_score": 21.25
     }, 
     {
       "city": "Ashland", 
@@ -17745,7 +17745,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7896, 
       "latest_vote": "2013-08-08T18:25:29", 
       "id": 16176855, 
-      "trending_score": 6.166666666666667
+      "trending_score": 7.5
     }, 
     {
       "city": "Kula", 
@@ -18743,16 +18743,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you support the labeling of GMOs and if so, what do you intend to do to promote people's right to know what is in their food?", 
       "district": "TN_03", 
       "created": "2013-08-05T02:57:27", 
-      "state_votes": 47, 
-      "votes": 239, 
+      "state_votes": 48, 
+      "votes": 240, 
       "district_votes": 12, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.1253, 
       "x": -84.8666, 
-      "latest_vote": "2013-08-08T18:22:55", 
+      "latest_vote": "2013-08-08T18:35:26", 
       "id": 16176001, 
-      "trending_score": 21.125
+      "trending_score": 22.125
     }, 
     {
       "city": "Little Rock", 
@@ -19436,7 +19436,7 @@ opendebate.processFetchedQuestions({
       "x": -122.322, 
       "latest_vote": "2013-08-08T18:34:40", 
       "id": 16175493, 
-      "trending_score": 69.16666666666667
+      "trending_score": 34.333333333333336
     }, 
     {
       "city": "Seattle", 
@@ -20719,16 +20719,16 @@ opendebate.processFetchedQuestions({
       "submission": "Why don't we change the lobbying rules so that we do not have a system that legalizes bribery, and why do we not reform the filibuster so congress does not have an excuse to continue doing nothing ?", 
       "district": "OR_05", 
       "created": "2013-08-04T15:18:55", 
-      "state_votes": 37, 
-      "votes": 246, 
+      "state_votes": 38, 
+      "votes": 247, 
       "district_votes": 5, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.6898, 
       "x": -123.884, 
-      "latest_vote": "2013-08-08T18:32:28", 
+      "latest_vote": "2013-08-08T18:35:47", 
       "id": 16174072, 
-      "trending_score": 55.5
+      "trending_score": 56.5
     }, 
     {
       "city": "Cape Girardeau", 
@@ -21298,7 +21298,7 @@ opendebate.processFetchedQuestions({
       "x": -122.314, 
       "latest_vote": "2013-08-08T18:06:28", 
       "id": 16173397, 
-      "trending_score": 4.5
+      "trending_score": 5.0
     }, 
     {
       "city": "Houston", 
@@ -21697,7 +21697,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-08T18:31:09", 
       "id": 16173264, 
-      "trending_score": 15.916666666666666
+      "trending_score": 17.928571428571427
     }, 
     {
       "city": "Prosper", 
@@ -21764,16 +21764,16 @@ opendebate.processFetchedQuestions({
       "submission": "Congress persons have voted to put themselves in the driver's seat when it comes to their salaries. They vote themselves raises and we as citizens cannot over turn. What will you do to stop this practice?", 
       "district": "TX_03", 
       "created": "2013-08-04T01:15:12", 
-      "state_votes": 30, 
-      "votes": 244, 
+      "state_votes": 31, 
+      "votes": 245, 
       "district_votes": 3, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-08T18:30:22", 
+      "latest_vote": "2013-08-08T18:35:16", 
       "id": 16173244, 
-      "trending_score": 59.25
+      "trending_score": 30.0
     }, 
     {
       "city": "Saint Peters", 
@@ -21830,7 +21830,7 @@ opendebate.processFetchedQuestions({
       "x": -122.607, 
       "latest_vote": "2013-08-08T18:31:27", 
       "id": 16173225, 
-      "trending_score": 49.5
+      "trending_score": 25.0
     }, 
     {
       "city": "Saint Peters", 
@@ -22457,7 +22457,7 @@ opendebate.processFetchedQuestions({
       "x": -114.294, 
       "latest_vote": "2013-08-08T18:34:29", 
       "id": 16172913, 
-      "trending_score": 28.3
+      "trending_score": 21.15
     }, 
     {
       "city": "Montegut", 
@@ -22571,7 +22571,7 @@ opendebate.processFetchedQuestions({
       "x": -91.087, 
       "latest_vote": "2013-08-08T18:14:51", 
       "id": 16172866, 
-      "trending_score": 16.1
+      "trending_score": 7.7
     }, 
     {
       "city": "Austin", 
@@ -22628,7 +22628,7 @@ opendebate.processFetchedQuestions({
       "x": -89.7423, 
       "latest_vote": "2013-08-08T18:31:17", 
       "id": 16172823, 
-      "trending_score": 14.416666666666666
+      "trending_score": 11.0
     }, 
     {
       "city": "", 
@@ -22999,16 +22999,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
       "district": "WA_06", 
       "created": "2013-08-03T22:09:55", 
-      "state_votes": 95, 
-      "votes": 661, 
+      "state_votes": 96, 
+      "votes": 662, 
       "district_votes": 25, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.3581, 
       "x": -122.594, 
-      "latest_vote": "2013-08-08T18:32:29", 
+      "latest_vote": "2013-08-08T18:35:50", 
       "id": 16172690, 
-      "trending_score": 13.708333333333334
+      "trending_score": 14.041666666666666
     }, 
     {
       "city": "Gig Harbor", 
@@ -23027,7 +23027,7 @@ opendebate.processFetchedQuestions({
       "x": -122.594, 
       "latest_vote": "2013-08-08T18:33:05", 
       "id": 16172688, 
-      "trending_score": 44.5
+      "trending_score": 22.5
     }, 
     {
       "city": "Eldridge", 
@@ -23312,7 +23312,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2368, 
       "latest_vote": "2013-08-08T18:32:16", 
       "id": 16172542, 
-      "trending_score": 14.75
+      "trending_score": 9.708333333333334
     }, 
     {
       "city": "Cambridge", 
@@ -23626,16 +23626,16 @@ opendebate.processFetchedQuestions({
       "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
       "district": "MA_05", 
       "created": "2013-08-03T17:00:17", 
-      "state_votes": 132, 
-      "votes": 752, 
+      "state_votes": 134, 
+      "votes": 754, 
       "district_votes": 38, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.366, 
       "x": -71.1035, 
-      "latest_vote": "2013-08-08T18:26:36", 
+      "latest_vote": "2013-08-08T18:35:25", 
       "id": 16172207, 
-      "trending_score": 17.75
+      "trending_score": 18.75
     }, 
     {
       "city": "Arlington", 
