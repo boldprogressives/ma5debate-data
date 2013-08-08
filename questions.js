@@ -525,8 +525,8 @@ opendebate.processFetchedQuestions({
     }, 
     {
       "city": "Savannah", 
-      "first_name": "Martha Bargeron", 
-      "last_name": "125 Blue heron Drive Savannah, GA", 
+      "first_name": "Martha", 
+      "last_name": "Bargeron", 
       "user_id": 1649648, 
       "submission": "Given the disaster resulting from repeal of Glass-Speigel why has it not been reinstated and will you sponsor a bill to reinstate it?", 
       "district": "GA_01", 
