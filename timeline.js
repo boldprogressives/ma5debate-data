@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Austin", 
+      "first_name": "Otto", 
+      "last_name": "Olivera", 
+      "user_id": 187492, 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
+      "district": "TX_10", 
+      "created": "2013-08-08T20:07:42", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 30.3788, 
+      "x": -97.7111, 
+      "id": 16232898, 
+      "question_id": "16202059"
+    }, 
+    {
       "city": "Holt", 
       "first_name": "LEILA", 
       "last_name": "NYE", 
       "user_id": 1778492, 
-      "submission": "How will you help fight corruption due tp the influence of money in congress?", 
+      "submission": "9-in-10 Americans (87%) are deeply disturbed by the corruption in Congress, which ranks 2nd only to jobs as a priority in recent polling, so what will you do to stop corruption around you in Congress?", 
       "district": "MI_08", 
-      "created": "2013-08-08T20:06:58", 
+      "created": "2013-08-08T20:07:35", 
       "state": "MI", 
       "iface": "timeline_vote", 
       "y": 42.6405, 
       "x": -84.5287, 
-      "id": 16232890, 
-      "question_id": "16217107"
+      "id": 16232896, 
+      "question_id": "16208638"
     }, 
     {
       "city": "Sacramento", 
       "first_name": "Kim", 
       "last_name": "Honeychurch", 
       "user_id": 145299, 
-      "submission": "Can our Postal Service be saved from the death blow Congress dealt it in 2006?", 
+      "submission": "Can you explain why the people responsible for the failure of Wall Street and the banking industry have not been held accountable for the destruction of our economy.", 
       "district": "CA_07", 
-      "created": "2013-08-08T20:06:57", 
+      "created": "2013-08-08T20:07:04", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 38.4835, 
       "x": -121.352, 
-      "id": 16232889, 
-      "question_id": "16173512"
+      "id": 16232892, 
+      "question_id": "16201979"
     }, 
     {
       "city": "Leasburg", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16232520, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Rialto", 
-      "first_name": "Kathleen", 
-      "last_name": "Delgado", 
-      "user_id": 208612, 
-      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
-      "district": "CA_31", 
-      "created": "2013-08-08T19:49:15", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 34.1507, 
-      "x": -117.407, 
-      "id": 16232518, 
-      "question_id": "16172690"
     }
   ]
 });
