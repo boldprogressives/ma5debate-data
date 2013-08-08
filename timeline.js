@@ -2,19 +2,79 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Ponce de Leon", 
+      "first_name": "Jack", 
+      "last_name": "Yates", 
+      "user_id": 1772170, 
+      "submission": "Do you think Supreme Court Judges should sign/abide by a Code Of Ethics?", 
+      "district": "FL_01", 
+      "created": "2013-08-08T18:52:00", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 30.771, 
+      "x": -85.9538, 
+      "id": 16230963, 
+      "question_id": "16194740"
+    }, 
+    {
       "city": "Holland", 
       "first_name": "Don", 
       "last_name": "Bergman", 
       "user_id": 658010, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "submission": "Why  is social security only funded by the lowest earners in the country.", 
       "district": "MI_02", 
-      "created": "2013-08-08T18:51:02", 
+      "created": "2013-08-08T18:51:59", 
       "state": "MI", 
       "iface": "timeline_vote", 
       "y": 42.8217, 
       "x": -86.1469, 
-      "id": 16230945, 
-      "question_id": "16173264"
+      "id": 16230964, 
+      "question_id": "16173225"
+    }, 
+    {
+      "city": "Rochester", 
+      "first_name": "Ira", 
+      "last_name": "Simel", 
+      "user_id": 1095087, 
+      "submission": "What do you feel about the Republican's relentless push to eliminate or seriously curtail abortion rights in most states, and what can be done about it?", 
+      "district": "NY_25", 
+      "created": "2013-08-08T18:51:56", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 43.1519, 
+      "x": -77.5935, 
+      "id": 16230962, 
+      "question_id": "16172892"
+    }, 
+    {
+      "city": "Carver", 
+      "first_name": "Judith", 
+      "last_name": "Kelly", 
+      "user_id": 1652499, 
+      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
+      "district": "MA_09", 
+      "created": "2013-08-08T18:51:55", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 41.8805, 
+      "x": -70.7675, 
+      "id": 16230960, 
+      "question_id": "16175637"
+    }, 
+    {
+      "city": "Arlington", 
+      "first_name": "Rhianna", 
+      "last_name": "VanHeynigen", 
+      "user_id": 1810001, 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "district": "MA_05", 
+      "created": "2013-08-08T18:51:51", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4207, 
+      "x": -71.1582, 
+      "id": 16230958, 
+      "question_id": "16172913"
     }, 
     {
       "city": "Atlanta", 
@@ -32,21 +92,6 @@ opendebate.processTimeline({
       "question_id": "16173210"
     }, 
     {
-      "city": "Rochester", 
-      "first_name": "Ira", 
-      "last_name": "Simel", 
-      "user_id": 1095087, 
-      "submission": "How do you propose stopping the GOPs continued assault on women's reproductive rights?", 
-      "district": "NY_25", 
-      "created": "2013-08-08T18:50:40", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 43.1519, 
-      "x": -77.5935, 
-      "id": 16230940, 
-      "question_id": "16205884"
-    }, 
-    {
       "city": "Tulsa", 
       "first_name": "Nadjia", 
       "last_name": "Zouioueche", 
@@ -60,36 +105,6 @@ opendebate.processTimeline({
       "x": -95.9535, 
       "id": 16230936, 
       "question_id": "16229458"
-    }, 
-    {
-      "city": "Ponce de Leon", 
-      "first_name": "Jack", 
-      "last_name": "Yates", 
-      "user_id": 1772170, 
-      "submission": "What will you do personally to stop the outflow of jobs for middle and low income Americans?", 
-      "district": "FL_01", 
-      "created": "2013-08-08T18:50:34", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 30.771, 
-      "x": -85.9538, 
-      "id": 16230932, 
-      "question_id": "16226899"
-    }, 
-    {
-      "city": "Carver", 
-      "first_name": "Judith", 
-      "last_name": "Kelly", 
-      "user_id": 1652499, 
-      "submission": "What can you do to improve public transit nationally, including building a good rail network, when the governors and legislatures of some key states are so resistant to it?", 
-      "district": "MA_09", 
-      "created": "2013-08-08T18:50:32", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 41.8805, 
-      "x": -70.7675, 
-      "id": 16230930, 
-      "question_id": "16172286"
     }, 
     {
       "city": "Delray Beach", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -71.1032, 
       "id": 16230789, 
       "question_id": "16175729"
-    }, 
-    {
-      "city": "Florence", 
-      "first_name": "Douglas", 
-      "last_name": "Renick", 
-      "user_id": 113234, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "MA_02", 
-      "created": "2013-08-08T18:43:02", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3316, 
-      "x": -72.6926, 
-      "id": 16230786, 
-      "question_id": "16172777"
     }
   ]
 });
