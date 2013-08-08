@@ -2,8 +2,23 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Tucson", 
+      "first_name": "Pricilla", 
+      "last_name": "Smith", 
+      "user_id": 1699383, 
+      "submission": "Why is it that Halliburton only gets a $200K fine for destroying evidence concerning the Gulf oil spill when if you make a copy of a DVD you get a $250K fine and up to 5 years in prison?", 
+      "district": "AZ_02", 
+      "created": "2013-08-08T20:42:55", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 32.2539, 
+      "x": -110.885, 
+      "id": 16233385, 
+      "question_id": "16175493"
+    }, 
+    {
       "city": "yakima", 
-      "first_name": "Elaine Smith", 
+      "first_name": "Elaine", 
       "last_name": "Smith", 
       "user_id": 139591, 
       "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
@@ -293,25 +308,6 @@ opendebate.processTimeline({
       "x": -81.9365, 
       "id": 16233204, 
       "question_id": "16175500"
-    }, 
-    {
-      "city": "Livermore", 
-      "first_name": "Edward", 
-      "last_name": "Kansa", 
-      "user_id": 1777190, 
-      "submission": "Why must the USA spend so much on the DOD while Congress slashes help for persons? Is this not welfare for contractors?", 
-      "district": "CA_15", 
-      "created": "2013-08-08T20:26:33", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "CA", 
-      "iface": "timeline_question", 
-      "y": 37.6814, 
-      "x": -121.753, 
-      "latest_vote": null, 
-      "id": 16233195, 
-      "trending_score": 0.5
     }
   ]
 });
