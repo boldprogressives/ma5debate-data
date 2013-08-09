@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Daniel", 
       "last_name": "Sarasin", 
       "user_id": 1487238, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "submission": "Do you support the labeling of GMOs and if so, what do you intend to do to promote people's right to know what is in their food?", 
       "district": "MI_13", 
-      "created": "2013-08-09T22:37:24", 
+      "created": "2013-08-09T22:38:51", 
       "state": "MI", 
       "iface": "timeline_vote", 
       "y": 42.3801, 
       "x": -83.0518, 
-      "id": 16287145, 
-      "question_id": "16172533"
+      "id": 16287151, 
+      "question_id": "16176001"
     }, 
     {
       "city": "Newton", 
       "first_name": "Kyle", 
       "last_name": "Baymiller", 
       "user_id": 1667701, 
-      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
       "district": "KS_04", 
-      "created": "2013-08-09T22:35:51", 
+      "created": "2013-08-09T22:38:18", 
       "state": "KS", 
       "iface": "timeline_vote", 
       "y": 38.0463, 
       "x": -97.3506, 
-      "id": 16287140, 
-      "question_id": "16203866"
+      "id": 16287147, 
+      "question_id": "16172777"
     }, 
     {
       "city": "Rockledge", 
