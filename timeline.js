@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Golden", 
+      "first_name": "LouAnne", 
+      "last_name": "Dale", 
+      "user_id": 91258, 
+      "submission": "Why have so few Wall Street CEOs been indicted for their part in the 2007 Economic Crash ?  Who has been protecting them ?", 
+      "district": "CO_07", 
+      "created": "2013-08-09T10:24:02", 
+      "state": "CO", 
+      "iface": "timeline_vote", 
+      "y": 39.818, 
+      "x": -105.251, 
+      "id": 16270848, 
+      "question_id": "16205046"
+    }, 
+    {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "will you support taxing companies for shipping jobs overseas instead of giving them tax rebates and refunds", 
+      "district": "MA_04", 
+      "created": "2013-08-09T10:23:59", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16270846, 
+      "question_id": "16209148"
+    }, 
+    {
       "city": "Nashville", 
       "first_name": "D. S.", 
       "last_name": "Kinzie", 
@@ -15,36 +45,6 @@ opendebate.processTimeline({
       "x": -86.7806, 
       "id": 16270836, 
       "question_id": "16264837"
-    }, 
-    {
-      "city": "Golden", 
-      "first_name": "LouAnne", 
-      "last_name": "Dale", 
-      "user_id": 91258, 
-      "submission": "The sequester just slashed Meals on Wheels, food stamps, Section 8 vouchers for housing for the needy.  Since we all have to \"tighten our belts\" how come Congress gets a pay RAISE this year?", 
-      "district": "CO_07", 
-      "created": "2013-08-09T10:22:45", 
-      "state": "CO", 
-      "iface": "timeline_vote", 
-      "y": 39.818, 
-      "x": -105.251, 
-      "id": 16270835, 
-      "question_id": "16209412"
-    }, 
-    {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "Who are your corporate sponsors? Would you be in favor of all politicians wearing patches on their cloths with the corporate logo's of their sponsors just like athletes do. This way we know where the money comes from before we vote.", 
-      "district": "MA_04", 
-      "created": "2013-08-09T10:22:43", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16270834, 
-      "question_id": "16175691"
     }, 
     {
       "city": "Seattle", 
