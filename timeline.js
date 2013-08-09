@@ -6,15 +6,45 @@ opendebate.processTimeline({
       "first_name": "Richard", 
       "last_name": "Barstow", 
       "user_id": 44028, 
-      "submission": "What is your position on the Keystone XL pipeline and on fracking? Specifically what would you do to stop climate change and move to renewable energy?", 
+      "submission": "Would you support the proposition that Big Oil should help to fund the veterans rehab issues, and their benefits since they were sent to fight for their safe access to oil.", 
       "district": "FL_11", 
-      "created": "2013-08-09T23:00:55", 
+      "created": "2013-08-09T23:01:50", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 29.1562, 
       "x": -82.196, 
-      "id": 16287558, 
-      "question_id": "16207584"
+      "id": 16287567, 
+      "question_id": "16173438"
+    }, 
+    {
+      "city": "Hemphill", 
+      "first_name": "Cecil", 
+      "last_name": "Jones", 
+      "user_id": 1779842, 
+      "submission": "Will you support the ERA and women's rights to make their own health care decisions without government interference, even if it includes abortion?  If not, why not? ", 
+      "district": "TX_01", 
+      "created": "2013-08-09T23:01:49", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 31.3087, 
+      "x": -93.7716, 
+      "id": 16287566, 
+      "question_id": "16176653"
+    }, 
+    {
+      "city": "El Prado", 
+      "first_name": "Sally", 
+      "last_name": "Phelps", 
+      "user_id": 1567108, 
+      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
+      "district": "NM_03", 
+      "created": "2013-08-09T23:01:38", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 36.4486, 
+      "x": -105.575, 
+      "id": 16287564, 
+      "question_id": "16203676"
     }, 
     {
       "city": "Salem", 
@@ -278,36 +308,6 @@ opendebate.processTimeline({
       "x": -124.056, 
       "id": 16287059, 
       "question_id": "16175192"
-    }, 
-    {
-      "city": "Boston", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1810378, 
-      "submission": "In the talk about government spending, there has been discussion about entitlements, but very little discussion about corporate welfare. Examples of corporate welfare include profitable companies such GE paying no federal income taxes, or corporations not paying taxes on profits made overseas. Would you support and work to eliminate all corporate welfare?", 
-      "district": "MA_07", 
-      "created": "2013-08-09T22:21:02", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3449, 
-      "x": -71.1016, 
-      "id": 16287050, 
-      "question_id": "16249133"
-    }, 
-    {
-      "city": "SCOTTSDALE", 
-      "first_name": "JAMES", 
-      "last_name": "GIEBELHAUS", 
-      "user_id": 505239, 
-      "submission": "What can you do to improve public transit nationally, including building a good rail network, when the governors and legislatures of some key states are so resistant to it?", 
-      "district": "AZ_09", 
-      "created": "2013-08-09T22:17:10", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 33.4667, 
-      "x": -111.918, 
-      "id": 16287018, 
-      "question_id": "16172286"
     }
   ]
 });
