@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "Would you support the public's right to have GMO's labeled as such?", 
-      "district": "MA_04", 
-      "created": "2013-08-09T10:44:50", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16271013, 
-      "question_id": "16200699"
-    }, 
-    {
       "city": "Nashville", 
       "first_name": "D. S.", 
       "last_name": "Kinzie", 
       "user_id": 88880, 
-      "submission": "Do you realize will live in an age of \"Neo-Feudalism\" & that the past\"Lords of the Manors\"  are  the 1% of today who \"own\" government,economics & mass media? e.g. Corporate donors control \"elected\"...", 
+      "submission": "Science has proven again and again that many herbicides and pesticides initially approved for agricultural and residential use are highly toxic to the environment.  Would you propose, endorse, and/or support, legislation that imposes statutory time limits on regulatory approvals for all pesticides and herbicides, which triggers a  mandatory environmental impact reassessment every 8 to 10 years without exception and does not allow \"grandfathering\" of any such products that have already approved for use?     ", 
       "district": "TN_05", 
-      "created": "2013-08-09T10:44:43", 
+      "created": "2013-08-09T10:45:57", 
       "state": "TN", 
       "iface": "timeline_vote", 
       "y": 36.1088, 
       "x": -86.7806, 
-      "id": 16271012, 
-      "question_id": "16259713"
+      "id": 16271016, 
+      "question_id": "16226498"
+    }, 
+    {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "We all know Social Security is more than solvent. Why is a Democratic administration trying to cut back on benefits when it should be raising them? ", 
+      "district": "MA_04", 
+      "created": "2013-08-09T10:45:42", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16271015, 
+      "question_id": "16176614"
     }, 
     {
       "city": "Sacramento", 
