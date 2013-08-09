@@ -2,6 +2,66 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Barnum", 
+      "first_name": "James", 
+      "last_name": "Korioth", 
+      "user_id": 1693318, 
+      "submission": "Do you support the concept of keeping church and state separate?", 
+      "district": "MN_08", 
+      "created": "2013-08-09T13:35:02", 
+      "state": "MN", 
+      "iface": "timeline_vote", 
+      "y": 46.5765, 
+      "x": -92.7179, 
+      "id": 16273127, 
+      "question_id": "16173921"
+    }, 
+    {
+      "city": "Holloway", 
+      "first_name": "Ronald", 
+      "last_name": "Sims", 
+      "user_id": 1795018, 
+      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
+      "district": "OH_06", 
+      "created": "2013-08-09T13:34:27", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 40.161, 
+      "x": -81.1274, 
+      "id": 16273119, 
+      "question_id": "16175740"
+    }, 
+    {
+      "city": "Athens", 
+      "first_name": "llynn", 
+      "last_name": "manzione", 
+      "user_id": 698396, 
+      "submission": "What are your thoughts on how to stop corporate welfare, tax loopholes and subsidies.", 
+      "district": "GA_09", 
+      "created": "2013-08-09T13:34:16", 
+      "state": "GA", 
+      "iface": "timeline_vote", 
+      "y": 33.9924, 
+      "x": -83.4167, 
+      "id": 16273114, 
+      "question_id": "16206470"
+    }, 
+    {
+      "city": "Amarillo", 
+      "first_name": "alesa", 
+      "last_name": "nolan", 
+      "user_id": 1716047, 
+      "submission": "Will you vote to end tax loopholes for the rich, big business subsides, overseas corporate tax loopholes, wasteful wars, foreign country subsides, quality health care for all, good safe food for all, clean air, clean energy, clean safe drinking water, useful education and job opportunities for all hard working citizens that can achieve these levels and deserve it, gun control, to end wall street fraud and corruption.", 
+      "district": "TX_13", 
+      "created": "2013-08-09T13:34:10", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 35.1869, 
+      "x": -101.804, 
+      "id": 16273112, 
+      "question_id": "16203215"
+    }, 
+    {
       "city": "Monmouth", 
       "first_name": "Thomas", 
       "last_name": "Rousseau", 
@@ -15,36 +75,6 @@ opendebate.processTimeline({
       "x": -70.0637, 
       "id": 16273108, 
       "question_id": "16180456"
-    }, 
-    {
-      "city": "Barnum", 
-      "first_name": "James", 
-      "last_name": "Korioth", 
-      "user_id": 1693318, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
-      "district": "MN_08", 
-      "created": "2013-08-09T13:33:56", 
-      "state": "MN", 
-      "iface": "timeline_vote", 
-      "y": 46.5765, 
-      "x": -92.7179, 
-      "id": 16273106, 
-      "question_id": "16173264"
-    }, 
-    {
-      "city": "Athens", 
-      "first_name": "llynn", 
-      "last_name": "manzione", 
-      "user_id": 698396, 
-      "submission": "What will you do to reverse the practice of giving big tax breaks and government subsidies to large corporations?", 
-      "district": "GA_09", 
-      "created": "2013-08-09T13:33:56", 
-      "state": "GA", 
-      "iface": "timeline_vote", 
-      "y": 33.9924, 
-      "x": -83.4167, 
-      "id": 16273107, 
-      "question_id": "16246657"
     }, 
     {
       "city": "Statesboro", 
@@ -94,21 +124,6 @@ opendebate.processTimeline({
       "x": -122.64, 
       "id": 16273096, 
       "question_id": "16172207"
-    }, 
-    {
-      "city": "Amarillo", 
-      "first_name": "alesa", 
-      "last_name": "nolan", 
-      "user_id": 1716047, 
-      "submission": "Would you support the pardoning of all victimless crime marijuana (Cannabis) offenders? Depopulating our For Profit Prisons?", 
-      "district": "TX_13", 
-      "created": "2013-08-09T13:33:17", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 35.1869, 
-      "x": -101.804, 
-      "id": 16273092, 
-      "question_id": "16208291"
     }, 
     {
       "city": "Stillwater", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -98.8567, 
       "id": 16272846, 
       "question_id": "16172697"
-    }, 
-    {
-      "city": "Clyde", 
-      "first_name": "LISA", 
-      "last_name": "DRENNEN", 
-      "user_id": 539326, 
-      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
-      "district": "OH_04", 
-      "created": "2013-08-09T13:22:00", 
-      "state": "OH", 
-      "iface": "timeline_vote", 
-      "y": 41.3155, 
-      "x": -82.9633, 
-      "id": 16272815, 
-      "question_id": "16173210"
     }
   ]
 });
