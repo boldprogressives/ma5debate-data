@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "Do elected Republicans in Congress do more damage to America than any, \"Terrorist\" effort could ever hope to achieve?", 
+      "submission": "What will you do to keep elected judges honest, fair & to prevent \"campaign contributions\" & bribes from protecting criminals & supporting white collar crime, distorting the original rule of law?", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:12:55", 
+      "created": "2013-08-09T21:13:09", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286039, 
-      "question_id": "16229458"
+      "id": 16286040, 
+      "question_id": "16233222"
     }, 
     {
       "city": "SEDONA", 
