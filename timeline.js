@@ -6,30 +6,60 @@ opendebate.processTimeline({
       "first_name": "Mary", 
       "last_name": "Webb", 
       "user_id": 1783551, 
-      "submission": "History has shown, that a government that desires to controls its people by using fear is up to undemocratic unaccountable corruption. In order to solve our dysfunctional federal and state governmental problems we must first identify the problem first.  What is the problem?", 
+      "submission": "Given that America is engaged in perpetual war, significantly draining our economy, and in my opinion, not significantly protecting our freedom, what are your thoughts on the perpetual warfare state?", 
       "district": "OH_15", 
-      "created": "2013-08-09T14:52:59", 
+      "created": "2013-08-09T14:54:00", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 39.601, 
       "x": -83.1221, 
-      "id": 16276635, 
-      "question_id": "16172711"
+      "id": 16276665, 
+      "question_id": "16173193"
     }, 
     {
       "city": "Louisville", 
       "first_name": "John", 
       "last_name": "Schmitt", 
       "user_id": 155576, 
-      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
       "district": "KY_03", 
-      "created": "2013-08-09T14:52:59", 
+      "created": "2013-08-09T14:53:52", 
       "state": "KY", 
       "iface": "timeline_vote", 
       "y": 38.2241, 
       "x": -85.6838, 
-      "id": 16276636, 
-      "question_id": "16173259"
+      "id": 16276664, 
+      "question_id": "16172281"
+    }, 
+    {
+      "city": "Trenton", 
+      "first_name": "JoAnne", 
+      "last_name": "Bruno", 
+      "user_id": 1575480, 
+      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
+      "district": "NJ_04", 
+      "created": "2013-08-09T14:53:40", 
+      "state": "NJ", 
+      "iface": "timeline_vote", 
+      "y": 40.1788, 
+      "x": -74.66, 
+      "id": 16276657, 
+      "question_id": "16172731"
+    }, 
+    {
+      "city": "Alexandria", 
+      "first_name": "Bruce Hutson", 
+      "last_name": "PO  Box 7404, Alexandria, VA  22307-0404", 
+      "user_id": 1772446, 
+      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
+      "district": "VA_08", 
+      "created": "2013-08-09T14:53:25", 
+      "state": "VA", 
+      "iface": "timeline_vote", 
+      "y": 38.7726, 
+      "x": -77.0569, 
+      "id": 16276653, 
+      "question_id": "16203676"
     }, 
     {
       "city": "Canyon", 
@@ -139,21 +169,6 @@ opendebate.processTimeline({
       "x": -122.561, 
       "id": 16276382, 
       "question_id": "16207967"
-    }, 
-    {
-      "city": "Trenton", 
-      "first_name": "JoAnne", 
-      "last_name": "Bruno", 
-      "user_id": 1575480, 
-      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
-      "district": "NJ_04", 
-      "created": "2013-08-09T14:49:13", 
-      "state": "NJ", 
-      "iface": "timeline_vote", 
-      "y": 40.1788, 
-      "x": -74.66, 
-      "id": 16276379, 
-      "question_id": "16173335"
     }, 
     {
       "city": "Milan", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -87.8294, 
       "id": 16276221, 
       "question_id": "16198297"
-    }, 
-    {
-      "city": "San Diego", 
-      "first_name": "Sylvia", 
-      "last_name": "Ollinger", 
-      "user_id": 680250, 
-      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
-      "district": "CA_52", 
-      "created": "2013-08-09T14:43:25", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 32.9128, 
-      "x": -117.148, 
-      "id": 16276166, 
-      "question_id": "16172303"
     }
   ]
 });
