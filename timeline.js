@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Christiane", 
       "last_name": "Pors", 
       "user_id": 1785709, 
-      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "submission": "The drug war and the prison industry has destroyed many lives -- especially of low income and minority citizens. As a first step, marijuana needs to be legalized nation-wide. What will you do toward that end?", 
       "district": "NY_10", 
-      "created": "2013-08-09T08:57:46", 
+      "created": "2013-08-09T08:58:53", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7773, 
       "x": -73.9825, 
-      "id": 16270050, 
-      "question_id": "16172755"
+      "id": 16270055, 
+      "question_id": "16173418"
     }, 
     {
       "city": "Fort Worth", 
