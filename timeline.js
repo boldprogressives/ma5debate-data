@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Newland", 
+      "first_name": "royce", 
+      "last_name": "hohn", 
+      "user_id": 1141717, 
+      "submission": "When those of us who have spoken out about 9/11 and have been terrorized for years by the NSA start taking the law into our own hands and start executing traitors, terrorists and mass murderers in government, where are you going to hide?", 
+      "district": "NC_11", 
+      "created": "2013-08-09T09:18:53", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 36.0328, 
+      "x": -81.9544, 
+      "id": 16270143, 
+      "question_id": "16267196"
+    }, 
+    {
       "city": "Memphis", 
       "first_name": "", 
       "last_name": "", 
       "user_id": 1632782, 
-      "submission": "Would you support public financing of all political campaigns?", 
+      "submission": "Would you support  every state being mandated to have early voting for a minimum of 1 week before the election to give everyone a chance to vote?", 
       "district": "TN_08", 
-      "created": "2013-08-09T09:17:48", 
+      "created": "2013-08-09T09:18:36", 
       "state": "TN", 
       "iface": "timeline_vote", 
       "y": 35.2068, 
       "x": -89.7912, 
-      "id": 16270138, 
-      "question_id": "16200039"
+      "id": 16270142, 
+      "question_id": "16234459"
     }, 
     {
       "city": "New York", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -95.6552, 
       "id": 16269731, 
       "question_id": "16175641"
-    }, 
-    {
-      "city": "New York", 
-      "first_name": "Marcus", 
-      "last_name": "Adams", 
-      "user_id": 526656, 
-      "submission": "Will you introduce legislation or a rules change -- whichever it takes -- that will mean Congress and their families must be subject to the same laws it passes for other citizens?  If not, why not?", 
-      "district": "NY_10", 
-      "created": "2013-08-09T08:13:09", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.7243, 
-      "x": -73.9961, 
-      "id": 16269705, 
-      "question_id": "16244527"
     }
   ]
 });
