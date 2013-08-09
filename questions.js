@@ -2575,15 +2575,15 @@ opendebate.processFetchedQuestions({
       "district": "PA_01", 
       "created": "2013-08-08T21:09:36", 
       "state_votes": 1, 
-      "votes": 7, 
+      "votes": 8, 
       "district_votes": 1, 
       "state": "PA", 
       "iface": "question", 
       "y": 39.9685, 
       "x": -75.1731, 
-      "latest_vote": "2013-08-09T00:22:42", 
+      "latest_vote": "2013-08-09T00:42:09", 
       "id": 16234459, 
-      "trending_score": 7.5
+      "trending_score": 8.5
     }, 
     {
       "city": "Clarkston", 
@@ -3183,15 +3183,15 @@ opendebate.processFetchedQuestions({
       "district": "AZ_02", 
       "created": "2013-08-08T18:42:24", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "district_votes": 0, 
       "state": "AZ", 
       "iface": "question", 
       "y": 32.3574, 
       "x": -111.045, 
-      "latest_vote": "2013-08-08T21:02:50", 
+      "latest_vote": "2013-08-09T00:42:29", 
       "id": 16230765, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "El Segundo", 
@@ -3647,7 +3647,7 @@ opendebate.processFetchedQuestions({
       "x": -71.215, 
       "latest_vote": "2013-08-08T23:11:53", 
       "id": 16226994, 
-      "trending_score": 2.125
+      "trending_score": 2.1666666666666665
     }, 
     {
       "city": "Lexington", 
@@ -3685,7 +3685,7 @@ opendebate.processFetchedQuestions({
       "x": -71.215, 
       "latest_vote": "2013-08-08T19:22:01", 
       "id": 16226974, 
-      "trending_score": 0.16666666666666666
+      "trending_score": 0.25
     }, 
     {
       "city": "Lexington", 
@@ -3742,7 +3742,7 @@ opendebate.processFetchedQuestions({
       "x": -71.215, 
       "latest_vote": "2013-08-08T23:08:17", 
       "id": 16226965, 
-      "trending_score": 11.125
+      "trending_score": 11.166666666666666
     }, 
     {
       "city": "Lexington", 
@@ -3761,7 +3761,7 @@ opendebate.processFetchedQuestions({
       "x": -71.215, 
       "latest_vote": "2013-08-08T19:41:19", 
       "id": 16226961, 
-      "trending_score": 0.125
+      "trending_score": 0.16666666666666666
     }, 
     {
       "city": "Lexington", 
@@ -3780,7 +3780,7 @@ opendebate.processFetchedQuestions({
       "x": -71.215, 
       "latest_vote": "2013-08-08T18:42:50", 
       "id": 16226956, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Lexington", 
@@ -3791,15 +3791,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-08T16:09:01", 
       "state_votes": 7, 
-      "votes": 258, 
+      "votes": 259, 
       "district_votes": 6, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4558, 
       "x": -71.215, 
-      "latest_vote": "2013-08-09T00:34:40", 
+      "latest_vote": "2013-08-09T00:42:42", 
       "id": 16226952, 
-      "trending_score": 33.4375
+      "trending_score": 33.580357142857146
     }, 
     {
       "city": "Wilmington", 
@@ -4331,7 +4331,7 @@ opendebate.processFetchedQuestions({
       "x": -71.0253, 
       "latest_vote": "2013-08-08T20:12:45", 
       "id": 16225264, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Westfield", 
@@ -7808,7 +7808,7 @@ opendebate.processFetchedQuestions({
       "x": -71.3639, 
       "latest_vote": "2013-08-09T00:06:55", 
       "id": 16215420, 
-      "trending_score": 5.5
+      "trending_score": 10.166666666666666
     }, 
     {
       "city": "Wayland", 
@@ -8625,7 +8625,7 @@ opendebate.processFetchedQuestions({
       "x": -122.447, 
       "latest_vote": "2013-08-08T22:40:32", 
       "id": 16213319, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Sutton", 
@@ -10194,15 +10194,15 @@ opendebate.processFetchedQuestions({
       "district": "NE_03", 
       "created": "2013-08-06T23:27:59", 
       "state_votes": 12, 
-      "votes": 92, 
+      "votes": 93, 
       "district_votes": 1, 
       "state": "NE", 
       "iface": "question", 
       "y": 40.7286, 
       "x": -99.16, 
-      "latest_vote": "2013-08-09T00:40:49", 
+      "latest_vote": "2013-08-09T00:42:24", 
       "id": 16209412, 
-      "trending_score": 14.333333333333334
+      "trending_score": 14.833333333333334
     }, 
     {
       "city": "El Cajon", 
@@ -10555,15 +10555,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_20", 
       "created": "2013-08-06T22:24:43", 
       "state_votes": 8, 
-      "votes": 77, 
+      "votes": 78, 
       "district_votes": 3, 
       "state": "FL", 
       "iface": "question", 
       "y": 26.2336, 
       "x": -80.1568, 
-      "latest_vote": "2013-08-09T00:38:12", 
+      "latest_vote": "2013-08-09T00:42:36", 
       "id": 16207967, 
-      "trending_score": 7.333333333333333
+      "trending_score": 7.833333333333333
     }, 
     {
       "city": "South San Francisco", 
@@ -10840,15 +10840,15 @@ opendebate.processFetchedQuestions({
       "district": "ME_01", 
       "created": "2013-08-06T21:56:32", 
       "state_votes": 27, 
-      "votes": 284, 
+      "votes": 286, 
       "district_votes": 8, 
       "state": "ME", 
       "iface": "question", 
       "y": 43.664, 
       "x": -70.2918, 
-      "latest_vote": "2013-08-09T00:40:04", 
+      "latest_vote": "2013-08-09T00:42:17", 
       "id": 16206983, 
-      "trending_score": 202.08333333333334
+      "trending_score": 204.08333333333334
     }, 
     {
       "city": "San Francisco", 
@@ -11133,7 +11133,7 @@ opendebate.processFetchedQuestions({
       "x": -73.7748, 
       "latest_vote": "2013-08-09T00:35:52", 
       "id": 16205951, 
-      "trending_score": 13.7
+      "trending_score": 13.75
     }, 
     {
       "city": "Addison", 
@@ -11182,15 +11182,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_02", 
       "created": "2013-08-06T21:20:24", 
       "state_votes": 16, 
-      "votes": 365, 
+      "votes": 368, 
       "district_votes": 3, 
       "state": "CA", 
       "iface": "question", 
       "y": 40.8726, 
       "x": -124.071, 
-      "latest_vote": "2013-08-09T00:41:55", 
+      "latest_vote": "2013-08-09T00:42:51", 
       "id": 16205834, 
-      "trending_score": 144.33333333333334
+      "trending_score": 145.83333333333334
     }, 
     {
       "city": "Addison", 
@@ -11695,15 +11695,15 @@ opendebate.processFetchedQuestions({
       "district": "PA_18", 
       "created": "2013-08-06T20:31:06", 
       "state_votes": 11, 
-      "votes": 249, 
+      "votes": 250, 
       "district_votes": 4, 
       "state": "PA", 
       "iface": "question", 
       "y": 39.8949, 
       "x": -80.1743, 
-      "latest_vote": "2013-08-09T00:39:32", 
+      "latest_vote": "2013-08-09T00:42:26", 
       "id": 16204423, 
-      "trending_score": 96.16666666666667
+      "trending_score": 96.66666666666667
     }, 
     {
       "city": "Peabody", 
@@ -11779,7 +11779,7 @@ opendebate.processFetchedQuestions({
       "x": -74.1907, 
       "latest_vote": "2013-08-09T00:39:03", 
       "id": 16203866, 
-      "trending_score": 37.85454545454545
+      "trending_score": 41.93055555555556
     }, 
     {
       "city": "Watertown", 
@@ -11798,7 +11798,7 @@ opendebate.processFetchedQuestions({
       "x": -75.9005, 
       "latest_vote": "2013-08-09T00:31:19", 
       "id": 16203822, 
-      "trending_score": 100.07142857142857
+      "trending_score": 100.08333333333333
     }, 
     {
       "city": "Tampa", 
@@ -11836,7 +11836,7 @@ opendebate.processFetchedQuestions({
       "x": -72.6301, 
       "latest_vote": "2013-08-09T00:39:21", 
       "id": 16203676, 
-      "trending_score": 32.47619047619048
+      "trending_score": 38.913636363636364
     }, 
     {
       "city": "Gloucester", 
@@ -11847,15 +11847,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_06", 
       "created": "2013-08-06T20:07:53", 
       "state_votes": 15, 
-      "votes": 505, 
+      "votes": 508, 
       "district_votes": 5, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.6285, 
       "x": -70.6862, 
-      "latest_vote": "2013-08-09T00:41:54", 
+      "latest_vote": "2013-08-09T00:42:52", 
       "id": 16203558, 
-      "trending_score": 144.63333333333335
+      "trending_score": 109.15
     }, 
     {
       "city": "Holyoke", 
@@ -11923,15 +11923,15 @@ opendebate.processFetchedQuestions({
       "district": "MI_11", 
       "created": "2013-08-06T19:59:23", 
       "state_votes": 15, 
-      "votes": 443, 
+      "votes": 445, 
       "district_votes": 4, 
       "state": "MI", 
       "iface": "question", 
       "y": 42.5952, 
       "x": -83.1201, 
-      "latest_vote": "2013-08-09T00:40:46", 
+      "latest_vote": "2013-08-09T00:42:38", 
       "id": 16203215, 
-      "trending_score": 185.25
+      "trending_score": 186.25
     }, 
     {
       "city": "Lake Worth", 
@@ -12083,7 +12083,7 @@ opendebate.processFetchedQuestions({
       "x": -122.459, 
       "latest_vote": "2013-08-09T00:37:59", 
       "id": 16202059, 
-      "trending_score": 18.33956043956044
+      "trending_score": 18.262637362637363
     }, 
     {
       "city": "Richfield", 
@@ -12178,7 +12178,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7452, 
       "latest_vote": "2013-08-09T00:35:54", 
       "id": 16201620, 
-      "trending_score": 12.957142857142857
+      "trending_score": 10.761904761904763
     }, 
     {
       "city": "Cambridge", 
@@ -12246,15 +12246,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_11", 
       "created": "2013-08-06T19:27:17", 
       "state_votes": 11, 
-      "votes": 107, 
+      "votes": 108, 
       "district_votes": 4, 
       "state": "CA", 
       "iface": "question", 
       "y": 38.0171, 
       "x": -121.91, 
-      "latest_vote": "2013-08-09T00:40:40", 
+      "latest_vote": "2013-08-09T00:42:46", 
       "id": 16201563, 
-      "trending_score": 12.166666666666666
+      "trending_score": 12.5
     }, 
     {
       "city": "Sandusky", 
@@ -12273,7 +12273,7 @@ opendebate.processFetchedQuestions({
       "x": -82.7314, 
       "latest_vote": "2013-08-09T00:41:56", 
       "id": 16201559, 
-      "trending_score": 79.75
+      "trending_score": 53.041666666666664
     }, 
     {
       "city": "North Andover", 
@@ -12455,15 +12455,15 @@ opendebate.processFetchedQuestions({
       "district": "CT_01", 
       "created": "2013-08-06T19:17:43", 
       "state_votes": 11, 
-      "votes": 304, 
+      "votes": 305, 
       "district_votes": 3, 
       "state": "CT", 
       "iface": "question", 
       "y": 41.6886, 
       "x": -72.7291, 
-      "latest_vote": "2013-08-09T00:41:52", 
+      "latest_vote": "2013-08-09T00:42:46", 
       "id": 16201159, 
-      "trending_score": 79.16666666666667
+      "trending_score": 79.5
     }, 
     {
       "city": "Saint Cloud", 
@@ -12767,7 +12767,7 @@ opendebate.processFetchedQuestions({
       "x": -119.905, 
       "latest_vote": "2013-08-09T00:40:11", 
       "id": 16200039, 
-      "trending_score": 10.0
+      "trending_score": 6.75
     }, 
     {
       "city": "Vestal", 
@@ -13014,7 +13014,7 @@ opendebate.processFetchedQuestions({
       "x": -82.6341, 
       "latest_vote": "2013-08-09T00:37:51", 
       "id": 16199305, 
-      "trending_score": 37.25
+      "trending_score": 27.833333333333332
     }, 
     {
       "city": "Columbus", 
@@ -13793,7 +13793,7 @@ opendebate.processFetchedQuestions({
       "x": -77.1226, 
       "latest_vote": "2013-08-08T23:36:01", 
       "id": 16193997, 
-      "trending_score": 3.25
+      "trending_score": 1.5
     }, 
     {
       "city": "tempe", 
@@ -16388,15 +16388,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_14", 
       "created": "2013-08-06T15:12:57", 
       "state_votes": 4, 
-      "votes": 97, 
+      "votes": 98, 
       "district_votes": 1, 
       "state": "FL", 
       "iface": "question", 
       "y": 27.9212, 
       "x": -82.5085, 
-      "latest_vote": "2013-08-09T00:41:12", 
+      "latest_vote": "2013-08-09T00:42:41", 
       "id": 16186103, 
-      "trending_score": 30.833333333333332
+      "trending_score": 31.333333333333332
     }, 
     {
       "city": "Bronx", 
@@ -16806,15 +16806,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-06T15:02:39", 
       "state_votes": 3, 
-      "votes": 277, 
+      "votes": 278, 
       "district_votes": 0, 
       "state": "MT", 
       "iface": "question", 
       "y": 45.8404, 
       "x": -108.465, 
-      "latest_vote": "2013-08-09T00:40:49", 
+      "latest_vote": "2013-08-09T00:42:07", 
       "id": 16185364, 
-      "trending_score": 120.0
+      "trending_score": 120.5
     }, 
     {
       "city": "Boca Raton", 
@@ -17536,7 +17536,7 @@ opendebate.processFetchedQuestions({
       "x": -122.211, 
       "latest_vote": "2013-08-08T23:21:56", 
       "id": 16183713, 
-      "trending_score": 6.125
+      "trending_score": 6.25
     }, 
     {
       "city": "LONG BEACH", 
@@ -18592,15 +18592,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_07", 
       "created": "2013-08-06T14:19:00", 
       "state_votes": 9, 
-      "votes": 55, 
+      "votes": 56, 
       "district_votes": 3, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.2847, 
       "x": -71.1277, 
-      "latest_vote": "2013-08-08T23:20:44", 
+      "latest_vote": "2013-08-09T00:42:15", 
       "id": 16181945, 
-      "trending_score": 9.25
+      "trending_score": 10.25
     }, 
     {
       "city": "Hamilton", 
@@ -18839,15 +18839,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-06T13:36:44", 
       "state_votes": 13, 
-      "votes": 66, 
+      "votes": 67, 
       "district_votes": 3, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4213, 
       "x": -71.1134, 
-      "latest_vote": "2013-08-09T00:31:59", 
+      "latest_vote": "2013-08-09T00:42:28", 
       "id": 16181276, 
-      "trending_score": 9.333333333333334
+      "trending_score": 9.833333333333334
     }, 
     {
       "city": "Arlington", 
@@ -19010,15 +19010,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_07", 
       "created": "2013-08-06T12:32:01", 
       "state_votes": 16, 
-      "votes": 460, 
+      "votes": 462, 
       "district_votes": 7, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3818, 
       "x": -71.1032, 
-      "latest_vote": "2013-08-09T00:41:24", 
+      "latest_vote": "2013-08-09T00:43:01", 
       "id": 16180998, 
-      "trending_score": 187.16666666666666
+      "trending_score": 188.16666666666666
     }, 
     {
       "city": "Irvine", 
@@ -19854,7 +19854,7 @@ opendebate.processFetchedQuestions({
       "x": -92.8606, 
       "latest_vote": "2013-08-08T21:38:05", 
       "id": 16179303, 
-      "trending_score": 1.0
+      "trending_score": 1.1666666666666667
     }, 
     {
       "city": "Springdale", 
@@ -20245,15 +20245,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_02", 
       "created": "2013-08-05T18:52:13", 
       "state_votes": 1, 
-      "votes": 155, 
+      "votes": 156, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "question", 
       "y": 42.4032, 
       "x": -123.358, 
-      "latest_vote": "2013-08-09T00:38:34", 
+      "latest_vote": "2013-08-09T00:42:30", 
       "id": 16178438, 
-      "trending_score": 60.833333333333336
+      "trending_score": 61.333333333333336
     }, 
     {
       "city": "Seattle", 
@@ -20424,7 +20424,7 @@ opendebate.processFetchedQuestions({
       "x": -106.578, 
       "latest_vote": "2013-08-09T00:39:36", 
       "id": 16178177, 
-      "trending_score": 61.25
+      "trending_score": 61.285714285714285
     }, 
     {
       "city": "San Antonio", 
@@ -20880,7 +20880,7 @@ opendebate.processFetchedQuestions({
       "x": -105.967, 
       "latest_vote": "2013-08-09T00:31:43", 
       "id": 16177435, 
-      "trending_score": 3.8333333333333335
+      "trending_score": 4.0
     }, 
     {
       "city": "West Plains", 
@@ -21404,15 +21404,15 @@ opendebate.processFetchedQuestions({
       "district": "AZ_01", 
       "created": "2013-08-05T05:46:31", 
       "state_votes": 3, 
-      "votes": 62, 
+      "votes": 63, 
       "district_votes": 1, 
       "state": "AZ", 
       "iface": "question", 
       "y": 32.8795, 
       "x": -111.75, 
-      "latest_vote": "2013-08-09T00:35:48", 
+      "latest_vote": "2013-08-09T00:42:32", 
       "id": 16176653, 
-      "trending_score": 17.0
+      "trending_score": 17.5
     }, 
     {
       "city": "Seattle", 
@@ -22001,7 +22001,7 @@ opendebate.processFetchedQuestions({
       "x": -84.8666, 
       "latest_vote": "2013-08-09T00:36:59", 
       "id": 16176001, 
-      "trending_score": 23.035714285714285
+      "trending_score": 15.261904761904763
     }, 
     {
       "city": "Little Rock", 
@@ -22381,7 +22381,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9643, 
       "latest_vote": "2013-08-09T00:40:39", 
       "id": 16175740, 
-      "trending_score": 39.3298766080336
+      "trending_score": 42.603741496598644
     }, 
     {
       "city": "Buffalo Grove", 
@@ -22400,7 +22400,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9643, 
       "latest_vote": "2013-08-09T00:41:52", 
       "id": 16175729, 
-      "trending_score": 24.681818181818183
+      "trending_score": 24.431818181818183
     }, 
     {
       "city": "Tucson", 
@@ -22514,7 +22514,7 @@ opendebate.processFetchedQuestions({
       "x": -88.9093, 
       "latest_vote": "2013-08-09T00:39:42", 
       "id": 16175634, 
-      "trending_score": 9.633333333333335
+      "trending_score": 8.73030303030303
     }, 
     {
       "city": "Mount Vernon", 
@@ -22658,15 +22658,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_25", 
       "created": "2013-08-05T00:22:27", 
       "state_votes": 52, 
-      "votes": 360, 
+      "votes": 361, 
       "district_votes": 16, 
       "state": "FL", 
       "iface": "question", 
       "y": 25.99, 
       "x": -81.5334, 
-      "latest_vote": "2013-08-09T00:40:32", 
+      "latest_vote": "2013-08-09T00:42:33", 
       "id": 16175500, 
-      "trending_score": 11.126373626373628
+      "trending_score": 13.047619047619047
     }, 
     {
       "city": "Seattle", 
@@ -22886,15 +22886,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_01", 
       "created": "2013-08-04T22:24:13", 
       "state_votes": 25, 
-      "votes": 364, 
+      "votes": 365, 
       "district_votes": 7, 
       "state": "CO", 
       "iface": "question", 
       "y": 39.7285, 
       "x": -104.954, 
-      "latest_vote": "2013-08-09T00:41:02", 
+      "latest_vote": "2013-08-09T00:42:15", 
       "id": 16175230, 
-      "trending_score": 103.83333333333333
+      "trending_score": 104.5
     }, 
     {
       "city": "Seal Rock", 
@@ -23969,15 +23969,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_05", 
       "created": "2013-08-04T15:18:55", 
       "state_votes": 44, 
-      "votes": 389, 
+      "votes": 390, 
       "district_votes": 6, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.6898, 
       "x": -123.884, 
-      "latest_vote": "2013-08-09T00:36:23", 
+      "latest_vote": "2013-08-09T00:42:11", 
       "id": 16174072, 
-      "trending_score": 17.205882352941178
+      "trending_score": 24.13157894736842
     }, 
     {
       "city": "Cape Girardeau", 
@@ -24015,7 +24015,7 @@ opendebate.processFetchedQuestions({
       "x": -123.107, 
       "latest_vote": "2013-08-08T23:16:44", 
       "id": 16174014, 
-      "trending_score": 2.0
+      "trending_score": 3.1666666666666665
     }, 
     {
       "city": "Park Ridge", 
@@ -24072,7 +24072,7 @@ opendebate.processFetchedQuestions({
       "x": -105.043, 
       "latest_vote": "2013-08-09T00:39:14", 
       "id": 16173921, 
-      "trending_score": 35.54705882352941
+      "trending_score": 44.361111111111114
     }, 
     {
       "city": "Fort Collins", 
@@ -24425,15 +24425,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_05", 
       "created": "2013-08-04T03:25:27", 
       "state_votes": 26, 
-      "votes": 227, 
+      "votes": 228, 
       "district_votes": 6, 
       "state": "OR", 
       "iface": "question", 
       "y": 44.8388, 
       "x": -122.859, 
-      "latest_vote": "2013-08-09T00:34:53", 
+      "latest_vote": "2013-08-09T00:42:46", 
       "id": 16173438, 
-      "trending_score": 38.75
+      "trending_score": 39.25
     }, 
     {
       "city": "Eugene", 
@@ -24718,7 +24718,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-09T00:40:17", 
       "id": 16173327, 
-      "trending_score": 18.25
+      "trending_score": 18.333333333333332
     }, 
     {
       "city": "Louisville", 
@@ -24737,7 +24737,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-09T00:41:19", 
       "id": 16173323, 
-      "trending_score": 98.1
+      "trending_score": 98.125
     }, 
     {
       "city": "Bensenville", 
@@ -24908,7 +24908,7 @@ opendebate.processFetchedQuestions({
       "x": -105.796, 
       "latest_vote": "2013-08-08T18:42:19", 
       "id": 16173280, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Las Vegas", 
@@ -24946,7 +24946,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-09T00:35:49", 
       "id": 16173264, 
-      "trending_score": 40.33956043956044
+      "trending_score": 47.6031941031941
     }, 
     {
       "city": "Prosper", 
@@ -24957,15 +24957,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:22:04", 
       "state_votes": 144, 
-      "votes": 891, 
+      "votes": 892, 
       "district_votes": 37, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-09T00:35:18", 
+      "latest_vote": "2013-08-09T00:42:24", 
       "id": 16173259, 
-      "trending_score": 20.107142857142858
+      "trending_score": 20.25
     }, 
     {
       "city": "Manitowoc", 
@@ -24984,7 +24984,7 @@ opendebate.processFetchedQuestions({
       "x": -87.7111, 
       "latest_vote": "2013-08-09T00:40:40", 
       "id": 16173257, 
-      "trending_score": 36.53333333333334
+      "trending_score": 43.75625
     }, 
     {
       "city": "Corvallis", 
@@ -25014,15 +25014,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:15:12", 
       "state_votes": 37, 
-      "votes": 336, 
+      "votes": 337, 
       "district_votes": 3, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-09T00:38:10", 
+      "latest_vote": "2013-08-09T00:42:58", 
       "id": 16173244, 
-      "trending_score": 15.208333333333334
+      "trending_score": 15.408333333333333
     }, 
     {
       "city": "Saint Peters", 
@@ -25079,7 +25079,7 @@ opendebate.processFetchedQuestions({
       "x": -122.607, 
       "latest_vote": "2013-08-09T00:38:35", 
       "id": 16173225, 
-      "trending_score": 8.28125
+      "trending_score": 8.153594771241831
     }, 
     {
       "city": "Saint Peters", 
@@ -25166,15 +25166,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_10", 
       "created": "2013-08-04T00:59:23", 
       "state_votes": 177, 
-      "votes": 1185, 
+      "votes": 1187, 
       "district_votes": 43, 
       "state": "TX", 
       "iface": "question", 
       "y": 30.3972, 
       "x": -97.7518, 
-      "latest_vote": "2013-08-09T00:37:46", 
+      "latest_vote": "2013-08-09T00:43:01", 
       "id": 16173210, 
-      "trending_score": 41.13793103448276
+      "trending_score": 47.26354679802956
     }, 
     {
       "city": "Cottonwood", 
@@ -25698,15 +25698,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T23:23:07", 
       "state_votes": 170, 
-      "votes": 1106, 
+      "votes": 1107, 
       "district_votes": 44, 
       "state": "MT", 
       "iface": "question", 
       "y": 48.2112, 
       "x": -114.294, 
-      "latest_vote": "2013-08-09T00:40:31", 
+      "latest_vote": "2013-08-09T00:42:16", 
       "id": 16172913, 
-      "trending_score": 16.61168831168831
+      "trending_score": 15.254761904761905
     }, 
     {
       "city": "Montegut", 
@@ -25934,7 +25934,7 @@ opendebate.processFetchedQuestions({
       "x": -111.974, 
       "latest_vote": "2013-08-09T00:41:52", 
       "id": 16172777, 
-      "trending_score": 33.989285714285714
+      "trending_score": 33.864285714285714
     }, 
     {
       "city": "Gladstone", 
@@ -25953,7 +25953,7 @@ opendebate.processFetchedQuestions({
       "x": -122.589, 
       "latest_vote": "2013-08-09T00:35:13", 
       "id": 16172765, 
-      "trending_score": 14.068888888888889
+      "trending_score": 15.778846153846153
     }, 
     {
       "city": "Egg Harbor", 
@@ -25991,7 +25991,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5959, 
       "latest_vote": "2013-08-09T00:41:03", 
       "id": 16172755, 
-      "trending_score": 17.2625
+      "trending_score": 18.382926829268293
     }, 
     {
       "city": "Richardson", 
@@ -26040,15 +26040,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:21:20", 
       "state_votes": 112, 
-      "votes": 873, 
+      "votes": 874, 
       "district_votes": 26, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.5746, 
       "x": -122.811, 
-      "latest_vote": "2013-08-09T00:40:02", 
+      "latest_vote": "2013-08-09T00:42:11", 
       "id": 16172731, 
-      "trending_score": 67.43333333333332
+      "trending_score": 50.63333333333333
     }, 
     {
       "city": "Chicago", 
@@ -26067,7 +26067,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5544, 
       "latest_vote": "2013-08-09T00:40:10", 
       "id": 16172727, 
-      "trending_score": 20.075757575757578
+      "trending_score": 22.05151515151515
     }, 
     {
       "city": "Waldport", 
@@ -26181,7 +26181,7 @@ opendebate.processFetchedQuestions({
       "x": -116.297, 
       "latest_vote": "2013-08-09T00:41:42", 
       "id": 16172697, 
-      "trending_score": 32.26068376068376
+      "trending_score": 32.11153846153846
     }, 
     {
       "city": "Holts Summit", 
@@ -26352,7 +26352,7 @@ opendebate.processFetchedQuestions({
       "x": -105.135, 
       "latest_vote": "2013-08-09T00:27:45", 
       "id": 16172661, 
-      "trending_score": 9.1
+      "trending_score": 9.125
     }, 
     {
       "city": "Albert Lea", 
@@ -26390,7 +26390,7 @@ opendebate.processFetchedQuestions({
       "x": -87.7386, 
       "latest_vote": "2013-08-09T00:40:19", 
       "id": 16172648, 
-      "trending_score": 12.227272727272727
+      "trending_score": 10.106060606060607
     }, 
     {
       "city": "Great Neck", 
@@ -26523,7 +26523,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1802, 
       "latest_vote": "2013-08-08T18:42:27", 
       "id": 16172560, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Cambridge", 
@@ -26629,13 +26629,13 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:52:54", 
       "state_votes": 158, 
-      "votes": 944, 
+      "votes": 945, 
       "district_votes": 45, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4207, 
       "x": -71.1582, 
-      "latest_vote": "2013-08-09T00:40:41", 
+      "latest_vote": "2013-08-09T00:43:01", 
       "id": 16172303, 
       "trending_score": 13.640096618357488
     }, 
@@ -26694,7 +26694,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1035, 
       "latest_vote": "2013-08-09T00:21:35", 
       "id": 16172283, 
-      "trending_score": 6.25
+      "trending_score": 7.681818181818182
     }, 
     {
       "city": "Waltham", 
@@ -26762,15 +26762,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:33:11", 
       "state_votes": 252, 
-      "votes": 1664, 
+      "votes": 1666, 
       "district_votes": 73, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-09T00:37:24", 
+      "latest_vote": "2013-08-09T00:42:40", 
       "id": 16172266, 
-      "trending_score": 37.898148148148145
+      "trending_score": 38.017857142857146
     }, 
     {
       "city": "Cambridge", 
