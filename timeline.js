@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Carolyn", 
       "last_name": "Wohlgemuth", 
       "user_id": 706295, 
-      "submission": "Why are so many countries banning GMO foods but the US refuses to do so? Why aren't they required to label them as such? ", 
+      "submission": "Are you going to stand up to the NRA, to stop our young and innocent, from being murdered?", 
       "district": "OH_11", 
-      "created": "2013-08-09T08:52:39", 
+      "created": "2013-08-09T08:53:30", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 41.4988, 
       "x": -81.5546, 
-      "id": 16270028, 
-      "question_id": "16205646"
+      "id": 16270031, 
+      "question_id": "16199637"
     }, 
     {
       "city": "Vacaville", 
