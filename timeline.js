@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Dallas", 
+      "first_name": "Violet", 
+      "last_name": "Sunderland", 
+      "user_id": 986238, 
+      "submission": "Reagan outlawed the growth and production of \"Hemp\" during his \"War on Drugs.\" Hemp was used in WWII as alternative fuel. Pesticide free, Herbicide free, drought resistant. Would you bring Hemp back?", 
+      "district": "OR_05", 
+      "created": "2013-08-09T06:46:02", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 44.9222, 
+      "x": -123.327, 
+      "id": 16267119, 
+      "question_id": "16200337"
+    }, 
+    {
+      "city": "Granite Bay", 
+      "first_name": "Diane", 
+      "last_name": "Rohrer", 
+      "user_id": 1736259, 
+      "submission": "What will you do to guard OUR SOCIAL SECURITY ACCOUNTS we own and prevent from them being a.  reduced or denied to us and b. our social security funds being funneled into other purposes?", 
+      "district": "CA_04", 
+      "created": "2013-08-09T06:45:57", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 38.7442, 
+      "x": -121.191, 
+      "id": 16267118, 
+      "question_id": "16233077"
+    }, 
+    {
+      "city": "Iowa City", 
+      "first_name": "Sue", 
+      "last_name": "Christiansen", 
+      "user_id": 139957, 
+      "submission": "Re Gun Control:  Will you fight the NRA to achieve basic reforms that most Americans agree on?:* Some people should never own any type of weapon.* Some weapons should never be owned by anyone.* Background checks should be universal and enforced.* Basic defense of self and home requires only a simple rifle and/or pistol, not assault weapons.* The Second Amendment refers to a \"well-regulated militia\"; this clause cannot be ignored, everything that follows relates to that.  It does not mean that any and all Americans may own any and all forms of weaponry. Would you support an amendment to the U.S. Constitution clarifying the Second Amendment as suggested above?", 
+      "district": "IA_02", 
+      "created": "2013-08-09T06:45:56", 
+      "state": "IA", 
+      "iface": "timeline_vote", 
+      "y": 41.6542, 
+      "x": -91.5601, 
+      "id": 16267117, 
+      "question_id": "16232223"
+    }, 
+    {
       "city": "Alvin", 
       "first_name": "rox", 
       "last_name": "colby", 
@@ -15,21 +60,6 @@ opendebate.processTimeline({
       "x": -95.2394, 
       "id": 16267109, 
       "question_id": "16192922"
-    }, 
-    {
-      "city": "Dallas", 
-      "first_name": "Violet", 
-      "last_name": "Sunderland", 
-      "user_id": 986238, 
-      "submission": "Will you fight to ban GMOs from the face of the earth before they poison our whole food supply ?", 
-      "district": "OR_05", 
-      "created": "2013-08-09T06:44:29", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 44.9222, 
-      "x": -123.327, 
-      "id": 16267097, 
-      "question_id": "16212772"
     }, 
     {
       "city": "Tryon", 
@@ -278,36 +308,6 @@ opendebate.processTimeline({
       "x": -115.12, 
       "id": 16266796, 
       "question_id": "16225626"
-    }, 
-    {
-      "city": "Sag Harbor", 
-      "first_name": "Romany", 
-      "last_name": "kramoris", 
-      "user_id": 1639319, 
-      "submission": "What is your position on the Keystone XL pipeline and on fracking? Specifically what would you do to stop climate change and move to renewable energy?", 
-      "district": "NY_01", 
-      "created": "2013-08-09T06:28:32", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.9724, 
-      "x": -72.3245, 
-      "id": 16266730, 
-      "question_id": "16207584"
-    }, 
-    {
-      "city": "Hanover Park", 
-      "first_name": "vincent", 
-      "last_name": "vitale", 
-      "user_id": 1677535, 
-      "submission": "Will you support legislation to change our income tax so the very wealthy pay 90% of their yearly income as they did in the 1950s and 60s?", 
-      "district": "IL_08", 
-      "created": "2013-08-09T06:28:24", 
-      "state": "IL", 
-      "iface": "timeline_vote", 
-      "y": 41.9666, 
-      "x": -88.1614, 
-      "id": 16266726, 
-      "question_id": "16172688"
     }
   ]
 });
