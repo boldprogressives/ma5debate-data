@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Ellen", 
       "last_name": "Steens", 
       "user_id": 1782363, 
-      "submission": "Would you support Medicare paying for dental care?", 
+      "submission": "Will congress ever address a jobs/infrastructure bill?  We needs jobs, jobs training and massive infrastructure repair.  I am sick of the GOP obstruction.", 
       "district": "CA_37", 
-      "created": "2013-08-09T07:36:00", 
+      "created": "2013-08-09T07:37:02", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 34.0277, 
       "x": -118.352, 
-      "id": 16268551, 
-      "question_id": "16174466"
+      "id": 16268558, 
+      "question_id": "16256688"
+    }, 
+    {
+      "city": "Tryon", 
+      "first_name": "Murlel", 
+      "last_name": "Lunsford", 
+      "user_id": 1656934, 
+      "submission": "what is your position on the transfer of wealth in this country to the wealthy class and the broken contracts to the working people.  Specifically, respond to the debacle going on in Detroit with workers losing their hard earned pensions.", 
+      "district": "NC_10", 
+      "created": "2013-08-09T07:36:39", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.2172, 
+      "x": -82.2262, 
+      "id": 16268556, 
+      "question_id": "16183913"
     }, 
     {
       "city": "Boulder City", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -114.836, 
       "id": 16268541, 
       "question_id": "16177825"
-    }, 
-    {
-      "city": "Tryon", 
-      "first_name": "Murlel", 
-      "last_name": "Lunsford", 
-      "user_id": 1656934, 
-      "submission": "Will you support a Constitutional Amendment to guarantee the existence of Labor Unions, the right to organize and negotiate, to strike without the loss of employment, and extend those rights to all private and public sector workers?", 
-      "district": "NC_10", 
-      "created": "2013-08-09T07:33:18", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.2172, 
-      "x": -82.2262, 
-      "id": 16268523, 
-      "question_id": "16186103"
     }, 
     {
       "city": "Owensboro", 
