@@ -2,19 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Alexandria", 
+      "first_name": "Bruce Hutson", 
+      "last_name": "PO  Box 7404, Alexandria, VA  22307-0404", 
+      "user_id": 1772446, 
+      "submission": "The New Deal, and The CCC helped us survive The Great Depression. Why does congress refuse to learn from the past and bring back these programs? ", 
+      "district": "VA_08", 
+      "created": "2013-08-09T15:34:59", 
+      "state": "VA", 
+      "iface": "timeline_vote", 
+      "y": 38.7726, 
+      "x": -77.0569, 
+      "id": 16278052, 
+      "question_id": "16178941"
+    }, 
+    {
+      "city": "Salt Lake City", 
+      "first_name": "John", 
+      "last_name": "Wallace", 
+      "user_id": 1235409, 
+      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
+      "district": "UT_02", 
+      "created": "2013-08-09T15:34:58", 
+      "state": "UT", 
+      "iface": "timeline_vote", 
+      "y": 40.7588, 
+      "x": -111.865, 
+      "id": 16278051, 
+      "question_id": "16173257"
+    }, 
+    {
       "city": "Tullahoma", 
       "first_name": "Robert", 
       "last_name": "Burt", 
       "user_id": 1731191, 
-      "submission": "To all Candidates...Will you support Elizabeth Warren's bill to allow college students to borrow under 1% interest of college loans? ", 
+      "submission": "How can Manning and Snowden be in trouble and Dick Chaney isn't in trouble for outing Valerie Plame?", 
       "district": "TN_06", 
-      "created": "2013-08-09T15:33:58", 
+      "created": "2013-08-09T15:34:51", 
       "state": "TN", 
       "iface": "timeline_vote", 
       "y": 35.3712, 
       "x": -86.2131, 
-      "id": 16278039, 
-      "question_id": "16200733"
+      "id": 16278049, 
+      "question_id": "16201620"
+    }, 
+    {
+      "city": "Seattle", 
+      "first_name": "Susan", 
+      "last_name": "fried", 
+      "user_id": 291649, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "WA_07", 
+      "created": "2013-08-09T15:34:45", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 47.7184, 
+      "x": -122.302, 
+      "id": 16278047, 
+      "question_id": "16173264"
     }, 
     {
       "city": "Sunnyside", 
@@ -30,21 +75,6 @@ opendebate.processTimeline({
       "x": -73.9178, 
       "id": 16278038, 
       "question_id": "16173257"
-    }, 
-    {
-      "city": "Alexandria", 
-      "first_name": "Bruce Hutson", 
-      "last_name": "PO  Box 7404, Alexandria, VA  22307-0404", 
-      "user_id": 1772446, 
-      "submission": "What will you do to protect our votes from the easily \"hackable\" electronic voting machines, such as those which were manipulated by Repubs. in 2004 Ohio, to swing the election from Kerry to Bush?", 
-      "district": "VA_08", 
-      "created": "2013-08-09T15:33:40", 
-      "state": "VA", 
-      "iface": "timeline_vote", 
-      "y": 38.7726, 
-      "x": -77.0569, 
-      "id": 16278036, 
-      "question_id": "16244119"
     }, 
     {
       "city": "Trenton", 
@@ -278,36 +308,6 @@ opendebate.processTimeline({
       "x": -120.825, 
       "id": 16277808, 
       "question_id": "16269540"
-    }, 
-    {
-      "city": "Elkhart", 
-      "first_name": "Kate", 
-      "last_name": "Irelan", 
-      "user_id": 1054580, 
-      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
-      "district": "IN_02", 
-      "created": "2013-08-09T15:22:08", 
-      "state": "IN", 
-      "iface": "timeline_vote", 
-      "y": 41.6224, 
-      "x": -85.9838, 
-      "id": 16277783, 
-      "question_id": "16173335"
-    }, 
-    {
-      "city": "Hollywood", 
-      "first_name": "Jennifer", 
-      "last_name": "Ehrenfried", 
-      "user_id": 404028, 
-      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
-      "district": "FL_24", 
-      "created": "2013-08-09T15:22:04", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 25.9781, 
-      "x": -80.3302, 
-      "id": 16277782, 
-      "question_id": "16172697"
     }
   ]
 });
