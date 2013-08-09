@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "bucyrus", 
+      "first_name": "layla", 
+      "last_name": "bowen", 
+      "user_id": 264115, 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "district": "OH_04", 
+      "created": "2013-08-09T06:52:01", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 40.8167, 
+      "x": -82.9694, 
+      "id": 16267204, 
+      "question_id": "16173335"
+    }, 
+    {
+      "city": "Dallas", 
+      "first_name": "Violet", 
+      "last_name": "Sunderland", 
+      "user_id": 986238, 
+      "submission": "Will you support Senate Bill 1311 to allow those who are terminally ill to be exempt from Social Securitys Five Month Waiting Rule?", 
+      "district": "OR_05", 
+      "created": "2013-08-09T06:51:52", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 44.9222, 
+      "x": -123.327, 
+      "id": 16267202, 
+      "question_id": "16175895"
+    }, 
+    {
       "city": "Henderson", 
       "first_name": "Nicholas", 
       "last_name": "Martino", 
@@ -21,21 +51,6 @@ opendebate.processTimeline({
       "trending_score": 0.5
     }, 
     {
-      "city": "bucyrus", 
-      "first_name": "layla", 
-      "last_name": "bowen", 
-      "user_id": 264115, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "OH_04", 
-      "created": "2013-08-09T06:50:58", 
-      "state": "OH", 
-      "iface": "timeline_vote", 
-      "y": 40.8167, 
-      "x": -82.9694, 
-      "id": 16267195, 
-      "question_id": "16172266"
-    }, 
-    {
       "city": "Tryon", 
       "first_name": "Murlel", 
       "last_name": "Lunsford", 
@@ -49,21 +64,6 @@ opendebate.processTimeline({
       "x": -82.2262, 
       "id": 16267194, 
       "question_id": "16201467"
-    }, 
-    {
-      "city": "Dallas", 
-      "first_name": "Violet", 
-      "last_name": "Sunderland", 
-      "user_id": 986238, 
-      "submission": "How will you vote on key issues such as climate change and big oil welfare. Will rich lobbyist be able to change your mind once they have wined and dined you?  Will you give in to the threats, of losing the next election if you win.", 
-      "district": "OR_05", 
-      "created": "2013-08-09T06:50:29", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 44.9222, 
-      "x": -123.327, 
-      "id": 16267190, 
-      "question_id": "16178433"
     }, 
     {
       "city": "Burnsville", 
