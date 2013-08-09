@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Victoria", 
       "last_name": "Scott", 
       "user_id": 1708295, 
-      "submission": "Will you commit to sponsoring and voting for legislation requiring MANDATORY public financing of campaigns for elected office, and if not, why not?", 
+      "submission": "What would you do to end the SCOTUS ruling Citizens United & how will you stop the GOP led states enacting extremist voter suppresion?", 
       "district": "NM_03", 
-      "created": "2013-08-09T08:31:20", 
+      "created": "2013-08-09T08:32:26", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 35.6768, 
       "x": -105.958, 
-      "id": 16269932, 
-      "question_id": "16208142"
+      "id": 16269936, 
+      "question_id": "16207073"
     }, 
     {
       "city": "Tryon", 
