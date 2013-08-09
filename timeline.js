@@ -2,19 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Inglewood", 
+      "first_name": "Ken", 
+      "last_name": "Benson", 
+      "user_id": 519373, 
+      "submission": "Do you agree that accepting money from corporate interests with an economic stake in how Congressmen vote, and then voting on matters that affect them, is pernicious and close to bribery?  If not, why not?  ", 
+      "district": "CA_43", 
+      "created": "2013-08-09T11:50:47", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 33.9753, 
+      "x": -118.354, 
+      "id": 16271569, 
+      "question_id": "16176481"
+    }, 
+    {
+      "city": "Los Lunas", 
+      "first_name": "K.A.", 
+      "last_name": "McCord", 
+      "user_id": 346370, 
+      "submission": "The drug war and the prison industry has destroyed many lives -- especially of low income and minority citizens. As a first step, marijuana needs to be legalized nation-wide. What will you do toward that end?", 
+      "district": "NM_02", 
+      "created": "2013-08-09T11:50:44", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 34.7844, 
+      "x": -106.693, 
+      "id": 16271568, 
+      "question_id": "16173418"
+    }, 
+    {
       "city": "Williston", 
       "first_name": "Michael", 
       "last_name": "Lowe", 
       "user_id": 654169, 
-      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
       "district": "FL_03", 
-      "created": "2013-08-09T11:49:52", 
+      "created": "2013-08-09T11:50:41", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 29.3881, 
       "x": -82.4535, 
-      "id": 16271558, 
-      "question_id": "16172755"
+      "id": 16271567, 
+      "question_id": "16175740"
+    }, 
+    {
+      "city": "Leesburg", 
+      "first_name": "R", 
+      "last_name": "hoffman", 
+      "user_id": 1705977, 
+      "submission": "Should Bush and Cheney (AND Obama) be prosecuted for war crimes?", 
+      "district": "FL_10", 
+      "created": "2013-08-09T11:50:16", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 28.8042, 
+      "x": -81.8856, 
+      "id": 16271562, 
+      "question_id": "16219940"
     }, 
     {
       "city": "Madison", 
@@ -30,21 +75,6 @@ opendebate.processTimeline({
       "x": -89.3772, 
       "id": 16271556, 
       "question_id": "16199305"
-    }, 
-    {
-      "city": "Inglewood", 
-      "first_name": "Ken", 
-      "last_name": "Benson", 
-      "user_id": 519373, 
-      "submission": "It is time we stop rewarding companies that outsource American jobs.  Would you propose a new tax on these companies, an import tax on products produced by these companies or some other form of incentive to keep jobs in this country?  Please be specific.", 
-      "district": "CA_43", 
-      "created": "2013-08-09T11:49:23", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 33.9753, 
-      "x": -118.354, 
-      "id": 16271552, 
-      "question_id": "16175276"
     }, 
     {
       "city": "Lyons", 
@@ -270,36 +300,6 @@ opendebate.processTimeline({
       "x": -71.4277, 
       "id": 16271388, 
       "question_id": "16173335"
-    }, 
-    {
-      "city": "anguillara", 
-      "first_name": "flora", 
-      "last_name": "botts", 
-      "user_id": 1063841, 
-      "submission": "When those of us who have spoken out about 9/11 and have been terrorized for years by the NSA start taking the law into our own hands and start executing traitors, terrorists and mass murderers in government, where are you going to hide?", 
-      "district": "", 
-      "created": "2013-08-09T11:26:33", 
-      "state": "", 
-      "iface": "timeline_vote", 
-      "y": 42.0926, 
-      "x": 12.2699, 
-      "id": 16271360, 
-      "question_id": "16267196"
-    }, 
-    {
-      "city": "Nashville", 
-      "first_name": "D. S.", 
-      "last_name": "Kinzie", 
-      "user_id": 88880, 
-      "submission": "Remind the big shots Soc Sec is our money we paid in....It is not the government's to spend...they were to say it for us. We need a raise in pay instead of cuts as the cost of living goes up...thank goodness we invested in the government. Carol Parrish Harra of TAhlequah, OK. ", 
-      "district": "TN_05", 
-      "created": "2013-08-09T11:19:17", 
-      "state": "TN", 
-      "iface": "timeline_vote", 
-      "y": 36.1088, 
-      "x": -86.7806, 
-      "id": 16271311, 
-      "question_id": "16247712"
     }
   ]
 });
