@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Donald", 
       "last_name": "Parker", 
       "user_id": 1780183, 
-      "submission": "Will you work to support Elizabeth Warren's efforts to revise Glass-Steagall", 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
       "district": "CA_26", 
-      "created": "2013-08-09T13:58:59", 
+      "created": "2013-08-09T13:59:50", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 34.1929, 
       "x": -118.823, 
-      "id": 16275018, 
-      "question_id": "16265543"
+      "id": 16275067, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Mount Vernon", 
+      "first_name": "Katherine", 
+      "last_name": "Hull", 
+      "user_id": 1636007, 
+      "submission": "What will you do to overturn Citizen's United?", 
+      "district": "WA_01", 
+      "created": "2013-08-09T13:59:18", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 48.4071, 
+      "x": -122.324, 
+      "id": 16275039, 
+      "question_id": "16172765"
     }, 
     {
       "city": "Huntsville", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -86.5663, 
       "id": 16275019, 
       "question_id": "16178177"
-    }, 
-    {
-      "city": "Mount Vernon", 
-      "first_name": "Katherine", 
-      "last_name": "Hull", 
-      "user_id": 1636007, 
-      "submission": "Do you support the concept of keeping church and state separate?", 
-      "district": "WA_01", 
-      "created": "2013-08-09T13:58:51", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 48.4071, 
-      "x": -122.324, 
-      "id": 16275010, 
-      "question_id": "16173921"
     }, 
     {
       "city": "Lafayette", 
