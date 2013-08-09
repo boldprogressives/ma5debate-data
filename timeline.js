@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Ocala", 
+      "first_name": "Richard", 
+      "last_name": "Barstow", 
+      "user_id": 44028, 
+      "submission": "What is your position on the Keystone XL pipeline and on fracking? Specifically what would you do to stop climate change and move to renewable energy?", 
+      "district": "FL_11", 
+      "created": "2013-08-09T23:00:55", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 29.1562, 
+      "x": -82.196, 
+      "id": 16287558, 
+      "question_id": "16207584"
+    }, 
+    {
       "city": "Salem", 
       "first_name": "", 
       "last_name": "", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -111.918, 
       "id": 16287018, 
       "question_id": "16172286"
-    }, 
-    {
-      "city": "Ashland", 
-      "first_name": "Pam", 
-      "last_name": "Cooper", 
-      "user_id": 1779065, 
-      "submission": "Would you support Experience Works, the jobs program for Seniors, new life and increase in wages? There are many, many of us with lots of skills needing work and being passed by because of ageism.", 
-      "district": "OR_02", 
-      "created": "2013-08-09T22:16:41", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 42.1583, 
-      "x": -122.634, 
-      "id": 16287009, 
-      "question_id": "16179925"
     }
   ]
 });
