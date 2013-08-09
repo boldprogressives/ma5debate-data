@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Donald", 
       "last_name": "Parker", 
       "user_id": 1780183, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "submission": "Congress persons have voted to put themselves in the driver's seat when it comes to their salaries. They vote themselves raises and we as citizens cannot over turn. What will you do to stop this practice?", 
       "district": "CA_26", 
-      "created": "2013-08-09T13:59:50", 
+      "created": "2013-08-09T14:02:45", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 34.1929, 
       "x": -118.823, 
-      "id": 16275067, 
-      "question_id": "16172777"
+      "id": 16275182, 
+      "question_id": "16173244"
+    }, 
+    {
+      "city": "Gwynn Oak", 
+      "first_name": "Sharon", 
+      "last_name": "Holley", 
+      "user_id": 1783365, 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "district": "MD_07", 
+      "created": "2013-08-09T14:02:27", 
+      "state": "MD", 
+      "iface": "timeline_vote", 
+      "y": 39.3238, 
+      "x": -76.7143, 
+      "id": 16275179, 
+      "question_id": "16173335"
     }, 
     {
       "city": "Mount Vernon", 
@@ -285,21 +300,6 @@ opendebate.processTimeline({
       "x": -84.0482, 
       "id": 16274512, 
       "question_id": "16172303"
-    }, 
-    {
-      "city": "Rachel", 
-      "first_name": "lee", 
-      "last_name": "schwartz", 
-      "user_id": 1772718, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
-      "district": "WV_01", 
-      "created": "2013-08-09T13:50:30", 
-      "state": "WV", 
-      "iface": "timeline_vote", 
-      "y": 39.5227, 
-      "x": -80.2963, 
-      "id": 16274507, 
-      "question_id": "16173264"
     }
   ]
 });

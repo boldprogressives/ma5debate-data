@@ -1025,7 +1025,7 @@ opendebate.processFetchedQuestions({
       "x": -106.438, 
       "latest_vote": "2013-08-09T13:32:16", 
       "id": 16262893, 
-      "trending_score": 3.5
+      "trending_score": 2.416666666666667
     }, 
     {
       "city": "Bremerton", 
@@ -1177,7 +1177,7 @@ opendebate.processFetchedQuestions({
       "x": -122.811, 
       "latest_vote": "2013-08-09T11:28:22", 
       "id": 16260903, 
-      "trending_score": 2.25
+      "trending_score": 1.0
     }, 
     {
       "city": "Columbus", 
@@ -2450,7 +2450,7 @@ opendebate.processFetchedQuestions({
       "x": -122.811, 
       "latest_vote": "2013-08-09T11:13:34", 
       "id": 16248929, 
-      "trending_score": 1.8333333333333333
+      "trending_score": 3.125
     }, 
     {
       "city": "Sacramento", 
@@ -4502,7 +4502,7 @@ opendebate.processFetchedQuestions({
       "x": -81.4724, 
       "latest_vote": "2013-08-09T13:21:27", 
       "id": 16234686, 
-      "trending_score": 4.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Rome", 
@@ -9119,7 +9119,7 @@ opendebate.processFetchedQuestions({
       "x": -73.4093, 
       "latest_vote": "2013-08-09T13:43:43", 
       "id": 16217343, 
-      "trending_score": 5.166666666666667
+      "trending_score": 5.25
     }, 
     {
       "city": "Lloyd Harbor", 
@@ -9765,7 +9765,7 @@ opendebate.processFetchedQuestions({
       "x": -71.3639, 
       "latest_vote": "2013-08-09T13:40:41", 
       "id": 16215420, 
-      "trending_score": 1.8333333333333333
+      "trending_score": 2.25
     }, 
     {
       "city": "Wayland", 
@@ -13461,16 +13461,16 @@ opendebate.processFetchedQuestions({
       "submission": "How do you feel about supporting a constitutional amendment to overturn Citizens United?", 
       "district": "IN_06", 
       "created": "2013-08-06T20:51:57", 
-      "state_votes": 16, 
-      "votes": 182, 
-      "district_votes": 4, 
+      "state_votes": 17, 
+      "votes": 183, 
+      "district_votes": 5, 
       "state": "IN", 
       "iface": "question", 
       "y": 40.1715, 
       "x": -85.379, 
-      "latest_vote": "2013-08-09T12:34:18", 
+      "latest_vote": "2013-08-09T14:02:08", 
       "id": 16205331, 
-      "trending_score": 2.25
+      "trending_score": 3.25
     }, 
     {
       "city": "Weaverville", 
@@ -20795,16 +20795,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you pledge to uphold the Affordable Care Act and help states implement it -- not defund it?", 
       "district": "MA_05", 
       "created": "2013-08-06T13:36:44", 
-      "state_votes": 12, 
-      "votes": 106, 
-      "district_votes": 2, 
+      "state_votes": 13, 
+      "votes": 107, 
+      "district_votes": 3, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4213, 
       "x": -71.1134, 
-      "latest_vote": "2013-08-09T13:25:07", 
+      "latest_vote": "2013-08-09T14:02:38", 
       "id": 16181276, 
-      "trending_score": 4.5
+      "trending_score": 4.833333333333334
     }, 
     {
       "city": "Arlington", 
@@ -24330,15 +24330,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_08", 
       "created": "2013-08-05T01:44:45", 
       "state_votes": 83, 
-      "votes": 920, 
+      "votes": 921, 
       "district_votes": 32, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.174, 
       "x": -87.9643, 
-      "latest_vote": "2013-08-09T13:55:47", 
+      "latest_vote": "2013-08-09T14:02:19", 
       "id": 16175740, 
-      "trending_score": 58.25
+      "trending_score": 59.25
     }, 
     {
       "city": "Buffalo Grove", 
@@ -24615,15 +24615,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_25", 
       "created": "2013-08-05T00:22:27", 
       "state_votes": 57, 
-      "votes": 410, 
+      "votes": 411, 
       "district_votes": 17, 
       "state": "FL", 
       "iface": "question", 
       "y": 25.99, 
       "x": -81.5334, 
-      "latest_vote": "2013-08-09T13:59:06", 
+      "latest_vote": "2013-08-09T14:02:43", 
       "id": 16175500, 
-      "trending_score": 19.833333333333332
+      "trending_score": 20.333333333333332
     }, 
     {
       "city": "Seattle", 
@@ -26610,15 +26610,15 @@ opendebate.processFetchedQuestions({
       "district": "TN_02", 
       "created": "2013-08-04T02:07:32", 
       "state_votes": 133, 
-      "votes": 959, 
+      "votes": 960, 
       "district_votes": 31, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.8311, 
       "x": -84.0482, 
-      "latest_vote": "2013-08-09T13:55:56", 
+      "latest_vote": "2013-08-09T14:02:27", 
       "id": 16173335, 
-      "trending_score": 49.25
+      "trending_score": 50.25
     }, 
     {
       "city": "Evansville", 
@@ -26971,15 +26971,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:15:12", 
       "state_votes": 37, 
-      "votes": 345, 
+      "votes": 346, 
       "district_votes": 3, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-09T13:56:37", 
+      "latest_vote": "2013-08-09T14:02:45", 
       "id": 16173244, 
-      "trending_score": 19.5
+      "trending_score": 20.5
     }, 
     {
       "city": "Saint Peters", 
