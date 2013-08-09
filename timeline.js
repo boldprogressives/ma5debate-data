@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Fayetteville", 
-      "first_name": "Vera", 
-      "last_name": "Morgan", 
-      "user_id": 1012008, 
-      "submission": "When are we going to prosecute Wall Street Banksters ?", 
-      "district": "NC_04", 
-      "created": "2013-08-09T12:35:39", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.0577, 
-      "x": -79.0035, 
-      "id": 16272174, 
-      "question_id": "16175312"
-    }, 
-    {
       "city": "Lyons", 
       "first_name": "Sandra", 
       "last_name": "Toomey", 
       "user_id": 1773961, 
-      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
+      "submission": "Will you vote to end tax loopholes for the rich, big business subsides, overseas corporate tax loopholes, wasteful wars, foreign country subsides, quality health care for all, good safe food for all, clean air, clean energy, clean safe drinking water, useful education and job opportunities for all hard working citizens that can achieve these levels and deserve it, gun control, to end wall street fraud and corruption.", 
       "district": "IL_03", 
-      "created": "2013-08-09T12:35:25", 
+      "created": "2013-08-09T12:36:57", 
       "state": "IL", 
       "iface": "timeline_vote", 
       "y": 41.8118, 
       "x": -87.8206, 
-      "id": 16272172, 
-      "question_id": "16173257"
+      "id": 16272188, 
+      "question_id": "16203215"
+    }, 
+    {
+      "city": "Fayetteville", 
+      "first_name": "Vera", 
+      "last_name": "Morgan", 
+      "user_id": 1012008, 
+      "submission": "What do you feel about the Republican's relentless push to eliminate or seriously curtail abortion rights in most states, and what can be done about it?", 
+      "district": "NC_04", 
+      "created": "2013-08-09T12:36:30", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.0577, 
+      "x": -79.0035, 
+      "id": 16272182, 
+      "question_id": "16172892"
     }, 
     {
       "city": "West Warwick", 
