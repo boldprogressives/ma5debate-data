@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Los Angeles", 
+      "first_name": "Ellen", 
+      "last_name": "Steens", 
+      "user_id": 1782363, 
+      "submission": "Do you support or oppose the use of the death penalty in criminal cases? Would you support an end to capital punishment?", 
+      "district": "CA_37", 
+      "created": "2013-08-09T07:29:05", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 34.0277, 
+      "x": -118.352, 
+      "id": 16267628, 
+      "question_id": "16176655"
+    }, 
+    {
       "city": "Boulder City", 
       "first_name": "Dominique", 
       "last_name": "Spurling", 
       "user_id": 339493, 
-      "submission": "do you believe that gerrymandering is hurting our democracy and if so how would you fix it?", 
+      "submission": "Will you aggressively prosecute those at Goldman Sachs and other banks/financial institutions for their continued illegal activities which have resulted in the serious and continuing economic disaster in this country?", 
       "district": "NV_03", 
-      "created": "2013-08-09T07:27:55", 
+      "created": "2013-08-09T07:29:05", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 35.9778, 
       "x": -114.836, 
-      "id": 16267587, 
-      "question_id": "16223771"
+      "id": 16267632, 
+      "question_id": "16225925"
+    }, 
+    {
+      "city": "Redondo Beach", 
+      "first_name": "Susie", 
+      "last_name": "Carrington", 
+      "user_id": 1678552, 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "district": "CA_33", 
+      "created": "2013-08-09T07:29:04", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 33.8713, 
+      "x": -118.372, 
+      "id": 16267619, 
+      "question_id": "16172755"
     }, 
     {
       "city": "Medford", 
@@ -286,36 +316,6 @@ opendebate.processTimeline({
       "x": -118.179, 
       "id": 16267292, 
       "question_id": "16172207"
-    }, 
-    {
-      "city": "Los Angeles", 
-      "first_name": "Camille", 
-      "last_name": "Ameen", 
-      "user_id": 782229, 
-      "submission": "Would you support Medicare paying for dental care?", 
-      "district": "CA_37", 
-      "created": "2013-08-09T06:58:22", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 34.028, 
-      "x": -118.399, 
-      "id": 16267267, 
-      "question_id": "16174466"
-    }, 
-    {
-      "city": "Watsonville", 
-      "first_name": "Wendy", 
-      "last_name": "Hansen", 
-      "user_id": 1693963, 
-      "submission": "Will you pledge to protect Social Security and expand it if possible for the Elderly and Dusabled?", 
-      "district": "CA_20", 
-      "created": "2013-08-09T06:55:25", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 36.9413, 
-      "x": -121.783, 
-      "id": 16267227, 
-      "question_id": "16238957"
     }
   ]
 });
