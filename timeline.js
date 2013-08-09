@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Tullahoma", 
+      "first_name": "Robert", 
+      "last_name": "Burt", 
+      "user_id": 1731191, 
+      "submission": "To all Candidates...Will you support Elizabeth Warren's bill to allow college students to borrow under 1% interest of college loans? ", 
+      "district": "TN_06", 
+      "created": "2013-08-09T15:33:58", 
+      "state": "TN", 
+      "iface": "timeline_vote", 
+      "y": 35.3712, 
+      "x": -86.2131, 
+      "id": 16278039, 
+      "question_id": "16200733"
+    }, 
+    {
+      "city": "Sunnyside", 
+      "first_name": "Gerald", 
+      "last_name": "Hassett", 
+      "user_id": 175827, 
+      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
+      "district": "NY_14", 
+      "created": "2013-08-09T15:33:50", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.7446, 
+      "x": -73.9178, 
+      "id": 16278038, 
+      "question_id": "16173257"
+    }, 
+    {
+      "city": "Alexandria", 
+      "first_name": "Bruce Hutson", 
+      "last_name": "PO  Box 7404, Alexandria, VA  22307-0404", 
+      "user_id": 1772446, 
+      "submission": "What will you do to protect our votes from the easily \"hackable\" electronic voting machines, such as those which were manipulated by Repubs. in 2004 Ohio, to swing the election from Kerry to Bush?", 
+      "district": "VA_08", 
+      "created": "2013-08-09T15:33:40", 
+      "state": "VA", 
+      "iface": "timeline_vote", 
+      "y": 38.7726, 
+      "x": -77.0569, 
+      "id": 16278036, 
+      "question_id": "16244119"
+    }, 
+    {
       "city": "Trenton", 
       "first_name": "JoAnne", 
       "last_name": "Bruno", 
@@ -15,36 +60,6 @@ opendebate.processTimeline({
       "x": -74.66, 
       "id": 16278028, 
       "question_id": "16264837"
-    }, 
-    {
-      "city": "Alexandria", 
-      "first_name": "Bruce Hutson", 
-      "last_name": "PO  Box 7404, Alexandria, VA  22307-0404", 
-      "user_id": 1772446, 
-      "submission": "Why don't we have public works programs to put people to work and save our failing infrastructure.  And don't tell we can't afford it.  Public work projects would pay off in many more dollars then would be spent.", 
-      "district": "VA_08", 
-      "created": "2013-08-09T15:32:59", 
-      "state": "VA", 
-      "iface": "timeline_vote", 
-      "y": 38.7726, 
-      "x": -77.0569, 
-      "id": 16278027, 
-      "question_id": "16213399"
-    }, 
-    {
-      "city": "Tullahoma", 
-      "first_name": "Robert", 
-      "last_name": "Burt", 
-      "user_id": 1731191, 
-      "submission": "Do/would you support an investigation of any/all Representative\u2019s that signed the Norquist pledge as having a conflict of interest with their pledge to uphold the Constitution and make government work?", 
-      "district": "TN_06", 
-      "created": "2013-08-09T15:32:56", 
-      "state": "TN", 
-      "iface": "timeline_vote", 
-      "y": 35.3712, 
-      "x": -86.2131, 
-      "id": 16278026, 
-      "question_id": "16206139"
     }, 
     {
       "city": "Williamsport", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -80.3302, 
       "id": 16277782, 
       "question_id": "16172697"
-    }, 
-    {
-      "city": "South Amboy", 
-      "first_name": "Rose", 
-      "last_name": "Gordon", 
-      "user_id": 422801, 
-      "submission": "Do you understand clearly that the Keystone XL pipeline is a devastating threat to the survival of our planet and an extreme danger to public health, as well as a threat to eminent domain?  Are you willing to do all in your power to oppose this pipeline?", 
-      "district": "NJ_06", 
-      "created": "2013-08-09T15:21:13", 
-      "state": "NJ", 
-      "iface": "timeline_vote", 
-      "y": 40.464, 
-      "x": -74.2758, 
-      "id": 16277761, 
-      "question_id": "16240772"
     }
   ]
 });
