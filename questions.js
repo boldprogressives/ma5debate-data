@@ -1272,7 +1272,7 @@ opendebate.processFetchedQuestions({
       "x": -117.717, 
       "latest_vote": "2013-08-09T16:11:09", 
       "id": 16265543, 
-      "trending_score": 17.75
+      "trending_score": 17.833333333333332
     }, 
     {
       "city": "Claremont", 
@@ -3077,7 +3077,7 @@ opendebate.processFetchedQuestions({
       "x": -84.2978, 
       "latest_vote": "2013-08-09T15:04:18", 
       "id": 16246613, 
-      "trending_score": 3.25
+      "trending_score": 3.5
     }, 
     {
       "city": "Swannanoa", 
@@ -4787,7 +4787,7 @@ opendebate.processFetchedQuestions({
       "x": -80.0109, 
       "latest_vote": "2013-08-09T14:40:46", 
       "id": 16235193, 
-      "trending_score": 5.333333333333333
+      "trending_score": 5.5
     }, 
     {
       "city": "San Antonio", 
@@ -4882,7 +4882,7 @@ opendebate.processFetchedQuestions({
       "x": -81.4724, 
       "latest_vote": "2013-08-09T15:31:22", 
       "id": 16234686, 
-      "trending_score": 8.166666666666666
+      "trending_score": 8.25
     }, 
     {
       "city": "Rome", 
@@ -4939,7 +4939,7 @@ opendebate.processFetchedQuestions({
       "x": -75.1731, 
       "latest_vote": "2013-08-09T14:55:50", 
       "id": 16234459, 
-      "trending_score": 5.25
+      "trending_score": 5.5
     }, 
     {
       "city": "Clarkston", 
@@ -5642,7 +5642,7 @@ opendebate.processFetchedQuestions({
       "x": -119.717, 
       "latest_vote": "2013-08-09T15:12:29", 
       "id": 16230106, 
-      "trending_score": 2.0
+      "trending_score": 3.1666666666666665
     }, 
     {
       "city": "Port Allegany", 
@@ -6402,7 +6402,7 @@ opendebate.processFetchedQuestions({
       "x": -73.2993, 
       "latest_vote": "2013-08-09T15:42:49", 
       "id": 16225925, 
-      "trending_score": 5.166666666666667
+      "trending_score": 5.25
     }, 
     {
       "city": "Fitchburg", 
@@ -12739,16 +12739,16 @@ opendebate.processFetchedQuestions({
       "submission": "Would you back legislation that banned any elected official from becoming a lobbiest upon leaving office?", 
       "district": "MA_02", 
       "created": "2013-08-06T22:41:28", 
-      "state_votes": 12, 
-      "votes": 134, 
+      "state_votes": 13, 
+      "votes": 135, 
       "district_votes": 2, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.0784, 
       "x": -71.6341, 
-      "latest_vote": "2013-08-09T14:44:46", 
+      "latest_vote": "2013-08-09T16:17:50", 
       "id": 16208488, 
-      "trending_score": 5.5
+      "trending_score": 6.5
     }, 
     {
       "city": "Bronx", 
@@ -12786,7 +12786,7 @@ opendebate.processFetchedQuestions({
       "x": -121.081, 
       "latest_vote": "2013-08-09T16:12:57", 
       "id": 16208291, 
-      "trending_score": 15.25
+      "trending_score": 15.5
     }, 
     {
       "city": "Olympia", 
@@ -13185,7 +13185,7 @@ opendebate.processFetchedQuestions({
       "x": -70.2918, 
       "latest_vote": "2013-08-09T16:09:49", 
       "id": 16206983, 
-      "trending_score": 8.0
+      "trending_score": 8.5
     }, 
     {
       "city": "San Francisco", 
@@ -13375,7 +13375,7 @@ opendebate.processFetchedQuestions({
       "x": -80.5392, 
       "latest_vote": "2013-08-09T16:13:56", 
       "id": 16206139, 
-      "trending_score": 6.25
+      "trending_score": 6.333333333333333
     }, 
     {
       "city": "Saratoga Springs", 
@@ -13527,7 +13527,7 @@ opendebate.processFetchedQuestions({
       "x": -124.071, 
       "latest_vote": "2013-08-09T16:04:30", 
       "id": 16205834, 
-      "trending_score": 19.166666666666668
+      "trending_score": 9.333333333333334
     }, 
     {
       "city": "Addison", 
@@ -13671,15 +13671,15 @@ opendebate.processFetchedQuestions({
       "district": "NC_13", 
       "created": "2013-08-06T21:10:00", 
       "state_votes": 15, 
-      "votes": 186, 
+      "votes": 187, 
       "district_votes": 1, 
       "state": "NC", 
       "iface": "question", 
       "y": 35.8569, 
       "x": -78.6896, 
-      "latest_vote": "2013-08-09T15:58:04", 
+      "latest_vote": "2013-08-09T16:17:36", 
       "id": 16205646, 
-      "trending_score": 4.75
+      "trending_score": 5.0
     }, 
     {
       "city": "Gaithersburg", 
@@ -14260,15 +14260,15 @@ opendebate.processFetchedQuestions({
       "district": "MI_11", 
       "created": "2013-08-06T19:59:23", 
       "state_votes": 16, 
-      "votes": 542, 
+      "votes": 544, 
       "district_votes": 4, 
       "state": "MI", 
       "iface": "question", 
       "y": 42.5952, 
       "x": -83.1201, 
-      "latest_vote": "2013-08-09T16:05:57", 
+      "latest_vote": "2013-08-09T16:17:45", 
       "id": 16203215, 
-      "trending_score": 31.166666666666668
+      "trending_score": 33.166666666666664
     }, 
     {
       "city": "Lake Worth", 
@@ -14412,15 +14412,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_12", 
       "created": "2013-08-06T19:37:02", 
       "state_votes": 66, 
-      "votes": 581, 
+      "votes": 582, 
       "district_votes": 22, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.7802, 
       "x": -122.459, 
-      "latest_vote": "2013-08-09T16:07:04", 
+      "latest_vote": "2013-08-09T16:17:47", 
       "id": 16202059, 
-      "trending_score": 29.166666666666668
+      "trending_score": 30.166666666666668
     }, 
     {
       "city": "Richfield", 
@@ -19189,7 +19189,7 @@ opendebate.processFetchedQuestions({
       "x": -72.8957, 
       "latest_vote": "2013-08-09T16:15:25", 
       "id": 16185125, 
-      "trending_score": 8.0
+      "trending_score": 5.416666666666667
     }, 
     {
       "city": "New York", 
@@ -21184,7 +21184,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1134, 
       "latest_vote": "2013-08-09T15:41:42", 
       "id": 16181276, 
-      "trending_score": 9.125
+      "trending_score": 9.166666666666666
     }, 
     {
       "city": "Arlington", 
@@ -24177,16 +24177,16 @@ opendebate.processFetchedQuestions({
       "submission": "Why is there not even ONE mention about possibly repealing the \"Patriot Act\", even though that one law has completely obliterated all of our civil rights that were guaranteed in the Constitution??? All USA laws have become invalid, especially for protecting against oppressive governmental organizations, by simply declaring ANYONE an \"Enemy Combatant\" with no real justification for that declaration. The Constitution was specifically created to design precautions against an oppressive government that already had gone too far (Britain). ", 
       "district": "CO_07", 
       "created": "2013-08-05T03:21:23", 
-      "state_votes": 8, 
-      "votes": 136, 
+      "state_votes": 9, 
+      "votes": 137, 
       "district_votes": 2, 
       "state": "CO", 
       "iface": "question", 
       "y": 39.9288, 
       "x": -104.946, 
-      "latest_vote": "2013-08-09T15:07:17", 
+      "latest_vote": "2013-08-09T16:17:47", 
       "id": 16176201, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Albuquerque", 
@@ -24710,15 +24710,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_08", 
       "created": "2013-08-05T01:44:45", 
       "state_votes": 87, 
-      "votes": 968, 
+      "votes": 969, 
       "district_votes": 32, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.174, 
       "x": -87.9643, 
-      "latest_vote": "2013-08-09T16:15:12", 
+      "latest_vote": "2013-08-09T16:17:13", 
       "id": 16175740, 
-      "trending_score": 19.825
+      "trending_score": 20.025
     }, 
     {
       "city": "Buffalo Grove", 
@@ -24843,15 +24843,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_12", 
       "created": "2013-08-05T01:05:31", 
       "state_votes": 51, 
-      "votes": 443, 
+      "votes": 444, 
       "district_votes": 10, 
       "state": "IL", 
       "iface": "question", 
       "y": 38.3176, 
       "x": -88.9093, 
-      "latest_vote": "2013-08-09T16:09:29", 
+      "latest_vote": "2013-08-09T16:18:02", 
       "id": 16175634, 
-      "trending_score": 14.666666666666666
+      "trending_score": 12.033333333333333
     }, 
     {
       "city": "Mount Vernon", 
@@ -25003,7 +25003,7 @@ opendebate.processFetchedQuestions({
       "x": -81.5334, 
       "latest_vote": "2013-08-09T16:12:01", 
       "id": 16175500, 
-      "trending_score": 11.616666666666665
+      "trending_score": 9.666666666666666
     }, 
     {
       "city": "Seattle", 
@@ -25174,7 +25174,7 @@ opendebate.processFetchedQuestions({
       "x": -90.1072, 
       "latest_vote": "2013-08-09T16:14:16", 
       "id": 16175276, 
-      "trending_score": 11.833333333333334
+      "trending_score": 7.833333333333333
     }, 
     {
       "city": "Bainbridge Island", 
@@ -26314,7 +26314,7 @@ opendebate.processFetchedQuestions({
       "x": -123.884, 
       "latest_vote": "2013-08-09T16:15:23", 
       "id": 16174072, 
-      "trending_score": 15.166666666666666
+      "trending_score": 15.25
     }, 
     {
       "city": "Cape Girardeau", 
@@ -26789,7 +26789,7 @@ opendebate.processFetchedQuestions({
       "x": -123.188, 
       "latest_vote": "2013-08-09T16:12:54", 
       "id": 16173418, 
-      "trending_score": 10.5
+      "trending_score": 7.5
     }, 
     {
       "city": "Eugene", 
@@ -27275,15 +27275,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:25:59", 
       "state_votes": 231, 
-      "votes": 1517, 
+      "votes": 1518, 
       "district_votes": 72, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-09T16:15:06", 
+      "latest_vote": "2013-08-09T16:17:17", 
       "id": 16173264, 
-      "trending_score": 34.083333333333336
+      "trending_score": 34.416666666666664
     }, 
     {
       "city": "Prosper", 
@@ -27359,7 +27359,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-09T16:08:34", 
       "id": 16173244, 
-      "trending_score": 10.666666666666666
+      "trending_score": 7.333333333333333
     }, 
     {
       "city": "Saint Peters", 
@@ -28271,7 +28271,7 @@ opendebate.processFetchedQuestions({
       "x": -111.974, 
       "latest_vote": "2013-08-09T16:12:10", 
       "id": 16172777, 
-      "trending_score": 20.333333333333332
+      "trending_score": 23.825
     }, 
     {
       "city": "Gladstone", 
@@ -28282,15 +28282,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_05", 
       "created": "2013-08-03T22:30:45", 
       "state_votes": 106, 
-      "votes": 717, 
+      "votes": 718, 
       "district_votes": 28, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.3898, 
       "x": -122.589, 
-      "latest_vote": "2013-08-09T16:10:23", 
+      "latest_vote": "2013-08-09T16:17:29", 
       "id": 16172765, 
-      "trending_score": 32.5
+      "trending_score": 33.5
     }, 
     {
       "city": "Egg Harbor", 
@@ -28377,15 +28377,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:21:20", 
       "state_votes": 118, 
-      "votes": 954, 
+      "votes": 956, 
       "district_votes": 25, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.5746, 
       "x": -122.811, 
-      "latest_vote": "2013-08-09T16:05:55", 
+      "latest_vote": "2013-08-09T16:17:35", 
       "id": 16172731, 
-      "trending_score": 32.25
+      "trending_score": 33.25
     }, 
     {
       "city": "Chicago", 
@@ -28404,7 +28404,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5544, 
       "latest_vote": "2013-08-09T16:09:48", 
       "id": 16172727, 
-      "trending_score": 14.825
+      "trending_score": 18.15
     }, 
     {
       "city": "Waldport", 

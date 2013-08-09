@@ -2,19 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Tulsa", 
+      "first_name": "Maudie", 
+      "last_name": "Reed", 
+      "user_id": 1669252, 
+      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
+      "district": "OK_01", 
+      "created": "2013-08-09T16:18:02", 
+      "state": "OK", 
+      "iface": "timeline_vote", 
+      "y": 36.1864, 
+      "x": -95.9843, 
+      "id": 16279047, 
+      "question_id": "16175634"
+    }, 
+    {
       "city": "Jamaica Plain", 
       "first_name": "Carolyn", 
       "last_name": "Nikkal", 
       "user_id": 994541, 
-      "submission": "Will you vote to end all fossil-fuel subsidies?", 
+      "submission": "Would you back legislation that banned any elected official from becoming a lobbiest upon leaving office?", 
       "district": "MA_08", 
-      "created": "2013-08-09T16:16:58", 
+      "created": "2013-08-09T16:17:50", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2947, 
       "x": -71.1305, 
-      "id": 16279019, 
-      "question_id": "16201353"
+      "id": 16279040, 
+      "question_id": "16208488"
+    }, 
+    {
+      "city": "Glendale", 
+      "first_name": "Jeanette", 
+      "last_name": "Weis", 
+      "user_id": 89414, 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
+      "district": "AZ_08", 
+      "created": "2013-08-09T16:17:47", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 33.5683, 
+      "x": -112.178, 
+      "id": 16279039, 
+      "question_id": "16202059"
+    }, 
+    {
+      "city": "Madison", 
+      "first_name": "Jose", 
+      "last_name": "DelaCruz", 
+      "user_id": 1677998, 
+      "submission": "Why are so many countries banning GMO foods but the US refuses to do so? Why aren't they required to label them as such? ", 
+      "district": "WI_02", 
+      "created": "2013-08-09T16:17:36", 
+      "state": "WI", 
+      "iface": "timeline_vote", 
+      "y": 43.0751, 
+      "x": -89.4599, 
+      "id": 16279029, 
+      "question_id": "16205646"
     }, 
     {
       "city": "Newtown Square", 
@@ -98,21 +143,6 @@ opendebate.processTimeline({
       "x": -116.19, 
       "id": 16278973, 
       "question_id": "16172207"
-    }, 
-    {
-      "city": "Madison", 
-      "first_name": "Jose", 
-      "last_name": "DelaCruz", 
-      "user_id": 1677998, 
-      "submission": "What will you do to overturn Citizen's United?", 
-      "district": "WI_02", 
-      "created": "2013-08-09T16:10:23", 
-      "state": "WI", 
-      "iface": "timeline_vote", 
-      "y": 43.0751, 
-      "x": -89.4599, 
-      "id": 16278935, 
-      "question_id": "16172765"
     }, 
     {
       "city": "Arlington", 
@@ -282,36 +312,6 @@ opendebate.processTimeline({
       "x": -122.568, 
       "id": 16278288, 
       "question_id": "16201159"
-    }, 
-    {
-      "city": "Tucson", 
-      "first_name": "Leslie", 
-      "last_name": "Shire", 
-      "user_id": 1652155, 
-      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
-      "district": "AZ_02", 
-      "created": "2013-08-09T15:51:19", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 32.2744, 
-      "x": -110.829, 
-      "id": 16278268, 
-      "question_id": "16172731"
-    }, 
-    {
-      "city": "Cedar Park", 
-      "first_name": "William", 
-      "last_name": "Mayhew", 
-      "user_id": 1564978, 
-      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
-      "district": "TX_31", 
-      "created": "2013-08-09T15:49:44", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 30.4941, 
-      "x": -97.8298, 
-      "id": 16278246, 
-      "question_id": "16172755"
     }
   ]
 });
