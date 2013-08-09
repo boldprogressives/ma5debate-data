@@ -2,19 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Andover", 
+      "first_name": "Tom", 
+      "last_name": "Saunders", 
+      "user_id": 1672323, 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "district": "MA_03", 
+      "created": "2013-08-09T13:35:58", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.6488, 
+      "x": -71.162, 
+      "id": 16273148, 
+      "question_id": "16172281"
+    }, 
+    {
+      "city": "Bowling Green", 
+      "first_name": "Alice", 
+      "last_name": "Jones", 
+      "user_id": 1783578, 
+      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
+      "district": "KY_02", 
+      "created": "2013-08-09T13:35:53", 
+      "state": "KY", 
+      "iface": "timeline_vote", 
+      "y": 36.932, 
+      "x": -86.4501, 
+      "id": 16273146, 
+      "question_id": "16172731"
+    }, 
+    {
       "city": "Barnum", 
       "first_name": "James", 
       "last_name": "Korioth", 
       "user_id": 1693318, 
-      "submission": "Do you support the concept of keeping church and state separate?", 
+      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
       "district": "MN_08", 
-      "created": "2013-08-09T13:35:02", 
+      "created": "2013-08-09T13:35:46", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 46.5765, 
       "x": -92.7179, 
-      "id": 16273127, 
-      "question_id": "16173921"
+      "id": 16273144, 
+      "question_id": "16173257"
+    }, 
+    {
+      "city": "Athens", 
+      "first_name": "llynn", 
+      "last_name": "manzione", 
+      "user_id": 698396, 
+      "submission": "Why is Monsanto allowed to destroy our agriculture and the small farmers?", 
+      "district": "GA_09", 
+      "created": "2013-08-09T13:35:21", 
+      "state": "GA", 
+      "iface": "timeline_vote", 
+      "y": 33.9924, 
+      "x": -83.4167, 
+      "id": 16273134, 
+      "question_id": "16244435"
     }, 
     {
       "city": "Holloway", 
@@ -30,21 +75,6 @@ opendebate.processTimeline({
       "x": -81.1274, 
       "id": 16273119, 
       "question_id": "16175740"
-    }, 
-    {
-      "city": "Athens", 
-      "first_name": "llynn", 
-      "last_name": "manzione", 
-      "user_id": 698396, 
-      "submission": "What are your thoughts on how to stop corporate welfare, tax loopholes and subsidies.", 
-      "district": "GA_09", 
-      "created": "2013-08-09T13:34:16", 
-      "state": "GA", 
-      "iface": "timeline_vote", 
-      "y": 33.9924, 
-      "x": -83.4167, 
-      "id": 16273114, 
-      "question_id": "16206470"
     }, 
     {
       "city": "Amarillo", 
@@ -278,36 +308,6 @@ opendebate.processTimeline({
       "x": -75.972, 
       "id": 16272906, 
       "question_id": "16198297"
-    }, 
-    {
-      "city": "Chapel Hill", 
-      "first_name": "Patrick", 
-      "last_name": "Marsh", 
-      "user_id": 257203, 
-      "submission": "Will you pledge to do all you can to fight the increasing income inequities in our society, and the policies that promote them?", 
-      "district": "NC_04", 
-      "created": "2013-08-09T13:24:53", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.9349, 
-      "x": -79.0375, 
-      "id": 16272878, 
-      "question_id": "16182122"
-    }, 
-    {
-      "city": "Devils Lake", 
-      "first_name": "Richard", 
-      "last_name": "Halgren", 
-      "user_id": 1570508, 
-      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
-      "district": "ND_01", 
-      "created": "2013-08-09T13:23:25", 
-      "state": "ND", 
-      "iface": "timeline_vote", 
-      "y": 48.1127, 
-      "x": -98.8567, 
-      "id": 16272846, 
-      "question_id": "16172697"
     }
   ]
 });
