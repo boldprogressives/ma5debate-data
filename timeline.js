@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Tryon", 
-      "first_name": "Murlel", 
-      "last_name": "Lunsford", 
-      "user_id": 1656934, 
-      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
-      "district": "NC_10", 
-      "created": "2013-08-09T07:13:40", 
-      "state": "NC", 
+      "city": "San Mateo", 
+      "first_name": "marcia", 
+      "last_name": "Shull", 
+      "user_id": 520234, 
+      "submission": "Will you aggressively prosecute those at Goldman Sachs and other banks/financial institutions for their continued illegal activities which have resulted in the serious and continuing economic disaster in this country?", 
+      "district": "CA_14", 
+      "created": "2013-08-09T07:15:00", 
+      "state": "CA", 
       "iface": "timeline_vote", 
-      "y": 35.2172, 
-      "x": -82.2262, 
-      "id": 16267468, 
-      "question_id": "16175637"
+      "y": 37.5479, 
+      "x": -122.269, 
+      "id": 16267488, 
+      "question_id": "16225925"
     }, 
     {
       "city": "Dallas", 
       "first_name": "Violet", 
       "last_name": "Sunderland", 
       "user_id": 986238, 
-      "submission": "Do you favor legislation to protect our water, land, and communities from the negative environmental and social impacts of fracking for natural gas?", 
+      "submission": "How realistic is it that Wall Street/Banks will ever be held criminally accountable for the destruction it did to Americans and the ecomony?", 
       "district": "OR_05", 
-      "created": "2013-08-09T07:13:40", 
+      "created": "2013-08-09T07:14:56", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 44.9222, 
       "x": -123.327, 
-      "id": 16267470, 
-      "question_id": "16204423"
+      "id": 16267487, 
+      "question_id": "16173397"
+    }, 
+    {
+      "city": "Tryon", 
+      "first_name": "Murlel", 
+      "last_name": "Lunsford", 
+      "user_id": 1656934, 
+      "submission": "Would you pledge to take no gifts or money from special interest groups in exchange for your votes favoring them?", 
+      "district": "NC_10", 
+      "created": "2013-08-09T07:14:34", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.2172, 
+      "x": -82.2262, 
+      "id": 16267483, 
+      "question_id": "16205451"
     }, 
     {
       "city": "Henderson", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -91.5601, 
       "id": 16267155, 
       "question_id": "16177825"
-    }, 
-    {
-      "city": "Granite Bay", 
-      "first_name": "Diane", 
-      "last_name": "Rohrer", 
-      "user_id": 1736259, 
-      "submission": "The big banks want to innovate.  Will you demand that banks get approval from federal regulators BEFORE they implement high risk innovations like Credit Default Swaps and Collateralized Obligations?", 
-      "district": "CA_04", 
-      "created": "2013-08-09T06:47:42", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 38.7442, 
-      "x": -121.191, 
-      "id": 16267145, 
-      "question_id": "16260903"
     }
   ]
 });
