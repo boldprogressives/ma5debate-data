@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "New York", 
+      "first_name": "Christiane", 
+      "last_name": "Pors", 
+      "user_id": 1785709, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "NY_10", 
+      "created": "2013-08-09T09:12:40", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.7773, 
+      "x": -73.9825, 
+      "id": 16270126, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Briarcliff Manor", 
       "first_name": "Harvey", 
       "last_name": "Berman", 
       "user_id": 174153, 
-      "submission": "I assume you are for relegalization of marijuana, stopping the idiotic raids on legal medical marijuana facioities, allow taxing o fit... So what would youdo to make this process happen?", 
+      "submission": "What will you do to get the US government to stop lying about the medical values of marijuana and suppressing our right to control our own bodies?", 
       "district": "NY_17", 
-      "created": "2013-08-09T09:11:52", 
+      "created": "2013-08-09T09:12:25", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 41.1457, 
       "x": -73.8337, 
-      "id": 16270120, 
-      "question_id": "16185516"
+      "id": 16270123, 
+      "question_id": "16183803"
     }, 
     {
       "city": "Richmond", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -122.355, 
       "id": 16270105, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "New York", 
-      "first_name": "Christiane", 
-      "last_name": "Pors", 
-      "user_id": 1785709, 
-      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
-      "district": "NY_10", 
-      "created": "2013-08-09T09:07:29", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.7773, 
-      "x": -73.9825, 
-      "id": 16270087, 
-      "question_id": "16173210"
     }, 
     {
       "city": "Acton", 
