@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "What is your position on public education.  Do you believe that quality public education should be made available to all citizens regardless of income, race, religion, sex?", 
+      "submission": "Several of you have not been in your current position for even two years.  Now you are spending months more getting elected to a new job.  How do justify to those who voted for you your lack of focus on the job you said was the one you really really wanted such a short time ago?", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:58:51", 
+      "created": "2013-08-09T21:59:59", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286869, 
-      "question_id": "16221200"
+      "id": 16286882, 
+      "question_id": "16220646"
     }, 
     {
       "city": "Framingham", 
