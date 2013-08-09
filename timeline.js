@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Are you willing to fight for womens rights to determine their own healthcare?  Or do you think that \"you\" know what is best for every woman? Healthcare is not a religious  decision, it is a health decision to be made by woman of all faiths.", 
+      "submission": "Will you pledge to label all genetically modified foods?", 
       "district": "NM_03", 
-      "created": "2013-08-09T23:26:03", 
+      "created": "2013-08-09T23:26:59", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16287793, 
-      "question_id": "16199305"
+      "id": 16287803, 
+      "question_id": "16190003"
+    }, 
+    {
+      "city": "Burnsville", 
+      "first_name": "Bonnie", 
+      "last_name": "Rosenfield", 
+      "user_id": 1025762, 
+      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
+      "district": "MN_02", 
+      "created": "2013-08-09T23:26:50", 
+      "state": "MN", 
+      "iface": "timeline_vote", 
+      "y": 44.7702, 
+      "x": -93.2812, 
+      "id": 16287802, 
+      "question_id": "16175637"
     }, 
     {
       "city": "Seattle", 
@@ -64,21 +79,6 @@ opendebate.processTimeline({
       "x": -74.0309, 
       "id": 16287785, 
       "question_id": "16285318"
-    }, 
-    {
-      "city": "Burnsville", 
-      "first_name": "Bonnie", 
-      "last_name": "Rosenfield", 
-      "user_id": 1025762, 
-      "submission": "\"Lobbying\" is essentially a legal method for wealthy corporations and special interest groups to obtain legislation and subsidies not available to individual American citizens and small businesses.  Additionally, the groups using \"lobbyists\" (often former elected officials with \"contacts\" in Congress), are able to deduct the expenses of lobbying from their taxable income.  It is tax-deductible bribery by the \"haves\" in order to maintain their ascendency over the \"have-nots,\" and should be illegal.   Do you support eliminating lobbying?  If so, how will you go about getting rid of it; if not, why not?", 
-      "district": "MN_02", 
-      "created": "2013-08-09T23:24:30", 
-      "state": "MN", 
-      "iface": "timeline_vote", 
-      "y": 44.7702, 
-      "x": -93.2812, 
-      "id": 16287779, 
-      "question_id": "16197666"
     }, 
     {
       "city": "Warren", 
