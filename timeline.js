@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Rona", 
       "last_name": "Fried", 
       "user_id": 1002260, 
-      "submission": "do you support a min wage increase", 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
       "district": "NY_03", 
-      "created": "2013-08-09T21:19:57", 
+      "created": "2013-08-09T21:20:56", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.8174, 
       "x": -73.3691, 
-      "id": 16286121, 
-      "question_id": "16173625"
+      "id": 16286138, 
+      "question_id": "16172533"
     }, 
     {
       "city": "Kansas City", 
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "Free trade is not fair trade.  What will you do to stop the unfair monetary advantage that enables China to continually eat our lunch?china to become the ", 
+      "submission": "Where do you stand on the practice of designating workers as \"independent contractors\" even though their jobs & duties are IDENTICAL to those of fully benefited employees?  ", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:19:56", 
+      "created": "2013-08-09T21:20:49", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286120, 
-      "question_id": "16266093"
+      "id": 16286137, 
+      "question_id": "16219748"
     }, 
     {
       "city": "Roslindale", 
