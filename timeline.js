@@ -6,15 +6,45 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Will you have te courage to stop/stand against the present obstruction in congress?", 
+      "submission": "When will we get universal health care? And would you support a single payer system similar to Canada's?", 
       "district": "MA_04", 
-      "created": "2013-08-09T11:17:32", 
+      "created": "2013-08-09T11:18:48", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16271302, 
-      "question_id": "16200783"
+      "id": 16271310, 
+      "question_id": "16174014"
+    }, 
+    {
+      "city": "Cambridge", 
+      "first_name": "amy", 
+      "last_name": "thomas", 
+      "user_id": 1618349, 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "district": "MA_05", 
+      "created": "2013-08-09T11:18:45", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.366, 
+      "x": -71.1035, 
+      "id": 16271309, 
+      "question_id": "16172533"
+    }, 
+    {
+      "city": "Nashville", 
+      "first_name": "D. S.", 
+      "last_name": "Kinzie", 
+      "user_id": 88880, 
+      "submission": "Adult students who return to school to try and become marketable in the job market are penalized by being disqualified for snap benefits or food stamps, what do you propose to do about this?", 
+      "district": "TN_05", 
+      "created": "2013-08-09T11:18:32", 
+      "state": "TN", 
+      "iface": "timeline_vote", 
+      "y": 36.1088, 
+      "x": -86.7806, 
+      "id": 16271307, 
+      "question_id": "16246725"
     }, 
     {
       "city": "Amherst", 
@@ -45,21 +75,6 @@ opendebate.processTimeline({
       "x": -87.9285, 
       "id": 16271296, 
       "question_id": "16175500"
-    }, 
-    {
-      "city": "Nashville", 
-      "first_name": "D. S.", 
-      "last_name": "Kinzie", 
-      "user_id": 88880, 
-      "submission": "Would you support a Medicare buy-in program as a public option to allow anyone under age 65 to enroll for a set fee? ", 
-      "district": "TN_05", 
-      "created": "2013-08-09T11:15:39", 
-      "state": "TN", 
-      "iface": "timeline_vote", 
-      "y": 36.1088, 
-      "x": -86.7806, 
-      "id": 16271288, 
-      "question_id": "16192109"
     }, 
     {
       "city": "Delray Beach", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -78.6911, 
       "id": 16270873, 
       "question_id": "16205834"
-    }, 
-    {
-      "city": "Golden", 
-      "first_name": "LouAnne", 
-      "last_name": "Dale", 
-      "user_id": 91258, 
-      "submission": "Are you in favor of and would you propose a move for and make  an effort in PURSUING  Congress  to return  WITH INTEREST DUE TO THE LAST PENNEY all  they  \"borrowed\"  from  Social Security without the people's consent.", 
-      "district": "CO_07", 
-      "created": "2013-08-09T10:26:51", 
-      "state": "CO", 
-      "iface": "timeline_vote", 
-      "y": 39.818, 
-      "x": -105.251, 
-      "id": 16270869, 
-      "question_id": "16208136"
     }
   ]
 });
