@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "West Palm Beach", 
+      "first_name": "Donna", 
+      "last_name": "Valbuena", 
+      "user_id": 2742, 
+      "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
+      "district": "FL_22", 
+      "created": "2013-08-09T22:32:27", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 26.6715, 
+      "x": -80.0597, 
+      "id": 16287122, 
+      "question_id": "16175500"
+    }, 
+    {
+      "city": "Detroit", 
+      "first_name": "Daniel", 
+      "last_name": "Sarasin", 
+      "user_id": 1487238, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "MI_13", 
+      "created": "2013-08-09T22:32:16", 
+      "state": "MI", 
+      "iface": "timeline_vote", 
+      "y": 42.3801, 
+      "x": -83.0518, 
+      "id": 16287121, 
+      "question_id": "16173264"
+    }, 
+    {
       "city": "Winchester", 
       "first_name": "Susan", 
       "last_name": "Verdicchio", 
@@ -19,21 +49,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16287120, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Detroit", 
-      "first_name": "Daniel", 
-      "last_name": "Sarasin", 
-      "user_id": 1487238, 
-      "submission": "Would you support a ban on Congresspersons accepting jobs as corporate lobbyists for at least ten years after leaving Congress?", 
-      "district": "MI_13", 
-      "created": "2013-08-09T22:32:01", 
-      "state": "MI", 
-      "iface": "timeline_vote", 
-      "y": 42.3801, 
-      "x": -83.0518, 
-      "id": 16287119, 
-      "question_id": "16178177"
     }, 
     {
       "city": "Princeton", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16286849, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Charlestown", 
-      "first_name": "Elaine", 
-      "last_name": "Tirrell", 
-      "user_id": 1659331, 
-      "submission": "Why don't we change the lobbying rules so that we do not have a system that legalizes bribery, and why do we not reform the filibuster so congress does not have an excuse to continue doing nothing ?", 
-      "district": "MA_07", 
-      "created": "2013-08-09T21:50:37", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3362, 
-      "x": -71.1037, 
-      "id": 16286784, 
-      "question_id": "16174072"
     }
   ]
 });
