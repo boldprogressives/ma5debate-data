@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Conover", 
+      "first_name": "Patrick", 
+      "last_name": "Jean", 
+      "user_id": 1781014, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "NC_10", 
+      "created": "2013-08-09T05:33:01", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.7118, 
+      "x": -81.2093, 
+      "id": 16265737, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Desert Hot Springs", 
       "first_name": "JOANIE", 
       "last_name": "LAINE", 
       "user_id": 208923, 
-      "submission": "Will you aggressively prosecute those at Goldman Sachs and other banks/financial institutions for their continued illegal activities which have resulted in the serious and continuing economic disaster in this country?", 
+      "submission": "What will you do to curb the influence of lobbyist and limit campaign spending.  ", 
       "district": "CA_36", 
-      "created": "2013-08-09T05:31:58", 
+      "created": "2013-08-09T05:32:59", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 33.9639, 
       "x": -116.531, 
-      "id": 16265720, 
-      "question_id": "16225925"
+      "id": 16265736, 
+      "question_id": "16201563"
     }, 
     {
       "city": "port angeles .", 
       "first_name": "neil", 
       "last_name": "hildebrand", 
       "user_id": 172877, 
-      "submission": "How should the federal government address the unfolding environmental catastrophe of anthropogenic (ie. 'man-made') climate change?  How would your election help us to make progress on this issue?", 
+      "submission": "If the Constitution defines income as \"profits made from the labor of others\" Why are the corporations not paying their taxes while the citizens are taxed?\u00a0We make no profit we exchange time for wages", 
       "district": "WA_06", 
-      "created": "2013-08-09T05:31:56", 
+      "created": "2013-08-09T05:32:34", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 48.1184, 
       "x": -123.481, 
-      "id": 16265718, 
-      "question_id": "16215420"
+      "id": 16265729, 
+      "question_id": "16198297"
     }, 
     {
       "city": "San Diego", 
       "first_name": "IRMA", 
       "last_name": "CAMARILLO", 
       "user_id": 226704, 
-      "submission": "What steps do you intend to take to help prevent discriminatory practices violating the constitutional voting rights of non-white and poor citizens?", 
+      "submission": "Do you support the concept of keeping church and state separate?", 
       "district": "CA_53", 
-      "created": "2013-08-09T05:31:55", 
+      "created": "2013-08-09T05:32:02", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 32.6757, 
       "x": -117.05, 
-      "id": 16265719, 
-      "question_id": "16174163"
+      "id": 16265722, 
+      "question_id": "16173921"
     }, 
     {
       "city": "Henderson", 
@@ -300,25 +315,6 @@ opendebate.processTimeline({
       "x": -117.717, 
       "latest_vote": null, 
       "id": 16265501, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Sonoma", 
-      "first_name": "Wendell Williams", 
-      "last_name": "Sonoma Calif.   95476", 
-      "user_id": 1733909, 
-      "submission": "What do think is the truth aboutWHY we invaded Iraq.?Wendell H. Williams", 
-      "district": "CA_05", 
-      "created": "2013-08-09T05:20:59", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "CA", 
-      "iface": "timeline_question", 
-      "y": 38.2931, 
-      "x": -122.47, 
-      "latest_vote": null, 
-      "id": 16265502, 
       "trending_score": 0.5
     }
   ]
