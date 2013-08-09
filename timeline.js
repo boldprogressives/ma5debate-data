@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Huntington Station", 
-      "first_name": "Rona", 
-      "last_name": "Fried", 
-      "user_id": 1002260, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
-      "district": "NY_03", 
-      "created": "2013-08-09T21:20:56", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.8174, 
-      "x": -73.3691, 
-      "id": 16286138, 
-      "question_id": "16172533"
-    }, 
-    {
       "city": "Kansas City", 
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "Where do you stand on the practice of designating workers as \"independent contractors\" even though their jobs & duties are IDENTICAL to those of fully benefited employees?  ", 
+      "submission": "How will you help fight corruption due tp the influence of money in congress?", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:20:49", 
+      "created": "2013-08-09T21:21:55", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286137, 
-      "question_id": "16219748"
+      "id": 16286148, 
+      "question_id": "16217107"
+    }, 
+    {
+      "city": "Huntington Station", 
+      "first_name": "Rona", 
+      "last_name": "Fried", 
+      "user_id": 1002260, 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "district": "NY_03", 
+      "created": "2013-08-09T21:21:29", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.8174, 
+      "x": -73.3691, 
+      "id": 16286143, 
+      "question_id": "16172281"
     }, 
     {
       "city": "Roslindale", 
