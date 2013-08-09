@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "LouAnne", 
       "last_name": "Dale", 
       "user_id": 91258, 
-      "submission": "Why have so few Wall Street CEOs been indicted for their part in the 2007 Economic Crash ?  Who has been protecting them ?", 
+      "submission": "Will you take action to overturn Citizens United with an effective Constitutional Amendment?", 
       "district": "CO_07", 
-      "created": "2013-08-09T10:24:02", 
+      "created": "2013-08-09T10:25:02", 
       "state": "CO", 
       "iface": "timeline_vote", 
       "y": 39.818, 
       "x": -105.251, 
-      "id": 16270848, 
-      "question_id": "16205046"
+      "id": 16270853, 
+      "question_id": "16182966"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "will you support taxing companies for shipping jobs overseas instead of giving them tax rebates and refunds", 
+      "submission": "What are your thoughts on how to stop corporate welfare, tax loopholes and subsidies.", 
       "district": "MA_04", 
-      "created": "2013-08-09T10:23:59", 
+      "created": "2013-08-09T10:24:40", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270846, 
-      "question_id": "16209148"
+      "id": 16270850, 
+      "question_id": "16206470"
     }, 
     {
       "city": "Nashville", 
