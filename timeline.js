@@ -6,30 +6,49 @@ opendebate.processTimeline({
       "first_name": "JAY", 
       "last_name": "MACKEY", 
       "user_id": 1402810, 
-      "submission": "How will you support the dignity and freedom of women to make medical decisions with their health care providers without interference of federal and state laws?", 
+      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
       "district": "AZ_01", 
-      "created": "2013-08-09T21:15:59", 
+      "created": "2013-08-09T21:16:45", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 34.8643, 
       "x": -111.798, 
-      "id": 16286062, 
-      "question_id": "16183415"
+      "id": 16286072, 
+      "question_id": "16175230"
     }, 
     {
       "city": "Kansas City", 
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "What will you do to restore the voters rights act?  ", 
+      "submission": "Should Supreme Court Justices have term limits.. say 12 years maximum?", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:15:54", 
+      "created": "2013-08-09T21:16:43", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286061, 
-      "question_id": "16238835"
+      "id": 16286071, 
+      "question_id": "16240928"
+    }, 
+    {
+      "city": "Willard", 
+      "first_name": "michael", 
+      "last_name": "painter", 
+      "user_id": 1808157, 
+      "submission": "What will you do about  incorrect background checks being done on prospective employees? ", 
+      "district": "NC_03", 
+      "created": "2013-08-09T21:16:04", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NC", 
+      "iface": "timeline_question", 
+      "y": 34.6654, 
+      "x": -78.0664, 
+      "latest_vote": null, 
+      "id": 16286064, 
+      "trending_score": 0.5
     }, 
     {
       "city": "Windham", 
@@ -297,21 +316,6 @@ opendebate.processTimeline({
       "x": -90.1072, 
       "id": 16285689, 
       "question_id": "16208816"
-    }, 
-    {
-      "city": "Eugene", 
-      "first_name": "Lawrie", 
-      "last_name": "Anderson", 
-      "user_id": 475229, 
-      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
-      "district": "OR_04", 
-      "created": "2013-08-09T20:52:27", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 44.1032, 
-      "x": -123.135, 
-      "id": 16285644, 
-      "question_id": "16175637"
     }
   ]
 });
