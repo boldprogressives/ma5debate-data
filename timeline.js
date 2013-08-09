@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Carolyn", 
       "last_name": "Wohlgemuth", 
       "user_id": 706295, 
-      "submission": "Will you support Elizabeth Warren's efforts to create a new Glass-Steagall Act?", 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "OH_11", 
-      "created": "2013-08-09T08:48:39", 
+      "created": "2013-08-09T08:49:27", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 41.4988, 
       "x": -81.5546, 
-      "id": 16270015, 
-      "question_id": "16201467"
+      "id": 16270016, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Vacaville", 
