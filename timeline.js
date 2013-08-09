@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dale", 
       "last_name": "Le Fevre", 
       "user_id": 340427, 
-      "submission": "Are you going to stand up to the NRA, to stop our young and innocent, from being murdered?", 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "CA_02", 
-      "created": "2013-08-09T09:27:00", 
+      "created": "2013-08-09T09:28:06", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 39.4417, 
       "x": -123.784, 
-      "id": 16270249, 
-      "question_id": "16199637"
+      "id": 16270257, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Newland", 
