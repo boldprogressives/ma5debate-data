@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Paula", 
       "last_name": "Goodman", 
       "user_id": 546461, 
-      "submission": "Will you support a constitutional amendment requiring the federal Government to provide universal health care to all U.S. citizens?", 
+      "submission": "Would you support the pardoning of all victimless crime marijuana (Cannabis) offenders? Depopulating our For Profit Prisons?", 
       "district": "CA_11", 
-      "created": "2013-08-09T09:05:55", 
+      "created": "2013-08-09T09:06:40", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 37.9423, 
       "x": -122.355, 
-      "id": 16270081, 
-      "question_id": "16232327"
+      "id": 16270084, 
+      "question_id": "16208291"
+    }, 
+    {
+      "city": "New York", 
+      "first_name": "Christiane", 
+      "last_name": "Pors", 
+      "user_id": 1785709, 
+      "submission": "What will you do to restore the voters rights act?  ", 
+      "district": "NY_10", 
+      "created": "2013-08-09T09:06:15", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.7773, 
+      "x": -73.9825, 
+      "id": 16270083, 
+      "question_id": "16238835"
     }, 
     {
       "city": "Acton", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -71.4467, 
       "id": 16270072, 
       "question_id": "16172777"
-    }, 
-    {
-      "city": "New York", 
-      "first_name": "Christiane", 
-      "last_name": "Pors", 
-      "user_id": 1785709, 
-      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
-      "district": "NY_10", 
-      "created": "2013-08-09T09:04:15", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.7773, 
-      "x": -73.9825, 
-      "id": 16270069, 
-      "question_id": "16172727"
     }, 
     {
       "city": "Fort Worth", 
