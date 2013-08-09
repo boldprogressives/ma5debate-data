@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "royce", 
       "last_name": "hohn", 
       "user_id": 1141717, 
-      "submission": "When those of us who have spoken out about 9/11 and have been terrorized for years by the NSA start taking the law into our own hands and start executing traitors, terrorists and mass murderers in government, where are you going to hide?", 
+      "submission": "Why is Monsanto allowed to destroy our agriculture and the small farmers?", 
       "district": "NC_11", 
-      "created": "2013-08-09T09:18:53", 
+      "created": "2013-08-09T09:19:52", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 36.0328, 
       "x": -81.9544, 
-      "id": 16270143, 
-      "question_id": "16267196"
+      "id": 16270151, 
+      "question_id": "16244435"
     }, 
     {
       "city": "Memphis", 
       "first_name": "", 
       "last_name": "", 
       "user_id": 1632782, 
-      "submission": "Would you support  every state being mandated to have early voting for a minimum of 1 week before the election to give everyone a chance to vote?", 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
       "district": "TN_08", 
-      "created": "2013-08-09T09:18:36", 
+      "created": "2013-08-09T09:19:42", 
       "state": "TN", 
       "iface": "timeline_vote", 
       "y": 35.2068, 
       "x": -89.7912, 
-      "id": 16270142, 
-      "question_id": "16234459"
+      "id": 16270150, 
+      "question_id": "16172755"
     }, 
     {
       "city": "New York", 
