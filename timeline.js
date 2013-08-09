@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Oakland", 
-      "first_name": "Barbara", 
-      "last_name": "Maynard", 
-      "user_id": 224280, 
-      "submission": "Would you work to see that the US Government repays all the funds that they have borrowed or better \"ROBBED\" from Social Security over the years?", 
-      "district": "CA_13", 
-      "created": "2013-08-09T16:03:58", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 37.8356, 
-      "x": -122.223, 
-      "id": 16278855, 
-      "question_id": "16238259"
-    }, 
-    {
       "city": "Jamaica Plain", 
       "first_name": "Carolyn", 
       "last_name": "Nikkal", 
       "user_id": 994541, 
-      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
+      "submission": "Would you support a ban on Congresspersons accepting jobs as corporate lobbyists for at least ten years after leaving Congress?", 
       "district": "MA_08", 
-      "created": "2013-08-09T16:03:29", 
+      "created": "2013-08-09T16:04:41", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2947, 
       "x": -71.1305, 
-      "id": 16278851, 
-      "question_id": "16202059"
+      "id": 16278864, 
+      "question_id": "16178177"
+    }, 
+    {
+      "city": "Oakland", 
+      "first_name": "Barbara", 
+      "last_name": "Maynard", 
+      "user_id": 224280, 
+      "submission": "Will you propose a new voting rights law?", 
+      "district": "CA_13", 
+      "created": "2013-08-09T16:04:25", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 37.8356, 
+      "x": -122.223, 
+      "id": 16278859, 
+      "question_id": "16239018"
     }, 
     {
       "city": "Madera", 
