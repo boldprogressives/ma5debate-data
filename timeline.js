@@ -2,19 +2,53 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Belford", 
+      "first_name": "Alan", 
+      "last_name": "Reid", 
+      "user_id": 1393075, 
+      "submission": "Would you support a bill to have our goverment  pay back the trillions of dollars that they have borrowed from ss since its begining in 1934?", 
+      "district": "NJ_06", 
+      "created": "2013-08-09T14:07:00", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NJ", 
+      "iface": "timeline_question", 
+      "y": 40.418, 
+      "x": -74.0881, 
+      "latest_vote": null, 
+      "id": 16275222, 
+      "trending_score": 0.5
+    }, 
+    {
+      "city": "Austin", 
+      "first_name": "Sandi", 
+      "last_name": "Mann", 
+      "user_id": 143586, 
+      "submission": "Will you propose a Constitutional Amendment to eliminate the Electoral College?  Whoever wins the popular vote is the candidate who should win the Presidency.", 
+      "district": "TX_25", 
+      "created": "2013-08-09T14:06:45", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 30.3458, 
+      "x": -97.7656, 
+      "id": 16275220, 
+      "question_id": "16259807"
+    }, 
+    {
       "city": "Gwynn Oak", 
       "first_name": "Sharon", 
       "last_name": "Holley", 
       "user_id": 1783365, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "submission": "Congress persons have voted to put themselves in the driver's seat when it comes to their salaries. They vote themselves raises and we as citizens cannot over turn. What will you do to stop this practice?", 
       "district": "MD_07", 
-      "created": "2013-08-09T14:06:07", 
+      "created": "2013-08-09T14:06:40", 
       "state": "MD", 
       "iface": "timeline_vote", 
       "y": 39.3238, 
       "x": -76.7143, 
-      "id": 16275214, 
-      "question_id": "16172777"
+      "id": 16275218, 
+      "question_id": "16173244"
     }, 
     {
       "city": "Folcroft", 
@@ -274,36 +308,6 @@ opendebate.processTimeline({
       "x": -84.4571, 
       "id": 16274588, 
       "question_id": "16265543"
-    }, 
-    {
-      "city": "Milbridge", 
-      "first_name": "Wanda Willey", 
-      "last_name": "Halpin", 
-      "user_id": 1775559, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
-      "district": "ME_02", 
-      "created": "2013-08-09T13:51:00", 
-      "state": "ME", 
-      "iface": "timeline_vote", 
-      "y": 44.5317, 
-      "x": -67.8856, 
-      "id": 16274542, 
-      "question_id": "16175740"
-    }, 
-    {
-      "city": "Colorado Springs", 
-      "first_name": "Joan", 
-      "last_name": "Bradow", 
-      "user_id": 22037, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
-      "district": "CO_05", 
-      "created": "2013-08-09T13:50:55", 
-      "state": "CO", 
-      "iface": "timeline_vote", 
-      "y": 38.8033, 
-      "x": -104.708, 
-      "id": 16274537, 
-      "question_id": "16172281"
     }
   ]
 });
