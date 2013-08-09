@@ -6,30 +6,45 @@ opendebate.processTimeline({
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "Can you please leave Social Security alone.", 
+      "submission": "What will you do to ensure people with disabilities and mental health issues get appropriate medical care, support services, housing and food?", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:30:54", 
+      "created": "2013-08-09T21:31:58", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286246, 
-      "question_id": "16224569"
+      "id": 16286257, 
+      "question_id": "16224922"
     }, 
     {
       "city": "Portland", 
       "first_name": "Ed", 
       "last_name": "Loosli", 
       "user_id": 890741, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
       "district": "OR_01", 
-      "created": "2013-08-09T21:30:43", 
+      "created": "2013-08-09T21:31:45", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 45.4087, 
       "x": -122.789, 
-      "id": 16286242, 
-      "question_id": "16172777"
+      "id": 16286254, 
+      "question_id": "16173210"
+    }, 
+    {
+      "city": "Lexington", 
+      "first_name": "Richard", 
+      "last_name": "Jenson", 
+      "user_id": 1644458, 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "district": "MA_05", 
+      "created": "2013-08-09T21:31:23", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4484, 
+      "x": -71.2338, 
+      "id": 16286250, 
+      "question_id": "16172913"
     }, 
     {
       "city": "Wilton", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -75.2901, 
       "id": 16285987, 
       "question_id": "16173418"
-    }, 
-    {
-      "city": "Charlotte", 
-      "first_name": "Humaira", 
-      "last_name": "Sayeed", 
-      "user_id": 579583, 
-      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
-      "district": "NC_09", 
-      "created": "2013-08-09T21:07:27", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.3144, 
-      "x": -80.8051, 
-      "id": 16285980, 
-      "question_id": "16172207"
     }
   ]
 });
