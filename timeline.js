@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Vera", 
       "last_name": "Morgan", 
       "user_id": 1012008, 
-      "submission": "What would you do to end the SCOTUS ruling Citizens United & how will you stop the GOP led states enacting extremist voter suppresion?", 
+      "submission": "Will you vote for 1% fixed interest student loans, available to everybody?", 
       "district": "NC_04", 
-      "created": "2013-08-09T12:45:54", 
+      "created": "2013-08-09T12:46:55", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.0577, 
       "x": -79.0035, 
-      "id": 16272307, 
-      "question_id": "16207073"
+      "id": 16272322, 
+      "question_id": "16174342"
     }, 
     {
       "city": "Lock Haven", 
       "first_name": "Marshall", 
       "last_name": "Conklin", 
       "user_id": 1598518, 
-      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
+      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
       "district": "PA_05", 
-      "created": "2013-08-09T12:45:53", 
+      "created": "2013-08-09T12:46:22", 
       "state": "PA", 
       "iface": "timeline_vote", 
       "y": 41.1347, 
       "x": -77.4497, 
-      "id": 16272308, 
-      "question_id": "16172207"
+      "id": 16272316, 
+      "question_id": "16203676"
     }, 
     {
       "city": "Salem", 
