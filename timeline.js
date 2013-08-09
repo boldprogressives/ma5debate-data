@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Cathedral City", 
-      "first_name": "Sam", 
-      "last_name": "Massarella", 
-      "user_id": 714003, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
-      "district": "CA_36", 
-      "created": "2013-08-09T21:43:57", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 33.8225, 
-      "x": -116.463, 
-      "id": 16286707, 
-      "question_id": "16172533"
-    }, 
-    {
       "city": "Kansas City", 
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "Will you help quell terrorism by not bolstering autocratic elitist rulers in the middle east?", 
+      "submission": "would you support a 95% tax for any company that does business in the U.S.  and does not manufactures good in the U.S,?  This most definitely bring jobs back to U.S.  ", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:43:51", 
+      "created": "2013-08-09T21:44:54", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286706, 
-      "question_id": "16212504"
+      "id": 16286717, 
+      "question_id": "16212028"
+    }, 
+    {
+      "city": "Cathedral City", 
+      "first_name": "Sam", 
+      "last_name": "Massarella", 
+      "user_id": 714003, 
+      "submission": "What are you doing to ensure that all residents have access to a living wage and to help create jobs for those still looking for work, five years after the Great Recession and the weak recovery?", 
+      "district": "CA_36", 
+      "created": "2013-08-09T21:44:31", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 33.8225, 
+      "x": -116.463, 
+      "id": 16286714, 
+      "question_id": "16201159"
     }, 
     {
       "city": "Rancho Santa Margarita", 
