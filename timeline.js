@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Fountain Hills", 
-      "first_name": "Day", 
-      "last_name": "Jolliff", 
-      "user_id": 1785674, 
-      "submission": "What steps will you take to restore livable wages to the shredded middle class, and to restore our voting rights?", 
-      "district": "AZ_06", 
-      "created": "2013-08-09T22:18:27", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 33.609, 
-      "x": -111.73, 
-      "id": 16287034, 
-      "question_id": "16172657"
-    }, 
-    {
       "city": "Daniel Island", 
       "first_name": "FRANCIS", 
       "last_name": "HENDERSON", 
       "user_id": 401891, 
-      "submission": "What are you going to do to regulate banks and stock exchange speculations?", 
+      "submission": "Will you support immigration reform with a path to citizenship ?", 
       "district": "SC_01", 
-      "created": "2013-08-09T22:18:20", 
+      "created": "2013-08-09T22:19:58", 
       "state": "SC", 
       "iface": "timeline_vote", 
       "y": 32.9557, 
       "x": -79.8873, 
-      "id": 16287033, 
-      "question_id": "16172283"
+      "id": 16287040, 
+      "question_id": "16172648"
+    }, 
+    {
+      "city": "Fountain Hills", 
+      "first_name": "Day", 
+      "last_name": "Jolliff", 
+      "user_id": 1785674, 
+      "submission": "Will you support immigration reform with a path to citizenship ?", 
+      "district": "AZ_06", 
+      "created": "2013-08-09T22:19:12", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 33.609, 
+      "x": -111.73, 
+      "id": 16287039, 
+      "question_id": "16172648"
     }, 
     {
       "city": "SCOTTSDALE", 
