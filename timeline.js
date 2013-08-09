@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Dallas", 
+      "first_name": "Violet", 
+      "last_name": "Sunderland", 
+      "user_id": 986238, 
+      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
+      "district": "OR_05", 
+      "created": "2013-08-09T07:10:01", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 44.9222, 
+      "x": -123.327, 
+      "id": 16267440, 
+      "question_id": "16173210"
+    }, 
+    {
       "city": "Tryon", 
       "first_name": "Murlel", 
       "last_name": "Lunsford", 
       "user_id": 1656934, 
-      "submission": "Why, when federal employees  are having to take furloughs, and many other Americans are underemployed, are our so-called representatives exempt from the same. If American workers performed as poorly as the DC bunch, they would be fired outright.", 
+      "submission": "What will you do about the lack of accountability for crimes such as Wall Street committed, Bankers and foreclosures, 911 crimes, NSA, TSA, and politicians taking bribery and the fake wars they create at OUR expense?  ", 
       "district": "NC_10", 
-      "created": "2013-08-09T07:08:38", 
+      "created": "2013-08-09T07:09:56", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.2172, 
       "x": -82.2262, 
-      "id": 16267430, 
-      "question_id": "16173074"
+      "id": 16267439, 
+      "question_id": "16194250"
     }, 
     {
       "city": "Suffern", 
@@ -60,21 +75,6 @@ opendebate.processTimeline({
       "x": -122.333, 
       "id": 16267422, 
       "question_id": "16172207"
-    }, 
-    {
-      "city": "Dallas", 
-      "first_name": "Violet", 
-      "last_name": "Sunderland", 
-      "user_id": 986238, 
-      "submission": "Will you fight for whistleblowers instead of against them? Will you help stop the NSA from snooping in everyone's business? You do anything to stop the drones from killing innocent people? Will you stop martial law in this country before it starts. As it stands now I see our government, the banks, pharmaceutical companies, and all the other genocidal activities going on in this country to be criminal.", 
-      "district": "OR_05", 
-      "created": "2013-08-09T07:05:15", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 44.9222, 
-      "x": -123.327, 
-      "id": 16267384, 
-      "question_id": "16235604"
     }, 
     {
       "city": "Minneapolis", 
