@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Burnsville", 
-      "first_name": "Bonnie", 
-      "last_name": "Rosenfield", 
-      "user_id": 1025762, 
-      "submission": "Will you introduce and support a \"Term Limit\" for ALL members of congress - 10 years max during a lifetime?  Also, a cooling off period so a member cannot become a lobbyist for 5 years after leaving?", 
-      "district": "MN_02", 
-      "created": "2013-08-09T23:33:50", 
-      "state": "MN", 
+      "city": "Holland Patent", 
+      "first_name": "Bob", 
+      "last_name": "Prosser", 
+      "user_id": 699964, 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
+      "district": "NY_22", 
+      "created": "2013-08-09T23:35:07", 
+      "state": "NY", 
       "iface": "timeline_vote", 
-      "y": 44.7702, 
-      "x": -93.2812, 
-      "id": 16287915, 
-      "question_id": "16245994"
+      "y": 43.2536, 
+      "x": -75.2845, 
+      "id": 16287930, 
+      "question_id": "16202059"
     }, 
     {
       "city": "Seattle", 
       "first_name": "Sigrid", 
       "last_name": "Asmus", 
       "user_id": 176478, 
-      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
+      "submission": "How can Manning and Snowden be in trouble and Dick Chaney isn't in trouble for outing Valerie Plame?", 
       "district": "WA_07", 
-      "created": "2013-08-09T23:33:47", 
+      "created": "2013-08-09T23:35:00", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 47.6498, 
       "x": -122.398, 
-      "id": 16287914, 
-      "question_id": "16175230"
+      "id": 16287929, 
+      "question_id": "16201620"
+    }, 
+    {
+      "city": "Burnsville", 
+      "first_name": "Bonnie", 
+      "last_name": "Rosenfield", 
+      "user_id": 1025762, 
+      "submission": "Will you work to reinstate the Glass-Steagall Act to insure that the Wall Street banks behave in a more responsible manner?", 
+      "district": "MN_02", 
+      "created": "2013-08-09T23:34:59", 
+      "state": "MN", 
+      "iface": "timeline_vote", 
+      "y": 44.7702, 
+      "x": -93.2812, 
+      "id": 16287927, 
+      "question_id": "16256690"
     }, 
     {
       "city": "El Prado", 
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "would you support making the IRS follow the law on 501(c)(4)'s and make any political interest in a group a disqualifier for tax exemption.", 
+      "submission": "Do you fully support Senator Warren's 21st century Glass-Steagall bill to separate investment banking from consumer banking?", 
       "district": "NM_03", 
-      "created": "2013-08-09T23:33:44", 
+      "created": "2013-08-09T23:34:02", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16287912, 
-      "question_id": "16223890"
+      "id": 16287916, 
+      "question_id": "16224940"
     }, 
     {
       "city": "Monson", 
@@ -309,21 +324,6 @@ opendebate.processTimeline({
       "x": -123.016, 
       "id": 16287552, 
       "question_id": "16173438"
-    }, 
-    {
-      "city": "Gloucester", 
-      "first_name": "Sean", 
-      "last_name": "Desmond", 
-      "user_id": 159362, 
-      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
-      "district": "MA_06", 
-      "created": "2013-08-09T22:53:55", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.6285, 
-      "x": -70.6862, 
-      "id": 16287551, 
-      "question_id": "16172755"
     }
   ]
 });
