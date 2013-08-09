@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Alvin", 
+      "first_name": "rox", 
+      "last_name": "colby", 
+      "user_id": 1677442, 
+      "submission": "Are you now a member of ALEC, or plan on joining ALEC.", 
+      "district": "TX_22", 
+      "created": "2013-08-09T06:43:02", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 29.4, 
+      "x": -95.2394, 
+      "id": 16267066, 
+      "question_id": "16204636"
+    }, 
+    {
       "city": "Tryon", 
       "first_name": "Murlel", 
       "last_name": "Lunsford", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -82.2262, 
       "id": 16267049, 
       "question_id": "16177825"
-    }, 
-    {
-      "city": "Alvin", 
-      "first_name": "rox", 
-      "last_name": "colby", 
-      "user_id": 1677442, 
-      "submission": "Why don't politicians get social security when you get to retirement age instead of saddling taxpayers with your lifetime salary?", 
-      "district": "TX_22", 
-      "created": "2013-08-09T06:42:01", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 29.4, 
-      "x": -95.2394, 
-      "id": 16267050, 
-      "question_id": "16217708"
     }, 
     {
       "city": "Portland", 
