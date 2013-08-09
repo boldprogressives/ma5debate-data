@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Tularosa", 
-      "first_name": "Raphael", 
-      "last_name": "Filippi", 
-      "user_id": 89759, 
-      "submission": "Will congress ever address a jobs/infrastructure bill?  We needs jobs, jobs training and massive infrastructure repair.  I am sick of the GOP obstruction.", 
-      "district": "NM_02", 
-      "created": "2013-08-09T06:15:01", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 33.0746, 
-      "x": -106.015, 
-      "id": 16266330, 
-      "question_id": "16256688"
-    }, 
-    {
       "city": "Alvin", 
       "first_name": "rox", 
       "last_name": "colby", 
       "user_id": 1677442, 
-      "submission": "Would you favor a law excluding unlimited contributions in political campaigns from groups such as Citizens United?", 
+      "submission": "Would you support  every state being mandated to have early voting for a minimum of 1 week before the election to give everyone a chance to vote?", 
       "district": "TX_22", 
-      "created": "2013-08-09T06:14:57", 
+      "created": "2013-08-09T06:16:05", 
       "state": "TX", 
       "iface": "timeline_vote", 
       "y": 29.4, 
       "x": -95.2394, 
-      "id": 16266329, 
-      "question_id": "16173913"
+      "id": 16266343, 
+      "question_id": "16234459"
+    }, 
+    {
+      "city": "Tularosa", 
+      "first_name": "Raphael", 
+      "last_name": "Filippi", 
+      "user_id": 89759, 
+      "submission": "Will you vote YES to extending Medicare to everybody?", 
+      "district": "NM_02", 
+      "created": "2013-08-09T06:16:04", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 33.0746, 
+      "x": -106.015, 
+      "id": 16266342, 
+      "question_id": "16174319"
+    }, 
+    {
+      "city": "Tryon", 
+      "first_name": "Murlel", 
+      "last_name": "Lunsford", 
+      "user_id": 1656934, 
+      "submission": "The threat that hangs over the country today is a GOP determined to destroy the middle class and the values that define it.  What specific steps will you recommend to confront, not appease, the GOP?", 
+      "district": "NC_10", 
+      "created": "2013-08-09T06:16:00", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.2172, 
+      "x": -82.2262, 
+      "id": 16266341, 
+      "question_id": "16172694"
     }, 
     {
       "city": "Dallas", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -122.333, 
       "id": 16266072, 
       "question_id": "16208638"
-    }, 
-    {
-      "city": "Walla Walla", 
-      "first_name": "Ron", 
-      "last_name": "Hendricks", 
-      "user_id": 1806853, 
-      "submission": "What do you believe to be the primary reasons for the polarization of congress please give your solutions to resolve the stalemate ", 
-      "district": "WA_05", 
-      "created": "2013-08-09T05:57:57", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 46.0593, 
-      "x": -118.33, 
-      "id": 16266039, 
-      "question_id": "16175101"
     }
   ]
 });
