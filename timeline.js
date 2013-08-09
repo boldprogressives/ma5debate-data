@@ -2,49 +2,68 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Kansas City", 
-      "first_name": "Sandra", 
-      "last_name": "Singleton", 
-      "user_id": 578766, 
-      "submission": "Will you take action to overturn Citizens United with an effective Constitutional Amendment?", 
-      "district": "MO_06", 
-      "created": "2013-08-09T21:09:32", 
-      "state": "MO", 
-      "iface": "timeline_vote", 
-      "y": 39.2158, 
-      "x": -94.5728, 
-      "id": 16286002, 
-      "question_id": "16182966"
-    }, 
-    {
       "city": "Palmer", 
       "first_name": "Kathleen", 
       "last_name": "Mitchell", 
       "user_id": 1653546, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
       "district": "MA_01", 
-      "created": "2013-08-09T21:09:23", 
+      "created": "2013-08-09T21:10:28", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.1655, 
       "x": -72.3144, 
-      "id": 16286000, 
-      "question_id": "16172777"
+      "id": 16286014, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Kansas City", 
+      "first_name": "Sandra", 
+      "last_name": "Singleton", 
+      "user_id": 578766, 
+      "submission": "Will you fight to release our postal system from the unfair financial burden it was strapped with under President George  W. Bush and to prevent shut downs and lost of some routine services that would affect the entire country?", 
+      "district": "MO_06", 
+      "created": "2013-08-09T21:10:28", 
+      "state": "MO", 
+      "iface": "timeline_vote", 
+      "y": 39.2158, 
+      "x": -94.5728, 
+      "id": 16286015, 
+      "question_id": "16176088"
     }, 
     {
       "city": "SEDONA", 
       "first_name": "JAY", 
       "last_name": "MACKEY", 
       "user_id": 1402810, 
-      "submission": "Would you support a law to tying congressional and senatorial retirement to Social Security benefits?", 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
       "district": "AZ_01", 
-      "created": "2013-08-09T21:08:52", 
+      "created": "2013-08-09T21:10:21", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 34.8643, 
       "x": -111.798, 
-      "id": 16285995, 
-      "question_id": "16239232"
+      "id": 16286012, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Windham", 
+      "first_name": "Thomas", 
+      "last_name": "Peterson", 
+      "user_id": 54627, 
+      "submission": "Making all of our homes energy efficient will create millions of  jobs, invigorate our economy, help our environment, save on energy use & costs, and can immediately pay for itself with energy $ savings. Would you support this idea?", 
+      "district": "ME_01", 
+      "created": "2013-08-09T21:10:07", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "ME", 
+      "iface": "timeline_question", 
+      "y": 43.8081, 
+      "x": -70.4209, 
+      "latest_vote": null, 
+      "id": 16286007, 
+      "trending_score": 0.5
     }, 
     {
       "city": "Mesa", 
@@ -289,21 +308,6 @@ opendebate.processTimeline({
       "x": -89.7297, 
       "id": 16285586, 
       "question_id": "16172303"
-    }, 
-    {
-      "city": "Chicago", 
-      "first_name": "Juan", 
-      "last_name": "Madrigal", 
-      "user_id": 1770781, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
-      "district": "IL_02", 
-      "created": "2013-08-09T20:48:39", 
-      "state": "IL", 
-      "iface": "timeline_vote", 
-      "y": 41.7162, 
-      "x": -87.5544, 
-      "id": 16285560, 
-      "question_id": "16172913"
     }
   ]
 });
