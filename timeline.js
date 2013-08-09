@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Nashville", 
+      "first_name": "D. S.", 
+      "last_name": "Kinzie", 
+      "user_id": 88880, 
+      "submission": "will you commit to stand against any and all fracking in order to protect our environment, water supply, home safety, and property values, as well as to contend against further climate change?", 
+      "district": "TN_05", 
+      "created": "2013-08-09T10:51:35", 
+      "state": "TN", 
+      "iface": "timeline_vote", 
+      "y": 36.1088, 
+      "x": -86.7806, 
+      "id": 16271058, 
+      "question_id": "16213290"
+    }, 
+    {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Will you propose returning to REPUBLICAN top tax rates for the ultra-rich to reduce our deficit - either Eisenhower's 91% or Nixon's 70% - since neither of these created a depression or recession?", 
+      "district": "MA_04", 
+      "created": "2013-08-09T10:51:25", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16271057, 
+      "question_id": "16177435"
+    }, 
+    {
       "city": "Fort Lauderdale", 
       "first_name": "Dennis", 
       "last_name": "DeDomenico", 
@@ -19,36 +49,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16271054, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "Will you fight for a  revival of Glass/Steagall Act and the Monopoly and Merger legislation which are essential for restoring liquidity throughout the economy, genuine competition, and the revival of a healthy form of Capitalism?", 
-      "district": "MA_04", 
-      "created": "2013-08-09T10:50:51", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16271052, 
-      "question_id": "16189753"
-    }, 
-    {
-      "city": "Nashville", 
-      "first_name": "D. S.", 
-      "last_name": "Kinzie", 
-      "user_id": 88880, 
-      "submission": "Would you support measures to place a tariff on imports and tax companies who produce goods in other countries, but are based in the US to help bring industry and manufacturing back to our country?", 
-      "district": "TN_05", 
-      "created": "2013-08-09T10:50:41", 
-      "state": "TN", 
-      "iface": "timeline_vote", 
-      "y": 36.1088, 
-      "x": -86.7806, 
-      "id": 16271050, 
-      "question_id": "16216887"
     }, 
     {
       "city": "Concord", 
