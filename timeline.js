@@ -2,34 +2,53 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Lyons", 
-      "first_name": "Sandra", 
-      "last_name": "Toomey", 
-      "user_id": 1773961, 
-      "submission": "What will you do to ensure that all Americans have access to the voting booth and what will you do to get money out of our elections so that we all have an equal voice?", 
-      "district": "IL_03", 
-      "created": "2013-08-09T12:33:48", 
-      "state": "IL", 
-      "iface": "timeline_vote", 
-      "y": 41.8118, 
-      "x": -87.8206, 
-      "id": 16272159, 
-      "question_id": "16205834"
-    }, 
-    {
       "city": "Fayetteville", 
       "first_name": "Vera", 
       "last_name": "Morgan", 
       "user_id": 1012008, 
-      "submission": "The sequester just slashed Meals on Wheels, food stamps, Section 8 vouchers for housing for the needy.  Since we all have to \"tighten our belts\" how come Congress gets a pay RAISE this year?", 
+      "submission": "Why do we take money from public education and build more prisons? Is this what are future holds for our children? But they claim there is no money for Public Education. Where do you stand?", 
       "district": "NC_04", 
-      "created": "2013-08-09T12:33:45", 
+      "created": "2013-08-09T12:34:52", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.0577, 
       "x": -79.0035, 
-      "id": 16272157, 
-      "question_id": "16209412"
+      "id": 16272168, 
+      "question_id": "16202593"
+    }, 
+    {
+      "city": "Lyons", 
+      "first_name": "Sandra", 
+      "last_name": "Toomey", 
+      "user_id": 1773961, 
+      "submission": "What would you do to eliminate congressional pensions so congress has a stake in social security retirement benifits.", 
+      "district": "IL_03", 
+      "created": "2013-08-09T12:34:43", 
+      "state": "IL", 
+      "iface": "timeline_vote", 
+      "y": 41.8118, 
+      "x": -87.8206, 
+      "id": 16272167, 
+      "question_id": "16176855"
+    }, 
+    {
+      "city": "West Warwick", 
+      "first_name": "Richard", 
+      "last_name": "Cook", 
+      "user_id": 631551, 
+      "submission": "Doesn't U.S. Post 9/11 Foreign Policy fundamentally violate the principles of the U.N. Charter that the U.S. pledged to uphold after millions died in WWII ?", 
+      "district": "RI_02", 
+      "created": "2013-08-09T12:34:13", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "RI", 
+      "iface": "timeline_question", 
+      "y": 41.692, 
+      "x": -71.5163, 
+      "latest_vote": null, 
+      "id": 16272162, 
+      "trending_score": 0.5
     }, 
     {
       "city": "Newton", 
@@ -297,21 +316,6 @@ opendebate.processTimeline({
       "x": -91.6699, 
       "id": 16271913, 
       "question_id": "16173259"
-    }, 
-    {
-      "city": "Teaneck", 
-      "first_name": "aubyn", 
-      "last_name": "lewis", 
-      "user_id": 1714728, 
-      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
-      "district": "NJ_05", 
-      "created": "2013-08-09T12:13:39", 
-      "state": "NJ", 
-      "iface": "timeline_vote", 
-      "y": 40.8919, 
-      "x": -74.0084, 
-      "id": 16271908, 
-      "question_id": "16172690"
     }
   ]
 });
