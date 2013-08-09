@@ -6,30 +6,45 @@ opendebate.processTimeline({
       "first_name": "Dale", 
       "last_name": "Le Fevre", 
       "user_id": 340427, 
-      "submission": "The sequester just slashed Meals on Wheels, food stamps, Section 8 vouchers for housing for the needy.  Since we all have to \"tighten our belts\" how come Congress gets a pay RAISE this year?", 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
       "district": "CA_02", 
-      "created": "2013-08-09T09:33:56", 
+      "created": "2013-08-09T09:35:03", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 39.4417, 
       "x": -123.784, 
-      "id": 16270303, 
-      "question_id": "16209412"
+      "id": 16270318, 
+      "question_id": "16172777"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
       "district": "MA_04", 
-      "created": "2013-08-09T09:33:48", 
+      "created": "2013-08-09T09:35:01", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270302, 
-      "question_id": "16172913"
+      "id": 16270317, 
+      "question_id": "16172303"
+    }, 
+    {
+      "city": "Idaho Springs", 
+      "first_name": "larry", 
+      "last_name": "west", 
+      "user_id": 1716211, 
+      "submission": "Are you going to stand up to the NRA, to stop our young and innocent, from being murdered?", 
+      "district": "CO_02", 
+      "created": "2013-08-09T09:34:51", 
+      "state": "CO", 
+      "iface": "timeline_vote", 
+      "y": 39.7364, 
+      "x": -105.523, 
+      "id": 16270316, 
+      "question_id": "16199637"
     }, 
     {
       "city": "Tampa", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16269769, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Gurdon", 
-      "first_name": "Roy", 
-      "last_name": "Bear", 
-      "user_id": 1688752, 
-      "submission": "Should Bush and Cheney (AND Obama) be prosecuted for war crimes?", 
-      "district": "AR_04", 
-      "created": "2013-08-09T08:20:07", 
-      "state": "AR", 
-      "iface": "timeline_vote", 
-      "y": 33.9171, 
-      "x": -93.1457, 
-      "id": 16269764, 
-      "question_id": "16219940"
     }
   ]
 });
