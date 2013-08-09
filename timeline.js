@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Will you work to implement a carbon tax so market forces can begin to reflect the true costs of fossil fuels? ", 
+      "district": "MA_04", 
+      "created": "2013-08-09T12:40:58", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16272225, 
+      "question_id": "16226965"
+    }, 
+    {
+      "city": "Lock Haven", 
+      "first_name": "Marshall", 
+      "last_name": "Conklin", 
+      "user_id": 1598518, 
+      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
+      "district": "PA_05", 
+      "created": "2013-08-09T12:40:55", 
+      "state": "PA", 
+      "iface": "timeline_vote", 
+      "y": 41.1347, 
+      "x": -77.4497, 
+      "id": 16272224, 
+      "question_id": "16175740"
+    }, 
+    {
       "city": "Fayetteville", 
       "first_name": "Vera", 
       "last_name": "Morgan", 
       "user_id": 1012008, 
-      "submission": "Why is it that poor criminals go to jail (and deprived of their freedom) and rich criminals only get fined?", 
+      "submission": "Where do you stand with regard to GMO labeling. Is it our right as citizens to have complete transparency with regard to the foods we choose to eat. ", 
       "district": "NC_04", 
-      "created": "2013-08-09T12:40:02", 
+      "created": "2013-08-09T12:40:31", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.0577, 
       "x": -79.0035, 
-      "id": 16272215, 
-      "question_id": "16173154"
+      "id": 16272221, 
+      "question_id": "16178048"
     }, 
     {
       "city": "West Warwick", 
@@ -68,21 +98,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16272162, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "Would you support  every state being mandated to have early voting for a minimum of 1 week before the election to give everyone a chance to vote?", 
-      "district": "MA_04", 
-      "created": "2013-08-09T12:33:06", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16272148, 
-      "question_id": "16234459"
     }, 
     {
       "city": "Lenexa", 
@@ -305,21 +320,6 @@ opendebate.processTimeline({
       "x": -84.3253, 
       "id": 16271949, 
       "question_id": "16172697"
-    }, 
-    {
-      "city": "Greenville", 
-      "first_name": "Don", 
-      "last_name": "Cavellini", 
-      "user_id": 528799, 
-      "submission": "Will you pledge to uphold the Affordable Care Act and help states implement it -- not defund it?", 
-      "district": "NC_01", 
-      "created": "2013-08-09T12:14:56", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.6264, 
-      "x": -77.4386, 
-      "id": 16271929, 
-      "question_id": "16181276"
     }
   ]
 });
