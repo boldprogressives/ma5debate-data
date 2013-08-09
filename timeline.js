@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "royce", 
       "last_name": "hohn", 
       "user_id": 1141717, 
-      "submission": "To all Candidates...Will you support Elizabeth Warren's bill to allow college students to borrow under 1% interest of college loans? ", 
+      "submission": "What will you do to protect our votes from the easily \"hackable\" electronic voting machines, such as those which were manipulated by Repubs. in 2004 Ohio, to swing the election from Kerry to Bush?", 
       "district": "NC_11", 
-      "created": "2013-08-09T09:24:27", 
+      "created": "2013-08-09T09:25:49", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 36.0328, 
       "x": -81.9544, 
-      "id": 16270231, 
-      "question_id": "16200733"
+      "id": 16270241, 
+      "question_id": "16244119"
     }, 
     {
       "city": "Meadow Vista", 
