@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "llynn", 
       "last_name": "manzione", 
       "user_id": 698396, 
-      "submission": "Will you vote to end subsides on sugar, corn syrup, etc. that contribute to  obesity?", 
+      "submission": "Will you work to remove the billions of dollars of subsidies and incentives currently going to the fossil fuel industry \u2013 the most profitable industry in the world? ", 
       "district": "GA_09", 
-      "created": "2013-08-09T13:42:55", 
+      "created": "2013-08-09T13:43:52", 
       "state": "GA", 
       "iface": "timeline_vote", 
       "y": 33.9924, 
       "x": -83.4167, 
-      "id": 16273298, 
-      "question_id": "16174330"
+      "id": 16274427, 
+      "question_id": "16226967"
+    }, 
+    {
+      "city": "Amarillo", 
+      "first_name": "James", 
+      "last_name": "Crandall", 
+      "user_id": 1696592, 
+      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
+      "district": "TX_13", 
+      "created": "2013-08-09T13:43:47", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 35.1643, 
+      "x": -101.889, 
+      "id": 16274426, 
+      "question_id": "16172731"
     }, 
     {
       "city": "Vermillion", 
@@ -300,21 +315,6 @@ opendebate.processTimeline({
       "y": 42.2872, 
       "x": -71.3523, 
       "id": 16273042, 
-      "question_id": "16172777"
-    }, 
-    {
-      "city": "Tucson", 
-      "first_name": "Signa", 
-      "last_name": "Roswall", 
-      "user_id": 1706061, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "AZ_02", 
-      "created": "2013-08-09T13:31:07", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 32.2156, 
-      "x": -110.882, 
-      "id": 16273035, 
       "question_id": "16172777"
     }
   ]
