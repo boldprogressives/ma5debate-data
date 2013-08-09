@@ -6,45 +6,60 @@ opendebate.processTimeline({
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Would you support a bill to have our goverment  pay back the trillions of dollars that they have borrowed from ss since its begining in 1934?", 
+      "submission": "Would you support  every state being mandated to have early voting for a minimum of 1 week before the election to give everyone a chance to vote?", 
       "district": "NM_03", 
-      "created": "2013-08-09T23:30:58", 
+      "created": "2013-08-09T23:31:59", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16287859, 
-      "question_id": "16275222"
+      "id": 16287875, 
+      "question_id": "16234459"
+    }, 
+    {
+      "city": "Winfield", 
+      "first_name": "Adele", 
+      "last_name": "Galloway", 
+      "user_id": 1008078, 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "district": "KS_04", 
+      "created": "2013-08-09T23:31:58", 
+      "state": "KS", 
+      "iface": "timeline_vote", 
+      "y": 37.2328, 
+      "x": -96.9548, 
+      "id": 16287876, 
+      "question_id": "16172533"
     }, 
     {
       "city": "Seattle", 
       "first_name": "Sigrid", 
       "last_name": "Asmus", 
       "user_id": 176478, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
+      "submission": "Why is it that Halliburton only gets a $200K fine for destroying evidence concerning the Gulf oil spill when if you make a copy of a DVD you get a $250K fine and up to 5 years in prison?", 
       "district": "WA_07", 
-      "created": "2013-08-09T23:30:55", 
+      "created": "2013-08-09T23:31:54", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 47.6498, 
       "x": -122.398, 
-      "id": 16287858, 
-      "question_id": "16175740"
+      "id": 16287874, 
+      "question_id": "16175493"
     }, 
     {
       "city": "Burnsville", 
       "first_name": "Bonnie", 
       "last_name": "Rosenfield", 
       "user_id": 1025762, 
-      "submission": "Would you support ending ALL corporate welfare.The taxpayers should not have to finance our own destruction.Our tax's are used to ship jobs overseas, destroy small farms + business's, pollute our air + water, deny our children access to quality education, ect.", 
+      "submission": "Do you fully support Senator Warren's 21st century Glass-Steagall bill to separate investment banking from consumer banking?", 
       "district": "MN_02", 
-      "created": "2013-08-09T23:30:10", 
+      "created": "2013-08-09T23:31:21", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16287845, 
-      "question_id": "16217791"
+      "id": 16287862, 
+      "question_id": "16224940"
     }, 
     {
       "city": "Grover", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "x": -84.6711, 
       "id": 16287533, 
       "question_id": "16184803"
-    }, 
-    {
-      "city": "Greenville", 
-      "first_name": "Paul", 
-      "last_name": "Gravunder", 
-      "user_id": 1659924, 
-      "submission": "Do you support the concept of keeping church and state separate?", 
-      "district": "WI_08", 
-      "created": "2013-08-09T22:44:15", 
-      "state": "WI", 
-      "iface": "timeline_vote", 
-      "y": 44.3081, 
-      "x": -88.5509, 
-      "id": 16287282, 
-      "question_id": "16173921"
     }
   ]
 });
