@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Boulder City", 
-      "first_name": "Dominique", 
-      "last_name": "Spurling", 
-      "user_id": 339493, 
-      "submission": "Will you vote YES to extending Medicare to everybody?", 
-      "district": "NV_03", 
-      "created": "2013-08-09T07:34:01", 
-      "state": "NV", 
-      "iface": "timeline_vote", 
-      "y": 35.9778, 
-      "x": -114.836, 
-      "id": 16268532, 
-      "question_id": "16174319"
-    }, 
-    {
       "city": "Los Angeles", 
       "first_name": "Ellen", 
       "last_name": "Steens", 
       "user_id": 1782363, 
-      "submission": "Are you willing to Repeal the Patriot Act and revamp the NDAA to protect our right to privacy?", 
+      "submission": "why are the democrats so afraid to stand up to the republicans..? you stand up to a bully they usually back down.", 
       "district": "CA_37", 
-      "created": "2013-08-09T07:33:44", 
+      "created": "2013-08-09T07:34:49", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 34.0277, 
       "x": -118.352, 
-      "id": 16268529, 
-      "question_id": "16245281"
+      "id": 16268545, 
+      "question_id": "16172823"
+    }, 
+    {
+      "city": "Boulder City", 
+      "first_name": "Dominique", 
+      "last_name": "Spurling", 
+      "user_id": 339493, 
+      "submission": "Republicans have shifted much of their strategy for reducing reproductive rights to the state level.  How will you ensure women have access to the safe and legal abortions Roe v. Wade promised us?", 
+      "district": "NV_03", 
+      "created": "2013-08-09T07:34:36", 
+      "state": "NV", 
+      "iface": "timeline_vote", 
+      "y": 35.9778, 
+      "x": -114.836, 
+      "id": 16268541, 
+      "question_id": "16177825"
     }, 
     {
       "city": "Tryon", 
