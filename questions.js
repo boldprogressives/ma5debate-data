@@ -3039,7 +3039,7 @@ opendebate.processFetchedQuestions({
       "x": -74.4327, 
       "latest_vote": "2013-08-09T13:34:03", 
       "id": 16244119, 
-      "trending_score": 2.5
+      "trending_score": 2.1666666666666665
     }, 
     {
       "city": "Fremont", 
@@ -4616,7 +4616,7 @@ opendebate.processFetchedQuestions({
       "x": -75.1731, 
       "latest_vote": "2013-08-09T13:24:39", 
       "id": 16234332, 
-      "trending_score": 3.166666666666667
+      "trending_score": 3.0
     }, 
     {
       "city": "Phila", 
@@ -4901,7 +4901,7 @@ opendebate.processFetchedQuestions({
       "x": -77.3222, 
       "latest_vote": "2013-08-09T13:20:30", 
       "id": 16232327, 
-      "trending_score": 4.166666666666666
+      "trending_score": 4.5
     }, 
     {
       "city": "Springfield", 
@@ -13119,16 +13119,16 @@ opendebate.processFetchedQuestions({
       "submission": "How do you propose stopping the GOPs continued assault on women's reproductive rights?", 
       "district": "VA_01", 
       "created": "2013-08-06T21:24:53", 
-      "state_votes": 18, 
-      "votes": 332, 
-      "district_votes": 6, 
+      "state_votes": 19, 
+      "votes": 333, 
+      "district_votes": 7, 
       "state": "VA", 
       "iface": "question", 
       "y": 38.6736, 
       "x": -77.4268, 
-      "latest_vote": "2013-08-09T13:03:07", 
+      "latest_vote": "2013-08-09T14:00:06", 
       "id": 16205884, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "McKinleyville", 
@@ -14069,16 +14069,16 @@ opendebate.processFetchedQuestions({
       "submission": "How would you reform the process of drawing congressional districts so that it represents the interests of the people and does not favor any one party?", 
       "district": "OR_02", 
       "created": "2013-08-06T19:35:07", 
-      "state_votes": 17, 
-      "votes": 165, 
-      "district_votes": 6, 
+      "state_votes": 18, 
+      "votes": 166, 
+      "district_votes": 7, 
       "state": "OR", 
       "iface": "question", 
       "y": 42.1583, 
       "x": -122.634, 
-      "latest_vote": "2013-08-09T13:33:13", 
+      "latest_vote": "2013-08-09T14:00:27", 
       "id": 16201951, 
-      "trending_score": 4.5
+      "trending_score": 5.5
     }, 
     {
       "city": "Rye", 
@@ -14278,16 +14278,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you think Citizens United should be abandoned and the idea of corporations as people is unfair to real people?", 
       "district": "MA_04", 
       "created": "2013-08-06T19:24:18", 
-      "state_votes": 17, 
-      "votes": 144, 
-      "district_votes": 4, 
+      "state_votes": 18, 
+      "votes": 145, 
+      "district_votes": 5, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.305, 
       "x": -71.2318, 
-      "latest_vote": "2013-08-09T12:48:54", 
+      "latest_vote": "2013-08-09T14:00:31", 
       "id": 16201423, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Pleasant Hill", 
@@ -14829,16 +14829,16 @@ opendebate.processFetchedQuestions({
       "submission": "Who is financing your campaign and what have you promised in return for this support?", 
       "district": "KY_02", 
       "created": "2013-08-06T18:45:43", 
-      "state_votes": 17, 
-      "votes": 104, 
-      "district_votes": 5, 
+      "state_votes": 18, 
+      "votes": 105, 
+      "district_votes": 6, 
       "state": "KY", 
       "iface": "question", 
       "y": 37.7076, 
       "x": -85.8619, 
-      "latest_vote": "2013-08-09T12:46:49", 
+      "latest_vote": "2013-08-09T14:00:40", 
       "id": 16199725, 
-      "trending_score": 1.25
+      "trending_score": 2.25
     }, 
     {
       "city": "Fort Myers", 
@@ -17650,7 +17650,7 @@ opendebate.processFetchedQuestions({
       "x": -73.9992, 
       "latest_vote": "2013-08-09T12:21:46", 
       "id": 16188477, 
-      "trending_score": 1.75
+      "trending_score": 1.0416666666666665
     }, 
     {
       "city": "Somerville", 
@@ -18315,7 +18315,7 @@ opendebate.processFetchedQuestions({
       "x": -73.9458, 
       "latest_vote": "2013-08-09T11:42:22", 
       "id": 16186239, 
-      "trending_score": 2.25
+      "trending_score": 1.0
     }, 
     {
       "city": "Hallandale", 
@@ -20557,7 +20557,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1277, 
       "latest_vote": "2013-08-09T09:00:56", 
       "id": 16181945, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Hamilton", 
@@ -23578,7 +23578,7 @@ opendebate.processFetchedQuestions({
       "x": -97.9342, 
       "latest_vote": "2013-08-09T13:41:17", 
       "id": 16176473, 
-      "trending_score": 2.0
+      "trending_score": 2.25
     }, 
     {
       "city": "Eugene", 
@@ -24414,7 +24414,7 @@ opendebate.processFetchedQuestions({
       "x": -88.9093, 
       "latest_vote": "2013-08-09T13:16:39", 
       "id": 16175637, 
-      "trending_score": 3.0
+      "trending_score": 4.25
     }, 
     {
       "city": "Mount Vernon", 
@@ -24585,7 +24585,7 @@ opendebate.processFetchedQuestions({
       "x": -122.304, 
       "latest_vote": "2013-08-09T12:22:00", 
       "id": 16175552, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Fort Atkinson", 
@@ -25934,7 +25934,7 @@ opendebate.processFetchedQuestions({
       "x": -123.884, 
       "latest_vote": "2013-08-09T13:37:50", 
       "id": 16174072, 
-      "trending_score": 4.333333333333333
+      "trending_score": 4.5
     }, 
     {
       "city": "Cape Girardeau", 
@@ -26666,16 +26666,16 @@ opendebate.processFetchedQuestions({
       "submission": "Why does Congress get a fat retirement and the rest of America gets a 401K?", 
       "district": "TN_02", 
       "created": "2013-08-04T02:04:57", 
-      "state_votes": 18, 
-      "votes": 187, 
-      "district_votes": 5, 
+      "state_votes": 19, 
+      "votes": 188, 
+      "district_votes": 6, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.8311, 
       "x": -84.0482, 
-      "latest_vote": "2013-08-09T13:28:17", 
+      "latest_vote": "2013-08-09T14:00:16", 
       "id": 16173327, 
-      "trending_score": 3.5
+      "trending_score": 4.5
     }, 
     {
       "city": "Louisville", 
@@ -28547,16 +28547,16 @@ opendebate.processFetchedQuestions({
       "submission": "Given the likelihood that a Republican majority will continue to block any legislative activity in the House, what will you do to advance a progressive agenda?", 
       "district": "MA_05", 
       "created": "2013-08-03T20:43:04", 
-      "state_votes": 17, 
-      "votes": 202, 
-      "district_votes": 7, 
+      "state_votes": 18, 
+      "votes": 203, 
+      "district_votes": 8, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4213, 
       "x": -71.1134, 
-      "latest_vote": "2013-08-09T07:55:21", 
+      "latest_vote": "2013-08-09T14:00:46", 
       "id": 16172530, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Cambridge", 
