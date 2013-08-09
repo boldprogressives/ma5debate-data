@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
+      "district": "MA_04", 
+      "created": "2013-08-09T09:48:03", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16270413, 
+      "question_id": "16172697"
+    }, 
+    {
       "city": "New Bedford", 
       "first_name": "alan", 
       "last_name": "mc alister", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -70.9362, 
       "id": 16270409, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
-      "district": "MA_04", 
-      "created": "2013-08-09T09:46:54", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16270408, 
-      "question_id": "16202059"
     }, 
     {
       "city": "Portland", 
