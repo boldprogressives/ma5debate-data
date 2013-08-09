@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Tryon", 
+      "first_name": "Murlel", 
+      "last_name": "Lunsford", 
+      "user_id": 1656934, 
+      "submission": "What is your stand on full disclosure of all campaign contributions, including specifically identifiable individual and corporate donations to PACs.", 
+      "district": "NC_10", 
+      "created": "2013-08-09T06:54:47", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.2172, 
+      "x": -82.2262, 
+      "id": 16267223, 
+      "question_id": "16199834"
+    }, 
+    {
       "city": "Philadelphia", 
       "first_name": "John", 
       "last_name": "Overbeck", 
       "user_id": 1676776, 
-      "submission": "We all know Social Security is more than solvent. Why is a Democratic administration trying to cut back on benefits when it should be raising them? ", 
+      "submission": "As the Supreme Court has limited individual human rights, it has expanded and strengthen the \"rights\" of corporations.  What steps would you take to redress this balance?", 
       "district": "PA_02", 
-      "created": "2013-08-09T06:53:56", 
+      "created": "2013-08-09T06:54:38", 
       "state": "PA", 
       "iface": "timeline_vote", 
       "y": 40.0696, 
       "x": -75.2104, 
-      "id": 16267221, 
-      "question_id": "16176614"
+      "id": 16267222, 
+      "question_id": "16235193"
     }, 
     {
       "city": "Dallas", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -123.327, 
       "id": 16267220, 
       "question_id": "16172934"
-    }, 
-    {
-      "city": "Tryon", 
-      "first_name": "Murlel", 
-      "last_name": "Lunsford", 
-      "user_id": 1656934, 
-      "submission": "What will you do to keep elected judges honest, fair & to prevent \"campaign contributions\" & bribes from protecting criminals & supporting white collar crime, distorting the original rule of law?", 
-      "district": "NC_10", 
-      "created": "2013-08-09T06:53:07", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.2172, 
-      "x": -82.2262, 
-      "id": 16267218, 
-      "question_id": "16233222"
     }, 
     {
       "city": "bucyrus", 
