@@ -2,34 +2,53 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Kansas City", 
-      "first_name": "Sandra", 
-      "last_name": "Singleton", 
-      "user_id": 578766, 
-      "submission": "Why is it that the sequester effects everyone but those in Congress.  What % of pay cuts are they taking and what % of staff are being furloughed?  I don't think the House working only 30% of the time without a cut in pay or staff counts as saving money.", 
-      "district": "MO_06", 
-      "created": "2013-08-09T21:14:40", 
-      "state": "MO", 
-      "iface": "timeline_vote", 
-      "y": 39.2158, 
-      "x": -94.5728, 
-      "id": 16286051, 
-      "question_id": "16175490"
-    }, 
-    {
       "city": "SEDONA", 
       "first_name": "JAY", 
       "last_name": "MACKEY", 
       "user_id": 1402810, 
-      "submission": "Will you vote to end tax loopholes for the rich, big business subsides, overseas corporate tax loopholes, wasteful wars, foreign country subsides, quality health care for all, good safe food for all, clean air, clean energy, clean safe drinking water, useful education and job opportunities for all hard working citizens that can achieve these levels and deserve it, gun control, to end wall street fraud and corruption.", 
+      "submission": "How will you support the dignity and freedom of women to make medical decisions with their health care providers without interference of federal and state laws?", 
       "district": "AZ_01", 
-      "created": "2013-08-09T21:12:32", 
+      "created": "2013-08-09T21:15:59", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 34.8643, 
       "x": -111.798, 
-      "id": 16286037, 
-      "question_id": "16203215"
+      "id": 16286062, 
+      "question_id": "16183415"
+    }, 
+    {
+      "city": "Kansas City", 
+      "first_name": "Sandra", 
+      "last_name": "Singleton", 
+      "user_id": 578766, 
+      "submission": "What will you do to restore the voters rights act?  ", 
+      "district": "MO_06", 
+      "created": "2013-08-09T21:15:54", 
+      "state": "MO", 
+      "iface": "timeline_vote", 
+      "y": 39.2158, 
+      "x": -94.5728, 
+      "id": 16286061, 
+      "question_id": "16238835"
+    }, 
+    {
+      "city": "Windham", 
+      "first_name": "Thomas", 
+      "last_name": "Peterson", 
+      "user_id": 54627, 
+      "submission": "If job creation, the economy, our environment, energy costs, and a concept that pays for itself is important to you, will you support making our new & existing homes more energy efficient?", 
+      "district": "ME_01", 
+      "created": "2013-08-09T21:15:18", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "ME", 
+      "iface": "timeline_question", 
+      "y": 43.8081, 
+      "x": -70.4209, 
+      "latest_vote": null, 
+      "id": 16286055, 
+      "trending_score": 0.5
     }, 
     {
       "city": "Palmer", 
@@ -293,21 +312,6 @@ opendebate.processTimeline({
       "x": -123.135, 
       "id": 16285644, 
       "question_id": "16175637"
-    }, 
-    {
-      "city": "Mount Horeb", 
-      "first_name": "Irene", 
-      "last_name": "Schmidt", 
-      "user_id": 604386, 
-      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
-      "district": "WI_02", 
-      "created": "2013-08-09T20:49:44", 
-      "state": "WI", 
-      "iface": "timeline_vote", 
-      "y": 42.9812, 
-      "x": -89.7297, 
-      "id": 16285586, 
-      "question_id": "16172303"
     }
   ]
 });
