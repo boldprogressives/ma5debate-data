@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "East Lansing", 
+      "first_name": "Matthew", 
+      "last_name": "Jacobson", 
+      "user_id": 1722359, 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "district": "MI_08", 
+      "created": "2013-08-09T13:52:59", 
+      "state": "MI", 
+      "iface": "timeline_vote", 
+      "y": 42.7454, 
+      "x": -84.4706, 
+      "id": 16274662, 
+      "question_id": "16172281"
+    }, 
+    {
+      "city": "Burdett", 
+      "first_name": "Karen", 
+      "last_name": "Melamed Smith", 
+      "user_id": 541198, 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "district": "NY_23", 
+      "created": "2013-08-09T13:52:30", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 42.4371, 
+      "x": -76.8283, 
+      "id": 16274629, 
+      "question_id": "16172281"
+    }, 
+    {
       "city": "Trenton", 
       "first_name": "donald", 
       "last_name": "simpson", 
@@ -30,21 +60,6 @@ opendebate.processTimeline({
       "x": -71.5753, 
       "id": 16274556, 
       "question_id": "16180998"
-    }, 
-    {
-      "city": "Burdett", 
-      "first_name": "Karen", 
-      "last_name": "Melamed Smith", 
-      "user_id": 541198, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "NY_23", 
-      "created": "2013-08-09T13:51:11", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 42.4371, 
-      "x": -76.8283, 
-      "id": 16274557, 
-      "question_id": "16172777"
     }, 
     {
       "city": "Milbridge", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -96.9244, 
       "id": 16273279, 
       "question_id": "16226498"
-    }, 
-    {
-      "city": "Barnum", 
-      "first_name": "James", 
-      "last_name": "Korioth", 
-      "user_id": 1693318, 
-      "submission": "Do you support the labeling of GMOs and if so, what do you intend to do to promote people's right to know what is in their food?", 
-      "district": "MN_08", 
-      "created": "2013-08-09T13:40:25", 
-      "state": "MN", 
-      "iface": "timeline_vote", 
-      "y": 46.5765, 
-      "x": -92.7179, 
-      "id": 16273262, 
-      "question_id": "16176001"
     }
   ]
 });
