@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Jamaica Plain", 
-      "first_name": "Carolyn", 
-      "last_name": "Nikkal", 
-      "user_id": 994541, 
-      "submission": "Will you support a Whistleblowers Act that will allow for transparency  in our Government and the NSA with immunity to prosecution?", 
-      "district": "MA_08", 
-      "created": "2013-08-09T16:10:58", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2947, 
-      "x": -71.1305, 
-      "id": 16278946, 
-      "question_id": "16203822"
-    }, 
-    {
       "city": "Newtown Square", 
       "first_name": "Jo-Anne", 
       "last_name": "Perkinson", 
       "user_id": 1773418, 
-      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
+      "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
       "district": "PA_07", 
-      "created": "2013-08-09T16:10:49", 
+      "created": "2013-08-09T16:12:01", 
       "state": "PA", 
       "iface": "timeline_vote", 
       "y": 39.9832, 
       "x": -75.4127, 
-      "id": 16278945, 
-      "question_id": "16173257"
+      "id": 16278953, 
+      "question_id": "16175500"
+    }, 
+    {
+      "city": "Jamaica Plain", 
+      "first_name": "Carolyn", 
+      "last_name": "Nikkal", 
+      "user_id": 994541, 
+      "submission": "How can we get rid of supreme court judges who lied to get the job,i,e\",I won't legislate from the bench or trash settled law\"? Or judges who do not follow the ethics of the lower courts and sit in on cases their wife have vested and loud interest in. ", 
+      "district": "MA_08", 
+      "created": "2013-08-09T16:11:54", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2947, 
+      "x": -71.1305, 
+      "id": 16278952, 
+      "question_id": "16207233"
     }, 
     {
       "city": "Madison", 
