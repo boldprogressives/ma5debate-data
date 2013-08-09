@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Vera", 
       "last_name": "Morgan", 
       "user_id": 1012008, 
-      "submission": "Should marriage equality be legal in all 50 states?", 
+      "submission": "Will you vote YES to extending Medicare to everybody?", 
       "district": "NC_04", 
-      "created": "2013-08-09T12:30:50", 
+      "created": "2013-08-09T12:32:02", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.0577, 
       "x": -79.0035, 
-      "id": 16272112, 
-      "question_id": "16173222"
+      "id": 16272121, 
+      "question_id": "16174319"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "I don't trust the government, but I certainly don't trust corporations.Would you support reversing the privatization of military and intelligence duties to non-government organizations? ", 
+      "submission": "What sort of programs could realistically be put in place to prevent congressional gridlock on the scale we are currently seeing?", 
       "district": "MA_04", 
-      "created": "2013-08-09T12:30:26", 
+      "created": "2013-08-09T12:31:52", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16272110, 
-      "question_id": "16210488"
+      "id": 16272119, 
+      "question_id": "16193988"
     }, 
     {
       "city": "Ulster Park", 
