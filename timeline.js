@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Vera", 
       "last_name": "Morgan", 
       "user_id": 1012008, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "submission": "Solar would bring in new jobs and the factorys built in this country you could even run street lights, stop and go lights i know it would help with the citys tax base, becouse i build solar heat exchangers for the low income folks and it works becouse my heating bills run 16.00 dollars a month 2 years ago last year 48 dollars a month why would not want that ?", 
       "district": "NC_04", 
-      "created": "2013-08-09T12:19:04", 
+      "created": "2013-08-09T12:19:53", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.0577, 
       "x": -79.0035, 
-      "id": 16271976, 
-      "question_id": "16172533"
+      "id": 16271983, 
+      "question_id": "16172866"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Will you pledge to label all genetically modified foods?", 
+      "submission": "Do you support a single payer health plan Government run like Medicare/Medicaid?", 
       "district": "MA_04", 
-      "created": "2013-08-09T12:18:44", 
+      "created": "2013-08-09T12:19:32", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16271974, 
-      "question_id": "16190003"
+      "id": 16271980, 
+      "question_id": "16175855"
     }, 
     {
       "city": "West Columbia", 
