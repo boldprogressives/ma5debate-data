@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "The American educational system is becoming third world. What happened to \"No Child Left Behind\"?. ", 
+      "submission": "Without preschool, many children will never learn to read.  Then they will not be able to contribute to our economy in proportion to their potential.  Then we will need special immigration for high tech jobs.  Will you fight to fund pre-schools for all children?", 
       "district": "MO_06", 
-      "created": "2013-08-09T22:03:49", 
+      "created": "2013-08-09T22:05:01", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286908, 
-      "question_id": "16196739"
+      "id": 16286914, 
+      "question_id": "16224954"
     }, 
     {
       "city": "Sacramento", 
