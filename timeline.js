@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Eugene", 
+      "first_name": "Patience", 
+      "last_name": "Pontious", 
+      "user_id": 1808482, 
+      "submission": "Would you fight for a Carbon tax so that the biggest carbon polluters would be taxed for their production?", 
+      "district": "OR_04", 
+      "created": "2013-08-09T05:42:38", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 43.9495, 
+      "x": -123.128, 
+      "id": 16265861, 
+      "question_id": "16239298"
+    }, 
+    {
+      "city": "Henderson", 
+      "first_name": "Irma", 
+      "last_name": "Torkzadeh", 
+      "user_id": 228626, 
+      "submission": "Would you support the public's right to have GMO's labeled as such?", 
+      "district": "NV_03", 
+      "created": "2013-08-09T05:42:10", 
+      "state": "NV", 
+      "iface": "timeline_vote", 
+      "y": 35.9926, 
+      "x": -115.12, 
+      "id": 16265860, 
+      "question_id": "16200699"
+    }, 
+    {
+      "city": "port angeles .", 
+      "first_name": "neil", 
+      "last_name": "hildebrand", 
+      "user_id": 172877, 
+      "submission": "How will you work to changeminds of the obstinate Republican faction in the Senate, which constantly votes against everything positive that the President desires to accomplish for the American people?", 
+      "district": "WA_06", 
+      "created": "2013-08-09T05:42:09", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 48.1184, 
+      "x": -123.481, 
+      "id": 16265859, 
+      "question_id": "16255540"
+    }, 
+    {
       "city": "Paonia", 
       "first_name": "Robert", 
       "last_name": "Soby", 
@@ -30,36 +75,6 @@ opendebate.processTimeline({
       "x": -77.0055, 
       "id": 16265857, 
       "question_id": "16172694"
-    }, 
-    {
-      "city": "port angeles .", 
-      "first_name": "neil", 
-      "last_name": "hildebrand", 
-      "user_id": 172877, 
-      "submission": "How do you plan to control the corporations who are now controlling the commodities markets?  Will you bring back the Glass/Seagal act?", 
-      "district": "WA_06", 
-      "created": "2013-08-09T05:41:43", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 48.1184, 
-      "x": -123.481, 
-      "id": 16265854, 
-      "question_id": "16254871"
-    }, 
-    {
-      "city": "Henderson", 
-      "first_name": "Irma", 
-      "last_name": "Torkzadeh", 
-      "user_id": 228626, 
-      "submission": "Will you support a Constitutional Amendment to guarantee the existence of Labor Unions, the right to organize and negotiate, to strike without the loss of employment, and extend those rights to all private and public sector workers?", 
-      "district": "NV_03", 
-      "created": "2013-08-09T05:40:11", 
-      "state": "NV", 
-      "iface": "timeline_vote", 
-      "y": 35.9926, 
-      "x": -115.12, 
-      "id": 16265845, 
-      "question_id": "16186103"
     }, 
     {
       "city": "Galena", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16265573, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Magna", 
-      "first_name": "Wendie", 
-      "last_name": "Lowe", 
-      "user_id": 1778052, 
-      "submission": "Will you pledge to protect Social Security and expand it if possible for the Elderly and Dusabled?", 
-      "district": "UT_02", 
-      "created": "2013-08-09T05:22:59", 
-      "state": "UT", 
-      "iface": "timeline_vote", 
-      "y": 40.6695, 
-      "x": -112.141, 
-      "id": 16265555, 
-      "question_id": "16238957"
     }
   ]
 });
