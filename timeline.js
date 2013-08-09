@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "D. S.", 
       "last_name": "Kinzie", 
       "user_id": 88880, 
-      "submission": "Will you support the 90% of Americans who are demanding that GMO's be labeled nationwide?", 
+      "submission": "People who apply for mission critical jobs like astronauts have to pass multiple psychological tests. Why not politicians? An IQ test might not be a bad place to start.", 
       "district": "TN_05", 
-      "created": "2013-08-09T10:32:58", 
+      "created": "2013-08-09T10:33:53", 
       "state": "TN", 
       "iface": "timeline_vote", 
       "y": 36.1088, 
       "x": -86.7806, 
-      "id": 16270924, 
-      "question_id": "16180953"
+      "id": 16270931, 
+      "question_id": "16213317"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "The practice of bill bundling isn't expediency, it's deception.  What will you do to change it?", 
+      "submission": "Climate change has many facets: CO2/CH4 emissions, permafrost melting, ocean warming/acidification, overpopulation, et al. Who among you has a plan to defeat this unprecedented hydra of challenges?", 
       "district": "MA_04", 
-      "created": "2013-08-09T10:32:38", 
+      "created": "2013-08-09T10:33:53", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270921, 
-      "question_id": "16174951"
+      "id": 16270932, 
+      "question_id": "16201745"
     }, 
     {
       "city": "New York", 
