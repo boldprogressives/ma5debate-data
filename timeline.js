@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Roanoke", 
+      "first_name": "Patricia", 
+      "last_name": "McLeod-Jackson", 
+      "user_id": 396647, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "VA_09", 
+      "created": "2013-08-09T13:14:04", 
+      "state": "VA", 
+      "iface": "timeline_vote", 
+      "y": 37.3372, 
+      "x": -79.9517, 
+      "id": 16272628, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Chewelah", 
+      "first_name": "Sally", 
+      "last_name": "McQuain", 
+      "user_id": 105835, 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "district": "WA_05", 
+      "created": "2013-08-09T13:14:04", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 48.2774, 
+      "x": -117.73, 
+      "id": 16272629, 
+      "question_id": "16173259"
+    }, 
+    {
+      "city": "Salem", 
+      "first_name": "edward", 
+      "last_name": "abreo", 
+      "user_id": 1770718, 
+      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
+      "district": "OR_05", 
+      "created": "2013-08-09T13:13:45", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 45.0131, 
+      "x": -123.101, 
+      "id": 16272624, 
+      "question_id": "16172697"
+    }, 
+    {
       "city": "Brooklyn", 
       "first_name": "Reva B", 
       "last_name": "Golden", 
@@ -30,21 +75,6 @@ opendebate.processTimeline({
       "x": -70.0637, 
       "id": 16272615, 
       "question_id": "16267533"
-    }, 
-    {
-      "city": "Salem", 
-      "first_name": "edward", 
-      "last_name": "abreo", 
-      "user_id": 1770718, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "OR_05", 
-      "created": "2013-08-09T13:12:43", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 45.0131, 
-      "x": -123.101, 
-      "id": 16272614, 
-      "question_id": "16172266"
     }, 
     {
       "city": "Wrights", 
@@ -274,40 +304,6 @@ opendebate.processTimeline({
       "x": -74.2758, 
       "id": 16272364, 
       "question_id": "16175493"
-    }, 
-    {
-      "city": "Staten Island", 
-      "first_name": "Richard", 
-      "last_name": "Spiegel", 
-      "user_id": 545371, 
-      "submission": "Would you support a new millennial version of the Civilian Conservation Corps to provide a broad sector of the general public with fulltime employment in municipal, state, and federal parks?", 
-      "district": "NY_11", 
-      "created": "2013-08-09T12:51:15", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "NY", 
-      "iface": "timeline_question", 
-      "y": 40.6032, 
-      "x": -74.0902, 
-      "latest_vote": null, 
-      "id": 16272358, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Stamford", 
-      "first_name": "Ilene", 
-      "last_name": "Lion", 
-      "user_id": 1772668, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
-      "district": "CT_04", 
-      "created": "2013-08-09T12:51:09", 
-      "state": "CT", 
-      "iface": "timeline_vote", 
-      "y": 41.1364, 
-      "x": -73.5664, 
-      "id": 16272357, 
-      "question_id": "16172533"
     }
   ]
 });
