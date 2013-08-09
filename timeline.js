@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Los Angeles", 
+      "first_name": "Ellen", 
+      "last_name": "Steens", 
+      "user_id": 1782363, 
+      "submission": "Would you vote to overturn Citizens United?", 
+      "district": "CA_37", 
+      "created": "2013-08-09T07:39:00", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 34.0277, 
+      "x": -118.352, 
+      "id": 16268613, 
+      "question_id": "16185125"
+    }, 
+    {
+      "city": "Tryon", 
+      "first_name": "Murlel", 
+      "last_name": "Lunsford", 
+      "user_id": 1656934, 
+      "submission": "Do you favor legislation to protect our water, land, and communities from the negative environmental and social impacts of fracking for natural gas?", 
+      "district": "NC_10", 
+      "created": "2013-08-09T07:38:56", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.2172, 
+      "x": -82.2262, 
+      "id": 16268593, 
+      "question_id": "16204423"
+    }, 
+    {
       "city": "Charlotte", 
       "first_name": "cindy", 
       "last_name": "chilton", 
@@ -15,36 +45,6 @@ opendebate.processTimeline({
       "x": -80.9607, 
       "id": 16268573, 
       "question_id": "16256797"
-    }, 
-    {
-      "city": "Los Angeles", 
-      "first_name": "Ellen", 
-      "last_name": "Steens", 
-      "user_id": 1782363, 
-      "submission": "In the talk about government spending, there has been discussion about entitlements, but very little discussion about corporate welfare. Examples of corporate welfare include profitable companies such GE paying no federal income taxes, or corporations not paying taxes on profits made overseas. Would you support and work to eliminate all corporate welfare?", 
-      "district": "CA_37", 
-      "created": "2013-08-09T07:37:48", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 34.0277, 
-      "x": -118.352, 
-      "id": 16268570, 
-      "question_id": "16249133"
-    }, 
-    {
-      "city": "Tryon", 
-      "first_name": "Murlel", 
-      "last_name": "Lunsford", 
-      "user_id": 1656934, 
-      "submission": "If you lose your job and have to live on a minimum wage, how long do you think you could last in today's economy? Will you support increasing the minimum wage to a living wage?", 
-      "district": "NC_10", 
-      "created": "2013-08-09T07:37:46", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.2172, 
-      "x": -82.2262, 
-      "id": 16268569, 
-      "question_id": "16194324"
     }, 
     {
       "city": "Boulder City", 
