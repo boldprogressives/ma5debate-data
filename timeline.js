@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Vera", 
       "last_name": "Morgan", 
       "user_id": 1012008, 
-      "submission": "Will you vote for 1% fixed interest student loans, available to everybody?", 
+      "submission": "What is your position on the Keystone XL pipeline and on fracking? Specifically what would you do to stop climate change and move to renewable energy?", 
       "district": "NC_04", 
-      "created": "2013-08-09T12:46:55", 
+      "created": "2013-08-09T12:47:57", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.0577, 
       "x": -79.0035, 
-      "id": 16272322, 
-      "question_id": "16174342"
+      "id": 16272331, 
+      "question_id": "16207584"
     }, 
     {
       "city": "Lock Haven", 
