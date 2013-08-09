@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Vera", 
       "last_name": "Morgan", 
       "user_id": 1012008, 
-      "submission": "When one or two dozen companies send jobs overseas, it may not be a problem for our economy. When thousands of companies do so, it becomes a threat to our entire way of life and undermines our country's strength. How would you incentivize bringing jobs back and penalize (i.e. require an offshoring license) or prevent new/additional offshoring of jobs? ", 
+      "submission": "How do you roll back recent Supreme Court decisions such as \"Citizen United\" and part of the Voting Rights Act, which allows powerful interests to skew the political process in their favor? ", 
       "district": "NC_04", 
-      "created": "2013-08-09T12:56:40", 
+      "created": "2013-08-09T12:58:06", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.0577, 
       "x": -79.0035, 
-      "id": 16272404, 
-      "question_id": "16184537"
+      "id": 16272411, 
+      "question_id": "16182448"
+    }, 
+    {
+      "city": "Woodbridge", 
+      "first_name": "N", 
+      "last_name": "Oure", 
+      "user_id": 1694674, 
+      "submission": "What, specifically, would you do to protect the right to vote for all? Please address specifically a new Voting Rights Act and the concept of a paper ballot that can be verified by the voter.", 
+      "district": "VA_11", 
+      "created": "2013-08-09T12:58:05", 
+      "state": "VA", 
+      "iface": "timeline_vote", 
+      "y": 38.6462, 
+      "x": -77.3497, 
+      "id": 16272412, 
+      "question_id": "16207107"
     }, 
     {
       "city": "Framingham", 
@@ -64,21 +79,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16272391, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Woodbridge", 
-      "first_name": "N", 
-      "last_name": "Oure", 
-      "user_id": 1694674, 
-      "submission": "Will you support reform to congressional and executive compensation, including pay that is equal to the median income of the constituents they represent?", 
-      "district": "VA_11", 
-      "created": "2013-08-09T12:54:43", 
-      "state": "VA", 
-      "iface": "timeline_vote", 
-      "y": 38.6462, 
-      "x": -77.3497, 
-      "id": 16272387, 
-      "question_id": "16201568"
     }, 
     {
       "city": "North Adams", 
