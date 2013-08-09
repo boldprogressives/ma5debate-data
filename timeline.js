@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Santa Cruz", 
-      "first_name": "Barbara", 
-      "last_name": "Ogle", 
-      "user_id": 1069943, 
-      "submission": "Why is Monsanto allowed to destroy our agriculture and the small farmers?", 
-      "district": "CA_20", 
-      "created": "2013-08-09T07:06:04", 
-      "state": "CA", 
+      "city": "Seattle", 
+      "first_name": "Colby", 
+      "last_name": "Jordan", 
+      "user_id": 527240, 
+      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
+      "district": "WA_07", 
+      "created": "2013-08-09T07:07:02", 
+      "state": "WA", 
       "iface": "timeline_vote", 
-      "y": 36.9715, 
-      "x": -121.985, 
-      "id": 16267405, 
-      "question_id": "16244435"
+      "y": 47.6113, 
+      "x": -122.333, 
+      "id": 16267422, 
+      "question_id": "16172207"
     }, 
     {
       "city": "Suffern", 
       "first_name": "Luis M.", 
       "last_name": "Diaz", 
       "user_id": 1780949, 
-      "submission": "The threat that hangs over the country today is a GOP determined to destroy the middle class and the values that define it.  What specific steps will you recommend to confront, not appease, the GOP?", 
+      "submission": "Would you support an audit of the Federal Reserve?", 
       "district": "NY_17", 
-      "created": "2013-08-09T07:06:01", 
+      "created": "2013-08-09T07:07:02", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 41.1277, 
       "x": -74.1119, 
-      "id": 16267403, 
-      "question_id": "16172694"
+      "id": 16267423, 
+      "question_id": "16259575"
+    }, 
+    {
+      "city": "Santa Cruz", 
+      "first_name": "Barbara", 
+      "last_name": "Ogle", 
+      "user_id": 1069943, 
+      "submission": "As the Supreme Court has limited individual human rights, it has expanded and strengthen the \"rights\" of corporations.  What steps would you take to redress this balance?", 
+      "district": "CA_20", 
+      "created": "2013-08-09T07:06:55", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 36.9715, 
+      "x": -121.985, 
+      "id": 16267420, 
+      "question_id": "16235193"
     }, 
     {
       "city": "Tryon", 
       "first_name": "Murlel", 
       "last_name": "Lunsford", 
       "user_id": 1656934, 
-      "submission": "How will you support the dignity and freedom of women to make medical decisions with their health care providers without interference of federal and state laws?", 
+      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
       "district": "NC_10", 
-      "created": "2013-08-09T07:05:48", 
+      "created": "2013-08-09T07:06:33", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.2172, 
       "x": -82.2262, 
-      "id": 16267398, 
-      "question_id": "16183415"
+      "id": 16267415, 
+      "question_id": "16180998"
     }, 
     {
       "city": "Dallas", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -95.2394, 
       "id": 16267109, 
       "question_id": "16192922"
-    }, 
-    {
-      "city": "Portland", 
-      "first_name": "Lisa", 
-      "last_name": "Robertson", 
-      "user_id": 161556, 
-      "submission": "Do you support the USPS and will you repeal the \"Postal Accountability and Enhancement Act\" signed by George W. Bush in 2006?", 
-      "district": "OR_03", 
-      "created": "2013-08-09T06:41:49", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 45.5688, 
-      "x": -122.643, 
-      "id": 16267044, 
-      "question_id": "16212600"
     }
   ]
 });
