@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Dale", 
       "last_name": "Le Fevre", 
       "user_id": 340427, 
-      "submission": "Would you support the pardoning of all victimless crime marijuana (Cannabis) offenders? Depopulating our For Profit Prisons?", 
+      "submission": "What will you do to support real campaign finance reform that will remove entrenched special interest money and its attendant corruption from our aspiring democracy?", 
       "district": "CA_02", 
-      "created": "2013-08-09T09:29:56", 
+      "created": "2013-08-09T09:31:02", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 39.4417, 
       "x": -123.784, 
-      "id": 16270270, 
-      "question_id": "16208291"
+      "id": 16270278, 
+      "question_id": "16186239"
+    }, 
+    {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "MA_04", 
+      "created": "2013-08-09T09:30:55", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16270277, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Tampa", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -93.1457, 
       "id": 16269764, 
       "question_id": "16219940"
-    }, 
-    {
-      "city": "Parlier", 
-      "first_name": "Julian", 
-      "last_name": "Yerena", 
-      "user_id": 1687026, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "CA_21", 
-      "created": "2013-08-09T08:16:42", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 36.616, 
-      "x": -119.531, 
-      "id": 16269747, 
-      "question_id": "16172266"
     }
   ]
 });
