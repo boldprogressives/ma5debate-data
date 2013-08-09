@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Vera", 
       "last_name": "Morgan", 
       "user_id": 1012008, 
-      "submission": "Canada has a Law against propaganda & lies being broadcast or printed in the media. Would you support a similar law in the US? We have derision caused by deliberate lies. Remember Hitler was elected! ", 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
       "district": "NC_04", 
-      "created": "2013-08-09T12:28:58", 
+      "created": "2013-08-09T12:29:44", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.0577, 
       "x": -79.0035, 
-      "id": 16272099, 
-      "question_id": "16261635"
+      "id": 16272105, 
+      "question_id": "16202059"
+    }, 
+    {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Knowing that an educated person is an asset to the nation, do you think school vouchers should be eliminated and public education should be free, or nearly free, for citizens to access as far as they're capabilities allow?", 
+      "district": "MA_04", 
+      "created": "2013-08-09T12:29:35", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16272104, 
+      "question_id": "16173220"
     }, 
     {
       "city": "Ulster Park", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -73.9902, 
       "id": 16272098, 
       "question_id": "16172755"
-    }, 
-    {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "Will you support responsible reform among the big banks - never too big to FAIL, never too big to JAIL, and always too big to BAIL?", 
-      "district": "MA_04", 
-      "created": "2013-08-09T12:28:33", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16272095, 
-      "question_id": "16248409"
     }, 
     {
       "city": "Lyons", 
