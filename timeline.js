@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Kansas City", 
-      "first_name": "Sandra", 
-      "last_name": "Singleton", 
-      "user_id": 578766, 
-      "submission": "Will you support congress not having automatic cost-of-living increases?", 
-      "district": "MO_06", 
-      "created": "2013-08-09T21:54:57", 
-      "state": "MO", 
-      "iface": "timeline_vote", 
-      "y": 39.2158, 
-      "x": -94.5728, 
-      "id": 16286832, 
-      "question_id": "16219674"
-    }, 
-    {
       "city": "Framingham", 
       "first_name": "Sharon", 
       "last_name": "Rozines", 
       "user_id": 1771502, 
-      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
+      "submission": "What are you going to do to regulate banks and stock exchange speculations?", 
       "district": "MA_05", 
-      "created": "2013-08-09T21:54:53", 
+      "created": "2013-08-09T21:55:57", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2721, 
       "x": -71.4248, 
-      "id": 16286831, 
-      "question_id": "16173257"
+      "id": 16286839, 
+      "question_id": "16172283"
+    }, 
+    {
+      "city": "Kansas City", 
+      "first_name": "Sandra", 
+      "last_name": "Singleton", 
+      "user_id": 578766, 
+      "submission": "When are Democrats going to stand UNITED and finally expose all the Republican Tea Party LIES about everything from Obamacare to our US Economy and let the American People learn the TRUTH?   ", 
+      "district": "MO_06", 
+      "created": "2013-08-09T21:55:38", 
+      "state": "MO", 
+      "iface": "timeline_vote", 
+      "y": 39.2158, 
+      "x": -94.5728, 
+      "id": 16286838, 
+      "question_id": "16219526"
     }, 
     {
       "city": "Fountain Hills", 
