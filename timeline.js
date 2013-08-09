@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "When will we get universal health care? And would you support a single payer system similar to Canada's?", 
+      "submission": "How do you address cities going bankrupt, unemployment, people working not meeting basic needs and social services being cut over and over- yet corporations receiving welfare- in the form of tax breaks, incentives and yet they are can outsource jobs to other countries and people in the US are hungry?", 
       "district": "MA_04", 
-      "created": "2013-08-09T11:18:48", 
+      "created": "2013-08-09T11:19:47", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16271310, 
-      "question_id": "16174014"
+      "id": 16271312, 
+      "question_id": "16190286"
+    }, 
+    {
+      "city": "Nashville", 
+      "first_name": "D. S.", 
+      "last_name": "Kinzie", 
+      "user_id": 88880, 
+      "submission": "Remind the big shots Soc Sec is our money we paid in....It is not the government's to spend...they were to say it for us. We need a raise in pay instead of cuts as the cost of living goes up...thank goodness we invested in the government. Carol Parrish Harra of TAhlequah, OK. ", 
+      "district": "TN_05", 
+      "created": "2013-08-09T11:19:17", 
+      "state": "TN", 
+      "iface": "timeline_vote", 
+      "y": 36.1088, 
+      "x": -86.7806, 
+      "id": 16271311, 
+      "question_id": "16247712"
     }, 
     {
       "city": "Cambridge", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -71.1035, 
       "id": 16271309, 
       "question_id": "16172533"
-    }, 
-    {
-      "city": "Nashville", 
-      "first_name": "D. S.", 
-      "last_name": "Kinzie", 
-      "user_id": 88880, 
-      "submission": "Adult students who return to school to try and become marketable in the job market are penalized by being disqualified for snap benefits or food stamps, what do you propose to do about this?", 
-      "district": "TN_05", 
-      "created": "2013-08-09T11:18:32", 
-      "state": "TN", 
-      "iface": "timeline_vote", 
-      "y": 36.1088, 
-      "x": -86.7806, 
-      "id": 16271307, 
-      "question_id": "16246725"
     }, 
     {
       "city": "Amherst", 
