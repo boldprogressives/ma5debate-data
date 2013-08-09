@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Day", 
       "last_name": "Jolliff", 
       "user_id": 1785674, 
-      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
       "district": "AZ_06", 
-      "created": "2013-08-09T22:08:53", 
+      "created": "2013-08-09T22:09:58", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 33.609, 
       "x": -111.73, 
-      "id": 16286944, 
-      "question_id": "16173259"
+      "id": 16286953, 
+      "question_id": "16172697"
     }, 
     {
       "city": "Kansas City", 
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "Where do you stand on the issue of public financing of federal elections? ", 
+      "submission": "Since I am constantly hearing single women parents are looking for public assistance, even though they may be working two or more low-wage jobs, why isn't more being done for equal pay for women in all jobs, as well as higher min. wages, even if it is just for your state.", 
       "district": "MO_06", 
-      "created": "2013-08-09T22:08:45", 
+      "created": "2013-08-09T22:09:43", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286943, 
-      "question_id": "16169704"
+      "id": 16286949, 
+      "question_id": "16190885"
     }, 
     {
       "city": "Arlington", 
