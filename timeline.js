@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Day", 
       "last_name": "Jolliff", 
       "user_id": 1785674, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
       "district": "AZ_06", 
-      "created": "2013-08-09T22:08:01", 
+      "created": "2013-08-09T22:08:53", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 33.609, 
       "x": -111.73, 
-      "id": 16286937, 
-      "question_id": "16172533"
+      "id": 16286944, 
+      "question_id": "16173259"
     }, 
     {
       "city": "Kansas City", 
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "Who are you for?The middle class,? or keeping the 1% happy!!", 
+      "submission": "Where do you stand on the issue of public financing of federal elections? ", 
       "district": "MO_06", 
-      "created": "2013-08-09T22:07:48", 
+      "created": "2013-08-09T22:08:45", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286936, 
-      "question_id": "16193281"
+      "id": 16286943, 
+      "question_id": "16169704"
     }, 
     {
       "city": "Arlington", 
