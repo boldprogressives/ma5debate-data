@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dale", 
       "last_name": "Le Fevre", 
       "user_id": 340427, 
-      "submission": "Will you work to reinstate the Glass-Steagall Act to insure that the Wall Street banks behave in a more responsible manner?", 
+      "submission": "Would you support the pardoning of all victimless crime marijuana (Cannabis) offenders? Depopulating our For Profit Prisons?", 
       "district": "CA_02", 
-      "created": "2013-08-09T09:28:56", 
+      "created": "2013-08-09T09:29:56", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 39.4417, 
       "x": -123.784, 
-      "id": 16270266, 
-      "question_id": "16256690"
+      "id": 16270270, 
+      "question_id": "16208291"
     }, 
     {
       "city": "Tampa", 
