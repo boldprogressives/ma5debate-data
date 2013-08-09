@@ -6,15 +6,45 @@ opendebate.processTimeline({
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "Do you Support or Oppose the Patriot act?", 
+      "submission": "What will you do to counteract the rampant income inequality that coddles the wealthy, relegates the poor to economic slavery and makes a mockery of the public good?", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:22:37", 
+      "created": "2013-08-09T21:23:51", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286159, 
-      "question_id": "16269769"
+      "id": 16286173, 
+      "question_id": "16225362"
+    }, 
+    {
+      "city": "Moss Point", 
+      "first_name": "Michael", 
+      "last_name": "Stallworth", 
+      "user_id": 821196, 
+      "submission": "Will you pledge to uphold the Affordable Care Act and help states implement it -- not defund it?", 
+      "district": "MS_04", 
+      "created": "2013-08-09T21:23:44", 
+      "state": "MS", 
+      "iface": "timeline_vote", 
+      "y": 30.4076, 
+      "x": -88.5302, 
+      "id": 16286171, 
+      "question_id": "16181276"
+    }, 
+    {
+      "city": "Wesley Chapel", 
+      "first_name": "wilbert", 
+      "last_name": "dripps", 
+      "user_id": 50501, 
+      "submission": "In 2006, the lame-duck GOP congress enacted a bill forcing the U.S.Postal service to fully fund pensions for the next 75 years and do it in ten years. It's a bill that was designed to ruin the USPS so it could be privatized. Will you work to repeal this onerous bill and introduce legislation to allow the USPS to compete with private carriers?", 
+      "district": "FL_12", 
+      "created": "2013-08-09T21:23:11", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 28.2051, 
+      "x": -82.3, 
+      "id": 16286166, 
+      "question_id": "16206983"
     }, 
     {
       "city": "Huntington Station", 
@@ -286,36 +316,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16285838, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Southwest Harbor", 
-      "first_name": "Joyce", 
-      "last_name": "Worcester", 
-      "user_id": 1794458, 
-      "submission": "What will you do to get congress to work on a jobs bill instead of wasting taxpayers money trying to repeal The Affordable Healthcare Act?", 
-      "district": "ME_02", 
-      "created": "2013-08-09T21:01:12", 
-      "state": "ME", 
-      "iface": "timeline_vote", 
-      "y": 44.2799, 
-      "x": -68.3301, 
-      "id": 16285815, 
-      "question_id": "16203558"
-    }, 
-    {
-      "city": "Santa Rosa", 
-      "first_name": "James", 
-      "last_name": "Barton", 
-      "user_id": 1627859, 
-      "submission": "Would you be willing to submit to Congress a resolution confirming only Congress can declare war?", 
-      "district": "CA_05", 
-      "created": "2013-08-09T20:58:06", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 38.4445, 
-      "x": -122.655, 
-      "id": 16285745, 
-      "question_id": "16192223"
     }
   ]
 });
