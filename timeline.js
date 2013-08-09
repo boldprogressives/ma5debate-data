@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Gloucester", 
+      "first_name": "Sean", 
+      "last_name": "Desmond", 
+      "user_id": 159362, 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "district": "MA_06", 
+      "created": "2013-08-09T22:53:55", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.6285, 
+      "x": -70.6862, 
+      "id": 16287551, 
+      "question_id": "16172755"
+    }, 
+    {
       "city": "Detroit", 
       "first_name": "Daniel", 
       "last_name": "Sarasin", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -71.1676, 
       "id": 16286976, 
       "question_id": "16172286"
-    }, 
-    {
-      "city": "Helena", 
-      "first_name": "Bob", 
-      "last_name": "Balhiser", 
-      "user_id": 674040, 
-      "submission": "Would you work to end the \"revolving door\" in politics: where politicians are given lucrative jobs as lobbyists once they leave [cough] \"public service\"", 
-      "district": "MT_01", 
-      "created": "2013-08-09T22:13:03", 
-      "state": "MT", 
-      "iface": "timeline_vote", 
-      "y": 46.6453, 
-      "x": -111.974, 
-      "id": 16286973, 
-      "question_id": "16217343"
     }
   ]
 });
