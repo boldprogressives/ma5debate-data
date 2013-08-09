@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Tryon", 
+      "first_name": "Murlel", 
+      "last_name": "Lunsford", 
+      "user_id": 1656934, 
+      "submission": "What will you do to ensure that all Americans have access to the voting booth and what will you do to get money out of our elections so that we all have an equal voice?", 
+      "district": "NC_10", 
+      "created": "2013-08-09T07:15:50", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.2172, 
+      "x": -82.2262, 
+      "id": 16267495, 
+      "question_id": "16205834"
+    }, 
+    {
+      "city": "Dallas", 
+      "first_name": "Violet", 
+      "last_name": "Sunderland", 
+      "user_id": 986238, 
+      "submission": "It is time we stop rewarding companies that outsource American jobs.  Would you propose a new tax on these companies, an import tax on products produced by these companies or some other form of incentive to keep jobs in this country?  Please be specific.", 
+      "district": "OR_05", 
+      "created": "2013-08-09T07:15:48", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 44.9222, 
+      "x": -123.327, 
+      "id": 16267494, 
+      "question_id": "16175276"
+    }, 
+    {
       "city": "San Mateo", 
       "first_name": "marcia", 
       "last_name": "Shull", 
@@ -15,36 +45,6 @@ opendebate.processTimeline({
       "x": -122.269, 
       "id": 16267488, 
       "question_id": "16225925"
-    }, 
-    {
-      "city": "Dallas", 
-      "first_name": "Violet", 
-      "last_name": "Sunderland", 
-      "user_id": 986238, 
-      "submission": "How realistic is it that Wall Street/Banks will ever be held criminally accountable for the destruction it did to Americans and the ecomony?", 
-      "district": "OR_05", 
-      "created": "2013-08-09T07:14:56", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 44.9222, 
-      "x": -123.327, 
-      "id": 16267487, 
-      "question_id": "16173397"
-    }, 
-    {
-      "city": "Tryon", 
-      "first_name": "Murlel", 
-      "last_name": "Lunsford", 
-      "user_id": 1656934, 
-      "submission": "Would you pledge to take no gifts or money from special interest groups in exchange for your votes favoring them?", 
-      "district": "NC_10", 
-      "created": "2013-08-09T07:14:34", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.2172, 
-      "x": -82.2262, 
-      "id": 16267483, 
-      "question_id": "16205451"
     }, 
     {
       "city": "Henderson", 
