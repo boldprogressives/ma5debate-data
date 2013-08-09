@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Vacaville", 
+      "first_name": "Judy", 
+      "last_name": "Elliott", 
+      "user_id": 165828, 
+      "submission": "Are you going to stand up to the NRA, to stop our young and innocent, from being murdered?", 
+      "district": "CA_03", 
+      "created": "2013-08-09T08:45:22", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 38.3462, 
+      "x": -121.954, 
+      "id": 16270011, 
+      "question_id": "16199637"
+    }, 
+    {
       "city": "Santa Fe", 
       "first_name": "Victoria", 
       "last_name": "Scott", 
@@ -301,25 +316,6 @@ opendebate.processTimeline({
       "x": -122.26, 
       "id": 16269535, 
       "question_id": "16235193"
-    }, 
-    {
-      "city": "Henderson", 
-      "first_name": "Nicholas", 
-      "last_name": "Martino", 
-      "user_id": 1810196, 
-      "submission": "Hypothetically, how many Congressmen and Senators would those of us who have been terrorized for years by the NSA for speaking out about 9/11 have to hunt down and execute in the street in order to get some justice in this country?", 
-      "district": "NV_03", 
-      "created": "2013-08-09T07:49:19", 
-      "state_votes": 0, 
-      "votes": 2, 
-      "district_votes": 0, 
-      "state": "NV", 
-      "iface": "timeline_question", 
-      "y": 36.0401, 
-      "x": -115.077, 
-      "latest_vote": "2013-08-09T08:02:02", 
-      "id": 16269505, 
-      "trending_score": 2.5
     }
   ]
 });
