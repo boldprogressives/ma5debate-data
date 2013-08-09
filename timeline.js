@@ -6,15 +6,34 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Should Bush and Cheney (AND Obama) be prosecuted for war crimes?", 
+      "submission": "When those of us who have spoken out about 9/11 and have been terrorized for years by the NSA start taking the law into our own hands and start executing traitors, terrorists and mass murderers in government, where are you going to hide?", 
       "district": "MA_04", 
-      "created": "2013-08-09T09:37:50", 
+      "created": "2013-08-09T09:38:31", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270358, 
-      "question_id": "16219940"
+      "id": 16270362, 
+      "question_id": "16267196"
+    }, 
+    {
+      "city": "Eugene", 
+      "first_name": "Patience", 
+      "last_name": "Pontious", 
+      "user_id": 1808482, 
+      "submission": "When might EVERYONE be prosecuted  who has broken big laws, not just speeding tickets or smoking pot?", 
+      "district": "OR_04", 
+      "created": "2013-08-09T09:38:12", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "OR", 
+      "iface": "timeline_question", 
+      "y": 43.9495, 
+      "x": -123.128, 
+      "latest_vote": null, 
+      "id": 16270361, 
+      "trending_score": 0.5
     }, 
     {
       "city": "Fort Bragg", 
@@ -297,21 +316,6 @@ opendebate.processTimeline({
       "x": -121.954, 
       "id": 16270011, 
       "question_id": "16199637"
-    }, 
-    {
-      "city": "Santa Fe", 
-      "first_name": "Victoria", 
-      "last_name": "Scott", 
-      "user_id": 1708295, 
-      "submission": "Given the disaster resulting from repeal of Glass-Speigel why has it not been reinstated and will you sponsor a bill to reinstate it?", 
-      "district": "NM_03", 
-      "created": "2013-08-09T08:44:23", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 35.6768, 
-      "x": -105.958, 
-      "id": 16270008, 
-      "question_id": "16224944"
     }
   ]
 });
