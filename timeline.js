@@ -6,45 +6,60 @@ opendebate.processTimeline({
       "first_name": "Gordon Chandler", 
       "last_name": "Chandler", 
       "user_id": 428960, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
       "district": "FL_08", 
-      "created": "2013-08-09T11:44:56", 
+      "created": "2013-08-09T11:45:58", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 28.1728, 
       "x": -80.5987, 
-      "id": 16271495, 
-      "question_id": "16172281"
+      "id": 16271510, 
+      "question_id": "16172913"
     }, 
     {
       "city": "Owensboro", 
       "first_name": "Terry", 
       "last_name": "peabody", 
       "user_id": 792993, 
-      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
+      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
       "district": "KY_02", 
-      "created": "2013-08-09T11:44:33", 
+      "created": "2013-08-09T11:45:54", 
       "state": "KY", 
       "iface": "timeline_vote", 
       "y": 37.7571, 
       "x": -87.0926, 
-      "id": 16271490, 
-      "question_id": "16203676"
+      "id": 16271509, 
+      "question_id": "16175634"
+    }, 
+    {
+      "city": "Brooklyn", 
+      "first_name": "Barbara", 
+      "last_name": "Ballinger", 
+      "user_id": 47026, 
+      "submission": "The drug war and the prison industry has destroyed many lives -- especially of low income and minority citizens. As a first step, marijuana needs to be legalized nation-wide. What will you do toward that end?", 
+      "district": "NY_11", 
+      "created": "2013-08-09T11:45:53", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.6237, 
+      "x": -74.0338, 
+      "id": 16271508, 
+      "question_id": "16173418"
     }, 
     {
       "city": "Williston", 
       "first_name": "Michael", 
       "last_name": "Lowe", 
       "user_id": 654169, 
-      "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
+      "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
       "district": "FL_03", 
-      "created": "2013-08-09T11:44:15", 
+      "created": "2013-08-09T11:45:04", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 29.3881, 
       "x": -82.4535, 
-      "id": 16271488, 
-      "question_id": "16175500"
+      "id": 16271498, 
+      "question_id": "16173320"
     }, 
     {
       "city": "Cincinnati", 
@@ -285,21 +300,6 @@ opendebate.processTimeline({
       "x": -80.1352, 
       "id": 16271285, 
       "question_id": "16173625"
-    }, 
-    {
-      "city": "Mount Joy", 
-      "first_name": "Margaret", 
-      "last_name": "Beitzel", 
-      "user_id": 526895, 
-      "submission": "What steps will you take to restore livable wages to the shredded middle class, and to restore our voting rights?", 
-      "district": "PA_16", 
-      "created": "2013-08-09T11:10:07", 
-      "state": "PA", 
-      "iface": "timeline_vote", 
-      "y": 40.1085, 
-      "x": -76.5089, 
-      "id": 16271242, 
-      "question_id": "16172657"
     }
   ]
 });
