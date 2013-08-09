@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Cincinnati", 
+      "first_name": "Stacy", 
+      "last_name": "Smith", 
+      "user_id": 1619970, 
+      "submission": "My question is. We have discovered here in Cincinnati, Ohio that police officers were using the Police District as a place of residents but live outside city limits. This is a volition in state law and board of elections rules. What can be done in this situation? Thanks", 
+      "district": "OH_01", 
+      "created": "2013-08-09T11:43:49", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 39.1208, 
+      "x": -84.5437, 
+      "id": 16271487, 
+      "question_id": "16196576"
+    }, 
+    {
       "city": "Decatur", 
       "first_name": "Wilma", 
       "last_name": "Bondurant", 
       "user_id": 1807845, 
-      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
+      "submission": "Are you going to stand up to the NRA, to stop our young and innocent, from being murdered?", 
       "district": "IL_13", 
-      "created": "2013-08-09T11:42:53", 
+      "created": "2013-08-09T11:43:38", 
       "state": "IL", 
       "iface": "timeline_vote", 
       "y": 39.846, 
       "x": -88.9932, 
-      "id": 16271482, 
-      "question_id": "16175637"
+      "id": 16271486, 
+      "question_id": "16199637"
+    }, 
+    {
+      "city": "Williston", 
+      "first_name": "Michael", 
+      "last_name": "Lowe", 
+      "user_id": 654169, 
+      "submission": "Do you support the legalization of marijuana (which should be taxed & regulated like alcohol or tobacco)? If so, would you allow the release of nonviolent offenders from prison?", 
+      "district": "FL_03", 
+      "created": "2013-08-09T11:43:37", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 29.3881, 
+      "x": -82.4535, 
+      "id": 16271485, 
+      "question_id": "16172722"
     }, 
     {
       "city": "East Weymouth", 
@@ -270,36 +300,6 @@ opendebate.processTimeline({
       "x": -81.7611, 
       "id": 16271220, 
       "question_id": "16203866"
-    }, 
-    {
-      "city": "Amherst", 
-      "first_name": "James", 
-      "last_name": "Oldham", 
-      "user_id": 1173732, 
-      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
-      "district": "MA_02", 
-      "created": "2013-08-09T11:01:36", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3769, 
-      "x": -72.4691, 
-      "id": 16271162, 
-      "question_id": "16172755"
-    }, 
-    {
-      "city": "Sullivan", 
-      "first_name": "Marie Louise Morandi Long", 
-      "last_name": "Zwicker", 
-      "user_id": 163449, 
-      "submission": "Will you support a ban on hydrofracking for natural gas?", 
-      "district": "ME_02", 
-      "created": "2013-08-09T10:59:04", 
-      "state": "ME", 
-      "iface": "timeline_vote", 
-      "y": 44.5406, 
-      "x": -68.2436, 
-      "id": 16271132, 
-      "question_id": "16205951"
     }
   ]
 });
