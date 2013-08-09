@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Rockport", 
+      "first_name": "Lois", 
+      "last_name": "Brynes", 
+      "user_id": 49354, 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "district": "MA_06", 
+      "created": "2013-08-09T10:26:03", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.6587, 
+      "x": -70.6187, 
+      "id": 16270861, 
+      "question_id": "16172303"
+    }, 
+    {
+      "city": "Nashville", 
+      "first_name": "D. S.", 
+      "last_name": "Kinzie", 
+      "user_id": 88880, 
+      "submission": "Would you support the public's right to have GMO's labeled as such?", 
+      "district": "TN_05", 
+      "created": "2013-08-09T10:26:00", 
+      "state": "TN", 
+      "iface": "timeline_vote", 
+      "y": 36.1088, 
+      "x": -86.7806, 
+      "id": 16270860, 
+      "question_id": "16200693"
+    }, 
+    {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Will you vote against any proposal that supports the TarSands Keystone project?", 
+      "district": "MA_04", 
+      "created": "2013-08-09T10:25:44", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16270859, 
+      "question_id": "16199877"
+    }, 
+    {
       "city": "Golden", 
       "first_name": "LouAnne", 
       "last_name": "Dale", 
@@ -15,36 +60,6 @@ opendebate.processTimeline({
       "x": -105.251, 
       "id": 16270853, 
       "question_id": "16182966"
-    }, 
-    {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "What are your thoughts on how to stop corporate welfare, tax loopholes and subsidies.", 
-      "district": "MA_04", 
-      "created": "2013-08-09T10:24:40", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16270850, 
-      "question_id": "16206470"
-    }, 
-    {
-      "city": "Nashville", 
-      "first_name": "D. S.", 
-      "last_name": "Kinzie", 
-      "user_id": 88880, 
-      "submission": "Republican Governors and Republican Legislators have worked to limit voting rights for minorities, college students and the elderly. How can we ensure we don't have a repeat of the 2012 elections", 
-      "district": "TN_05", 
-      "created": "2013-08-09T10:22:59", 
-      "state": "TN", 
-      "iface": "timeline_vote", 
-      "y": 36.1088, 
-      "x": -86.7806, 
-      "id": 16270836, 
-      "question_id": "16264837"
     }, 
     {
       "city": "Seattle", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -122.789, 
       "id": 16270401, 
       "question_id": "16219940"
-    }, 
-    {
-      "city": "East Orange", 
-      "first_name": "Sunni", 
-      "last_name": "Ali", 
-      "user_id": 1678663, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "NJ_10", 
-      "created": "2013-08-09T09:39:17", 
-      "state": "NJ", 
-      "iface": "timeline_vote", 
-      "y": 40.772, 
-      "x": -74.2095, 
-      "id": 16270367, 
-      "question_id": "16172266"
     }
   ]
 });
