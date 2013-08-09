@@ -2,64 +2,79 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Boulder City", 
-      "first_name": "Dominique", 
-      "last_name": "Spurling", 
-      "user_id": 339493, 
-      "submission": "Will you support the ERA and women's rights to make their own health care decisions without government interference, even if it includes abortion?  If not, why not? ", 
-      "district": "NV_03", 
-      "created": "2013-08-09T07:30:00", 
-      "state": "NV", 
-      "iface": "timeline_vote", 
-      "y": 35.9778, 
-      "x": -114.836, 
-      "id": 16267906, 
-      "question_id": "16176653"
-    }, 
-    {
       "city": "Los Angeles", 
       "first_name": "Ellen", 
       "last_name": "Steens", 
       "user_id": 1782363, 
-      "submission": "The infrastructure of our nation is crumbling.  How would you propose we begin to correct the problem?", 
+      "submission": "How can we have a sustainable economy where no relief goes to the middle class nor to the very poor?", 
       "district": "CA_37", 
-      "created": "2013-08-09T07:29:57", 
+      "created": "2013-08-09T07:30:59", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 34.0277, 
       "x": -118.352, 
-      "id": 16267887, 
-      "question_id": "16246613"
+      "id": 16268177, 
+      "question_id": "16204677"
     }, 
     {
       "city": "Tryon", 
       "first_name": "Murlel", 
       "last_name": "Lunsford", 
       "user_id": 1656934, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
       "district": "NC_10", 
-      "created": "2013-08-09T07:29:52", 
+      "created": "2013-08-09T07:30:58", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.2172, 
       "x": -82.2262, 
-      "id": 16267865, 
-      "question_id": "16172533"
+      "id": 16268171, 
+      "question_id": "16203866"
+    }, 
+    {
+      "city": "Boulder City", 
+      "first_name": "Dominique", 
+      "last_name": "Spurling", 
+      "user_id": 339493, 
+      "submission": "How can Manning and Snowden be in trouble and Dick Chaney isn't in trouble for outing Valerie Plame?", 
+      "district": "NV_03", 
+      "created": "2013-08-09T07:30:47", 
+      "state": "NV", 
+      "iface": "timeline_vote", 
+      "y": 35.9778, 
+      "x": -114.836, 
+      "id": 16268123, 
+      "question_id": "16201620"
+    }, 
+    {
+      "city": "Walla Walla", 
+      "first_name": "Ron", 
+      "last_name": "Hendricks", 
+      "user_id": 1806853, 
+      "submission": "Why is it that Congress continues to get great health care and time off, yet those on the right, don't want the same for all Americans? What can and will you do, to advocate for the middle class and poor? ", 
+      "district": "WA_05", 
+      "created": "2013-08-09T07:30:46", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 46.0593, 
+      "x": -118.33, 
+      "id": 16268120, 
+      "question_id": "16267533"
     }, 
     {
       "city": "Redondo Beach", 
       "first_name": "Susie", 
       "last_name": "Carrington", 
       "user_id": 1678552, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
+      "submission": "Do you support the concept of keeping church and state separate?", 
       "district": "CA_33", 
-      "created": "2013-08-09T07:29:41", 
+      "created": "2013-08-09T07:30:37", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 33.8713, 
       "x": -118.372, 
-      "id": 16267811, 
-      "question_id": "16175740"
+      "id": 16268068, 
+      "question_id": "16173921"
     }, 
     {
       "city": "Medford", 
@@ -115,15 +130,15 @@ opendebate.processTimeline({
       "district": "CO_03", 
       "created": "2013-08-09T07:20:33", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "CO", 
       "iface": "timeline_question", 
       "y": 37.2758, 
       "x": -107.877, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-09T07:30:46", 
       "id": 16267533, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Durango", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "x": -122.562, 
       "id": 16267306, 
       "question_id": "16172765"
-    }, 
-    {
-      "city": "Long Beach", 
-      "first_name": "Wayne", 
-      "last_name": "Marchyshyn", 
-      "user_id": 343499, 
-      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
-      "district": "CA_47", 
-      "created": "2013-08-09T06:59:36", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 33.8276, 
-      "x": -118.179, 
-      "id": 16267292, 
-      "question_id": "16172207"
     }
   ]
 });
