@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
+      "submission": "Would you support a living wage law that would force corporations, like Wal-Mart, whose Walton family owns more wealth than 40% of all Americans, to pay  living wages to all of their workers?", 
       "district": "MA_04", 
-      "created": "2013-08-09T09:40:42", 
+      "created": "2013-08-09T09:41:40", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270373, 
-      "question_id": "16175230"
+      "id": 16270376, 
+      "question_id": "16210264"
     }, 
     {
       "city": "East Orange", 
