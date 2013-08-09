@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Princeton", 
+      "first_name": "Rose", 
+      "last_name": "Pancirov", 
+      "user_id": 1739708, 
+      "submission": "Would you work to end the \"revolving door\" in politics: where politicians are given lucrative jobs as lobbyists once they leave [cough] \"public service\"", 
+      "district": "NJ_12", 
+      "created": "2013-08-09T22:30:49", 
+      "state": "NJ", 
+      "iface": "timeline_vote", 
+      "y": 40.3675, 
+      "x": -74.6695, 
+      "id": 16287112, 
+      "question_id": "16217343"
+    }, 
+    {
       "city": "Detroit", 
       "first_name": "Daniel", 
       "last_name": "Sarasin", 
       "user_id": 1487238, 
-      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
+      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
       "district": "MI_13", 
-      "created": "2013-08-09T22:29:51", 
+      "created": "2013-08-09T22:30:40", 
       "state": "MI", 
       "iface": "timeline_vote", 
       "y": 42.3801, 
       "x": -83.0518, 
-      "id": 16287107, 
-      "question_id": "16180998"
+      "id": 16287111, 
+      "question_id": "16172583"
+    }, 
+    {
+      "city": "Daniel Island", 
+      "first_name": "FRANCIS", 
+      "last_name": "HENDERSON", 
+      "user_id": 401891, 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "district": "SC_01", 
+      "created": "2013-08-09T22:30:17", 
+      "state": "SC", 
+      "iface": "timeline_vote", 
+      "y": 32.9557, 
+      "x": -79.8873, 
+      "id": 16287109, 
+      "question_id": "16173259"
     }, 
     {
       "city": "Hillsville", 
@@ -30,21 +60,6 @@ opendebate.processTimeline({
       "x": -80.7368, 
       "id": 16287106, 
       "question_id": "16203866"
-    }, 
-    {
-      "city": "Daniel Island", 
-      "first_name": "FRANCIS", 
-      "last_name": "HENDERSON", 
-      "user_id": 401891, 
-      "submission": "Why have so few Wall Street CEOs been indicted for their part in the 2007 Economic Crash ?  Who has been protecting them ?", 
-      "district": "SC_01", 
-      "created": "2013-08-09T22:29:44", 
-      "state": "SC", 
-      "iface": "timeline_vote", 
-      "y": 32.9557, 
-      "x": -79.8873, 
-      "id": 16287105, 
-      "question_id": "16205046"
     }, 
     {
       "city": "Fountain Hills", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -116.463, 
       "id": 16286752, 
       "question_id": "16173259"
-    }, 
-    {
-      "city": "Columbia", 
-      "first_name": "Robert", 
-      "last_name": "Cassady", 
-      "user_id": 185360, 
-      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
-      "district": "TN_07", 
-      "created": "2013-08-09T21:47:06", 
-      "state": "TN", 
-      "iface": "timeline_vote", 
-      "y": 35.6099, 
-      "x": -87.0489, 
-      "id": 16286746, 
-      "question_id": "16172731"
     }
   ]
 });
