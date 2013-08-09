@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Victoria", 
       "last_name": "Scott", 
       "user_id": 1708295, 
-      "submission": "What would you do to end the SCOTUS ruling Citizens United & how will you stop the GOP led states enacting extremist voter suppresion?", 
+      "submission": "What steps are you taking to overturn Citizens United?", 
       "district": "NM_03", 
-      "created": "2013-08-09T08:32:26", 
+      "created": "2013-08-09T08:34:00", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 35.6768, 
       "x": -105.958, 
-      "id": 16269936, 
-      "question_id": "16207073"
+      "id": 16269950, 
+      "question_id": "16237280"
     }, 
     {
       "city": "Tryon", 
@@ -194,15 +194,15 @@ opendebate.processTimeline({
       "district": "NV_03", 
       "created": "2013-08-09T07:59:15", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 2, 
       "district_votes": 0, 
       "state": "NV", 
       "iface": "timeline_question", 
       "y": 36.0401, 
       "x": -115.077, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-09T08:33:09", 
       "id": 16269603, 
-      "trending_score": 0.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Riverside", 
