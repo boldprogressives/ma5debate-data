@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Christiane", 
       "last_name": "Pors", 
       "user_id": 1785709, 
-      "submission": "Will you work to reinstate the Glass-Steagall Act to insure that the Wall Street banks behave in a more responsible manner?", 
+      "submission": "How will you stand up against the Keystone XL pipeline and the lies told to the American people about it creating jobs, lowering the cost of gas, and decreasing dependency on Middle Eastern oil?", 
       "district": "NY_10", 
-      "created": "2013-08-09T08:59:29", 
+      "created": "2013-08-09T09:00:56", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7773, 
       "x": -73.9825, 
-      "id": 16270057, 
-      "question_id": "16256690"
+      "id": 16270060, 
+      "question_id": "16181945"
     }, 
     {
       "city": "Fort Worth", 
