@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Vera", 
       "last_name": "Morgan", 
       "user_id": 1012008, 
-      "submission": "What is your position on the Keystone XL pipeline and on fracking? Specifically what would you do to stop climate change and move to renewable energy?", 
+      "submission": "The Occupy movement was an outcry against the takeover of America by the Wall Street plutocracy.  What will you do to advance this cause of taking back our democracy and our government from Big Money?", 
       "district": "NC_04", 
-      "created": "2013-08-09T12:47:57", 
+      "created": "2013-08-09T12:49:04", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.0577, 
       "x": -79.0035, 
-      "id": 16272331, 
-      "question_id": "16207584"
+      "id": 16272341, 
+      "question_id": "16206953"
     }, 
     {
       "city": "Lock Haven", 
