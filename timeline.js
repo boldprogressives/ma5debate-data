@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Clermont", 
+      "first_name": "Hector", 
+      "last_name": "Allen", 
+      "user_id": 1809540, 
+      "submission": "The threat that hangs over the country today is a GOP determined to destroy the middle class and the values that define it.  What specific steps will you recommend to confront, not appease, the GOP?", 
+      "district": "FL_10", 
+      "created": "2013-08-09T09:54:00", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 28.5359, 
+      "x": -81.7638, 
+      "id": 16270450, 
+      "question_id": "16172694"
+    }, 
+    {
+      "city": "Clayton", 
+      "first_name": "Vicki", 
+      "last_name": "Thompson", 
+      "user_id": 1796286, 
+      "submission": "What, specifically, would you do to protect the right to vote for all? Please address specifically a new Voting Rights Act and the concept of a paper ballot that can be verified by the voter.", 
+      "district": "NC_07", 
+      "created": "2013-08-09T09:53:59", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.6363, 
+      "x": -78.4448, 
+      "id": 16270449, 
+      "question_id": "16207107"
+    }, 
+    {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Congress persons have voted to put themselves in the driver's seat when it comes to their salaries. They vote themselves raises and we as citizens cannot over turn. What will you do to stop this practice?", 
+      "district": "MA_04", 
+      "created": "2013-08-09T09:53:40", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16270446, 
+      "question_id": "16173244"
+    }, 
+    {
       "city": "Tampa", 
       "first_name": "DeRoy", 
       "last_name": "Nunoo", 
@@ -15,21 +60,6 @@ opendebate.processTimeline({
       "x": -82.3639, 
       "id": 16270440, 
       "question_id": "16185364"
-    }, 
-    {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "What will you do about gun control and the scare tactics/bullying by the NRA and gun lobbyists?  How will you approach the Right's program of 'divisiveness and culture of fear' that now rips us apart?", 
-      "district": "MA_04", 
-      "created": "2013-08-09T09:52:32", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16270438, 
-      "question_id": "16176673"
     }, 
     {
       "city": "Eugene", 
@@ -290,36 +320,6 @@ opendebate.processTimeline({
       "x": -89.7912, 
       "id": 16270205, 
       "question_id": "16172281"
-    }, 
-    {
-      "city": "New York", 
-      "first_name": "Christiane", 
-      "last_name": "Pors", 
-      "user_id": 1785709, 
-      "submission": "What will you do about gun control and the scare tactics/bullying by the NRA and gun lobbyists?  How will you approach the Right's program of 'divisiveness and culture of fear' that now rips us apart?", 
-      "district": "NY_10", 
-      "created": "2013-08-09T09:16:18", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.7773, 
-      "x": -73.9825, 
-      "id": 16270133, 
-      "question_id": "16176673"
-    }, 
-    {
-      "city": "Briarcliff Manor", 
-      "first_name": "Harvey", 
-      "last_name": "Berman", 
-      "user_id": 174153, 
-      "submission": "What will you do to get the US government to stop lying about the medical values of marijuana and suppressing our right to control our own bodies?", 
-      "district": "NY_17", 
-      "created": "2013-08-09T09:12:25", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 41.1457, 
-      "x": -73.8337, 
-      "id": 16270123, 
-      "question_id": "16183803"
     }
   ]
 });
