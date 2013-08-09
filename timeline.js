@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Daniel", 
       "last_name": "Sarasin", 
       "user_id": 1487238, 
-      "submission": "Will you support a Whistleblowers Act that will allow for transparency  in our Government and the NSA with immunity to prosecution?", 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
       "district": "MI_13", 
-      "created": "2013-08-09T22:35:59", 
+      "created": "2013-08-09T22:37:24", 
       "state": "MI", 
       "iface": "timeline_vote", 
       "y": 42.3801, 
       "x": -83.0518, 
-      "id": 16287141, 
-      "question_id": "16203822"
+      "id": 16287145, 
+      "question_id": "16172533"
     }, 
     {
       "city": "Newton", 
