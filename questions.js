@@ -797,7 +797,7 @@ opendebate.processFetchedQuestions({
       "x": -85.5463, 
       "latest_vote": "2013-08-09T13:36:40", 
       "id": 16266093, 
-      "trending_score": 3.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Eugene", 
@@ -816,7 +816,7 @@ opendebate.processFetchedQuestions({
       "x": -123.128, 
       "latest_vote": "2013-08-09T11:59:07", 
       "id": 16266021, 
-      "trending_score": 3.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Eugene", 
@@ -835,7 +835,7 @@ opendebate.processFetchedQuestions({
       "x": -123.128, 
       "latest_vote": "2013-08-09T11:35:09", 
       "id": 16266004, 
-      "trending_score": 3.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Santa Maria", 
@@ -1082,7 +1082,7 @@ opendebate.processFetchedQuestions({
       "x": -122.811, 
       "latest_vote": "2013-08-09T13:22:17", 
       "id": 16262538, 
-      "trending_score": 6.0
+      "trending_score": 10.25
     }, 
     {
       "city": "Cerritos", 
@@ -2165,7 +2165,7 @@ opendebate.processFetchedQuestions({
       "x": -115.194, 
       "latest_vote": "2013-08-09T10:30:57", 
       "id": 16250081, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Bremerton", 
@@ -3951,7 +3951,7 @@ opendebate.processFetchedQuestions({
       "x": -109.946, 
       "latest_vote": "2013-08-09T13:25:16", 
       "id": 16238957, 
-      "trending_score": 3.5
+      "trending_score": 5.25
     }, 
     {
       "city": "Berea", 
@@ -8996,16 +8996,16 @@ opendebate.processFetchedQuestions({
       "submission": "Many American workers were promised ssn at 65.That promised was broken by a scam financed by the Koch brotherz.Will you support restoring retirement age to 65 and removing the cap on contributions?The rich should pay the same % of their income + capital gains, as the rest of us.", 
       "district": "FL_06", 
       "created": "2013-08-07T16:13:58", 
-      "state_votes": 5, 
-      "votes": 10, 
-      "district_votes": 0, 
+      "state_votes": 6, 
+      "votes": 11, 
+      "district_votes": 1, 
       "state": "FL", 
       "iface": "question", 
       "y": 29.2364, 
       "x": -81.0578, 
-      "latest_vote": "2013-08-09T10:50:16", 
+      "latest_vote": "2013-08-09T14:08:24", 
       "id": 16217696, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Lexington", 
@@ -12511,16 +12511,16 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do about cuts to Social Security and Medicare benefits?", 
       "district": "VA_10", 
       "created": "2013-08-06T22:27:00", 
-      "state_votes": 5, 
-      "votes": 38, 
-      "district_votes": 1, 
+      "state_votes": 6, 
+      "votes": 39, 
+      "district_votes": 2, 
       "state": "VA", 
       "iface": "question", 
       "y": 39.1657, 
       "x": -78.1486, 
-      "latest_vote": "2013-08-08T17:26:51", 
+      "latest_vote": "2013-08-09T14:08:08", 
       "id": 16208033, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Pompano Beach", 
@@ -13043,16 +13043,16 @@ opendebate.processFetchedQuestions({
       "submission": "The centennial of the creation of our National Park System is just three years away, yet our parks are starved for funds and understaffed. What will you do to change this situation?", 
       "district": "NY_20", 
       "created": "2013-08-06T21:32:05", 
-      "state_votes": 5, 
-      "votes": 34, 
-      "district_votes": 3, 
+      "state_votes": 6, 
+      "votes": 35, 
+      "district_votes": 4, 
       "state": "NY", 
       "iface": "question", 
       "y": 43.076, 
       "x": -73.7748, 
-      "latest_vote": "2013-08-09T12:55:06", 
+      "latest_vote": "2013-08-09T14:08:01", 
       "id": 16206023, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "San Mateo", 
@@ -15750,7 +15750,7 @@ opendebate.processFetchedQuestions({
       "x": -71.5469, 
       "latest_vote": "2013-08-09T08:09:22", 
       "id": 16194075, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Stamford", 
@@ -15826,7 +15826,7 @@ opendebate.processFetchedQuestions({
       "x": -71.5469, 
       "latest_vote": "2013-08-09T10:55:24", 
       "id": 16193980, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Marlborough", 
@@ -21108,7 +21108,7 @@ opendebate.processFetchedQuestions({
       "x": -73.0744, 
       "latest_vote": "2013-08-09T13:31:54", 
       "id": 16180815, 
-      "trending_score": 1.5
+      "trending_score": 1.1666666666666665
     }, 
     {
       "city": "Los Angeles", 
@@ -24368,15 +24368,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_08", 
       "created": "2013-08-05T01:44:45", 
       "state_votes": 83, 
-      "votes": 922, 
+      "votes": 923, 
       "district_votes": 32, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.174, 
       "x": -87.9643, 
-      "latest_vote": "2013-08-09T14:08:00", 
+      "latest_vote": "2013-08-09T14:08:33", 
       "id": 16175740, 
-      "trending_score": 60.25
+      "trending_score": 61.25
     }, 
     {
       "city": "Buffalo Grove", 
@@ -24614,16 +24614,16 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do SPECIFICALLY about women's issues: reproductive rights, equal pay, violence against women, military violence against women, family caregiving, etc. etc. etc.?", 
       "district": "WA_02", 
       "created": "2013-08-05T00:30:33", 
-      "state_votes": 6, 
-      "votes": 41, 
-      "district_votes": 1, 
+      "state_votes": 7, 
+      "votes": 42, 
+      "district_votes": 2, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.7918, 
       "x": -122.304, 
-      "latest_vote": "2013-08-09T12:22:00", 
+      "latest_vote": "2013-08-09T14:08:56", 
       "id": 16175552, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Fort Atkinson", 
@@ -24680,7 +24680,7 @@ opendebate.processFetchedQuestions({
       "x": -122.322, 
       "latest_vote": "2013-08-09T13:30:31", 
       "id": 16175493, 
-      "trending_score": 13.0
+      "trending_score": 25.166666666666668
     }, 
     {
       "city": "Seattle", 
@@ -24965,7 +24965,7 @@ opendebate.processFetchedQuestions({
       "x": -105.213, 
       "latest_vote": "2013-08-09T12:53:05", 
       "id": 16175112, 
-      "trending_score": 2.0
+      "trending_score": 2.25
     }, 
     {
       "city": "Salt Lake City", 
@@ -26648,15 +26648,15 @@ opendebate.processFetchedQuestions({
       "district": "TN_02", 
       "created": "2013-08-04T02:07:32", 
       "state_votes": 133, 
-      "votes": 961, 
+      "votes": 963, 
       "district_votes": 31, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.8311, 
       "x": -84.0482, 
-      "latest_vote": "2013-08-09T14:03:53", 
+      "latest_vote": "2013-08-09T14:08:53", 
       "id": 16173335, 
-      "trending_score": 51.25
+      "trending_score": 53.25
     }, 
     {
       "city": "Evansville", 
@@ -26751,7 +26751,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9488, 
       "latest_vote": "2013-08-09T13:47:29", 
       "id": 16173320, 
-      "trending_score": 10.75
+      "trending_score": 11.5
     }, 
     {
       "city": "Bensenville", 
@@ -26932,16 +26932,16 @@ opendebate.processFetchedQuestions({
       "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
       "district": "TX_03", 
       "created": "2013-08-04T01:25:59", 
-      "state_votes": 227, 
-      "votes": 1471, 
+      "state_votes": 228, 
+      "votes": 1472, 
       "district_votes": 70, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-09T14:03:47", 
+      "latest_vote": "2013-08-09T14:08:13", 
       "id": 16173264, 
-      "trending_score": 13.65
+      "trending_score": 13.85
     }, 
     {
       "city": "Prosper", 
@@ -26952,15 +26952,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:22:04", 
       "state_votes": 144, 
-      "votes": 959, 
+      "votes": 961, 
       "district_votes": 35, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-09T13:56:03", 
+      "latest_vote": "2013-08-09T14:08:58", 
       "id": 16173259, 
-      "trending_score": 44.25
+      "trending_score": 46.25
     }, 
     {
       "city": "Manitowoc", 
@@ -27160,16 +27160,16 @@ opendebate.processFetchedQuestions({
       "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
       "district": "TX_10", 
       "created": "2013-08-04T00:59:23", 
-      "state_votes": 176, 
-      "votes": 1160, 
+      "state_votes": 177, 
+      "votes": 1162, 
       "district_votes": 44, 
       "state": "TX", 
       "iface": "question", 
       "y": 30.3972, 
       "x": -97.7518, 
-      "latest_vote": "2013-08-09T14:05:24", 
+      "latest_vote": "2013-08-09T14:08:59", 
       "id": 16173210, 
-      "trending_score": 46.25
+      "trending_score": 48.25
     }, 
     {
       "city": "Cottonwood", 
@@ -27692,16 +27692,16 @@ opendebate.processFetchedQuestions({
       "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
       "district": "MT_01", 
       "created": "2013-08-03T23:23:07", 
-      "state_votes": 170, 
-      "votes": 1112, 
+      "state_votes": 171, 
+      "votes": 1115, 
       "district_votes": 45, 
       "state": "MT", 
       "iface": "question", 
       "y": 48.2112, 
       "x": -114.294, 
-      "latest_vote": "2013-08-09T14:03:03", 
+      "latest_vote": "2013-08-09T14:09:03", 
       "id": 16172913, 
-      "trending_score": 41.25
+      "trending_score": 44.25
     }, 
     {
       "city": "Montegut", 
@@ -28035,15 +28035,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:21:20", 
       "state_votes": 117, 
-      "votes": 922, 
+      "votes": 923, 
       "district_votes": 25, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.5746, 
       "x": -122.811, 
-      "latest_vote": "2013-08-09T14:04:30", 
+      "latest_vote": "2013-08-09T14:08:48", 
       "id": 16172731, 
-      "trending_score": 38.5
+      "trending_score": 39.5
     }, 
     {
       "city": "Chicago", 
@@ -28053,16 +28053,16 @@ opendebate.processFetchedQuestions({
       "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
       "district": "IL_02", 
       "created": "2013-08-03T22:20:39", 
-      "state_votes": 164, 
-      "votes": 1352, 
+      "state_votes": 165, 
+      "votes": 1353, 
       "district_votes": 42, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.7162, 
       "x": -87.5544, 
-      "latest_vote": "2013-08-09T14:05:45", 
+      "latest_vote": "2013-08-09T14:08:23", 
       "id": 16172727, 
-      "trending_score": 20.083333333333332
+      "trending_score": 20.416666666666668
     }, 
     {
       "city": "Waldport", 
@@ -28168,15 +28168,15 @@ opendebate.processFetchedQuestions({
       "district": "ID_02", 
       "created": "2013-08-03T22:11:15", 
       "state_votes": 89, 
-      "votes": 714, 
+      "votes": 715, 
       "district_votes": 22, 
       "state": "ID", 
       "iface": "question", 
       "y": 43.6302, 
       "x": -116.297, 
-      "latest_vote": "2013-08-09T14:05:10", 
+      "latest_vote": "2013-08-09T14:09:05", 
       "id": 16172697, 
-      "trending_score": 24.0
+      "trending_score": 24.5
     }, 
     {
       "city": "Holts Summit", 
@@ -28567,15 +28567,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T20:45:26", 
       "state_votes": 195, 
-      "votes": 1166, 
+      "votes": 1167, 
       "district_votes": 53, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-09T14:03:47", 
+      "latest_vote": "2013-08-09T14:08:35", 
       "id": 16172533, 
-      "trending_score": 40.166666666666664
+      "trending_score": 41.166666666666664
     }, 
     {
       "city": "Medford", 
@@ -28624,15 +28624,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:52:54", 
       "state_votes": 163, 
-      "votes": 964, 
+      "votes": 965, 
       "district_votes": 44, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4207, 
       "x": -71.1582, 
-      "latest_vote": "2013-08-09T14:04:12", 
+      "latest_vote": "2013-08-09T14:08:38", 
       "id": 16172303, 
-      "trending_score": 39.25
+      "trending_score": 40.25
     }, 
     {
       "city": "Arlington", 
@@ -28765,7 +28765,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-09T14:07:59", 
       "id": 16172266, 
-      "trending_score": 9.833333333333334
+      "trending_score": 8.38888888888889
     }, 
     {
       "city": "Cambridge", 

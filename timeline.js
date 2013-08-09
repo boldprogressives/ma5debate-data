@@ -6,30 +6,45 @@ opendebate.processTimeline({
       "first_name": "Mary", 
       "last_name": "Webb", 
       "user_id": 1783551, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
+      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
       "district": "OH_15", 
-      "created": "2013-08-09T14:08:00", 
+      "created": "2013-08-09T14:09:05", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 39.601, 
       "x": -83.1221, 
-      "id": 16275233, 
-      "question_id": "16175740"
+      "id": 16275256, 
+      "question_id": "16172697"
+    }, 
+    {
+      "city": "Antioch", 
+      "first_name": "Charles", 
+      "last_name": "Richard Jr.", 
+      "user_id": 1702056, 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "district": "CA_11", 
+      "created": "2013-08-09T14:09:03", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 37.9952, 
+      "x": -121.804, 
+      "id": 16275255, 
+      "question_id": "16172913"
     }, 
     {
       "city": "West Newton", 
       "first_name": "Mgax", 
       "last_name": "Cangiano", 
       "user_id": 1807109, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
       "district": "MA_04", 
-      "created": "2013-08-09T14:07:59", 
+      "created": "2013-08-09T14:08:52", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3489, 
       "x": -71.2256, 
-      "id": 16275232, 
-      "question_id": "16172266"
+      "id": 16275250, 
+      "question_id": "16172913"
     }, 
     {
       "city": "Gwynn Oak", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -122.568, 
       "id": 16274721, 
       "question_id": "16217681"
-    }, 
-    {
-      "city": "East Lansing", 
-      "first_name": "Matthew", 
-      "last_name": "Jacobson", 
-      "user_id": 1722359, 
-      "submission": "Do you support the concept of keeping church and state separate?", 
-      "district": "MI_08", 
-      "created": "2013-08-09T13:53:20", 
-      "state": "MI", 
-      "iface": "timeline_vote", 
-      "y": 42.7454, 
-      "x": -84.4706, 
-      "id": 16274687, 
-      "question_id": "16173921"
     }
   ]
 });
