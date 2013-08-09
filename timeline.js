@@ -6,15 +6,60 @@ opendebate.processTimeline({
       "first_name": "Maudie", 
       "last_name": "Reed", 
       "user_id": 1669252, 
-      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
       "district": "OK_01", 
-      "created": "2013-08-09T16:18:02", 
+      "created": "2013-08-09T16:18:52", 
       "state": "OK", 
       "iface": "timeline_vote", 
       "y": 36.1864, 
       "x": -95.9843, 
-      "id": 16279047, 
-      "question_id": "16175634"
+      "id": 16279098, 
+      "question_id": "16173259"
+    }, 
+    {
+      "city": "San Luis Obispo", 
+      "first_name": "cleo", 
+      "last_name": "smith", 
+      "user_id": 1120582, 
+      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
+      "district": "CA_24", 
+      "created": "2013-08-09T16:18:49", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 35.2595, 
+      "x": -120.653, 
+      "id": 16279085, 
+      "question_id": "16172731"
+    }, 
+    {
+      "city": "Madison", 
+      "first_name": "Jose", 
+      "last_name": "DelaCruz", 
+      "user_id": 1677998, 
+      "submission": "The drug war and the prison industry has destroyed many lives -- especially of low income and minority citizens. As a first step, marijuana needs to be legalized nation-wide. What will you do toward that end?", 
+      "district": "WI_02", 
+      "created": "2013-08-09T16:18:35", 
+      "state": "WI", 
+      "iface": "timeline_vote", 
+      "y": 43.0751, 
+      "x": -89.4599, 
+      "id": 16279056, 
+      "question_id": "16173418"
+    }, 
+    {
+      "city": "Glendale", 
+      "first_name": "Jeanette", 
+      "last_name": "Weis", 
+      "user_id": 89414, 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "district": "AZ_08", 
+      "created": "2013-08-09T16:18:30", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 33.5683, 
+      "x": -112.178, 
+      "id": 16279052, 
+      "question_id": "16172533"
     }, 
     {
       "city": "Jamaica Plain", 
@@ -30,36 +75,6 @@ opendebate.processTimeline({
       "x": -71.1305, 
       "id": 16279040, 
       "question_id": "16208488"
-    }, 
-    {
-      "city": "Glendale", 
-      "first_name": "Jeanette", 
-      "last_name": "Weis", 
-      "user_id": 89414, 
-      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
-      "district": "AZ_08", 
-      "created": "2013-08-09T16:17:47", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 33.5683, 
-      "x": -112.178, 
-      "id": 16279039, 
-      "question_id": "16202059"
-    }, 
-    {
-      "city": "Madison", 
-      "first_name": "Jose", 
-      "last_name": "DelaCruz", 
-      "user_id": 1677998, 
-      "submission": "Why are so many countries banning GMO foods but the US refuses to do so? Why aren't they required to label them as such? ", 
-      "district": "WI_02", 
-      "created": "2013-08-09T16:17:36", 
-      "state": "WI", 
-      "iface": "timeline_vote", 
-      "y": 43.0751, 
-      "x": -89.4599, 
-      "id": 16279029, 
-      "question_id": "16205646"
     }, 
     {
       "city": "Newtown Square", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -80.1195, 
       "id": 16278304, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Mill Valley", 
-      "first_name": "Elanor", 
-      "last_name": "Cherier", 
-      "user_id": 1743911, 
-      "submission": "What are you doing to ensure that all residents have access to a living wage and to help create jobs for those still looking for work, five years after the Great Recession and the weak recovery?", 
-      "district": "CA_02", 
-      "created": "2013-08-09T15:52:58", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 37.8903, 
-      "x": -122.568, 
-      "id": 16278288, 
-      "question_id": "16201159"
     }
   ]
 });
