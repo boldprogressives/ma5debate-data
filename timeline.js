@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Kansas City", 
-      "first_name": "Sandra", 
-      "last_name": "Singleton", 
-      "user_id": 578766, 
-      "submission": "Will you fight to squash the \"Holder Doctrine\" that says we cannot prosecute the Too Big To Jail Banks, such that we can finally send the money launderers who have bankrupt our people to jail?", 
-      "district": "MO_06", 
-      "created": "2013-08-09T21:42:55", 
-      "state": "MO", 
-      "iface": "timeline_vote", 
-      "y": 39.2158, 
-      "x": -94.5728, 
-      "id": 16286700, 
-      "question_id": "16276231"
-    }, 
-    {
       "city": "Cathedral City", 
       "first_name": "Sam", 
       "last_name": "Massarella", 
       "user_id": 714003, 
-      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
       "district": "CA_36", 
-      "created": "2013-08-09T21:42:50", 
+      "created": "2013-08-09T21:43:57", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 33.8225, 
       "x": -116.463, 
-      "id": 16286699, 
-      "question_id": "16172697"
+      "id": 16286707, 
+      "question_id": "16172533"
+    }, 
+    {
+      "city": "Kansas City", 
+      "first_name": "Sandra", 
+      "last_name": "Singleton", 
+      "user_id": 578766, 
+      "submission": "Will you help quell terrorism by not bolstering autocratic elitist rulers in the middle east?", 
+      "district": "MO_06", 
+      "created": "2013-08-09T21:43:51", 
+      "state": "MO", 
+      "iface": "timeline_vote", 
+      "y": 39.2158, 
+      "x": -94.5728, 
+      "id": 16286706, 
+      "question_id": "16212504"
     }, 
     {
       "city": "Rancho Santa Margarita", 
