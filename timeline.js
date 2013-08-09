@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "SCOTTSDALE", 
+      "first_name": "JAMES", 
+      "last_name": "GIEBELHAUS", 
+      "user_id": 505239, 
+      "submission": "Where do you stand with regard to GMO labeling. Is it our right as citizens to have complete transparency with regard to the foods we choose to eat. ", 
+      "district": "AZ_09", 
+      "created": "2013-08-09T22:16:01", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 33.4667, 
+      "x": -111.918, 
+      "id": 16286989, 
+      "question_id": "16178048"
+    }, 
+    {
+      "city": "Daniel Island", 
+      "first_name": "FRANCIS", 
+      "last_name": "HENDERSON", 
+      "user_id": 401891, 
+      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
+      "district": "SC_01", 
+      "created": "2013-08-09T22:15:26", 
+      "state": "SC", 
+      "iface": "timeline_vote", 
+      "y": 32.9557, 
+      "x": -79.8873, 
+      "id": 16286983, 
+      "question_id": "16203676"
+    }, 
+    {
       "city": "Fountain Hills", 
       "first_name": "Day", 
       "last_name": "Jolliff", 
@@ -274,36 +304,6 @@ opendebate.processTimeline({
       "x": -99.16, 
       "id": 16286405, 
       "question_id": "16203676"
-    }, 
-    {
-      "city": "Urbandale", 
-      "first_name": "Richard", 
-      "last_name": "Firkins", 
-      "user_id": 1685662, 
-      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
-      "district": "IA_03", 
-      "created": "2013-08-09T21:34:44", 
-      "state": "IA", 
-      "iface": "timeline_vote", 
-      "y": 41.6293, 
-      "x": -93.732, 
-      "id": 16286383, 
-      "question_id": "16203866"
-    }, 
-    {
-      "city": "Aumsville", 
-      "first_name": "John", 
-      "last_name": "Taggart", 
-      "user_id": 1769714, 
-      "submission": "Would you support the proposition that Big Oil should help to fund the veterans rehab issues, and their benefits since they were sent to fight for their safe access to oil.", 
-      "district": "OR_05", 
-      "created": "2013-08-09T21:34:17", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 44.8388, 
-      "x": -122.859, 
-      "id": 16286284, 
-      "question_id": "16173438"
     }
   ]
 });
