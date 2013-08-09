@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "San Diego", 
-      "first_name": "IRMA", 
-      "last_name": "CAMARILLO", 
-      "user_id": 226704, 
-      "submission": "Hunger and the threat of hunger are very real for millions of Americans. What legislation would you propose to protect the SNAP Program?", 
-      "district": "CA_53", 
-      "created": "2013-08-09T08:09:34", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 32.6757, 
-      "x": -117.05, 
-      "id": 16269679, 
-      "question_id": "16188108"
-    }, 
-    {
       "city": "New York", 
       "first_name": "Marcus", 
       "last_name": "Adams", 
       "user_id": 526656, 
-      "submission": "Access to a quality education and affordable healthcare are two of the key components that have paved the road to income equality.  These same two key components have all but been eliminated over the past few decades.  Specifically, how do you plan on changing this.", 
+      "submission": "In the talk about government spending, there has been discussion about entitlements, but very little discussion about corporate welfare. Examples of corporate welfare include profitable companies such GE paying no federal income taxes, or corporations not paying taxes on profits made overseas. Would you support and work to eliminate all corporate welfare?", 
       "district": "NY_10", 
-      "created": "2013-08-09T08:09:30", 
+      "created": "2013-08-09T08:10:55", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7243, 
       "x": -73.9961, 
-      "id": 16269678, 
-      "question_id": "16249998"
+      "id": 16269687, 
+      "question_id": "16249133"
+    }, 
+    {
+      "city": "Newport Beach", 
+      "first_name": "delone", 
+      "last_name": "green", 
+      "user_id": 1130825, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "CA_48", 
+      "created": "2013-08-09T08:10:51", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 33.621, 
+      "x": -117.932, 
+      "id": 16269686, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "San Diego", 
+      "first_name": "IRMA", 
+      "last_name": "CAMARILLO", 
+      "user_id": 226704, 
+      "submission": "ALEC is taking over state legislation in republican states.  Will you keep constituents informed as to members of ALEC in the state governments?", 
+      "district": "CA_53", 
+      "created": "2013-08-09T08:10:27", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 32.6757, 
+      "x": -117.05, 
+      "id": 16269683, 
+      "question_id": "16173111"
     }, 
     {
       "city": "Tryon", 
       "first_name": "Murlel", 
       "last_name": "Lunsford", 
       "user_id": 1656934, 
-      "submission": "Why doesn't congressional pay get cut with the sequester cuts - that are hurting Americans?", 
+      "submission": "Currently campaign finance laws allow money to dictate elections & future decisions by the elected. Would you suppor a bill that publicly funds campaigns w/ free advertising for all candidates", 
       "district": "NC_10", 
-      "created": "2013-08-09T08:06:45", 
+      "created": "2013-08-09T08:10:07", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.2172, 
       "x": -82.2262, 
-      "id": 16269665, 
-      "question_id": "16256438"
+      "id": 16269681, 
+      "question_id": "16213319"
     }, 
     {
       "city": "Keaau", 
@@ -305,25 +320,6 @@ opendebate.processTimeline({
       "latest_vote": "2013-08-09T07:30:46", 
       "id": 16267533, 
       "trending_score": 1.5
-    }, 
-    {
-      "city": "Durango", 
-      "first_name": "shauna", 
-      "last_name": "urban", 
-      "user_id": 1675213, 
-      "submission": "What is your stance on the XL pipeline and how will you do to help bring climate awareness to those who don't believe it's a problem?", 
-      "district": "CO_03", 
-      "created": "2013-08-09T07:18:00", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "CO", 
-      "iface": "timeline_question", 
-      "y": 37.2758, 
-      "x": -107.877, 
-      "latest_vote": null, 
-      "id": 16267518, 
-      "trending_score": 0.5
     }
   ]
 });
