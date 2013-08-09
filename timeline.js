@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "Would you support single-payer health reform to provide coverage to all and reduction in costs?", 
-      "district": "MA_04", 
-      "created": "2013-08-09T11:14:00", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16271274, 
-      "question_id": "16210738"
-    }, 
-    {
       "city": "Delray Beach", 
       "first_name": "Heddy", 
       "last_name": "Schlckman", 
       "user_id": 1781127, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "submission": "do you support a min wage increase", 
       "district": "FL_22", 
-      "created": "2013-08-09T11:13:57", 
+      "created": "2013-08-09T11:14:52", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 26.4576, 
       "x": -80.1352, 
-      "id": 16271273, 
-      "question_id": "16172533"
+      "id": 16271285, 
+      "question_id": "16173625"
+    }, 
+    {
+      "city": "Green Bay", 
+      "first_name": "Mark", 
+      "last_name": "Cherney", 
+      "user_id": 1707649, 
+      "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
+      "district": "WI_08", 
+      "created": "2013-08-09T11:14:42", 
+      "state": "WI", 
+      "iface": "timeline_vote", 
+      "y": 44.4935, 
+      "x": -87.9285, 
+      "id": 16271284, 
+      "question_id": "16173320"
+    }, 
+    {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Will you commit to sponsoring and voting for legislation requiring MANDATORY public financing of campaigns for elected office, and if not, why not?", 
+      "district": "MA_04", 
+      "created": "2013-08-09T11:14:39", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16271282, 
+      "question_id": "16208142"
     }, 
     {
       "city": "Nashville", 
       "first_name": "D. S.", 
       "last_name": "Kinzie", 
       "user_id": 88880, 
-      "submission": "Why are we the only nation with over a 1000, mostly unwanted, foreign military bases? Russia has 1, China not much more. Considering our health & edu rankings, isn't there a better place for those $? ", 
+      "submission": "Outlaw the use of \"Private Defense Contractors\". They a nothing more than mercenaries, and as such, are not beholden to the laws and restraints that keep the public safe from official law enforcement.", 
       "district": "TN_05", 
-      "created": "2013-08-09T11:13:41", 
+      "created": "2013-08-09T11:14:26", 
       "state": "TN", 
       "iface": "timeline_vote", 
       "y": 36.1088, 
       "x": -86.7806, 
-      "id": 16271272, 
-      "question_id": "16221818"
+      "id": 16271280, 
+      "question_id": "16194273"
     }, 
     {
       "city": "Mount Joy", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -70.6187, 
       "id": 16270861, 
       "question_id": "16172303"
-    }, 
-    {
-      "city": "Seattle", 
-      "first_name": "john", 
-      "last_name": "guros", 
-      "user_id": 1707018, 
-      "submission": "Why is it that Halliburton only gets a $200K fine for destroying evidence concerning the Gulf oil spill when if you make a copy of a DVD you get a $250K fine and up to 5 years in prison?", 
-      "district": "WA_09", 
-      "created": "2013-08-09T10:19:57", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 47.4051, 
-      "x": -122.31, 
-      "id": 16270809, 
-      "question_id": "16175493"
     }
   ]
 });
