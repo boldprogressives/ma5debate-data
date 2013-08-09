@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "What will you do to get the US government to stop lying about the medical values of marijuana and suppressing our right to control our own bodies?", 
+      "submission": "Do elected Republicans in Congress do more damage to America than any, \"Terrorist\" effort could ever hope to achieve?", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:11:57", 
+      "created": "2013-08-09T21:12:55", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286032, 
-      "question_id": "16183803"
+      "id": 16286039, 
+      "question_id": "16229458"
+    }, 
+    {
+      "city": "SEDONA", 
+      "first_name": "JAY", 
+      "last_name": "MACKEY", 
+      "user_id": 1402810, 
+      "submission": "Will you vote to end tax loopholes for the rich, big business subsides, overseas corporate tax loopholes, wasteful wars, foreign country subsides, quality health care for all, good safe food for all, clean air, clean energy, clean safe drinking water, useful education and job opportunities for all hard working citizens that can achieve these levels and deserve it, gun control, to end wall street fraud and corruption.", 
+      "district": "AZ_01", 
+      "created": "2013-08-09T21:12:32", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 34.8643, 
+      "x": -111.798, 
+      "id": 16286037, 
+      "question_id": "16203215"
     }, 
     {
       "city": "Palmer", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -72.3144, 
       "id": 16286031, 
       "question_id": "16172303"
-    }, 
-    {
-      "city": "SEDONA", 
-      "first_name": "JAY", 
-      "last_name": "MACKEY", 
-      "user_id": 1402810, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "AZ_01", 
-      "created": "2013-08-09T21:10:21", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 34.8643, 
-      "x": -111.798, 
-      "id": 16286012, 
-      "question_id": "16172777"
     }, 
     {
       "city": "Windham", 
