@@ -2,34 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Jersey City", 
-      "first_name": "Tommie", 
-      "last_name": "Cates", 
-      "user_id": 1782957, 
+      "city": "Pittsburgh", 
+      "first_name": "Joann", 
+      "last_name": "Aurand", 
+      "user_id": 175109, 
       "submission": "When will the Congress return all the money of  our Social Security funds we paid for or retirement  return back to the Social Security fund?  We need a date and we need every penny which was  robbed from our people's  money Returned NOW! ", 
-      "district": "NJ_10", 
-      "created": "2013-08-09T04:14:03", 
-      "state": "NJ", 
+      "district": "PA_14", 
+      "created": "2013-08-09T04:15:04", 
+      "state": "PA", 
       "iface": "timeline_vote", 
-      "y": 40.7336, 
-      "x": -74.0656, 
-      "id": 16261566, 
+      "y": 40.4669, 
+      "x": -79.9159, 
+      "id": 16261597, 
       "question_id": "16201865"
+    }, 
+    {
+      "city": "Rockville", 
+      "first_name": "Gary", 
+      "last_name": "Brown", 
+      "user_id": 1809156, 
+      "submission": "In 2006, the lame-duck GOP congress enacted a bill forcing the U.S.Postal service to fully fund pensions for the next 75 years and do it in ten years. It's a bill that was designed to ruin the USPS so it could be privatized. Will you work to repeal this onerous bill and introduce legislation to allow the USPS to compete with private carriers?", 
+      "district": "MD_06", 
+      "created": "2013-08-09T04:14:57", 
+      "state": "MD", 
+      "iface": "timeline_vote", 
+      "y": 39.0962, 
+      "x": -77.0955, 
+      "id": 16261595, 
+      "question_id": "16206983"
     }, 
     {
       "city": "portland", 
       "first_name": "khabira", 
       "last_name": "mcdow-keefer", 
       "user_id": 1245402, 
-      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "submission": "What are you going to do to regulate banks and stock exchange speculations?", 
       "district": "OR_01", 
-      "created": "2013-08-09T04:13:58", 
+      "created": "2013-08-09T04:14:56", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 45.6334, 
       "x": -122.856, 
-      "id": 16261564, 
-      "question_id": "16172755"
+      "id": 16261594, 
+      "question_id": "16172283"
+    }, 
+    {
+      "city": "Jersey City", 
+      "first_name": "Tommie", 
+      "last_name": "Cates", 
+      "user_id": 1782957, 
+      "submission": "We want reasonable and accountable banking - will you support the requirement for FIDUCIARY responsibility to customers  among all banks?", 
+      "district": "NJ_10", 
+      "created": "2013-08-09T04:14:38", 
+      "state": "NJ", 
+      "iface": "timeline_vote", 
+      "y": 40.7336, 
+      "x": -74.0656, 
+      "id": 16261588, 
+      "question_id": "16248929"
     }, 
     {
       "city": "Apache Junction", 
@@ -45,21 +75,6 @@ opendebate.processTimeline({
       "x": -111.59, 
       "id": 16261561, 
       "question_id": "16256797"
-    }, 
-    {
-      "city": "Rockville", 
-      "first_name": "Gary", 
-      "last_name": "Brown", 
-      "user_id": 1809156, 
-      "submission": "Will you support a \"Clean Up Congress\" campaign to promote term limits and cease the eternal 'full pay' for lifetime after serving only one term?", 
-      "district": "MD_06", 
-      "created": "2013-08-09T04:13:34", 
-      "state": "MD", 
-      "iface": "timeline_vote", 
-      "y": 39.0962, 
-      "x": -77.0955, 
-      "id": 16261557, 
-      "question_id": "16184803"
     }, 
     {
       "city": "Missoula", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -92.3667, 
       "id": 16261369, 
       "question_id": "16174466"
-    }, 
-    {
-      "city": "Cabin John", 
-      "first_name": "Ed", 
-      "last_name": "Triggs", 
-      "user_id": 1150823, 
-      "submission": "The infrastructure of our nation is crumbling.  How would you propose we begin to correct the problem?", 
-      "district": "MD_08", 
-      "created": "2013-08-09T04:05:26", 
-      "state": "MD", 
-      "iface": "timeline_vote", 
-      "y": 38.9756, 
-      "x": -77.1599, 
-      "id": 16261337, 
-      "question_id": "16246613"
     }
   ]
 });
