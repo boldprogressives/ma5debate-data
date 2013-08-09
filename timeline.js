@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Paula", 
       "last_name": "Goodman", 
       "user_id": 546461, 
-      "submission": "Will you pledge to protect Social Security and expand it if possible for the Elderly and Dusabled?", 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "CA_11", 
-      "created": "2013-08-09T09:08:49", 
+      "created": "2013-08-09T09:10:04", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 37.9423, 
       "x": -122.355, 
-      "id": 16270097, 
-      "question_id": "16238957"
+      "id": 16270105, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Briarcliff Manor", 
+      "first_name": "Harvey", 
+      "last_name": "Berman", 
+      "user_id": 174153, 
+      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
+      "district": "NY_17", 
+      "created": "2013-08-09T09:09:47", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 41.1457, 
+      "x": -73.8337, 
+      "id": 16270101, 
+      "question_id": "16172690"
     }, 
     {
       "city": "New York", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -117.05, 
       "id": 16269689, 
       "question_id": "16206983"
-    }, 
-    {
-      "city": "Keaau", 
-      "first_name": "Paul", 
-      "last_name": "Deeter", 
-      "user_id": 1705561, 
-      "submission": "What will you do to reduce the number of Americans in prison for victimless crimes such as marijuana possession?", 
-      "district": "HI_02", 
-      "created": "2013-08-09T08:02:09", 
-      "state": "HI", 
-      "iface": "timeline_vote", 
-      "y": 19.5754, 
-      "x": -154.962, 
-      "id": 16269627, 
-      "question_id": "16180815"
     }
   ]
 });
