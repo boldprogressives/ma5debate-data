@@ -379,7 +379,7 @@ opendebate.processFetchedQuestions({
       "x": -115.077, 
       "latest_vote": "2013-08-09T11:35:38", 
       "id": 16267196, 
-      "trending_score": 861.5
+      "trending_score": 431.0
     }, 
     {
       "city": "Granite Falls", 
@@ -1386,7 +1386,7 @@ opendebate.processFetchedQuestions({
       "x": -115.055, 
       "latest_vote": "2013-08-09T07:49:53", 
       "id": 16255540, 
-      "trending_score": 1.0
+      "trending_score": 1.5
     }, 
     {
       "city": "Friday Harbor", 
@@ -1481,7 +1481,7 @@ opendebate.processFetchedQuestions({
       "x": -93.8297, 
       "latest_vote": "2013-08-09T10:59:51", 
       "id": 16254871, 
-      "trending_score": 6.166666666666667
+      "trending_score": 6.25
     }, 
     {
       "city": "Staten Island", 
@@ -2260,7 +2260,7 @@ opendebate.processFetchedQuestions({
       "x": -122.811, 
       "latest_vote": "2013-08-09T10:29:54", 
       "id": 16248409, 
-      "trending_score": 1.6111111111111112
+      "trending_score": 3.05
     }, 
     {
       "city": "Athol", 
@@ -2944,7 +2944,7 @@ opendebate.processFetchedQuestions({
       "x": -122.046, 
       "latest_vote": "2013-08-09T07:55:15", 
       "id": 16243005, 
-      "trending_score": 1.5
+      "trending_score": 1.25
     }, 
     {
       "city": "Lakewood", 
@@ -3685,7 +3685,7 @@ opendebate.processFetchedQuestions({
       "x": -84.274, 
       "latest_vote": "2013-08-09T10:31:27", 
       "id": 16238915, 
-      "trending_score": 2.0
+      "trending_score": 2.25
     }, 
     {
       "city": "West Hollywood", 
@@ -3989,7 +3989,7 @@ opendebate.processFetchedQuestions({
       "x": -73.4093, 
       "latest_vote": "2013-08-09T10:36:04", 
       "id": 16236054, 
-      "trending_score": 2.0
+      "trending_score": 2.25
     }, 
     {
       "city": "Chippewa Falls", 
@@ -5509,7 +5509,7 @@ opendebate.processFetchedQuestions({
       "x": -71.215, 
       "latest_vote": "2013-08-09T06:41:37", 
       "id": 16226965, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Lexington", 
@@ -5718,7 +5718,7 @@ opendebate.processFetchedQuestions({
       "x": -73.2165, 
       "latest_vote": "2013-08-09T10:45:57", 
       "id": 16226498, 
-      "trending_score": 1.5
+      "trending_score": 2.1666666666666665
     }, 
     {
       "city": "Bridgeport", 
@@ -6364,7 +6364,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1765, 
       "latest_vote": "2013-08-09T07:47:43", 
       "id": 16224958, 
-      "trending_score": 1.5
+      "trending_score": 1.25
     }, 
     {
       "city": "Trumbull", 
@@ -7371,7 +7371,7 @@ opendebate.processFetchedQuestions({
       "x": -71.4608, 
       "latest_vote": "2013-08-09T06:42:06", 
       "id": 16222309, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Ashland", 
@@ -7390,7 +7390,7 @@ opendebate.processFetchedQuestions({
       "x": -71.4608, 
       "latest_vote": "2013-08-09T10:46:56", 
       "id": 16222243, 
-      "trending_score": 1.5
+      "trending_score": 1.25
     }, 
     {
       "city": "Nahant", 
@@ -7618,7 +7618,7 @@ opendebate.processFetchedQuestions({
       "x": -70.9726, 
       "latest_vote": "2013-08-09T06:41:31", 
       "id": 16221788, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Billerica", 
@@ -8758,7 +8758,7 @@ opendebate.processFetchedQuestions({
       "x": -84.4495, 
       "latest_vote": "2013-08-09T11:04:25", 
       "id": 16217708, 
-      "trending_score": 1.5
+      "trending_score": 1.25
     }, 
     {
       "city": "Holly Hill", 
@@ -8910,7 +8910,7 @@ opendebate.processFetchedQuestions({
       "x": -70.9805, 
       "latest_vote": "2013-08-09T06:41:30", 
       "id": 16217358, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Lloyd Harbor", 
@@ -8996,16 +8996,16 @@ opendebate.processFetchedQuestions({
       "submission": "How will you help fight corruption due tp the influence of money in congress?", 
       "district": "MA_07", 
       "created": "2013-08-07T15:19:19", 
-      "state_votes": 2, 
-      "votes": 8, 
+      "state_votes": 3, 
+      "votes": 9, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.399, 
       "x": -71.1231, 
-      "latest_vote": "2013-08-09T06:50:33", 
+      "latest_vote": "2013-08-09T11:41:29", 
       "id": 16217107, 
-      "trending_score": 1.0
+      "trending_score": 1.5
     }, 
     {
       "city": "Quincy", 
@@ -9851,16 +9851,16 @@ opendebate.processFetchedQuestions({
       "submission": "What makes you different from all the other dormant (read: spineless) members of congress who occupy the dead zone of disfunction and corruption in Washington... and who have allowed the NSA & the White House to destroy the peoples democracy unopposed?   ", 
       "district": "NM_03", 
       "created": "2013-08-07T05:20:27", 
-      "state_votes": 0, 
-      "votes": 4, 
+      "state_votes": 1, 
+      "votes": 5, 
       "district_votes": 0, 
       "state": "NM", 
       "iface": "question", 
       "y": 36.1548, 
       "x": -106.234, 
-      "latest_vote": "2013-08-07T16:29:54", 
+      "latest_vote": "2013-08-09T11:41:37", 
       "id": 16213650, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Skaneateles", 
@@ -10031,7 +10031,7 @@ opendebate.processFetchedQuestions({
       "x": -79.6777, 
       "latest_vote": "2013-08-09T09:16:11", 
       "id": 16213459, 
-      "trending_score": 2.0
+      "trending_score": 2.25
     }, 
     {
       "city": "Gibsonton", 
@@ -10326,16 +10326,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you support the American Anti-Corruption Act?  This proposed legislation would overhaul campaign finance laws, impose strict lobbying and conflict-of-interest laws, and end secret political money.", 
       "district": "NJ_05", 
       "created": "2013-08-07T04:05:44", 
-      "state_votes": 1, 
-      "votes": 17, 
+      "state_votes": 2, 
+      "votes": 18, 
       "district_votes": 0, 
       "state": "NJ", 
       "iface": "question", 
       "y": 40.9545, 
       "x": -73.9254, 
-      "latest_vote": "2013-08-09T00:58:21", 
+      "latest_vote": "2013-08-09T11:41:42", 
       "id": 16213342, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Gibsonton", 
@@ -10411,7 +10411,7 @@ opendebate.processFetchedQuestions({
       "x": -71.7525, 
       "latest_vote": "2013-08-09T10:33:53", 
       "id": 16213317, 
-      "trending_score": 2.0
+      "trending_score": 2.25
     }, 
     {
       "city": "Gibsonton", 
@@ -10886,7 +10886,7 @@ opendebate.processFetchedQuestions({
       "x": -84.3168, 
       "latest_vote": "2013-08-09T10:31:37", 
       "id": 16212600, 
-      "trending_score": 1.1701388888888888
+      "trending_score": 1.2352941176470589
     }, 
     {
       "city": "Jonesboro", 
@@ -11703,7 +11703,7 @@ opendebate.processFetchedQuestions({
       "x": -82.822, 
       "latest_vote": "2013-08-09T07:48:42", 
       "id": 16210777, 
-      "trending_score": 1.5
+      "trending_score": 1.25
     }, 
     {
       "city": "Watertown", 
@@ -12007,7 +12007,7 @@ opendebate.processFetchedQuestions({
       "x": -79.9232, 
       "latest_vote": "2013-08-09T10:36:24", 
       "id": 16209148, 
-      "trending_score": 2.125
+      "trending_score": 2.142857142857143
     }, 
     {
       "city": "Litchfield", 
@@ -12121,7 +12121,7 @@ opendebate.processFetchedQuestions({
       "x": -122.906, 
       "latest_vote": "2013-08-09T07:11:42", 
       "id": 16208766, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Lewis Run", 
@@ -12150,16 +12150,16 @@ opendebate.processFetchedQuestions({
       "submission": "9-in-10 Americans (87%) are deeply disturbed by the corruption in Congress, which ranks 2nd only to jobs as a priority in recent polling, so what will you do to stop corruption around you in Congress?", 
       "district": "DC_01", 
       "created": "2013-08-06T22:45:36", 
-      "state_votes": 12, 
-      "votes": 110, 
+      "state_votes": 13, 
+      "votes": 111, 
       "district_votes": 1, 
       "state": "DC", 
       "iface": "question", 
       "y": 38.9066, 
       "x": -77.0166, 
-      "latest_vote": "2013-08-09T10:44:28", 
+      "latest_vote": "2013-08-09T11:41:52", 
       "id": 16208638, 
-      "trending_score": 3.0454545454545454
+      "trending_score": 4.045454545454546
     }, 
     {
       "city": "Uxbridge", 
@@ -12691,7 +12691,7 @@ opendebate.processFetchedQuestions({
       "x": -70.9045, 
       "latest_vote": "2013-08-09T11:13:06", 
       "id": 16206519, 
-      "trending_score": 3.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Melbourne Beach", 
@@ -13584,7 +13584,7 @@ opendebate.processFetchedQuestions({
       "x": -82.5554, 
       "latest_vote": "2013-08-09T11:06:04", 
       "id": 16203678, 
-      "trending_score": 2.5
+      "trending_score": 4.166666666666667
     }, 
     {
       "city": "Holyoke", 
@@ -13614,15 +13614,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_06", 
       "created": "2013-08-06T20:07:53", 
       "state_votes": 25, 
-      "votes": 682, 
+      "votes": 683, 
       "district_votes": 5, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.6285, 
       "x": -70.6862, 
-      "latest_vote": "2013-08-09T10:15:26", 
+      "latest_vote": "2013-08-09T11:41:25", 
       "id": 16203558, 
-      "trending_score": 2.8333333333333335
+      "trending_score": 3.3333333333333335
     }, 
     {
       "city": "Holyoke", 
@@ -13641,7 +13641,7 @@ opendebate.processFetchedQuestions({
       "x": -72.6301, 
       "latest_vote": "2013-08-09T11:03:06", 
       "id": 16203477, 
-      "trending_score": 2.5
+      "trending_score": 3.25
     }, 
     {
       "city": "Elmira", 
@@ -14363,7 +14363,7 @@ opendebate.processFetchedQuestions({
       "x": -76.2257, 
       "latest_vote": "2013-08-09T11:33:56", 
       "id": 16200699, 
-      "trending_score": 3.8333333333333335
+      "trending_score": 4.0
     }, 
     {
       "city": "Chesapeake", 
@@ -15560,7 +15560,7 @@ opendebate.processFetchedQuestions({
       "x": -77.1226, 
       "latest_vote": "2013-08-09T11:16:26", 
       "id": 16193997, 
-      "trending_score": 2.5
+      "trending_score": 3.25
     }, 
     {
       "city": "tempe", 
@@ -19664,7 +19664,7 @@ opendebate.processFetchedQuestions({
       "x": -82.0171, 
       "latest_vote": "2013-08-09T07:47:23", 
       "id": 16183194, 
-      "trending_score": 1.5
+      "trending_score": 1.25
     }, 
     {
       "city": "Syracuse", 
@@ -22362,7 +22362,7 @@ opendebate.processFetchedQuestions({
       "x": -111.045, 
       "latest_vote": "2013-08-09T10:32:32", 
       "id": 16177944, 
-      "trending_score": 2.3333333333333335
+      "trending_score": 4.125
     }, 
     {
       "city": "Albuquerque", 
@@ -22495,7 +22495,7 @@ opendebate.processFetchedQuestions({
       "x": -111.045, 
       "latest_vote": "2013-08-09T10:46:10", 
       "id": 16177825, 
-      "trending_score": 1.9166666666666667
+      "trending_score": 2.642857142857143
     }, 
     {
       "city": "Franklin", 
@@ -22647,7 +22647,7 @@ opendebate.processFetchedQuestions({
       "x": -105.967, 
       "latest_vote": "2013-08-09T10:51:25", 
       "id": 16177435, 
-      "trending_score": 1.3
+      "trending_score": 1.375
     }, 
     {
       "city": "West Plains", 
@@ -22742,7 +22742,7 @@ opendebate.processFetchedQuestions({
       "x": -122.017, 
       "latest_vote": "2013-08-09T10:37:40", 
       "id": 16176917, 
-      "trending_score": 2.1
+      "trending_score": 1.15
     }, 
     {
       "city": "Sioux Falls", 
@@ -24243,7 +24243,7 @@ opendebate.processFetchedQuestions({
       "x": -88.9093, 
       "latest_vote": "2013-08-09T11:03:49", 
       "id": 16175636, 
-      "trending_score": 2.0714285714285716
+      "trending_score": 2.0833333333333335
     }, 
     {
       "city": "Naples", 
@@ -26732,7 +26732,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-09T11:31:51", 
       "id": 16173259, 
-      "trending_score": 4.375
+      "trending_score": 3.25
     }, 
     {
       "city": "Manitowoc", 
@@ -27986,7 +27986,7 @@ opendebate.processFetchedQuestions({
       "x": -111.295, 
       "latest_vote": "2013-08-09T11:23:57", 
       "id": 16172694, 
-      "trending_score": 3.0619658119658117
+      "trending_score": 3.068888888888889
     }, 
     {
       "city": "Eldridge", 
@@ -28035,15 +28035,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:08:10", 
       "state_votes": 20, 
-      "votes": 276, 
+      "votes": 277, 
       "district_votes": 3, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.3581, 
       "x": -122.594, 
-      "latest_vote": "2013-08-09T10:59:19", 
+      "latest_vote": "2013-08-09T11:41:44", 
       "id": 16172688, 
-      "trending_score": 5.166666666666667
+      "trending_score": 6.166666666666667
     }, 
     {
       "city": "Eldridge", 
@@ -28461,7 +28461,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1035, 
       "latest_vote": "2013-08-09T10:06:48", 
       "id": 16172283, 
-      "trending_score": 2.5
+      "trending_score": 3.25
     }, 
     {
       "city": "Waltham", 
@@ -28529,15 +28529,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:33:11", 
       "state_votes": 279, 
-      "votes": 2089, 
+      "votes": 2090, 
       "district_votes": 80, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-09T11:32:16", 
+      "latest_vote": "2013-08-09T11:42:02", 
       "id": 16172266, 
-      "trending_score": 4.204545454545454
+      "trending_score": 4.315656565656565
     }, 
     {
       "city": "Cambridge", 

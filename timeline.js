@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "East Weymouth", 
-      "first_name": "Carlotta", 
-      "last_name": "Hayes", 
-      "user_id": 1806880, 
-      "submission": "Will you really be the voice of the people you represent and not be taken in by the lure of corruption ?", 
-      "district": "MA_08", 
-      "created": "2013-08-09T11:40:58", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2138, 
-      "x": -70.9328, 
-      "id": 16271465, 
-      "question_id": "16261678"
-    }, 
-    {
       "city": "Decatur", 
       "first_name": "Wilma", 
       "last_name": "Bondurant", 
       "user_id": 1807845, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "IL_13", 
-      "created": "2013-08-09T11:40:43", 
+      "created": "2013-08-09T11:42:02", 
       "state": "IL", 
       "iface": "timeline_vote", 
       "y": 39.846, 
       "x": -88.9932, 
-      "id": 16271464, 
-      "question_id": "16175740"
+      "id": 16271474, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "East Weymouth", 
+      "first_name": "Carlotta", 
+      "last_name": "Hayes", 
+      "user_id": 1806880, 
+      "submission": "9-in-10 Americans (87%) are deeply disturbed by the corruption in Congress, which ranks 2nd only to jobs as a priority in recent polling, so what will you do to stop corruption around you in Congress?", 
+      "district": "MA_08", 
+      "created": "2013-08-09T11:41:52", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2138, 
+      "x": -70.9328, 
+      "id": 16271473, 
+      "question_id": "16208638"
     }, 
     {
       "city": "Massillon", 
