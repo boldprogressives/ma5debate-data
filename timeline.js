@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "San Diego", 
+      "first_name": "IRMA", 
+      "last_name": "CAMARILLO", 
+      "user_id": 226704, 
+      "submission": "What will you do about gun control and the scare tactics/bullying by the NRA and gun lobbyists?  How will you approach the Right's program of 'divisiveness and culture of fear' that now rips us apart?", 
+      "district": "CA_53", 
+      "created": "2013-08-09T08:07:51", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 32.6757, 
+      "x": -117.05, 
+      "id": 16269669, 
+      "question_id": "16176673"
+    }, 
+    {
+      "city": "New York", 
+      "first_name": "Marcus", 
+      "last_name": "Adams", 
+      "user_id": 526656, 
+      "submission": "What is one topic on which you are willing to compromise? For example, I am a Democrat who is willing to raise the retirement age to 67.", 
+      "district": "NY_10", 
+      "created": "2013-08-09T08:07:09", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.7243, 
+      "x": -73.9961, 
+      "id": 16269667, 
+      "question_id": "16251080"
+    }, 
+    {
       "city": "Tryon", 
       "first_name": "Murlel", 
       "last_name": "Lunsford", 
@@ -15,36 +45,6 @@ opendebate.processTimeline({
       "x": -82.2262, 
       "id": 16269665, 
       "question_id": "16256438"
-    }, 
-    {
-      "city": "New York", 
-      "first_name": "Marcus", 
-      "last_name": "Adams", 
-      "user_id": 526656, 
-      "submission": "What steps will you take to ensure adequate funding for research in alternative, renewable energy resources, as well as reducing America's need for nonrenewable oil, gas, & coal?", 
-      "district": "NY_10", 
-      "created": "2013-08-09T08:06:17", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.7243, 
-      "x": -73.9961, 
-      "id": 16269661, 
-      "question_id": "16252779"
-    }, 
-    {
-      "city": "San Diego", 
-      "first_name": "IRMA", 
-      "last_name": "CAMARILLO", 
-      "user_id": 226704, 
-      "submission": "To all Candidates...Will you support Elizabeth Warren's bill to allow college students to borrow under 1% interest of college loans? ", 
-      "district": "CA_53", 
-      "created": "2013-08-09T08:06:11", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 32.6757, 
-      "x": -117.05, 
-      "id": 16269660, 
-      "question_id": "16200733"
     }, 
     {
       "city": "Keaau", 
