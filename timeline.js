@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "What is wrong with you people? Are you determined to destroy the country?", 
+      "submission": "The American educational system is becoming third world. What happened to \"No Child Left Behind\"?. ", 
       "district": "MO_06", 
-      "created": "2013-08-09T22:02:43", 
+      "created": "2013-08-09T22:03:49", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286901, 
-      "question_id": "16198831"
+      "id": 16286908, 
+      "question_id": "16196739"
+    }, 
+    {
+      "city": "Sacramento", 
+      "first_name": "Sharon", 
+      "last_name": "Kilgore", 
+      "user_id": 16631, 
+      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
+      "district": "CA_06", 
+      "created": "2013-08-09T22:03:22", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 38.5697, 
+      "x": -121.438, 
+      "id": 16286905, 
+      "question_id": "16203866"
     }, 
     {
       "city": "Framingham", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -71.7437, 
       "id": 16286221, 
       "question_id": "16172533"
-    }, 
-    {
-      "city": "Moss Point", 
-      "first_name": "Michael", 
-      "last_name": "Stallworth", 
-      "user_id": 821196, 
-      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
-      "district": "MS_04", 
-      "created": "2013-08-09T21:27:20", 
-      "state": "MS", 
-      "iface": "timeline_vote", 
-      "y": 30.4076, 
-      "x": -88.5302, 
-      "id": 16286217, 
-      "question_id": "16203676"
     }
   ]
 });
