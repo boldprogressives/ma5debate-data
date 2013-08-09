@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Chris", 
       "last_name": "Baker", 
       "user_id": 78033, 
-      "submission": "All topics are moot in view of losing 31% of bees this last year. Two to go before they're gone and we start starving. Can anything be done to keep EPA from favoring the pesticides known to  kill bees instead of banning them?", 
+      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
       "district": "IN_06", 
-      "created": "2013-08-09T22:44:59", 
+      "created": "2013-08-09T22:45:33", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 39.7338, 
       "x": -84.6711, 
-      "id": 16287419, 
-      "question_id": "16269540"
+      "id": 16287475, 
+      "question_id": "16175637"
     }, 
     {
       "city": "Greenville", 
