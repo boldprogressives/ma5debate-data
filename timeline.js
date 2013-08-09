@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Santa Rosa", 
+      "first_name": "David", 
+      "last_name": "Bauer", 
+      "user_id": 1781154, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "CA_05", 
+      "created": "2013-08-09T12:02:10", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 38.4796, 
+      "x": -122.751, 
+      "id": 16271776, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "Chicopee", 
       "first_name": "", 
       "last_name": "", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -72.6045, 
       "id": 16271775, 
       "question_id": "16172777"
-    }, 
-    {
-      "city": "Santa Rosa", 
-      "first_name": "David", 
-      "last_name": "Bauer", 
-      "user_id": 1781154, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "CA_05", 
-      "created": "2013-08-09T12:01:04", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 38.4796, 
-      "x": -122.751, 
-      "id": 16271774, 
-      "question_id": "16172266"
     }, 
     {
       "city": "Irving", 
