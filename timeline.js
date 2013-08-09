@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Helena", 
-      "first_name": "Bob", 
-      "last_name": "Balhiser", 
-      "user_id": 674040, 
-      "submission": "Will you support Elizabeth Warren's efforts to create a new Glass-Steagall Act?", 
-      "district": "MT_01", 
-      "created": "2013-08-09T22:11:47", 
-      "state": "MT", 
-      "iface": "timeline_vote", 
-      "y": 46.6453, 
-      "x": -111.974, 
-      "id": 16286964, 
-      "question_id": "16201467"
-    }, 
-    {
       "city": "Fountain Hills", 
       "first_name": "Day", 
       "last_name": "Jolliff", 
       "user_id": 1785674, 
-      "submission": "Will you vote to end tax loopholes for the rich, big business subsides, overseas corporate tax loopholes, wasteful wars, foreign country subsides, quality health care for all, good safe food for all, clean air, clean energy, clean safe drinking water, useful education and job opportunities for all hard working citizens that can achieve these levels and deserve it, gun control, to end wall street fraud and corruption.", 
+      "submission": "Will you protect Social Security And Medicare by not cutting it with the chained CPI for Social Security that has been mentioned.  Also, no cuts to Medicare but closing the donute hole 100% so seniors aren't left fending for themselves to pay full price for their drugs.", 
       "district": "AZ_06", 
-      "created": "2013-08-09T22:11:30", 
+      "created": "2013-08-09T22:12:54", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 33.609, 
       "x": -111.73, 
-      "id": 16286963, 
-      "question_id": "16203215"
+      "id": 16286972, 
+      "question_id": "16175570"
+    }, 
+    {
+      "city": "Cambridge", 
+      "first_name": "Nina", 
+      "last_name": "Allen", 
+      "user_id": 126418, 
+      "submission": "What can you do to improve public transit nationally, including building a good rail network, when the governors and legislatures of some key states are so resistant to it?", 
+      "district": "MA_05", 
+      "created": "2013-08-09T22:12:51", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3775, 
+      "x": -71.1312, 
+      "id": 16286971, 
+      "question_id": "16172286"
+    }, 
+    {
+      "city": "Helena", 
+      "first_name": "Bob", 
+      "last_name": "Balhiser", 
+      "user_id": 674040, 
+      "submission": "Do you agree that accepting money from corporate interests with an economic stake in how Congressmen vote, and then voting on matters that affect them, is pernicious and close to bribery?  If not, why not?  ", 
+      "district": "MT_01", 
+      "created": "2013-08-09T22:12:41", 
+      "state": "MT", 
+      "iface": "timeline_vote", 
+      "y": 46.6453, 
+      "x": -111.974, 
+      "id": 16286969, 
+      "question_id": "16176481"
     }, 
     {
       "city": "Kansas City", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "latest_vote": "2013-08-09T21:57:21", 
       "id": 16286269, 
       "trending_score": 1.5
-    }, 
-    {
-      "city": "Portland", 
-      "first_name": "Ed", 
-      "last_name": "Loosli", 
-      "user_id": 890741, 
-      "submission": "What will you do to overturn Citizen's United?", 
-      "district": "OR_01", 
-      "created": "2013-08-09T21:33:01", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 45.4087, 
-      "x": -122.789, 
-      "id": 16286268, 
-      "question_id": "16172765"
     }
   ]
 });
