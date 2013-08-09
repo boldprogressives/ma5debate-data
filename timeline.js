@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Carlotta", 
       "last_name": "Hayes", 
       "user_id": 1806880, 
-      "submission": "What will you do to change the course of privatization and public spending?  Privatization leads to lack of transparency, profiteering, and inequality.  We need a grand plan here, not empty rhetoric.", 
+      "submission": "Will you really be the voice of the people you represent and not be taken in by the lure of corruption ?", 
       "district": "MA_08", 
-      "created": "2013-08-09T11:40:03", 
+      "created": "2013-08-09T11:40:58", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2138, 
       "x": -70.9328, 
-      "id": 16271459, 
-      "question_id": "16176723"
+      "id": 16271465, 
+      "question_id": "16261678"
     }, 
     {
       "city": "Decatur", 
       "first_name": "Wilma", 
       "last_name": "Bondurant", 
       "user_id": 1807845, 
-      "submission": "Why  is social security only funded by the lowest earners in the country.", 
+      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
       "district": "IL_13", 
-      "created": "2013-08-09T11:39:59", 
+      "created": "2013-08-09T11:40:43", 
       "state": "IL", 
       "iface": "timeline_vote", 
       "y": 39.846, 
       "x": -88.9932, 
-      "id": 16271458, 
-      "question_id": "16173225"
+      "id": 16271464, 
+      "question_id": "16175740"
     }, 
     {
       "city": "Massillon", 
