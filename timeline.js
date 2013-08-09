@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Eaton", 
+      "first_name": "Chris", 
+      "last_name": "Baker", 
+      "user_id": 78033, 
+      "submission": "All topics are moot in view of losing 31% of bees this last year. Two to go before they're gone and we start starving. Can anything be done to keep EPA from favoring the pesticides known to  kill bees instead of banning them?", 
+      "district": "IN_06", 
+      "created": "2013-08-09T22:44:59", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 39.7338, 
+      "x": -84.6711, 
+      "id": 16287419, 
+      "question_id": "16269540"
+    }, 
+    {
+      "city": "Greenville", 
+      "first_name": "Paul", 
+      "last_name": "Gravunder", 
+      "user_id": 1659924, 
+      "submission": "Do you support the concept of keeping church and state separate?", 
+      "district": "WI_08", 
+      "created": "2013-08-09T22:44:15", 
+      "state": "WI", 
+      "iface": "timeline_vote", 
+      "y": 44.3081, 
+      "x": -88.5509, 
+      "id": 16287282, 
+      "question_id": "16173921"
+    }, 
+    {
       "city": "Detroit", 
       "first_name": "Daniel", 
       "last_name": "Sarasin", 
@@ -278,36 +308,6 @@ opendebate.processTimeline({
       "x": -71.1312, 
       "id": 16286971, 
       "question_id": "16172286"
-    }, 
-    {
-      "city": "Kansas City", 
-      "first_name": "Sandra", 
-      "last_name": "Singleton", 
-      "user_id": 578766, 
-      "submission": "Why hasn't Dodd Frank been utilized?", 
-      "district": "MO_06", 
-      "created": "2013-08-09T22:11:11", 
-      "state": "MO", 
-      "iface": "timeline_vote", 
-      "y": 39.2158, 
-      "x": -94.5728, 
-      "id": 16286960, 
-      "question_id": "16190066"
-    }, 
-    {
-      "city": "Arlington", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1810372, 
-      "submission": "What are you going to do to regulate banks and stock exchange speculations?", 
-      "district": "MA_05", 
-      "created": "2013-08-09T22:06:43", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4207, 
-      "x": -71.1582, 
-      "id": 16286926, 
-      "question_id": "16172283"
     }
   ]
 });
