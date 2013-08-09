@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "John", 
       "last_name": "Janowski", 
       "user_id": 163007, 
-      "submission": "Would you support the proposition that Big Oil should help to fund the veterans rehab issues, and their benefits since they were sent to fight for their safe access to oil.", 
+      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
       "district": "MI_11", 
-      "created": "2013-08-09T23:18:03", 
+      "created": "2013-08-09T23:18:48", 
       "state": "MI", 
       "iface": "timeline_vote", 
       "y": 42.5596, 
       "x": -83.1232, 
-      "id": 16287724, 
-      "question_id": "16173438"
+      "id": 16287728, 
+      "question_id": "16180998"
     }, 
     {
       "city": "El Prado", 
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Would you vote to overturn Citizens United?", 
+      "submission": "What will you do to ensure anyone that works full time has a living wage with benefits?", 
       "district": "NM_03", 
-      "created": "2013-08-09T23:17:56", 
+      "created": "2013-08-09T23:18:29", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16287723, 
-      "question_id": "16185125"
+      "id": 16287727, 
+      "question_id": "16175636"
     }, 
     {
       "city": "Monson", 
