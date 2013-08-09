@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Christiane", 
       "last_name": "Pors", 
       "user_id": 1785709, 
-      "submission": "How will you stand up against the Keystone XL pipeline and the lies told to the American people about it creating jobs, lowering the cost of gas, and decreasing dependency on Middle Eastern oil?", 
+      "submission": "are you aware that the social security trust fund is owed about 18% of the national debt because of borrowing by previous congresses? should there be a repayment plan set up by congress to make the fund even more solvent?", 
       "district": "NY_10", 
-      "created": "2013-08-09T09:00:56", 
+      "created": "2013-08-09T09:01:15", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7773, 
       "x": -73.9825, 
-      "id": 16270060, 
-      "question_id": "16181945"
+      "id": 16270063, 
+      "question_id": "16185653"
     }, 
     {
       "city": "Fort Worth", 
