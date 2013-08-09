@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "SALT LAKE CITY", 
+      "first_name": "Michael", 
+      "last_name": "Smith", 
+      "user_id": 1243221, 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "district": "UT_04", 
+      "created": "2013-08-09T20:56:54", 
+      "state": "UT", 
+      "iface": "timeline_vote", 
+      "y": 40.6858, 
+      "x": -111.829, 
+      "id": 16285727, 
+      "question_id": "16173259"
+    }, 
+    {
       "city": "Kansas City", 
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "Do you fully support Senator Warren's 21st century Glass-Steagall bill to separate investment banking from consumer banking?", 
+      "submission": "Why is it that Halliburton only gets a $200K fine for destroying evidence concerning the Gulf oil spill when if you make a copy of a DVD you get a $250K fine and up to 5 years in prison?", 
       "district": "MO_06", 
-      "created": "2013-08-09T20:55:56", 
+      "created": "2013-08-09T20:56:49", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16285709, 
-      "question_id": "16224940"
+      "id": 16285726, 
+      "question_id": "16175493"
     }, 
     {
       "city": "Southwest Harbor", 
       "first_name": "Joyce", 
       "last_name": "Worcester", 
       "user_id": 1794458, 
-      "submission": "Where do you stand with regard to GMO labeling. Is it our right as citizens to have complete transparency with regard to the foods we choose to eat. ", 
+      "submission": "In 2006, the lame-duck GOP congress enacted a bill forcing the U.S.Postal service to fully fund pensions for the next 75 years and do it in ten years. It's a bill that was designed to ruin the USPS so it could be privatized. Will you work to repeal this onerous bill and introduce legislation to allow the USPS to compete with private carriers?", 
       "district": "ME_02", 
-      "created": "2013-08-09T20:55:52", 
+      "created": "2013-08-09T20:56:35", 
       "state": "ME", 
       "iface": "timeline_vote", 
       "y": 44.2799, 
       "x": -68.3301, 
-      "id": 16285707, 
-      "question_id": "16178048"
+      "id": 16285722, 
+      "question_id": "16206983"
     }, 
     {
       "city": "ozone park", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -85.7161, 
       "id": 16285314, 
       "question_id": "16172731"
-    }, 
-    {
-      "city": "Roslindale", 
-      "first_name": "Joseph", 
-      "last_name": "Mclaughlin", 
-      "user_id": 1780335, 
-      "submission": "Would you support an investigation of our military contractors by setting up a task force commission?", 
-      "district": "MA_07", 
-      "created": "2013-08-09T20:31:01", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2847, 
-      "x": -71.1277, 
-      "id": 16285313, 
-      "question_id": "16226158"
     }
   ]
 });
