@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Desert Hot Springs", 
-      "first_name": "JOANIE", 
-      "last_name": "LAINE", 
-      "user_id": 208923, 
-      "submission": "Will you go on record to oppose chained CPI?", 
-      "district": "CA_36", 
-      "created": "2013-08-09T05:36:00", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 33.9639, 
-      "x": -116.531, 
-      "id": 16265783, 
-      "question_id": "16225266"
-    }, 
-    {
       "city": "port angeles .", 
       "first_name": "neil", 
       "last_name": "hildebrand", 
       "user_id": 172877, 
-      "submission": "Republican Governors and Republican Legislators have worked to limit voting rights for minorities, college students and the elderly. How can we ensure we don't have a repeat of the 2012 elections", 
+      "submission": "High paid lobbyists among big banks and financial institutions represent a  serious CONFLICT OF INTEREST and UNDUE INFLUENCE in our political system.  Will you reform how big money corrupts?", 
       "district": "WA_06", 
-      "created": "2013-08-09T05:35:58", 
+      "created": "2013-08-09T05:37:00", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 48.1184, 
       "x": -123.481, 
-      "id": 16265782, 
-      "question_id": "16264837"
+      "id": 16265793, 
+      "question_id": "16261512"
+    }, 
+    {
+      "city": "Desert Hot Springs", 
+      "first_name": "JOANIE", 
+      "last_name": "LAINE", 
+      "user_id": 208923, 
+      "submission": "What will you do to ensure people with disabilities and mental health issues get appropriate medical care, support services, housing and food?", 
+      "district": "CA_36", 
+      "created": "2013-08-09T05:36:53", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 33.9639, 
+      "x": -116.531, 
+      "id": 16265791, 
+      "question_id": "16224922"
     }, 
     {
       "city": "Henderson", 
