@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Dallas", 
+      "first_name": "Violet", 
+      "last_name": "Sunderland", 
+      "user_id": 986238, 
+      "submission": "What can you do to stop this sickness of MONSANTO paying off Congressmen,FDA,EPA,USDA and many others to sicken poison and degrade a system which was put in place to preserve our Health and Safty?", 
+      "district": "OR_05", 
+      "created": "2013-08-09T06:44:06", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 44.9222, 
+      "x": -123.327, 
+      "id": 16267086, 
+      "question_id": "16215471"
+    }, 
+    {
       "city": "Alvin", 
       "first_name": "rox", 
       "last_name": "colby", 
       "user_id": 1677442, 
-      "submission": "Are you now a member of ALEC, or plan on joining ALEC.", 
+      "submission": "\"Will you pledge to support and work toward overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend?\" ", 
       "district": "TX_22", 
-      "created": "2013-08-09T06:43:02", 
+      "created": "2013-08-09T06:43:55", 
       "state": "TX", 
       "iface": "timeline_vote", 
       "y": 29.4, 
       "x": -95.2394, 
-      "id": 16267066, 
-      "question_id": "16204636"
+      "id": 16267084, 
+      "question_id": "16255209"
     }, 
     {
       "city": "Tryon", 
@@ -94,21 +109,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16266957, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Dallas", 
-      "first_name": "Violet", 
-      "last_name": "Sunderland", 
-      "user_id": 986238, 
-      "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
-      "district": "OR_05", 
-      "created": "2013-08-09T06:38:00", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 44.9222, 
-      "x": -123.327, 
-      "id": 16266951, 
-      "question_id": "16173312"
     }, 
     {
       "city": "Seattle", 
