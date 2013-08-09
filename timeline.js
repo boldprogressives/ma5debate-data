@@ -6,15 +6,45 @@ opendebate.processTimeline({
       "first_name": "Margaret", 
       "last_name": "Beitzel", 
       "user_id": 526895, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
       "district": "PA_16", 
-      "created": "2013-08-09T10:57:01", 
+      "created": "2013-08-09T10:57:58", 
       "state": "PA", 
       "iface": "timeline_vote", 
       "y": 40.1085, 
       "x": -76.5089, 
-      "id": 16271106, 
-      "question_id": "16175740"
+      "id": 16271119, 
+      "question_id": "16202059"
+    }, 
+    {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Will you take action to overturn Citizens United with an effective Constitutional Amendment?", 
+      "district": "MA_04", 
+      "created": "2013-08-09T10:57:58", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16271120, 
+      "question_id": "16182966"
+    }, 
+    {
+      "city": "Nashville", 
+      "first_name": "D. S.", 
+      "last_name": "Kinzie", 
+      "user_id": 88880, 
+      "submission": "How can the corporate takeover of cities, like Detroit, be prevented?", 
+      "district": "TN_05", 
+      "created": "2013-08-09T10:57:57", 
+      "state": "TN", 
+      "iface": "timeline_vote", 
+      "y": 36.1088, 
+      "x": -86.7806, 
+      "id": 16271118, 
+      "question_id": "16186792"
     }, 
     {
       "city": "Saint Clair Shores", 
@@ -32,21 +62,6 @@ opendebate.processTimeline({
       "question_id": "16219940"
     }, 
     {
-      "city": "Nashville", 
-      "first_name": "D. S.", 
-      "last_name": "Kinzie", 
-      "user_id": 88880, 
-      "submission": "Are you a member of Alec?", 
-      "district": "TN_05", 
-      "created": "2013-08-09T10:56:33", 
-      "state": "TN", 
-      "iface": "timeline_vote", 
-      "y": 36.1088, 
-      "x": -86.7806, 
-      "id": 16271103, 
-      "question_id": "16189767"
-    }, 
-    {
       "city": "Parrish", 
       "first_name": "Steve", 
       "last_name": "Battle", 
@@ -60,21 +75,6 @@ opendebate.processTimeline({
       "x": -82.4336, 
       "id": 16271102, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "Are you now a member of ALEC, or plan on joining ALEC.", 
-      "district": "MA_04", 
-      "created": "2013-08-09T10:56:20", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16271099, 
-      "question_id": "16204636"
     }, 
     {
       "city": "Fort Lauderdale", 
