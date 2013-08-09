@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "D. S.", 
       "last_name": "Kinzie", 
       "user_id": 88880, 
-      "submission": "Will you make repairing and updating the infrastructure, not just roads but bridges and the electrical grid, a priority?", 
+      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
       "district": "TN_05", 
-      "created": "2013-08-09T10:41:42", 
+      "created": "2013-08-09T10:43:01", 
       "state": "TN", 
       "iface": "timeline_vote", 
       "y": 36.1088, 
       "x": -86.7806, 
-      "id": 16270997, 
-      "question_id": "16191114"
+      "id": 16271001, 
+      "question_id": "16173210"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Will you pledge to uphold the Affordable Care Act and help states implement it -- not defund it?", 
+      "submission": "What, specifically, would you do to protect the right to vote for all? Please address specifically a new Voting Rights Act and the concept of a paper ballot that can be verified by the voter.", 
       "district": "MA_04", 
-      "created": "2013-08-09T10:41:12", 
+      "created": "2013-08-09T10:42:54", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270995, 
-      "question_id": "16181276"
+      "id": 16271000, 
+      "question_id": "16207107"
     }, 
     {
       "city": "Sacramento", 
