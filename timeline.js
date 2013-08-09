@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Los Angeles", 
-      "first_name": "Ellen", 
-      "last_name": "Steens", 
-      "user_id": 1782363, 
-      "submission": "Why is the U.S. Congress,year after year,taking funds out of the Social Security fund.This is not legal,yet the U.S. Congress Continues this practice.Why ? Martin Boroian", 
-      "district": "CA_37", 
-      "created": "2013-08-09T07:47:59", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 34.0277, 
-      "x": -118.352, 
-      "id": 16269491, 
-      "question_id": "16201488"
-    }, 
-    {
       "city": "Tryon", 
       "first_name": "Murlel", 
       "last_name": "Lunsford", 
       "user_id": 1656934, 
-      "submission": "Will you vote consistently and emphatically for strong separation between Church and State?", 
+      "submission": "Would you support an independent prosecutor for major financial crimes who would review regulatory agency civil charges for possible criminal prosecution?Over 30,000 criminal referrals were made in the savings and loan crisis, but since 2008, the major banking regulatory agencies have made zero criminal referrals despite overwhelming evidence of criminal fraud.", 
       "district": "NC_10", 
-      "created": "2013-08-09T07:47:43", 
+      "created": "2013-08-09T07:49:00", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.2172, 
       "x": -82.2262, 
-      "id": 16269489, 
-      "question_id": "16224958"
+      "id": 16269501, 
+      "question_id": "16236054"
     }, 
     {
       "city": "New York", 
       "first_name": "Marcus", 
       "last_name": "Adams", 
       "user_id": 526656, 
-      "submission": "Will you commit to forcing in person Filibusters so America and the world can hear the reasons someone wants to hold democracy hostage and prevent votes on legislation.", 
+      "submission": "Will you work to reinstate the Glass-Steagall Act to insure that the Wall Street banks behave in a more responsible manner?", 
       "district": "NY_10", 
-      "created": "2013-08-09T07:47:22", 
+      "created": "2013-08-09T07:48:59", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7243, 
       "x": -73.9961, 
-      "id": 16269486, 
-      "question_id": "16258323"
+      "id": 16269500, 
+      "question_id": "16256690"
+    }, 
+    {
+      "city": "Riverside", 
+      "first_name": "Valerie", 
+      "last_name": "Fields", 
+      "user_id": 1180132, 
+      "submission": "Where do you stand on a constitutional admendment that declares that corporations are NOT, in fact, people and do not have the legal rights of people.", 
+      "district": "CA_41", 
+      "created": "2013-08-09T07:48:58", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 33.9401, 
+      "x": -117.362, 
+      "id": 16269499, 
+      "question_id": "16176313"
+    }, 
+    {
+      "city": "Los Angeles", 
+      "first_name": "Ellen", 
+      "last_name": "Steens", 
+      "user_id": 1782363, 
+      "submission": "Will you actively support and promote the proposal for a Constitution Amendment protecting the right to vote?  (see freetovote.org)", 
+      "district": "CA_37", 
+      "created": "2013-08-09T07:48:44", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 34.0277, 
+      "x": -118.352, 
+      "id": 16269496, 
+      "question_id": "16185403"
     }, 
     {
       "city": "Charlotte", 
@@ -305,21 +320,6 @@ opendebate.processTimeline({
       "x": -121.985, 
       "id": 16267427, 
       "question_id": "16201467"
-    }, 
-    {
-      "city": "Seattle", 
-      "first_name": "Colby", 
-      "last_name": "Jordan", 
-      "user_id": 527240, 
-      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
-      "district": "WA_07", 
-      "created": "2013-08-09T07:07:02", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 47.6113, 
-      "x": -122.333, 
-      "id": 16267422, 
-      "question_id": "16172207"
     }
   ]
 });
