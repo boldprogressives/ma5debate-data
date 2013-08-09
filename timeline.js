@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Tryon", 
+      "first_name": "Murlel", 
+      "last_name": "Lunsford", 
+      "user_id": 1656934, 
+      "submission": "What will you do to combat Global Warming?", 
+      "district": "NC_10", 
+      "created": "2013-08-09T08:03:55", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.2172, 
+      "x": -82.2262, 
+      "id": 16269637, 
+      "question_id": "16193258"
+    }, 
+    {
+      "city": "New York", 
+      "first_name": "Marcus", 
+      "last_name": "Adams", 
+      "user_id": 526656, 
+      "submission": "How do you plan to control the corporations who are now controlling the commodities markets?  Will you bring back the Glass/Seagal act?", 
+      "district": "NY_10", 
+      "created": "2013-08-09T08:03:55", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.7243, 
+      "x": -73.9961, 
+      "id": 16269638, 
+      "question_id": "16254871"
+    }, 
+    {
       "city": "San Diego", 
       "first_name": "IRMA", 
       "last_name": "CAMARILLO", 
@@ -15,21 +45,6 @@ opendebate.processTimeline({
       "x": -117.05, 
       "id": 16269631, 
       "question_id": "16217343"
-    }, 
-    {
-      "city": "Tryon", 
-      "first_name": "Murlel", 
-      "last_name": "Lunsford", 
-      "user_id": 1656934, 
-      "submission": "Would you be willing to support \"term limits\" for our elected officials in order to end the \"self-serving, career-oriented\" politician?", 
-      "district": "NC_10", 
-      "created": "2013-08-09T08:02:30", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.2172, 
-      "x": -82.2262, 
-      "id": 16269630, 
-      "question_id": "16176054"
     }, 
     {
       "city": "Keaau", 
@@ -128,21 +143,6 @@ opendebate.processTimeline({
       "x": -122.26, 
       "id": 16269535, 
       "question_id": "16235193"
-    }, 
-    {
-      "city": "New York", 
-      "first_name": "Marcus", 
-      "last_name": "Adams", 
-      "user_id": 526656, 
-      "submission": "\"Will you pledge to support and work toward overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend?\" ", 
-      "district": "NY_10", 
-      "created": "2013-08-09T07:50:29", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.7243, 
-      "x": -73.9961, 
-      "id": 16269517, 
-      "question_id": "16255209"
     }, 
     {
       "city": "Henderson", 
