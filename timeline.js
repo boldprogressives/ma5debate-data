@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Tryon", 
+      "first_name": "Murlel", 
+      "last_name": "Lunsford", 
+      "user_id": 1656934, 
+      "submission": "Serving in Congress is not a career.  Will you vote for term limits?", 
+      "district": "NC_10", 
+      "created": "2013-08-09T07:18:51", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.2172, 
+      "x": -82.2262, 
+      "id": 16267525, 
+      "question_id": "16173323"
+    }, 
+    {
+      "city": "Dallas", 
+      "first_name": "Violet", 
+      "last_name": "Sunderland", 
+      "user_id": 986238, 
+      "submission": "Why are so many countries banning GMO foods but the US refuses to do so? Why aren't they required to label them as such? ", 
+      "district": "OR_05", 
+      "created": "2013-08-09T07:18:48", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 44.9222, 
+      "x": -123.327, 
+      "id": 16267524, 
+      "question_id": "16205646"
+    }, 
+    {
       "city": "Durango", 
       "first_name": "shauna", 
       "last_name": "urban", 
@@ -19,36 +49,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16267518, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Dallas", 
-      "first_name": "Violet", 
-      "last_name": "Sunderland", 
-      "user_id": 986238, 
-      "submission": "Why is Monsanto allowed to destroy our agriculture and the small farmers?", 
-      "district": "OR_05", 
-      "created": "2013-08-09T07:17:59", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 44.9222, 
-      "x": -123.327, 
-      "id": 16267517, 
-      "question_id": "16244435"
-    }, 
-    {
-      "city": "Tryon", 
-      "first_name": "Murlel", 
-      "last_name": "Lunsford", 
-      "user_id": 1656934, 
-      "submission": "What is your view on implementing the Affordable Care Act?", 
-      "district": "NC_10", 
-      "created": "2013-08-09T07:17:51", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.2172, 
-      "x": -82.2262, 
-      "id": 16267515, 
-      "question_id": "16207977"
     }, 
     {
       "city": "Ann Arbor", 
