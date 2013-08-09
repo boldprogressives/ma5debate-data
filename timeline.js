@@ -2,34 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Williamsport", 
-      "first_name": "Mary", 
-      "last_name": "Webb", 
-      "user_id": 1783551, 
-      "submission": "What will you do to guard OUR SOCIAL SECURITY ACCOUNTS we own and prevent from them being a.  reduced or denied to us and b. our social security funds being funneled into other purposes?", 
-      "district": "OH_15", 
-      "created": "2013-08-09T14:19:58", 
-      "state": "OH", 
-      "iface": "timeline_vote", 
-      "y": 39.601, 
-      "x": -83.1221, 
-      "id": 16275496, 
-      "question_id": "16233077"
-    }, 
-    {
       "city": "Hitchcock", 
       "first_name": "MEL D", 
       "last_name": "COBBS JR", 
       "user_id": 1662733, 
-      "submission": "do you support a min wage increase", 
+      "submission": "What will you do to ensure that all Americans have access to the voting booth and what will you do to get money out of our elections so that we all have an equal voice?", 
       "district": "TX_14", 
-      "created": "2013-08-09T14:19:56", 
+      "created": "2013-08-09T14:20:58", 
       "state": "TX", 
       "iface": "timeline_vote", 
       "y": 29.3425, 
       "x": -95.001, 
-      "id": 16275495, 
-      "question_id": "16173625"
+      "id": 16275513, 
+      "question_id": "16205834"
+    }, 
+    {
+      "city": "Houston", 
+      "first_name": "Judy", 
+      "last_name": "Gilmore", 
+      "user_id": 1217884, 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "district": "TX_09", 
+      "created": "2013-08-09T14:20:58", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 29.6552, 
+      "x": -95.5461, 
+      "id": 16275514, 
+      "question_id": "16173259"
+    }, 
+    {
+      "city": "Valparaiso", 
+      "first_name": "Theresa", 
+      "last_name": "Hansen", 
+      "user_id": 1693883, 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "district": "IN_01", 
+      "created": "2013-08-09T14:20:54", 
+      "state": "IN", 
+      "iface": "timeline_vote", 
+      "y": 41.4892, 
+      "x": -87.0746, 
+      "id": 16275512, 
+      "question_id": "16173335"
+    }, 
+    {
+      "city": "Williamsport", 
+      "first_name": "Mary", 
+      "last_name": "Webb", 
+      "user_id": 1783551, 
+      "submission": "Would you support the pardoning of all victimless crime marijuana (Cannabis) offenders? Depopulating our For Profit Prisons?", 
+      "district": "OH_15", 
+      "created": "2013-08-09T14:20:51", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 39.601, 
+      "x": -83.1221, 
+      "id": 16275511, 
+      "question_id": "16208291"
     }, 
     {
       "city": "Imperial", 
@@ -64,21 +94,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16275488, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Valparaiso", 
-      "first_name": "Theresa", 
-      "last_name": "Hansen", 
-      "user_id": 1693883, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
-      "district": "IN_01", 
-      "created": "2013-08-09T14:19:25", 
-      "state": "IN", 
-      "iface": "timeline_vote", 
-      "y": 41.4892, 
-      "x": -87.0746, 
-      "id": 16275485, 
-      "question_id": "16175740"
     }, 
     {
       "city": "Tucson", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "x": -71.0053, 
       "id": 16275200, 
       "question_id": "16172281"
-    }, 
-    {
-      "city": "Thousand Oaks", 
-      "first_name": "Donald", 
-      "last_name": "Parker", 
-      "user_id": 1780183, 
-      "submission": "Congress persons have voted to put themselves in the driver's seat when it comes to their salaries. They vote themselves raises and we as citizens cannot over turn. What will you do to stop this practice?", 
-      "district": "CA_26", 
-      "created": "2013-08-09T14:02:45", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 34.1929, 
-      "x": -118.823, 
-      "id": 16275182, 
-      "question_id": "16173244"
     }
   ]
 });
