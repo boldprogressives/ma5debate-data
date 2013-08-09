@@ -2,6 +2,66 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Desert Hot Springs", 
+      "first_name": "JOANIE", 
+      "last_name": "LAINE", 
+      "user_id": 208923, 
+      "submission": "Will you pledge to change the current filibuster rule to what it had been in the past where a Senator had to stand and speak for the duration his/her filibuster? If not, why not?", 
+      "district": "CA_36", 
+      "created": "2013-08-09T05:34:00", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 33.9639, 
+      "x": -116.531, 
+      "id": 16265751, 
+      "question_id": "16197620"
+    }, 
+    {
+      "city": "Henderson", 
+      "first_name": "Irma", 
+      "last_name": "Torkzadeh", 
+      "user_id": 228626, 
+      "submission": "Will you fight to protect the Clean Air Act, the Clean Water Act and the EPA in a House of Representatives that has become increasingly hostile to all three?", 
+      "district": "NV_03", 
+      "created": "2013-08-09T05:33:49", 
+      "state": "NV", 
+      "iface": "timeline_vote", 
+      "y": 35.9926, 
+      "x": -115.12, 
+      "id": 16265748, 
+      "question_id": "16226952"
+    }, 
+    {
+      "city": "San Diego", 
+      "first_name": "IRMA", 
+      "last_name": "CAMARILLO", 
+      "user_id": 226704, 
+      "submission": "Would you pledge to take no gifts or money from special interest groups in exchange for your votes favoring them?", 
+      "district": "CA_53", 
+      "created": "2013-08-09T05:33:12", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 32.6757, 
+      "x": -117.05, 
+      "id": 16265741, 
+      "question_id": "16205451"
+    }, 
+    {
+      "city": "Terrebonne", 
+      "first_name": "Bon", 
+      "last_name": "Herlocker", 
+      "user_id": 26672, 
+      "submission": "Would you be in favor of Congress and the Senate payingfor heath care like the rest of us,and no pension for life unless you put in 25 years like almost every other American. ", 
+      "district": "OR_02", 
+      "created": "2013-08-09T05:33:09", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 44.3587, 
+      "x": -121.184, 
+      "id": 16265739, 
+      "question_id": "16188477"
+    }, 
+    {
       "city": "Conover", 
       "first_name": "Patrick", 
       "last_name": "Jean", 
@@ -17,21 +77,6 @@ opendebate.processTimeline({
       "question_id": "16172777"
     }, 
     {
-      "city": "Desert Hot Springs", 
-      "first_name": "JOANIE", 
-      "last_name": "LAINE", 
-      "user_id": 208923, 
-      "submission": "What will you do to curb the influence of lobbyist and limit campaign spending.  ", 
-      "district": "CA_36", 
-      "created": "2013-08-09T05:32:59", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 33.9639, 
-      "x": -116.531, 
-      "id": 16265736, 
-      "question_id": "16201563"
-    }, 
-    {
       "city": "port angeles .", 
       "first_name": "neil", 
       "last_name": "hildebrand", 
@@ -45,36 +90,6 @@ opendebate.processTimeline({
       "x": -123.481, 
       "id": 16265729, 
       "question_id": "16198297"
-    }, 
-    {
-      "city": "San Diego", 
-      "first_name": "IRMA", 
-      "last_name": "CAMARILLO", 
-      "user_id": 226704, 
-      "submission": "Do you support the concept of keeping church and state separate?", 
-      "district": "CA_53", 
-      "created": "2013-08-09T05:32:02", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 32.6757, 
-      "x": -117.05, 
-      "id": 16265722, 
-      "question_id": "16173921"
-    }, 
-    {
-      "city": "Henderson", 
-      "first_name": "Irma", 
-      "last_name": "Torkzadeh", 
-      "user_id": 228626, 
-      "submission": "How will you support the dignity and freedom of women to make medical decisions with their health care providers without interference of federal and state laws?", 
-      "district": "NV_03", 
-      "created": "2013-08-09T05:31:03", 
-      "state": "NV", 
-      "iface": "timeline_vote", 
-      "y": 35.9926, 
-      "x": -115.12, 
-      "id": 16265708, 
-      "question_id": "16183415"
     }, 
     {
       "city": "Bethesda", 
@@ -297,25 +312,6 @@ opendebate.processTimeline({
       "x": -123.411, 
       "id": 16265515, 
       "question_id": "16207073"
-    }, 
-    {
-      "city": "Claremont", 
-      "first_name": "Pat", 
-      "last_name": "Jackson", 
-      "user_id": 1687709, 
-      "submission": "How can we get the Republican Congress to work with our President for the benefit of all Americans not just the rich?", 
-      "district": "CA_27", 
-      "created": "2013-08-09T05:21:00", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "CA", 
-      "iface": "timeline_question", 
-      "y": 34.113, 
-      "x": -117.717, 
-      "latest_vote": null, 
-      "id": 16265501, 
-      "trending_score": 0.5
     }
   ]
 });
