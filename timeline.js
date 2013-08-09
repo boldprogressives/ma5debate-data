@@ -6,15 +6,45 @@ opendebate.processTimeline({
       "first_name": "Laura", 
       "last_name": "Snider", 
       "user_id": 1623887, 
-      "submission": "Should Bush and Cheney (AND Obama) be prosecuted for war crimes?", 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "TX_07", 
-      "created": "2013-08-09T08:12:02", 
+      "created": "2013-08-09T08:12:57", 
       "state": "TX", 
       "iface": "timeline_vote", 
       "y": 29.9064, 
       "x": -95.6552, 
-      "id": 16269693, 
+      "id": 16269703, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Shelton", 
+      "first_name": "scott", 
+      "last_name": "smith", 
+      "user_id": 1554039, 
+      "submission": "Should Bush and Cheney (AND Obama) be prosecuted for war crimes?", 
+      "district": "WA_06", 
+      "created": "2013-08-09T08:12:54", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 47.2027, 
+      "x": -123.099, 
+      "id": 16269702, 
       "question_id": "16219940"
+    }, 
+    {
+      "city": "Tryon", 
+      "first_name": "Murlel", 
+      "last_name": "Lunsford", 
+      "user_id": 1656934, 
+      "submission": "Will you support reform to congressional and executive compensation, including pay that is equal to the median income of the constituents they represent?", 
+      "district": "NC_10", 
+      "created": "2013-08-09T08:12:49", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.2172, 
+      "x": -82.2262, 
+      "id": 16269700, 
+      "question_id": "16201568"
     }, 
     {
       "city": "New York", 
@@ -60,21 +90,6 @@ opendebate.processTimeline({
       "x": -117.05, 
       "id": 16269689, 
       "question_id": "16206983"
-    }, 
-    {
-      "city": "Tryon", 
-      "first_name": "Murlel", 
-      "last_name": "Lunsford", 
-      "user_id": 1656934, 
-      "submission": "Currently campaign finance laws allow money to dictate elections & future decisions by the elected. Would you suppor a bill that publicly funds campaigns w/ free advertising for all candidates", 
-      "district": "NC_10", 
-      "created": "2013-08-09T08:10:07", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.2172, 
-      "x": -82.2262, 
-      "id": 16269681, 
-      "question_id": "16213319"
     }, 
     {
       "city": "Keaau", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "x": -71.1134, 
       "id": 16267583, 
       "question_id": "16202059"
-    }, 
-    {
-      "city": "Little Rock", 
-      "first_name": "Trish", 
-      "last_name": "Smith", 
-      "user_id": 1566349, 
-      "submission": "Are you going to stand up to the NRA, to stop our young and innocent, from being murdered?", 
-      "district": "AR_02", 
-      "created": "2013-08-09T07:22:09", 
-      "state": "AR", 
-      "iface": "timeline_vote", 
-      "y": 34.7519, 
-      "x": -92.3457, 
-      "id": 16267553, 
-      "question_id": "16199637"
     }
   ]
 });
