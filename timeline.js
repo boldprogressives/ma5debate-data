@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Nashville", 
-      "first_name": "D. S.", 
-      "last_name": "Kinzie", 
-      "user_id": 88880, 
-      "submission": "People who apply for mission critical jobs like astronauts have to pass multiple psychological tests. Why not politicians? An IQ test might not be a bad place to start.", 
-      "district": "TN_05", 
-      "created": "2013-08-09T10:33:53", 
-      "state": "TN", 
-      "iface": "timeline_vote", 
-      "y": 36.1088, 
-      "x": -86.7806, 
-      "id": 16270931, 
-      "question_id": "16213317"
-    }, 
-    {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Climate change has many facets: CO2/CH4 emissions, permafrost melting, ocean warming/acidification, overpopulation, et al. Who among you has a plan to defeat this unprecedented hydra of challenges?", 
+      "submission": "Would you support public financing of all political campaigns?", 
       "district": "MA_04", 
-      "created": "2013-08-09T10:33:53", 
+      "created": "2013-08-09T10:34:58", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270932, 
-      "question_id": "16201745"
+      "id": 16270943, 
+      "question_id": "16200039"
+    }, 
+    {
+      "city": "Nashville", 
+      "first_name": "D. S.", 
+      "last_name": "Kinzie", 
+      "user_id": 88880, 
+      "submission": "It is time we stop rewarding companies that outsource American jobs.  Would you propose a new tax on these companies, an import tax on products produced by these companies or some other form of incentive to keep jobs in this country?  Please be specific.", 
+      "district": "TN_05", 
+      "created": "2013-08-09T10:34:49", 
+      "state": "TN", 
+      "iface": "timeline_vote", 
+      "y": 36.1088, 
+      "x": -86.7806, 
+      "id": 16270942, 
+      "question_id": "16175276"
     }, 
     {
       "city": "New York", 
