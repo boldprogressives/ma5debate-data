@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Satellite Beach", 
+      "first_name": "Gordon Chandler", 
+      "last_name": "Chandler", 
+      "user_id": 428960, 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "district": "FL_08", 
+      "created": "2013-08-09T11:44:56", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 28.1728, 
+      "x": -80.5987, 
+      "id": 16271495, 
+      "question_id": "16172281"
+    }, 
+    {
+      "city": "Owensboro", 
+      "first_name": "Terry", 
+      "last_name": "peabody", 
+      "user_id": 792993, 
+      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
+      "district": "KY_02", 
+      "created": "2013-08-09T11:44:33", 
+      "state": "KY", 
+      "iface": "timeline_vote", 
+      "y": 37.7571, 
+      "x": -87.0926, 
+      "id": 16271490, 
+      "question_id": "16203676"
+    }, 
+    {
+      "city": "Williston", 
+      "first_name": "Michael", 
+      "last_name": "Lowe", 
+      "user_id": 654169, 
+      "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
+      "district": "FL_03", 
+      "created": "2013-08-09T11:44:15", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 29.3881, 
+      "x": -82.4535, 
+      "id": 16271488, 
+      "question_id": "16175500"
+    }, 
+    {
       "city": "Cincinnati", 
       "first_name": "Stacy", 
       "last_name": "Smith", 
@@ -30,21 +75,6 @@ opendebate.processTimeline({
       "x": -88.9932, 
       "id": 16271486, 
       "question_id": "16199637"
-    }, 
-    {
-      "city": "Williston", 
-      "first_name": "Michael", 
-      "last_name": "Lowe", 
-      "user_id": 654169, 
-      "submission": "Do you support the legalization of marijuana (which should be taxed & regulated like alcohol or tobacco)? If so, would you allow the release of nonviolent offenders from prison?", 
-      "district": "FL_03", 
-      "created": "2013-08-09T11:43:37", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 29.3881, 
-      "x": -82.4535, 
-      "id": 16271485, 
-      "question_id": "16172722"
     }, 
     {
       "city": "East Weymouth", 
@@ -270,36 +300,6 @@ opendebate.processTimeline({
       "x": -76.5089, 
       "id": 16271242, 
       "question_id": "16172657"
-    }, 
-    {
-      "city": "Saint Louis", 
-      "first_name": "june", 
-      "last_name": "roach", 
-      "user_id": 1618071, 
-      "submission": "Do you intend to be a vocal advocate favoring mandatory labeling of food and beverage products that contain genetically modified ingredients...labeling that indicates the presence of GMO?", 
-      "district": "MO_01", 
-      "created": "2013-08-09T11:09:27", 
-      "state": "MO", 
-      "iface": "timeline_vote", 
-      "y": 38.5956, 
-      "x": -90.2241, 
-      "id": 16271235, 
-      "question_id": "16248162"
-    }, 
-    {
-      "city": "key west", 
-      "first_name": "chris", 
-      "last_name": "Stone", 
-      "user_id": 192506, 
-      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
-      "district": "FL_26", 
-      "created": "2013-08-09T11:07:43", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 24.5625, 
-      "x": -81.7611, 
-      "id": 16271220, 
-      "question_id": "16203866"
     }
   ]
 });
