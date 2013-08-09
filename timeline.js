@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Granite Bay", 
+      "first_name": "Diane", 
+      "last_name": "Rohrer", 
+      "user_id": 1736259, 
+      "submission": "Would you support public financing of all political campaigns?", 
+      "district": "CA_04", 
+      "created": "2013-08-09T06:46:57", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 38.7442, 
+      "x": -121.191, 
+      "id": 16267139, 
+      "question_id": "16200039"
+    }, 
+    {
+      "city": "Iowa City", 
+      "first_name": "Sue", 
+      "last_name": "Christiansen", 
+      "user_id": 139957, 
+      "submission": "Will you propose returning to REPUBLICAN top tax rates for the ultra-rich to reduce our deficit - either Eisenhower's 91% or Nixon's 70% - since neither of these created a depression or recession?", 
+      "district": "IA_02", 
+      "created": "2013-08-09T06:46:56", 
+      "state": "IA", 
+      "iface": "timeline_vote", 
+      "y": 41.6542, 
+      "x": -91.5601, 
+      "id": 16267138, 
+      "question_id": "16177435"
+    }, 
+    {
       "city": "Dallas", 
       "first_name": "Violet", 
       "last_name": "Sunderland", 
@@ -15,36 +45,6 @@ opendebate.processTimeline({
       "x": -123.327, 
       "id": 16267119, 
       "question_id": "16200337"
-    }, 
-    {
-      "city": "Granite Bay", 
-      "first_name": "Diane", 
-      "last_name": "Rohrer", 
-      "user_id": 1736259, 
-      "submission": "What will you do to guard OUR SOCIAL SECURITY ACCOUNTS we own and prevent from them being a.  reduced or denied to us and b. our social security funds being funneled into other purposes?", 
-      "district": "CA_04", 
-      "created": "2013-08-09T06:45:57", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 38.7442, 
-      "x": -121.191, 
-      "id": 16267118, 
-      "question_id": "16233077"
-    }, 
-    {
-      "city": "Iowa City", 
-      "first_name": "Sue", 
-      "last_name": "Christiansen", 
-      "user_id": 139957, 
-      "submission": "Re Gun Control:  Will you fight the NRA to achieve basic reforms that most Americans agree on?:* Some people should never own any type of weapon.* Some weapons should never be owned by anyone.* Background checks should be universal and enforced.* Basic defense of self and home requires only a simple rifle and/or pistol, not assault weapons.* The Second Amendment refers to a \"well-regulated militia\"; this clause cannot be ignored, everything that follows relates to that.  It does not mean that any and all Americans may own any and all forms of weaponry. Would you support an amendment to the U.S. Constitution clarifying the Second Amendment as suggested above?", 
-      "district": "IA_02", 
-      "created": "2013-08-09T06:45:56", 
-      "state": "IA", 
-      "iface": "timeline_vote", 
-      "y": 41.6542, 
-      "x": -91.5601, 
-      "id": 16267117, 
-      "question_id": "16232223"
     }, 
     {
       "city": "Alvin", 
