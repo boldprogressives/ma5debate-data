@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Christiane", 
       "last_name": "Pors", 
       "user_id": 1785709, 
-      "submission": "are you aware that the social security trust fund is owed about 18% of the national debt because of borrowing by previous congresses? should there be a repayment plan set up by congress to make the fund even more solvent?", 
+      "submission": "We want reasonable and accountable banking - will you support the requirement for FIDUCIARY responsibility to customers  among all banks?", 
       "district": "NY_10", 
-      "created": "2013-08-09T09:01:15", 
+      "created": "2013-08-09T09:02:49", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7773, 
       "x": -73.9825, 
-      "id": 16270063, 
-      "question_id": "16185653"
+      "id": 16270066, 
+      "question_id": "16248929"
     }, 
     {
       "city": "Fort Worth", 
