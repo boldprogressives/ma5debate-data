@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Helena", 
+      "first_name": "Bob", 
+      "last_name": "Balhiser", 
+      "user_id": 674040, 
+      "submission": "Will you support Elizabeth Warren's efforts to create a new Glass-Steagall Act?", 
+      "district": "MT_01", 
+      "created": "2013-08-09T22:11:47", 
+      "state": "MT", 
+      "iface": "timeline_vote", 
+      "y": 46.6453, 
+      "x": -111.974, 
+      "id": 16286964, 
+      "question_id": "16201467"
+    }, 
+    {
       "city": "Fountain Hills", 
       "first_name": "Day", 
       "last_name": "Jolliff", 
       "user_id": 1785674, 
-      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
+      "submission": "Will you vote to end tax loopholes for the rich, big business subsides, overseas corporate tax loopholes, wasteful wars, foreign country subsides, quality health care for all, good safe food for all, clean air, clean energy, clean safe drinking water, useful education and job opportunities for all hard working citizens that can achieve these levels and deserve it, gun control, to end wall street fraud and corruption.", 
       "district": "AZ_06", 
-      "created": "2013-08-09T22:10:57", 
+      "created": "2013-08-09T22:11:30", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 33.609, 
       "x": -111.73, 
-      "id": 16286956, 
-      "question_id": "16173257"
+      "id": 16286963, 
+      "question_id": "16203215"
     }, 
     {
       "city": "Kansas City", 
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "Since I am constantly hearing single women parents are looking for public assistance, even though they may be working two or more low-wage jobs, why isn't more being done for equal pay for women in all jobs, as well as higher min. wages, even if it is just for your state.", 
+      "submission": "Why hasn't Dodd Frank been utilized?", 
       "district": "MO_06", 
-      "created": "2013-08-09T22:09:43", 
+      "created": "2013-08-09T22:11:11", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286949, 
-      "question_id": "16190885"
+      "id": 16286960, 
+      "question_id": "16190066"
     }, 
     {
       "city": "Arlington", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -122.789, 
       "id": 16286268, 
       "question_id": "16172765"
-    }, 
-    {
-      "city": "Lexington", 
-      "first_name": "Richard", 
-      "last_name": "Jenson", 
-      "user_id": 1644458, 
-      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
-      "district": "MA_05", 
-      "created": "2013-08-09T21:32:03", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4484, 
-      "x": -71.2338, 
-      "id": 16286259, 
-      "question_id": "16203676"
     }
   ]
 });
