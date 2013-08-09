@@ -2,34 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "New York", 
+      "first_name": "Gary", 
+      "last_name": "Miller", 
+      "user_id": 30166, 
+      "submission": "Should Bush and Cheney (AND Obama) be prosecuted for war crimes?", 
+      "district": "NY_10", 
+      "created": "2013-08-09T10:30:00", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.734, 
+      "x": -74.0053, 
+      "id": 16270900, 
+      "question_id": "16219940"
+    }, 
+    {
       "city": "Nashville", 
       "first_name": "D. S.", 
       "last_name": "Kinzie", 
       "user_id": 88880, 
-      "submission": "How will you support the dignity and freedom of women to make medical decisions with their health care providers without interference of federal and state laws?", 
+      "submission": "Will you support responsible reform among the big banks - never too big to FAIL, never too big to JAIL, and always too big to BAIL?", 
       "district": "TN_05", 
-      "created": "2013-08-09T10:29:01", 
+      "created": "2013-08-09T10:29:54", 
       "state": "TN", 
       "iface": "timeline_vote", 
       "y": 36.1088, 
       "x": -86.7806, 
-      "id": 16270890, 
-      "question_id": "16183415"
+      "id": 16270898, 
+      "question_id": "16248409"
+    }, 
+    {
+      "city": "San Antonio", 
+      "first_name": "Virginia", 
+      "last_name": "Whitney", 
+      "user_id": 1781081, 
+      "submission": "What, specifically, would you do to protect the right to vote for all? Please address specifically a new Voting Rights Act and the concept of a paper ballot that can be verified by the voter.", 
+      "district": "TX_20", 
+      "created": "2013-08-09T10:29:47", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 29.5671, 
+      "x": -98.6057, 
+      "id": 16270897, 
+      "question_id": "16207107"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "What will you do to curb the influence of lobbyist and limit campaign spending.  ", 
+      "submission": "What will you do to stop the GOP from shutting down the government because of the health care act?", 
       "district": "MA_04", 
-      "created": "2013-08-09T10:28:29", 
+      "created": "2013-08-09T10:29:27", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270885, 
-      "question_id": "16201563"
+      "id": 16270893, 
+      "question_id": "16229765"
     }, 
     {
       "city": "Raleigh", 
@@ -270,40 +300,6 @@ opendebate.processTimeline({
       "x": -82.3639, 
       "id": 16270440, 
       "question_id": "16185364"
-    }, 
-    {
-      "city": "Eugene", 
-      "first_name": "Patience", 
-      "last_name": "Pontious", 
-      "user_id": 1808482, 
-      "submission": "Would you be willing to be polygraphed while answering these questions?", 
-      "district": "OR_04", 
-      "created": "2013-08-09T09:48:50", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "OR", 
-      "iface": "timeline_question", 
-      "y": 43.9495, 
-      "x": -123.128, 
-      "latest_vote": null, 
-      "id": 16270415, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "New Bedford", 
-      "first_name": "alan", 
-      "last_name": "mc alister", 
-      "user_id": 636564, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "MA_09", 
-      "created": "2013-08-09T09:46:55", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 41.6634, 
-      "x": -70.9362, 
-      "id": 16270409, 
-      "question_id": "16172266"
     }
   ]
 });
