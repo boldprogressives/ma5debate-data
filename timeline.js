@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Fountain Hills", 
-      "first_name": "Day", 
-      "last_name": "Jolliff", 
-      "user_id": 1785674, 
-      "submission": "The threat that hangs over the country today is a GOP determined to destroy the middle class and the values that define it.  What specific steps will you recommend to confront, not appease, the GOP?", 
-      "district": "AZ_06", 
-      "created": "2013-08-09T22:23:44", 
-      "state": "AZ", 
+      "city": "Detroit", 
+      "first_name": "Daniel", 
+      "last_name": "Sarasin", 
+      "user_id": 1487238, 
+      "submission": "Do/would you support an investigation of any/all Representative\u2019s that signed the Norquist pledge as having a conflict of interest with their pledge to uphold the Constitution and make government work?", 
+      "district": "MI_13", 
+      "created": "2013-08-09T22:24:58", 
+      "state": "MI", 
       "iface": "timeline_vote", 
-      "y": 33.609, 
-      "x": -111.73, 
-      "id": 16287068, 
-      "question_id": "16172694"
+      "y": 42.3801, 
+      "x": -83.0518, 
+      "id": 16287074, 
+      "question_id": "16206139"
     }, 
     {
       "city": "Daniel Island", 
       "first_name": "FRANCIS", 
       "last_name": "HENDERSON", 
       "user_id": 401891, 
-      "submission": "Will you work to support Elizabeth Warren's efforts to revise Glass-Steagall", 
+      "submission": "How do you propose stopping the GOPs continued assault on women's reproductive rights?", 
       "district": "SC_01", 
-      "created": "2013-08-09T22:23:41", 
+      "created": "2013-08-09T22:24:48", 
       "state": "SC", 
       "iface": "timeline_vote", 
       "y": 32.9557, 
       "x": -79.8873, 
-      "id": 16287067, 
-      "question_id": "16265543"
+      "id": 16287072, 
+      "question_id": "16205884"
+    }, 
+    {
+      "city": "Fountain Hills", 
+      "first_name": "Day", 
+      "last_name": "Jolliff", 
+      "user_id": 1785674, 
+      "submission": "What would you do to end the SCOTUS ruling Citizens United & how will you stop the GOP led states enacting extremist voter suppresion?", 
+      "district": "AZ_06", 
+      "created": "2013-08-09T22:24:28", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 33.609, 
+      "x": -111.73, 
+      "id": 16287070, 
+      "question_id": "16207073"
     }, 
     {
       "city": "Lafayette", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -88.9101, 
       "id": 16286728, 
       "question_id": "16175637"
-    }, 
-    {
-      "city": "Rancho Santa Margarita", 
-      "first_name": "George", 
-      "last_name": "I.", 
-      "user_id": 1714387, 
-      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
-      "district": "CA_45", 
-      "created": "2013-08-09T21:42:21", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 33.6512, 
-      "x": -117.594, 
-      "id": 16286693, 
-      "question_id": "16203676"
     }
   ]
 });
