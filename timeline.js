@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Prosperity", 
+      "first_name": "Druie", 
+      "last_name": "Cavender", 
+      "user_id": 1174237, 
+      "submission": "Do you support the concept of keeping church and state separate?", 
+      "district": "SC_05", 
+      "created": "2013-08-09T13:45:51", 
+      "state": "SC", 
+      "iface": "timeline_vote", 
+      "y": 34.1824, 
+      "x": -81.5209, 
+      "id": 16274452, 
+      "question_id": "16173921"
+    }, 
+    {
+      "city": "Gainesville", 
+      "first_name": "Stefany", 
+      "last_name": "McLain", 
+      "user_id": 230881, 
+      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
+      "district": "FL_03", 
+      "created": "2013-08-09T13:45:47", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 29.6969, 
+      "x": -82.4117, 
+      "id": 16274451, 
+      "question_id": "16175740"
+    }, 
+    {
       "city": "Grapevine", 
       "first_name": "Ed", 
       "last_name": "Franco", 
@@ -19,21 +49,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16274440, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Gainesville", 
-      "first_name": "Stefany", 
-      "last_name": "McLain", 
-      "user_id": 230881, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
-      "district": "FL_03", 
-      "created": "2013-08-09T13:44:57", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 29.6969, 
-      "x": -82.4117, 
-      "id": 16274439, 
-      "question_id": "16172913"
     }, 
     {
       "city": "memphis", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16273099, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Port Orchard", 
-      "first_name": "Neal", 
-      "last_name": "Foley", 
-      "user_id": 1538368, 
-      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
-      "district": "WA_06", 
-      "created": "2013-08-09T13:33:23", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 47.5312, 
-      "x": -122.64, 
-      "id": 16273096, 
-      "question_id": "16172207"
     }
   ]
 });
