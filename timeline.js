@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "New Castle", 
+      "first_name": "joseph", 
+      "last_name": "gaw", 
+      "user_id": 1706024, 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "district": "IN_06", 
+      "created": "2013-08-09T12:23:01", 
+      "state": "IN", 
+      "iface": "timeline_vote", 
+      "y": 39.9196, 
+      "x": -85.3403, 
+      "id": 16272008, 
+      "question_id": "16173259"
+    }, 
+    {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Why is the middle class disappearing?", 
+      "district": "MA_04", 
+      "created": "2013-08-09T12:22:51", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16272006, 
+      "question_id": "16200549"
+    }, 
+    {
       "city": "Fayetteville", 
       "first_name": "Vera", 
       "last_name": "Morgan", 
       "user_id": 1012008, 
-      "submission": "What will you do SPECIFICALLY about women's issues: reproductive rights, equal pay, violence against women, military violence against women, family caregiving, etc. etc. etc.?", 
+      "submission": "If the Constitution defines income as \"profits made from the labor of others\" Why are the corporations not paying their taxes while the citizens are taxed?\u00a0We make no profit we exchange time for wages", 
       "district": "NC_04", 
-      "created": "2013-08-09T12:22:00", 
+      "created": "2013-08-09T12:22:48", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.0577, 
       "x": -79.0035, 
-      "id": 16271999, 
-      "question_id": "16175552"
+      "id": 16272005, 
+      "question_id": "16198297"
     }, 
     {
       "city": "West Warwick", 
@@ -34,21 +64,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16271997, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "Big banks today are able to issue loans and not offer any assistance when the borrower needs help, yet they are allowed all kinds of Federal kickbacks and help. What will you do to protect taxpayers?", 
-      "district": "MA_04", 
-      "created": "2013-08-09T12:21:47", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16271996, 
-      "question_id": "16191182"
     }, 
     {
       "city": "Suffern", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -74.3699, 
       "id": 16271807, 
       "question_id": "16173335"
-    }, 
-    {
-      "city": "Lowell", 
-      "first_name": "Mariatou", 
-      "last_name": "Allie-Dumbuya", 
-      "user_id": 1658412, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "MA_03", 
-      "created": "2013-08-09T12:06:01", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.6345, 
-      "x": -71.2968, 
-      "id": 16271793, 
-      "question_id": "16172266"
     }
   ]
 });
