@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Murlel", 
       "last_name": "Lunsford", 
       "user_id": 1656934, 
-      "submission": "How can we stop paying Congress for not doing their jobs and take away their healthcare benefits?", 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
       "district": "NC_10", 
-      "created": "2013-08-09T07:41:50", 
+      "created": "2013-08-09T07:42:56", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.2172, 
       "x": -82.2262, 
-      "id": 16269326, 
-      "question_id": "16210559"
+      "id": 16269446, 
+      "question_id": "16172913"
     }, 
     {
       "city": "Los Angeles", 
       "first_name": "Ellen", 
       "last_name": "Steens", 
       "user_id": 1782363, 
-      "submission": "Do you support repealing the Patriot Act and please give us the reasons for your position.", 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
       "district": "CA_37", 
-      "created": "2013-08-09T07:41:05", 
+      "created": "2013-08-09T07:42:22", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 34.0277, 
       "x": -118.352, 
-      "id": 16269176, 
-      "question_id": "16230106"
+      "id": 16269443, 
+      "question_id": "16172777"
     }, 
     {
       "city": "Charlotte", 
