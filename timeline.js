@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "Do you support the labeling of GMOs and if so, what do you intend to do to promote people's right to know what is in their food?", 
-      "district": "MA_04", 
-      "created": "2013-08-09T09:51:57", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16270435, 
-      "question_id": "16176001"
-    }, 
-    {
       "city": "Tampa", 
       "first_name": "DeRoy", 
       "last_name": "Nunoo", 
       "user_id": 702305, 
-      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "submission": "will you pledge to oppose Any cuts to social Security or Medicare?", 
       "district": "FL_15", 
-      "created": "2013-08-09T09:51:41", 
+      "created": "2013-08-09T09:52:55", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 28.1145, 
       "x": -82.3639, 
-      "id": 16270434, 
-      "question_id": "16172727"
+      "id": 16270440, 
+      "question_id": "16185364"
+    }, 
+    {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "What will you do about gun control and the scare tactics/bullying by the NRA and gun lobbyists?  How will you approach the Right's program of 'divisiveness and culture of fear' that now rips us apart?", 
+      "district": "MA_04", 
+      "created": "2013-08-09T09:52:32", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16270438, 
+      "question_id": "16176673"
     }, 
     {
       "city": "Eugene", 
