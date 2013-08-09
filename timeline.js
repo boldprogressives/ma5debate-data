@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Sacramento", 
+      "first_name": "Dale", 
+      "last_name": "K", 
+      "user_id": 259652, 
+      "submission": "Will you pledge to protect Social Security and expand it if possible for the Elderly and Dusabled?", 
+      "district": "CA_06", 
+      "created": "2013-08-09T10:36:58", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 38.5753, 
+      "x": -121.507, 
+      "id": 16270959, 
+      "question_id": "16238957"
+    }, 
+    {
       "city": "Nashville", 
       "first_name": "D. S.", 
       "last_name": "Kinzie", 
       "user_id": 88880, 
-      "submission": "Would you support an independent prosecutor for major financial crimes who would review regulatory agency civil charges for possible criminal prosecution?Over 30,000 criminal referrals were made in the savings and loan crisis, but since 2008, the major banking regulatory agencies have made zero criminal referrals despite overwhelming evidence of criminal fraud.", 
+      "submission": "The Occupy movement was an outcry against the takeover of America by the Wall Street plutocracy.  What will you do to advance this cause of taking back our democracy and our government from Big Money?", 
       "district": "TN_05", 
-      "created": "2013-08-09T10:36:04", 
+      "created": "2013-08-09T10:36:52", 
       "state": "TN", 
       "iface": "timeline_vote", 
       "y": 36.1088, 
       "x": -86.7806, 
-      "id": 16270950, 
-      "question_id": "16236054"
+      "id": 16270957, 
+      "question_id": "16206953"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Will you do everything you possibly can to eliminate all subsidies to the fossil fuel industry while promoting and supporting clean, renewable energy sources?", 
+      "submission": "Why is the U.S. Congress,year after year,taking funds out of the Social Security fund.This is not legal,yet the U.S. Congress Continues this practice.Why ? Martin Boroian", 
       "district": "MA_04", 
-      "created": "2013-08-09T10:35:45", 
+      "created": "2013-08-09T10:36:51", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270948, 
-      "question_id": "16178291"
+      "id": 16270958, 
+      "question_id": "16201488"
     }, 
     {
       "city": "New York", 
@@ -285,21 +300,6 @@ opendebate.processTimeline({
       "x": -115.142, 
       "id": 16270473, 
       "question_id": "16172694"
-    }, 
-    {
-      "city": "Tampa", 
-      "first_name": "DeRoy", 
-      "last_name": "Nunoo", 
-      "user_id": 702305, 
-      "submission": "will you pledge to oppose Any cuts to social Security or Medicare?", 
-      "district": "FL_15", 
-      "created": "2013-08-09T09:52:55", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 28.1145, 
-      "x": -82.3639, 
-      "id": 16270440, 
-      "question_id": "16185364"
     }
   ]
 });
