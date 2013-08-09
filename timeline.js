@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "charles", 
       "last_name": "philp", 
       "user_id": 1759838, 
-      "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
+      "submission": "Why are so many countries banning GMO foods but the US refuses to do so? Why aren't they required to label them as such? ", 
       "district": "NY_12", 
-      "created": "2013-08-09T08:22:41", 
+      "created": "2013-08-09T08:24:00", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7653, 
       "x": -73.9638, 
-      "id": 16269807, 
-      "question_id": "16175500"
+      "id": 16269847, 
+      "question_id": "16205646"
     }, 
     {
       "city": "Santa Fe", 
       "first_name": "Victoria", 
       "last_name": "Scott", 
       "user_id": 1708295, 
-      "submission": "The Occupy movement was an outcry against the takeover of America by the Wall Street plutocracy.  What will you do to advance this cause of taking back our democracy and our government from Big Money?", 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
       "district": "NM_03", 
-      "created": "2013-08-09T08:22:33", 
+      "created": "2013-08-09T08:23:25", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 35.6768, 
       "x": -105.958, 
-      "id": 16269804, 
-      "question_id": "16206953"
+      "id": 16269830, 
+      "question_id": "16172755"
     }, 
     {
       "city": "East Calais", 
