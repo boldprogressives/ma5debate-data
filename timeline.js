@@ -6,45 +6,75 @@ opendebate.processTimeline({
       "first_name": "Violet", 
       "last_name": "Sunderland", 
       "user_id": 986238, 
-      "submission": "What can we do to bring American jobs back to America with decent wages.", 
+      "submission": "Specifically, do you support or are you opposed to continuous genetically modified food production and chemical farming with pesticides, herbicides and insecticides?", 
       "district": "OR_05", 
-      "created": "2013-08-09T06:48:57", 
+      "created": "2013-08-09T06:50:02", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 44.9222, 
       "x": -123.327, 
-      "id": 16267169, 
-      "question_id": "16182857"
+      "id": 16267187, 
+      "question_id": "16179784"
     }, 
     {
       "city": "Burnsville", 
       "first_name": "Thomas", 
       "last_name": "Lichtenstein", 
       "user_id": 1777333, 
-      "submission": "Will you pledge to protect Social Security and expand it if possible for the Elderly and Dusabled?", 
+      "submission": "I was surprised and dimayed you supported the Monsanto Farm Bill. Do you support a communities right to require GMO labeling and to prohibit GMO crops from being planted within pollinating distance of  established Organic Farms?", 
       "district": "MN_02", 
-      "created": "2013-08-09T06:48:56", 
+      "created": "2013-08-09T06:49:57", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16267168, 
-      "question_id": "16238957"
+      "id": 16267186, 
+      "question_id": "16174618"
+    }, 
+    {
+      "city": "Tryon", 
+      "first_name": "Murlel", 
+      "last_name": "Lunsford", 
+      "user_id": 1656934, 
+      "submission": "What will you do to reduce the number of Americans in prison for victimless crimes such as marijuana possession?", 
+      "district": "NC_10", 
+      "created": "2013-08-09T06:49:56", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.2172, 
+      "x": -82.2262, 
+      "id": 16267185, 
+      "question_id": "16180815"
     }, 
     {
       "city": "New York", 
       "first_name": "Marcus", 
       "last_name": "Adams", 
       "user_id": 526656, 
-      "submission": "Will you work to protect Planned Parenthood and affordable health care for all women", 
+      "submission": "/What will you do to bring to end the very distructive drug war.  Could you at least support and promote moving Marijuana from level i to a lower level of controled substance as the first step.", 
       "district": "NY_10", 
-      "created": "2013-08-09T06:48:55", 
+      "created": "2013-08-09T06:49:40", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7243, 
       "x": -73.9961, 
-      "id": 16267167, 
-      "question_id": "16263952"
+      "id": 16267179, 
+      "question_id": "16262893"
+    }, 
+    {
+      "city": "Ashland", 
+      "first_name": "madeleine", 
+      "last_name": "Sklar", 
+      "user_id": 91433, 
+      "submission": "What will you do to support real campaign finance reform that will remove entrenched special interest money and its attendant corruption from our aspiring democracy?", 
+      "district": "OR_02", 
+      "created": "2013-08-09T06:49:39", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 42.1583, 
+      "x": -122.634, 
+      "id": 16267178, 
+      "question_id": "16186239"
     }, 
     {
       "city": "Iowa City", 
@@ -90,21 +120,6 @@ opendebate.processTimeline({
       "x": -95.2394, 
       "id": 16267109, 
       "question_id": "16192922"
-    }, 
-    {
-      "city": "Tryon", 
-      "first_name": "Murlel", 
-      "last_name": "Lunsford", 
-      "user_id": 1656934, 
-      "submission": "Republicans have shifted much of their strategy for reducing reproductive rights to the state level.  How will you ensure women have access to the safe and legal abortions Roe v. Wade promised us?", 
-      "district": "NC_10", 
-      "created": "2013-08-09T06:42:01", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.2172, 
-      "x": -82.2262, 
-      "id": 16267049, 
-      "question_id": "16177825"
     }, 
     {
       "city": "Portland", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -122.439, 
       "id": 16266826, 
       "question_id": "16172765"
-    }, 
-    {
-      "city": "Pataskala", 
-      "first_name": "Charles", 
-      "last_name": "Ross", 
-      "user_id": 1663171, 
-      "submission": "What would you do to end the SCOTUS ruling Citizens United & how will you stop the GOP led states enacting extremist voter suppresion?", 
-      "district": "OH_12", 
-      "created": "2013-08-09T06:31:30", 
-      "state": "OH", 
-      "iface": "timeline_vote", 
-      "y": 40.006, 
-      "x": -82.6762, 
-      "id": 16266801, 
-      "question_id": "16207073"
     }
   ]
 });
