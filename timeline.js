@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Richmond", 
+      "first_name": "Paula", 
+      "last_name": "Goodman", 
+      "user_id": 546461, 
+      "submission": "Are you going to stand up to the NRA, to stop our young and innocent, from being murdered?", 
+      "district": "CA_11", 
+      "created": "2013-08-09T09:04:22", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 37.9423, 
+      "x": -122.355, 
+      "id": 16270070, 
+      "question_id": "16199637"
+    }, 
+    {
       "city": "New York", 
       "first_name": "Christiane", 
       "last_name": "Pors", 
       "user_id": 1785709, 
-      "submission": "Do you think Supreme Court Judges should sign/abide by a Code Of Ethics?", 
+      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
       "district": "NY_10", 
-      "created": "2013-08-09T09:03:28", 
+      "created": "2013-08-09T09:04:15", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7773, 
       "x": -73.9825, 
-      "id": 16270068, 
-      "question_id": "16194740"
+      "id": 16270069, 
+      "question_id": "16172727"
     }, 
     {
       "city": "Fort Worth", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "latest_vote": "2013-08-09T08:33:09", 
       "id": 16269603, 
       "trending_score": 2.5
-    }, 
-    {
-      "city": "Riverside", 
-      "first_name": "Valerie", 
-      "last_name": "Fields", 
-      "user_id": 1180132, 
-      "submission": "When are you going to get rid of the former Monsanto exec. the Secretary of Agriculture who's allowing our bee population to be killed off by his former company's pesticides? Are we going to have our food source destroyed just so a handful of robber barons can line their pockets?  ", 
-      "district": "CA_41", 
-      "created": "2013-08-09T07:58:21", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 33.9401, 
-      "x": -117.362, 
-      "id": 16269596, 
-      "question_id": "16234686"
     }
   ]
 });
