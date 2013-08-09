@@ -1234,7 +1234,7 @@ opendebate.processFetchedQuestions({
       "x": -111.955, 
       "latest_vote": "2013-08-09T09:07:40", 
       "id": 16260137, 
-      "trending_score": 0.25
+      "trending_score": 0.3333333333333333
     }, 
     {
       "city": "Portland", 
@@ -4179,7 +4179,7 @@ opendebate.processFetchedQuestions({
       "x": -91.7234, 
       "latest_vote": "2013-08-09T11:04:05", 
       "id": 16236353, 
-      "trending_score": 2.25
+      "trending_score": 1.0
     }, 
     {
       "city": "Huntington", 
@@ -4483,7 +4483,7 @@ opendebate.processFetchedQuestions({
       "x": -76.9287, 
       "latest_vote": "2013-08-09T08:01:46", 
       "id": 16234754, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "West Jefferson", 
@@ -4540,7 +4540,7 @@ opendebate.processFetchedQuestions({
       "x": -83.826, 
       "latest_vote": "2013-08-09T12:37:52", 
       "id": 16234626, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Phila", 
@@ -5262,7 +5262,7 @@ opendebate.processFetchedQuestions({
       "x": -119.717, 
       "latest_vote": "2013-08-09T13:34:08", 
       "id": 16230106, 
-      "trending_score": 4.25
+      "trending_score": 4.5
     }, 
     {
       "city": "Port Allegany", 
@@ -12083,7 +12083,7 @@ opendebate.processFetchedQuestions({
       "x": -118.354, 
       "latest_vote": "2013-08-09T13:33:00", 
       "id": 16209667, 
-      "trending_score": 4.25
+      "trending_score": 4.5
     }, 
     {
       "city": "Lexington", 
@@ -12197,7 +12197,7 @@ opendebate.processFetchedQuestions({
       "x": -79.9232, 
       "latest_vote": "2013-08-09T13:29:09", 
       "id": 16209148, 
-      "trending_score": 5.5
+      "trending_score": 3.0
     }, 
     {
       "city": "Litchfield", 
@@ -12758,16 +12758,16 @@ opendebate.processFetchedQuestions({
       "submission": "What would you do to end the SCOTUS ruling Citizens United & how will you stop the GOP led states enacting extremist voter suppresion?", 
       "district": "NC_10", 
       "created": "2013-08-06T21:59:08", 
-      "state_votes": 14, 
-      "votes": 186, 
-      "district_votes": 2, 
+      "state_votes": 15, 
+      "votes": 187, 
+      "district_votes": 3, 
       "state": "NC", 
       "iface": "question", 
       "y": 35.6374, 
       "x": -82.5584, 
-      "latest_vote": "2013-08-09T12:45:54", 
+      "latest_vote": "2013-08-09T14:01:23", 
       "id": 16207073, 
-      "trending_score": 3.25
+      "trending_score": 4.25
     }, 
     {
       "city": "Hollywood", 
@@ -18600,7 +18600,7 @@ opendebate.processFetchedQuestions({
       "x": -84.943, 
       "latest_vote": "2013-08-09T13:25:23", 
       "id": 16185653, 
-      "trending_score": 4.0
+      "trending_score": 6.25
     }, 
     {
       "city": "Los Angeles", 
@@ -21070,7 +21070,7 @@ opendebate.processFetchedQuestions({
       "x": -73.0744, 
       "latest_vote": "2013-08-09T13:31:54", 
       "id": 16180815, 
-      "trending_score": 1.5
+      "trending_score": 1.75
     }, 
     {
       "city": "Los Angeles", 
@@ -22942,16 +22942,16 @@ opendebate.processFetchedQuestions({
       "submission": "What would you do to eliminate congressional pensions so congress has a stake in social security retirement benifits.", 
       "district": "SD_01", 
       "created": "2013-08-05T08:33:08", 
-      "state_votes": 14, 
-      "votes": 173, 
-      "district_votes": 3, 
+      "state_votes": 15, 
+      "votes": 174, 
+      "district_votes": 4, 
       "state": "SD", 
       "iface": "question", 
       "y": 43.517, 
       "x": -96.7896, 
-      "latest_vote": "2013-08-09T13:36:19", 
+      "latest_vote": "2013-08-09T14:01:03", 
       "id": 16176855, 
-      "trending_score": 6.5
+      "trending_score": 7.5
     }, 
     {
       "city": "Kula", 
@@ -25763,7 +25763,7 @@ opendebate.processFetchedQuestions({
       "x": -112.112, 
       "latest_vote": "2013-08-09T13:54:41", 
       "id": 16174319, 
-      "trending_score": 9.166666666666666
+      "trending_score": 9.25
     }, 
     {
       "city": "Great Neck", 
@@ -26618,7 +26618,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-09T13:55:56", 
       "id": 16173335, 
-      "trending_score": 49.166666666666664
+      "trending_score": 49.25
     }, 
     {
       "city": "Evansville", 
@@ -26713,7 +26713,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9488, 
       "latest_vote": "2013-08-09T13:47:29", 
       "id": 16173320, 
-      "trending_score": 16.0
+      "trending_score": 10.75
     }, 
     {
       "city": "Bensenville", 
@@ -26903,7 +26903,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-09T13:59:28", 
       "id": 16173264, 
-      "trending_score": 16.5
+      "trending_score": 13.45
     }, 
     {
       "city": "Prosper", 
@@ -28062,7 +28062,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7109, 
       "latest_vote": "2013-08-09T13:31:42", 
       "id": 16172722, 
-      "trending_score": 7.0
+      "trending_score": 4.75
     }, 
     {
       "city": "Albuquerque", 
@@ -28879,7 +28879,7 @@ opendebate.processFetchedQuestions({
       "x": -71.0053, 
       "latest_vote": "2013-08-09T13:32:28", 
       "id": 16172172, 
-      "trending_score": 7.25
+      "trending_score": 3.5
     }, 
     {
       "city": "cambridge", 
