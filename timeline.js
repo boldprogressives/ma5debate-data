@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Decatur", 
+      "first_name": "Wilma", 
+      "last_name": "Bondurant", 
+      "user_id": 1807845, 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "district": "IL_13", 
+      "created": "2013-08-09T11:31:51", 
+      "state": "IL", 
+      "iface": "timeline_vote", 
+      "y": 39.846, 
+      "x": -88.9932, 
+      "id": 16271394, 
+      "question_id": "16173259"
+    }, 
+    {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "What will you do to resolve the omissions and distortions in official statements regarding the Boston Marathon attack, as documented at globalresearch.ca? ($10 says this question gets buried.)", 
+      "submission": "What will you do SPECIFICALLY about women's issues: reproductive rights, equal pay, violence against women, military violence against women, family caregiving, etc. etc. etc.?", 
       "district": "MA_04", 
-      "created": "2013-08-09T11:30:40", 
+      "created": "2013-08-09T11:31:48", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16271389, 
-      "question_id": "16210153"
+      "id": 16271393, 
+      "question_id": "16175552"
     }, 
     {
       "city": "Sudbury", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "latest_vote": "2013-08-09T11:27:21", 
       "id": 16271019, 
       "trending_score": 1.5
-    }, 
-    {
-      "city": "Sacramento", 
-      "first_name": "Dale", 
-      "last_name": "K", 
-      "user_id": 259652, 
-      "submission": "What can you do to improve public transit nationally, including building a good rail network, when the governors and legislatures of some key states are so resistant to it?", 
-      "district": "CA_06", 
-      "created": "2013-08-09T10:38:15", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 38.5753, 
-      "x": -121.507, 
-      "id": 16270977, 
-      "question_id": "16172286"
     }
   ]
 });
