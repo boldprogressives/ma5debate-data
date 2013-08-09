@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Dallas", 
-      "first_name": "Violet", 
-      "last_name": "Sunderland", 
-      "user_id": 986238, 
-      "submission": "Will you protect Social Security And Medicare by not cutting it with the chained CPI for Social Security that has been mentioned.  Also, no cuts to Medicare but closing the donute hole 100% so seniors aren't left fending for themselves to pay full price for their drugs.", 
-      "district": "OR_05", 
-      "created": "2013-08-09T07:12:44", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 44.9222, 
-      "x": -123.327, 
-      "id": 16267461, 
-      "question_id": "16175570"
-    }, 
-    {
       "city": "Tryon", 
       "first_name": "Murlel", 
       "last_name": "Lunsford", 
       "user_id": 1656934, 
-      "submission": "Do you think there should be a separation of corporations and state similar to the separation of church and state? If so, what specific actions would you take to get money out of politics?", 
+      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
       "district": "NC_10", 
-      "created": "2013-08-09T07:12:10", 
+      "created": "2013-08-09T07:13:40", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.2172, 
       "x": -82.2262, 
-      "id": 16267456, 
-      "question_id": "16206519"
+      "id": 16267468, 
+      "question_id": "16175637"
+    }, 
+    {
+      "city": "Dallas", 
+      "first_name": "Violet", 
+      "last_name": "Sunderland", 
+      "user_id": 986238, 
+      "submission": "Do you favor legislation to protect our water, land, and communities from the negative environmental and social impacts of fracking for natural gas?", 
+      "district": "OR_05", 
+      "created": "2013-08-09T07:13:40", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 44.9222, 
+      "x": -123.327, 
+      "id": 16267470, 
+      "question_id": "16204423"
     }, 
     {
       "city": "Henderson", 
@@ -40,15 +40,15 @@ opendebate.processTimeline({
       "district": "NV_03", 
       "created": "2013-08-09T07:11:16", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "NV", 
       "iface": "timeline_question", 
       "y": 36.0401, 
       "x": -115.077, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-09T07:13:18", 
       "id": 16267450, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Suffern", 
@@ -243,15 +243,15 @@ opendebate.processTimeline({
       "district": "NV_03", 
       "created": "2013-08-09T06:51:00", 
       "state_votes": 0, 
-      "votes": 2, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "NV", 
       "iface": "timeline_question", 
       "y": 36.0401, 
       "x": -115.077, 
-      "latest_vote": "2013-08-09T07:12:44", 
+      "latest_vote": "2013-08-09T07:13:59", 
       "id": 16267196, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Burnsville", 
