@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Paul", 
       "last_name": "Deeter", 
       "user_id": 1705561, 
-      "submission": "Will you propose returning to REPUBLICAN top tax rates for the ultra-rich to reduce our deficit - either Eisenhower's 91% or Nixon's 70% - since neither of these created a depression or recession?", 
+      "submission": "Why don't we change the lobbying rules so that we do not have a system that legalizes bribery, and why do we not reform the filibuster so congress does not have an excuse to continue doing nothing ?", 
       "district": "HI_02", 
-      "created": "2013-08-09T07:59:59", 
+      "created": "2013-08-09T08:00:52", 
       "state": "HI", 
       "iface": "timeline_vote", 
       "y": 19.5754, 
       "x": -154.962, 
-      "id": 16269610, 
-      "question_id": "16177435"
+      "id": 16269615, 
+      "question_id": "16174072"
     }, 
     {
       "city": "Tryon", 
       "first_name": "Murlel", 
       "last_name": "Lunsford", 
       "user_id": 1656934, 
-      "submission": "Would you be willing to support \"term limits\" for our elected officials in order to end the \"self-serving, career-oriented\" politician?", 
+      "submission": "What will you do SPECIFICALLY about women's issues: reproductive rights, equal pay, violence against women, military violence against women, family caregiving, etc. etc. etc.?", 
       "district": "NC_10", 
-      "created": "2013-08-09T07:59:38", 
+      "created": "2013-08-09T08:00:29", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.2172, 
       "x": -82.2262, 
-      "id": 16269608, 
-      "question_id": "16176054"
+      "id": 16269613, 
+      "question_id": "16175552"
     }, 
     {
       "city": "San Diego", 
