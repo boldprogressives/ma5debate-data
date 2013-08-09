@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Delray Beach", 
+      "first_name": "Heddy", 
+      "last_name": "Schlckman", 
+      "user_id": 1781127, 
+      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "district": "FL_22", 
+      "created": "2013-08-09T11:11:00", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 26.4576, 
+      "x": -80.1352, 
+      "id": 16271248, 
+      "question_id": "16172727"
+    }, 
+    {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Should the US be investing more in education? If so, what should we invest in (pre-school, public universities, technology upgrades for high schools, etc.) and how should we pay for it?", 
+      "submission": "Why do we take money from public education and build more prisons? Is this what are future holds for our children? But they claim there is no money for Public Education. Where do you stand?", 
       "district": "MA_04", 
-      "created": "2013-08-09T11:09:59", 
+      "created": "2013-08-09T11:10:58", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16271241, 
-      "question_id": "16172172"
-    }, 
-    {
-      "city": "Mount Joy", 
-      "first_name": "Margaret", 
-      "last_name": "Beitzel", 
-      "user_id": 526895, 
-      "submission": "Will you be the first representative in congress to submit legislation to overturn the 2006 Postal accountability act which put an unfair burden on the uSPS, guaranteeing it would NEVER make a profit..?", 
-      "district": "PA_16", 
-      "created": "2013-08-09T11:09:51", 
-      "state": "PA", 
-      "iface": "timeline_vote", 
-      "y": 40.1085, 
-      "x": -76.5089, 
-      "id": 16271240, 
-      "question_id": "16261042"
+      "id": 16271247, 
+      "question_id": "16202593"
     }, 
     {
       "city": "Nashville", 
       "first_name": "D. S.", 
       "last_name": "Kinzie", 
       "user_id": 88880, 
-      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
+      "submission": "Do you support a financial transaction tax?", 
       "district": "TN_05", 
-      "created": "2013-08-09T11:09:48", 
+      "created": "2013-08-09T11:10:15", 
       "state": "TN", 
       "iface": "timeline_vote", 
       "y": 36.1088, 
       "x": -86.7806, 
-      "id": 16271239, 
-      "question_id": "16172583"
+      "id": 16271245, 
+      "question_id": "16174331"
+    }, 
+    {
+      "city": "Mount Joy", 
+      "first_name": "Margaret", 
+      "last_name": "Beitzel", 
+      "user_id": 526895, 
+      "submission": "What steps will you take to restore livable wages to the shredded middle class, and to restore our voting rights?", 
+      "district": "PA_16", 
+      "created": "2013-08-09T11:10:07", 
+      "state": "PA", 
+      "iface": "timeline_vote", 
+      "y": 40.1085, 
+      "x": -76.5089, 
+      "id": 16271242, 
+      "question_id": "16172657"
     }, 
     {
       "city": "Saint Louis", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -122.31, 
       "id": 16270809, 
       "question_id": "16175493"
-    }, 
-    {
-      "city": "Darien", 
-      "first_name": "Marc", 
-      "last_name": "Friedman", 
-      "user_id": 1060885, 
-      "submission": "Will you protect Social Security And Medicare by not cutting it with the chained CPI for Social Security that has been mentioned.  Also, no cuts to Medicare but closing the donute hole 100% so seniors aren't left fending for themselves to pay full price for their drugs.", 
-      "district": "IL_11", 
-      "created": "2013-08-09T10:19:04", 
-      "state": "IL", 
-      "iface": "timeline_vote", 
-      "y": 41.7499, 
-      "x": -87.977, 
-      "id": 16270800, 
-      "question_id": "16175570"
     }
   ]
 });
