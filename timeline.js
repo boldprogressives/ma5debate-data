@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Watervliet", 
-      "first_name": "Anthony", 
-      "last_name": "Emanatian", 
-      "user_id": 1764928, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
-      "district": "NY_20", 
-      "created": "2013-08-09T08:42:53", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 42.7261, 
-      "x": -73.7134, 
-      "id": 16269990, 
-      "question_id": "16172533"
-    }, 
-    {
       "city": "Santa Fe", 
       "first_name": "Victoria", 
       "last_name": "Scott", 
       "user_id": 1708295, 
-      "submission": "The drug war and the prison industry has destroyed many lives -- especially of low income and minority citizens. As a first step marijuana needs to be legalized nationa=wide. What will you do toward that end?", 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and if not why not?", 
       "district": "NM_03", 
-      "created": "2013-08-09T08:42:22", 
+      "created": "2013-08-09T08:44:00", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 35.6768, 
       "x": -105.958, 
-      "id": 16269988, 
-      "question_id": "16173417"
+      "id": 16270003, 
+      "question_id": "16186709"
+    }, 
+    {
+      "city": "Watervliet", 
+      "first_name": "Anthony", 
+      "last_name": "Emanatian", 
+      "user_id": 1764928, 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "district": "NY_20", 
+      "created": "2013-08-09T08:43:36", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 42.7261, 
+      "x": -73.7134, 
+      "id": 16269999, 
+      "question_id": "16172303"
     }, 
     {
       "city": "Rocky Mount", 
