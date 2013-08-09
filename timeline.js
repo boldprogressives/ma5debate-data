@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Victoria", 
       "last_name": "Scott", 
       "user_id": 1708295, 
-      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
+      "submission": "Will you work to reinstate the Glass-Steagall Act to insure that the Wall Street banks behave in a more responsible manner?", 
       "district": "NM_03", 
-      "created": "2013-08-09T08:27:52", 
+      "created": "2013-08-09T08:28:53", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 35.6768, 
       "x": -105.958, 
-      "id": 16269915, 
-      "question_id": "16172697"
+      "id": 16269920, 
+      "question_id": "16256690"
     }, 
     {
       "city": "Tryon", 
