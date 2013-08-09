@@ -6,15 +6,60 @@ opendebate.processTimeline({
       "first_name": "Barbara", 
       "last_name": "Maynard", 
       "user_id": 224280, 
-      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
+      "submission": "Will you protect Social Security And Medicare by not cutting it with the chained CPI for Social Security that has been mentioned.  Also, no cuts to Medicare but closing the donute hole 100% so seniors aren't left fending for themselves to pay full price for their drugs.", 
       "district": "CA_13", 
-      "created": "2013-08-09T15:52:58", 
+      "created": "2013-08-09T15:54:00", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 37.8356, 
       "x": -122.223, 
-      "id": 16278287, 
-      "question_id": "16173210"
+      "id": 16278301, 
+      "question_id": "16175570"
+    }, 
+    {
+      "city": "Penfield", 
+      "first_name": "Margaret", 
+      "last_name": "Terwilliger", 
+      "user_id": 1704823, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "NY_25", 
+      "created": "2013-08-09T15:54:00", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 43.1417, 
+      "x": -77.4557, 
+      "id": 16278302, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Banning", 
+      "first_name": "Dennis", 
+      "last_name": "Anderson", 
+      "user_id": 1116240, 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "district": "CA_36", 
+      "created": "2013-08-09T15:53:55", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 33.9316, 
+      "x": -116.886, 
+      "id": 16278300, 
+      "question_id": "16172913"
+    }, 
+    {
+      "city": "Zelienople", 
+      "first_name": "Michael", 
+      "last_name": "Simoff", 
+      "user_id": 1208320, 
+      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
+      "district": "PA_03", 
+      "created": "2013-08-09T15:53:41", 
+      "state": "PA", 
+      "iface": "timeline_vote", 
+      "y": 40.7749, 
+      "x": -80.1195, 
+      "id": 16278297, 
+      "question_id": "16172207"
     }, 
     {
       "city": "Mill Valley", 
@@ -30,36 +75,6 @@ opendebate.processTimeline({
       "x": -122.568, 
       "id": 16278288, 
       "question_id": "16201159"
-    }, 
-    {
-      "city": "Banning", 
-      "first_name": "Dennis", 
-      "last_name": "Anderson", 
-      "user_id": 1116240, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "CA_36", 
-      "created": "2013-08-09T15:52:57", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 33.9316, 
-      "x": -116.886, 
-      "id": 16278285, 
-      "question_id": "16172777"
-    }, 
-    {
-      "city": "Penfield", 
-      "first_name": "Margaret", 
-      "last_name": "Terwilliger", 
-      "user_id": 1704823, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
-      "district": "NY_25", 
-      "created": "2013-08-09T15:52:57", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 43.1417, 
-      "x": -77.4557, 
-      "id": 16278286, 
-      "question_id": "16173264"
     }, 
     {
       "city": "Tucson", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16278093, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Salt Lake City", 
-      "first_name": "John", 
-      "last_name": "Wallace", 
-      "user_id": 1235409, 
-      "submission": "Do you agree that accepting money from corporate interests with an economic stake in how Congressmen vote, and then voting on matters that affect them, is pernicious and close to bribery?  If not, why not?  ", 
-      "district": "UT_02", 
-      "created": "2013-08-09T15:35:51", 
-      "state": "UT", 
-      "iface": "timeline_vote", 
-      "y": 40.7588, 
-      "x": -111.865, 
-      "id": 16278083, 
-      "question_id": "16176481"
     }
   ]
 });
