@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Salem", 
+      "first_name": "edward", 
+      "last_name": "abreo", 
+      "user_id": 1770718, 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "district": "OR_05", 
+      "created": "2013-08-09T13:11:46", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 45.0131, 
+      "x": -123.101, 
+      "id": 16272606, 
+      "question_id": "16172303"
+    }, 
+    {
       "city": "Monmouth", 
       "first_name": "Thomas", 
       "last_name": "Rousseau", 
@@ -278,21 +293,6 @@ opendebate.processTimeline({
       "x": -77.4497, 
       "id": 16272316, 
       "question_id": "16203676"
-    }, 
-    {
-      "city": "Salem", 
-      "first_name": "edward", 
-      "last_name": "abreo", 
-      "user_id": 1770718, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
-      "district": "OR_05", 
-      "created": "2013-08-09T12:45:17", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 45.0131, 
-      "x": -123.101, 
-      "id": 16272296, 
-      "question_id": "16173264"
     }, 
     {
       "city": "Reading", 

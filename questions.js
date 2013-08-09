@@ -8340,7 +8340,7 @@ opendebate.processFetchedQuestions({
       "x": -71.7731, 
       "latest_vote": "2013-08-09T12:26:21", 
       "id": 16219940, 
-      "trending_score": 4.216666666666667
+      "trending_score": 5.035714285714286
     }, 
     {
       "city": "Worcester", 
@@ -12254,7 +12254,7 @@ opendebate.processFetchedQuestions({
       "x": -122.906, 
       "latest_vote": "2013-08-09T13:05:03", 
       "id": 16208766, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Lewis Run", 
@@ -12824,7 +12824,7 @@ opendebate.processFetchedQuestions({
       "x": -70.9045, 
       "latest_vote": "2013-08-09T11:13:06", 
       "id": 16206519, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Melbourne Beach", 
@@ -17384,7 +17384,7 @@ opendebate.processFetchedQuestions({
       "x": -81.3747, 
       "latest_vote": "2013-08-09T09:11:39", 
       "id": 16189089, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Manchester", 
@@ -18619,7 +18619,7 @@ opendebate.processFetchedQuestions({
       "x": -73.348, 
       "latest_vote": "2013-08-09T09:11:52", 
       "id": 16185516, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Upper Marlboro", 
@@ -22875,7 +22875,7 @@ opendebate.processFetchedQuestions({
       "x": -122.017, 
       "latest_vote": "2013-08-09T10:37:40", 
       "id": 16176917, 
-      "trending_score": 1.1666666666666667
+      "trending_score": 1.25
     }, 
     {
       "city": "Sioux Falls", 
@@ -26865,7 +26865,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-09T13:07:56", 
       "id": 16173259, 
-      "trending_score": 29.25
+      "trending_score": 29.5
     }, 
     {
       "city": "Manitowoc", 
@@ -28529,15 +28529,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:52:54", 
       "state_votes": 160, 
-      "votes": 949, 
+      "votes": 950, 
       "district_votes": 43, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4207, 
       "x": -71.1582, 
-      "latest_vote": "2013-08-09T13:08:26", 
+      "latest_vote": "2013-08-09T13:11:46", 
       "id": 16172303, 
-      "trending_score": 25.25
+      "trending_score": 26.25
     }, 
     {
       "city": "Arlington", 
