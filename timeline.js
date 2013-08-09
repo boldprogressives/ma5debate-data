@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Carlotta", 
       "last_name": "Hayes", 
       "user_id": 1806880, 
-      "submission": "AR15's are a \"civilian \" version of the M16A1 Assault Rifle, a weapon of WAR. Would you support legislation that would outlaw private possession of all weapons of WAR, while affirming our 2nd Amendment Rights to own a hunting  rifle, etc.?", 
+      "submission": "Access to a quality education and affordable healthcare are two of the key components that have paved the road to income equality.  These same two key components have all but been eliminated over the past few decades.  Specifically, how do you plan on changing this.", 
       "district": "MA_08", 
-      "created": "2013-08-09T11:38:03", 
+      "created": "2013-08-09T11:38:54", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2138, 
       "x": -70.9328, 
-      "id": 16271447, 
-      "question_id": "16230765"
+      "id": 16271451, 
+      "question_id": "16249998"
     }, 
     {
       "city": "Massillon", 
       "first_name": "Tom and Betty", 
       "last_name": "Cliff", 
       "user_id": 1776730, 
-      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
+      "submission": "What will do you do expand the solvency of Social Security and Medicare past their current deadlines? ", 
       "district": "OH_16", 
-      "created": "2013-08-09T11:37:48", 
+      "created": "2013-08-09T11:38:41", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 40.8028, 
       "x": -81.5208, 
-      "id": 16271446, 
-      "question_id": "16175230"
+      "id": 16271449, 
+      "question_id": "16174492"
     }, 
     {
       "city": "Decatur", 
