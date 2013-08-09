@@ -6,30 +6,45 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
+      "submission": "Should Bush and Cheney (AND Obama) be prosecuted for war crimes?", 
       "district": "MA_04", 
-      "created": "2013-08-09T09:36:58", 
+      "created": "2013-08-09T09:37:50", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270352, 
-      "question_id": "16172207"
+      "id": 16270358, 
+      "question_id": "16219940"
     }, 
     {
       "city": "Fort Bragg", 
       "first_name": "Dale", 
       "last_name": "Le Fevre", 
       "user_id": 340427, 
-      "submission": "Would you eliminate the use of GMO (Genetically Modified Organism) foods. They are detrimental to human health, and hazardous to the environment.", 
+      "submission": "Do you favor legislation to protect our water, land, and communities from the negative environmental and social impacts of fracking for natural gas?", 
       "district": "CA_02", 
-      "created": "2013-08-09T09:36:57", 
+      "created": "2013-08-09T09:37:21", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 39.4417, 
       "x": -123.784, 
-      "id": 16270351, 
-      "question_id": "16193930"
+      "id": 16270356, 
+      "question_id": "16204423"
+    }, 
+    {
+      "city": "Austin", 
+      "first_name": "Luke", 
+      "last_name": "Foster", 
+      "user_id": 1678619, 
+      "submission": "Would you support the pardoning of all victimless crime marijuana (Cannabis) offenders? Depopulating our For Profit Prisons?", 
+      "district": "TX_35", 
+      "created": "2013-08-09T09:37:04", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 30.2341, 
+      "x": -97.7183, 
+      "id": 16270353, 
+      "question_id": "16208291"
     }, 
     {
       "city": "Idaho Springs", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -105.958, 
       "id": 16270008, 
       "question_id": "16224944"
-    }, 
-    {
-      "city": "Watervliet", 
-      "first_name": "Anthony", 
-      "last_name": "Emanatian", 
-      "user_id": 1764928, 
-      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
-      "district": "NY_20", 
-      "created": "2013-08-09T08:44:19", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 42.7261, 
-      "x": -73.7134, 
-      "id": 16270007, 
-      "question_id": "16173259"
     }
   ]
 });
