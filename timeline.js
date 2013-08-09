@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Victoria", 
       "last_name": "Scott", 
       "user_id": 1708295, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and if not why not?", 
+      "submission": "Given the disaster resulting from repeal of Glass-Speigel why has it not been reinstated and will you sponsor a bill to reinstate it?", 
       "district": "NM_03", 
-      "created": "2013-08-09T08:44:00", 
+      "created": "2013-08-09T08:44:23", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 35.6768, 
       "x": -105.958, 
-      "id": 16270003, 
-      "question_id": "16186709"
+      "id": 16270008, 
+      "question_id": "16224944"
     }, 
     {
       "city": "Watervliet", 
       "first_name": "Anthony", 
       "last_name": "Emanatian", 
       "user_id": 1764928, 
-      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
       "district": "NY_20", 
-      "created": "2013-08-09T08:43:36", 
+      "created": "2013-08-09T08:44:19", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 42.7261, 
       "x": -73.7134, 
-      "id": 16269999, 
-      "question_id": "16172303"
+      "id": 16270007, 
+      "question_id": "16173259"
     }, 
     {
       "city": "Rocky Mount", 
