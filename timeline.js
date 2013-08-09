@@ -6,15 +6,45 @@ opendebate.processTimeline({
       "first_name": "Susan", 
       "last_name": "fried", 
       "user_id": 291649, 
-      "submission": "Do you agree that accepting money from corporate interests with an economic stake in how Congressmen vote, and then voting on matters that affect them, is pernicious and close to bribery?  If not, why not?  ", 
+      "submission": "What will you do to ensure that all Americans have access to the voting booth and what will you do to get money out of our elections so that we all have an equal voice?", 
       "district": "WA_07", 
-      "created": "2013-08-09T15:36:53", 
+      "created": "2013-08-09T15:37:52", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 47.7184, 
       "x": -122.302, 
-      "id": 16278099, 
-      "question_id": "16176481"
+      "id": 16278109, 
+      "question_id": "16205834"
+    }, 
+    {
+      "city": "princeton", 
+      "first_name": "jerry", 
+      "last_name": "scheinbeim", 
+      "user_id": 567346, 
+      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
+      "district": "NJ_12", 
+      "created": "2013-08-09T15:37:21", 
+      "state": "NJ", 
+      "iface": "timeline_vote", 
+      "y": 40.3675, 
+      "x": -74.6695, 
+      "id": 16278106, 
+      "question_id": "16173257"
+    }, 
+    {
+      "city": "Tullahoma", 
+      "first_name": "Robert", 
+      "last_name": "Burt", 
+      "user_id": 1731191, 
+      "submission": "Will you support immigration reform with a path to citizenship ?", 
+      "district": "TN_06", 
+      "created": "2013-08-09T15:37:14", 
+      "state": "TN", 
+      "iface": "timeline_vote", 
+      "y": 35.3712, 
+      "x": -86.2131, 
+      "id": 16278104, 
+      "question_id": "16172648"
     }, 
     {
       "city": "Fullerton", 
@@ -49,21 +79,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16278093, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Tullahoma", 
-      "first_name": "Robert", 
-      "last_name": "Burt", 
-      "user_id": 1731191, 
-      "submission": "What is your stand on full disclosure of all campaign contributions, including specifically identifiable individual and corporate donations to PACs.", 
-      "district": "TN_06", 
-      "created": "2013-08-09T15:36:35", 
-      "state": "TN", 
-      "iface": "timeline_vote", 
-      "y": 35.3712, 
-      "x": -86.2131, 
-      "id": 16278094, 
-      "question_id": "16199834"
     }, 
     {
       "city": "Salt Lake City", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16277844, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Spokane", 
-      "first_name": "Candy", 
-      "last_name": "Curtis", 
-      "user_id": 461351, 
-      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
-      "district": "WA_05", 
-      "created": "2013-08-09T15:24:05", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 47.7381, 
-      "x": -117.446, 
-      "id": 16277832, 
-      "question_id": "16175230"
     }
   ]
 });
