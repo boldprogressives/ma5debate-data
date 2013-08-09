@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Santa Fe", 
+      "first_name": "Victoria", 
+      "last_name": "Scott", 
+      "user_id": 1708295, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "NM_03", 
+      "created": "2013-08-09T08:16:49", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 35.6768, 
+      "x": -105.958, 
+      "id": 16269748, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "Parlier", 
       "first_name": "Julian", 
       "last_name": "Yerena", 
       "user_id": 1687026, 
-      "submission": "Are you going to stand up to the NRA, to stop our young and innocent, from being murdered?", 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "CA_21", 
-      "created": "2013-08-09T08:16:06", 
+      "created": "2013-08-09T08:16:42", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 36.616, 
       "x": -119.531, 
-      "id": 16269740, 
-      "question_id": "16199637"
+      "id": 16269747, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Newport Beach", 
       "first_name": "delone", 
       "last_name": "green", 
       "user_id": 1130825, 
-      "submission": "The threat that hangs over the country today is a GOP determined to destroy the middle class and the values that define it.  What specific steps will you recommend to confront, not appease, the GOP?", 
+      "submission": "Are you going to stand up to the NRA, to stop our young and innocent, from being murdered?", 
       "district": "CA_48", 
-      "created": "2013-08-09T08:15:55", 
+      "created": "2013-08-09T08:16:08", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 33.621, 
       "x": -117.932, 
-      "id": 16269739, 
-      "question_id": "16172694"
+      "id": 16269741, 
+      "question_id": "16199637"
     }, 
     {
       "city": "Tryon", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "x": -118.33, 
       "id": 16268120, 
       "question_id": "16267533"
-    }, 
-    {
-      "city": "Redondo Beach", 
-      "first_name": "Susie", 
-      "last_name": "Carrington", 
-      "user_id": 1678552, 
-      "submission": "Do you support the concept of keeping church and state separate?", 
-      "district": "CA_33", 
-      "created": "2013-08-09T07:30:37", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 33.8713, 
-      "x": -118.372, 
-      "id": 16268068, 
-      "question_id": "16173921"
     }
   ]
 });
