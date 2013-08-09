@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Poughkeepsie", 
+      "first_name": "Desi", 
+      "last_name": "Shelby", 
+      "user_id": 1010665, 
+      "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
+      "district": "NY_18", 
+      "created": "2013-08-09T11:51:55", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 41.6971, 
+      "x": -73.8624, 
+      "id": 16271582, 
+      "question_id": "16175500"
+    }, 
+    {
       "city": "Inglewood", 
       "first_name": "Ken", 
       "last_name": "Benson", 
       "user_id": 519373, 
-      "submission": "Do you agree that accepting money from corporate interests with an economic stake in how Congressmen vote, and then voting on matters that affect them, is pernicious and close to bribery?  If not, why not?  ", 
+      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
       "district": "CA_43", 
-      "created": "2013-08-09T11:50:47", 
+      "created": "2013-08-09T11:51:42", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 33.9753, 
       "x": -118.354, 
-      "id": 16271569, 
-      "question_id": "16176481"
-    }, 
-    {
-      "city": "Los Lunas", 
-      "first_name": "K.A.", 
-      "last_name": "McCord", 
-      "user_id": 346370, 
-      "submission": "The drug war and the prison industry has destroyed many lives -- especially of low income and minority citizens. As a first step, marijuana needs to be legalized nation-wide. What will you do toward that end?", 
-      "district": "NM_02", 
-      "created": "2013-08-09T11:50:44", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 34.7844, 
-      "x": -106.693, 
-      "id": 16271568, 
-      "question_id": "16173418"
+      "id": 16271580, 
+      "question_id": "16203676"
     }, 
     {
       "city": "Williston", 
       "first_name": "Michael", 
       "last_name": "Lowe", 
       "user_id": 654169, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
+      "submission": "Do you support the concept of keeping church and state separate?", 
       "district": "FL_03", 
-      "created": "2013-08-09T11:50:41", 
+      "created": "2013-08-09T11:51:26", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 29.3881, 
       "x": -82.4535, 
-      "id": 16271567, 
-      "question_id": "16175740"
+      "id": 16271576, 
+      "question_id": "16173921"
+    }, 
+    {
+      "city": "Los Lunas", 
+      "first_name": "K.A.", 
+      "last_name": "McCord", 
+      "user_id": 346370, 
+      "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
+      "district": "NM_02", 
+      "created": "2013-08-09T11:51:19", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 34.7844, 
+      "x": -106.693, 
+      "id": 16271573, 
+      "question_id": "16173320"
     }, 
     {
       "city": "Leesburg", 
@@ -285,21 +300,6 @@ opendebate.processTimeline({
       "x": -72.5118, 
       "id": 16271398, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Sudbury", 
-      "first_name": "Judith", 
-      "last_name": "Deutsch", 
-      "user_id": 745688, 
-      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
-      "district": "MA_05", 
-      "created": "2013-08-09T11:30:16", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.383, 
-      "x": -71.4277, 
-      "id": 16271388, 
-      "question_id": "16173335"
     }
   ]
 });
