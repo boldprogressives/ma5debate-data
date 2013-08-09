@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "FRANCIS", 
       "last_name": "HENDERSON", 
       "user_id": 401891, 
-      "submission": "Do you support the labeling of GMOs and if so, what do you intend to do to promote people's right to know what is in their food?", 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "SC_01", 
-      "created": "2013-08-09T22:26:51", 
+      "created": "2013-08-09T22:27:56", 
       "state": "SC", 
       "iface": "timeline_vote", 
       "y": 32.9557, 
       "x": -79.8873, 
-      "id": 16287089, 
-      "question_id": "16176001"
+      "id": 16287095, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Detroit", 
       "first_name": "Daniel", 
       "last_name": "Sarasin", 
       "user_id": 1487238, 
-      "submission": "Will you fight to protect voting rights of all Americans?", 
+      "submission": "Where do you stand on a constitutional admendment that declares that corporations are NOT, in fact, people and do not have the legal rights of people.", 
       "district": "MI_13", 
-      "created": "2013-08-09T22:26:31", 
+      "created": "2013-08-09T22:27:18", 
       "state": "MI", 
       "iface": "timeline_vote", 
       "y": 42.3801, 
       "x": -83.0518, 
-      "id": 16287087, 
-      "question_id": "16201559"
+      "id": 16287091, 
+      "question_id": "16176313"
     }, 
     {
       "city": "Fountain Hills", 
