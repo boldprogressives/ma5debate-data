@@ -1272,7 +1272,7 @@ opendebate.processFetchedQuestions({
       "x": -111.59, 
       "latest_vote": "2013-08-09T11:11:07", 
       "id": 16256797, 
-      "trending_score": 2.2777777777777777
+      "trending_score": 2.05
     }, 
     {
       "city": "Nokomis", 
@@ -2184,7 +2184,7 @@ opendebate.processFetchedQuestions({
       "x": -122.811, 
       "latest_vote": "2013-08-09T11:13:34", 
       "id": 16248929, 
-      "trending_score": 2.208333333333333
+      "trending_score": 2.95
     }, 
     {
       "city": "Sacramento", 
@@ -2241,7 +2241,7 @@ opendebate.processFetchedQuestions({
       "x": -122.811, 
       "latest_vote": "2013-08-09T10:59:38", 
       "id": 16248600, 
-      "trending_score": 1.6818181818181819
+      "trending_score": 1.7905982905982905
     }, 
     {
       "city": "Bremerton", 
@@ -2431,7 +2431,7 @@ opendebate.processFetchedQuestions({
       "x": -84.2978, 
       "latest_vote": "2013-08-09T10:17:53", 
       "id": 16246613, 
-      "trending_score": 2.2142857142857144
+      "trending_score": 3.125
     }, 
     {
       "city": "Swannanoa", 
@@ -2602,7 +2602,7 @@ opendebate.processFetchedQuestions({
       "x": -107.588, 
       "latest_vote": "2013-08-09T07:33:44", 
       "id": 16245281, 
-      "trending_score": 0.9166666666666666
+      "trending_score": 1.25
     }, 
     {
       "city": "Bend", 
@@ -2773,7 +2773,7 @@ opendebate.processFetchedQuestions({
       "x": -74.4327, 
       "latest_vote": "2013-08-09T10:07:45", 
       "id": 16244119, 
-      "trending_score": 1.5833333333333333
+      "trending_score": 1.880952380952381
     }, 
     {
       "city": "Fremont", 
@@ -3590,7 +3590,7 @@ opendebate.processFetchedQuestions({
       "x": -84.274, 
       "latest_vote": "2013-08-09T10:11:37", 
       "id": 16239232, 
-      "trending_score": 0.8333333333333333
+      "trending_score": 1.1
     }, 
     {
       "city": "Rocky Hill", 
@@ -4350,7 +4350,7 @@ opendebate.processFetchedQuestions({
       "x": -75.1731, 
       "latest_vote": "2013-08-09T10:18:00", 
       "id": 16234459, 
-      "trending_score": 1.425
+      "trending_score": 1.5833333333333333
     }, 
     {
       "city": "Clarkston", 
@@ -4863,7 +4863,7 @@ opendebate.processFetchedQuestions({
       "x": -93.6097, 
       "latest_vote": "2013-08-09T08:24:24", 
       "id": 16231207, 
-      "trending_score": 1.880952380952381
+      "trending_score": 2.625
     }, 
     {
       "city": "Arlington", 
@@ -11646,7 +11646,7 @@ opendebate.processFetchedQuestions({
       "x": -154.909, 
       "latest_vote": "2013-08-09T11:10:28", 
       "id": 16210851, 
-      "trending_score": 0.9125
+      "trending_score": 0.9571428571428571
     }, 
     {
       "city": "Roanoke Rapids", 
@@ -12007,7 +12007,7 @@ opendebate.processFetchedQuestions({
       "x": -79.9232, 
       "latest_vote": "2013-08-09T10:36:24", 
       "id": 16209148, 
-      "trending_score": 2.611111111111111
+      "trending_score": 5.05
     }, 
     {
       "city": "Litchfield", 
@@ -12387,7 +12387,7 @@ opendebate.processFetchedQuestions({
       "x": -73.9703, 
       "latest_vote": "2013-08-09T11:14:10", 
       "id": 16207584, 
-      "trending_score": 1.5
+      "trending_score": 1.1666666666666665
     }, 
     {
       "city": "Westland", 
@@ -13356,7 +13356,7 @@ opendebate.processFetchedQuestions({
       "x": -122.484, 
       "latest_vote": "2013-08-09T11:06:24", 
       "id": 16204677, 
-      "trending_score": 1.9166666666666665
+      "trending_score": 2.041666666666667
     }, 
     {
       "city": "Battletown", 
@@ -13470,7 +13470,7 @@ opendebate.processFetchedQuestions({
       "x": -80.1743, 
       "latest_vote": "2013-08-09T11:13:14", 
       "id": 16204423, 
-      "trending_score": 5.0
+      "trending_score": 5.5
     }, 
     {
       "city": "Peabody", 
@@ -13594,16 +13594,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
       "district": "MA_01", 
       "created": "2013-08-06T20:10:21", 
-      "state_votes": 31, 
-      "votes": 371, 
+      "state_votes": 32, 
+      "votes": 372, 
       "district_votes": 10, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.204, 
       "x": -72.6301, 
-      "latest_vote": "2013-08-09T11:13:05", 
+      "latest_vote": "2013-08-09T11:23:30", 
       "id": 16203676, 
-      "trending_score": 10.5
+      "trending_score": 11.5
     }, 
     {
       "city": "Gloucester", 
@@ -14078,7 +14078,7 @@ opendebate.processFetchedQuestions({
       "x": -122.074, 
       "latest_vote": "2013-08-09T10:27:42", 
       "id": 16201467, 
-      "trending_score": 3.2777777777777777
+      "trending_score": 3.9722222222222223
     }, 
     {
       "city": "Needham Heights", 
@@ -14534,7 +14534,7 @@ opendebate.processFetchedQuestions({
       "x": -119.905, 
       "latest_vote": "2013-08-09T10:34:58", 
       "id": 16200039, 
-      "trending_score": 1.3923076923076922
+      "trending_score": 1.6428571428571428
     }, 
     {
       "city": "Vestal", 
@@ -15617,7 +15617,7 @@ opendebate.processFetchedQuestions({
       "x": -71.5469, 
       "latest_vote": "2013-08-09T11:20:21", 
       "id": 16193930, 
-      "trending_score": 2.5
+      "trending_score": 2.75
     }, 
     {
       "city": "East Brunswick", 
@@ -17460,7 +17460,7 @@ opendebate.processFetchedQuestions({
       "x": -73.9992, 
       "latest_vote": "2013-08-09T10:45:21", 
       "id": 16188477, 
-      "trending_score": 1.6547619047619047
+      "trending_score": 1.7666666666666666
     }, 
     {
       "city": "Somerville", 
@@ -18838,16 +18838,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you support a \"Clean Up Congress\" campaign to promote term limits and cease the eternal 'full pay' for lifetime after serving only one term?", 
       "district": "AR_01", 
       "created": "2013-08-06T14:56:42", 
-      "state_votes": 1, 
-      "votes": 50, 
+      "state_votes": 2, 
+      "votes": 51, 
       "district_votes": 0, 
       "state": "AR", 
       "iface": "question", 
       "y": 36.3844, 
       "x": -92.5211, 
-      "latest_vote": "2013-08-09T10:08:21", 
+      "latest_vote": "2013-08-09T11:23:58", 
       "id": 16184803, 
-      "trending_score": 0.9166666666666666
+      "trending_score": 1.25
     }, 
     {
       "city": "Saint Louis", 
@@ -19474,7 +19474,7 @@ opendebate.processFetchedQuestions({
       "x": -75.7463, 
       "latest_vote": "2013-08-09T10:29:01", 
       "id": 16183415, 
-      "trending_score": 3.25
+      "trending_score": 3.3333333333333335
     }, 
     {
       "city": "UNIO PIER", 
@@ -19778,7 +19778,7 @@ opendebate.processFetchedQuestions({
       "x": -73.6575, 
       "latest_vote": "2013-08-09T10:57:58", 
       "id": 16182966, 
-      "trending_score": 2.6666666666666665
+      "trending_score": 3.0416666666666665
     }, 
     {
       "city": "Akron", 
@@ -20833,16 +20833,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you support the 90% of Americans who are demanding that GMO's be labeled nationwide?", 
       "district": "CA_45", 
       "created": "2013-08-06T11:54:48", 
-      "state_votes": 5, 
-      "votes": 50, 
+      "state_votes": 6, 
+      "votes": 51, 
       "district_votes": 2, 
       "state": "CA", 
       "iface": "question", 
       "y": 33.6245, 
       "x": -117.794, 
-      "latest_vote": "2013-08-09T10:32:58", 
+      "latest_vote": "2013-08-09T11:23:28", 
       "id": 16180953, 
-      "trending_score": 3.5
+      "trending_score": 4.5
     }, 
     {
       "city": "Rowe", 
@@ -20937,7 +20937,7 @@ opendebate.processFetchedQuestions({
       "x": -121.184, 
       "latest_vote": "2013-08-09T10:27:35", 
       "id": 16180456, 
-      "trending_score": 1.2222222222222223
+      "trending_score": 1.4833333333333332
     }, 
     {
       "city": "Cerritos", 
@@ -22495,7 +22495,7 @@ opendebate.processFetchedQuestions({
       "x": -111.045, 
       "latest_vote": "2013-08-09T10:46:10", 
       "id": 16177825, 
-      "trending_score": 1.8333333333333335
+      "trending_score": 1.625
     }, 
     {
       "city": "Franklin", 
@@ -22742,7 +22742,7 @@ opendebate.processFetchedQuestions({
       "x": -122.017, 
       "latest_vote": "2013-08-09T10:37:40", 
       "id": 16176917, 
-      "trending_score": 1.7820512820512822
+      "trending_score": 2.5714285714285716
     }, 
     {
       "city": "Sioux Falls", 
@@ -23198,7 +23198,7 @@ opendebate.processFetchedQuestions({
       "x": -122.322, 
       "latest_vote": "2013-08-09T10:45:42", 
       "id": 16176614, 
-      "trending_score": 1.6948051948051948
+      "trending_score": 1.5056818181818183
     }, 
     {
       "city": "Hot Springs National Park", 
@@ -23616,7 +23616,7 @@ opendebate.processFetchedQuestions({
       "x": -104.946, 
       "latest_vote": "2013-08-09T10:29:15", 
       "id": 16176201, 
-      "trending_score": 1.25
+      "trending_score": 1.3
     }, 
     {
       "city": "Albuquerque", 
@@ -24205,7 +24205,7 @@ opendebate.processFetchedQuestions({
       "x": -88.9093, 
       "latest_vote": "2013-08-09T10:23:38", 
       "id": 16175641, 
-      "trending_score": 2.0
+      "trending_score": 1.8333333333333333
     }, 
     {
       "city": "Mount Vernon", 
@@ -24243,7 +24243,7 @@ opendebate.processFetchedQuestions({
       "x": -88.9093, 
       "latest_vote": "2013-08-09T11:03:49", 
       "id": 16175636, 
-      "trending_score": 0.8333333333333333
+      "trending_score": 0.8809523809523809
     }, 
     {
       "city": "Naples", 
@@ -24728,16 +24728,16 @@ opendebate.processFetchedQuestions({
       "submission": "What is your position on labeling for genetically engineered food and INDEPENDENT safety testing ?", 
       "district": "CO_02", 
       "created": "2013-08-04T22:06:54", 
-      "state_votes": 5, 
-      "votes": 50, 
+      "state_votes": 6, 
+      "votes": 51, 
       "district_votes": 1, 
       "state": "CO", 
       "iface": "question", 
       "y": 40.0454, 
       "x": -105.213, 
-      "latest_vote": "2013-08-09T10:28:09", 
+      "latest_vote": "2013-08-09T11:23:08", 
       "id": 16175112, 
-      "trending_score": 2.0
+      "trending_score": 2.5
     }, 
     {
       "city": "Salt Lake City", 
@@ -24851,7 +24851,7 @@ opendebate.processFetchedQuestions({
       "x": -124.454, 
       "latest_vote": "2013-08-09T11:11:11", 
       "id": 16174951, 
-      "trending_score": 1.8333333333333333
+      "trending_score": 3.125
     }, 
     {
       "city": "Fort Worth", 
@@ -25079,7 +25079,7 @@ opendebate.processFetchedQuestions({
       "x": -123.911, 
       "latest_vote": "2013-08-09T10:40:42", 
       "id": 16174618, 
-      "trending_score": 1.9125
+      "trending_score": 1.9571428571428573
     }, 
     {
       "city": "Siletz", 
@@ -25858,7 +25858,7 @@ opendebate.processFetchedQuestions({
       "x": -105.043, 
       "latest_vote": "2013-08-09T10:19:02", 
       "id": 16173913, 
-      "trending_score": 1.1666666666666665
+      "trending_score": 1.0416666666666665
     }, 
     {
       "city": "Fort Collins", 
@@ -26419,16 +26419,16 @@ opendebate.processFetchedQuestions({
       "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
       "district": "TN_02", 
       "created": "2013-08-04T02:07:32", 
-      "state_votes": 142, 
-      "votes": 1049, 
+      "state_votes": 143, 
+      "votes": 1050, 
       "district_votes": 30, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.8311, 
       "x": -84.0482, 
-      "latest_vote": "2013-08-09T11:12:46", 
+      "latest_vote": "2013-08-09T11:23:38", 
       "id": 16173335, 
-      "trending_score": 3.9
+      "trending_score": 4.1
     }, 
     {
       "city": "Evansville", 
@@ -27226,7 +27226,7 @@ opendebate.processFetchedQuestions({
       "x": -93.7569, 
       "latest_vote": "2013-08-09T10:55:17", 
       "id": 16173118, 
-      "trending_score": 4.333333333333333
+      "trending_score": 8.125
     }, 
     {
       "city": "West Des Moines", 
@@ -27416,7 +27416,7 @@ opendebate.processFetchedQuestions({
       "x": -105.796, 
       "latest_vote": "2013-08-09T06:53:40", 
       "id": 16172934, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "West Salem", 
@@ -27464,16 +27464,16 @@ opendebate.processFetchedQuestions({
       "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
       "district": "MT_01", 
       "created": "2013-08-03T23:23:07", 
-      "state_votes": 183, 
-      "votes": 1234, 
+      "state_votes": 184, 
+      "votes": 1235, 
       "district_votes": 46, 
       "state": "MT", 
       "iface": "question", 
       "y": 48.2112, 
       "x": -114.294, 
-      "latest_vote": "2013-08-09T10:57:18", 
+      "latest_vote": "2013-08-09T11:23:14", 
       "id": 16172913, 
-      "trending_score": 4.166666666666666
+      "trending_score": 4.5
     }, 
     {
       "city": "Montegut", 
@@ -27692,16 +27692,16 @@ opendebate.processFetchedQuestions({
       "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
-      "state_votes": 305, 
-      "votes": 2093, 
+      "state_votes": 306, 
+      "votes": 2094, 
       "district_votes": 87, 
       "state": "MT", 
       "iface": "question", 
       "y": 46.6453, 
       "x": -111.974, 
-      "latest_vote": "2013-08-09T11:21:57", 
+      "latest_vote": "2013-08-09T11:23:03", 
       "id": 16172777, 
-      "trending_score": 8.3
+      "trending_score": 8.633333333333335
     }, 
     {
       "city": "Gladstone", 
@@ -27758,7 +27758,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5959, 
       "latest_vote": "2013-08-09T11:22:41", 
       "id": 16172755, 
-      "trending_score": 4.428571428571429
+      "trending_score": 4.5
     }, 
     {
       "city": "Richardson", 
@@ -27939,16 +27939,16 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
       "district": "ID_02", 
       "created": "2013-08-03T22:11:15", 
-      "state_votes": 89, 
-      "votes": 837, 
+      "state_votes": 90, 
+      "votes": 838, 
       "district_votes": 23, 
       "state": "ID", 
       "iface": "question", 
       "y": 43.6302, 
       "x": -116.297, 
-      "latest_vote": "2013-08-09T11:14:36", 
+      "latest_vote": "2013-08-09T11:23:15", 
       "id": 16172697, 
-      "trending_score": 10.7
+      "trending_score": 11.2
     }, 
     {
       "city": "Holts Summit", 
@@ -27977,16 +27977,16 @@ opendebate.processFetchedQuestions({
       "submission": "The threat that hangs over the country today is a GOP determined to destroy the middle class and the values that define it.  What specific steps will you recommend to confront, not appease, the GOP?", 
       "district": "AZ_03", 
       "created": "2013-08-03T22:10:24", 
-      "state_votes": 7, 
-      "votes": 1019, 
+      "state_votes": 8, 
+      "votes": 1020, 
       "district_votes": 1, 
       "state": "AZ", 
       "iface": "question", 
       "y": 32.4147, 
       "x": -111.295, 
-      "latest_vote": "2013-08-09T10:55:36", 
+      "latest_vote": "2013-08-09T11:23:57", 
       "id": 16172694, 
-      "trending_score": 4.035
+      "trending_score": 4.16
     }, 
     {
       "city": "Eldridge", 
@@ -28119,7 +28119,7 @@ opendebate.processFetchedQuestions({
       "x": -105.135, 
       "latest_vote": "2013-08-09T10:27:00", 
       "id": 16172661, 
-      "trending_score": 1.0909090909090908
+      "trending_score": 1.1
     }, 
     {
       "city": "Albert Lea", 
@@ -28338,16 +28338,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
       "district": "MA_05", 
       "created": "2013-08-03T20:45:26", 
-      "state_votes": 210, 
-      "votes": 1249, 
+      "state_votes": 211, 
+      "votes": 1250, 
       "district_votes": 60, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-09T11:18:45", 
+      "latest_vote": "2013-08-09T11:23:07", 
       "id": 16172533, 
-      "trending_score": 8.642857142857142
+      "trending_score": 9.142857142857142
     }, 
     {
       "city": "Medford", 
@@ -28366,7 +28366,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1134, 
       "latest_vote": "2013-08-09T10:07:43", 
       "id": 16172530, 
-      "trending_score": 2.25
+      "trending_score": 4.1
     }, 
     {
       "city": "Cambridge", 
@@ -28395,16 +28395,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
       "district": "MA_05", 
       "created": "2013-08-03T17:52:54", 
-      "state_votes": 172, 
-      "votes": 1036, 
+      "state_votes": 173, 
+      "votes": 1037, 
       "district_votes": 48, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4207, 
       "x": -71.1582, 
-      "latest_vote": "2013-08-09T11:03:08", 
+      "latest_vote": "2013-08-09T11:23:45", 
       "id": 16172303, 
-      "trending_score": 4.25
+      "trending_score": 4.583333333333333
     }, 
     {
       "city": "Arlington", 
@@ -28442,7 +28442,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1035, 
       "latest_vote": "2013-08-09T10:38:15", 
       "id": 16172286, 
-      "trending_score": 2.6666666666666665
+      "trending_score": 3.0416666666666665
     }, 
     {
       "city": "Cambridge", 
@@ -28537,7 +28537,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-09T11:22:04", 
       "id": 16172266, 
-      "trending_score": 3.1031746031746033
+      "trending_score": 3.4666666666666663
     }, 
     {
       "city": "Cambridge", 
