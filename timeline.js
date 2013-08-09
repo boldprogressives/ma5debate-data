@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Detroit", 
+      "first_name": "Daniel", 
+      "last_name": "Sarasin", 
+      "user_id": 1487238, 
+      "submission": "Why is there not even ONE mention about possibly repealing the \"Patriot Act\", even though that one law has completely obliterated all of our civil rights that were guaranteed in the Constitution??? All USA laws have become invalid, especially for protecting against oppressive governmental organizations, by simply declaring ANYONE an \"Enemy Combatant\" with no real justification for that declaration. The Constitution was specifically created to design precautions against an oppressive government that already had gone too far (Britain). ", 
+      "district": "MI_13", 
+      "created": "2013-08-09T22:34:55", 
+      "state": "MI", 
+      "iface": "timeline_vote", 
+      "y": 42.3801, 
+      "x": -83.0518, 
+      "id": 16287134, 
+      "question_id": "16176201"
+    }, 
+    {
       "city": "Rockledge", 
       "first_name": "Valerie", 
       "last_name": "Brant-Wilson", 
       "user_id": 582707, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
       "district": "FL_08", 
-      "created": "2013-08-09T22:33:59", 
+      "created": "2013-08-09T22:34:51", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 28.3133, 
       "x": -80.7233, 
-      "id": 16287129, 
-      "question_id": "16172533"
+      "id": 16287133, 
+      "question_id": "16172731"
     }, 
     {
       "city": "Fountain Hills", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -111.73, 
       "id": 16287127, 
       "question_id": "16201488"
-    }, 
-    {
-      "city": "Detroit", 
-      "first_name": "Daniel", 
-      "last_name": "Sarasin", 
-      "user_id": 1487238, 
-      "submission": "Will you work to eliminate the Income Cap on SS \"Contributions\"?", 
-      "district": "MI_13", 
-      "created": "2013-08-09T22:33:12", 
-      "state": "MI", 
-      "iface": "timeline_vote", 
-      "y": 42.3801, 
-      "x": -83.0518, 
-      "id": 16287125, 
-      "question_id": "16175571"
     }, 
     {
       "city": "West Palm Beach", 
