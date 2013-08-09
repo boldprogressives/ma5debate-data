@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Christiane", 
       "last_name": "Pors", 
       "user_id": 1785709, 
-      "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
+      "submission": "What will you do about gun control and the scare tactics/bullying by the NRA and gun lobbyists?  How will you approach the Right's program of 'divisiveness and culture of fear' that now rips us apart?", 
       "district": "NY_10", 
-      "created": "2013-08-09T09:13:58", 
+      "created": "2013-08-09T09:16:18", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7773, 
       "x": -73.9825, 
-      "id": 16270128, 
-      "question_id": "16175500"
+      "id": 16270133, 
+      "question_id": "16176673"
     }, 
     {
       "city": "Briarcliff Manor", 
