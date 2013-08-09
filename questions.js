@@ -1842,7 +1842,7 @@ opendebate.processFetchedQuestions({
       "x": -73.1208, 
       "latest_vote": "2013-08-09T12:38:16", 
       "id": 16254006, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Ronkonkoma", 
@@ -2982,7 +2982,7 @@ opendebate.processFetchedQuestions({
       "x": -120.941, 
       "latest_vote": "2013-08-09T13:35:21", 
       "id": 16244435, 
-      "trending_score": 1.75
+      "trending_score": 1.425
     }, 
     {
       "city": "Charlotte", 
@@ -9765,7 +9765,7 @@ opendebate.processFetchedQuestions({
       "x": -71.3639, 
       "latest_vote": "2013-08-09T13:40:41", 
       "id": 16215420, 
-      "trending_score": 2.25
+      "trending_score": 1.375
     }, 
     {
       "city": "Wayland", 
@@ -12748,7 +12748,7 @@ opendebate.processFetchedQuestions({
       "x": -79.9806, 
       "latest_vote": "2013-08-09T13:20:51", 
       "id": 16207107, 
-      "trending_score": 16.25
+      "trending_score": 8.0
     }, 
     {
       "city": "Asheville", 
@@ -12834,16 +12834,16 @@ opendebate.processFetchedQuestions({
       "submission": "What are your thoughts on Women's rights concerning, Healthcare, Planned Parent Hood including choice and equal pay?", 
       "district": "FL_08", 
       "created": "2013-08-06T21:51:58", 
-      "state_votes": 10, 
-      "votes": 79, 
-      "district_votes": 2, 
+      "state_votes": 11, 
+      "votes": 80, 
+      "district_votes": 3, 
       "state": "FL", 
       "iface": "question", 
       "y": 28.0247, 
       "x": -80.5392, 
-      "latest_vote": "2013-08-09T13:04:36", 
+      "latest_vote": "2013-08-09T14:04:21", 
       "id": 16206705, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Granada Hills", 
@@ -13793,7 +13793,7 @@ opendebate.processFetchedQuestions({
       "x": -72.6301, 
       "latest_vote": "2013-08-09T13:57:47", 
       "id": 16203676, 
-      "trending_score": 35.25
+      "trending_score": 17.5
     }, 
     {
       "city": "Gloucester", 
@@ -14867,16 +14867,16 @@ opendebate.processFetchedQuestions({
       "submission": "Are you going to stand up to the NRA, to stop our young and innocent, from being murdered?", 
       "district": "PA_02", 
       "created": "2013-08-06T18:44:34", 
-      "state_votes": 10, 
-      "votes": 121, 
-      "district_votes": 3, 
+      "state_votes": 11, 
+      "votes": 122, 
+      "district_votes": 4, 
       "state": "PA", 
       "iface": "question", 
       "y": 39.9437, 
       "x": -75.2291, 
-      "latest_vote": "2013-08-09T13:21:42", 
+      "latest_vote": "2013-08-09T14:04:04", 
       "id": 16199637, 
-      "trending_score": 3.9
+      "trending_score": 3.8333333333333335
     }, 
     {
       "city": "Belmont", 
@@ -14962,16 +14962,16 @@ opendebate.processFetchedQuestions({
       "submission": "Are you willing to fight for womens rights to determine their own healthcare?  Or do you think that \"you\" know what is best for every woman? Healthcare is not a religious  decision, it is a health decision to be made by woman of all faiths.", 
       "district": "FL_12", 
       "created": "2013-08-06T18:38:35", 
-      "state_votes": 9, 
-      "votes": 223, 
-      "district_votes": 2, 
+      "state_votes": 10, 
+      "votes": 224, 
+      "district_votes": 3, 
       "state": "FL", 
       "iface": "question", 
       "y": 28.3002, 
       "x": -82.6341, 
-      "latest_vote": "2013-08-09T13:36:26", 
+      "latest_vote": "2013-08-09T14:04:38", 
       "id": 16199305, 
-      "trending_score": 4.5
+      "trending_score": 5.5
     }, 
     {
       "city": "Columbus", 
@@ -16662,7 +16662,7 @@ opendebate.processFetchedQuestions({
       "x": -79.125, 
       "latest_vote": "2013-08-09T12:38:21", 
       "id": 16191095, 
-      "trending_score": 2.25
+      "trending_score": 2.5
     }, 
     {
       "city": "Decatur", 
@@ -21070,7 +21070,7 @@ opendebate.processFetchedQuestions({
       "x": -73.0744, 
       "latest_vote": "2013-08-09T13:31:54", 
       "id": 16180815, 
-      "trending_score": 1.75
+      "trending_score": 1.5
     }, 
     {
       "city": "Los Angeles", 
@@ -21118,16 +21118,16 @@ opendebate.processFetchedQuestions({
       "submission": "Why is Social Security referred to by many elected Representatives and Senators in Washington as an \"entitlement\" when, first, we all pay or paid into it during all of our working years, and second, by law, normal tax revenue can not be used to fund It?  Is it because the government has used up all the money paid into Social Security over the years, and so that now the government has to raise more money to pay Social Security's current obligations?", 
       "district": "OR_02", 
       "created": "2013-08-06T06:55:31", 
-      "state_votes": 9, 
-      "votes": 159, 
-      "district_votes": 2, 
+      "state_votes": 10, 
+      "votes": 160, 
+      "district_votes": 3, 
       "state": "OR", 
       "iface": "question", 
       "y": 44.3587, 
       "x": -121.184, 
-      "latest_vote": "2013-08-09T13:33:58", 
+      "latest_vote": "2013-08-09T14:04:52", 
       "id": 16180456, 
-      "trending_score": 3.25
+      "trending_score": 4.25
     }, 
     {
       "city": "Cerritos", 
@@ -23863,7 +23863,7 @@ opendebate.processFetchedQuestions({
       "x": -112.109, 
       "latest_vote": "2013-08-09T13:41:07", 
       "id": 16176088, 
-      "trending_score": 2.0
+      "trending_score": 2.25
     }, 
     {
       "city": "Salt Lake City", 
@@ -23958,7 +23958,7 @@ opendebate.processFetchedQuestions({
       "x": -84.8666, 
       "latest_vote": "2013-08-09T13:40:25", 
       "id": 16176001, 
-      "trending_score": 6.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Little Rock", 
@@ -24148,7 +24148,7 @@ opendebate.processFetchedQuestions({
       "x": -90.6197, 
       "latest_vote": "2013-08-09T11:01:23", 
       "id": 16175867, 
-      "trending_score": 1.5
+      "trending_score": 1.25
     }, 
     {
       "city": "Davenport", 
@@ -27122,16 +27122,16 @@ opendebate.processFetchedQuestions({
       "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
       "district": "TX_10", 
       "created": "2013-08-04T00:59:23", 
-      "state_votes": 175, 
-      "votes": 1158, 
-      "district_votes": 43, 
+      "state_votes": 176, 
+      "votes": 1159, 
+      "district_votes": 44, 
       "state": "TX", 
       "iface": "question", 
       "y": 30.3972, 
       "x": -97.7518, 
-      "latest_vote": "2013-08-09T13:59:18", 
+      "latest_vote": "2013-08-09T14:04:18", 
       "id": 16173210, 
-      "trending_score": 23.0
+      "trending_score": 23.5
     }, 
     {
       "city": "Cottonwood", 
@@ -27891,7 +27891,7 @@ opendebate.processFetchedQuestions({
       "x": -111.974, 
       "latest_vote": "2013-08-09T14:03:36", 
       "id": 16172777, 
-      "trending_score": 20.5
+      "trending_score": 19.25
     }, 
     {
       "city": "Gladstone", 
@@ -27997,15 +27997,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:21:20", 
       "state_votes": 117, 
-      "votes": 921, 
+      "votes": 922, 
       "district_votes": 25, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.5746, 
       "x": -122.811, 
-      "latest_vote": "2013-08-09T13:58:55", 
+      "latest_vote": "2013-08-09T14:04:30", 
       "id": 16172731, 
-      "trending_score": 37.5
+      "trending_score": 38.5
     }, 
     {
       "city": "Chicago", 
@@ -28024,7 +28024,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5544, 
       "latest_vote": "2013-08-09T14:03:54", 
       "id": 16172727, 
-      "trending_score": 29.5
+      "trending_score": 19.75
     }, 
     {
       "city": "Waldport", 
@@ -28176,7 +28176,7 @@ opendebate.processFetchedQuestions({
       "x": -111.295, 
       "latest_vote": "2013-08-09T13:29:06", 
       "id": 16172694, 
-      "trending_score": 7.65
+      "trending_score": 5.816666666666667
     }, 
     {
       "city": "Eldridge", 
@@ -28586,15 +28586,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:52:54", 
       "state_votes": 163, 
-      "votes": 963, 
+      "votes": 964, 
       "district_votes": 44, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4207, 
       "x": -71.1582, 
-      "latest_vote": "2013-08-09T13:57:39", 
+      "latest_vote": "2013-08-09T14:04:12", 
       "id": 16172303, 
-      "trending_score": 38.25
+      "trending_score": 39.25
     }, 
     {
       "city": "Arlington", 
@@ -28661,16 +28661,16 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
       "district": "MA_05", 
       "created": "2013-08-03T17:42:20", 
-      "state_votes": 173, 
-      "votes": 1111, 
-      "district_votes": 52, 
+      "state_votes": 174, 
+      "votes": 1112, 
+      "district_votes": 53, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3699, 
       "x": -71.2368, 
-      "latest_vote": "2013-08-09T13:59:05", 
+      "latest_vote": "2013-08-09T14:04:26", 
       "id": 16172281, 
-      "trending_score": 17.083333333333332
+      "trending_score": 17.416666666666668
     }, 
     {
       "city": "Arlington", 

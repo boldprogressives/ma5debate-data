@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Gwynn Oak", 
+      "first_name": "Sharon", 
+      "last_name": "Holley", 
+      "user_id": 1783365, 
+      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
+      "district": "MD_07", 
+      "created": "2013-08-09T14:04:30", 
+      "state": "MD", 
+      "iface": "timeline_vote", 
+      "y": 39.3238, 
+      "x": -76.7143, 
+      "id": 16275201, 
+      "question_id": "16172731"
+    }, 
+    {
       "city": "Revere", 
       "first_name": "T.", 
       "last_name": "Crugnola", 
       "user_id": 338409, 
-      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
       "district": "MA_05", 
-      "created": "2013-08-09T14:04:00", 
+      "created": "2013-08-09T14:04:26", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.4152, 
       "x": -71.0053, 
-      "id": 16275193, 
-      "question_id": "16172755"
+      "id": 16275200, 
+      "question_id": "16172281"
     }, 
     {
       "city": "West Plains", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -91.8015, 
       "id": 16275192, 
       "question_id": "16173335"
-    }, 
-    {
-      "city": "Gwynn Oak", 
-      "first_name": "Sharon", 
-      "last_name": "Holley", 
-      "user_id": 1783365, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
-      "district": "MD_07", 
-      "created": "2013-08-09T14:03:47", 
-      "state": "MD", 
-      "iface": "timeline_vote", 
-      "y": 39.3238, 
-      "x": -76.7143, 
-      "id": 16275190, 
-      "question_id": "16172533"
     }, 
     {
       "city": "Thousand Oaks", 
