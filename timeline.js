@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Will you support a ban on hydrofracking for natural gas?", 
+      "submission": "Would you support the public's right to have GMO's labeled as such?", 
       "district": "MA_04", 
-      "created": "2013-08-09T10:43:59", 
+      "created": "2013-08-09T10:44:50", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16271008, 
-      "question_id": "16205951"
+      "id": 16271013, 
+      "question_id": "16200699"
     }, 
     {
       "city": "Nashville", 
       "first_name": "D. S.", 
       "last_name": "Kinzie", 
       "user_id": 88880, 
-      "submission": "Will you vote to end all fossil-fuel subsidies?", 
+      "submission": "Do you realize will live in an age of \"Neo-Feudalism\" & that the past\"Lords of the Manors\"  are  the 1% of today who \"own\" government,economics & mass media? e.g. Corporate donors control \"elected\"...", 
       "district": "TN_05", 
-      "created": "2013-08-09T10:43:35", 
+      "created": "2013-08-09T10:44:43", 
       "state": "TN", 
       "iface": "timeline_vote", 
       "y": 36.1088, 
       "x": -86.7806, 
-      "id": 16271006, 
-      "question_id": "16201353"
+      "id": 16271012, 
+      "question_id": "16259713"
     }, 
     {
       "city": "Sacramento", 
