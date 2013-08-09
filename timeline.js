@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "New York", 
+      "first_name": "Christiane", 
+      "last_name": "Pors", 
+      "user_id": 1785709, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "NY_10", 
+      "created": "2013-08-09T08:56:50", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.7773, 
+      "x": -73.9825, 
+      "id": 16270042, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "Cleveland Heights", 
       "first_name": "Carolyn", 
       "last_name": "Wohlgemuth", 
@@ -297,25 +312,6 @@ opendebate.processTimeline({
       "x": -118.352, 
       "id": 16269574, 
       "question_id": "16244527"
-    }, 
-    {
-      "city": "Dallas", 
-      "first_name": "Violet", 
-      "last_name": "Sunderland", 
-      "user_id": 986238, 
-      "submission": "All topics are moot in view of losing 31% of bees this last year. Two to go before they're gone and we start starving. Can anything be done to keep EPA from favoring the pesticides known to  kill bees instead of banning them?", 
-      "district": "OR_05", 
-      "created": "2013-08-09T07:53:06", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "OR", 
-      "iface": "timeline_question", 
-      "y": 44.9222, 
-      "x": -123.327, 
-      "latest_vote": null, 
-      "id": 16269540, 
-      "trending_score": 0.5
     }
   ]
 });
