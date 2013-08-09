@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Clermont", 
-      "first_name": "Hector", 
-      "last_name": "Allen", 
-      "user_id": 1809540, 
-      "submission": "The threat that hangs over the country today is a GOP determined to destroy the middle class and the values that define it.  What specific steps will you recommend to confront, not appease, the GOP?", 
-      "district": "FL_10", 
-      "created": "2013-08-09T09:54:00", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 28.5359, 
-      "x": -81.7638, 
-      "id": 16270450, 
-      "question_id": "16172694"
-    }, 
-    {
       "city": "Clayton", 
       "first_name": "Vicki", 
       "last_name": "Thompson", 
       "user_id": 1796286, 
-      "submission": "What, specifically, would you do to protect the right to vote for all? Please address specifically a new Voting Rights Act and the concept of a paper ballot that can be verified by the voter.", 
+      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
       "district": "NC_07", 
-      "created": "2013-08-09T09:53:59", 
+      "created": "2013-08-09T09:55:02", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.6363, 
       "x": -78.4448, 
-      "id": 16270449, 
-      "question_id": "16207107"
+      "id": 16270461, 
+      "question_id": "16180998"
+    }, 
+    {
+      "city": "North Las Vegas", 
+      "first_name": "Bernhard", 
+      "last_name": "Lambert", 
+      "user_id": 392784, 
+      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "district": "NV_04", 
+      "created": "2013-08-09T09:54:54", 
+      "state": "NV", 
+      "iface": "timeline_vote", 
+      "y": 36.2577, 
+      "x": -115.142, 
+      "id": 16270460, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Clermont", 
+      "first_name": "Hector", 
+      "last_name": "Allen", 
+      "user_id": 1809540, 
+      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
+      "district": "FL_10", 
+      "created": "2013-08-09T09:54:49", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 28.5359, 
+      "x": -81.7638, 
+      "id": 16270459, 
+      "question_id": "16172697"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Congress persons have voted to put themselves in the driver's seat when it comes to their salaries. They vote themselves raises and we as citizens cannot over turn. What will you do to stop this practice?", 
+      "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
       "district": "MA_04", 
-      "created": "2013-08-09T09:53:40", 
+      "created": "2013-08-09T09:54:40", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270446, 
-      "question_id": "16173244"
+      "id": 16270457, 
+      "question_id": "16172542"
     }, 
     {
       "city": "Tampa", 
@@ -305,21 +320,6 @@ opendebate.processTimeline({
       "x": -121.029, 
       "id": 16270208, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Memphis", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1632782, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
-      "district": "TN_08", 
-      "created": "2013-08-09T09:21:33", 
-      "state": "TN", 
-      "iface": "timeline_vote", 
-      "y": 35.2068, 
-      "x": -89.7912, 
-      "id": 16270205, 
-      "question_id": "16172281"
     }
   ]
 });
