@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Jamaica Plain", 
+      "first_name": "Carolyn", 
+      "last_name": "Nikkal", 
+      "user_id": 994541, 
+      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
+      "district": "MA_08", 
+      "created": "2013-08-09T16:01:46", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2947, 
+      "x": -71.1305, 
+      "id": 16278838, 
+      "question_id": "16175740"
+    }, 
+    {
       "city": "Oakland", 
       "first_name": "Barbara", 
       "last_name": "Maynard", 
       "user_id": 224280, 
-      "submission": "Why make rules about womens reproductive rights, but not for men who are responsible for rape and assault? Why is this not a sexual harrassment issue on behalf of all women everywhere? ", 
+      "submission": "Would you propose legislation that would disallow tax deductions for CEO salaries over $1 million with No loop holes?", 
       "district": "CA_13", 
-      "created": "2013-08-09T16:01:02", 
+      "created": "2013-08-09T16:01:40", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 37.8356, 
       "x": -122.223, 
-      "id": 16278831, 
-      "question_id": "16235944"
+      "id": 16278837, 
+      "question_id": "16235453"
     }, 
     {
       "city": "Madera", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -120.002, 
       "id": 16278832, 
       "question_id": "16203215"
-    }, 
-    {
-      "city": "Jamaica Plain", 
-      "first_name": "Carolyn", 
-      "last_name": "Nikkal", 
-      "user_id": 994541, 
-      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
-      "district": "MA_08", 
-      "created": "2013-08-09T16:00:53", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2947, 
-      "x": -71.1305, 
-      "id": 16278829, 
-      "question_id": "16173210"
     }, 
     {
       "city": "Lexington", 
