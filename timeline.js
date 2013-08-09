@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Nashville", 
-      "first_name": "D. S.", 
-      "last_name": "Kinzie", 
-      "user_id": 88880, 
-      "submission": "Our mainstream food sources have become highly toxic, causing many chronic illnesses and learning issues.  What can be done at the federal level to ensure healthy, organic foods are available to all?", 
-      "district": "TN_05", 
-      "created": "2013-08-09T10:46:56", 
-      "state": "TN", 
-      "iface": "timeline_vote", 
-      "y": 36.1088, 
-      "x": -86.7806, 
-      "id": 16271025, 
-      "question_id": "16222243"
-    }, 
-    {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "How would you reform the minimum wage to make it liveable for employees and sustainable for businesses?", 
+      "submission": "Do you think there should be a separation of corporations and state similar to the separation of church and state? If so, what specific actions would you take to get money out of politics?", 
       "district": "MA_04", 
-      "created": "2013-08-09T10:46:33", 
+      "created": "2013-08-09T10:47:59", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16271023, 
-      "question_id": "16199816"
+      "id": 16271032, 
+      "question_id": "16206519"
+    }, 
+    {
+      "city": "Nashville", 
+      "first_name": "D. S.", 
+      "last_name": "Kinzie", 
+      "user_id": 88880, 
+      "submission": "Why not raise the cap on Social Security? What will the effect of chained CPI on income for seniors who depend on it?", 
+      "district": "TN_05", 
+      "created": "2013-08-09T10:47:39", 
+      "state": "TN", 
+      "iface": "timeline_vote", 
+      "y": 36.1088, 
+      "x": -86.7806, 
+      "id": 16271031, 
+      "question_id": "16224524"
     }, 
     {
       "city": "Fleetwood", 
