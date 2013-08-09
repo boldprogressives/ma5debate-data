@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Sandra", 
       "last_name": "Toomey", 
       "user_id": 1773961, 
-      "submission": "Will you vote to end tax loopholes for the rich, big business subsides, overseas corporate tax loopholes, wasteful wars, foreign country subsides, quality health care for all, good safe food for all, clean air, clean energy, clean safe drinking water, useful education and job opportunities for all hard working citizens that can achieve these levels and deserve it, gun control, to end wall street fraud and corruption.", 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "IL_03", 
-      "created": "2013-08-09T12:36:57", 
+      "created": "2013-08-09T12:37:54", 
       "state": "IL", 
       "iface": "timeline_vote", 
       "y": 41.8118, 
       "x": -87.8206, 
-      "id": 16272188, 
-      "question_id": "16203215"
+      "id": 16272197, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Fayetteville", 
       "first_name": "Vera", 
       "last_name": "Morgan", 
       "user_id": 1012008, 
-      "submission": "What do you feel about the Republican's relentless push to eliminate or seriously curtail abortion rights in most states, and what can be done about it?", 
+      "submission": "How would you vote on rpealing what supreme  court did(removed guts) to civil rights voting act of 1965?", 
       "district": "NC_04", 
-      "created": "2013-08-09T12:36:30", 
+      "created": "2013-08-09T12:37:52", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.0577, 
       "x": -79.0035, 
-      "id": 16272182, 
-      "question_id": "16172892"
+      "id": 16272196, 
+      "question_id": "16234626"
     }, 
     {
       "city": "West Warwick", 
