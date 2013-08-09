@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Fort Bragg", 
+      "first_name": "Dale", 
+      "last_name": "Le Fevre", 
+      "user_id": 340427, 
+      "submission": "Are you going to stand up to the NRA, to stop our young and innocent, from being murdered?", 
+      "district": "CA_02", 
+      "created": "2013-08-09T09:27:00", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 39.4417, 
+      "x": -123.784, 
+      "id": 16270249, 
+      "question_id": "16199637"
+    }, 
+    {
       "city": "Newland", 
       "first_name": "royce", 
       "last_name": "hohn", 
       "user_id": 1141717, 
-      "submission": "What will you do to protect our votes from the easily \"hackable\" electronic voting machines, such as those which were manipulated by Repubs. in 2004 Ohio, to swing the election from Kerry to Bush?", 
+      "submission": "If the Constitution defines income as \"profits made from the labor of others\" Why are the corporations not paying their taxes while the citizens are taxed?\u00a0We make no profit we exchange time for wages", 
       "district": "NC_11", 
-      "created": "2013-08-09T09:25:49", 
+      "created": "2013-08-09T09:26:02", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 36.0328, 
       "x": -81.9544, 
-      "id": 16270241, 
-      "question_id": "16244119"
+      "id": 16270244, 
+      "question_id": "16198297"
     }, 
     {
       "city": "Meadow Vista", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -117.932, 
       "id": 16269741, 
       "question_id": "16199637"
-    }, 
-    {
-      "city": "Shelton", 
-      "first_name": "scott", 
-      "last_name": "smith", 
-      "user_id": 1554039, 
-      "submission": "Do you agree that accepting money from corporate interests with an economic stake in how Congressmen vote, and then voting on matters that affect them, is pernicious and close to bribery?  If not, why not?  ", 
-      "district": "WA_06", 
-      "created": "2013-08-09T08:15:20", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 47.2027, 
-      "x": -123.099, 
-      "id": 16269735, 
-      "question_id": "16176481"
     }
   ]
 });
