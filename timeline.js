@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "port angeles .", 
-      "first_name": "neil", 
-      "last_name": "hildebrand", 
-      "user_id": 172877, 
-      "submission": "High paid lobbyists among big banks and financial institutions represent a  serious CONFLICT OF INTEREST and UNDUE INFLUENCE in our political system.  Will you reform how big money corrupts?", 
-      "district": "WA_06", 
-      "created": "2013-08-09T05:37:00", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 48.1184, 
-      "x": -123.481, 
-      "id": 16265793, 
-      "question_id": "16261512"
-    }, 
-    {
       "city": "Desert Hot Springs", 
       "first_name": "JOANIE", 
       "last_name": "LAINE", 
       "user_id": 208923, 
-      "submission": "What will you do to ensure people with disabilities and mental health issues get appropriate medical care, support services, housing and food?", 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
       "district": "CA_36", 
-      "created": "2013-08-09T05:36:53", 
+      "created": "2013-08-09T05:38:01", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 33.9639, 
       "x": -116.531, 
-      "id": 16265791, 
-      "question_id": "16224922"
+      "id": 16265809, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "port angeles .", 
+      "first_name": "neil", 
+      "last_name": "hildebrand", 
+      "user_id": 172877, 
+      "submission": "Will you support raising the minimum wage to at least $10.00 per hour?", 
+      "district": "WA_06", 
+      "created": "2013-08-09T05:37:44", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 48.1184, 
+      "x": -123.481, 
+      "id": 16265806, 
+      "question_id": "16260137"
+    }, 
+    {
+      "city": "Chicago", 
+      "first_name": "Juan", 
+      "last_name": "Madrigal", 
+      "user_id": 1770781, 
+      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "district": "IL_02", 
+      "created": "2013-08-09T05:37:35", 
+      "state": "IL", 
+      "iface": "timeline_vote", 
+      "y": 41.7162, 
+      "x": -87.5544, 
+      "id": 16265803, 
+      "question_id": "16172727"
     }, 
     {
       "city": "Henderson", 
       "first_name": "Irma", 
       "last_name": "Torkzadeh", 
       "user_id": 228626, 
-      "submission": "Will you pledge to change the current filibuster rule to what it had been in the past where a Senator had to stand and speak for the duration his/her filibuster? If not, why not?", 
+      "submission": "will you support legislation ending the cap on social security wages", 
       "district": "NV_03", 
-      "created": "2013-08-09T05:35:55", 
+      "created": "2013-08-09T05:37:13", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 35.9926, 
       "x": -115.12, 
-      "id": 16265780, 
-      "question_id": "16197620"
+      "id": 16265796, 
+      "question_id": "16208816"
     }, 
     {
       "city": "San Diego", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -122.88, 
       "id": 16265529, 
       "question_id": "16172777"
-    }, 
-    {
-      "city": "Conroe", 
-      "first_name": "Edwin", 
-      "last_name": "Taylor", 
-      "user_id": 1773315, 
-      "submission": "The threat that hangs over the country today is a GOP determined to destroy the middle class and the values that define it.  What specific steps will you recommend to confront, not appease, the GOP?", 
-      "district": "TX_08", 
-      "created": "2013-08-09T05:21:34", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 30.245, 
-      "x": -95.4036, 
-      "id": 16265523, 
-      "question_id": "16172694"
     }
   ]
 });
