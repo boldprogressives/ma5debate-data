@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Tryon", 
+      "first_name": "Murlel", 
+      "last_name": "Lunsford", 
+      "user_id": 1656934, 
+      "submission": "What will you do to ensure gun control legislation is passed.", 
+      "district": "NC_10", 
+      "created": "2013-08-09T07:46:34", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.2172, 
+      "x": -82.2262, 
+      "id": 16269481, 
+      "question_id": "16213459"
+    }, 
+    {
       "city": "Charlotte", 
       "first_name": "cindy", 
       "last_name": "chilton", 
       "user_id": 1779238, 
-      "submission": "We all know Social Security is more than solvent. Why is a Democratic administration trying to cut back on benefits when it should be raising them? ", 
+      "submission": "Why is it that Halliburton only gets a $200K fine for destroying evidence concerning the Gulf oil spill when if you make a copy of a DVD you get a $250K fine and up to 5 years in prison?", 
       "district": "NC_09", 
-      "created": "2013-08-09T07:45:58", 
+      "created": "2013-08-09T07:46:06", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.2696, 
       "x": -80.9607, 
-      "id": 16269474, 
-      "question_id": "16176614"
+      "id": 16269477, 
+      "question_id": "16175493"
+    }, 
+    {
+      "city": "Los Angeles", 
+      "first_name": "Ellen", 
+      "last_name": "Steens", 
+      "user_id": 1782363, 
+      "submission": "What would you do to create criminal indictments of these corporate polluters of our water, air and food or the corporate thieves of our housing, pensions and futures? Will you uphold the constitution and DEMAND JUSTICE.", 
+      "district": "CA_37", 
+      "created": "2013-08-09T07:46:03", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 34.0277, 
+      "x": -118.352, 
+      "id": 16269476, 
+      "question_id": "16207548"
     }, 
     {
       "city": "New York", 
@@ -30,21 +60,6 @@ opendebate.processTimeline({
       "x": -73.9961, 
       "id": 16269468, 
       "question_id": "16260175"
-    }, 
-    {
-      "city": "Tryon", 
-      "first_name": "Murlel", 
-      "last_name": "Lunsford", 
-      "user_id": 1656934, 
-      "submission": "Will you oppose current efforts by House Republicans to slash the Food Stamp program as part of the current agriculture bill.", 
-      "district": "NC_10", 
-      "created": "2013-08-09T07:45:29", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.2172, 
-      "x": -82.2262, 
-      "id": 16269464, 
-      "question_id": "16193997"
     }, 
     {
       "city": "Elkins Park", 
@@ -64,21 +79,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16269460, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Los Angeles", 
-      "first_name": "Ellen", 
-      "last_name": "Steens", 
-      "user_id": 1782363, 
-      "submission": "What steps do you intend to take to help prevent discriminatory practices violating the constitutional voting rights of non-white and poor citizens?", 
-      "district": "CA_37", 
-      "created": "2013-08-09T07:44:27", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 34.0277, 
-      "x": -118.352, 
-      "id": 16269457, 
-      "question_id": "16174163"
     }, 
     {
       "city": "Boulder City", 
