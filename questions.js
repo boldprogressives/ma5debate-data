@@ -47,16 +47,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you support marriage equality", 
       "district": "PA_06", 
       "created": "2013-08-09T10:46:13", 
-      "state_votes": 0, 
-      "votes": 0, 
+      "state_votes": 1, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "PA", 
       "iface": "question", 
       "y": 40.4758, 
       "x": -75.895, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-09T11:27:21", 
       "id": 16271019, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Eugene", 
@@ -930,7 +930,7 @@ opendebate.processFetchedQuestions({
       "x": -111.955, 
       "latest_vote": "2013-08-09T09:07:40", 
       "id": 16260137, 
-      "trending_score": 3.2
+      "trending_score": 6.083333333333333
     }, 
     {
       "city": "Portland", 
@@ -949,7 +949,7 @@ opendebate.processFetchedQuestions({
       "x": -122.643, 
       "latest_vote": "2013-08-09T10:13:43", 
       "id": 16259955, 
-      "trending_score": 1.5
+      "trending_score": 1.75
     }, 
     {
       "city": "Bellingham", 
@@ -1139,7 +1139,7 @@ opendebate.processFetchedQuestions({
       "x": -96.9501, 
       "latest_vote": "2013-08-09T10:23:04", 
       "id": 16258323, 
-      "trending_score": 4.642857142857143
+      "trending_score": 2.880952380952381
     }, 
     {
       "city": "Pittsburgh", 
@@ -2279,7 +2279,7 @@ opendebate.processFetchedQuestions({
       "x": -116.675, 
       "latest_vote": "2013-08-09T11:09:27", 
       "id": 16248162, 
-      "trending_score": 3.0833333333333335
+      "trending_score": 3.1060606060606064
     }, 
     {
       "city": "Sacramento", 
@@ -2412,7 +2412,7 @@ opendebate.processFetchedQuestions({
       "x": -117.908, 
       "latest_vote": "2013-08-09T10:16:36", 
       "id": 16246657, 
-      "trending_score": 2.083333333333333
+      "trending_score": 2.3333333333333335
     }, 
     {
       "city": "Loudon", 
@@ -2526,7 +2526,7 @@ opendebate.processFetchedQuestions({
       "x": -112.029, 
       "latest_vote": "2013-08-09T08:22:19", 
       "id": 16245614, 
-      "trending_score": 1.375
+      "trending_score": 1.7
     }, 
     {
       "city": "Los Angeles", 
@@ -2716,7 +2716,7 @@ opendebate.processFetchedQuestions({
       "x": -120.941, 
       "latest_vote": "2013-08-09T10:10:45", 
       "id": 16244435, 
-      "trending_score": 3.2142857142857144
+      "trending_score": 3.230769230769231
     }, 
     {
       "city": "Charlotte", 
@@ -4350,7 +4350,7 @@ opendebate.processFetchedQuestions({
       "x": -75.1731, 
       "latest_vote": "2013-08-09T10:18:00", 
       "id": 16234459, 
-      "trending_score": 1.5833333333333333
+      "trending_score": 4.0625
     }, 
     {
       "city": "Clarkston", 
@@ -4711,7 +4711,7 @@ opendebate.processFetchedQuestions({
       "x": -77.3222, 
       "latest_vote": "2013-08-09T10:58:17", 
       "id": 16232327, 
-      "trending_score": 4.166666666666666
+      "trending_score": 4.5
     }, 
     {
       "city": "Springfield", 
@@ -7599,7 +7599,7 @@ opendebate.processFetchedQuestions({
       "x": -71.5491, 
       "latest_vote": "2013-08-09T11:13:41", 
       "id": 16221818, 
-      "trending_score": 1.0
+      "trending_score": 1.5
     }, 
     {
       "city": "Peabody", 
@@ -8720,7 +8720,7 @@ opendebate.processFetchedQuestions({
       "x": -81.0578, 
       "latest_vote": "2013-08-09T10:36:50", 
       "id": 16217791, 
-      "trending_score": 3.5833333333333335
+      "trending_score": 3.6333333333333333
     }, 
     {
       "city": "Fairbanks", 
@@ -9081,7 +9081,7 @@ opendebate.processFetchedQuestions({
       "x": -84.5041, 
       "latest_vote": "2013-08-09T10:50:41", 
       "id": 16216887, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Watertown", 
@@ -10886,7 +10886,7 @@ opendebate.processFetchedQuestions({
       "x": -84.3168, 
       "latest_vote": "2013-08-09T10:31:37", 
       "id": 16212600, 
-      "trending_score": 1.9201680672268906
+      "trending_score": 1.9330357142857142
     }, 
     {
       "city": "Jonesboro", 
@@ -11646,7 +11646,7 @@ opendebate.processFetchedQuestions({
       "x": -154.909, 
       "latest_vote": "2013-08-09T11:10:28", 
       "id": 16210851, 
-      "trending_score": 1.6
+      "trending_score": 1.6111111111111112
     }, 
     {
       "city": "Roanoke Rapids", 
@@ -12558,7 +12558,7 @@ opendebate.processFetchedQuestions({
       "x": -79.9806, 
       "latest_vote": "2013-08-09T11:03:51", 
       "id": 16207107, 
-      "trending_score": 5.041666666666667
+      "trending_score": 7.2
     }, 
     {
       "city": "Asheville", 
@@ -13850,7 +13850,7 @@ opendebate.processFetchedQuestions({
       "x": -122.459, 
       "latest_vote": "2013-08-09T10:57:58", 
       "id": 16202059, 
-      "trending_score": 5.0
+      "trending_score": 5.5
     }, 
     {
       "city": "Richfield", 
@@ -13907,7 +13907,7 @@ opendebate.processFetchedQuestions({
       "x": -73.6893, 
       "latest_vote": "2013-08-09T10:43:25", 
       "id": 16201865, 
-      "trending_score": 1.6666666666666667
+      "trending_score": 3.0714285714285716
     }, 
     {
       "city": "Melbourne", 
@@ -14088,16 +14088,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you think Citizens United should be abandoned and the idea of corporations as people is unfair to real people?", 
       "district": "MA_04", 
       "created": "2013-08-06T19:24:18", 
-      "state_votes": 17, 
-      "votes": 144, 
+      "state_votes": 18, 
+      "votes": 145, 
       "district_votes": 4, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.305, 
       "x": -71.2318, 
-      "latest_vote": "2013-08-09T10:16:11", 
+      "latest_vote": "2013-08-09T11:27:06", 
       "id": 16201423, 
-      "trending_score": 2.5
+      "trending_score": 3.0
     }, 
     {
       "city": "Pleasant Hill", 
@@ -14154,7 +14154,7 @@ opendebate.processFetchedQuestions({
       "x": -122.074, 
       "latest_vote": "2013-08-09T10:43:35", 
       "id": 16201353, 
-      "trending_score": 1.8333333333333333
+      "trending_score": 2.25
     }, 
     {
       "city": "Cincinnati", 
@@ -14686,7 +14686,7 @@ opendebate.processFetchedQuestions({
       "x": -75.2291, 
       "latest_vote": "2013-08-09T10:19:49", 
       "id": 16199637, 
-      "trending_score": 3.5208333333333335
+      "trending_score": 3.547619047619048
     }, 
     {
       "city": "Belmont", 
@@ -14829,16 +14829,16 @@ opendebate.processFetchedQuestions({
       "submission": "If the Constitution defines income as \"profits made from the labor of others\" Why are the corporations not paying their taxes while the citizens are taxed?\u00a0We make no profit we exchange time for wages", 
       "district": "AR_03", 
       "created": "2013-08-06T18:20:21", 
-      "state_votes": 4, 
-      "votes": 77, 
+      "state_votes": 5, 
+      "votes": 78, 
       "district_votes": 1, 
       "state": "AR", 
       "iface": "question", 
       "y": 36.445, 
       "x": -93.7407, 
-      "latest_vote": "2013-08-09T11:07:28", 
+      "latest_vote": "2013-08-09T11:27:26", 
       "id": 16198297, 
-      "trending_score": 2.0
+      "trending_score": 2.5
     }, 
     {
       "city": "Arlington", 
@@ -15342,16 +15342,16 @@ opendebate.processFetchedQuestions({
       "submission": "What do you plan to do about the NSA spying massively on American citizens and the general erosion of civil rights since the Patriot Act?", 
       "district": "CA_14", 
       "created": "2013-08-06T17:24:32", 
-      "state_votes": 14, 
-      "votes": 50, 
+      "state_votes": 15, 
+      "votes": 51, 
       "district_votes": 6, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.6524, 
       "x": -122.431, 
-      "latest_vote": "2013-08-09T11:24:40", 
+      "latest_vote": "2013-08-09T11:27:43", 
       "id": 16194500, 
-      "trending_score": 1.0
+      "trending_score": 1.5
     }, 
     {
       "city": "Provincetown", 
@@ -18410,7 +18410,7 @@ opendebate.processFetchedQuestions({
       "x": -84.943, 
       "latest_vote": "2013-08-09T10:13:19", 
       "id": 16185653, 
-      "trending_score": 2.5
+      "trending_score": 3.25
     }, 
     {
       "city": "Los Angeles", 
@@ -18610,16 +18610,16 @@ opendebate.processFetchedQuestions({
       "submission": "Would you vote to overturn Citizens United?", 
       "district": "NY_01", 
       "created": "2013-08-06T15:00:12", 
-      "state_votes": 4, 
-      "votes": 83, 
+      "state_votes": 5, 
+      "votes": 84, 
       "district_votes": 1, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.775, 
       "x": -72.8957, 
-      "latest_vote": "2013-08-09T10:54:55", 
+      "latest_vote": "2013-08-09T11:27:16", 
       "id": 16185125, 
-      "trending_score": 5.055555555555555
+      "trending_score": 6.055555555555555
     }, 
     {
       "city": "New York", 
@@ -18847,7 +18847,7 @@ opendebate.processFetchedQuestions({
       "x": -92.5211, 
       "latest_vote": "2013-08-09T11:23:58", 
       "id": 16184803, 
-      "trending_score": 1.6666666666666667
+      "trending_score": 3.0714285714285716
     }, 
     {
       "city": "Saint Louis", 
@@ -22533,7 +22533,7 @@ opendebate.processFetchedQuestions({
       "x": -123.188, 
       "latest_vote": "2013-08-09T10:55:39", 
       "id": 16177784, 
-      "trending_score": 4.125
+      "trending_score": 1.75
     }, 
     {
       "city": "Littleton", 
@@ -22742,7 +22742,7 @@ opendebate.processFetchedQuestions({
       "x": -122.017, 
       "latest_vote": "2013-08-09T10:37:40", 
       "id": 16176917, 
-      "trending_score": 2.5714285714285716
+      "trending_score": 2.576923076923077
     }, 
     {
       "city": "Sioux Falls", 
@@ -24243,7 +24243,7 @@ opendebate.processFetchedQuestions({
       "x": -88.9093, 
       "latest_vote": "2013-08-09T11:03:49", 
       "id": 16175636, 
-      "trending_score": 1.1428571428571428
+      "trending_score": 2.0625
     }, 
     {
       "city": "Naples", 
@@ -24357,7 +24357,7 @@ opendebate.processFetchedQuestions({
       "x": -81.5334, 
       "latest_vote": "2013-08-09T10:37:11", 
       "id": 16175571, 
-      "trending_score": 4.055555555555555
+      "trending_score": 4.0625
     }, 
     {
       "city": "Sidney", 
@@ -24452,7 +24452,7 @@ opendebate.processFetchedQuestions({
       "x": -122.322, 
       "latest_vote": "2013-08-09T11:00:15", 
       "id": 16175493, 
-      "trending_score": 5.15
+      "trending_score": 9.642857142857142
     }, 
     {
       "city": "Seattle", 
@@ -25573,7 +25573,7 @@ opendebate.processFetchedQuestions({
       "x": -112.112, 
       "latest_vote": "2013-08-09T11:07:52", 
       "id": 16174319, 
-      "trending_score": 3.75
+      "trending_score": 7.1
     }, 
     {
       "city": "Great Neck", 
@@ -25659,16 +25659,16 @@ opendebate.processFetchedQuestions({
       "submission": "What steps do you intend to take to help prevent discriminatory practices violating the constitutional voting rights of non-white and poor citizens?", 
       "district": "MN_03", 
       "created": "2013-08-04T16:25:17", 
-      "state_votes": 16, 
-      "votes": 106, 
+      "state_votes": 17, 
+      "votes": 107, 
       "district_votes": 3, 
       "state": "MN", 
       "iface": "question", 
       "y": 44.828, 
       "x": -93.3782, 
-      "latest_vote": "2013-08-09T10:43:28", 
+      "latest_vote": "2013-08-09T11:27:12", 
       "id": 16174163, 
-      "trending_score": 1.8333333333333333
+      "trending_score": 2.3333333333333335
     }, 
     {
       "city": "Syracuse", 
@@ -25858,7 +25858,7 @@ opendebate.processFetchedQuestions({
       "x": -105.043, 
       "latest_vote": "2013-08-09T10:19:02", 
       "id": 16173913, 
-      "trending_score": 1.25
+      "trending_score": 2.1
     }, 
     {
       "city": "Fort Collins", 
@@ -26713,7 +26713,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-09T11:25:12", 
       "id": 16173264, 
-      "trending_score": 7.803030303030304
+      "trending_score": 5.416666666666667
     }, 
     {
       "city": "Prosper", 
@@ -26884,7 +26884,7 @@ opendebate.processFetchedQuestions({
       "x": -87.6207, 
       "latest_vote": "2013-08-09T10:43:08", 
       "id": 16173222, 
-      "trending_score": 1.2
+      "trending_score": 2.0833333333333335
     }, 
     {
       "city": "Tucson", 
@@ -26941,7 +26941,7 @@ opendebate.processFetchedQuestions({
       "x": -97.7518, 
       "latest_vote": "2013-08-09T11:22:48", 
       "id": 16173210, 
-      "trending_score": 9.166666666666666
+      "trending_score": 5.916666666666667
     }, 
     {
       "city": "Cottonwood", 
@@ -27701,7 +27701,7 @@ opendebate.processFetchedQuestions({
       "x": -111.974, 
       "latest_vote": "2013-08-09T11:25:16", 
       "id": 16172777, 
-      "trending_score": 8.583333333333334
+      "trending_score": 6.333333333333333
     }, 
     {
       "city": "Gladstone", 
@@ -27758,7 +27758,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5959, 
       "latest_vote": "2013-08-09T11:22:41", 
       "id": 16172755, 
-      "trending_score": 12.11111111111111
+      "trending_score": 7.833333333333334
     }, 
     {
       "city": "Richardson", 
@@ -27834,7 +27834,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5544, 
       "latest_vote": "2013-08-09T11:22:19", 
       "id": 16172727, 
-      "trending_score": 18.642857142857142
+      "trending_score": 9.035714285714286
     }, 
     {
       "city": "Waldport", 
@@ -27872,7 +27872,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7109, 
       "latest_vote": "2013-08-09T11:24:37", 
       "id": 16172722, 
-      "trending_score": 6.5
+      "trending_score": 7.0
     }, 
     {
       "city": "Albuquerque", 
@@ -27958,16 +27958,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you believe that corporations are people as decided by the Supreme Court?", 
       "district": "MO_03", 
       "created": "2013-08-03T22:10:40", 
-      "state_votes": 4, 
-      "votes": 45, 
+      "state_votes": 5, 
+      "votes": 46, 
       "district_votes": 2, 
       "state": "MO", 
       "iface": "question", 
       "y": 38.6391, 
       "x": -92.1163, 
-      "latest_vote": "2013-08-09T01:19:14", 
+      "latest_vote": "2013-08-09T11:27:58", 
       "id": 16172696, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Marana", 
@@ -27986,7 +27986,7 @@ opendebate.processFetchedQuestions({
       "x": -111.295, 
       "latest_vote": "2013-08-09T11:23:57", 
       "id": 16172694, 
-      "trending_score": 4.711428571428571
+      "trending_score": 4.72360248447205
     }, 
     {
       "city": "Eldridge", 
@@ -28328,7 +28328,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2368, 
       "latest_vote": "2013-08-09T09:54:40", 
       "id": 16172542, 
-      "trending_score": 1.8333333333333333
+      "trending_score": 3.125
     }, 
     {
       "city": "Cambridge", 
@@ -28404,7 +28404,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1582, 
       "latest_vote": "2013-08-09T11:23:45", 
       "id": 16172303, 
-      "trending_score": 4.833333333333333
+      "trending_score": 6.75
     }, 
     {
       "city": "Arlington", 
@@ -28442,7 +28442,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1035, 
       "latest_vote": "2013-08-09T10:38:15", 
       "id": 16172286, 
-      "trending_score": 3.0416666666666665
+      "trending_score": 4.2
     }, 
     {
       "city": "Cambridge", 
@@ -28480,7 +28480,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2368, 
       "latest_vote": "2013-08-09T11:22:52", 
       "id": 16172281, 
-      "trending_score": 21.333333333333332
+      "trending_score": 14.166666666666666
     }, 
     {
       "city": "Arlington", 
@@ -28537,7 +28537,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-09T11:22:04", 
       "id": 16172266, 
-      "trending_score": 3.7440191387559807
+      "trending_score": 3.399122807017544
     }, 
     {
       "city": "Cambridge", 
@@ -28547,16 +28547,16 @@ opendebate.processFetchedQuestions({
       "submission": "What is your position on the validity of the Citizens United decision that corporations have the same rights as citizens?", 
       "district": "MA_05", 
       "created": "2013-08-03T17:31:52", 
-      "state_votes": 6, 
-      "votes": 51, 
+      "state_votes": 7, 
+      "votes": 52, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3923, 
       "x": -71.1313, 
-      "latest_vote": "2013-08-09T11:16:39", 
+      "latest_vote": "2013-08-09T11:27:35", 
       "id": 16172265, 
-      "trending_score": 1.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Cambridge", 
