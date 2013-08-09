@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "New York", 
+      "first_name": "charles", 
+      "last_name": "philp", 
+      "user_id": 1759838, 
+      "submission": "Will you support Elizabeth Warren's efforts to create a new Glass-Steagall Act?", 
+      "district": "NY_12", 
+      "created": "2013-08-09T08:18:42", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.7653, 
+      "x": -73.9638, 
+      "id": 16269757, 
+      "question_id": "16201467"
+    }, 
+    {
       "city": "Santa Fe", 
       "first_name": "Victoria", 
       "last_name": "Scott", 
       "user_id": 1708295, 
-      "submission": "Would you be in favor of Congress and the Senate payingfor heath care like the rest of us,and no pension for life unless you put in 25 years like almost every other American. ", 
+      "submission": "Will you support raising the minimum wage to at least $10.00 per hour?", 
       "district": "NM_03", 
-      "created": "2013-08-09T08:17:43", 
+      "created": "2013-08-09T08:18:39", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 35.6768, 
       "x": -105.958, 
-      "id": 16269751, 
-      "question_id": "16188477"
+      "id": 16269756, 
+      "question_id": "16260137"
+    }, 
+    {
+      "city": "Tryon", 
+      "first_name": "Murlel", 
+      "last_name": "Lunsford", 
+      "user_id": 1656934, 
+      "submission": "What will you do to ban military assault weapons and multi-bullet magazine clips?", 
+      "district": "NC_10", 
+      "created": "2013-08-09T08:18:15", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.2172, 
+      "x": -82.2262, 
+      "id": 16269754, 
+      "question_id": "16217229"
     }, 
     {
       "city": "Parlier", 
@@ -45,21 +75,6 @@ opendebate.processTimeline({
       "x": -117.932, 
       "id": 16269741, 
       "question_id": "16199637"
-    }, 
-    {
-      "city": "Tryon", 
-      "first_name": "Murlel", 
-      "last_name": "Lunsford", 
-      "user_id": 1656934, 
-      "submission": "I'm an average working class person and I find myself backsliding financially more and more each passing year. I'm watching large, profitable corporations that are paying their CEO's 30 million dollars a year dodge taxes, break unions, and send American jobs overseas. If elected how would you address the issues of corporate tax dodging, CEO pay, union busting, and outsourcing of American jobs?", 
-      "district": "NC_10", 
-      "created": "2013-08-09T08:15:54", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.2172, 
-      "x": -82.2262, 
-      "id": 16269738, 
-      "question_id": "16212069"
     }, 
     {
       "city": "Shelton", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "x": -87.0926, 
       "id": 16268520, 
       "question_id": "16260903"
-    }, 
-    {
-      "city": "Walla Walla", 
-      "first_name": "Ron", 
-      "last_name": "Hendricks", 
-      "user_id": 1806853, 
-      "submission": "Why is it that Congress continues to get great health care and time off, yet those on the right, don't want the same for all Americans? What can and will you do, to advocate for the middle class and poor? ", 
-      "district": "WA_05", 
-      "created": "2013-08-09T07:30:46", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 46.0593, 
-      "x": -118.33, 
-      "id": 16268120, 
-      "question_id": "16267533"
     }
   ]
 });
