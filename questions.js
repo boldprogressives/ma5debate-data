@@ -1158,7 +1158,7 @@ opendebate.processFetchedQuestions({
       "x": -78.1325, 
       "latest_vote": "2013-08-09T15:12:36", 
       "id": 16265947, 
-      "trending_score": 3.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Vallejo", 
@@ -1196,7 +1196,7 @@ opendebate.processFetchedQuestions({
       "x": -117.717, 
       "latest_vote": "2013-08-09T15:57:07", 
       "id": 16265573, 
-      "trending_score": 12.25
+      "trending_score": 4.083333333333334
     }, 
     {
       "city": "Claremont", 
@@ -1215,7 +1215,7 @@ opendebate.processFetchedQuestions({
       "x": -117.717, 
       "latest_vote": "2013-08-09T15:51:02", 
       "id": 16265543, 
-      "trending_score": 17.75
+      "trending_score": 11.708333333333334
     }, 
     {
       "city": "Claremont", 
@@ -1234,7 +1234,7 @@ opendebate.processFetchedQuestions({
       "x": -117.717, 
       "latest_vote": "2013-08-09T15:12:35", 
       "id": 16265501, 
-      "trending_score": 3.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Sonoma", 
@@ -1272,7 +1272,7 @@ opendebate.processFetchedQuestions({
       "x": -117.717, 
       "latest_vote": "2013-08-09T15:10:10", 
       "id": 16265405, 
-      "trending_score": 3.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Claremont", 
@@ -1291,7 +1291,7 @@ opendebate.processFetchedQuestions({
       "x": -117.717, 
       "latest_vote": "2013-08-09T15:33:01", 
       "id": 16264837, 
-      "trending_score": 7.25
+      "trending_score": 3.5
     }, 
     {
       "city": "Claremont", 
@@ -3609,7 +3609,7 @@ opendebate.processFetchedQuestions({
       "x": -116.294, 
       "latest_vote": "2013-08-09T15:30:12", 
       "id": 16242348, 
-      "trending_score": 6.0
+      "trending_score": 10.25
     }, 
     {
       "city": "Albuquerque", 
@@ -12321,16 +12321,16 @@ opendebate.processFetchedQuestions({
       "submission": "Would you support a living wage law that would force corporations, like Wal-Mart, whose Walton family owns more wealth than 40% of all Americans, to pay  living wages to all of their workers?", 
       "district": "CA_46", 
       "created": "2013-08-07T00:12:33", 
-      "state_votes": 26, 
-      "votes": 464, 
+      "state_votes": 27, 
+      "votes": 465, 
       "district_votes": 8, 
       "state": "CA", 
       "iface": "question", 
       "y": 33.8428, 
       "x": -117.955, 
-      "latest_vote": "2013-08-09T15:39:08", 
+      "latest_vote": "2013-08-09T16:05:18", 
       "id": 16210264, 
-      "trending_score": 18.166666666666668
+      "trending_score": 19.166666666666668
     }, 
     {
       "city": "Hemet", 
@@ -12482,7 +12482,7 @@ opendebate.processFetchedQuestions({
       "x": -99.16, 
       "latest_vote": "2013-08-09T15:07:11", 
       "id": 16209412, 
-      "trending_score": 6.166666666666667
+      "trending_score": 6.25
     }, 
     {
       "city": "El Cajon", 
@@ -12577,7 +12577,7 @@ opendebate.processFetchedQuestions({
       "x": -79.9232, 
       "latest_vote": "2013-08-09T14:43:35", 
       "id": 16208816, 
-      "trending_score": 3.0
+      "trending_score": 5.166666666666667
     }, 
     {
       "city": "Sarasota", 
@@ -14116,7 +14116,7 @@ opendebate.processFetchedQuestions({
       "x": -72.6301, 
       "latest_vote": "2013-08-09T15:49:10", 
       "id": 16203676, 
-      "trending_score": 20.96666666666667
+      "trending_score": 15.65
     }, 
     {
       "city": "Gloucester", 
@@ -14203,15 +14203,15 @@ opendebate.processFetchedQuestions({
       "district": "MI_11", 
       "created": "2013-08-06T19:59:23", 
       "state_votes": 16, 
-      "votes": 541, 
+      "votes": 542, 
       "district_votes": 4, 
       "state": "MI", 
       "iface": "question", 
       "y": 42.5952, 
       "x": -83.1201, 
-      "latest_vote": "2013-08-09T16:01:02", 
+      "latest_vote": "2013-08-09T16:05:57", 
       "id": 16203215, 
-      "trending_score": 30.125
+      "trending_score": 31.125
     }, 
     {
       "city": "Lake Worth", 
@@ -14743,7 +14743,7 @@ opendebate.processFetchedQuestions({
       "x": -72.7291, 
       "latest_vote": "2013-08-09T15:52:58", 
       "id": 16201159, 
-      "trending_score": 10.0
+      "trending_score": 19.166666666666668
     }, 
     {
       "city": "Saint Cloud", 
@@ -14876,7 +14876,7 @@ opendebate.processFetchedQuestions({
       "x": -76.2257, 
       "latest_vote": "2013-08-09T15:22:10", 
       "id": 16200699, 
-      "trending_score": 2.75
+      "trending_score": 2.8333333333333335
     }, 
     {
       "city": "Chesapeake", 
@@ -21290,15 +21290,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_07", 
       "created": "2013-08-06T12:32:01", 
       "state_votes": 21, 
-      "votes": 639, 
+      "votes": 640, 
       "district_votes": 7, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3818, 
       "x": -71.1032, 
-      "latest_vote": "2013-08-09T16:02:56", 
+      "latest_vote": "2013-08-09T16:05:44", 
       "id": 16180998, 
-      "trending_score": 36.166666666666664
+      "trending_score": 37.166666666666664
     }, 
     {
       "city": "Irvine", 
@@ -23711,7 +23711,7 @@ opendebate.processFetchedQuestions({
       "x": -122.322, 
       "latest_vote": "2013-08-09T15:24:47", 
       "id": 16176614, 
-      "trending_score": 5.125
+      "trending_score": 5.166666666666667
     }, 
     {
       "city": "Hot Springs National Park", 
@@ -23874,15 +23874,15 @@ opendebate.processFetchedQuestions({
       "district": "NM_01", 
       "created": "2013-08-05T04:17:03", 
       "state_votes": 8, 
-      "votes": 192, 
+      "votes": 193, 
       "district_votes": 1, 
       "state": "NM", 
       "iface": "question", 
       "y": 35.1075, 
       "x": -106.576, 
-      "latest_vote": "2013-08-09T15:55:44", 
+      "latest_vote": "2013-08-09T16:05:34", 
       "id": 16176481, 
-      "trending_score": 23.5
+      "trending_score": 24.0
     }, 
     {
       "city": "Copperas Cove", 
@@ -24653,15 +24653,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_08", 
       "created": "2013-08-05T01:44:45", 
       "state_votes": 87, 
-      "votes": 965, 
+      "votes": 967, 
       "district_votes": 32, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.174, 
       "x": -87.9643, 
-      "latest_vote": "2013-08-09T16:01:46", 
+      "latest_vote": "2013-08-09T16:05:40", 
       "id": 16175740, 
-      "trending_score": 48.166666666666664
+      "trending_score": 49.166666666666664
     }, 
     {
       "city": "Buffalo Grove", 
@@ -24699,7 +24699,7 @@ opendebate.processFetchedQuestions({
       "x": -110.947, 
       "latest_vote": "2013-08-09T15:10:33", 
       "id": 16175691, 
-      "trending_score": 4.166666666666667
+      "trending_score": 4.25
     }, 
     {
       "city": "Mount Vernon", 
@@ -24794,7 +24794,7 @@ opendebate.processFetchedQuestions({
       "x": -88.9093, 
       "latest_vote": "2013-08-09T15:56:12", 
       "id": 16175634, 
-      "trending_score": 19.083333333333332
+      "trending_score": 27.833333333333332
     }, 
     {
       "city": "Mount Vernon", 
@@ -24965,7 +24965,7 @@ opendebate.processFetchedQuestions({
       "x": -122.322, 
       "latest_vote": "2013-08-09T15:57:38", 
       "id": 16175493, 
-      "trending_score": 24.055555555555557
+      "trending_score": 11.61111111111111
     }, 
     {
       "city": "Seattle", 
@@ -25165,16 +25165,16 @@ opendebate.processFetchedQuestions({
       "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
       "district": "CO_01", 
       "created": "2013-08-04T22:24:13", 
-      "state_votes": 31, 
-      "votes": 440, 
+      "state_votes": 32, 
+      "votes": 441, 
       "district_votes": 8, 
       "state": "CO", 
       "iface": "question", 
       "y": 39.7285, 
       "x": -104.954, 
-      "latest_vote": "2013-08-09T15:29:42", 
+      "latest_vote": "2013-08-09T16:05:54", 
       "id": 16175230, 
-      "trending_score": 7.5
+      "trending_score": 7.833333333333333
     }, 
     {
       "city": "Seal Rock", 
@@ -26257,7 +26257,7 @@ opendebate.processFetchedQuestions({
       "x": -123.884, 
       "latest_vote": "2013-08-09T15:38:35", 
       "id": 16174072, 
-      "trending_score": 7.5
+      "trending_score": 14.166666666666666
     }, 
     {
       "city": "Cape Girardeau", 
@@ -27359,7 +27359,7 @@ opendebate.processFetchedQuestions({
       "x": -122.607, 
       "latest_vote": "2013-08-09T15:38:48", 
       "id": 16173225, 
-      "trending_score": 7.0
+      "trending_score": 13.166666666666666
     }, 
     {
       "city": "Saint Peters", 
@@ -27796,7 +27796,7 @@ opendebate.processFetchedQuestions({
       "x": -95.2819, 
       "latest_vote": "2013-08-09T15:11:13", 
       "id": 16173074, 
-      "trending_score": 3.25
+      "trending_score": 3.5
     }, 
     {
       "city": "Houston", 
@@ -28271,7 +28271,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5959, 
       "latest_vote": "2013-08-09T16:00:33", 
       "id": 16172755, 
-      "trending_score": 20.0
+      "trending_score": 15.957142857142857
     }, 
     {
       "city": "Richardson", 
@@ -28320,15 +28320,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:21:20", 
       "state_votes": 118, 
-      "votes": 953, 
+      "votes": 954, 
       "district_votes": 25, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.5746, 
       "x": -122.811, 
-      "latest_vote": "2013-08-09T15:51:19", 
+      "latest_vote": "2013-08-09T16:05:55", 
       "id": 16172731, 
-      "trending_score": 31.666666666666668
+      "trending_score": 32.166666666666664
     }, 
     {
       "city": "Chicago", 
@@ -28860,7 +28860,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-09T15:57:26", 
       "id": 16172533, 
-      "trending_score": 18.65
+      "trending_score": 18.75
     }, 
     {
       "city": "Medford", 

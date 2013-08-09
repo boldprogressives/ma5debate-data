@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Newtown Square", 
+      "first_name": "Jo-Anne", 
+      "last_name": "Perkinson", 
+      "user_id": 1773418, 
+      "submission": "Will you vote to end tax loopholes for the rich, big business subsides, overseas corporate tax loopholes, wasteful wars, foreign country subsides, quality health care for all, good safe food for all, clean air, clean energy, clean safe drinking water, useful education and job opportunities for all hard working citizens that can achieve these levels and deserve it, gun control, to end wall street fraud and corruption.", 
+      "district": "PA_07", 
+      "created": "2013-08-09T16:05:57", 
+      "state": "PA", 
+      "iface": "timeline_vote", 
+      "y": 39.9832, 
+      "x": -75.4127, 
+      "id": 16278872, 
+      "question_id": "16203215"
+    }, 
+    {
       "city": "Jamaica Plain", 
       "first_name": "Carolyn", 
       "last_name": "Nikkal", 
       "user_id": 994541, 
-      "submission": "Would you support a ban on Congresspersons accepting jobs as corporate lobbyists for at least ten years after leaving Congress?", 
+      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
       "district": "MA_08", 
-      "created": "2013-08-09T16:04:41", 
+      "created": "2013-08-09T16:05:54", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2947, 
       "x": -71.1305, 
-      "id": 16278864, 
-      "question_id": "16178177"
+      "id": 16278870, 
+      "question_id": "16175230"
+    }, 
+    {
+      "city": "Boise", 
+      "first_name": "Stella", 
+      "last_name": "Schneider", 
+      "user_id": 226134, 
+      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
+      "district": "ID_02", 
+      "created": "2013-08-09T16:05:40", 
+      "state": "ID", 
+      "iface": "timeline_vote", 
+      "y": 43.6284, 
+      "x": -116.207, 
+      "id": 16278868, 
+      "question_id": "16175740"
     }, 
     {
       "city": "Oakland", 
@@ -274,36 +304,6 @@ opendebate.processTimeline({
       "x": -72.5064, 
       "id": 16278184, 
       "question_id": "16172690"
-    }, 
-    {
-      "city": "Seattle", 
-      "first_name": "Susan", 
-      "last_name": "fried", 
-      "user_id": 291649, 
-      "submission": "What will you do about gun control and the scare tactics/bullying by the NRA and gun lobbyists?  How will you approach the Right's program of 'divisiveness and culture of fear' that now rips us apart?", 
-      "district": "WA_07", 
-      "created": "2013-08-09T15:42:24", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 47.7184, 
-      "x": -122.302, 
-      "id": 16278176, 
-      "question_id": "16176673"
-    }, 
-    {
-      "city": "Alexandria", 
-      "first_name": "Bruce Hutson", 
-      "last_name": "PO  Box 7404, Alexandria, VA  22307-0404", 
-      "user_id": 1772446, 
-      "submission": "Do you believe there is such a thing as corporate personhood?", 
-      "district": "VA_08", 
-      "created": "2013-08-09T15:42:14", 
-      "state": "VA", 
-      "iface": "timeline_vote", 
-      "y": 38.7726, 
-      "x": -77.0569, 
-      "id": 16278172, 
-      "question_id": "16212348"
     }
   ]
 });
