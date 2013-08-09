@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Suffern", 
+      "first_name": "Luis M.", 
+      "last_name": "Diaz", 
+      "user_id": 1780949, 
+      "submission": "Are you going to stand up to the NRA, to stop our young and innocent, from being murdered?", 
+      "district": "NY_17", 
+      "created": "2013-08-09T07:07:22", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 41.1277, 
+      "x": -74.1119, 
+      "id": 16267428, 
+      "question_id": "16199637"
+    }, 
+    {
+      "city": "Santa Cruz", 
+      "first_name": "Barbara", 
+      "last_name": "Ogle", 
+      "user_id": 1069943, 
+      "submission": "Will you support Elizabeth Warren's efforts to create a new Glass-Steagall Act?", 
+      "district": "CA_20", 
+      "created": "2013-08-09T07:07:14", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 36.9715, 
+      "x": -121.985, 
+      "id": 16267427, 
+      "question_id": "16201467"
+    }, 
+    {
       "city": "Seattle", 
       "first_name": "Colby", 
       "last_name": "Jordan", 
@@ -15,36 +45,6 @@ opendebate.processTimeline({
       "x": -122.333, 
       "id": 16267422, 
       "question_id": "16172207"
-    }, 
-    {
-      "city": "Suffern", 
-      "first_name": "Luis M.", 
-      "last_name": "Diaz", 
-      "user_id": 1780949, 
-      "submission": "Would you support an audit of the Federal Reserve?", 
-      "district": "NY_17", 
-      "created": "2013-08-09T07:07:02", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 41.1277, 
-      "x": -74.1119, 
-      "id": 16267423, 
-      "question_id": "16259575"
-    }, 
-    {
-      "city": "Santa Cruz", 
-      "first_name": "Barbara", 
-      "last_name": "Ogle", 
-      "user_id": 1069943, 
-      "submission": "As the Supreme Court has limited individual human rights, it has expanded and strengthen the \"rights\" of corporations.  What steps would you take to redress this balance?", 
-      "district": "CA_20", 
-      "created": "2013-08-09T07:06:55", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 36.9715, 
-      "x": -121.985, 
-      "id": 16267420, 
-      "question_id": "16235193"
     }, 
     {
       "city": "Tryon", 
