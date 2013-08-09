@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "San Diego", 
+      "first_name": "IRMA", 
+      "last_name": "CAMARILLO", 
+      "user_id": 226704, 
+      "submission": "Serving in Congress is not a career.  Will you vote for term limits?", 
+      "district": "CA_53", 
+      "created": "2013-08-09T08:05:42", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 32.6757, 
+      "x": -117.05, 
+      "id": 16269647, 
+      "question_id": "16173323"
+    }, 
+    {
+      "city": "New York", 
+      "first_name": "Marcus", 
+      "last_name": "Adams", 
+      "user_id": 526656, 
+      "submission": "Will you work to repeal \"Citizens United\"?", 
+      "district": "NY_10", 
+      "created": "2013-08-09T08:05:25", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.7243, 
+      "x": -73.9961, 
+      "id": 16269645, 
+      "question_id": "16253899"
+    }, 
+    {
       "city": "Tryon", 
       "first_name": "Murlel", 
       "last_name": "Lunsford", 
@@ -15,36 +45,6 @@ opendebate.processTimeline({
       "x": -82.2262, 
       "id": 16269643, 
       "question_id": "16191095"
-    }, 
-    {
-      "city": "New York", 
-      "first_name": "Marcus", 
-      "last_name": "Adams", 
-      "user_id": 526656, 
-      "submission": "Where do you stand on establishing term limits for Senators and members of the House?", 
-      "district": "NY_10", 
-      "created": "2013-08-09T08:04:31", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.7243, 
-      "x": -73.9961, 
-      "id": 16269642, 
-      "question_id": "16254006"
-    }, 
-    {
-      "city": "San Diego", 
-      "first_name": "IRMA", 
-      "last_name": "CAMARILLO", 
-      "user_id": 226704, 
-      "submission": "Why are politicians and the media not talking more about getting rid of criminal, corporate welfare versus keeping critical, survival spending programs ? ", 
-      "district": "CA_53", 
-      "created": "2013-08-09T08:04:05", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 32.6757, 
-      "x": -117.05, 
-      "id": 16269639, 
-      "question_id": "16250081"
     }, 
     {
       "city": "Keaau", 
