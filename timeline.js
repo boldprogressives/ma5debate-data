@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Dale", 
       "last_name": "Le Fevre", 
       "user_id": 340427, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "submission": "Will you work to reinstate the Glass-Steagall Act to insure that the Wall Street banks behave in a more responsible manner?", 
       "district": "CA_02", 
-      "created": "2013-08-09T09:28:06", 
+      "created": "2013-08-09T09:28:56", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 39.4417, 
       "x": -123.784, 
-      "id": 16270257, 
-      "question_id": "16172266"
+      "id": 16270266, 
+      "question_id": "16256690"
+    }, 
+    {
+      "city": "Tampa", 
+      "first_name": "Robert", 
+      "last_name": "Katz", 
+      "user_id": 1578056, 
+      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
+      "district": "FL_14", 
+      "created": "2013-08-09T09:28:45", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 27.9811, 
+      "x": -82.343, 
+      "id": 16270264, 
+      "question_id": "16172690"
     }, 
     {
       "city": "Newland", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -119.531, 
       "id": 16269747, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Newport Beach", 
-      "first_name": "delone", 
-      "last_name": "green", 
-      "user_id": 1130825, 
-      "submission": "Are you going to stand up to the NRA, to stop our young and innocent, from being murdered?", 
-      "district": "CA_48", 
-      "created": "2013-08-09T08:16:08", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 33.621, 
-      "x": -117.932, 
-      "id": 16269741, 
-      "question_id": "16199637"
     }
   ]
 });
