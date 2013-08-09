@@ -6,30 +6,60 @@ opendebate.processTimeline({
       "first_name": "Mary", 
       "last_name": "Webb", 
       "user_id": 1783551, 
-      "submission": "Why are businesses given  a extension on Obamacare and not the people, as that is discrimination?", 
+      "submission": "Do you think Social Security, Medicare and Medicaid should be expanded?", 
       "district": "OH_15", 
-      "created": "2013-08-09T15:19:53", 
+      "created": "2013-08-09T15:21:02", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 39.601, 
       "x": -83.1221, 
-      "id": 16277745, 
-      "question_id": "16213252"
+      "id": 16277759, 
+      "question_id": "16212355"
+    }, 
+    {
+      "city": "Spokane", 
+      "first_name": "Helen", 
+      "last_name": "Curtis", 
+      "user_id": 461351, 
+      "submission": "Do you support the concept of keeping church and state separate?", 
+      "district": "WA_05", 
+      "created": "2013-08-09T15:21:01", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 47.7381, 
+      "x": -117.446, 
+      "id": 16277758, 
+      "question_id": "16173921"
+    }, 
+    {
+      "city": "Alexandria", 
+      "first_name": "Bruce Hutson", 
+      "last_name": "PO  Box 7404, Alexandria, VA  22307-0404", 
+      "user_id": 1772446, 
+      "submission": "Why doesn't ANY representative pass laws creating large enough tariffs on Chinese  imports (and for other foreign countries) that the \"Cheap Slave Labor\" which the 1% richest corporations and investors use there will be forced to create those jobs here at home because the tariffs would cost more than paying an American a decent living wage.???", 
+      "district": "VA_08", 
+      "created": "2013-08-09T15:20:54", 
+      "state": "VA", 
+      "iface": "timeline_vote", 
+      "y": 38.7726, 
+      "x": -77.0569, 
+      "id": 16277753, 
+      "question_id": "16176232"
     }, 
     {
       "city": "Oakland", 
       "first_name": "Teresa", 
       "last_name": "Boggs-Moura", 
       "user_id": 896992, 
-      "submission": "What is your position on the Keystone XL pipeline and on fracking? Specifically what would you do to stop climate change and move to renewable energy?", 
+      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
       "district": "CA_13", 
-      "created": "2013-08-09T15:19:52", 
+      "created": "2013-08-09T15:20:39", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 37.791, 
       "x": -122.181, 
-      "id": 16277743, 
-      "question_id": "16207584"
+      "id": 16277750, 
+      "question_id": "16180998"
     }, 
     {
       "city": "Brandon", 
@@ -60,21 +90,6 @@ opendebate.processTimeline({
       "x": -74.66, 
       "id": 16277735, 
       "question_id": "16172657"
-    }, 
-    {
-      "city": "Alexandria", 
-      "first_name": "Bruce Hutson", 
-      "last_name": "PO  Box 7404, Alexandria, VA  22307-0404", 
-      "user_id": 1772446, 
-      "submission": "What will you do to change the course of privatization and public spending?  Privatization leads to lack of transparency, profiteering, and inequality.  We need a grand plan here, not empty rhetoric.", 
-      "district": "VA_08", 
-      "created": "2013-08-09T15:19:00", 
-      "state": "VA", 
-      "iface": "timeline_vote", 
-      "y": 38.7726, 
-      "x": -77.0569, 
-      "id": 16277725, 
-      "question_id": "16176723"
     }, 
     {
       "city": "Saginaw", 
@@ -293,25 +308,6 @@ opendebate.processTimeline({
       "x": -70.9045, 
       "id": 16277476, 
       "question_id": "16172207"
-    }, 
-    {
-      "city": "Savannah", 
-      "first_name": "Cheryl", 
-      "last_name": "Woodson", 
-      "user_id": 497659, 
-      "submission": "Are there any petitions/class action's becoming available for consumer's for Banks that committed foreclosure fraud, and continue to do so at the expense of the consumers'", 
-      "district": "GA_01", 
-      "created": "2013-08-09T15:10:23", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "GA", 
-      "iface": "timeline_question", 
-      "y": 32.0756, 
-      "x": -81.1291, 
-      "latest_vote": null, 
-      "id": 16277426, 
-      "trending_score": 0.5
     }
   ]
 });
