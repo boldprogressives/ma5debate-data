@@ -930,7 +930,7 @@ opendebate.processFetchedQuestions({
       "x": -107.877, 
       "latest_vote": "2013-08-09T15:43:04", 
       "id": 16267533, 
-      "trending_score": 11.25
+      "trending_score": 5.5
     }, 
     {
       "city": "Durango", 
@@ -949,7 +949,7 @@ opendebate.processFetchedQuestions({
       "x": -107.877, 
       "latest_vote": "2013-08-09T15:12:45", 
       "id": 16267518, 
-      "trending_score": 3.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Ann Arbor", 
@@ -968,7 +968,7 @@ opendebate.processFetchedQuestions({
       "x": -83.7165, 
       "latest_vote": "2013-08-09T15:07:07", 
       "id": 16267512, 
-      "trending_score": 3.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Henderson", 
@@ -1367,7 +1367,7 @@ opendebate.processFetchedQuestions({
       "x": -122.811, 
       "latest_vote": "2013-08-09T15:22:34", 
       "id": 16262538, 
-      "trending_score": 5.833333333333333
+      "trending_score": 11.125
     }, 
     {
       "city": "Cerritos", 
@@ -4342,15 +4342,15 @@ opendebate.processFetchedQuestions({
       "district": "AR_02", 
       "created": "2013-08-08T22:28:34", 
       "state_votes": 0, 
-      "votes": 7, 
+      "votes": 8, 
       "district_votes": 0, 
       "state": "AR", 
       "iface": "question", 
       "y": 35.0673, 
       "x": -92.3808, 
-      "latest_vote": "2013-08-09T05:15:46", 
+      "latest_vote": "2013-08-09T16:03:58", 
       "id": 16238259, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Marietta", 
@@ -4361,15 +4361,15 @@ opendebate.processFetchedQuestions({
       "district": "GA_11", 
       "created": "2013-08-08T22:27:46", 
       "state_votes": 0, 
-      "votes": 3, 
+      "votes": 4, 
       "district_votes": 0, 
       "state": "GA", 
       "iface": "question", 
       "y": 33.9306, 
       "x": -84.4622, 
-      "latest_vote": "2013-08-09T04:51:45", 
+      "latest_vote": "2013-08-09T16:03:46", 
       "id": 16238241, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Savage", 
@@ -4380,15 +4380,15 @@ opendebate.processFetchedQuestions({
       "district": "MN_02", 
       "created": "2013-08-08T22:18:16", 
       "state_votes": 0, 
-      "votes": 3, 
+      "votes": 4, 
       "district_votes": 0, 
       "state": "MN", 
       "iface": "question", 
       "y": 44.7638, 
       "x": -93.3508, 
-      "latest_vote": "2013-08-09T04:54:45", 
+      "latest_vote": "2013-08-09T16:03:41", 
       "id": 16237988, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Joliet", 
@@ -4502,7 +4502,7 @@ opendebate.processFetchedQuestions({
       "x": -91.7234, 
       "latest_vote": "2013-08-09T15:06:43", 
       "id": 16236353, 
-      "trending_score": 2.0
+      "trending_score": 2.25
     }, 
     {
       "city": "Huntington", 
@@ -4893,15 +4893,15 @@ opendebate.processFetchedQuestions({
       "district": "GA_04", 
       "created": "2013-08-08T21:09:21", 
       "state_votes": 0, 
-      "votes": 3, 
+      "votes": 4, 
       "district_votes": 0, 
       "state": "GA", 
       "iface": "question", 
       "y": 33.8056, 
       "x": -84.2363, 
-      "latest_vote": "2013-08-09T06:22:20", 
+      "latest_vote": "2013-08-09T16:03:27", 
       "id": 16234432, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Norwich", 
@@ -6079,7 +6079,7 @@ opendebate.processFetchedQuestions({
       "x": -71.215, 
       "latest_vote": "2013-08-09T15:57:23", 
       "id": 16226952, 
-      "trending_score": 20.166666666666668
+      "trending_score": 20.25
     }, 
     {
       "city": "Wilmington", 
@@ -9670,7 +9670,7 @@ opendebate.processFetchedQuestions({
       "x": -94.4061, 
       "latest_vote": "2013-08-09T15:05:09", 
       "id": 16216578, 
-      "trending_score": 11.25
+      "trending_score": 11.5
     }, 
     {
       "city": "Boston", 
@@ -11399,7 +11399,7 @@ opendebate.processFetchedQuestions({
       "x": -84.3168, 
       "latest_vote": "2013-08-09T15:25:16", 
       "id": 16212600, 
-      "trending_score": 7.25
+      "trending_score": 7.5
     }, 
     {
       "city": "Jonesboro", 
@@ -13071,7 +13071,7 @@ opendebate.processFetchedQuestions({
       "x": -79.9806, 
       "latest_vote": "2013-08-09T15:07:29", 
       "id": 16207107, 
-      "trending_score": 4.833333333333333
+      "trending_score": 4.25
     }, 
     {
       "city": "Asheville", 
@@ -14354,16 +14354,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
       "district": "CA_12", 
       "created": "2013-08-06T19:37:02", 
-      "state_votes": 65, 
-      "votes": 578, 
+      "state_votes": 66, 
+      "votes": 579, 
       "district_votes": 22, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.7802, 
       "x": -122.459, 
-      "latest_vote": "2013-08-09T15:58:25", 
+      "latest_vote": "2013-08-09T16:03:29", 
       "id": 16202059, 
-      "trending_score": 26.125
+      "trending_score": 27.125
     }, 
     {
       "city": "Richfield", 
@@ -14876,7 +14876,7 @@ opendebate.processFetchedQuestions({
       "x": -76.2257, 
       "latest_vote": "2013-08-09T15:22:10", 
       "id": 16200699, 
-      "trending_score": 6.125
+      "trending_score": 2.75
     }, 
     {
       "city": "Chesapeake", 
@@ -15199,7 +15199,7 @@ opendebate.processFetchedQuestions({
       "x": -75.2291, 
       "latest_vote": "2013-08-09T15:52:31", 
       "id": 16199637, 
-      "trending_score": 11.166666666666666
+      "trending_score": 11.25
     }, 
     {
       "city": "Belmont", 
@@ -15351,7 +15351,7 @@ opendebate.processFetchedQuestions({
       "x": -93.7407, 
       "latest_vote": "2013-08-09T15:18:04", 
       "id": 16198297, 
-      "trending_score": 5.166666666666666
+      "trending_score": 6.0
     }, 
     {
       "city": "Arlington", 
@@ -22704,7 +22704,7 @@ opendebate.processFetchedQuestions({
       "x": -106.578, 
       "latest_vote": "2013-08-09T15:40:35", 
       "id": 16178177, 
-      "trending_score": 18.1
+      "trending_score": 18.125
     }, 
     {
       "city": "San Antonio", 
@@ -24661,7 +24661,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9643, 
       "latest_vote": "2013-08-09T16:01:46", 
       "id": 16175740, 
-      "trending_score": 48.142857142857146
+      "trending_score": 48.166666666666664
     }, 
     {
       "city": "Buffalo Grove", 
@@ -24756,7 +24756,7 @@ opendebate.processFetchedQuestions({
       "x": -88.9093, 
       "latest_vote": "2013-08-09T14:46:53", 
       "id": 16175636, 
-      "trending_score": 3.0
+      "trending_score": 4.25
     }, 
     {
       "city": "Naples", 
@@ -24794,7 +24794,7 @@ opendebate.processFetchedQuestions({
       "x": -88.9093, 
       "latest_vote": "2013-08-09T15:56:12", 
       "id": 16175634, 
-      "trending_score": 28.333333333333332
+      "trending_score": 18.833333333333332
     }, 
     {
       "city": "Mount Vernon", 
@@ -25763,7 +25763,7 @@ opendebate.processFetchedQuestions({
       "x": -122.298, 
       "latest_vote": "2013-08-09T14:47:17", 
       "id": 16174466, 
-      "trending_score": 1.5
+      "trending_score": 1.25
     }, 
     {
       "city": "Albany", 
@@ -27226,7 +27226,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-09T15:53:12", 
       "id": 16173264, 
-      "trending_score": 24.4
+      "trending_score": 24.5
     }, 
     {
       "city": "Prosper", 
@@ -27255,16 +27255,16 @@ opendebate.processFetchedQuestions({
       "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
       "district": "WI_06", 
       "created": "2013-08-04T01:21:04", 
-      "state_votes": 60, 
-      "votes": 608, 
+      "state_votes": 61, 
+      "votes": 609, 
       "district_votes": 15, 
       "state": "WI", 
       "iface": "question", 
       "y": 44.0957, 
       "x": -87.7111, 
-      "latest_vote": "2013-08-09T15:56:27", 
+      "latest_vote": "2013-08-09T16:03:17", 
       "id": 16173257, 
-      "trending_score": 17.166666666666668
+      "trending_score": 17.5
     }, 
     {
       "city": "Corvallis", 
@@ -28347,7 +28347,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5544, 
       "latest_vote": "2013-08-09T15:56:09", 
       "id": 16172727, 
-      "trending_score": 14.416666666666666
+      "trending_score": 12.1
     }, 
     {
       "city": "Waldport", 
@@ -28727,7 +28727,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-09T15:55:57", 
       "id": 16172583, 
-      "trending_score": 10.833333333333334
+      "trending_score": 14.5
     }, 
     {
       "city": "ARLINGTON", 
@@ -28917,7 +28917,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1582, 
       "latest_vote": "2013-08-09T15:54:35", 
       "id": 16172303, 
-      "trending_score": 25.633333333333333
+      "trending_score": 25.708333333333332
     }, 
     {
       "city": "Arlington", 
@@ -28993,7 +28993,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2368, 
       "latest_vote": "2013-08-09T15:52:37", 
       "id": 16172281, 
-      "trending_score": 12.933333333333334
+      "trending_score": 11.128571428571428
     }, 
     {
       "city": "Arlington", 
@@ -29449,7 +29449,7 @@ opendebate.processFetchedQuestions({
       "x": -88.4807, 
       "latest_vote": "2013-08-09T14:44:10", 
       "id": 16170105, 
-      "trending_score": 4.0
+      "trending_score": 6.25
     }, 
     {
       "city": "Cross Hill", 

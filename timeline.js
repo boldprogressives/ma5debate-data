@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Barbara", 
       "last_name": "Maynard", 
       "user_id": 224280, 
-      "submission": "The so called \" defense \" budget has hugely expanded, and is not being questioned. Would you support cutting this funding in a meaning way and promote peaceful dialogue instead? War is outmoded and we need to be about the business of respecting and living peacefully with the people's of the world.", 
+      "submission": "Would you work to see that the US Government repays all the funds that they have borrowed or better \"ROBBED\" from Social Security over the years?", 
       "district": "CA_13", 
-      "created": "2013-08-09T16:02:57", 
+      "created": "2013-08-09T16:03:58", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 37.8356, 
       "x": -122.223, 
-      "id": 16278848, 
-      "question_id": "16234754"
+      "id": 16278855, 
+      "question_id": "16238259"
     }, 
     {
       "city": "Jamaica Plain", 
       "first_name": "Carolyn", 
       "last_name": "Nikkal", 
       "user_id": 994541, 
-      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
       "district": "MA_08", 
-      "created": "2013-08-09T16:02:56", 
+      "created": "2013-08-09T16:03:29", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2947, 
       "x": -71.1305, 
-      "id": 16278847, 
-      "question_id": "16180998"
+      "id": 16278851, 
+      "question_id": "16202059"
     }, 
     {
       "city": "Madera", 
