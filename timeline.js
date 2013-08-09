@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Dale", 
       "last_name": "Le Fevre", 
       "user_id": 340427, 
-      "submission": "When are you going to get rid of the former Monsanto exec. the Secretary of Agriculture who's allowing our bee population to be killed off by his former company's pesticides? Are we going to have our food source destroyed just so a handful of robber barons can line their pockets?  ", 
+      "submission": "The sequester just slashed Meals on Wheels, food stamps, Section 8 vouchers for housing for the needy.  Since we all have to \"tighten our belts\" how come Congress gets a pay RAISE this year?", 
       "district": "CA_02", 
-      "created": "2013-08-09T09:32:56", 
+      "created": "2013-08-09T09:33:56", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 39.4417, 
       "x": -123.784, 
-      "id": 16270297, 
-      "question_id": "16234686"
+      "id": 16270303, 
+      "question_id": "16209412"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
       "district": "MA_04", 
-      "created": "2013-08-09T09:32:54", 
+      "created": "2013-08-09T09:33:48", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270296, 
-      "question_id": "16172281"
+      "id": 16270302, 
+      "question_id": "16172913"
     }, 
     {
       "city": "Tampa", 
