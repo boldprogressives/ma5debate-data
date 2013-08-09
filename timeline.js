@@ -2,34 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Santa Cruz", 
+      "first_name": "Barbara", 
+      "last_name": "Ogle", 
+      "user_id": 1069943, 
+      "submission": "Why is Monsanto allowed to destroy our agriculture and the small farmers?", 
+      "district": "CA_20", 
+      "created": "2013-08-09T07:06:04", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 36.9715, 
+      "x": -121.985, 
+      "id": 16267405, 
+      "question_id": "16244435"
+    }, 
+    {
       "city": "Suffern", 
       "first_name": "Luis M.", 
       "last_name": "Diaz", 
       "user_id": 1780949, 
-      "submission": "What will you do to get congress to work on a jobs bill instead of wasting taxpayers money trying to repeal The Affordable Healthcare Act?", 
+      "submission": "The threat that hangs over the country today is a GOP determined to destroy the middle class and the values that define it.  What specific steps will you recommend to confront, not appease, the GOP?", 
       "district": "NY_17", 
-      "created": "2013-08-09T07:04:52", 
+      "created": "2013-08-09T07:06:01", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 41.1277, 
       "x": -74.1119, 
-      "id": 16267380, 
-      "question_id": "16203558"
+      "id": 16267403, 
+      "question_id": "16172694"
     }, 
     {
       "city": "Tryon", 
       "first_name": "Murlel", 
       "last_name": "Lunsford", 
       "user_id": 1656934, 
-      "submission": "How can Manning and Snowden be in trouble and Dick Chaney isn't in trouble for outing Valerie Plame?", 
+      "submission": "How will you support the dignity and freedom of women to make medical decisions with their health care providers without interference of federal and state laws?", 
       "district": "NC_10", 
-      "created": "2013-08-09T07:04:42", 
+      "created": "2013-08-09T07:05:48", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.2172, 
       "x": -82.2262, 
-      "id": 16267377, 
-      "question_id": "16201620"
+      "id": 16267398, 
+      "question_id": "16183415"
+    }, 
+    {
+      "city": "Dallas", 
+      "first_name": "Violet", 
+      "last_name": "Sunderland", 
+      "user_id": 986238, 
+      "submission": "Will you fight for whistleblowers instead of against them? Will you help stop the NSA from snooping in everyone's business? You do anything to stop the drones from killing innocent people? Will you stop martial law in this country before it starts. As it stands now I see our government, the banks, pharmaceutical companies, and all the other genocidal activities going on in this country to be criminal.", 
+      "district": "OR_05", 
+      "created": "2013-08-09T07:05:15", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 44.9222, 
+      "x": -123.327, 
+      "id": 16267384, 
+      "question_id": "16235604"
     }, 
     {
       "city": "Minneapolis", 
@@ -60,21 +90,6 @@ opendebate.processTimeline({
       "x": -75.2104, 
       "id": 16267364, 
       "question_id": "16172542"
-    }, 
-    {
-      "city": "Dallas", 
-      "first_name": "Violet", 
-      "last_name": "Sunderland", 
-      "user_id": 986238, 
-      "submission": "why does Congress feel they deserve more then the constituents they represent?", 
-      "district": "OR_05", 
-      "created": "2013-08-09T07:02:51", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 44.9222, 
-      "x": -123.327, 
-      "id": 16267342, 
-      "question_id": "16184213"
     }, 
     {
       "city": "San Anselmo", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -122.643, 
       "id": 16267044, 
       "question_id": "16212600"
-    }, 
-    {
-      "city": "Bremerton", 
-      "first_name": "Glenn", 
-      "last_name": "Gang", 
-      "user_id": 160745, 
-      "submission": "Will you support responsible reform among the big banks - never too big to FAIL, never too big to JAIL, and always too big to BAIL?", 
-      "district": "WA_06", 
-      "created": "2013-08-09T06:41:45", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 47.6103, 
-      "x": -122.632, 
-      "id": 16267042, 
-      "question_id": "16248409"
     }
   ]
 });
