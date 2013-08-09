@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Would you support Medicare paying for dental care?", 
+      "district": "MA_04", 
+      "created": "2013-08-09T10:00:01", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16270536, 
+      "question_id": "16174466"
+    }, 
+    {
       "city": "Clayton", 
       "first_name": "Vicki", 
       "last_name": "Thompson", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -78.4448, 
       "id": 16270534, 
       "question_id": "16183415"
-    }, 
-    {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "Climate change is moving us towards a planet that may not support human life.  Will you make addressing climate change one of your highest priorities?", 
-      "district": "MA_04", 
-      "created": "2013-08-09T09:59:46", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16270531, 
-      "question_id": "16175078"
     }, 
     {
       "city": "Lincoln", 
