@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Victoria", 
       "last_name": "Scott", 
       "user_id": 1708295, 
-      "submission": "Where do you stand on the prospect of nation-wide legalization, regulation and taxation of marijuana? ", 
+      "submission": "The drug war and the prison industry has destroyed many lives -- especially of low income and minority citizens. As a first step marijuana needs to be legalized nationa=wide. What will you do toward that end?", 
       "district": "NM_03", 
-      "created": "2013-08-09T08:39:57", 
+      "created": "2013-08-09T08:40:52", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 35.6768, 
       "x": -105.958, 
-      "id": 16269978, 
-      "question_id": "16175899"
+      "id": 16269982, 
+      "question_id": "16173417"
     }, 
     {
       "city": "Rocky Mount", 
