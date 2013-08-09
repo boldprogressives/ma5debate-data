@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Decatur", 
+      "first_name": "Wilma", 
+      "last_name": "Bondurant", 
+      "user_id": 1807845, 
+      "submission": "Do you support Unions and their work on behalf of  American workers ", 
+      "district": "IL_13", 
+      "created": "2013-08-09T11:35:57", 
+      "state": "IL", 
+      "iface": "timeline_vote", 
+      "y": 39.846, 
+      "x": -88.9932, 
+      "id": 16271440, 
+      "question_id": "16265573"
+    }, 
+    {
       "city": "East Weymouth", 
       "first_name": "Carlotta", 
       "last_name": "Hayes", 
       "user_id": 1806880, 
-      "submission": "What would it take to took into the legal right for Big AG companies to patent their food and human genes?", 
+      "submission": "How can we get the Republican Congress to work with our President for the benefit of all Americans not just the rich?", 
       "district": "MA_08", 
-      "created": "2013-08-09T11:35:01", 
+      "created": "2013-08-09T11:35:56", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2138, 
       "x": -70.9328, 
-      "id": 16271428, 
-      "question_id": "16266021"
+      "id": 16271439, 
+      "question_id": "16265501"
+    }, 
+    {
+      "city": "Cincinnati", 
+      "first_name": "Tom", 
+      "last_name": "Connolly", 
+      "user_id": 1625366, 
+      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
+      "district": "OH_01", 
+      "created": "2013-08-09T11:35:46", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 39.1055, 
+      "x": -84.5021, 
+      "id": 16271437, 
+      "question_id": "16203676"
     }, 
     {
       "city": "Newton", 
@@ -45,21 +75,6 @@ opendebate.processTimeline({
       "x": -134.527, 
       "id": 16271426, 
       "question_id": "16176481"
-    }, 
-    {
-      "city": "Decatur", 
-      "first_name": "Wilma", 
-      "last_name": "Bondurant", 
-      "user_id": 1807845, 
-      "submission": "What steps will you take to restore livable wages to the shredded middle class, and to restore our voting rights?", 
-      "district": "IL_13", 
-      "created": "2013-08-09T11:34:32", 
-      "state": "IL", 
-      "iface": "timeline_vote", 
-      "y": 39.846, 
-      "x": -88.9932, 
-      "id": 16271422, 
-      "question_id": "16172657"
     }, 
     {
       "city": "Las Cruces", 
@@ -285,25 +300,6 @@ opendebate.processTimeline({
       "x": -82.4336, 
       "id": 16271102, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Fort Lauderdale", 
-      "first_name": "Dennis", 
-      "last_name": "DeDomenico", 
-      "user_id": 1713566, 
-      "submission": "Citizens United has to go and campaign finance laws put in place.a terrible imbalance for sure!", 
-      "district": "FL_22", 
-      "created": "2013-08-09T10:50:59", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "FL", 
-      "iface": "timeline_question", 
-      "y": 26.1811, 
-      "x": -80.1389, 
-      "latest_vote": null, 
-      "id": 16271054, 
-      "trending_score": 0.5
     }
   ]
 });
