@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Houston", 
+      "first_name": "Lynda", 
+      "last_name": "Ragsdale", 
+      "user_id": 656864, 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "district": "TX_02", 
+      "created": "2013-08-09T22:48:30", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 29.7979, 
+      "x": -95.4971, 
+      "id": 16287539, 
+      "question_id": "16172755"
+    }, 
+    {
       "city": "Detroit", 
       "first_name": "Daniel", 
       "last_name": "Sarasin", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -111.974, 
       "id": 16286973, 
       "question_id": "16217343"
-    }, 
-    {
-      "city": "Cambridge", 
-      "first_name": "Nina", 
-      "last_name": "Allen", 
-      "user_id": 126418, 
-      "submission": "What can you do to improve public transit nationally, including building a good rail network, when the governors and legislatures of some key states are so resistant to it?", 
-      "district": "MA_05", 
-      "created": "2013-08-09T22:12:51", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3775, 
-      "x": -71.1312, 
-      "id": 16286971, 
-      "question_id": "16172286"
     }
   ]
 });
