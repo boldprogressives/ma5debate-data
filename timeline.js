@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Bill", 
       "last_name": "Fatland", 
       "user_id": 1703090, 
-      "submission": "What will you do to overturn Citizen's United?", 
+      "submission": "The threat that hangs over the country today is a GOP determined to destroy the middle class and the values that define it.  What specific steps will you recommend to confront, not appease, the GOP?", 
       "district": "OR_01", 
-      "created": "2013-08-09T09:43:51", 
+      "created": "2013-08-09T09:45:00", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 45.4087, 
       "x": -122.789, 
-      "id": 16270390, 
-      "question_id": "16172765"
+      "id": 16270400, 
+      "question_id": "16172694"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "will you pledge to oppose Any cuts to social Security or Medicare?", 
+      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
       "district": "MA_04", 
-      "created": "2013-08-09T09:43:46", 
+      "created": "2013-08-09T09:44:40", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270389, 
-      "question_id": "16185364"
+      "id": 16270395, 
+      "question_id": "16173257"
     }, 
     {
       "city": "East Orange", 
