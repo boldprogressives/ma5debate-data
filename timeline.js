@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Grand Rapids", 
+      "first_name": "Jake", 
+      "last_name": "Terppstra", 
+      "user_id": 137326, 
+      "submission": "How realistic is it that Wall Street/Banks will ever be held criminally accountable for the destruction it did to Americans and the ecomony?", 
+      "district": "MI_03", 
+      "created": "2013-08-09T03:25:55", 
+      "state": "MI", 
+      "iface": "timeline_vote", 
+      "y": 42.9286, 
+      "x": -85.532, 
+      "id": 16260120, 
+      "question_id": "16173397"
+    }, 
+    {
+      "city": "Burnsville", 
+      "first_name": "Sharon", 
+      "last_name": "Papendick", 
+      "user_id": 1780669, 
+      "submission": "What will you do to protect our votes from the easily \"hackable\" electronic voting machines, such as those which were manipulated by Repubs. in 2004 Ohio, to swing the election from Kerry to Bush?", 
+      "district": "MN_02", 
+      "created": "2013-08-09T03:25:55", 
+      "state": "MN", 
+      "iface": "timeline_vote", 
+      "y": 44.7702, 
+      "x": -93.2812, 
+      "id": 16260121, 
+      "question_id": "16244119"
+    }, 
+    {
       "city": "Fort Worth", 
       "first_name": "Jackie", 
       "last_name": "VanBrocklin", 
       "user_id": 1157271, 
-      "submission": "Will you work to remove the billions of dollars of subsidies and incentives currently going to the fossil fuel industry \u2013 the most profitable industry in the world? ", 
+      "submission": "Will you make repairing and updating the infrastructure, not just roads but bridges and the electrical grid, a priority?", 
       "district": "TX_12", 
-      "created": "2013-08-09T03:24:59", 
+      "created": "2013-08-09T03:25:49", 
       "state": "TX", 
       "iface": "timeline_vote", 
       "y": 32.7433, 
       "x": -97.3805, 
-      "id": 16260108, 
-      "question_id": "16226967"
+      "id": 16260119, 
+      "question_id": "16191114"
     }, 
     {
       "city": "Arlington", 
@@ -45,21 +75,6 @@ opendebate.processTimeline({
       "x": -122.296, 
       "id": 16260106, 
       "question_id": "16172303"
-    }, 
-    {
-      "city": "Burnsville", 
-      "first_name": "Sharon", 
-      "last_name": "Papendick", 
-      "user_id": 1780669, 
-      "submission": "what is your position on the transfer of wealth in this country to the wealthy class and the broken contracts to the working people.  Specifically, respond to the debacle going on in Detroit with workers losing their hard earned pensions.", 
-      "district": "MN_02", 
-      "created": "2013-08-09T03:24:52", 
-      "state": "MN", 
-      "iface": "timeline_vote", 
-      "y": 44.7702, 
-      "x": -93.2812, 
-      "id": 16260105, 
-      "question_id": "16183913"
     }, 
     {
       "city": "Mission viejo", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -122.619, 
       "id": 16259944, 
       "question_id": "16197620"
-    }, 
-    {
-      "city": "Isom", 
-      "first_name": "Katherine", 
-      "last_name": "Threatt", 
-      "user_id": 705326, 
-      "submission": "Will you make it your highest priority to prosecute the bankers who brought about the financial crisis and force them to pay back the billions they stole from us as well as confining them to long prison terms?", 
-      "district": "KY_05", 
-      "created": "2013-08-09T03:17:31", 
-      "state": "KY", 
-      "iface": "timeline_vote", 
-      "y": 37.1939, 
-      "x": -82.9074, 
-      "id": 16259939, 
-      "question_id": "16176917"
     }
   ]
 });
