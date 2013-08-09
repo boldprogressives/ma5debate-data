@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Trenton", 
+      "first_name": "donald", 
+      "last_name": "simpson", 
+      "user_id": 1719622, 
+      "submission": "Will you work to support Elizabeth Warren's efforts to revise Glass-Steagall", 
+      "district": "OH_08", 
+      "created": "2013-08-09T13:51:47", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 39.4682, 
+      "x": -84.4571, 
+      "id": 16274588, 
+      "question_id": "16265543"
+    }, 
+    {
+      "city": "Ayer", 
+      "first_name": "Jane", 
+      "last_name": "Morriss", 
+      "user_id": 1725031, 
+      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
+      "district": "MA_03", 
+      "created": "2013-08-09T13:51:12", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.5598, 
+      "x": -71.5753, 
+      "id": 16274556, 
+      "question_id": "16180998"
+    }, 
+    {
+      "city": "Burdett", 
+      "first_name": "Karen", 
+      "last_name": "Melamed Smith", 
+      "user_id": 541198, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "NY_23", 
+      "created": "2013-08-09T13:51:11", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 42.4371, 
+      "x": -76.8283, 
+      "id": 16274557, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Milbridge", 
       "first_name": "Wanda Willey", 
       "last_name": "Halpin", 
@@ -30,36 +75,6 @@ opendebate.processTimeline({
       "x": -104.708, 
       "id": 16274537, 
       "question_id": "16172281"
-    }, 
-    {
-      "city": "Burdett", 
-      "first_name": "Karen", 
-      "last_name": "Melamed Smith", 
-      "user_id": 541198, 
-      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
-      "district": "NY_23", 
-      "created": "2013-08-09T13:50:47", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 42.4371, 
-      "x": -76.8283, 
-      "id": 16274529, 
-      "question_id": "16172731"
-    }, 
-    {
-      "city": "Ayer", 
-      "first_name": "Jane", 
-      "last_name": "Morriss", 
-      "user_id": 1725031, 
-      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
-      "district": "MA_03", 
-      "created": "2013-08-09T13:50:44", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.5598, 
-      "x": -71.5753, 
-      "id": 16274524, 
-      "question_id": "16172697"
     }, 
     {
       "city": "North Adams", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -92.7179, 
       "id": 16273262, 
       "question_id": "16176001"
-    }, 
-    {
-      "city": "Mullens", 
-      "first_name": "Terry", 
-      "last_name": "Tilley", 
-      "user_id": 1636818, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "WV_03", 
-      "created": "2013-08-09T13:39:15", 
-      "state": "WV", 
-      "iface": "timeline_vote", 
-      "y": 37.5842, 
-      "x": -81.3876, 
-      "id": 16273240, 
-      "question_id": "16172777"
     }
   ]
 });
