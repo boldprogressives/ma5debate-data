@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Alexandria", 
-      "first_name": "W", 
-      "last_name": "Starn", 
-      "user_id": 645223, 
-      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
-      "district": "LA_05", 
-      "created": "2013-08-09T12:59:58", 
-      "state": "LA", 
+      "city": "Seaford", 
+      "first_name": "Joseph", 
+      "last_name": "Bennici", 
+      "user_id": 1770315, 
+      "submission": "How do we change our government to be of the people, by the people, and for the people, instead of corporations?", 
+      "district": "NY_02", 
+      "created": "2013-08-09T13:00:57", 
+      "state": "NY", 
       "iface": "timeline_vote", 
-      "y": 31.285, 
-      "x": -92.4655, 
-      "id": 16272449, 
-      "question_id": "16173335"
+      "y": 40.679, 
+      "x": -73.4871, 
+      "id": 16272467, 
+      "question_id": "16271044"
     }, 
     {
       "city": "Ballston Spa", 
       "first_name": "William", 
       "last_name": "Shaw", 
       "user_id": 104602, 
-      "submission": "It is time we stop rewarding companies that outsource American jobs.  Would you propose a new tax on these companies, an import tax on products produced by these companies or some other form of incentive to keep jobs in this country?  Please be specific.", 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
       "district": "NY_20", 
-      "created": "2013-08-09T12:59:55", 
+      "created": "2013-08-09T13:00:56", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 43.0056, 
       "x": -73.8604, 
-      "id": 16272446, 
-      "question_id": "16175276"
+      "id": 16272466, 
+      "question_id": "16202059"
     }, 
     {
       "city": "Fayetteville", 
       "first_name": "Vera", 
       "last_name": "Morgan", 
       "user_id": 1012008, 
-      "submission": "Will you declare that you are pro-choice and will fight to keep laws off of womens' bodies?", 
+      "submission": "what will you do to stop the right-wing attacks on women and their lawful right to control their own bodies?", 
       "district": "NC_04", 
-      "created": "2013-08-09T12:59:46", 
+      "created": "2013-08-09T13:00:53", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.0577, 
       "x": -79.0035, 
-      "id": 16272444, 
-      "question_id": "16176968"
+      "id": 16272464, 
+      "question_id": "16228678"
+    }, 
+    {
+      "city": "Alexandria", 
+      "first_name": "W", 
+      "last_name": "Starn", 
+      "user_id": 645223, 
+      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
+      "district": "LA_05", 
+      "created": "2013-08-09T13:00:43", 
+      "state": "LA", 
+      "iface": "timeline_vote", 
+      "y": 31.285, 
+      "x": -92.4655, 
+      "id": 16272462, 
+      "question_id": "16180998"
     }, 
     {
       "city": "Framingham", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -78.7428, 
       "id": 16272241, 
       "question_id": "16172694"
-    }, 
-    {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "Do elected Republicans in Congress do more damage to America than any, \"Terrorist\" effort could ever hope to achieve?", 
-      "district": "MA_04", 
-      "created": "2013-08-09T12:41:33", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16272235, 
-      "question_id": "16229458"
     }
   ]
 });
