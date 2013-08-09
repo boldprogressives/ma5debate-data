@@ -2,6 +2,55 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Fort Lauderdale", 
+      "first_name": "Dennis", 
+      "last_name": "DeDomenico", 
+      "user_id": 1713566, 
+      "submission": "Citizens United has to go and campaign finance laws put in place.a terrible imbalance for sure!", 
+      "district": "FL_22", 
+      "created": "2013-08-09T10:50:59", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "FL", 
+      "iface": "timeline_question", 
+      "y": 26.1811, 
+      "x": -80.1389, 
+      "latest_vote": null, 
+      "id": 16271054, 
+      "trending_score": 0.5
+    }, 
+    {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Will you fight for a  revival of Glass/Steagall Act and the Monopoly and Merger legislation which are essential for restoring liquidity throughout the economy, genuine competition, and the revival of a healthy form of Capitalism?", 
+      "district": "MA_04", 
+      "created": "2013-08-09T10:50:51", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16271052, 
+      "question_id": "16189753"
+    }, 
+    {
+      "city": "Nashville", 
+      "first_name": "D. S.", 
+      "last_name": "Kinzie", 
+      "user_id": 88880, 
+      "submission": "Would you support measures to place a tariff on imports and tax companies who produce goods in other countries, but are based in the US to help bring industry and manufacturing back to our country?", 
+      "district": "TN_05", 
+      "created": "2013-08-09T10:50:41", 
+      "state": "TN", 
+      "iface": "timeline_vote", 
+      "y": 36.1088, 
+      "x": -86.7806, 
+      "id": 16271050, 
+      "question_id": "16216887"
+    }, 
+    {
       "city": "Concord", 
       "first_name": "Arra", 
       "last_name": "Avakian", 
@@ -19,36 +68,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16271044, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Nashville", 
-      "first_name": "D. S.", 
-      "last_name": "Kinzie", 
-      "user_id": 88880, 
-      "submission": "would you sponsor a bill requiring manufacturers of food and other products to list where products are manufactured not just whom they were  distributed by and encourage made in the USAs", 
-      "district": "TN_05", 
-      "created": "2013-08-09T10:49:44", 
-      "state": "TN", 
-      "iface": "timeline_vote", 
-      "y": 36.1088, 
-      "x": -86.7806, 
-      "id": 16271043, 
-      "question_id": "16217848"
-    }, 
-    {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "Would you support legislation like the Voter Empowerment Act (H.R. 12) to create national voting standards to ensure free, fair, and accessible elections nationwide?", 
-      "district": "MA_04", 
-      "created": "2013-08-09T10:49:38", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16271042, 
-      "question_id": "16181013"
     }, 
     {
       "city": "Fleetwood", 
@@ -293,21 +312,6 @@ opendebate.processTimeline({
       "x": -71.3142, 
       "id": 16270530, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Clermont", 
-      "first_name": "Hector", 
-      "last_name": "Allen", 
-      "user_id": 1809540, 
-      "submission": "Will you fight to protect the Clean Air Act, the Clean Water Act and the EPA in a House of Representatives that has become increasingly hostile to all three?", 
-      "district": "FL_10", 
-      "created": "2013-08-09T09:58:13", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 28.5359, 
-      "x": -81.7638, 
-      "id": 16270521, 
-      "question_id": "16226952"
     }
   ]
 });
