@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Oakland", 
+      "first_name": "Barbara", 
+      "last_name": "Maynard", 
+      "user_id": 224280, 
+      "submission": "Why make rules about womens reproductive rights, but not for men who are responsible for rape and assault? Why is this not a sexual harrassment issue on behalf of all women everywhere? ", 
+      "district": "CA_13", 
+      "created": "2013-08-09T16:01:02", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 37.8356, 
+      "x": -122.223, 
+      "id": 16278831, 
+      "question_id": "16235944"
+    }, 
+    {
+      "city": "Madera", 
+      "first_name": "Phyllis", 
+      "last_name": "Krystal", 
+      "user_id": 1744736, 
+      "submission": "Will you vote to end tax loopholes for the rich, big business subsides, overseas corporate tax loopholes, wasteful wars, foreign country subsides, quality health care for all, good safe food for all, clean air, clean energy, clean safe drinking water, useful education and job opportunities for all hard working citizens that can achieve these levels and deserve it, gun control, to end wall street fraud and corruption.", 
+      "district": "CA_16", 
+      "created": "2013-08-09T16:01:02", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 36.9743, 
+      "x": -120.002, 
+      "id": 16278832, 
+      "question_id": "16203215"
+    }, 
+    {
+      "city": "Jamaica Plain", 
+      "first_name": "Carolyn", 
+      "last_name": "Nikkal", 
+      "user_id": 994541, 
+      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
+      "district": "MA_08", 
+      "created": "2013-08-09T16:00:53", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2947, 
+      "x": -71.1305, 
+      "id": 16278829, 
+      "question_id": "16173210"
+    }, 
+    {
       "city": "Lexington", 
       "first_name": "", 
       "last_name": "", 
@@ -15,21 +60,6 @@ opendebate.processTimeline({
       "x": -71.2338, 
       "id": 16278661, 
       "question_id": "16204423"
-    }, 
-    {
-      "city": "Oakland", 
-      "first_name": "Barbara", 
-      "last_name": "Maynard", 
-      "user_id": 224280, 
-      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
-      "district": "CA_13", 
-      "created": "2013-08-09T15:58:25", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 37.8356, 
-      "x": -122.223, 
-      "id": 16278598, 
-      "question_id": "16202059"
     }, 
     {
       "city": "Penfield", 
@@ -274,36 +304,6 @@ opendebate.processTimeline({
       "x": -77.0569, 
       "id": 16278172, 
       "question_id": "16212348"
-    }, 
-    {
-      "city": "Pittsburgh", 
-      "first_name": "paul", 
-      "last_name": "bates", 
-      "user_id": 70130, 
-      "submission": "What would you do to eliminate congressional pensions so congress has a stake in social security retirement benifits.", 
-      "district": "PA_18", 
-      "created": "2013-08-09T15:40:51", 
-      "state": "PA", 
-      "iface": "timeline_vote", 
-      "y": 40.3576, 
-      "x": -80.06, 
-      "id": 16278147, 
-      "question_id": "16176855"
-    }, 
-    {
-      "city": "princeton", 
-      "first_name": "jerry", 
-      "last_name": "scheinbeim", 
-      "user_id": 567346, 
-      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
-      "district": "NJ_12", 
-      "created": "2013-08-09T15:37:21", 
-      "state": "NJ", 
-      "iface": "timeline_vote", 
-      "y": 40.3675, 
-      "x": -74.6695, 
-      "id": 16278106, 
-      "question_id": "16173257"
     }
   ]
 });
