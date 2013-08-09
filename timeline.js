@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "D. S.", 
       "last_name": "Kinzie", 
       "user_id": 88880, 
-      "submission": "do you support a min wage increase", 
+      "submission": "Will you vote for 1% fixed interest student loans, available to everybody?", 
       "district": "TN_05", 
-      "created": "2013-08-09T10:38:48", 
+      "created": "2013-08-09T10:39:53", 
       "state": "TN", 
       "iface": "timeline_vote", 
       "y": 36.1088, 
       "x": -86.7806, 
-      "id": 16270982, 
-      "question_id": "16173625"
+      "id": 16270988, 
+      "question_id": "16174342"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Do you consider whistleblower Americans Bradley Manning & Edward Snowden heros or villians? Why? ", 
+      "submission": "While more than half the American people think marijuana should be legalized, the democratic party platform does not even mention the issue. Do you think the democratic party should embrace the popular position of legalizing marijuana? ", 
       "district": "MA_04", 
-      "created": "2013-08-09T10:38:39", 
+      "created": "2013-08-09T10:39:51", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270981, 
-      "question_id": "16174044"
+      "id": 16270987, 
+      "question_id": "16172901"
     }, 
     {
       "city": "Sacramento", 
