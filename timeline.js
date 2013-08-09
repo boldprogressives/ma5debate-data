@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Alexandria", 
+      "first_name": "Bruce Hutson", 
+      "last_name": "PO  Box 7404, Alexandria, VA  22307-0404", 
+      "user_id": 1772446, 
+      "submission": "When Obama went to school in Indonesia, he gave up his citizenship to America,  which disqualified him to run for President even if he became a citizen again.   WHY is he setting in OUR Oval Office?", 
+      "district": "VA_08", 
+      "created": "2013-08-09T15:38:59", 
+      "state": "VA", 
+      "iface": "timeline_vote", 
+      "y": 38.7726, 
+      "x": -77.0569, 
+      "id": 16278126, 
+      "question_id": "16213457"
+    }, 
+    {
+      "city": "Trenton", 
+      "first_name": "JoAnne", 
+      "last_name": "Bruno", 
+      "user_id": 1575480, 
+      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
+      "district": "NJ_04", 
+      "created": "2013-08-09T15:38:59", 
+      "state": "NJ", 
+      "iface": "timeline_vote", 
+      "y": 40.1788, 
+      "x": -74.66, 
+      "id": 16278127, 
+      "question_id": "16175637"
+    }, 
+    {
       "city": "Seattle", 
       "first_name": "Susan", 
       "last_name": "fried", 
       "user_id": 291649, 
-      "submission": "What will you do to ensure that all Americans have access to the voting booth and what will you do to get money out of our elections so that we all have an equal voice?", 
+      "submission": "Why  is social security only funded by the lowest earners in the country.", 
       "district": "WA_07", 
-      "created": "2013-08-09T15:37:52", 
+      "created": "2013-08-09T15:38:48", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 47.7184, 
       "x": -122.302, 
-      "id": 16278109, 
-      "question_id": "16205834"
+      "id": 16278123, 
+      "question_id": "16173225"
     }, 
     {
       "city": "princeton", 
@@ -96,21 +126,6 @@ opendebate.processTimeline({
       "question_id": "16176481"
     }, 
     {
-      "city": "Alexandria", 
-      "first_name": "Bruce Hutson", 
-      "last_name": "PO  Box 7404, Alexandria, VA  22307-0404", 
-      "user_id": 1772446, 
-      "submission": "Do you think the U.S.  should continue our military involvement in the conflicts in the middle east?", 
-      "district": "VA_08", 
-      "created": "2013-08-09T15:35:37", 
-      "state": "VA", 
-      "iface": "timeline_vote", 
-      "y": 38.7726, 
-      "x": -77.0569, 
-      "id": 16278075, 
-      "question_id": "16219884"
-    }, 
-    {
       "city": "Sunnyside", 
       "first_name": "Gerald", 
       "last_name": "Hassett", 
@@ -124,21 +139,6 @@ opendebate.processTimeline({
       "x": -73.9178, 
       "id": 16278038, 
       "question_id": "16173257"
-    }, 
-    {
-      "city": "Trenton", 
-      "first_name": "JoAnne", 
-      "last_name": "Bruno", 
-      "user_id": 1575480, 
-      "submission": "Republican Governors and Republican Legislators have worked to limit voting rights for minorities, college students and the elderly. How can we ensure we don't have a repeat of the 2012 elections", 
-      "district": "NJ_04", 
-      "created": "2013-08-09T15:33:01", 
-      "state": "NJ", 
-      "iface": "timeline_vote", 
-      "y": 40.1788, 
-      "x": -74.66, 
-      "id": 16278028, 
-      "question_id": "16264837"
     }, 
     {
       "city": "Williamsport", 
