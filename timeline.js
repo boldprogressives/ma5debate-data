@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Portland", 
+      "first_name": "Bill", 
+      "last_name": "Fatland", 
+      "user_id": 1703090, 
+      "submission": "What will you do to overturn Citizen's United?", 
+      "district": "OR_01", 
+      "created": "2013-08-09T09:43:51", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 45.4087, 
+      "x": -122.789, 
+      "id": 16270390, 
+      "question_id": "16172765"
+    }, 
+    {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
+      "submission": "will you pledge to oppose Any cuts to social Security or Medicare?", 
       "district": "MA_04", 
-      "created": "2013-08-09T09:42:45", 
+      "created": "2013-08-09T09:43:46", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270380, 
-      "question_id": "16173320"
+      "id": 16270389, 
+      "question_id": "16185364"
     }, 
     {
       "city": "East Orange", 
@@ -40,15 +55,15 @@ opendebate.processTimeline({
       "district": "OR_04", 
       "created": "2013-08-09T09:38:12", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "timeline_question", 
       "y": 43.9495, 
       "x": -123.128, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-09T09:43:15", 
       "id": 16270361, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Fort Bragg", 
@@ -104,15 +119,15 @@ opendebate.processTimeline({
       "district": "FL_14", 
       "created": "2013-08-09T09:36:45", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "FL", 
       "iface": "timeline_question", 
       "y": 27.8889, 
       "x": -82.5076, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-09T09:43:24", 
       "id": 16270349, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Princeton", 
@@ -138,15 +153,15 @@ opendebate.processTimeline({
       "district": "OR_04", 
       "created": "2013-08-09T09:36:35", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "timeline_question", 
       "y": 43.9495, 
       "x": -123.128, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-09T09:43:29", 
       "id": 16270343, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Eugene", 
@@ -157,15 +172,15 @@ opendebate.processTimeline({
       "district": "OR_04", 
       "created": "2013-08-09T09:35:26", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "timeline_question", 
       "y": 43.9495, 
       "x": -123.128, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-09T09:43:38", 
       "id": 16270324, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Tampa", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "x": -97.4646, 
       "id": 16270046, 
       "question_id": "16219940"
-    }, 
-    {
-      "city": "Cleveland Heights", 
-      "first_name": "Carolyn", 
-      "last_name": "Wohlgemuth", 
-      "user_id": 706295, 
-      "submission": "Are you going to stand up to the NRA, to stop our young and innocent, from being murdered?", 
-      "district": "OH_11", 
-      "created": "2013-08-09T08:53:30", 
-      "state": "OH", 
-      "iface": "timeline_vote", 
-      "y": 41.4988, 
-      "x": -81.5546, 
-      "id": 16270031, 
-      "question_id": "16199637"
     }
   ]
 });
