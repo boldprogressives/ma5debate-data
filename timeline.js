@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Fountain Hills", 
+      "first_name": "Day", 
+      "last_name": "Jolliff", 
+      "user_id": 1785674, 
+      "submission": "What are you doing to ensure that all residents have access to a living wage and to help create jobs for those still looking for work, five years after the Great Recession and the weak recovery?", 
+      "district": "AZ_06", 
+      "created": "2013-08-09T22:14:55", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 33.609, 
+      "x": -111.73, 
+      "id": 16286981, 
+      "question_id": "16201159"
+    }, 
+    {
       "city": "dedham", 
       "first_name": "suzanne", 
       "last_name": "searle", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -71.1676, 
       "id": 16286976, 
       "question_id": "16172286"
-    }, 
-    {
-      "city": "Fountain Hills", 
-      "first_name": "Day", 
-      "last_name": "Jolliff", 
-      "user_id": 1785674, 
-      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
-      "district": "AZ_06", 
-      "created": "2013-08-09T22:13:39", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 33.609, 
-      "x": -111.73, 
-      "id": 16286975, 
-      "question_id": "16172583"
     }, 
     {
       "city": "Helena", 
