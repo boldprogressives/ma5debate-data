@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "royce", 
       "last_name": "hohn", 
       "user_id": 1141717, 
-      "submission": "Do elected Republicans in Congress do more damage to America than any, \"Terrorist\" effort could ever hope to achieve?", 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "NC_11", 
-      "created": "2013-08-09T09:22:48", 
+      "created": "2013-08-09T09:23:29", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 36.0328, 
       "x": -81.9544, 
-      "id": 16270215, 
-      "question_id": "16229458"
+      "id": 16270220, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Meadow Vista", 
