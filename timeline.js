@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Troy", 
+      "first_name": "John", 
+      "last_name": "Janowski", 
+      "user_id": 163007, 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "district": "MI_11", 
+      "created": "2013-08-09T23:15:02", 
+      "state": "MI", 
+      "iface": "timeline_vote", 
+      "y": 42.5596, 
+      "x": -83.1232, 
+      "id": 16287707, 
+      "question_id": "16172533"
+    }, 
+    {
       "city": "El Prado", 
       "first_name": "Sally", 
       "last_name": "Phelps", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "latest_vote": "2013-08-09T23:06:22", 
       "id": 16287120, 
       "trending_score": 1.5
-    }, 
-    {
-      "city": "Princeton", 
-      "first_name": "Rose", 
-      "last_name": "Pancirov", 
-      "user_id": 1739708, 
-      "submission": "Congress persons have voted to put themselves in the driver's seat when it comes to their salaries. They vote themselves raises and we as citizens cannot over turn. What will you do to stop this practice?", 
-      "district": "NJ_12", 
-      "created": "2013-08-09T22:31:37", 
-      "state": "NJ", 
-      "iface": "timeline_vote", 
-      "y": 40.3675, 
-      "x": -74.6695, 
-      "id": 16287117, 
-      "question_id": "16173244"
     }
   ]
 });
