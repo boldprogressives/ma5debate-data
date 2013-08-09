@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "FRANCIS", 
       "last_name": "HENDERSON", 
       "user_id": 401891, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
       "district": "SC_01", 
-      "created": "2013-08-09T22:27:56", 
+      "created": "2013-08-09T22:28:59", 
       "state": "SC", 
       "iface": "timeline_vote", 
       "y": 32.9557, 
       "x": -79.8873, 
-      "id": 16287095, 
-      "question_id": "16172266"
+      "id": 16287103, 
+      "question_id": "16172583"
     }, 
     {
       "city": "Detroit", 
       "first_name": "Daniel", 
       "last_name": "Sarasin", 
       "user_id": 1487238, 
-      "submission": "Where do you stand on a constitutional admendment that declares that corporations are NOT, in fact, people and do not have the legal rights of people.", 
+      "submission": "Will you work to remove the billions of dollars of subsidies and incentives currently going to the fossil fuel industry \u2013 the most profitable industry in the world? ", 
       "district": "MI_13", 
-      "created": "2013-08-09T22:27:18", 
+      "created": "2013-08-09T22:28:53", 
       "state": "MI", 
       "iface": "timeline_vote", 
       "y": 42.3801, 
       "x": -83.0518, 
-      "id": 16287091, 
-      "question_id": "16176313"
+      "id": 16287102, 
+      "question_id": "16226967"
     }, 
     {
       "city": "Fountain Hills", 
