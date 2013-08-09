@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Saint Clair Shores", 
+      "first_name": "Terry", 
+      "last_name": "Keck", 
+      "user_id": 658095, 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "district": "MI_09", 
+      "created": "2013-08-09T10:55:01", 
+      "state": "MI", 
+      "iface": "timeline_vote", 
+      "y": 42.498, 
+      "x": -82.899, 
+      "id": 16271079, 
+      "question_id": "16172533"
+    }, 
+    {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Will you vote to end subsides on sugar, corn syrup, etc. that contribute to  obesity?", 
+      "submission": "Would you vote to overturn Citizens United?", 
       "district": "MA_04", 
-      "created": "2013-08-09T10:53:55", 
+      "created": "2013-08-09T10:54:55", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16271068, 
-      "question_id": "16174330"
+      "id": 16271077, 
+      "question_id": "16185125"
     }, 
     {
       "city": "Nashville", 
       "first_name": "D. S.", 
       "last_name": "Kinzie", 
       "user_id": 88880, 
-      "submission": "Since I am on SSI, haven't had a raise in pay for the last 20 years, what's wrong with the Congress and Senate, repaying our SSI fund all the money they have appropriated over the last 20 years and pay the interest on it also.  That would fix it for all time.  Raise the SSI on the rich.  Don't treat the rich folks different from the rest of us Americans.  Self paid health care for the politicians.  No benefits for them unless they pay for them out of their own pocket.", 
+      "submission": "Does civilization exist for the advancement of corporations,.or vice-versa?", 
       "district": "TN_05", 
-      "created": "2013-08-09T10:53:45", 
+      "created": "2013-08-09T10:54:25", 
       "state": "TN", 
       "iface": "timeline_vote", 
       "y": 36.1088, 
       "x": -86.7806, 
-      "id": 16271066, 
-      "question_id": "16207794"
+      "id": 16271072, 
+      "question_id": "16212810"
     }, 
     {
       "city": "Fort Lauderdale", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -73.9703, 
       "id": 16270596, 
       "question_id": "16175691"
-    }, 
-    {
-      "city": "Lincoln", 
-      "first_name": "Jenny", 
-      "last_name": "Golay", 
-      "user_id": 194531, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "MA_05", 
-      "created": "2013-08-09T09:59:37", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4239, 
-      "x": -71.3142, 
-      "id": 16270530, 
-      "question_id": "16172266"
     }
   ]
 });
