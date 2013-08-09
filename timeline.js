@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Kansas City", 
-      "first_name": "Sandra", 
-      "last_name": "Singleton", 
-      "user_id": 578766, 
-      "submission": "Will you pledge to take no money in return for political favors from PACs or any other  type of Lobby or Lobbyists before, during and after your term(s) of office?", 
-      "district": "MO_06", 
-      "created": "2013-08-09T21:35:56", 
-      "state": "MO", 
-      "iface": "timeline_vote", 
-      "y": 39.2158, 
-      "x": -94.5728, 
-      "id": 16286602, 
-      "question_id": "16261697"
-    }, 
-    {
       "city": "Cathedral City", 
       "first_name": "Sam", 
       "last_name": "Massarella", 
       "user_id": 714003, 
-      "submission": "In 2006, the lame-duck GOP congress enacted a bill forcing the U.S.Postal service to fully fund pensions for the next 75 years and do it in ten years. It's a bill that was designed to ruin the USPS so it could be privatized. Will you work to repeal this onerous bill and introduce legislation to allow the USPS to compete with private carriers?", 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
       "district": "CA_36", 
-      "created": "2013-08-09T21:35:43", 
+      "created": "2013-08-09T21:37:02", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 33.8225, 
       "x": -116.463, 
-      "id": 16286555, 
-      "question_id": "16206983"
+      "id": 16286631, 
+      "question_id": "16172303"
+    }, 
+    {
+      "city": "Kansas City", 
+      "first_name": "Sandra", 
+      "last_name": "Singleton", 
+      "user_id": 578766, 
+      "submission": "What incentives could you or would you give corporations to stop shipping jobs overseas, so our citizens can once again believe in the American dream!", 
+      "district": "MO_06", 
+      "created": "2013-08-09T21:36:26", 
+      "state": "MO", 
+      "iface": "timeline_vote", 
+      "y": 39.2158, 
+      "x": -94.5728, 
+      "id": 16286627, 
+      "question_id": "16183435"
     }, 
     {
       "city": "Mount Angel", 
