@@ -6,30 +6,45 @@ opendebate.processTimeline({
       "first_name": "royce", 
       "last_name": "hohn", 
       "user_id": 1141717, 
-      "submission": "Why when congress wants to cut Social Security and Medicare, we can't fight back with cutting their pay and healthcare?  Why should congress have control over their pay and their own healthcare and not the people since we pay for it?", 
+      "submission": "What would you do to create criminal indictments of these corporate polluters of our water, air and food or the corporate thieves of our housing, pensions and futures? Will you uphold the constitution and DEMAND JUSTICE.", 
       "district": "NC_11", 
-      "created": "2013-08-09T09:20:40", 
+      "created": "2013-08-09T09:22:00", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 36.0328, 
       "x": -81.9544, 
-      "id": 16270157, 
-      "question_id": "16194232"
+      "id": 16270209, 
+      "question_id": "16207548"
+    }, 
+    {
+      "city": "Meadow Vista", 
+      "first_name": "David", 
+      "last_name": "Cathcart", 
+      "user_id": 1771392, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "CA_01", 
+      "created": "2013-08-09T09:21:48", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 39.0043, 
+      "x": -121.029, 
+      "id": 16270208, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Memphis", 
       "first_name": "", 
       "last_name": "", 
       "user_id": 1632782, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
       "district": "TN_08", 
-      "created": "2013-08-09T09:20:27", 
+      "created": "2013-08-09T09:21:33", 
       "state": "TN", 
       "iface": "timeline_vote", 
       "y": 35.2068, 
       "x": -89.7912, 
-      "id": 16270156, 
-      "question_id": "16172266"
+      "id": 16270205, 
+      "question_id": "16172281"
     }, 
     {
       "city": "New York", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -123.099, 
       "id": 16269735, 
       "question_id": "16176481"
-    }, 
-    {
-      "city": "Houston", 
-      "first_name": "Laura", 
-      "last_name": "Snider", 
-      "user_id": 1623887, 
-      "submission": "what will you do to bring jobs back to America and stop out sourcing everything?", 
-      "district": "TX_07", 
-      "created": "2013-08-09T08:14:46", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 29.9064, 
-      "x": -95.6552, 
-      "id": 16269731, 
-      "question_id": "16175641"
     }
   ]
 });
