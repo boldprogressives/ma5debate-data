@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Victoria", 
       "last_name": "Scott", 
       "user_id": 1708295, 
-      "submission": "What will you do to support real campaign finance reform that will remove entrenched special interest money and its attendant corruption from our aspiring democracy?", 
+      "submission": "Marijuana use has been legalized in some states. The Justice Dept. insists on enforcing federal marijuana laws in those states. Do you favor legislation that would stop the feds from doing this?", 
       "district": "NM_03", 
-      "created": "2013-08-09T08:35:49", 
+      "created": "2013-08-09T08:36:47", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 35.6768, 
       "x": -105.958, 
-      "id": 16269955, 
-      "question_id": "16186239"
+      "id": 16269959, 
+      "question_id": "16203678"
     }, 
     {
       "city": "Rocky Mount", 
