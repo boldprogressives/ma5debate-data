@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Union City", 
+      "first_name": "Paul", 
+      "last_name": "Hayes", 
+      "user_id": 1687983, 
+      "submission": "Will you support the Constitutin of the United States of America against all enemies foreign and domestic by protecting each of our bill of rights including the right of individual citizens to carry and bear arms to protect this country and their family against those enemies that currently est or may exist at any time in the future?", 
+      "district": "NJ_08", 
+      "created": "2013-08-09T23:27:45", 
+      "state": "NJ", 
+      "iface": "timeline_vote", 
+      "y": 40.7704, 
+      "x": -74.0309, 
+      "id": 16287812, 
+      "question_id": "16280049"
+    }, 
+    {
       "city": "El Prado", 
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Will you pledge to label all genetically modified foods?", 
+      "submission": "Why were / are banks receiving bailouts, while students receive high interest loans rather  than grants?", 
       "district": "NM_03", 
-      "created": "2013-08-09T23:26:59", 
+      "created": "2013-08-09T23:27:44", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16287803, 
-      "question_id": "16190003"
+      "id": 16287811, 
+      "question_id": "16174806"
     }, 
     {
       "city": "Burnsville", 
       "first_name": "Bonnie", 
       "last_name": "Rosenfield", 
       "user_id": 1025762, 
-      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
       "district": "MN_02", 
-      "created": "2013-08-09T23:26:50", 
+      "created": "2013-08-09T23:27:28", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16287802, 
-      "question_id": "16175637"
+      "id": 16287809, 
+      "question_id": "16173335"
     }, 
     {
       "city": "Seattle", 
@@ -64,21 +79,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16287786, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Union City", 
-      "first_name": "Paul", 
-      "last_name": "Hayes", 
-      "user_id": 1687983, 
-      "submission": "What restrictions would you place on the use of drones?", 
-      "district": "NJ_08", 
-      "created": "2013-08-09T23:25:17", 
-      "state": "NJ", 
-      "iface": "timeline_vote", 
-      "y": 40.7704, 
-      "x": -74.0309, 
-      "id": 16287785, 
-      "question_id": "16285318"
     }, 
     {
       "city": "Warren", 
