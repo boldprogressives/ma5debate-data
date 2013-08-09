@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "D. S.", 
       "last_name": "Kinzie", 
       "user_id": 88880, 
-      "submission": "Why were / are banks receiving bailouts, while students receive high interest loans rather  than grants?", 
+      "submission": "Will you support the 90% of Americans who are demanding that GMO's be labeled nationwide?", 
       "district": "TN_05", 
-      "created": "2013-08-09T10:31:56", 
+      "created": "2013-08-09T10:32:58", 
       "state": "TN", 
       "iface": "timeline_vote", 
       "y": 36.1088, 
       "x": -86.7806, 
-      "id": 16270917, 
-      "question_id": "16174806"
+      "id": 16270924, 
+      "question_id": "16180953"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "What is your stance on the Equal Rights Amendment and will push for it to be a part of our Constitution?", 
+      "submission": "The practice of bill bundling isn't expediency, it's deception.  What will you do to change it?", 
       "district": "MA_04", 
-      "created": "2013-08-09T10:31:49", 
+      "created": "2013-08-09T10:32:38", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270916, 
-      "question_id": "16207550"
+      "id": 16270921, 
+      "question_id": "16174951"
     }, 
     {
       "city": "New York", 
