@@ -2,19 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Parlier", 
+      "first_name": "Julian", 
+      "last_name": "Yerena", 
+      "user_id": 1687026, 
+      "submission": "Are you going to stand up to the NRA, to stop our young and innocent, from being murdered?", 
+      "district": "CA_21", 
+      "created": "2013-08-09T08:16:06", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 36.616, 
+      "x": -119.531, 
+      "id": 16269740, 
+      "question_id": "16199637"
+    }, 
+    {
+      "city": "Newport Beach", 
+      "first_name": "delone", 
+      "last_name": "green", 
+      "user_id": 1130825, 
+      "submission": "The threat that hangs over the country today is a GOP determined to destroy the middle class and the values that define it.  What specific steps will you recommend to confront, not appease, the GOP?", 
+      "district": "CA_48", 
+      "created": "2013-08-09T08:15:55", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 33.621, 
+      "x": -117.932, 
+      "id": 16269739, 
+      "question_id": "16172694"
+    }, 
+    {
       "city": "Tryon", 
       "first_name": "Murlel", 
       "last_name": "Lunsford", 
       "user_id": 1656934, 
-      "submission": "Do you support a minimum wage that actually is livable?  Even if this means reducing the upper levels of Executive pay and bonuses?  Or increasing taxes for the wealthy?", 
+      "submission": "I'm an average working class person and I find myself backsliding financially more and more each passing year. I'm watching large, profitable corporations that are paying their CEO's 30 million dollars a year dodge taxes, break unions, and send American jobs overseas. If elected how would you address the issues of corporate tax dodging, CEO pay, union busting, and outsourcing of American jobs?", 
       "district": "NC_10", 
-      "created": "2013-08-09T08:14:48", 
+      "created": "2013-08-09T08:15:54", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.2172, 
       "x": -82.2262, 
-      "id": 16269732, 
-      "question_id": "16188228"
+      "id": 16269738, 
+      "question_id": "16212069"
+    }, 
+    {
+      "city": "Shelton", 
+      "first_name": "scott", 
+      "last_name": "smith", 
+      "user_id": 1554039, 
+      "submission": "Do you agree that accepting money from corporate interests with an economic stake in how Congressmen vote, and then voting on matters that affect them, is pernicious and close to bribery?  If not, why not?  ", 
+      "district": "WA_06", 
+      "created": "2013-08-09T08:15:20", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 47.2027, 
+      "x": -123.099, 
+      "id": 16269735, 
+      "question_id": "16176481"
     }, 
     {
       "city": "Houston", 
@@ -30,36 +75,6 @@ opendebate.processTimeline({
       "x": -95.6552, 
       "id": 16269731, 
       "question_id": "16175641"
-    }, 
-    {
-      "city": "Newport Beach", 
-      "first_name": "delone", 
-      "last_name": "green", 
-      "user_id": 1130825, 
-      "submission": "We want reasonable and accountable banking - will you support the requirement for FIDUCIARY responsibility to customers  among all banks?", 
-      "district": "CA_48", 
-      "created": "2013-08-09T08:14:38", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 33.621, 
-      "x": -117.932, 
-      "id": 16269729, 
-      "question_id": "16248929"
-    }, 
-    {
-      "city": "Shelton", 
-      "first_name": "scott", 
-      "last_name": "smith", 
-      "user_id": 1554039, 
-      "submission": "Do you intend to be a vocal advocate favoring mandatory labeling of food and beverage products that contain genetically modified ingredients...labeling that indicates the presence of GMO?", 
-      "district": "WA_06", 
-      "created": "2013-08-09T08:14:25", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 47.2027, 
-      "x": -123.099, 
-      "id": 16269726, 
-      "question_id": "16248162"
     }, 
     {
       "city": "New York", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "x": -118.372, 
       "id": 16268068, 
       "question_id": "16173921"
-    }, 
-    {
-      "city": "Medford", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1810198, 
-      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
-      "district": "MA_05", 
-      "created": "2013-08-09T07:27:24", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4213, 
-      "x": -71.1134, 
-      "id": 16267583, 
-      "question_id": "16202059"
     }
   ]
 });
