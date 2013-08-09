@@ -2,19 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Woodbridge", 
+      "first_name": "Mark", 
+      "last_name": "Mac Ewen", 
+      "user_id": 1756296, 
+      "submission": "will you pledge to oppose Any cuts to social Security or Medicare?", 
+      "district": "VA_11", 
+      "created": "2013-08-09T03:26:54", 
+      "state": "VA", 
+      "iface": "timeline_vote", 
+      "y": 38.6262, 
+      "x": -77.2743, 
+      "id": 16260135, 
+      "question_id": "16185364"
+    }, 
+    {
+      "city": "Shell Knob", 
+      "first_name": "Mary", 
+      "last_name": "Wolff", 
+      "user_id": 697069, 
+      "submission": "will you pledge to oppose Any cuts to social Security or Medicare?", 
+      "district": "MO_07", 
+      "created": "2013-08-09T03:26:45", 
+      "state": "MO", 
+      "iface": "timeline_vote", 
+      "y": 36.6171, 
+      "x": -93.6278, 
+      "id": 16260131, 
+      "question_id": "16185364"
+    }, 
+    {
+      "city": "Elgin", 
+      "first_name": "Marilee", 
+      "last_name": "Urban", 
+      "user_id": 1108033, 
+      "submission": "Why is it that the sequester effects everyone but those in Congress.  What % of pay cuts are they taking and what % of staff are being furloughed?  I don't think the House working only 30% of the time without a cut in pay or staff counts as saving money.", 
+      "district": "OR_02", 
+      "created": "2013-08-09T03:26:42", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 45.5917, 
+      "x": -117.894, 
+      "id": 16260129, 
+      "question_id": "16175490"
+    }, 
+    {
       "city": "Grand Rapids", 
       "first_name": "Jake", 
       "last_name": "Terppstra", 
       "user_id": 137326, 
-      "submission": "How realistic is it that Wall Street/Banks will ever be held criminally accountable for the destruction it did to Americans and the ecomony?", 
+      "submission": "What will you do about the lack of accountability for crimes such as Wall Street committed, Bankers and foreclosures, 911 crimes, NSA, TSA, and politicians taking bribery and the fake wars they create at OUR expense?  ", 
       "district": "MI_03", 
-      "created": "2013-08-09T03:25:55", 
+      "created": "2013-08-09T03:26:18", 
       "state": "MI", 
       "iface": "timeline_vote", 
       "y": 42.9286, 
       "x": -85.532, 
-      "id": 16260120, 
-      "question_id": "16173397"
+      "id": 16260124, 
+      "question_id": "16194250"
     }, 
     {
       "city": "Burnsville", 
@@ -120,21 +165,6 @@ opendebate.processTimeline({
       "x": -88.2126, 
       "id": 16260094, 
       "question_id": "16172755"
-    }, 
-    {
-      "city": "Elgin", 
-      "first_name": "Marilee", 
-      "last_name": "Urban", 
-      "user_id": 1108033, 
-      "submission": "Will you oppose all the cuts in the Snap Program and help stop them from cutting more money out of  this ?Do they not  understand how our children are going to school without being feed ? Their needs to be some of the people to stand up for the poor  and our children to put more money back not take away.  Are they ever aware of the people in their back yards that need jobs and just a little help or do they even care ?  How have Congress got by spending millions of our tax dollars to vote on Obama Care as they have give it that name. The real name is Affordable Health Care that the people need so badly don't they? If you read about a  Pastor on the web or you just might have been watching the news about a Pastor asking you to look around your neighborhood ? Do you care to see that here in America their are a third world of American people are starving ?Are you going to do something about that? ", 
-      "district": "OR_02", 
-      "created": "2013-08-09T03:24:01", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 45.5917, 
-      "x": -117.894, 
-      "id": 16260089, 
-      "question_id": "16175773"
     }, 
     {
       "city": "Hemet", 
@@ -274,36 +304,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16259955, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Salt Lake City", 
-      "first_name": "Tim", 
-      "last_name": "DeChristopher", 
-      "user_id": 268748, 
-      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
-      "district": "UT_02", 
-      "created": "2013-08-09T03:17:48", 
-      "state": "UT", 
-      "iface": "timeline_vote", 
-      "y": 40.7342, 
-      "x": -111.856, 
-      "id": 16259948, 
-      "question_id": "16203866"
-    }, 
-    {
-      "city": "Fairfax", 
-      "first_name": "Lynn", 
-      "last_name": "Corwin", 
-      "user_id": 1780510, 
-      "submission": "Will you pledge to change the current filibuster rule to what it had been in the past where a Senator had to stand and speak for the duration his/her filibuster? If not, why not?", 
-      "district": "CA_02", 
-      "created": "2013-08-09T03:17:41", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 37.965, 
-      "x": -122.619, 
-      "id": 16259944, 
-      "question_id": "16197620"
     }
   ]
 });
