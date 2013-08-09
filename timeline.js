@@ -6,15 +6,45 @@ opendebate.processTimeline({
       "first_name": "Richard", 
       "last_name": "Barstow", 
       "user_id": 44028, 
-      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
       "district": "FL_11", 
-      "created": "2013-08-09T23:04:59", 
+      "created": "2013-08-09T23:06:00", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 29.1562, 
       "x": -82.196, 
-      "id": 16287612, 
-      "question_id": "16172690"
+      "id": 16287627, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Hemphill", 
+      "first_name": "Cecil", 
+      "last_name": "Jones", 
+      "user_id": 1779842, 
+      "submission": "will you support legislation ending the cap on social security wages", 
+      "district": "TX_01", 
+      "created": "2013-08-09T23:05:51", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 31.3087, 
+      "x": -93.7716, 
+      "id": 16287625, 
+      "question_id": "16208816"
+    }, 
+    {
+      "city": "El Prado", 
+      "first_name": "Sally", 
+      "last_name": "Phelps", 
+      "user_id": 1567108, 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "district": "NM_03", 
+      "created": "2013-08-09T23:05:37", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 36.4486, 
+      "x": -105.575, 
+      "id": 16287621, 
+      "question_id": "16172533"
     }, 
     {
       "city": "Sarasota", 
@@ -36,21 +66,6 @@ opendebate.processTimeline({
       "trending_score": 0.5
     }, 
     {
-      "city": "El Prado", 
-      "first_name": "Sally", 
-      "last_name": "Phelps", 
-      "user_id": 1567108, 
-      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
-      "district": "NM_03", 
-      "created": "2013-08-09T23:04:46", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16287607, 
-      "question_id": "16180998"
-    }, 
-    {
       "city": "Cincinnati", 
       "first_name": "Barbara", 
       "last_name": "Waite", 
@@ -64,21 +79,6 @@ opendebate.processTimeline({
       "x": -84.3532, 
       "id": 16287592, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Hemphill", 
-      "first_name": "Cecil", 
-      "last_name": "Jones", 
-      "user_id": 1779842, 
-      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
-      "district": "TX_01", 
-      "created": "2013-08-09T23:03:22", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 31.3087, 
-      "x": -93.7716, 
-      "id": 16287590, 
-      "question_id": "16203866"
     }, 
     {
       "city": "Salem", 
