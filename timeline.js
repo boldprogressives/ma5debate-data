@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Mary", 
       "last_name": "Webb", 
       "user_id": 1783551, 
-      "submission": "Will you fight to eliminate corporate influence (ALEC) from the legislative process?", 
+      "submission": "History has shown, that a government that desires to controls its people by using fear is up to undemocratic unaccountable corruption. In order to solve our dysfunctional federal and state governmental problems we must first identify the problem first.  What is the problem?", 
       "district": "OH_15", 
-      "created": "2013-08-09T14:51:55", 
+      "created": "2013-08-09T14:52:59", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 39.601, 
       "x": -83.1221, 
-      "id": 16276551, 
-      "question_id": "16260175"
+      "id": 16276635, 
+      "question_id": "16172711"
+    }, 
+    {
+      "city": "Louisville", 
+      "first_name": "John", 
+      "last_name": "Schmitt", 
+      "user_id": 155576, 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "district": "KY_03", 
+      "created": "2013-08-09T14:52:59", 
+      "state": "KY", 
+      "iface": "timeline_vote", 
+      "y": 38.2241, 
+      "x": -85.6838, 
+      "id": 16276636, 
+      "question_id": "16173259"
     }, 
     {
       "city": "Canyon", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -117.148, 
       "id": 16276166, 
       "question_id": "16172303"
-    }, 
-    {
-      "city": "Monmouth", 
-      "first_name": "Thomas", 
-      "last_name": "Rousseau", 
-      "user_id": 1485320, 
-      "submission": "Why is it that the congress and senate can work part time and do nothing  and get full benefits  full pay when other as the military do not.", 
-      "district": "ME_02", 
-      "created": "2013-08-09T14:43:24", 
-      "state": "ME", 
-      "iface": "timeline_vote", 
-      "y": 44.2288, 
-      "x": -70.0637, 
-      "id": 16276164, 
-      "question_id": "16176482"
     }
   ]
 });
