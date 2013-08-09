@@ -6,30 +6,45 @@ opendebate.processTimeline({
       "first_name": "Janet", 
       "last_name": "Anderson", 
       "user_id": 1725594, 
-      "submission": "Will you introduce legislation or a rules change -- whichever it takes -- that will mean Congress and their families must be subject to the same laws it passes for other citizens?  If not, why not?", 
+      "submission": "Would you propose and support eliminating continuing pay to retired Senators and Congressmen?", 
       "district": "NM_03", 
-      "created": "2013-08-09T23:57:02", 
+      "created": "2013-08-09T23:58:01", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16288563, 
-      "question_id": "16244527"
+      "id": 16288573, 
+      "question_id": "16242348"
     }, 
     {
       "city": "El Prado", 
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Will you pledge to have the minimum wage raised for every form of business\u2014so that all workers get their fair share and help support their families?", 
+      "submission": "What is your position on private, for-profit prisons? Should they be allowed?", 
       "district": "NM_03", 
-      "created": "2013-08-09T23:56:33", 
+      "created": "2013-08-09T23:57:51", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16288559, 
-      "question_id": "16198901"
+      "id": 16288572, 
+      "question_id": "16196428"
+    }, 
+    {
+      "city": "Cedartown", 
+      "first_name": "Alexine", 
+      "last_name": "Pope", 
+      "user_id": 1777869, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "GA_14", 
+      "created": "2013-08-09T23:57:19", 
+      "state": "GA", 
+      "iface": "timeline_vote", 
+      "y": 34.011, 
+      "x": -85.2569, 
+      "id": 16288567, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Polson", 
@@ -297,25 +312,6 @@ opendebate.processTimeline({
       "x": -74.0309, 
       "id": 16287812, 
       "question_id": "16280049"
-    }, 
-    {
-      "city": "Monson", 
-      "first_name": "Kathleen", 
-      "last_name": "Conley", 
-      "user_id": 1809996, 
-      "submission": "What in your perspective and experience what is/are the essential role(s) of government?And, what skills have you used to effectively promote the(se) essential role(s)?", 
-      "district": "MA_01", 
-      "created": "2013-08-09T23:25:18", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.094, 
-      "x": -72.324, 
-      "latest_vote": null, 
-      "id": 16287786, 
-      "trending_score": 0.5
     }
   ]
 });
