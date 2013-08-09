@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Dale", 
       "last_name": "Le Fevre", 
       "user_id": 340427, 
-      "submission": "Do you support the legalization of marijuana (which should be taxed & regulated like alcohol or tobacco)? If so, would you allow the release of nonviolent offenders from prison?", 
+      "submission": "When are you going to get rid of the former Monsanto exec. the Secretary of Agriculture who's allowing our bee population to be killed off by his former company's pesticides? Are we going to have our food source destroyed just so a handful of robber barons can line their pockets?  ", 
       "district": "CA_02", 
-      "created": "2013-08-09T09:32:01", 
+      "created": "2013-08-09T09:32:56", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 39.4417, 
       "x": -123.784, 
-      "id": 16270286, 
-      "question_id": "16172722"
+      "id": 16270297, 
+      "question_id": "16234686"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
       "district": "MA_04", 
-      "created": "2013-08-09T09:32:01", 
+      "created": "2013-08-09T09:32:54", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270287, 
-      "question_id": "16172755"
+      "id": 16270296, 
+      "question_id": "16172281"
     }, 
     {
       "city": "Tampa", 
