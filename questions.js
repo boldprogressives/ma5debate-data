@@ -6,6 +6,25 @@ opendebate.processFetchedQuestions({
       "first_name": "Marjorie", 
       "last_name": "Evans", 
       "user_id": 774326, 
+      "submission": "I keep hearing about all these jobs that companies have and can\u2019t fill because they can\u2019t find qualified people to fill them.  No one ever say what the jobs are.  What you will do to get the word out on what companies are looking for, and what will you do to encourage companies to start hiring and investing in their workers by training them to fill these jobs?  ", 
+      "district": "MA_02", 
+      "created": "2013-08-09T15:46:43", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.2541, 
+      "x": -71.7731, 
+      "latest_vote": null, 
+      "id": 16278213, 
+      "trending_score": 0.5
+    }, 
+    {
+      "city": "Worcester", 
+      "first_name": "Marjorie", 
+      "last_name": "Evans", 
+      "user_id": 774326, 
       "submission": "The unemployment rate in the African-American community is extremely high because of companies and employment agencies refusal to hire African-American.  What will you do to crack down on this practice by companies and employment agencies and to help everyone who has been out of work for a very long time?", 
       "district": "MA_02", 
       "created": "2013-08-09T15:36:35", 
@@ -7884,7 +7903,7 @@ opendebate.processFetchedQuestions({
       "x": -71.4608, 
       "latest_vote": "2013-08-09T15:14:34", 
       "id": 16222243, 
-      "trending_score": 2.0
+      "trending_score": 2.25
     }, 
     {
       "city": "Nahant", 
@@ -8055,7 +8074,7 @@ opendebate.processFetchedQuestions({
       "x": -72.5986, 
       "latest_vote": "2013-08-09T15:14:31", 
       "id": 16221902, 
-      "trending_score": 2.0
+      "trending_score": 2.25
     }, 
     {
       "city": "Sudbury", 
@@ -8131,7 +8150,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2477, 
       "latest_vote": "2013-08-09T15:30:17", 
       "id": 16221676, 
-      "trending_score": 2.0
+      "trending_score": 2.25
     }, 
     {
       "city": "Boston", 
@@ -24634,15 +24653,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_08", 
       "created": "2013-08-05T01:44:45", 
       "state_votes": 86, 
-      "votes": 960, 
+      "votes": 961, 
       "district_votes": 32, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.174, 
       "x": -87.9643, 
-      "latest_vote": "2013-08-09T15:42:39", 
+      "latest_vote": "2013-08-09T15:46:57", 
       "id": 16175740, 
-      "trending_score": 30.96666666666667
+      "trending_score": 31.3
     }, 
     {
       "city": "Buffalo Grove", 
@@ -27236,16 +27255,16 @@ opendebate.processFetchedQuestions({
       "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
       "district": "WI_06", 
       "created": "2013-08-04T01:21:04", 
-      "state_votes": 59, 
-      "votes": 603, 
+      "state_votes": 60, 
+      "votes": 605, 
       "district_votes": 15, 
       "state": "WI", 
       "iface": "question", 
       "y": 44.0957, 
       "x": -87.7111, 
-      "latest_vote": "2013-08-09T15:37:21", 
+      "latest_vote": "2013-08-09T15:46:25", 
       "id": 16173257, 
-      "trending_score": 47.166666666666664
+      "trending_score": 49.166666666666664
     }, 
     {
       "city": "Corvallis", 
@@ -28187,15 +28206,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
       "state_votes": 254, 
-      "votes": 1669, 
+      "votes": 1670, 
       "district_votes": 68, 
       "state": "MT", 
       "iface": "question", 
       "y": 46.6453, 
       "x": -111.974, 
-      "latest_vote": "2013-08-09T15:35:13", 
+      "latest_vote": "2013-08-09T15:46:18", 
       "id": 16172777, 
-      "trending_score": 56.2
+      "trending_score": 56.7
     }, 
     {
       "city": "Gladstone", 
@@ -28890,15 +28909,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:52:54", 
       "state_votes": 165, 
-      "votes": 1002, 
+      "votes": 1003, 
       "district_votes": 44, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4207, 
       "x": -71.1582, 
-      "latest_vote": "2013-08-09T15:42:21", 
+      "latest_vote": "2013-08-09T15:46:37", 
       "id": 16172303, 
-      "trending_score": 24.833333333333332
+      "trending_score": 25.166666666666668
     }, 
     {
       "city": "Arlington", 
@@ -28974,7 +28993,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2368, 
       "latest_vote": "2013-08-09T15:28:32", 
       "id": 16172281, 
-      "trending_score": 16.233333333333334
+      "trending_score": 13.666666666666666
     }, 
     {
       "city": "Arlington", 
@@ -29023,15 +29042,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:33:11", 
       "state_votes": 252, 
-      "votes": 1592, 
+      "votes": 1593, 
       "district_votes": 69, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-09T15:42:09", 
+      "latest_vote": "2013-08-09T15:46:28", 
       "id": 16172266, 
-      "trending_score": 26.880952380952383
+      "trending_score": 27.25
     }, 
     {
       "city": "Cambridge", 
