@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Will you totally repeal the Patriot Act.?", 
+      "submission": "are you aware that the social security trust fund is owed about 18% of the national debt because of borrowing by previous congresses? should there be a repayment plan set up by congress to make the fund even more solvent?", 
       "district": "MA_04", 
-      "created": "2013-08-09T12:03:52", 
+      "created": "2013-08-09T12:04:26", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16271779, 
-      "question_id": "16178788"
+      "id": 16271781, 
+      "question_id": "16185653"
+    }, 
+    {
+      "city": "New York", 
+      "first_name": "Miguel A", 
+      "last_name": "CORNIEL", 
+      "user_id": 1729712, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "NY_13", 
+      "created": "2013-08-09T12:04:06", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.8367, 
+      "x": -73.9399, 
+      "id": 16271780, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Orlando", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -89.3772, 
       "id": 16271556, 
       "question_id": "16199305"
-    }, 
-    {
-      "city": "Massillon", 
-      "first_name": "Tom and Betty", 
-      "last_name": "Cliff", 
-      "user_id": 1776730, 
-      "submission": "Why don't we have public works programs to put people to work and save our failing infrastructure.  And don't tell we can't afford it.  Public work projects would pay off in many more dollars then would be spent.", 
-      "district": "OH_16", 
-      "created": "2013-08-09T11:46:41", 
-      "state": "OH", 
-      "iface": "timeline_vote", 
-      "y": 40.8028, 
-      "x": -81.5208, 
-      "id": 16271517, 
-      "question_id": "16213399"
     }
   ]
 });
