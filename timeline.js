@@ -6,15 +6,34 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Holley", 
       "user_id": 1783365, 
-      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
       "district": "MD_07", 
-      "created": "2013-08-09T14:04:30", 
+      "created": "2013-08-09T14:06:07", 
       "state": "MD", 
       "iface": "timeline_vote", 
       "y": 39.3238, 
       "x": -76.7143, 
-      "id": 16275201, 
-      "question_id": "16172731"
+      "id": 16275214, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Folcroft", 
+      "first_name": "Donald", 
+      "last_name": "Rowat", 
+      "user_id": 374959, 
+      "submission": "Gold prices are dropping. If given the opportunity, would you support a bill to put our nations economy back on the Gold Standard? ", 
+      "district": "PA_01", 
+      "created": "2013-08-09T14:05:28", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "PA", 
+      "iface": "timeline_question", 
+      "y": 39.8949, 
+      "x": -75.2793, 
+      "latest_vote": null, 
+      "id": 16275210, 
+      "trending_score": 0.5
     }, 
     {
       "city": "Revere", 
@@ -285,21 +304,6 @@ opendebate.processTimeline({
       "x": -104.708, 
       "id": 16274537, 
       "question_id": "16172281"
-    }, 
-    {
-      "city": "North Adams", 
-      "first_name": "RICHARD", 
-      "last_name": "BEATTY", 
-      "user_id": 939570, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "MA_01", 
-      "created": "2013-08-09T13:50:44", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.6871, 
-      "x": -73.0744, 
-      "id": 16274525, 
-      "question_id": "16172777"
     }
   ]
 });
