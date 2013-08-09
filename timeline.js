@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "royce", 
       "last_name": "hohn", 
       "user_id": 1141717, 
-      "submission": "Why is Monsanto allowed to destroy our agriculture and the small farmers?", 
+      "submission": "Why when congress wants to cut Social Security and Medicare, we can't fight back with cutting their pay and healthcare?  Why should congress have control over their pay and their own healthcare and not the people since we pay for it?", 
       "district": "NC_11", 
-      "created": "2013-08-09T09:19:52", 
+      "created": "2013-08-09T09:20:40", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 36.0328, 
       "x": -81.9544, 
-      "id": 16270151, 
-      "question_id": "16244435"
+      "id": 16270157, 
+      "question_id": "16194232"
     }, 
     {
       "city": "Memphis", 
       "first_name": "", 
       "last_name": "", 
       "user_id": 1632782, 
-      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "TN_08", 
-      "created": "2013-08-09T09:19:42", 
+      "created": "2013-08-09T09:20:27", 
       "state": "TN", 
       "iface": "timeline_vote", 
       "y": 35.2068, 
       "x": -89.7912, 
-      "id": 16270150, 
-      "question_id": "16172755"
+      "id": 16270156, 
+      "question_id": "16172266"
     }, 
     {
       "city": "New York", 
