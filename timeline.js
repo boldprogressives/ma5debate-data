@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Cathedral City", 
-      "first_name": "Sam", 
-      "last_name": "Massarella", 
-      "user_id": 714003, 
-      "submission": "Would you support a ban on Congresspersons accepting jobs as corporate lobbyists for at least ten years after leaving Congress?", 
-      "district": "CA_36", 
-      "created": "2013-08-09T21:38:02", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 33.8225, 
-      "x": -116.463, 
-      "id": 16286646, 
-      "question_id": "16178177"
-    }, 
-    {
       "city": "Kansas City", 
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "I would like to see you live on what we get. Think about that when you vote!!!!", 
+      "submission": "TRAITORS IN OFFICECan legislators who signed the \"No New Tax\" pledge of Grover Norquist be prosecuted for violating their oaths of office to preserve, protect and defend the Constitution?", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:37:57", 
+      "created": "2013-08-09T21:38:59", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286645, 
-      "question_id": "16222978"
+      "id": 16286659, 
+      "question_id": "16269460"
+    }, 
+    {
+      "city": "Cathedral City", 
+      "first_name": "Sam", 
+      "last_name": "Massarella", 
+      "user_id": 714003, 
+      "submission": "As an injured worker having sustained a work related injury, I am dismayed at the poor treatment by the Worker's Comp insurance companies.  Will you take a look at and suggest reformation of WC Laws?", 
+      "district": "CA_36", 
+      "created": "2013-08-09T21:38:28", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 33.8225, 
+      "x": -116.463, 
+      "id": 16286653, 
+      "question_id": "16281369"
     }, 
     {
       "city": "Seattle", 
