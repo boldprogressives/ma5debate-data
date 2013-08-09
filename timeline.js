@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "El Prado", 
+      "first_name": "Sally", 
+      "last_name": "Phelps", 
+      "user_id": 1567108, 
+      "submission": "are you going to work for and support a change to the filibuster rules so the minority party can't obstruct legislation?", 
+      "district": "NM_03", 
+      "created": "2013-08-09T23:23:02", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 36.4486, 
+      "x": -105.575, 
+      "id": 16287762, 
+      "question_id": "16212189"
+    }, 
+    {
+      "city": "Burnsville", 
+      "first_name": "Bonnie", 
+      "last_name": "Rosenfield", 
+      "user_id": 1025762, 
+      "submission": "Should the US be investing more in education? If so, what should we invest in (pre-school, public universities, technology upgrades for high schools, etc.) and how should we pay for it?", 
+      "district": "MN_02", 
+      "created": "2013-08-09T23:22:43", 
+      "state": "MN", 
+      "iface": "timeline_vote", 
+      "y": 44.7702, 
+      "x": -93.2812, 
+      "id": 16287759, 
+      "question_id": "16172172"
+    }, 
+    {
       "city": "Monson", 
       "first_name": "Kathleen", 
       "last_name": "Conley", 
@@ -34,36 +64,6 @@ opendebate.processTimeline({
       "x": -83.1232, 
       "id": 16287755, 
       "question_id": "16173259"
-    }, 
-    {
-      "city": "El Prado", 
-      "first_name": "Sally", 
-      "last_name": "Phelps", 
-      "user_id": 1567108, 
-      "submission": "Will you aggressively prosecute those at Goldman Sachs and other banks/financial institutions for their continued illegal activities which have resulted in the serious and continuing economic disaster in this country?", 
-      "district": "NM_03", 
-      "created": "2013-08-09T23:21:47", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16287754, 
-      "question_id": "16225925"
-    }, 
-    {
-      "city": "Burnsville", 
-      "first_name": "Bonnie", 
-      "last_name": "Rosenfield", 
-      "user_id": 1025762, 
-      "submission": "Why have so few Wall Street CEOs been indicted for their part in the 2007 Economic Crash ?  Who has been protecting them ?", 
-      "district": "MN_02", 
-      "created": "2013-08-09T23:21:32", 
-      "state": "MN", 
-      "iface": "timeline_vote", 
-      "y": 44.7702, 
-      "x": -93.2812, 
-      "id": 16287752, 
-      "question_id": "16205046"
     }, 
     {
       "city": "Ocala", 
