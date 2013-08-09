@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "Would you support the proposition that Big Oil should help to fund the veterans rehab issues, and their benefits since they were sent to fight for their safe access to oil.", 
+      "submission": "Do you fully support Senator Warren's 21st century Glass-Steagall bill to separate investment banking from consumer banking?", 
       "district": "MO_06", 
-      "created": "2013-08-09T20:55:00", 
+      "created": "2013-08-09T20:55:56", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16285695, 
-      "question_id": "16173438"
+      "id": 16285709, 
+      "question_id": "16224940"
+    }, 
+    {
+      "city": "Southwest Harbor", 
+      "first_name": "Joyce", 
+      "last_name": "Worcester", 
+      "user_id": 1794458, 
+      "submission": "Where do you stand with regard to GMO labeling. Is it our right as citizens to have complete transparency with regard to the foods we choose to eat. ", 
+      "district": "ME_02", 
+      "created": "2013-08-09T20:55:52", 
+      "state": "ME", 
+      "iface": "timeline_vote", 
+      "y": 44.2799, 
+      "x": -68.3301, 
+      "id": 16285707, 
+      "question_id": "16178048"
     }, 
     {
       "city": "ozone park", 
@@ -45,21 +60,6 @@ opendebate.processTimeline({
       "x": -90.1072, 
       "id": 16285689, 
       "question_id": "16208816"
-    }, 
-    {
-      "city": "Southwest Harbor", 
-      "first_name": "Joyce", 
-      "last_name": "Worcester", 
-      "user_id": 1794458, 
-      "submission": "Why does Congress get a fat retirement and the rest of America gets a 401K?", 
-      "district": "ME_02", 
-      "created": "2013-08-09T20:54:19", 
-      "state": "ME", 
-      "iface": "timeline_vote", 
-      "y": 44.2799, 
-      "x": -68.3301, 
-      "id": 16285687, 
-      "question_id": "16173327"
     }, 
     {
       "city": "Eugene", 
