@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Do you believe that corporations are people as decided by the Supreme Court?", 
+      "submission": "We are the richest country in the world.  And yet we choose to direct the resources of our economy to concentrate wealth and build a ridiculously large  military force which has been used to accomplish questionable goals.  Are you proud of what America has accomplished as a society in the last 15 years? If not, how will you lead a real discussion about a set of policies that in time we can all look back on what we've accomplished with pride?", 
       "district": "MA_04", 
-      "created": "2013-08-09T11:27:58", 
+      "created": "2013-08-09T11:28:56", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16271370, 
-      "question_id": "16172696"
+      "id": 16271375, 
+      "question_id": "16183546"
+    }, 
+    {
+      "city": "Amherst", 
+      "first_name": "judith", 
+      "last_name": "gatz", 
+      "user_id": 383985, 
+      "submission": "Do you Support or Oppose the Patriot act?", 
+      "district": "MA_02", 
+      "created": "2013-08-09T11:28:30", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3839, 
+      "x": -72.5118, 
+      "id": 16271373, 
+      "question_id": "16269769"
     }, 
     {
       "city": "East Weymouth", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -70.9328, 
       "id": 16271369, 
       "question_id": "16194500"
-    }, 
-    {
-      "city": "Amherst", 
-      "first_name": "judith", 
-      "last_name": "gatz", 
-      "user_id": 383985, 
-      "submission": "Do you support marriage equality", 
-      "district": "MA_02", 
-      "created": "2013-08-09T11:27:21", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3839, 
-      "x": -72.5118, 
-      "id": 16271366, 
-      "question_id": "16271019"
     }, 
     {
       "city": "anguillara", 
