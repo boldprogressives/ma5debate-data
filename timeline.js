@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Chris", 
       "last_name": "Baker", 
       "user_id": 78033, 
-      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
+      "submission": "Will you support a \"Clean Up Congress\" campaign to promote term limits and cease the eternal 'full pay' for lifetime after serving only one term?", 
       "district": "IN_06", 
-      "created": "2013-08-09T22:45:33", 
+      "created": "2013-08-09T22:46:53", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 39.7338, 
       "x": -84.6711, 
-      "id": 16287475, 
-      "question_id": "16175637"
+      "id": 16287533, 
+      "question_id": "16184803"
+    }, 
+    {
+      "city": "Detroit", 
+      "first_name": "Daniel", 
+      "last_name": "Sarasin", 
+      "user_id": 1487238, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "MI_13", 
+      "created": "2013-08-09T22:46:33", 
+      "state": "MI", 
+      "iface": "timeline_vote", 
+      "y": 42.3801, 
+      "x": -83.0518, 
+      "id": 16287523, 
+      "question_id": "16172777"
     }, 
     {
       "city": "Greenville", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -88.5509, 
       "id": 16287282, 
       "question_id": "16173921"
-    }, 
-    {
-      "city": "Detroit", 
-      "first_name": "Daniel", 
-      "last_name": "Sarasin", 
-      "user_id": 1487238, 
-      "submission": "will you pledge to oppose Any cuts to social Security or Medicare?", 
-      "district": "MI_13", 
-      "created": "2013-08-09T22:43:58", 
-      "state": "MI", 
-      "iface": "timeline_vote", 
-      "y": 42.3801, 
-      "x": -83.0518, 
-      "id": 16287231, 
-      "question_id": "16185364"
     }, 
     {
       "city": "Portland", 
