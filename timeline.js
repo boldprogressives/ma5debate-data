@@ -6,30 +6,45 @@ opendebate.processTimeline({
       "first_name": "Daniel", 
       "last_name": "Sarasin", 
       "user_id": 1487238, 
-      "submission": "Why is there not even ONE mention about possibly repealing the \"Patriot Act\", even though that one law has completely obliterated all of our civil rights that were guaranteed in the Constitution??? All USA laws have become invalid, especially for protecting against oppressive governmental organizations, by simply declaring ANYONE an \"Enemy Combatant\" with no real justification for that declaration. The Constitution was specifically created to design precautions against an oppressive government that already had gone too far (Britain). ", 
+      "submission": "Will you support a Whistleblowers Act that will allow for transparency  in our Government and the NSA with immunity to prosecution?", 
       "district": "MI_13", 
-      "created": "2013-08-09T22:34:55", 
+      "created": "2013-08-09T22:35:59", 
       "state": "MI", 
       "iface": "timeline_vote", 
       "y": 42.3801, 
       "x": -83.0518, 
-      "id": 16287134, 
-      "question_id": "16176201"
+      "id": 16287141, 
+      "question_id": "16203822"
+    }, 
+    {
+      "city": "Newton", 
+      "first_name": "Kyle", 
+      "last_name": "Baymiller", 
+      "user_id": 1667701, 
+      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
+      "district": "KS_04", 
+      "created": "2013-08-09T22:35:51", 
+      "state": "KS", 
+      "iface": "timeline_vote", 
+      "y": 38.0463, 
+      "x": -97.3506, 
+      "id": 16287140, 
+      "question_id": "16203866"
     }, 
     {
       "city": "Rockledge", 
       "first_name": "Valerie", 
       "last_name": "Brant-Wilson", 
       "user_id": 582707, 
-      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
+      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
       "district": "FL_08", 
-      "created": "2013-08-09T22:34:51", 
+      "created": "2013-08-09T22:35:47", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 28.3133, 
       "x": -80.7233, 
-      "id": 16287133, 
-      "question_id": "16172731"
+      "id": 16287139, 
+      "question_id": "16180998"
     }, 
     {
       "city": "Fountain Hills", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -121.438, 
       "id": 16286905, 
       "question_id": "16203866"
-    }, 
-    {
-      "city": "Framingham", 
-      "first_name": "Sharon", 
-      "last_name": "Rozines", 
-      "user_id": 1771502, 
-      "submission": "Climate change is moving us towards a planet that may not support human life.  Will you make addressing climate change one of your highest priorities?", 
-      "district": "MA_05", 
-      "created": "2013-08-09T21:57:41", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2721, 
-      "x": -71.4248, 
-      "id": 16286860, 
-      "question_id": "16175078"
     }
   ]
 });
