@@ -6,15 +6,34 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
+      "submission": "Will you make it your highest priority to prosecute the bankers who brought about the financial crisis and force them to pay back the billions they stole from us as well as confining them to long prison terms?", 
       "district": "MA_04", 
-      "created": "2013-08-09T09:48:03", 
+      "created": "2013-08-09T09:48:54", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270413, 
-      "question_id": "16172697"
+      "id": 16270416, 
+      "question_id": "16176917"
+    }, 
+    {
+      "city": "Eugene", 
+      "first_name": "Patience", 
+      "last_name": "Pontious", 
+      "user_id": 1808482, 
+      "submission": "Would you be willing to be polygraphed while answering these questions?", 
+      "district": "OR_04", 
+      "created": "2013-08-09T09:48:50", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "OR", 
+      "iface": "timeline_question", 
+      "y": 43.9495, 
+      "x": -123.128, 
+      "latest_vote": null, 
+      "id": 16270415, 
+      "trending_score": 0.5
     }, 
     {
       "city": "New Bedford", 
@@ -301,21 +320,6 @@ opendebate.processTimeline({
       "x": -122.355, 
       "id": 16270105, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Acton", 
-      "first_name": "Karl", 
-      "last_name": "Heinemann", 
-      "user_id": 1722316, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "MA_03", 
-      "created": "2013-08-09T09:05:06", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4774, 
-      "x": -71.4467, 
-      "id": 16270072, 
-      "question_id": "16172777"
     }
   ]
 });
