@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "El Prado", 
+      "first_name": "Sally", 
+      "last_name": "Phelps", 
+      "user_id": 1567108, 
+      "submission": "Do you support an assault weapons ban and increased regulatory controls on guns?", 
+      "district": "NM_03", 
+      "created": "2013-08-09T23:47:49", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 36.4486, 
+      "x": -105.575, 
+      "id": 16288127, 
+      "question_id": "16212639"
+    }, 
+    {
+      "city": "Seattle", 
+      "first_name": "Sigrid", 
+      "last_name": "Asmus", 
+      "user_id": 176478, 
+      "submission": "Would you support laws that aggressively tax \"passive\" income (i.e., offshore investments, etc.) and lower  rates for \"active\" income (i.e., physical labor, \"doing the work\" that generates the income, etc.)?  Would you be amenable to opening a conversation on this topic with your constituents?", 
+      "district": "WA_07", 
+      "created": "2013-08-09T23:47:05", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 47.6498, 
+      "x": -122.398, 
+      "id": 16288122, 
+      "question_id": "16272679"
+    }, 
+    {
       "city": "New Port Richey", 
       "first_name": "Patsy", 
       "last_name": "Shafchuk", 
@@ -32,21 +62,6 @@ opendebate.processTimeline({
       "question_id": "16249284"
     }, 
     {
-      "city": "Seattle", 
-      "first_name": "Sigrid", 
-      "last_name": "Asmus", 
-      "user_id": 176478, 
-      "submission": "Will you support a bill to stop Monsanto's GMOs?  Also to stop Monsanto from sueing farmers that have had their crops invaded by pollen from GMO plants?", 
-      "district": "WA_07", 
-      "created": "2013-08-09T23:46:41", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 47.6498, 
-      "x": -122.398, 
-      "id": 16288118, 
-      "question_id": "16273200"
-    }, 
-    {
       "city": "Niles", 
       "first_name": "NEAL", 
       "last_name": "DRAZNIN", 
@@ -60,21 +75,6 @@ opendebate.processTimeline({
       "x": -87.8132, 
       "id": 16288117, 
       "question_id": "16202059"
-    }, 
-    {
-      "city": "El Prado", 
-      "first_name": "Sally", 
-      "last_name": "Phelps", 
-      "user_id": 1567108, 
-      "submission": "What can you do to stop this sickness of MONSANTO paying off Congressmen,FDA,EPA,USDA and many others to sicken poison and degrade a system which was put in place to preserve our Health and Safty?", 
-      "district": "NM_03", 
-      "created": "2013-08-09T23:45:59", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16288116, 
-      "question_id": "16215471"
     }, 
     {
       "city": "Beverly", 
