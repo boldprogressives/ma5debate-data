@@ -6,30 +6,49 @@ opendebate.processTimeline({
       "first_name": "D. S.", 
       "last_name": "Kinzie", 
       "user_id": 88880, 
-      "submission": "Science has proven again and again that many herbicides and pesticides initially approved for agricultural and residential use are highly toxic to the environment.  Would you propose, endorse, and/or support, legislation that imposes statutory time limits on regulatory approvals for all pesticides and herbicides, which triggers a  mandatory environmental impact reassessment every 8 to 10 years without exception and does not allow \"grandfathering\" of any such products that have already approved for use?     ", 
+      "submission": "Our mainstream food sources have become highly toxic, causing many chronic illnesses and learning issues.  What can be done at the federal level to ensure healthy, organic foods are available to all?", 
       "district": "TN_05", 
-      "created": "2013-08-09T10:45:57", 
+      "created": "2013-08-09T10:46:56", 
       "state": "TN", 
       "iface": "timeline_vote", 
       "y": 36.1088, 
       "x": -86.7806, 
-      "id": 16271016, 
-      "question_id": "16226498"
+      "id": 16271025, 
+      "question_id": "16222243"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "We all know Social Security is more than solvent. Why is a Democratic administration trying to cut back on benefits when it should be raising them? ", 
+      "submission": "How would you reform the minimum wage to make it liveable for employees and sustainable for businesses?", 
       "district": "MA_04", 
-      "created": "2013-08-09T10:45:42", 
+      "created": "2013-08-09T10:46:33", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16271015, 
-      "question_id": "16176614"
+      "id": 16271023, 
+      "question_id": "16199816"
+    }, 
+    {
+      "city": "Fleetwood", 
+      "first_name": "Aaron", 
+      "last_name": "Hartman", 
+      "user_id": 1678959, 
+      "submission": "Do you support marriage equality", 
+      "district": "PA_06", 
+      "created": "2013-08-09T10:46:13", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "PA", 
+      "iface": "timeline_question", 
+      "y": 40.4758, 
+      "x": -75.895, 
+      "latest_vote": null, 
+      "id": 16271019, 
+      "trending_score": 0.5
     }, 
     {
       "city": "Sacramento", 
@@ -285,21 +304,6 @@ opendebate.processTimeline({
       "x": -77.12, 
       "id": 16270518, 
       "question_id": "16173264"
-    }, 
-    {
-      "city": "North Las Vegas", 
-      "first_name": "Bernhard", 
-      "last_name": "Lambert", 
-      "user_id": 392784, 
-      "submission": "The threat that hangs over the country today is a GOP determined to destroy the middle class and the values that define it.  What specific steps will you recommend to confront, not appease, the GOP?", 
-      "district": "NV_04", 
-      "created": "2013-08-09T09:55:35", 
-      "state": "NV", 
-      "iface": "timeline_vote", 
-      "y": 36.2577, 
-      "x": -115.142, 
-      "id": 16270473, 
-      "question_id": "16172694"
     }
   ]
 });
