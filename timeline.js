@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Fayetteville", 
+      "first_name": "Vera", 
+      "last_name": "Morgan", 
+      "user_id": 1012008, 
+      "submission": "What would you do to end the SCOTUS ruling Citizens United & how will you stop the GOP led states enacting extremist voter suppresion?", 
+      "district": "NC_04", 
+      "created": "2013-08-09T12:45:54", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.0577, 
+      "x": -79.0035, 
+      "id": 16272307, 
+      "question_id": "16207073"
+    }, 
+    {
+      "city": "Lock Haven", 
+      "first_name": "Marshall", 
+      "last_name": "Conklin", 
+      "user_id": 1598518, 
+      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
+      "district": "PA_05", 
+      "created": "2013-08-09T12:45:53", 
+      "state": "PA", 
+      "iface": "timeline_vote", 
+      "y": 41.1347, 
+      "x": -77.4497, 
+      "id": 16272308, 
+      "question_id": "16172207"
+    }, 
+    {
+      "city": "Salem", 
+      "first_name": "edward", 
+      "last_name": "abreo", 
+      "user_id": 1770718, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "OR_05", 
+      "created": "2013-08-09T12:45:17", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 45.0131, 
+      "x": -123.101, 
+      "id": 16272296, 
+      "question_id": "16173264"
+    }, 
+    {
       "city": "Reading", 
       "first_name": "Randall", 
       "last_name": "Gerber", 
@@ -15,36 +60,6 @@ opendebate.processTimeline({
       "x": -75.9816, 
       "id": 16272292, 
       "question_id": "16172727"
-    }, 
-    {
-      "city": "Lock Haven", 
-      "first_name": "Marshall", 
-      "last_name": "Conklin", 
-      "user_id": 1598518, 
-      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
-      "district": "PA_05", 
-      "created": "2013-08-09T12:45:04", 
-      "state": "PA", 
-      "iface": "timeline_vote", 
-      "y": 41.1347, 
-      "x": -77.4497, 
-      "id": 16272293, 
-      "question_id": "16173210"
-    }, 
-    {
-      "city": "Fayetteville", 
-      "first_name": "Vera", 
-      "last_name": "Morgan", 
-      "user_id": 1012008, 
-      "submission": "What is your position on the validity of the Citizens United decision that corporations have the same rights as citizens?", 
-      "district": "NC_04", 
-      "created": "2013-08-09T12:44:47", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.0577, 
-      "x": -79.0035, 
-      "id": 16272289, 
-      "question_id": "16172265"
     }, 
     {
       "city": "Montpelier", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "x": -85.3403, 
       "id": 16272042, 
       "question_id": "16205834"
-    }, 
-    {
-      "city": "Ludlow", 
-      "first_name": "Don & Valerie", 
-      "last_name": "Bonzek", 
-      "user_id": 1669543, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "MA_01", 
-      "created": "2013-08-09T12:25:12", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.1712, 
-      "x": -72.4725, 
-      "id": 16272036, 
-      "question_id": "16172266"
     }
   ]
 });
