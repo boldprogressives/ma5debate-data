@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Christiane", 
       "last_name": "Pors", 
       "user_id": 1785709, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
       "district": "NY_10", 
-      "created": "2013-08-09T08:56:50", 
+      "created": "2013-08-09T08:57:46", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7773, 
       "x": -73.9825, 
-      "id": 16270042, 
-      "question_id": "16172266"
+      "id": 16270050, 
+      "question_id": "16172755"
+    }, 
+    {
+      "city": "Fort Worth", 
+      "first_name": "Doug", 
+      "last_name": "Arnold", 
+      "user_id": 734057, 
+      "submission": "Should Bush and Cheney (AND Obama) be prosecuted for war crimes?", 
+      "district": "TX_12", 
+      "created": "2013-08-09T08:57:17", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 32.7144, 
+      "x": -97.4646, 
+      "id": 16270046, 
+      "question_id": "16219940"
     }, 
     {
       "city": "Cleveland Heights", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -117.362, 
       "id": 16269596, 
       "question_id": "16234686"
-    }, 
-    {
-      "city": "Los Angeles", 
-      "first_name": "Ellen", 
-      "last_name": "Steens", 
-      "user_id": 1782363, 
-      "submission": "Will you introduce legislation or a rules change -- whichever it takes -- that will mean Congress and their families must be subject to the same laws it passes for other citizens?  If not, why not?", 
-      "district": "CA_37", 
-      "created": "2013-08-09T07:56:32", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 34.0277, 
-      "x": -118.352, 
-      "id": 16269574, 
-      "question_id": "16244527"
     }
   ]
 });
