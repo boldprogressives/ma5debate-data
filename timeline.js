@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Christiane", 
       "last_name": "Pors", 
       "user_id": 1785709, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
       "district": "NY_10", 
-      "created": "2013-08-09T09:12:40", 
+      "created": "2013-08-09T09:13:58", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7773, 
       "x": -73.9825, 
-      "id": 16270126, 
-      "question_id": "16172777"
+      "id": 16270128, 
+      "question_id": "16175500"
     }, 
     {
       "city": "Briarcliff Manor", 
