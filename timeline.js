@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Victoria", 
       "last_name": "Scott", 
       "user_id": 1708295, 
-      "submission": "Will you work to reinstate the Glass-Steagall Act to insure that the Wall Street banks behave in a more responsible manner?", 
+      "submission": "Will you vote to reinstate the FDR Glass Steagall Act?", 
       "district": "NM_03", 
-      "created": "2013-08-09T08:28:53", 
+      "created": "2013-08-09T08:29:46", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 35.6768, 
       "x": -105.958, 
-      "id": 16269920, 
-      "question_id": "16256690"
+      "id": 16269926, 
+      "question_id": "16236353"
     }, 
     {
       "city": "Tryon", 
