@@ -6,45 +6,60 @@ opendebate.processTimeline({
       "first_name": "Wilma", 
       "last_name": "Bondurant", 
       "user_id": 1807845, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
       "district": "IL_13", 
-      "created": "2013-08-09T11:42:02", 
+      "created": "2013-08-09T11:42:53", 
       "state": "IL", 
       "iface": "timeline_vote", 
       "y": 39.846, 
       "x": -88.9932, 
-      "id": 16271474, 
-      "question_id": "16172266"
+      "id": 16271482, 
+      "question_id": "16175637"
     }, 
     {
       "city": "East Weymouth", 
       "first_name": "Carlotta", 
       "last_name": "Hayes", 
       "user_id": 1806880, 
-      "submission": "9-in-10 Americans (87%) are deeply disturbed by the corruption in Congress, which ranks 2nd only to jobs as a priority in recent polling, so what will you do to stop corruption around you in Congress?", 
+      "submission": "History has shown, that a government that desires to controls its people by using fear is up to undemocratic unaccountable corruption. In order to solve our dysfunctional federal and state governmental problems we must first identify the problem first.  What is the problem?", 
       "district": "MA_08", 
-      "created": "2013-08-09T11:41:52", 
+      "created": "2013-08-09T11:42:26", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2138, 
       "x": -70.9328, 
-      "id": 16271473, 
-      "question_id": "16208638"
+      "id": 16271481, 
+      "question_id": "16172711"
+    }, 
+    {
+      "city": "Pickerington", 
+      "first_name": "Ann", 
+      "last_name": "Porter", 
+      "user_id": 1513414, 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "district": "OH_15", 
+      "created": "2013-08-09T11:42:17", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 39.9032, 
+      "x": -82.7507, 
+      "id": 16271479, 
+      "question_id": "16172281"
     }, 
     {
       "city": "Massillon", 
       "first_name": "Tom and Betty", 
       "last_name": "Cliff", 
       "user_id": 1776730, 
-      "submission": "Serving in Congress is not a career.  Will you vote for term limits?", 
+      "submission": "The threat that hangs over the country today is a GOP determined to destroy the middle class and the values that define it.  What specific steps will you recommend to confront, not appease, the GOP?", 
       "district": "OH_16", 
-      "created": "2013-08-09T11:39:25", 
+      "created": "2013-08-09T11:42:11", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 40.8028, 
       "x": -81.5208, 
-      "id": 16271454, 
-      "question_id": "16173323"
+      "id": 16271476, 
+      "question_id": "16172694"
     }, 
     {
       "city": "Cincinnati", 
@@ -285,21 +300,6 @@ opendebate.processTimeline({
       "x": -68.2436, 
       "id": 16271132, 
       "question_id": "16205951"
-    }, 
-    {
-      "city": "Saint Clair Shores", 
-      "first_name": "Terry", 
-      "last_name": "Keck", 
-      "user_id": 658095, 
-      "submission": "Should Bush and Cheney (AND Obama) be prosecuted for war crimes?", 
-      "district": "MI_09", 
-      "created": "2013-08-09T10:56:36", 
-      "state": "MI", 
-      "iface": "timeline_vote", 
-      "y": 42.498, 
-      "x": -82.899, 
-      "id": 16271104, 
-      "question_id": "16219940"
     }
   ]
 });
