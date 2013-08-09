@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Troy", 
-      "first_name": "John", 
-      "last_name": "Janowski", 
-      "user_id": 163007, 
-      "submission": "do you support a min wage increase", 
-      "district": "MI_11", 
-      "created": "2013-08-09T23:19:41", 
-      "state": "MI", 
-      "iface": "timeline_vote", 
-      "y": 42.5596, 
-      "x": -83.1232, 
-      "id": 16287734, 
-      "question_id": "16173625"
-    }, 
-    {
       "city": "El Prado", 
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Do you favor legislation to protect our water, land, and communities from the negative environmental and social impacts of fracking for natural gas?", 
+      "submission": "What would you do to end the SCOTUS ruling Citizens United & how will you stop the GOP led states enacting extremist voter suppresion?", 
       "district": "NM_03", 
-      "created": "2013-08-09T23:19:37", 
+      "created": "2013-08-09T23:20:56", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16287733, 
-      "question_id": "16204423"
+      "id": 16287745, 
+      "question_id": "16207073"
+    }, 
+    {
+      "city": "Troy", 
+      "first_name": "John", 
+      "last_name": "Janowski", 
+      "user_id": 163007, 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
+      "district": "MI_11", 
+      "created": "2013-08-09T23:20:48", 
+      "state": "MI", 
+      "iface": "timeline_vote", 
+      "y": 42.5596, 
+      "x": -83.1232, 
+      "id": 16287744, 
+      "question_id": "16202059"
     }, 
     {
       "city": "Monson", 
