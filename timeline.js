@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Vera", 
       "last_name": "Morgan", 
       "user_id": 1012008, 
-      "submission": "The Occupy movement was an outcry against the takeover of America by the Wall Street plutocracy.  What will you do to advance this cause of taking back our democracy and our government from Big Money?", 
+      "submission": "Will you protect Social Security And Medicare by not cutting it with the chained CPI for Social Security that has been mentioned.  Also, no cuts to Medicare but closing the donute hole 100% so seniors aren't left fending for themselves to pay full price for their drugs.", 
       "district": "NC_04", 
-      "created": "2013-08-09T12:49:04", 
+      "created": "2013-08-09T12:50:00", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.0577, 
       "x": -79.0035, 
-      "id": 16272341, 
-      "question_id": "16206953"
+      "id": 16272351, 
+      "question_id": "16175570"
     }, 
     {
       "city": "Lock Haven", 
