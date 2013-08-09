@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Will you make it your highest priority to prosecute the bankers who brought about the financial crisis and force them to pay back the billions they stole from us as well as confining them to long prison terms?", 
+      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
       "district": "MA_04", 
-      "created": "2013-08-09T09:48:54", 
+      "created": "2013-08-09T09:49:55", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270416, 
-      "question_id": "16176917"
+      "id": 16270418, 
+      "question_id": "16175634"
     }, 
     {
       "city": "Eugene", 
