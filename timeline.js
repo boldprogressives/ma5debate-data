@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "To save S.S. & Medicare why don't we get rid of the fraud. What will you do about it?", 
+      "submission": "What is wrong with you people? Are you determined to destroy the country?", 
       "district": "MO_06", 
-      "created": "2013-08-09T22:02:02", 
+      "created": "2013-08-09T22:02:43", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286898, 
-      "question_id": "16197573"
+      "id": 16286901, 
+      "question_id": "16198831"
     }, 
     {
       "city": "Framingham", 
