@@ -6,15 +6,60 @@ opendebate.processTimeline({
       "first_name": "JOANIE", 
       "last_name": "LAINE", 
       "user_id": 208923, 
-      "submission": "Will you pledge to change the current filibuster rule to what it had been in the past where a Senator had to stand and speak for the duration his/her filibuster? If not, why not?", 
+      "submission": "How do you address cities going bankrupt, unemployment, people working not meeting basic needs and social services being cut over and over- yet corporations receiving welfare- in the form of tax breaks, incentives and yet they are can outsource jobs to other countries and people in the US are hungry?", 
       "district": "CA_36", 
-      "created": "2013-08-09T05:34:00", 
+      "created": "2013-08-09T05:34:58", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 33.9639, 
       "x": -116.531, 
-      "id": 16265751, 
-      "question_id": "16197620"
+      "id": 16265766, 
+      "question_id": "16190286"
+    }, 
+    {
+      "city": "Santa Clara", 
+      "first_name": "Timothy", 
+      "last_name": "Hipsley", 
+      "user_id": 348982, 
+      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
+      "district": "CA_17", 
+      "created": "2013-08-09T05:34:48", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 37.3495, 
+      "x": -121.958, 
+      "id": 16265764, 
+      "question_id": "16172207"
+    }, 
+    {
+      "city": "San Diego", 
+      "first_name": "IRMA", 
+      "last_name": "CAMARILLO", 
+      "user_id": 226704, 
+      "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
+      "district": "CA_53", 
+      "created": "2013-08-09T05:34:44", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 32.6757, 
+      "x": -117.05, 
+      "id": 16265762, 
+      "question_id": "16172542"
+    }, 
+    {
+      "city": "Terrebonne", 
+      "first_name": "Bon", 
+      "last_name": "Herlocker", 
+      "user_id": 26672, 
+      "submission": "Will you support Elizabeth Warren's efforts to create a new Glass-Steagall Act?", 
+      "district": "OR_02", 
+      "created": "2013-08-09T05:34:27", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 44.3587, 
+      "x": -121.184, 
+      "id": 16265759, 
+      "question_id": "16201467"
     }, 
     {
       "city": "Henderson", 
@@ -30,36 +75,6 @@ opendebate.processTimeline({
       "x": -115.12, 
       "id": 16265748, 
       "question_id": "16226952"
-    }, 
-    {
-      "city": "San Diego", 
-      "first_name": "IRMA", 
-      "last_name": "CAMARILLO", 
-      "user_id": 226704, 
-      "submission": "Would you pledge to take no gifts or money from special interest groups in exchange for your votes favoring them?", 
-      "district": "CA_53", 
-      "created": "2013-08-09T05:33:12", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 32.6757, 
-      "x": -117.05, 
-      "id": 16265741, 
-      "question_id": "16205451"
-    }, 
-    {
-      "city": "Terrebonne", 
-      "first_name": "Bon", 
-      "last_name": "Herlocker", 
-      "user_id": 26672, 
-      "submission": "Would you be in favor of Congress and the Senate payingfor heath care like the rest of us,and no pension for life unless you put in 25 years like almost every other American. ", 
-      "district": "OR_02", 
-      "created": "2013-08-09T05:33:09", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 44.3587, 
-      "x": -121.184, 
-      "id": 16265739, 
-      "question_id": "16188477"
     }, 
     {
       "city": "Conover", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -95.4036, 
       "id": 16265523, 
       "question_id": "16172694"
-    }, 
-    {
-      "city": "Elma", 
-      "first_name": "Joseph", 
-      "last_name": "Brecha", 
-      "user_id": 1060420, 
-      "submission": "What would you do to end the SCOTUS ruling Citizens United & how will you stop the GOP led states enacting extremist voter suppresion?", 
-      "district": "WA_06", 
-      "created": "2013-08-09T05:21:17", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 47.0102, 
-      "x": -123.411, 
-      "id": 16265515, 
-      "question_id": "16207073"
     }
   ]
 });
