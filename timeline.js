@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Irving", 
-      "first_name": "Michael", 
-      "last_name": "Truly", 
-      "user_id": 1604549, 
-      "submission": "Will you support legislation to change our income tax so the very wealthy pay 90% of their yearly income as they did in the 1950s and 60s?", 
-      "district": "TX_33", 
-      "created": "2013-08-09T11:59:46", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 32.8245, 
-      "x": -96.9532, 
-      "id": 16271762, 
-      "question_id": "16172688"
-    }, 
-    {
       "city": "Santa Rosa", 
       "first_name": "David", 
       "last_name": "Bauer", 
       "user_id": 1781154, 
-      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
       "district": "CA_05", 
-      "created": "2013-08-09T11:59:34", 
+      "created": "2013-08-09T12:00:55", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 38.4796, 
       "x": -122.751, 
-      "id": 16271760, 
-      "question_id": "16172690"
+      "id": 16271773, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Irving", 
+      "first_name": "Michael", 
+      "last_name": "Truly", 
+      "user_id": 1604549, 
+      "submission": "Will you support the ERA and women's rights to make their own health care decisions without government interference, even if it includes abortion?  If not, why not? ", 
+      "district": "TX_33", 
+      "created": "2013-08-09T12:00:26", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 32.8245, 
+      "x": -96.9532, 
+      "id": 16271771, 
+      "question_id": "16176653"
     }, 
     {
       "city": "Inglewood", 
       "first_name": "Ken", 
       "last_name": "Benson", 
       "user_id": 519373, 
-      "submission": "What would it take to took into the legal right for Big AG companies to patent their food and human genes?", 
+      "submission": "What is your position on INCREASING Social Security benefits?", 
       "district": "CA_43", 
-      "created": "2013-08-09T11:59:07", 
+      "created": "2013-08-09T12:00:22", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 33.9753, 
       "x": -118.354, 
-      "id": 16271752, 
-      "question_id": "16266021"
+      "id": 16271770, 
+      "question_id": "16207967"
+    }, 
+    {
+      "city": "Chicopee", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810216, 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "district": "MA_01", 
+      "created": "2013-08-09T12:00:21", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.1623, 
+      "x": -72.6045, 
+      "id": 16271769, 
+      "question_id": "16172913"
     }, 
     {
       "city": "Poughkeepsie", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -74.0338, 
       "id": 16271512, 
       "question_id": "16190286"
-    }, 
-    {
-      "city": "Satellite Beach", 
-      "first_name": "Gordon Chandler", 
-      "last_name": "Chandler", 
-      "user_id": 428960, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
-      "district": "FL_08", 
-      "created": "2013-08-09T11:45:58", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 28.1728, 
-      "x": -80.5987, 
-      "id": 16271510, 
-      "question_id": "16172913"
     }
   ]
 });
