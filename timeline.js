@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Salem", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810383, 
+      "submission": "Would you support the proposition that Big Oil should help to fund the veterans rehab issues, and their benefits since they were sent to fight for their safe access to oil.", 
+      "district": "OR_05", 
+      "created": "2013-08-09T22:55:45", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 45.0118, 
+      "x": -123.016, 
+      "id": 16287552, 
+      "question_id": "16173438"
+    }, 
+    {
       "city": "Gloucester", 
       "first_name": "Sean", 
       "last_name": "Desmond", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -122.634, 
       "id": 16287009, 
       "question_id": "16179925"
-    }, 
-    {
-      "city": "dedham", 
-      "first_name": "suzanne", 
-      "last_name": "searle", 
-      "user_id": 211231, 
-      "submission": "What can you do to improve public transit nationally, including building a good rail network, when the governors and legislatures of some key states are so resistant to it?", 
-      "district": "MA_08", 
-      "created": "2013-08-09T22:13:49", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2446, 
-      "x": -71.1676, 
-      "id": 16286976, 
-      "question_id": "16172286"
     }
   ]
 });
