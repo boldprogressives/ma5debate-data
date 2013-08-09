@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Fayetteville", 
-      "first_name": "Vera", 
-      "last_name": "Morgan", 
-      "user_id": 1012008, 
-      "submission": "How do you roll back recent Supreme Court decisions such as \"Citizen United\" and part of the Voting Rights Act, which allows powerful interests to skew the political process in their favor? ", 
-      "district": "NC_04", 
-      "created": "2013-08-09T12:58:06", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.0577, 
-      "x": -79.0035, 
-      "id": 16272411, 
-      "question_id": "16182448"
-    }, 
-    {
       "city": "Woodbridge", 
       "first_name": "N", 
       "last_name": "Oure", 
       "user_id": 1694674, 
-      "submission": "What, specifically, would you do to protect the right to vote for all? Please address specifically a new Voting Rights Act and the concept of a paper ballot that can be verified by the voter.", 
+      "submission": "Solar would bring in new jobs and the factorys built in this country you could even run street lights, stop and go lights i know it would help with the citys tax base, becouse i build solar heat exchangers for the low income folks and it works becouse my heating bills run 16.00 dollars a month 2 years ago last year 48 dollars a month why would not want that ?", 
       "district": "VA_11", 
-      "created": "2013-08-09T12:58:05", 
+      "created": "2013-08-09T12:58:56", 
       "state": "VA", 
       "iface": "timeline_vote", 
       "y": 38.6462, 
       "x": -77.3497, 
-      "id": 16272412, 
-      "question_id": "16207107"
+      "id": 16272428, 
+      "question_id": "16172866"
+    }, 
+    {
+      "city": "Fayetteville", 
+      "first_name": "Vera", 
+      "last_name": "Morgan", 
+      "user_id": 1012008, 
+      "submission": "Women's reproduction rights have been eroded by the republican right wing, will you fight for women everywhere to keep their reproduction rights and for women to be treated with dignity and respect?", 
+      "district": "NC_04", 
+      "created": "2013-08-09T12:58:46", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.0577, 
+      "x": -79.0035, 
+      "id": 16272425, 
+      "question_id": "16178792"
+    }, 
+    {
+      "city": "Ballston Spa", 
+      "first_name": "William", 
+      "last_name": "Shaw", 
+      "user_id": 104602, 
+      "submission": "Will you work to support Elizabeth Warren's efforts to revise Glass-Steagall", 
+      "district": "NY_20", 
+      "created": "2013-08-09T12:58:38", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 43.0056, 
+      "x": -73.8604, 
+      "id": 16272422, 
+      "question_id": "16265543"
     }, 
     {
       "city": "Framingham", 
       "first_name": "", 
       "last_name": "", 
       "user_id": 1810227, 
-      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
+      "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
       "district": "MA_05", 
-      "created": "2013-08-09T12:56:10", 
+      "created": "2013-08-09T12:58:20", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2721, 
       "x": -71.4248, 
-      "id": 16272400, 
-      "question_id": "16202059"
+      "id": 16272419, 
+      "question_id": "16172542"
     }, 
     {
       "city": "Birmingham", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16272211, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Lyons", 
-      "first_name": "Sandra", 
-      "last_name": "Toomey", 
-      "user_id": 1773961, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "IL_03", 
-      "created": "2013-08-09T12:37:54", 
-      "state": "IL", 
-      "iface": "timeline_vote", 
-      "y": 41.8118, 
-      "x": -87.8206, 
-      "id": 16272197, 
-      "question_id": "16172266"
     }
   ]
 });
