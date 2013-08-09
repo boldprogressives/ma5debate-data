@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Houston", 
+      "first_name": "Laura", 
+      "last_name": "Snider", 
+      "user_id": 1623887, 
+      "submission": "Should Bush and Cheney (AND Obama) be prosecuted for war crimes?", 
+      "district": "TX_07", 
+      "created": "2013-08-09T08:12:02", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 29.9064, 
+      "x": -95.6552, 
+      "id": 16269693, 
+      "question_id": "16219940"
+    }, 
+    {
       "city": "New York", 
       "first_name": "Marcus", 
       "last_name": "Adams", 
       "user_id": 526656, 
-      "submission": "In the talk about government spending, there has been discussion about entitlements, but very little discussion about corporate welfare. Examples of corporate welfare include profitable companies such GE paying no federal income taxes, or corporations not paying taxes on profits made overseas. Would you support and work to eliminate all corporate welfare?", 
+      "submission": "Will you support separation of commercial and investment banking by returning to a current version of Glass-Steagall Act?", 
       "district": "NY_10", 
-      "created": "2013-08-09T08:10:55", 
+      "created": "2013-08-09T08:11:57", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7243, 
       "x": -73.9961, 
-      "id": 16269687, 
-      "question_id": "16249133"
+      "id": 16269692, 
+      "question_id": "16248600"
     }, 
     {
       "city": "Newport Beach", 
       "first_name": "delone", 
       "last_name": "green", 
       "user_id": 1130825, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "submission": "Will you support Elizabeth Warren's efforts to create a new Glass-Steagall Act?", 
       "district": "CA_48", 
-      "created": "2013-08-09T08:10:51", 
+      "created": "2013-08-09T08:11:16", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 33.621, 
       "x": -117.932, 
-      "id": 16269686, 
-      "question_id": "16172266"
+      "id": 16269691, 
+      "question_id": "16201467"
     }, 
     {
       "city": "San Diego", 
       "first_name": "IRMA", 
       "last_name": "CAMARILLO", 
       "user_id": 226704, 
-      "submission": "ALEC is taking over state legislation in republican states.  Will you keep constituents informed as to members of ALEC in the state governments?", 
+      "submission": "In 2006, the lame-duck GOP congress enacted a bill forcing the U.S.Postal service to fully fund pensions for the next 75 years and do it in ten years. It's a bill that was designed to ruin the USPS so it could be privatized. Will you work to repeal this onerous bill and introduce legislation to allow the USPS to compete with private carriers?", 
       "district": "CA_53", 
-      "created": "2013-08-09T08:10:27", 
+      "created": "2013-08-09T08:11:07", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 32.6757, 
       "x": -117.05, 
-      "id": 16269683, 
-      "question_id": "16173111"
+      "id": 16269689, 
+      "question_id": "16206983"
     }, 
     {
       "city": "Tryon", 
@@ -301,25 +316,6 @@ opendebate.processTimeline({
       "x": -92.3457, 
       "id": 16267553, 
       "question_id": "16199637"
-    }, 
-    {
-      "city": "Durango", 
-      "first_name": "shauna", 
-      "last_name": "urban", 
-      "user_id": 1675213, 
-      "submission": "Why is it that Congress continues to get great health care and time off, yet those on the right, don't want the same for all Americans? What can and will you do, to advocate for the middle class and poor? ", 
-      "district": "CO_03", 
-      "created": "2013-08-09T07:20:33", 
-      "state_votes": 0, 
-      "votes": 1, 
-      "district_votes": 0, 
-      "state": "CO", 
-      "iface": "timeline_question", 
-      "y": 37.2758, 
-      "x": -107.877, 
-      "latest_vote": "2013-08-09T07:30:46", 
-      "id": 16267533, 
-      "trending_score": 1.5
     }
   ]
 });
