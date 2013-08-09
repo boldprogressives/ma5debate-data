@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Detroit", 
+      "first_name": "Daniel", 
+      "last_name": "Sarasin", 
+      "user_id": 1487238, 
+      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
+      "district": "MI_13", 
+      "created": "2013-08-09T22:47:53", 
+      "state": "MI", 
+      "iface": "timeline_vote", 
+      "y": 42.3801, 
+      "x": -83.0518, 
+      "id": 16287538, 
+      "question_id": "16172207"
+    }, 
+    {
       "city": "Eaton", 
       "first_name": "Chris", 
       "last_name": "Baker", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -84.6711, 
       "id": 16287533, 
       "question_id": "16184803"
-    }, 
-    {
-      "city": "Detroit", 
-      "first_name": "Daniel", 
-      "last_name": "Sarasin", 
-      "user_id": 1487238, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "MI_13", 
-      "created": "2013-08-09T22:46:33", 
-      "state": "MI", 
-      "iface": "timeline_vote", 
-      "y": 42.3801, 
-      "x": -83.0518, 
-      "id": 16287523, 
-      "question_id": "16172777"
     }, 
     {
       "city": "Greenville", 
