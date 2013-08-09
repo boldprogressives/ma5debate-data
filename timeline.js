@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dominique", 
       "last_name": "Spurling", 
       "user_id": 339493, 
-      "submission": "Why don't we change the lobbying rules so that we do not have a system that legalizes bribery, and why do we not reform the filibuster so congress does not have an excuse to continue doing nothing ?", 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
       "district": "NV_03", 
-      "created": "2013-08-09T07:24:52", 
+      "created": "2013-08-09T07:26:00", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 35.9778, 
       "x": -114.836, 
-      "id": 16267570, 
-      "question_id": "16174072"
+      "id": 16267575, 
+      "question_id": "16172755"
     }, 
     {
       "city": "Medford", 
