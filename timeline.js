@@ -6,15 +6,34 @@ opendebate.processTimeline({
       "first_name": "Vera", 
       "last_name": "Morgan", 
       "user_id": 1012008, 
-      "submission": "Do you support expanding social security benefits so that seniors would receive between $400 and $800 more a year? ", 
+      "submission": "Why is it that poor criminals go to jail (and deprived of their freedom) and rich criminals only get fined?", 
       "district": "NC_04", 
-      "created": "2013-08-09T12:38:59", 
+      "created": "2013-08-09T12:40:02", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.0577, 
       "x": -79.0035, 
-      "id": 16272209, 
-      "question_id": "16170105"
+      "id": 16272215, 
+      "question_id": "16173154"
+    }, 
+    {
+      "city": "West Warwick", 
+      "first_name": "Richard", 
+      "last_name": "Cook", 
+      "user_id": 631551, 
+      "submission": "Why should the U.S.- representing only 5 % of the world's population- have to have a military budget equal to the other 95 % of the world's population (i.e. as it is now) ?  Isn't that out of balance and \"unsustainable\"?", 
+      "district": "RI_02", 
+      "created": "2013-08-09T12:39:38", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "RI", 
+      "iface": "timeline_question", 
+      "y": 41.692, 
+      "x": -71.5163, 
+      "latest_vote": null, 
+      "id": 16272211, 
+      "trending_score": 0.5
     }, 
     {
       "city": "Lyons", 
@@ -301,21 +320,6 @@ opendebate.processTimeline({
       "x": -77.4386, 
       "id": 16271929, 
       "question_id": "16181276"
-    }, 
-    {
-      "city": "Cedar Rapids", 
-      "first_name": "James", 
-      "last_name": "Moriarty", 
-      "user_id": 356058, 
-      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
-      "district": "IA_01", 
-      "created": "2013-08-09T12:13:49", 
-      "state": "IA", 
-      "iface": "timeline_vote", 
-      "y": 42.0208, 
-      "x": -91.6699, 
-      "id": 16271913, 
-      "question_id": "16173259"
     }
   ]
 });
