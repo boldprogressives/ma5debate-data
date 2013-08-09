@@ -6,30 +6,45 @@ opendebate.processTimeline({
       "first_name": "Mary", 
       "last_name": "Webb", 
       "user_id": 1783551, 
-      "submission": "What would you do to stop the unbridled takeover of American resources by Corporate America.", 
+      "submission": "Would you vote to overturn Citizens United?", 
       "district": "OH_15", 
-      "created": "2013-08-09T14:17:00", 
+      "created": "2013-08-09T14:17:57", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 39.601, 
       "x": -83.1221, 
-      "id": 16275439, 
-      "question_id": "16174109"
+      "id": 16275461, 
+      "question_id": "16185125"
+    }, 
+    {
+      "city": "Imperial", 
+      "first_name": "Joy", 
+      "last_name": "Randolph", 
+      "user_id": 668600, 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "district": "MO_03", 
+      "created": "2013-08-09T14:17:57", 
+      "state": "MO", 
+      "iface": "timeline_vote", 
+      "y": 38.3907, 
+      "x": -90.422, 
+      "id": 16275462, 
+      "question_id": "16172755"
     }, 
     {
       "city": "Hitchcock", 
       "first_name": "MEL D", 
       "last_name": "COBBS JR", 
       "user_id": 1662733, 
-      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
+      "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
       "district": "TX_14", 
-      "created": "2013-08-09T14:16:49", 
+      "created": "2013-08-09T14:17:54", 
       "state": "TX", 
       "iface": "timeline_vote", 
       "y": 29.3425, 
       "x": -95.001, 
-      "id": 16275437, 
-      "question_id": "16172207"
+      "id": 16275460, 
+      "question_id": "16173320"
     }, 
     {
       "city": "Fresno", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -122.324, 
       "id": 16275039, 
       "question_id": "16172765"
-    }, 
-    {
-      "city": "Huntsville", 
-      "first_name": "Nancy Schramm", 
-      "last_name": "", 
-      "user_id": 1774156, 
-      "submission": "Would you support a ban on Congresspersons accepting jobs as corporate lobbyists for at least ten years after leaving Congress?", 
-      "district": "AL_05", 
-      "created": "2013-08-09T13:58:59", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 34.7252, 
-      "x": -86.5663, 
-      "id": 16275019, 
-      "question_id": "16178177"
     }
   ]
 });
