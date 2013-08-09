@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Nashville", 
+      "first_name": "D. S.", 
+      "last_name": "Kinzie", 
+      "user_id": 88880, 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
+      "district": "TN_05", 
+      "created": "2013-08-09T10:27:58", 
+      "state": "TN", 
+      "iface": "timeline_vote", 
+      "y": 36.1088, 
+      "x": -86.7806, 
+      "id": 16270879, 
+      "question_id": "16202059"
+    }, 
+    {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "where is the accountability? we are lied into war, our lawmakers are obviously involved in insider trading on Wall Street ,the average American is working two jobs to barely survive ,while presidents and CEOs in corporate America make more than they ever have any history of man ,yet God forbid if you're walking down the street with a rock of crack cocaine in your pocket you go directly to jail what's up with that? ", 
+      "submission": "Why is Social Security referred to by many elected Representatives and Senators in Washington as an \"entitlement\" when, first, we all pay or paid into it during all of our working years, and second, by law, normal tax revenue can not be used to fund It?  Is it because the government has used up all the money paid into Social Security over the years, and so that now the government has to raise more money to pay Social Security's current obligations?", 
       "district": "MA_04", 
-      "created": "2013-08-09T10:27:00", 
+      "created": "2013-08-09T10:27:35", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270871, 
-      "question_id": "16172661"
+      "id": 16270875, 
+      "question_id": "16180456"
     }, 
     {
       "city": "Raleigh", 
       "first_name": "John", 
       "last_name": "Wilson", 
       "user_id": 64411, 
-      "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
+      "submission": "What will you do to ensure that all Americans have access to the voting booth and what will you do to get money out of our elections so that we all have an equal voice?", 
       "district": "NC_04", 
-      "created": "2013-08-09T10:26:52", 
+      "created": "2013-08-09T10:27:32", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.7927, 
       "x": -78.6911, 
-      "id": 16270870, 
-      "question_id": "16175500"
+      "id": 16270873, 
+      "question_id": "16205834"
     }, 
     {
       "city": "Golden", 
@@ -45,21 +60,6 @@ opendebate.processTimeline({
       "x": -105.251, 
       "id": 16270869, 
       "question_id": "16208136"
-    }, 
-    {
-      "city": "Nashville", 
-      "first_name": "D. S.", 
-      "last_name": "Kinzie", 
-      "user_id": 88880, 
-      "submission": "Why has NOT ONE politician accepted a pay cut, no benefits, and retirement cut for the PART TIME work that they do horribly and for the mess they themselves created???", 
-      "district": "TN_05", 
-      "created": "2013-08-09T10:26:33", 
-      "state": "TN", 
-      "iface": "timeline_vote", 
-      "y": 36.1088, 
-      "x": -86.7806, 
-      "id": 16270867, 
-      "question_id": "16192769"
     }, 
     {
       "city": "Rockport", 
