@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Thousand Oaks", 
+      "first_name": "Donald", 
+      "last_name": "Parker", 
+      "user_id": 1780183, 
+      "submission": "Will you work to support Elizabeth Warren's efforts to revise Glass-Steagall", 
+      "district": "CA_26", 
+      "created": "2013-08-09T13:58:59", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 34.1929, 
+      "x": -118.823, 
+      "id": 16275018, 
+      "question_id": "16265543"
+    }, 
+    {
       "city": "Huntsville", 
       "first_name": "Nancy Schramm", 
       "last_name": "", 
       "user_id": 1774156, 
-      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
+      "submission": "Would you support a ban on Congresspersons accepting jobs as corporate lobbyists for at least ten years after leaving Congress?", 
       "district": "AL_05", 
-      "created": "2013-08-09T13:58:00", 
+      "created": "2013-08-09T13:58:59", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 34.7252, 
       "x": -86.5663, 
-      "id": 16274963, 
-      "question_id": "16202059"
+      "id": 16275019, 
+      "question_id": "16178177"
     }, 
     {
       "city": "Mount Vernon", 
       "first_name": "Katherine", 
       "last_name": "Hull", 
       "user_id": 1636007, 
-      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
+      "submission": "Do you support the concept of keeping church and state separate?", 
       "district": "WA_01", 
-      "created": "2013-08-09T13:57:56", 
+      "created": "2013-08-09T13:58:51", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 48.4071, 
       "x": -122.324, 
-      "id": 16274958, 
-      "question_id": "16172731"
+      "id": 16275010, 
+      "question_id": "16173921"
     }, 
     {
       "city": "Lafayette", 
@@ -135,21 +150,6 @@ opendebate.processTimeline({
       "x": -87.7291, 
       "id": 16274752, 
       "question_id": "16175740"
-    }, 
-    {
-      "city": "Thousand Oaks", 
-      "first_name": "Donald", 
-      "last_name": "Parker", 
-      "user_id": 1780183, 
-      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
-      "district": "CA_26", 
-      "created": "2013-08-09T13:54:19", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 34.1929, 
-      "x": -118.823, 
-      "id": 16274746, 
-      "question_id": "16203676"
     }, 
     {
       "city": "San Anselmo", 
