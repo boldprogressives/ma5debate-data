@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "llynn", 
       "last_name": "manzione", 
       "user_id": 698396, 
-      "submission": "What will you do to stop coal mining by mountain top removal?", 
+      "submission": "Will you vote to end subsides on sugar, corn syrup, etc. that contribute to  obesity?", 
       "district": "GA_09", 
-      "created": "2013-08-09T13:41:59", 
+      "created": "2013-08-09T13:42:55", 
       "state": "GA", 
       "iface": "timeline_vote", 
       "y": 33.9924, 
       "x": -83.4167, 
-      "id": 16273283, 
-      "question_id": "16178298"
+      "id": 16273298, 
+      "question_id": "16174330"
     }, 
     {
       "city": "Vermillion", 
