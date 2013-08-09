@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Arlington", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810372, 
+      "submission": "Will you support immigration reform with a path to citizenship ?", 
+      "district": "MA_05", 
+      "created": "2013-08-09T22:05:48", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4207, 
+      "x": -71.1582, 
+      "id": 16286916, 
+      "question_id": "16172648"
+    }, 
+    {
       "city": "Kansas City", 
       "first_name": "Sandra", 
       "last_name": "Singleton", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -71.2338, 
       "id": 16286259, 
       "question_id": "16203676"
-    }, 
-    {
-      "city": "Wilton", 
-      "first_name": "Sharyn", 
-      "last_name": "Lawler", 
-      "user_id": 558617, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
-      "district": "NH_02", 
-      "created": "2013-08-09T21:27:30", 
-      "state": "NH", 
-      "iface": "timeline_vote", 
-      "y": 42.8379, 
-      "x": -71.7437, 
-      "id": 16286221, 
-      "question_id": "16172533"
     }
   ]
 });
