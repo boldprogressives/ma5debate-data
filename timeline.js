@@ -6,30 +6,45 @@ opendebate.processTimeline({
       "first_name": "Sam", 
       "last_name": "Massarella", 
       "user_id": 714003, 
-      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "submission": "Would you support a ban on Congresspersons accepting jobs as corporate lobbyists for at least ten years after leaving Congress?", 
       "district": "CA_36", 
-      "created": "2013-08-09T21:37:02", 
+      "created": "2013-08-09T21:38:02", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 33.8225, 
       "x": -116.463, 
-      "id": 16286631, 
-      "question_id": "16172303"
+      "id": 16286646, 
+      "question_id": "16178177"
     }, 
     {
       "city": "Kansas City", 
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "What incentives could you or would you give corporations to stop shipping jobs overseas, so our citizens can once again believe in the American dream!", 
+      "submission": "I would like to see you live on what we get. Think about that when you vote!!!!", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:36:26", 
+      "created": "2013-08-09T21:37:57", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286627, 
-      "question_id": "16183435"
+      "id": 16286645, 
+      "question_id": "16222978"
+    }, 
+    {
+      "city": "Seattle", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810365, 
+      "submission": "Would you support the proposition that Big Oil should help to fund the veterans rehab issues, and their benefits since they were sent to fight for their safe access to oil.", 
+      "district": "WA_07", 
+      "created": "2013-08-09T21:37:34", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 47.6047, 
+      "x": -122.326, 
+      "id": 16286637, 
+      "question_id": "16173438"
     }, 
     {
       "city": "Mount Angel", 
@@ -293,25 +308,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16286064, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Windham", 
-      "first_name": "Thomas", 
-      "last_name": "Peterson", 
-      "user_id": 54627, 
-      "submission": "If job creation, the economy, our environment, energy costs, and a concept that pays for itself is important to you, will you support making our new & existing homes more energy efficient?", 
-      "district": "ME_01", 
-      "created": "2013-08-09T21:15:18", 
-      "state_votes": 0, 
-      "votes": 1, 
-      "district_votes": 0, 
-      "state": "ME", 
-      "iface": "timeline_question", 
-      "y": 43.8081, 
-      "x": -70.4209, 
-      "latest_vote": "2013-08-09T21:18:19", 
-      "id": 16286055, 
-      "trending_score": 1.5
     }
   ]
 });
