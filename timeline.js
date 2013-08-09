@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Day", 
       "last_name": "Jolliff", 
       "user_id": 1785674, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
       "district": "AZ_06", 
-      "created": "2013-08-09T22:06:58", 
+      "created": "2013-08-09T22:08:01", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 33.609, 
       "x": -111.73, 
-      "id": 16286928, 
-      "question_id": "16172266"
+      "id": 16286937, 
+      "question_id": "16172533"
     }, 
     {
       "city": "Kansas City", 
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "Do you support the concept that money is not speech, it is property, and its use to influence elections can be controlled by Congress and the state legislatures?", 
+      "submission": "Who are you for?The middle class,? or keeping the 1% happy!!", 
       "district": "MO_06", 
-      "created": "2013-08-09T22:06:57", 
+      "created": "2013-08-09T22:07:48", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286927, 
-      "question_id": "16192567"
+      "id": 16286936, 
+      "question_id": "16193281"
     }, 
     {
       "city": "Arlington", 
