@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "What, specifically, would you do to protect the right to vote for all? Please address specifically a new Voting Rights Act and the concept of a paper ballot that can be verified by the voter.", 
+      "submission": "\"Will you pledge to support and work toward overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend?\" ", 
       "district": "NM_03", 
-      "created": "2013-08-09T23:10:56", 
+      "created": "2013-08-09T23:11:34", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16287694, 
-      "question_id": "16207107"
+      "id": 16287702, 
+      "question_id": "16255209"
     }, 
     {
       "city": "Ocala", 
       "first_name": "Richard", 
       "last_name": "Barstow", 
       "user_id": 44028, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
       "district": "FL_11", 
-      "created": "2013-08-09T23:10:40", 
+      "created": "2013-08-09T23:11:29", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 29.1562, 
       "x": -82.196, 
-      "id": 16287688, 
-      "question_id": "16172281"
+      "id": 16287701, 
+      "question_id": "16180998"
     }, 
     {
       "city": "Castle Rock", 
