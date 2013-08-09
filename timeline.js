@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Violet", 
       "last_name": "Sunderland", 
       "user_id": 986238, 
-      "submission": "Will you make it your highest priority to prosecute the bankers who brought about the financial crisis and force them to pay back the billions they stole from us as well as confining them to long prison terms?", 
+      "submission": "Will you protect Social Security And Medicare by not cutting it with the chained CPI for Social Security that has been mentioned.  Also, no cuts to Medicare but closing the donute hole 100% so seniors aren't left fending for themselves to pay full price for their drugs.", 
       "district": "OR_05", 
-      "created": "2013-08-09T07:11:54", 
+      "created": "2013-08-09T07:12:44", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 44.9222, 
       "x": -123.327, 
-      "id": 16267453, 
-      "question_id": "16176917"
+      "id": 16267461, 
+      "question_id": "16175570"
+    }, 
+    {
+      "city": "Tryon", 
+      "first_name": "Murlel", 
+      "last_name": "Lunsford", 
+      "user_id": 1656934, 
+      "submission": "Do you think there should be a separation of corporations and state similar to the separation of church and state? If so, what specific actions would you take to get money out of politics?", 
+      "district": "NC_10", 
+      "created": "2013-08-09T07:12:10", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.2172, 
+      "x": -82.2262, 
+      "id": 16267456, 
+      "question_id": "16206519"
     }, 
     {
       "city": "Henderson", 
@@ -34,21 +49,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16267450, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Tryon", 
-      "first_name": "Murlel", 
-      "last_name": "Lunsford", 
-      "user_id": 1656934, 
-      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
-      "district": "NC_10", 
-      "created": "2013-08-09T07:10:35", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.2172, 
-      "x": -82.2262, 
-      "id": 16267446, 
-      "question_id": "16173335"
     }, 
     {
       "city": "Suffern", 
@@ -243,15 +243,15 @@ opendebate.processTimeline({
       "district": "NV_03", 
       "created": "2013-08-09T06:51:00", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "district_votes": 0, 
       "state": "NV", 
       "iface": "timeline_question", 
       "y": 36.0401, 
       "x": -115.077, 
-      "latest_vote": "2013-08-09T07:11:59", 
+      "latest_vote": "2013-08-09T07:12:44", 
       "id": 16267196, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Burnsville", 
