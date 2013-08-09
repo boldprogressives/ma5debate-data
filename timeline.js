@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Jo-Anne", 
       "last_name": "Perkinson", 
       "user_id": 1773418, 
-      "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
+      "submission": "Would you support the pardoning of all victimless crime marijuana (Cannabis) offenders? Depopulating our For Profit Prisons?", 
       "district": "PA_07", 
-      "created": "2013-08-09T16:12:01", 
+      "created": "2013-08-09T16:12:57", 
       "state": "PA", 
       "iface": "timeline_vote", 
       "y": 39.9832, 
       "x": -75.4127, 
-      "id": 16278953, 
-      "question_id": "16175500"
+      "id": 16278965, 
+      "question_id": "16208291"
     }, 
     {
       "city": "Jamaica Plain", 
       "first_name": "Carolyn", 
       "last_name": "Nikkal", 
       "user_id": 994541, 
-      "submission": "How can we get rid of supreme court judges who lied to get the job,i,e\",I won't legislate from the bench or trash settled law\"? Or judges who do not follow the ethics of the lower courts and sit in on cases their wife have vested and loud interest in. ", 
+      "submission": "The drug war and the prison industry has destroyed many lives -- especially of low income and minority citizens. As a first step, marijuana needs to be legalized nation-wide. What will you do toward that end?", 
       "district": "MA_08", 
-      "created": "2013-08-09T16:11:54", 
+      "created": "2013-08-09T16:12:54", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2947, 
       "x": -71.1305, 
-      "id": 16278952, 
-      "question_id": "16207233"
+      "id": 16278961, 
+      "question_id": "16173418"
     }, 
     {
       "city": "Madison", 
