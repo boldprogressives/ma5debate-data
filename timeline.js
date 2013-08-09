@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Barnum", 
-      "first_name": "James", 
-      "last_name": "Korioth", 
-      "user_id": 1693318, 
-      "submission": "How will you support the dignity and freedom of women to make medical decisions with their health care providers without interference of federal and state laws?", 
-      "district": "MN_08", 
-      "created": "2013-08-09T13:39:44", 
-      "state": "MN", 
+      "city": "Vermillion", 
+      "first_name": "Cindy", 
+      "last_name": "Kirkeby", 
+      "user_id": 1784530, 
+      "submission": "Would you support a moratorium on all natural gas exploration in particular \u2018fracking\u2019 until a thorough and unbiased examination and study on the over 10,000 existing gas wells is completed to determine the actual safety of the extraction techniques and materials including an environmental impact study of long term effects?", 
+      "district": "SD_01", 
+      "created": "2013-08-09T13:40:58", 
+      "state": "SD", 
       "iface": "timeline_vote", 
-      "y": 46.5765, 
-      "x": -92.7179, 
-      "id": 16273250, 
-      "question_id": "16183415"
+      "y": 42.7812, 
+      "x": -96.9244, 
+      "id": 16273271, 
+      "question_id": "16223490"
     }, 
     {
       "city": "Athens", 
       "first_name": "llynn", 
       "last_name": "manzione", 
       "user_id": 698396, 
-      "submission": "What will you do to counteract the rampant income inequality that coddles the wealthy, relegates the poor to economic slavery and makes a mockery of the public good?", 
+      "submission": "Many seniors still can't get health care they need to have a healthy and happy life. Co-pay of 20percent isn't affordable on social security. Many states put obstacles in way of Medicaid. What can you do to address this situation??", 
       "district": "GA_09", 
-      "created": "2013-08-09T13:39:43", 
+      "created": "2013-08-09T13:40:45", 
       "state": "GA", 
       "iface": "timeline_vote", 
       "y": 33.9924, 
       "x": -83.4167, 
-      "id": 16273249, 
-      "question_id": "16225362"
+      "id": 16273269, 
+      "question_id": "16182493"
+    }, 
+    {
+      "city": "Barnum", 
+      "first_name": "James", 
+      "last_name": "Korioth", 
+      "user_id": 1693318, 
+      "submission": "Do you support the labeling of GMOs and if so, what do you intend to do to promote people's right to know what is in their food?", 
+      "district": "MN_08", 
+      "created": "2013-08-09T13:40:25", 
+      "state": "MN", 
+      "iface": "timeline_vote", 
+      "y": 46.5765, 
+      "x": -92.7179, 
+      "id": 16273262, 
+      "question_id": "16176001"
     }, 
     {
       "city": "Mullens", 
@@ -300,21 +315,6 @@ opendebate.processTimeline({
       "y": 32.2156, 
       "x": -110.882, 
       "id": 16273035, 
-      "question_id": "16172777"
-    }, 
-    {
-      "city": "Cambridge", 
-      "first_name": "Robert", 
-      "last_name": "Petersen", 
-      "user_id": 341127, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "MA_05", 
-      "created": "2013-08-09T13:30:54", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3775, 
-      "x": -71.1312, 
-      "id": 16273032, 
       "question_id": "16172777"
     }
   ]
