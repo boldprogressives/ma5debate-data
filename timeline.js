@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Sudbury", 
-      "first_name": "Judith", 
-      "last_name": "Deutsch", 
-      "user_id": 745688, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
-      "district": "MA_05", 
-      "created": "2013-08-09T11:29:56", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.383, 
-      "x": -71.4277, 
-      "id": 16271384, 
-      "question_id": "16172913"
-    }, 
-    {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "A proposal hasbeen made to privitize the water supply.  Where do you stand on this, and what actions do you plan to address the proposal?", 
+      "submission": "What will you do to resolve the omissions and distortions in official statements regarding the Boston Marathon attack, as documented at globalresearch.ca? ($10 says this question gets buried.)", 
       "district": "MA_04", 
-      "created": "2013-08-09T11:29:45", 
+      "created": "2013-08-09T11:30:40", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16271382, 
-      "question_id": "16177841"
+      "id": 16271389, 
+      "question_id": "16210153"
+    }, 
+    {
+      "city": "Sudbury", 
+      "first_name": "Judith", 
+      "last_name": "Deutsch", 
+      "user_id": 745688, 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "district": "MA_05", 
+      "created": "2013-08-09T11:30:16", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.383, 
+      "x": -71.4277, 
+      "id": 16271388, 
+      "question_id": "16173335"
     }, 
     {
       "city": "Amherst", 
