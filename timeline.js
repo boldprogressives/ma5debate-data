@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Ellen", 
       "last_name": "Steens", 
       "user_id": 1782363, 
-      "submission": "Would you vote to overturn Citizens United?", 
+      "submission": "Why is there not even ONE mention about possibly repealing the \"Patriot Act\", even though that one law has completely obliterated all of our civil rights that were guaranteed in the Constitution??? All USA laws have become invalid, especially for protecting against oppressive governmental organizations, by simply declaring ANYONE an \"Enemy Combatant\" with no real justification for that declaration. The Constitution was specifically created to design precautions against an oppressive government that already had gone too far (Britain). ", 
       "district": "CA_37", 
-      "created": "2013-08-09T07:39:00", 
+      "created": "2013-08-09T07:39:33", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 34.0277, 
       "x": -118.352, 
-      "id": 16268613, 
-      "question_id": "16185125"
+      "id": 16268785, 
+      "question_id": "16176201"
     }, 
     {
       "city": "Tryon", 
       "first_name": "Murlel", 
       "last_name": "Lunsford", 
       "user_id": 1656934, 
-      "submission": "Do you favor legislation to protect our water, land, and communities from the negative environmental and social impacts of fracking for natural gas?", 
+      "submission": "Why is it that the congress and senate can work part time and do nothing  and get full benefits  full pay when other as the military do not.", 
       "district": "NC_10", 
-      "created": "2013-08-09T07:38:56", 
+      "created": "2013-08-09T07:39:11", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.2172, 
       "x": -82.2262, 
-      "id": 16268593, 
-      "question_id": "16204423"
+      "id": 16268674, 
+      "question_id": "16176482"
     }, 
     {
       "city": "Charlotte", 
