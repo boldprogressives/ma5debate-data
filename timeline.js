@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Do you think there should be a separation of corporations and state similar to the separation of church and state? If so, what specific actions would you take to get money out of politics?", 
+      "submission": "Will you actively support and promote the proposal for a Constitution Amendment protecting the right to vote?  (see freetovote.org)", 
       "district": "MA_04", 
-      "created": "2013-08-09T10:47:59", 
+      "created": "2013-08-09T10:48:56", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16271032, 
-      "question_id": "16206519"
+      "id": 16271039, 
+      "question_id": "16185403"
     }, 
     {
       "city": "Nashville", 
       "first_name": "D. S.", 
       "last_name": "Kinzie", 
       "user_id": 88880, 
-      "submission": "Why not raise the cap on Social Security? What will the effect of chained CPI on income for seniors who depend on it?", 
+      "submission": "What will you do to counteract the rampant income inequality that coddles the wealthy, relegates the poor to economic slavery and makes a mockery of the public good?", 
       "district": "TN_05", 
-      "created": "2013-08-09T10:47:39", 
+      "created": "2013-08-09T10:48:55", 
       "state": "TN", 
       "iface": "timeline_vote", 
       "y": 36.1088, 
       "x": -86.7806, 
-      "id": 16271031, 
-      "question_id": "16224524"
+      "id": 16271038, 
+      "question_id": "16225362"
     }, 
     {
       "city": "Fleetwood", 
