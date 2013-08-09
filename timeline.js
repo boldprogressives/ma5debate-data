@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Santa Fe", 
+      "first_name": "Victoria", 
+      "last_name": "Scott", 
+      "user_id": 1708295, 
+      "submission": "Do you support a financial transaction tax?", 
+      "district": "NM_03", 
+      "created": "2013-08-09T08:26:33", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 35.6768, 
+      "x": -105.958, 
+      "id": 16269909, 
+      "question_id": "16174331"
+    }, 
+    {
       "city": "Tryon", 
       "first_name": "Murlel", 
       "last_name": "Lunsford", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -82.2262, 
       "id": 16269893, 
       "question_id": "16182734"
-    }, 
-    {
-      "city": "Santa Fe", 
-      "first_name": "Victoria", 
-      "last_name": "Scott", 
-      "user_id": 1708295, 
-      "submission": "Should the US be investing more in education? If so, what should we invest in (pre-school, public universities, technology upgrades for high schools, etc.) and how should we pay for it?", 
-      "district": "NM_03", 
-      "created": "2013-08-09T08:25:50", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 35.6768, 
-      "x": -105.958, 
-      "id": 16269886, 
-      "question_id": "16172172"
     }, 
     {
       "city": "New York", 
