@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "royce", 
       "last_name": "hohn", 
       "user_id": 1141717, 
-      "submission": "What would you do to create criminal indictments of these corporate polluters of our water, air and food or the corporate thieves of our housing, pensions and futures? Will you uphold the constitution and DEMAND JUSTICE.", 
+      "submission": "Do elected Republicans in Congress do more damage to America than any, \"Terrorist\" effort could ever hope to achieve?", 
       "district": "NC_11", 
-      "created": "2013-08-09T09:22:00", 
+      "created": "2013-08-09T09:22:48", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 36.0328, 
       "x": -81.9544, 
-      "id": 16270209, 
-      "question_id": "16207548"
+      "id": 16270215, 
+      "question_id": "16229458"
     }, 
     {
       "city": "Meadow Vista", 
