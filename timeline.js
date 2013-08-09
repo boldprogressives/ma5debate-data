@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "When those of us who have spoken out about 9/11 and have been terrorized for years by the NSA start taking the law into our own hands and start executing traitors, terrorists and mass murderers in government, where are you going to hide?", 
+      "submission": "Why don't we change the lobbying rules so that we do not have a system that legalizes bribery, and why do we not reform the filibuster so congress does not have an excuse to continue doing nothing ?", 
       "district": "MA_04", 
-      "created": "2013-08-09T09:38:31", 
+      "created": "2013-08-09T09:39:42", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270362, 
-      "question_id": "16267196"
+      "id": 16270369, 
+      "question_id": "16174072"
+    }, 
+    {
+      "city": "East Orange", 
+      "first_name": "Sunni", 
+      "last_name": "Ali", 
+      "user_id": 1678663, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "NJ_10", 
+      "created": "2013-08-09T09:39:17", 
+      "state": "NJ", 
+      "iface": "timeline_vote", 
+      "y": 40.772, 
+      "x": -74.2095, 
+      "id": 16270367, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Eugene", 
@@ -300,21 +315,6 @@ opendebate.processTimeline({
       "y": 41.4988, 
       "x": -81.5546, 
       "id": 16270031, 
-      "question_id": "16199637"
-    }, 
-    {
-      "city": "Vacaville", 
-      "first_name": "Judy", 
-      "last_name": "Elliott", 
-      "user_id": 165828, 
-      "submission": "Are you going to stand up to the NRA, to stop our young and innocent, from being murdered?", 
-      "district": "CA_03", 
-      "created": "2013-08-09T08:45:22", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 38.3462, 
-      "x": -121.954, 
-      "id": 16270011, 
       "question_id": "16199637"
     }
   ]
