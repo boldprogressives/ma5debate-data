@@ -1158,7 +1158,7 @@ opendebate.processFetchedQuestions({
       "x": -122.811, 
       "latest_vote": "2013-08-09T11:28:22", 
       "id": 16260903, 
-      "trending_score": 2.1666666666666665
+      "trending_score": 2.25
     }, 
     {
       "city": "Columbus", 
@@ -1557,7 +1557,7 @@ opendebate.processFetchedQuestions({
       "x": -82.4501, 
       "latest_vote": "2013-08-09T13:32:37", 
       "id": 16256690, 
-      "trending_score": 3.8333333333333335
+      "trending_score": 4.0
     }, 
     {
       "city": "Jacksonville", 
@@ -1576,7 +1576,7 @@ opendebate.processFetchedQuestions({
       "x": -81.73, 
       "latest_vote": "2013-08-09T10:21:42", 
       "id": 16256688, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Jacksonville", 
@@ -4179,7 +4179,7 @@ opendebate.processFetchedQuestions({
       "x": -73.4093, 
       "latest_vote": "2013-08-09T10:36:04", 
       "id": 16236054, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Chippewa Falls", 
@@ -4540,7 +4540,7 @@ opendebate.processFetchedQuestions({
       "x": -75.1731, 
       "latest_vote": "2013-08-09T13:28:56", 
       "id": 16234459, 
-      "trending_score": 5.5
+      "trending_score": 3.0
     }, 
     {
       "city": "Clarkston", 
@@ -11874,7 +11874,7 @@ opendebate.processFetchedQuestions({
       "x": -82.822, 
       "latest_vote": "2013-08-09T07:48:42", 
       "id": 16210777, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Watertown", 
@@ -14249,7 +14249,7 @@ opendebate.processFetchedQuestions({
       "x": -122.074, 
       "latest_vote": "2013-08-09T12:16:02", 
       "id": 16201467, 
-      "trending_score": 2.611111111111111
+      "trending_score": 5.05
     }, 
     {
       "city": "Needham Heights", 
@@ -18733,7 +18733,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1035, 
       "latest_vote": "2013-08-09T12:45:44", 
       "id": 16185403, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "billings", 
@@ -22362,7 +22362,7 @@ opendebate.processFetchedQuestions({
       "x": -106.578, 
       "latest_vote": "2013-08-09T13:36:40", 
       "id": 16178177, 
-      "trending_score": 10.25
+      "trending_score": 10.5
     }, 
     {
       "city": "San Antonio", 
@@ -23635,7 +23635,7 @@ opendebate.processFetchedQuestions({
       "x": -89.4981, 
       "latest_vote": "2013-08-09T12:15:17", 
       "id": 16176313, 
-      "trending_score": 3.0833333333333335
+      "trending_score": 3.1
     }, 
     {
       "city": "Denver", 
@@ -24311,15 +24311,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_08", 
       "created": "2013-08-05T01:44:45", 
       "state_votes": 82, 
-      "votes": 912, 
+      "votes": 913, 
       "district_votes": 32, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.174, 
       "x": -87.9643, 
-      "latest_vote": "2013-08-09T13:46:01", 
+      "latest_vote": "2013-08-09T13:48:28", 
       "id": 16175740, 
-      "trending_score": 50.25
+      "trending_score": 51.25
     }, 
     {
       "city": "Buffalo Grove", 
@@ -26591,15 +26591,15 @@ opendebate.processFetchedQuestions({
       "district": "TN_02", 
       "created": "2013-08-04T02:07:32", 
       "state_votes": 131, 
-      "votes": 951, 
+      "votes": 952, 
       "district_votes": 30, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.8311, 
       "x": -84.0482, 
-      "latest_vote": "2013-08-09T13:36:14", 
+      "latest_vote": "2013-08-09T13:48:46", 
       "id": 16173335, 
-      "trending_score": 41.166666666666664
+      "trending_score": 42.166666666666664
     }, 
     {
       "city": "Evansville", 
@@ -26875,16 +26875,16 @@ opendebate.processFetchedQuestions({
       "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
       "district": "TX_03", 
       "created": "2013-08-04T01:25:59", 
-      "state_votes": 225, 
-      "votes": 1460, 
+      "state_votes": 226, 
+      "votes": 1464, 
       "district_votes": 69, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-09T13:45:27", 
+      "latest_vote": "2013-08-09T13:48:42", 
       "id": 16173264, 
-      "trending_score": 55.25
+      "trending_score": 29.5
     }, 
     {
       "city": "Prosper", 
@@ -27103,16 +27103,16 @@ opendebate.processFetchedQuestions({
       "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
       "district": "TX_10", 
       "created": "2013-08-04T00:59:23", 
-      "state_votes": 174, 
-      "votes": 1151, 
+      "state_votes": 175, 
+      "votes": 1152, 
       "district_votes": 43, 
       "state": "TX", 
       "iface": "question", 
       "y": 30.3972, 
       "x": -97.7518, 
-      "latest_vote": "2013-08-09T13:46:17", 
+      "latest_vote": "2013-08-09T13:48:56", 
       "id": 16173210, 
-      "trending_score": 19.5
+      "trending_score": 20.0
     }, 
     {
       "city": "Cottonwood", 
@@ -27920,16 +27920,16 @@ opendebate.processFetchedQuestions({
       "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
       "district": "IL_02", 
       "created": "2013-08-03T22:27:03", 
-      "state_votes": 181, 
-      "votes": 1331, 
+      "state_votes": 182, 
+      "votes": 1332, 
       "district_votes": 45, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.6267, 
       "x": -87.5959, 
-      "latest_vote": "2013-08-09T13:38:22", 
+      "latest_vote": "2013-08-09T13:48:29", 
       "id": 16172755, 
-      "trending_score": 16.083333333333336
+      "trending_score": 16.416666666666664
     }, 
     {
       "city": "Richardson", 
@@ -27996,16 +27996,16 @@ opendebate.processFetchedQuestions({
       "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
       "district": "IL_02", 
       "created": "2013-08-03T22:20:39", 
-      "state_votes": 162, 
-      "votes": 1346, 
+      "state_votes": 163, 
+      "votes": 1347, 
       "district_votes": 41, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.7162, 
       "x": -87.5544, 
-      "latest_vote": "2013-08-09T13:45:42", 
+      "latest_vote": "2013-08-09T13:48:39", 
       "id": 16172727, 
-      "trending_score": 28.0
+      "trending_score": 28.5
     }, 
     {
       "city": "Waldport", 
@@ -28111,15 +28111,15 @@ opendebate.processFetchedQuestions({
       "district": "ID_02", 
       "created": "2013-08-03T22:11:15", 
       "state_votes": 88, 
-      "votes": 708, 
+      "votes": 709, 
       "district_votes": 22, 
       "state": "ID", 
       "iface": "question", 
       "y": 43.6302, 
       "x": -116.297, 
-      "latest_vote": "2013-08-09T13:44:30", 
+      "latest_vote": "2013-08-09T13:48:36", 
       "id": 16172697, 
-      "trending_score": 42.166666666666664
+      "trending_score": 43.166666666666664
     }, 
     {
       "city": "Holts Summit", 
@@ -28157,7 +28157,7 @@ opendebate.processFetchedQuestions({
       "x": -111.295, 
       "latest_vote": "2013-08-09T13:29:06", 
       "id": 16172694, 
-      "trending_score": 10.633333333333335
+      "trending_score": 7.9
     }, 
     {
       "city": "Eldridge", 
@@ -28509,16 +28509,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
       "district": "MA_05", 
       "created": "2013-08-03T20:45:26", 
-      "state_votes": 194, 
-      "votes": 1161, 
+      "state_votes": 195, 
+      "votes": 1162, 
       "district_votes": 53, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-09T13:44:41", 
+      "latest_vote": "2013-08-09T13:48:22", 
       "id": 16172533, 
-      "trending_score": 35.166666666666664
+      "trending_score": 36.166666666666664
     }, 
     {
       "city": "Medford", 
@@ -28643,15 +28643,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:42:20", 
       "state_votes": 172, 
-      "votes": 1100, 
+      "votes": 1101, 
       "district_votes": 52, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3699, 
       "x": -71.2368, 
-      "latest_vote": "2013-08-09T13:46:55", 
+      "latest_vote": "2013-08-09T13:48:56", 
       "id": 16172281, 
-      "trending_score": 40.25
+      "trending_score": 41.25
     }, 
     {
       "city": "Arlington", 
