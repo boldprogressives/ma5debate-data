@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "San Diego", 
+      "first_name": "IRMA", 
+      "last_name": "CAMARILLO", 
+      "user_id": 226704, 
+      "submission": "How will you support the dignity and freedom of women to make medical decisions with their health care providers without interference of federal and state laws?", 
+      "district": "CA_53", 
+      "created": "2013-08-09T07:57:44", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 32.6757, 
+      "x": -117.05, 
+      "id": 16269589, 
+      "question_id": "16183415"
+    }, 
+    {
       "city": "Riverside", 
       "first_name": "Valerie", 
       "last_name": "Fields", 
       "user_id": 1180132, 
-      "submission": "How do you propose that we can get money out of politics so that the voice and needs  of the people speak louder than the corporations and very wealthy?", 
+      "submission": "What would you do to end the SCOTUS ruling Citizens United & how will you stop the GOP led states enacting extremist voter suppresion?", 
       "district": "CA_41", 
-      "created": "2013-08-09T07:56:56", 
+      "created": "2013-08-09T07:57:30", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 33.9401, 
       "x": -117.362, 
-      "id": 16269580, 
-      "question_id": "16231207"
+      "id": 16269588, 
+      "question_id": "16207073"
     }, 
     {
       "city": "Keaau", 
       "first_name": "Paul", 
       "last_name": "Deeter", 
       "user_id": 1705561, 
-      "submission": "Would you be in favor of Congress and the Senate payingfor heath care like the rest of us,and no pension for life unless you put in 25 years like almost every other American. ", 
+      "submission": "We want reasonable and accountable banking - will you support the requirement for FIDUCIARY responsibility to customers  among all banks?", 
       "district": "HI_02", 
-      "created": "2013-08-09T07:56:52", 
+      "created": "2013-08-09T07:57:24", 
       "state": "HI", 
       "iface": "timeline_vote", 
       "y": 19.5754, 
       "x": -154.962, 
-      "id": 16269578, 
-      "question_id": "16188477"
+      "id": 16269586, 
+      "question_id": "16248929"
     }, 
     {
       "city": "Tryon", 
@@ -60,21 +75,6 @@ opendebate.processTimeline({
       "x": -118.352, 
       "id": 16269574, 
       "question_id": "16244527"
-    }, 
-    {
-      "city": "San Diego", 
-      "first_name": "IRMA", 
-      "last_name": "CAMARILLO", 
-      "user_id": 226704, 
-      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
-      "district": "CA_53", 
-      "created": "2013-08-09T07:54:41", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 32.6757, 
-      "x": -117.05, 
-      "id": 16269550, 
-      "question_id": "16172690"
     }, 
     {
       "city": "Dallas", 
