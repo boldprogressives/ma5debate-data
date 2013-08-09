@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Tryon", 
+      "first_name": "Murlel", 
+      "last_name": "Lunsford", 
+      "user_id": 1656934, 
+      "submission": "Why, when federal employees  are having to take furloughs, and many other Americans are underemployed, are our so-called representatives exempt from the same. If American workers performed as poorly as the DC bunch, they would be fired outright.", 
+      "district": "NC_10", 
+      "created": "2013-08-09T07:08:38", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.2172, 
+      "x": -82.2262, 
+      "id": 16267430, 
+      "question_id": "16173074"
+    }, 
+    {
       "city": "Suffern", 
       "first_name": "Luis M.", 
       "last_name": "Diaz", 
@@ -45,21 +60,6 @@ opendebate.processTimeline({
       "x": -122.333, 
       "id": 16267422, 
       "question_id": "16172207"
-    }, 
-    {
-      "city": "Tryon", 
-      "first_name": "Murlel", 
-      "last_name": "Lunsford", 
-      "user_id": 1656934, 
-      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
-      "district": "NC_10", 
-      "created": "2013-08-09T07:06:33", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.2172, 
-      "x": -82.2262, 
-      "id": 16267415, 
-      "question_id": "16180998"
     }, 
     {
       "city": "Dallas", 
