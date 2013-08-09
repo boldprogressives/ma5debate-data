@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Murlel", 
       "last_name": "Lunsford", 
       "user_id": 1656934, 
-      "submission": "Will you support repairing the unsafe bridges and tunnels in this country?", 
+      "submission": "What kind of campaign finance reform is needed, and how can we get it done?", 
       "district": "NC_10", 
-      "created": "2013-08-09T08:25:02", 
+      "created": "2013-08-09T08:25:59", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.2172, 
       "x": -82.2262, 
-      "id": 16269873, 
-      "question_id": "16217796"
+      "id": 16269893, 
+      "question_id": "16182734"
     }, 
     {
       "city": "Santa Fe", 
       "first_name": "Victoria", 
       "last_name": "Scott", 
       "user_id": 1708295, 
-      "submission": "Would you vote to overturn Citizens United?", 
+      "submission": "Should the US be investing more in education? If so, what should we invest in (pre-school, public universities, technology upgrades for high schools, etc.) and how should we pay for it?", 
       "district": "NM_03", 
-      "created": "2013-08-09T08:24:26", 
+      "created": "2013-08-09T08:25:50", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 35.6768, 
       "x": -105.958, 
-      "id": 16269858, 
-      "question_id": "16185125"
+      "id": 16269886, 
+      "question_id": "16172172"
     }, 
     {
       "city": "New York", 
