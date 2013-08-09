@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Vermillion", 
-      "first_name": "Cindy", 
-      "last_name": "Kirkeby", 
-      "user_id": 1784530, 
-      "submission": "Would you support a moratorium on all natural gas exploration in particular \u2018fracking\u2019 until a thorough and unbiased examination and study on the over 10,000 existing gas wells is completed to determine the actual safety of the extraction techniques and materials including an environmental impact study of long term effects?", 
-      "district": "SD_01", 
-      "created": "2013-08-09T13:40:58", 
-      "state": "SD", 
-      "iface": "timeline_vote", 
-      "y": 42.7812, 
-      "x": -96.9244, 
-      "id": 16273271, 
-      "question_id": "16223490"
-    }, 
-    {
       "city": "Athens", 
       "first_name": "llynn", 
       "last_name": "manzione", 
       "user_id": 698396, 
-      "submission": "Many seniors still can't get health care they need to have a healthy and happy life. Co-pay of 20percent isn't affordable on social security. Many states put obstacles in way of Medicaid. What can you do to address this situation??", 
+      "submission": "What will you do to stop coal mining by mountain top removal?", 
       "district": "GA_09", 
-      "created": "2013-08-09T13:40:45", 
+      "created": "2013-08-09T13:41:59", 
       "state": "GA", 
       "iface": "timeline_vote", 
       "y": 33.9924, 
       "x": -83.4167, 
-      "id": 16273269, 
-      "question_id": "16182493"
+      "id": 16273283, 
+      "question_id": "16178298"
+    }, 
+    {
+      "city": "Vermillion", 
+      "first_name": "Cindy", 
+      "last_name": "Kirkeby", 
+      "user_id": 1784530, 
+      "submission": "Science has proven again and again that many herbicides and pesticides initially approved for agricultural and residential use are highly toxic to the environment.  Would you propose, endorse, and/or support, legislation that imposes statutory time limits on regulatory approvals for all pesticides and herbicides, which triggers a  mandatory environmental impact reassessment every 8 to 10 years without exception and does not allow \"grandfathering\" of any such products that have already approved for use?     ", 
+      "district": "SD_01", 
+      "created": "2013-08-09T13:41:23", 
+      "state": "SD", 
+      "iface": "timeline_vote", 
+      "y": 42.7812, 
+      "x": -96.9244, 
+      "id": 16273279, 
+      "question_id": "16226498"
     }, 
     {
       "city": "Barnum", 
