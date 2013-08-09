@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "How will you help fight corruption due tp the influence of money in congress?", 
+      "submission": "Do you Support or Oppose the Patriot act?", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:21:55", 
+      "created": "2013-08-09T21:22:37", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286148, 
-      "question_id": "16217107"
+      "id": 16286159, 
+      "question_id": "16269769"
     }, 
     {
       "city": "Huntington Station", 
