@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "El Prado", 
+      "first_name": "Sally", 
+      "last_name": "Phelps", 
+      "user_id": 1567108, 
+      "submission": "The sequester just slashed Meals on Wheels, food stamps, Section 8 vouchers for housing for the needy.How come in April, when the sequester hit the commuting congressional members with inconvenienltly long waiting suddenly money was found to eliminate inconveniences. What is your view on congressional priorities affecting the American people ?", 
+      "district": "NM_03", 
+      "created": "2013-08-09T23:54:00", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 36.4486, 
+      "x": -105.575, 
+      "id": 16288521, 
+      "question_id": "16206216"
+    }, 
+    {
       "city": "Henderson", 
       "first_name": "Marcellus", 
       "last_name": "Bracey", 
       "user_id": 1774579, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "submission": "What is your position on INCREASING Social Security benefits?", 
       "district": "NV_03", 
-      "created": "2013-08-09T23:52:58", 
+      "created": "2013-08-09T23:53:54", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 36.0603, 
       "x": -114.957, 
-      "id": 16288504, 
-      "question_id": "16172777"
+      "id": 16288520, 
+      "question_id": "16207967"
     }, 
     {
       "city": "Seattle", 
       "first_name": "Sigrid", 
       "last_name": "Asmus", 
       "user_id": 176478, 
-      "submission": "How will you protect women's rights, especially reproductive rights, against the ongoing efforts to restrict them?", 
+      "submission": "Where do you stand on the issue of GMO food products in the American food supply and the evidence that they are harming the health of Americans while benefiting corporations like Monsanto?", 
       "district": "WA_07", 
-      "created": "2013-08-09T23:52:55", 
+      "created": "2013-08-09T23:53:40", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 47.6498, 
       "x": -122.398, 
-      "id": 16288498, 
-      "question_id": "16186923"
+      "id": 16288517, 
+      "question_id": "16177973"
     }, 
     {
       "city": "Burnsville", 
@@ -45,21 +60,6 @@ opendebate.processTimeline({
       "x": -93.2812, 
       "id": 16288296, 
       "question_id": "16176482"
-    }, 
-    {
-      "city": "El Prado", 
-      "first_name": "Sally", 
-      "last_name": "Phelps", 
-      "user_id": 1567108, 
-      "submission": "when is congress going to make foods containing GMO'S be labeled. so we can choose what we are eating. & how many times  are they going to let MONSANTO keep killing us. ", 
-      "district": "NM_03", 
-      "created": "2013-08-09T23:52:02", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16288279, 
-      "question_id": "16203965"
     }, 
     {
       "city": "Niles", 
