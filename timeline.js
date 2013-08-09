@@ -6,30 +6,45 @@ opendebate.processTimeline({
       "first_name": "Murlel", 
       "last_name": "Lunsford", 
       "user_id": 1656934, 
-      "submission": "Serving in Congress is not a career.  Will you vote for term limits?", 
+      "submission": "Will you fight to protect voting rights of all Americans?", 
       "district": "NC_10", 
-      "created": "2013-08-09T07:18:51", 
+      "created": "2013-08-09T07:19:43", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.2172, 
       "x": -82.2262, 
-      "id": 16267525, 
-      "question_id": "16173323"
+      "id": 16267531, 
+      "question_id": "16201559"
     }, 
     {
       "city": "Dallas", 
       "first_name": "Violet", 
       "last_name": "Sunderland", 
       "user_id": 986238, 
-      "submission": "Why are so many countries banning GMO foods but the US refuses to do so? Why aren't they required to label them as such? ", 
+      "submission": "What will you do to curb the influence of lobbyist and limit campaign spending.  ", 
       "district": "OR_05", 
-      "created": "2013-08-09T07:18:48", 
+      "created": "2013-08-09T07:19:41", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 44.9222, 
       "x": -123.327, 
-      "id": 16267524, 
-      "question_id": "16205646"
+      "id": 16267530, 
+      "question_id": "16201563"
+    }, 
+    {
+      "city": "Medford", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810198, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "MA_05", 
+      "created": "2013-08-09T07:19:07", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4213, 
+      "x": -71.1134, 
+      "id": 16267526, 
+      "question_id": "16172777"
     }, 
     {
       "city": "Durango", 
@@ -305,21 +320,6 @@ opendebate.processTimeline({
       "latest_vote": "2013-08-09T07:17:26", 
       "id": 16267196, 
       "trending_score": 4.5
-    }, 
-    {
-      "city": "Burnsville", 
-      "first_name": "Thomas", 
-      "last_name": "Lichtenstein", 
-      "user_id": 1777333, 
-      "submission": "I was surprised and dimayed you supported the Monsanto Farm Bill. Do you support a communities right to require GMO labeling and to prohibit GMO crops from being planted within pollinating distance of  established Organic Farms?", 
-      "district": "MN_02", 
-      "created": "2013-08-09T06:49:57", 
-      "state": "MN", 
-      "iface": "timeline_vote", 
-      "y": 44.7702, 
-      "x": -93.2812, 
-      "id": 16267186, 
-      "question_id": "16174618"
     }
   ]
 });
