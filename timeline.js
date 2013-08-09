@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Harvey", 
       "last_name": "Berman", 
       "user_id": 174153, 
-      "submission": "Will you stand up to gun lobbyists to support strong measures about gun control or will you shy away from it because it is too hot?", 
+      "submission": "I assume you are for relegalization of marijuana, stopping the idiotic raids on legal medical marijuana facioities, allow taxing o fit... So what would youdo to make this process happen?", 
       "district": "NY_17", 
-      "created": "2013-08-09T09:10:36", 
+      "created": "2013-08-09T09:11:52", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 41.1457, 
       "x": -73.8337, 
-      "id": 16270108, 
-      "question_id": "16187691"
+      "id": 16270120, 
+      "question_id": "16185516"
     }, 
     {
       "city": "Richmond", 
