@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Day", 
       "last_name": "Jolliff", 
       "user_id": 1785674, 
-      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
+      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
       "district": "AZ_06", 
-      "created": "2013-08-09T22:09:58", 
+      "created": "2013-08-09T22:10:57", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 33.609, 
       "x": -111.73, 
-      "id": 16286953, 
-      "question_id": "16172697"
+      "id": 16286956, 
+      "question_id": "16173257"
     }, 
     {
       "city": "Kansas City", 
