@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Memphis", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1632782, 
+      "submission": "Would you support public financing of all political campaigns?", 
+      "district": "TN_08", 
+      "created": "2013-08-09T09:17:48", 
+      "state": "TN", 
+      "iface": "timeline_vote", 
+      "y": 35.2068, 
+      "x": -89.7912, 
+      "id": 16270138, 
+      "question_id": "16200039"
+    }, 
+    {
       "city": "New York", 
       "first_name": "Christiane", 
       "last_name": "Pors", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -73.9961, 
       "id": 16269705, 
       "question_id": "16244527"
-    }, 
-    {
-      "city": "San Diego", 
-      "first_name": "IRMA", 
-      "last_name": "CAMARILLO", 
-      "user_id": 226704, 
-      "submission": "In 2006, the lame-duck GOP congress enacted a bill forcing the U.S.Postal service to fully fund pensions for the next 75 years and do it in ten years. It's a bill that was designed to ruin the USPS so it could be privatized. Will you work to repeal this onerous bill and introduce legislation to allow the USPS to compete with private carriers?", 
-      "district": "CA_53", 
-      "created": "2013-08-09T08:11:07", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 32.6757, 
-      "x": -117.05, 
-      "id": 16269689, 
-      "question_id": "16206983"
     }
   ]
 });
