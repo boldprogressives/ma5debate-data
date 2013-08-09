@@ -2,34 +2,53 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "El Prado", 
-      "first_name": "Sally", 
-      "last_name": "Phelps", 
-      "user_id": 1567108, 
-      "submission": "Where do you stand with regard to GMO labeling. Is it our right as citizens to have complete transparency with regard to the foods we choose to eat. ", 
-      "district": "NM_03", 
-      "created": "2013-08-09T23:03:57", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16287600, 
-      "question_id": "16178048"
-    }, 
-    {
       "city": "Ocala", 
       "first_name": "Richard", 
       "last_name": "Barstow", 
       "user_id": 44028, 
-      "submission": "Where do you stand with regard to GMO labeling. Is it our right as citizens to have complete transparency with regard to the foods we choose to eat. ", 
+      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
       "district": "FL_11", 
-      "created": "2013-08-09T23:03:52", 
+      "created": "2013-08-09T23:04:59", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 29.1562, 
       "x": -82.196, 
-      "id": 16287599, 
-      "question_id": "16178048"
+      "id": 16287612, 
+      "question_id": "16172690"
+    }, 
+    {
+      "city": "Sarasota", 
+      "first_name": "Michael", 
+      "last_name": "B", 
+      "user_id": 1677568, 
+      "submission": "Will you work to end America's disastrous \"war in drugs,\" or at least work to decriminalize marijuana?", 
+      "district": "FL_16", 
+      "created": "2013-08-09T23:04:56", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "FL", 
+      "iface": "timeline_question", 
+      "y": 27.3104, 
+      "x": -82.5178, 
+      "latest_vote": null, 
+      "id": 16287611, 
+      "trending_score": 0.5
+    }, 
+    {
+      "city": "El Prado", 
+      "first_name": "Sally", 
+      "last_name": "Phelps", 
+      "user_id": 1567108, 
+      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
+      "district": "NM_03", 
+      "created": "2013-08-09T23:04:46", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 36.4486, 
+      "x": -105.575, 
+      "id": 16287607, 
+      "question_id": "16180998"
     }, 
     {
       "city": "Cincinnati", 
@@ -293,21 +312,6 @@ opendebate.processTimeline({
       "x": -80.7368, 
       "id": 16287106, 
       "question_id": "16203866"
-    }, 
-    {
-      "city": "Lafayette", 
-      "first_name": "Fred", 
-      "last_name": "Fawcett", 
-      "user_id": 316888, 
-      "submission": "Why has the federal government refused to release the 9/11 photographs of the Pentagon attack?  There are cameras that film 24 hour a day on every square inch of the building.  Why have these photographs been kept from us?  We are allowed to watch the Trade Center being hit so why not the Pentagon?", 
-      "district": "OR_01", 
-      "created": "2013-08-09T22:22:55", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 45.2458, 
-      "x": -123.114, 
-      "id": 16287061, 
-      "question_id": "16217969"
     }
   ]
 });
