@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Detroit", 
+      "first_name": "Daniel", 
+      "last_name": "Sarasin", 
+      "user_id": 1487238, 
+      "submission": "will you pledge to oppose Any cuts to social Security or Medicare?", 
+      "district": "MI_13", 
+      "created": "2013-08-09T22:43:58", 
+      "state": "MI", 
+      "iface": "timeline_vote", 
+      "y": 42.3801, 
+      "x": -83.0518, 
+      "id": 16287231, 
+      "question_id": "16185364"
+    }, 
+    {
+      "city": "Portland", 
+      "first_name": "Betty", 
+      "last_name": "Abadia", 
+      "user_id": 1739858, 
+      "submission": "What is your position on the Keystone XL pipeline and on fracking? Specifically what would you do to stop climate change and move to renewable energy?", 
+      "district": "OR_01", 
+      "created": "2013-08-09T22:43:07", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 45.4087, 
+      "x": -122.789, 
+      "id": 16287170, 
+      "question_id": "16207584"
+    }, 
+    {
       "city": "Newton", 
       "first_name": "Kyle", 
       "last_name": "Baymiller", 
@@ -15,21 +45,6 @@ opendebate.processTimeline({
       "x": -97.3506, 
       "id": 16287169, 
       "question_id": "16172303"
-    }, 
-    {
-      "city": "Detroit", 
-      "first_name": "Daniel", 
-      "last_name": "Sarasin", 
-      "user_id": 1487238, 
-      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
-      "district": "MI_13", 
-      "created": "2013-08-09T22:41:37", 
-      "state": "MI", 
-      "iface": "timeline_vote", 
-      "y": 42.3801, 
-      "x": -83.0518, 
-      "id": 16287168, 
-      "question_id": "16173259"
     }, 
     {
       "city": "Rockledge", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -71.1582, 
       "id": 16286926, 
       "question_id": "16172283"
-    }, 
-    {
-      "city": "Sacramento", 
-      "first_name": "Sharon", 
-      "last_name": "Kilgore", 
-      "user_id": 16631, 
-      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
-      "district": "CA_06", 
-      "created": "2013-08-09T22:03:22", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 38.5697, 
-      "x": -121.438, 
-      "id": 16286905, 
-      "question_id": "16203866"
     }
   ]
 });
