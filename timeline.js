@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Huntington Station", 
+      "first_name": "Rona", 
+      "last_name": "Fried", 
+      "user_id": 1002260, 
+      "submission": "do you support a min wage increase", 
+      "district": "NY_03", 
+      "created": "2013-08-09T21:19:57", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.8174, 
+      "x": -73.3691, 
+      "id": 16286121, 
+      "question_id": "16173625"
+    }, 
+    {
       "city": "Kansas City", 
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "How do you justify our decades long sanctions on Cuba and our normal relationships with the oppressive governments of China, Russia, Bahrain, Saudia  and others?Arabia", 
+      "submission": "Free trade is not fair trade.  What will you do to stop the unfair monetary advantage that enables China to continually eat our lunch?china to become the ", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:18:29", 
+      "created": "2013-08-09T21:19:56", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286098, 
-      "question_id": "16255232"
+      "id": 16286120, 
+      "question_id": "16266093"
     }, 
     {
       "city": "Roslindale", 
@@ -123,15 +138,15 @@ opendebate.processTimeline({
       "district": "ME_01", 
       "created": "2013-08-09T21:10:07", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "ME", 
       "iface": "timeline_question", 
       "y": 43.8081, 
       "x": -70.4209, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-09T21:19:51", 
       "id": 16286007, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Mesa", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "x": -122.655, 
       "id": 16285745, 
       "question_id": "16192223"
-    }, 
-    {
-      "city": "SALT LAKE CITY", 
-      "first_name": "Michael", 
-      "last_name": "Smith", 
-      "user_id": 1243221, 
-      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
-      "district": "UT_04", 
-      "created": "2013-08-09T20:56:54", 
-      "state": "UT", 
-      "iface": "timeline_vote", 
-      "y": 40.6858, 
-      "x": -111.829, 
-      "id": 16285727, 
-      "question_id": "16173259"
     }
   ]
 });
