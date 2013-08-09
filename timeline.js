@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "IRMA", 
       "last_name": "CAMARILLO", 
       "user_id": 226704, 
-      "submission": "What will you do about gun control and the scare tactics/bullying by the NRA and gun lobbyists?  How will you approach the Right's program of 'divisiveness and culture of fear' that now rips us apart?", 
+      "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
       "district": "CA_53", 
-      "created": "2013-08-09T08:07:51", 
+      "created": "2013-08-09T08:08:36", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 32.6757, 
       "x": -117.05, 
-      "id": 16269669, 
-      "question_id": "16176673"
+      "id": 16269672, 
+      "question_id": "16173320"
     }, 
     {
       "city": "New York", 
       "first_name": "Marcus", 
       "last_name": "Adams", 
       "user_id": 526656, 
-      "submission": "What is one topic on which you are willing to compromise? For example, I am a Democrat who is willing to raise the retirement age to 67.", 
+      "submission": "Why are politicians and the media not talking more about getting rid of criminal, corporate welfare versus keeping critical, survival spending programs ? ", 
       "district": "NY_10", 
-      "created": "2013-08-09T08:07:09", 
+      "created": "2013-08-09T08:08:23", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7243, 
       "x": -73.9961, 
-      "id": 16269667, 
-      "question_id": "16251080"
+      "id": 16269671, 
+      "question_id": "16250081"
     }, 
     {
       "city": "Tryon", 
