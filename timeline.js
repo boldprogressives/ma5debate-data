@@ -2,49 +2,79 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Tucson", 
-      "first_name": "Narciso", 
-      "last_name": "Garcia", 
-      "user_id": 1656578, 
-      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
-      "district": "AZ_02", 
-      "created": "2013-08-09T14:13:00", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 32.291, 
-      "x": -110.842, 
-      "id": 16275340, 
-      "question_id": "16173257"
-    }, 
-    {
       "city": "Williamsport", 
       "first_name": "Mary", 
       "last_name": "Webb", 
       "user_id": 1783551, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "submission": "What would you do to eliminate congressional pensions so congress has a stake in social security retirement benifits.", 
       "district": "OH_15", 
-      "created": "2013-08-09T14:12:54", 
+      "created": "2013-08-09T14:13:59", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 39.601, 
       "x": -83.1221, 
-      "id": 16275339, 
-      "question_id": "16172266"
+      "id": 16275367, 
+      "question_id": "16176855"
+    }, 
+    {
+      "city": "Tucson", 
+      "first_name": "Narciso", 
+      "last_name": "Garcia", 
+      "user_id": 1656578, 
+      "submission": "Will you introduce legislation or a rules change -- whichever it takes -- that will mean Congress and their families must be subject to the same laws it passes for other citizens?  If not, why not?", 
+      "district": "AZ_02", 
+      "created": "2013-08-09T14:13:57", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 32.291, 
+      "x": -110.842, 
+      "id": 16275365, 
+      "question_id": "16244527"
+    }, 
+    {
+      "city": "Pagosa Springs", 
+      "first_name": "Henry", 
+      "last_name": "Buslepp", 
+      "user_id": 334668, 
+      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "district": "CO_03", 
+      "created": "2013-08-09T14:13:53", 
+      "state": "CO", 
+      "iface": "timeline_vote", 
+      "y": 37.2565, 
+      "x": -107.087, 
+      "id": 16275363, 
+      "question_id": "16172727"
     }, 
     {
       "city": "Hitchcock", 
       "first_name": "MEL D", 
       "last_name": "COBBS JR", 
       "user_id": 1662733, 
-      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
       "district": "TX_14", 
-      "created": "2013-08-09T14:12:43", 
+      "created": "2013-08-09T14:13:49", 
       "state": "TX", 
       "iface": "timeline_vote", 
       "y": 29.3425, 
       "x": -95.001, 
-      "id": 16275333, 
-      "question_id": "16172303"
+      "id": 16275360, 
+      "question_id": "16172697"
+    }, 
+    {
+      "city": "Fresno", 
+      "first_name": "yvonne", 
+      "last_name": "freve", 
+      "user_id": 1230260, 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
+      "district": "CA_16", 
+      "created": "2013-08-09T14:13:37", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 36.7994, 
+      "x": -119.799, 
+      "id": 16275357, 
+      "question_id": "16202059"
     }, 
     {
       "city": "Arlington", 
@@ -75,21 +105,6 @@ opendebate.processTimeline({
       "x": -91.8015, 
       "id": 16275318, 
       "question_id": "16176481"
-    }, 
-    {
-      "city": "Pagosa Springs", 
-      "first_name": "Henry", 
-      "last_name": "Buslepp", 
-      "user_id": 334668, 
-      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
-      "district": "CO_03", 
-      "created": "2013-08-09T14:12:10", 
-      "state": "CO", 
-      "iface": "timeline_vote", 
-      "y": 37.2565, 
-      "x": -107.087, 
-      "id": 16275316, 
-      "question_id": "16172731"
     }, 
     {
       "city": "Cleveland", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -105.099, 
       "id": 16274951, 
       "question_id": "16173257"
-    }, 
-    {
-      "city": "Keller", 
-      "first_name": "Michael", 
-      "last_name": "Foote", 
-      "user_id": 791194, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "TX_26", 
-      "created": "2013-08-09T13:57:00", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 32.9303, 
-      "x": -97.2473, 
-      "id": 16274908, 
-      "question_id": "16172777"
     }
   ]
 });
