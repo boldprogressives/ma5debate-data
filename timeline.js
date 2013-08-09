@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Vera", 
       "last_name": "Morgan", 
       "user_id": 1012008, 
-      "submission": "Will you pledge to support a woman's right with respect to CHOICE?", 
+      "submission": "When one or two dozen companies send jobs overseas, it may not be a problem for our economy. When thousands of companies do so, it becomes a threat to our entire way of life and undermines our country's strength. How would you incentivize bringing jobs back and penalize (i.e. require an offshoring license) or prevent new/additional offshoring of jobs? ", 
       "district": "NC_04", 
-      "created": "2013-08-09T12:56:04", 
+      "created": "2013-08-09T12:56:40", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.0577, 
       "x": -79.0035, 
-      "id": 16272399, 
-      "question_id": "16185100"
+      "id": 16272404, 
+      "question_id": "16184537"
+    }, 
+    {
+      "city": "Framingham", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810227, 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
+      "district": "MA_05", 
+      "created": "2013-08-09T12:56:10", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2721, 
+      "x": -71.4248, 
+      "id": 16272400, 
+      "question_id": "16202059"
     }, 
     {
       "city": "Birmingham", 
@@ -64,21 +79,6 @@ opendebate.processTimeline({
       "x": -77.3497, 
       "id": 16272387, 
       "question_id": "16201568"
-    }, 
-    {
-      "city": "Framingham", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1810227, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
-      "district": "MA_05", 
-      "created": "2013-08-09T12:53:58", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2721, 
-      "x": -71.4248, 
-      "id": 16272381, 
-      "question_id": "16172913"
     }, 
     {
       "city": "North Adams", 
