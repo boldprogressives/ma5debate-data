@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Portland", 
-      "first_name": "Bill", 
-      "last_name": "Fatland", 
-      "user_id": 1703090, 
-      "submission": "The threat that hangs over the country today is a GOP determined to destroy the middle class and the values that define it.  What specific steps will you recommend to confront, not appease, the GOP?", 
-      "district": "OR_01", 
-      "created": "2013-08-09T09:45:00", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 45.4087, 
-      "x": -122.789, 
-      "id": 16270400, 
-      "question_id": "16172694"
-    }, 
-    {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
+      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
       "district": "MA_04", 
-      "created": "2013-08-09T09:44:40", 
+      "created": "2013-08-09T09:45:51", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270395, 
-      "question_id": "16173257"
+      "id": 16270404, 
+      "question_id": "16203866"
+    }, 
+    {
+      "city": "Portland", 
+      "first_name": "Bill", 
+      "last_name": "Fatland", 
+      "user_id": 1703090, 
+      "submission": "Should Bush and Cheney (AND Obama) be prosecuted for war crimes?", 
+      "district": "OR_01", 
+      "created": "2013-08-09T09:45:07", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 45.4087, 
+      "x": -122.789, 
+      "id": 16270401, 
+      "question_id": "16219940"
     }, 
     {
       "city": "East Orange", 
