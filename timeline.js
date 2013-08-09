@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Easton", 
-      "first_name": "Mary Ellen", 
-      "last_name": "Gambutti", 
-      "user_id": 1048032, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
-      "district": "PA_17", 
-      "created": "2013-08-09T13:46:55", 
-      "state": "PA", 
+      "city": "Urbana", 
+      "first_name": "BJ", 
+      "last_name": "Ross", 
+      "user_id": 1773953, 
+      "submission": "Do you support the concept of keeping church and state separate?", 
+      "district": "IL_13", 
+      "created": "2013-08-09T13:48:02", 
+      "state": "IL", 
       "iface": "timeline_vote", 
-      "y": 40.719, 
-      "x": -75.2203, 
-      "id": 16274463, 
-      "question_id": "16172281"
+      "y": 40.1117, 
+      "x": -88.1984, 
+      "id": 16274470, 
+      "question_id": "16173921"
     }, 
     {
       "city": "Gainesville", 
       "first_name": "Stefany", 
       "last_name": "McLain", 
       "user_id": 230881, 
-      "submission": "Do you support the concept of keeping church and state separate?", 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
       "district": "FL_03", 
-      "created": "2013-08-09T13:46:25", 
+      "created": "2013-08-09T13:47:54", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 29.6969, 
       "x": -82.4117, 
-      "id": 16274460, 
-      "question_id": "16173921"
+      "id": 16274469, 
+      "question_id": "16172303"
+    }, 
+    {
+      "city": "Easton", 
+      "first_name": "Mary Ellen", 
+      "last_name": "Gambutti", 
+      "user_id": 1048032, 
+      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
+      "district": "PA_17", 
+      "created": "2013-08-09T13:47:40", 
+      "state": "PA", 
+      "iface": "timeline_vote", 
+      "y": 40.719, 
+      "x": -75.2203, 
+      "id": 16274467, 
+      "question_id": "16203676"
     }, 
     {
       "city": "Prosperity", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -101.804, 
       "id": 16273112, 
       "question_id": "16203215"
-    }, 
-    {
-      "city": "Statesboro", 
-      "first_name": "James", 
-      "last_name": "LoBue", 
-      "user_id": 200326, 
-      "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
-      "district": "GA_12", 
-      "created": "2013-08-09T13:33:47", 
-      "state": "GA", 
-      "iface": "timeline_vote", 
-      "y": 32.4451, 
-      "x": -81.7804, 
-      "id": 16273105, 
-      "question_id": "16173320"
     }
   ]
 });
