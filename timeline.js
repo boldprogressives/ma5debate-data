@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "How can we keep our post offices up and running?", 
+      "submission": "Will you have te courage to stop/stand against the present obstruction in congress?", 
       "district": "MA_04", 
-      "created": "2013-08-09T11:16:58", 
+      "created": "2013-08-09T11:17:32", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16271300, 
-      "question_id": "16194365"
+      "id": 16271302, 
+      "question_id": "16200783"
     }, 
     {
       "city": "Amherst", 
