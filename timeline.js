@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Detroit", 
+      "first_name": "Daniel", 
+      "last_name": "Sarasin", 
+      "user_id": 1487238, 
+      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
+      "district": "MI_13", 
+      "created": "2013-08-09T22:49:26", 
+      "state": "MI", 
+      "iface": "timeline_vote", 
+      "y": 42.3801, 
+      "x": -83.0518, 
+      "id": 16287543, 
+      "question_id": "16173257"
+    }, 
+    {
       "city": "Houston", 
       "first_name": "Lynda", 
       "last_name": "Ragsdale", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -95.4971, 
       "id": 16287539, 
       "question_id": "16172755"
-    }, 
-    {
-      "city": "Detroit", 
-      "first_name": "Daniel", 
-      "last_name": "Sarasin", 
-      "user_id": 1487238, 
-      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
-      "district": "MI_13", 
-      "created": "2013-08-09T22:47:53", 
-      "state": "MI", 
-      "iface": "timeline_vote", 
-      "y": 42.3801, 
-      "x": -83.0518, 
-      "id": 16287538, 
-      "question_id": "16172207"
     }, 
     {
       "city": "Eaton", 
