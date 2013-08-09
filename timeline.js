@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Why don't we change the lobbying rules so that we do not have a system that legalizes bribery, and why do we not reform the filibuster so congress does not have an excuse to continue doing nothing ?", 
+      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
       "district": "MA_04", 
-      "created": "2013-08-09T09:39:42", 
+      "created": "2013-08-09T09:40:42", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270369, 
-      "question_id": "16174072"
+      "id": 16270373, 
+      "question_id": "16175230"
     }, 
     {
       "city": "East Orange", 
