@@ -6,30 +6,45 @@ opendebate.processTimeline({
       "first_name": "Jo-Anne", 
       "last_name": "Perkinson", 
       "user_id": 1773418, 
-      "submission": "Would you support the pardoning of all victimless crime marijuana (Cannabis) offenders? Depopulating our For Profit Prisons?", 
+      "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
       "district": "PA_07", 
-      "created": "2013-08-09T16:12:57", 
+      "created": "2013-08-09T16:14:05", 
       "state": "PA", 
       "iface": "timeline_vote", 
       "y": 39.9832, 
       "x": -75.4127, 
-      "id": 16278965, 
-      "question_id": "16208291"
+      "id": 16278977, 
+      "question_id": "16173320"
     }, 
     {
       "city": "Jamaica Plain", 
       "first_name": "Carolyn", 
       "last_name": "Nikkal", 
       "user_id": 994541, 
-      "submission": "The drug war and the prison industry has destroyed many lives -- especially of low income and minority citizens. As a first step, marijuana needs to be legalized nation-wide. What will you do toward that end?", 
+      "submission": "How would you reform the process of drawing congressional districts so that it represents the interests of the people and does not favor any one party?", 
       "district": "MA_08", 
-      "created": "2013-08-09T16:12:54", 
+      "created": "2013-08-09T16:14:00", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2947, 
       "x": -71.1305, 
-      "id": 16278961, 
-      "question_id": "16173418"
+      "id": 16278975, 
+      "question_id": "16201951"
+    }, 
+    {
+      "city": "Boise", 
+      "first_name": "Mark", 
+      "last_name": "Cullen", 
+      "user_id": 1758479, 
+      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
+      "district": "ID_02", 
+      "created": "2013-08-09T16:13:49", 
+      "state": "ID", 
+      "iface": "timeline_vote", 
+      "y": 43.5905, 
+      "x": -116.19, 
+      "id": 16278973, 
+      "question_id": "16172207"
     }, 
     {
       "city": "Madison", 
@@ -289,25 +304,6 @@ opendebate.processTimeline({
       "x": -71.2044, 
       "id": 16278221, 
       "question_id": "16204423"
-    }, 
-    {
-      "city": "Worcester", 
-      "first_name": "Marjorie", 
-      "last_name": "Evans", 
-      "user_id": 774326, 
-      "submission": "I keep hearing about all these jobs that companies have and can\u2019t fill because they can\u2019t find qualified people to fill them.  No one ever say what the jobs are.  What you will do to get the word out on what companies are looking for, and what will you do to encourage companies to start hiring and investing in their workers by training them to fill these jobs?  ", 
-      "district": "MA_02", 
-      "created": "2013-08-09T15:46:43", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.2541, 
-      "x": -71.7731, 
-      "latest_vote": null, 
-      "id": 16278213, 
-      "trending_score": 0.5
     }
   ]
 });
