@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Ellen", 
       "last_name": "Steens", 
       "user_id": 1782363, 
-      "submission": "why are the democrats so afraid to stand up to the republicans..? you stand up to a bully they usually back down.", 
+      "submission": "Would you support Medicare paying for dental care?", 
       "district": "CA_37", 
-      "created": "2013-08-09T07:34:49", 
+      "created": "2013-08-09T07:36:00", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 34.0277, 
       "x": -118.352, 
-      "id": 16268545, 
-      "question_id": "16172823"
+      "id": 16268551, 
+      "question_id": "16174466"
     }, 
     {
       "city": "Boulder City", 
