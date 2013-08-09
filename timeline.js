@@ -2,64 +2,79 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Saint Clair Shores", 
-      "first_name": "Terry", 
-      "last_name": "Keck", 
-      "user_id": 658095, 
-      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
-      "district": "MI_09", 
-      "created": "2013-08-09T10:55:57", 
-      "state": "MI", 
-      "iface": "timeline_vote", 
-      "y": 42.498, 
-      "x": -82.899, 
-      "id": 16271093, 
-      "question_id": "16173259"
-    }, 
-    {
       "city": "Mount Joy", 
       "first_name": "Margaret", 
       "last_name": "Beitzel", 
       "user_id": 526895, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
       "district": "PA_16", 
-      "created": "2013-08-09T10:55:57", 
+      "created": "2013-08-09T10:57:01", 
       "state": "PA", 
       "iface": "timeline_vote", 
       "y": 40.1085, 
       "x": -76.5089, 
-      "id": 16271094, 
-      "question_id": "16172281"
+      "id": 16271106, 
+      "question_id": "16175740"
+    }, 
+    {
+      "city": "Saint Clair Shores", 
+      "first_name": "Terry", 
+      "last_name": "Keck", 
+      "user_id": 658095, 
+      "submission": "Should Bush and Cheney (AND Obama) be prosecuted for war crimes?", 
+      "district": "MI_09", 
+      "created": "2013-08-09T10:56:36", 
+      "state": "MI", 
+      "iface": "timeline_vote", 
+      "y": 42.498, 
+      "x": -82.899, 
+      "id": 16271104, 
+      "question_id": "16219940"
     }, 
     {
       "city": "Nashville", 
       "first_name": "D. S.", 
       "last_name": "Kinzie", 
       "user_id": 88880, 
-      "submission": "Congress was warned about the repercussions of deriviatives. Retirees lost millions in IRAs, stock market,etc., someone needs to be held accountable and the loss replaced. The people responsible should get jail time and their assets should go toward replenishing their savings. Why was this swept under the rug and these financial expert have not answered for causing many retirees to loose their life savings?", 
+      "submission": "Are you a member of Alec?", 
       "district": "TN_05", 
-      "created": "2013-08-09T10:55:52", 
+      "created": "2013-08-09T10:56:33", 
       "state": "TN", 
       "iface": "timeline_vote", 
       "y": 36.1088, 
       "x": -86.7806, 
-      "id": 16271092, 
-      "question_id": "16191973"
+      "id": 16271103, 
+      "question_id": "16189767"
+    }, 
+    {
+      "city": "Parrish", 
+      "first_name": "Steve", 
+      "last_name": "Battle", 
+      "user_id": 1679894, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "FL_16", 
+      "created": "2013-08-09T10:56:29", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 27.5628, 
+      "x": -82.4336, 
+      "id": 16271102, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Would you support the reintroduction of the Equal Rights Amendment to establish that, in America, women are recognized as full human beings with full human rights? This would rectify and block all future attempts to reduce women once more to chattel.", 
+      "submission": "Are you now a member of ALEC, or plan on joining ALEC.", 
       "district": "MA_04", 
-      "created": "2013-08-09T10:55:39", 
+      "created": "2013-08-09T10:56:20", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16271089, 
-      "question_id": "16177784"
+      "id": 16271099, 
+      "question_id": "16204636"
     }, 
     {
       "city": "Fort Lauderdale", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -74.1649, 
       "id": 16270644, 
       "question_id": "16175500"
-    }, 
-    {
-      "city": "Nashville", 
-      "first_name": "Ian", 
-      "last_name": "Salter", 
-      "user_id": 203405, 
-      "submission": "Will you work to support Elizabeth Warren's efforts to revise Glass-Steagall", 
-      "district": "TN_05", 
-      "created": "2013-08-09T10:08:09", 
-      "state": "TN", 
-      "iface": "timeline_vote", 
-      "y": 36.1806, 
-      "x": -86.7355, 
-      "id": 16270624, 
-      "question_id": "16265543"
     }
   ]
 });
