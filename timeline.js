@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "charles", 
       "last_name": "philp", 
       "user_id": 1759838, 
-      "submission": "Will you take action to overturn Citizens United with an effective Constitutional Amendment?", 
+      "submission": "Climate change has many facets: CO2/CH4 emissions, permafrost melting, ocean warming/acidification, overpopulation, et al. Who among you has a plan to defeat this unprecedented hydra of challenges?", 
       "district": "NY_12", 
-      "created": "2013-08-09T08:20:58", 
+      "created": "2013-08-09T08:21:50", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7653, 
       "x": -73.9638, 
-      "id": 16269770, 
-      "question_id": "16182966"
+      "id": 16269782, 
+      "question_id": "16201745"
+    }, 
+    {
+      "city": "Santa Fe", 
+      "first_name": "Victoria", 
+      "last_name": "Scott", 
+      "user_id": 1708295, 
+      "submission": "Why are so many countries banning GMO foods but the US refuses to do so? Why aren't they required to label them as such? ", 
+      "district": "NM_03", 
+      "created": "2013-08-09T08:21:40", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 35.6768, 
+      "x": -105.958, 
+      "id": 16269777, 
+      "question_id": "16205646"
     }, 
     {
       "city": "East Calais", 
@@ -34,21 +49,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16269769, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Santa Fe", 
-      "first_name": "Victoria", 
-      "last_name": "Scott", 
-      "user_id": 1708295, 
-      "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
-      "district": "NM_03", 
-      "created": "2013-08-09T08:20:52", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 35.6768, 
-      "x": -105.958, 
-      "id": 16269768, 
-      "question_id": "16175500"
     }, 
     {
       "city": "Gurdon", 
