@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Will you totally repeal the Patriot Act.?", 
+      "district": "MA_04", 
+      "created": "2013-08-09T12:03:52", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16271779, 
+      "question_id": "16178788"
+    }, 
+    {
+      "city": "Orlando", 
+      "first_name": "Barbara", 
+      "last_name": "Lawrence", 
+      "user_id": 1203623, 
+      "submission": "How do you address cities going bankrupt, unemployment, people working not meeting basic needs and social services being cut over and over- yet corporations receiving welfare- in the form of tax breaks, incentives and yet they are can outsource jobs to other countries and people in the US are hungry?", 
+      "district": "FL_09", 
+      "created": "2013-08-09T12:03:06", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 28.5824, 
+      "x": -81.2515, 
+      "id": 16271777, 
+      "question_id": "16190286"
+    }, 
+    {
       "city": "Santa Rosa", 
       "first_name": "David", 
       "last_name": "Bauer", 
@@ -274,36 +304,6 @@ opendebate.processTimeline({
       "x": -81.5208, 
       "id": 16271517, 
       "question_id": "16213399"
-    }, 
-    {
-      "city": "Owensboro", 
-      "first_name": "Terry", 
-      "last_name": "peabody", 
-      "user_id": 792993, 
-      "submission": "Should Bush and Cheney (AND Obama) be prosecuted for war crimes?", 
-      "district": "KY_02", 
-      "created": "2013-08-09T11:46:35", 
-      "state": "KY", 
-      "iface": "timeline_vote", 
-      "y": 37.7571, 
-      "x": -87.0926, 
-      "id": 16271516, 
-      "question_id": "16219940"
-    }, 
-    {
-      "city": "Brooklyn", 
-      "first_name": "Barbara", 
-      "last_name": "Ballinger", 
-      "user_id": 47026, 
-      "submission": "How do you address cities going bankrupt, unemployment, people working not meeting basic needs and social services being cut over and over- yet corporations receiving welfare- in the form of tax breaks, incentives and yet they are can outsource jobs to other countries and people in the US are hungry?", 
-      "district": "NY_11", 
-      "created": "2013-08-09T11:46:19", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.6237, 
-      "x": -74.0338, 
-      "id": 16271512, 
-      "question_id": "16190286"
     }
   ]
 });
