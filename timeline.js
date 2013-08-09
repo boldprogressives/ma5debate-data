@@ -6,30 +6,49 @@ opendebate.processTimeline({
       "first_name": "Vera", 
       "last_name": "Morgan", 
       "user_id": 1012008, 
-      "submission": "The centennial of the creation of our National Park System is just three years away, yet our parks are starved for funds and understaffed. What will you do to change this situation?", 
+      "submission": "Will you pledge to support a woman's right with respect to CHOICE?", 
       "district": "NC_04", 
-      "created": "2013-08-09T12:55:06", 
+      "created": "2013-08-09T12:56:04", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.0577, 
       "x": -79.0035, 
-      "id": 16272389, 
-      "question_id": "16206023"
+      "id": 16272399, 
+      "question_id": "16185100"
     }, 
     {
       "city": "Birmingham", 
       "first_name": "Mike", 
       "last_name": "Grady", 
       "user_id": 1754162, 
-      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
       "district": "AL_06", 
-      "created": "2013-08-09T12:54:54", 
+      "created": "2013-08-09T12:55:20", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.3617, 
       "x": -86.7888, 
-      "id": 16272388, 
-      "question_id": "16173210"
+      "id": 16272393, 
+      "question_id": "16173335"
+    }, 
+    {
+      "city": "Milwaukee", 
+      "first_name": "LaMont", 
+      "last_name": "Nicholson", 
+      "user_id": 1172164, 
+      "submission": "Where do you stand on spying  on U.S. citizens? Do you think this is a violation of the Fourth Amendment? If so will you vote to cease such actions?", 
+      "district": "WI_04", 
+      "created": "2013-08-09T12:55:19", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WI", 
+      "iface": "timeline_question", 
+      "y": 43.0362, 
+      "x": -87.917, 
+      "latest_vote": null, 
+      "id": 16272391, 
+      "trending_score": 0.5
     }, 
     {
       "city": "Woodbridge", 
@@ -293,25 +312,6 @@ opendebate.processTimeline({
       "x": -87.8206, 
       "id": 16272197, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "West Warwick", 
-      "first_name": "Richard", 
-      "last_name": "Cook", 
-      "user_id": 631551, 
-      "submission": "Doesn't U.S. Post 9/11 Foreign Policy fundamentally violate the principles of the U.N. Charter that the U.S. pledged to uphold after millions died in WWII ?", 
-      "district": "RI_02", 
-      "created": "2013-08-09T12:34:13", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "RI", 
-      "iface": "timeline_question", 
-      "y": 41.692, 
-      "x": -71.5163, 
-      "latest_vote": null, 
-      "id": 16272162, 
-      "trending_score": 0.5
     }
   ]
 });
