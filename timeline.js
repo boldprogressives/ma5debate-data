@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Will you protect Social Security And Medicare by not cutting it with the chained CPI for Social Security that has been mentioned.  Also, no cuts to Medicare but closing the donute hole 100% so seniors aren't left fending for themselves to pay full price for their drugs.", 
+      "submission": "Do you support the labeling of GMOs and if so, what do you intend to do to promote people's right to know what is in their food?", 
       "district": "MA_04", 
-      "created": "2013-08-09T09:50:32", 
+      "created": "2013-08-09T09:51:57", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270421, 
-      "question_id": "16175570"
+      "id": 16270435, 
+      "question_id": "16176001"
+    }, 
+    {
+      "city": "Tampa", 
+      "first_name": "DeRoy", 
+      "last_name": "Nunoo", 
+      "user_id": 702305, 
+      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "district": "FL_15", 
+      "created": "2013-08-09T09:51:41", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 28.1145, 
+      "x": -82.3639, 
+      "id": 16270434, 
+      "question_id": "16172727"
     }, 
     {
       "city": "Eugene", 
@@ -305,21 +320,6 @@ opendebate.processTimeline({
       "x": -73.8337, 
       "id": 16270123, 
       "question_id": "16183803"
-    }, 
-    {
-      "city": "Richmond", 
-      "first_name": "Paula", 
-      "last_name": "Goodman", 
-      "user_id": 546461, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "CA_11", 
-      "created": "2013-08-09T09:10:04", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 37.9423, 
-      "x": -122.355, 
-      "id": 16270105, 
-      "question_id": "16172266"
     }
   ]
 });
