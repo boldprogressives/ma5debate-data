@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Daniel Island", 
-      "first_name": "FRANCIS", 
-      "last_name": "HENDERSON", 
-      "user_id": 401891, 
-      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
-      "district": "SC_01", 
-      "created": "2013-08-09T22:28:59", 
-      "state": "SC", 
-      "iface": "timeline_vote", 
-      "y": 32.9557, 
-      "x": -79.8873, 
-      "id": 16287103, 
-      "question_id": "16172583"
-    }, 
-    {
       "city": "Detroit", 
       "first_name": "Daniel", 
       "last_name": "Sarasin", 
       "user_id": 1487238, 
-      "submission": "Will you work to remove the billions of dollars of subsidies and incentives currently going to the fossil fuel industry \u2013 the most profitable industry in the world? ", 
+      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
       "district": "MI_13", 
-      "created": "2013-08-09T22:28:53", 
+      "created": "2013-08-09T22:29:51", 
       "state": "MI", 
       "iface": "timeline_vote", 
       "y": 42.3801, 
       "x": -83.0518, 
-      "id": 16287102, 
-      "question_id": "16226967"
+      "id": 16287107, 
+      "question_id": "16180998"
+    }, 
+    {
+      "city": "Hillsville", 
+      "first_name": "Juanita", 
+      "last_name": "Duffy", 
+      "user_id": 1075355, 
+      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
+      "district": "VA_09", 
+      "created": "2013-08-09T22:29:46", 
+      "state": "VA", 
+      "iface": "timeline_vote", 
+      "y": 36.7642, 
+      "x": -80.7368, 
+      "id": 16287106, 
+      "question_id": "16203866"
+    }, 
+    {
+      "city": "Daniel Island", 
+      "first_name": "FRANCIS", 
+      "last_name": "HENDERSON", 
+      "user_id": 401891, 
+      "submission": "Why have so few Wall Street CEOs been indicted for their part in the 2007 Economic Crash ?  Who has been protecting them ?", 
+      "district": "SC_01", 
+      "created": "2013-08-09T22:29:44", 
+      "state": "SC", 
+      "iface": "timeline_vote", 
+      "y": 32.9557, 
+      "x": -79.8873, 
+      "id": 16287105, 
+      "question_id": "16205046"
     }, 
     {
       "city": "Fountain Hills", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -87.0489, 
       "id": 16286746, 
       "question_id": "16172731"
-    }, 
-    {
-      "city": "Lake Mills", 
-      "first_name": "Mary", 
-      "last_name": "Feuling", 
-      "user_id": 901706, 
-      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
-      "district": "WI_05", 
-      "created": "2013-08-09T21:45:43", 
-      "state": "WI", 
-      "iface": "timeline_vote", 
-      "y": 43.0794, 
-      "x": -88.9101, 
-      "id": 16286728, 
-      "question_id": "16175637"
     }
   ]
 });
