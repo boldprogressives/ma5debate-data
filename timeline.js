@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Revere", 
+      "first_name": "T.", 
+      "last_name": "Crugnola", 
+      "user_id": 338409, 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "district": "MA_05", 
+      "created": "2013-08-09T14:04:00", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4152, 
+      "x": -71.0053, 
+      "id": 16275193, 
+      "question_id": "16172755"
+    }, 
+    {
+      "city": "West Plains", 
+      "first_name": "Biff", 
+      "last_name": "Bird", 
+      "user_id": 683919, 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "district": "MO_08", 
+      "created": "2013-08-09T14:03:53", 
+      "state": "MO", 
+      "iface": "timeline_vote", 
+      "y": 36.5139, 
+      "x": -91.8015, 
+      "id": 16275192, 
+      "question_id": "16173335"
+    }, 
+    {
+      "city": "Gwynn Oak", 
+      "first_name": "Sharon", 
+      "last_name": "Holley", 
+      "user_id": 1783365, 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "district": "MD_07", 
+      "created": "2013-08-09T14:03:47", 
+      "state": "MD", 
+      "iface": "timeline_vote", 
+      "y": 39.3238, 
+      "x": -76.7143, 
+      "id": 16275190, 
+      "question_id": "16172533"
+    }, 
+    {
       "city": "Thousand Oaks", 
       "first_name": "Donald", 
       "last_name": "Parker", 
@@ -15,21 +60,6 @@ opendebate.processTimeline({
       "x": -118.823, 
       "id": 16275182, 
       "question_id": "16173244"
-    }, 
-    {
-      "city": "Gwynn Oak", 
-      "first_name": "Sharon", 
-      "last_name": "Holley", 
-      "user_id": 1783365, 
-      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
-      "district": "MD_07", 
-      "created": "2013-08-09T14:02:27", 
-      "state": "MD", 
-      "iface": "timeline_vote", 
-      "y": 39.3238, 
-      "x": -76.7143, 
-      "id": 16275179, 
-      "question_id": "16173335"
     }, 
     {
       "city": "Mount Vernon", 
@@ -270,36 +300,6 @@ opendebate.processTimeline({
       "x": -73.0744, 
       "id": 16274525, 
       "question_id": "16172777"
-    }, 
-    {
-      "city": "Grosse Pointe", 
-      "first_name": "Kathryn", 
-      "last_name": "Maysen", 
-      "user_id": 1778454, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
-      "district": "MI_14", 
-      "created": "2013-08-09T13:50:42", 
-      "state": "MI", 
-      "iface": "timeline_vote", 
-      "y": 42.3946, 
-      "x": -82.9185, 
-      "id": 16274522, 
-      "question_id": "16173264"
-    }, 
-    {
-      "city": "Louisville", 
-      "first_name": "Jim", 
-      "last_name": "Wasilew", 
-      "user_id": 1692387, 
-      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
-      "district": "TN_02", 
-      "created": "2013-08-09T13:50:34", 
-      "state": "TN", 
-      "iface": "timeline_vote", 
-      "y": 35.8311, 
-      "x": -84.0482, 
-      "id": 16274512, 
-      "question_id": "16172303"
     }
   ]
 });
