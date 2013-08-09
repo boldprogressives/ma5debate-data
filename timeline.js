@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Framingham", 
-      "first_name": "Sharon", 
-      "last_name": "Rozines", 
-      "user_id": 1771502, 
-      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
-      "district": "MA_05", 
-      "created": "2013-08-09T21:53:40", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2721, 
-      "x": -71.4248, 
-      "id": 16286824, 
-      "question_id": "16175230"
-    }, 
-    {
       "city": "Kansas City", 
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "Would you support the right to carry personal fire arms from state to state with no restrictions on people who's legal possession is in accordance to their home state laws ?", 
+      "submission": "Will you support congress not having automatic cost-of-living increases?", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:53:35", 
+      "created": "2013-08-09T21:54:57", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286823, 
-      "question_id": "16217735"
+      "id": 16286832, 
+      "question_id": "16219674"
+    }, 
+    {
+      "city": "Framingham", 
+      "first_name": "Sharon", 
+      "last_name": "Rozines", 
+      "user_id": 1771502, 
+      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
+      "district": "MA_05", 
+      "created": "2013-08-09T21:54:53", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2721, 
+      "x": -71.4248, 
+      "id": 16286831, 
+      "question_id": "16173257"
     }, 
     {
       "city": "Fountain Hills", 
