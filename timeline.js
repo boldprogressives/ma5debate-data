@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Carlotta", 
       "last_name": "Hayes", 
       "user_id": 1806880, 
-      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
+      "submission": "How do you feel about supporting a constitutional amendment to overturn Citizens United?", 
       "district": "MA_08", 
-      "created": "2013-08-09T11:26:04", 
+      "created": "2013-08-09T11:26:51", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2138, 
       "x": -70.9328, 
-      "id": 16271357, 
-      "question_id": "16203866"
+      "id": 16271362, 
+      "question_id": "16205331"
     }, 
     {
       "city": "anguillara", 
       "first_name": "flora", 
       "last_name": "botts", 
       "user_id": 1063841, 
-      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "submission": "When those of us who have spoken out about 9/11 and have been terrorized for years by the NSA start taking the law into our own hands and start executing traitors, terrorists and mass murderers in government, where are you going to hide?", 
       "district": "", 
-      "created": "2013-08-09T11:25:59", 
+      "created": "2013-08-09T11:26:33", 
       "state": "", 
       "iface": "timeline_vote", 
       "y": 42.0926, 
       "x": 12.2699, 
-      "id": 16271356, 
-      "question_id": "16173335"
+      "id": 16271360, 
+      "question_id": "16267196"
     }, 
     {
       "city": "Newton", 
