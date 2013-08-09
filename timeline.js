@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Fayetteville", 
+      "first_name": "Vera", 
+      "last_name": "Morgan", 
+      "user_id": 1012008, 
+      "submission": "The centennial of the creation of our National Park System is just three years away, yet our parks are starved for funds and understaffed. What will you do to change this situation?", 
+      "district": "NC_04", 
+      "created": "2013-08-09T12:55:06", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.0577, 
+      "x": -79.0035, 
+      "id": 16272389, 
+      "question_id": "16206023"
+    }, 
+    {
       "city": "Birmingham", 
       "first_name": "Mike", 
       "last_name": "Grady", 
       "user_id": 1754162, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
       "district": "AL_06", 
-      "created": "2013-08-09T12:54:00", 
+      "created": "2013-08-09T12:54:54", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.3617, 
       "x": -86.7888, 
-      "id": 16272382, 
-      "question_id": "16173264"
+      "id": 16272388, 
+      "question_id": "16173210"
+    }, 
+    {
+      "city": "Woodbridge", 
+      "first_name": "N", 
+      "last_name": "Oure", 
+      "user_id": 1694674, 
+      "submission": "Will you support reform to congressional and executive compensation, including pay that is equal to the median income of the constituents they represent?", 
+      "district": "VA_11", 
+      "created": "2013-08-09T12:54:43", 
+      "state": "VA", 
+      "iface": "timeline_vote", 
+      "y": 38.6462, 
+      "x": -77.3497, 
+      "id": 16272387, 
+      "question_id": "16201568"
     }, 
     {
       "city": "Framingham", 
@@ -32,21 +62,6 @@ opendebate.processTimeline({
       "question_id": "16172913"
     }, 
     {
-      "city": "Fayetteville", 
-      "first_name": "Vera", 
-      "last_name": "Morgan", 
-      "user_id": 1012008, 
-      "submission": "Is there a plank in your platform for animal rights?", 
-      "district": "NC_04", 
-      "created": "2013-08-09T12:53:50", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.0577, 
-      "x": -79.0035, 
-      "id": 16272378, 
-      "question_id": "16267512"
-    }, 
-    {
       "city": "North Adams", 
       "first_name": "Deborah", 
       "last_name": "Brown", 
@@ -60,21 +75,6 @@ opendebate.processTimeline({
       "x": -73.0744, 
       "id": 16272375, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Woodbridge", 
-      "first_name": "N", 
-      "last_name": "Oure", 
-      "user_id": 1694674, 
-      "submission": "Do you support the labeling of GMOs and if so, what do you intend to do to promote people's right to know what is in their food?", 
-      "district": "VA_11", 
-      "created": "2013-08-09T12:53:07", 
-      "state": "VA", 
-      "iface": "timeline_vote", 
-      "y": 38.6462, 
-      "x": -77.3497, 
-      "id": 16272367, 
-      "question_id": "16176001"
     }, 
     {
       "city": "South Amboy", 
