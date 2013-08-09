@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Christiane", 
       "last_name": "Pors", 
       "user_id": 1785709, 
-      "submission": "The drug war and the prison industry has destroyed many lives -- especially of low income and minority citizens. As a first step, marijuana needs to be legalized nation-wide. What will you do toward that end?", 
+      "submission": "Will you work to reinstate the Glass-Steagall Act to insure that the Wall Street banks behave in a more responsible manner?", 
       "district": "NY_10", 
-      "created": "2013-08-09T08:58:53", 
+      "created": "2013-08-09T08:59:29", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7773, 
       "x": -73.9825, 
-      "id": 16270055, 
-      "question_id": "16173418"
+      "id": 16270057, 
+      "question_id": "16256690"
     }, 
     {
       "city": "Fort Worth", 
