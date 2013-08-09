@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "SINCE THE REPUBLICANS, NRA AND GUN MANUFACTURERS CLAIM SECURITY IN THE SCHOOLS IS POSSIBLE BY HAVING ARMED GUARDS,I PROPOSE THAT THESE SAME GROUPS BE REQUIRED BY LAW TO PAY ALL THE EXPENSES, UP TO 75 YEARS IN ADVANCE, JUST LIKE THE POST OFFICE.", 
+      "submission": "Please, can you consider the fact that social security is money we paid out of our income for many years? It should not be cut!", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:28:00", 
+      "created": "2013-08-09T21:28:54", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286226, 
-      "question_id": "16204616"
+      "id": 16286230, 
+      "question_id": "16225581"
     }, 
     {
       "city": "Wilton", 
