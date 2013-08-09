@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Polson", 
+      "first_name": "Sheila", 
+      "last_name": "Bell", 
+      "user_id": 1100281, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "MT_01", 
+      "created": "2013-08-09T23:50:09", 
+      "state": "MT", 
+      "iface": "timeline_vote", 
+      "y": 47.6984, 
+      "x": -114.141, 
+      "id": 16288145, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Henderson", 
+      "first_name": "Marcellus", 
+      "last_name": "Bracey", 
+      "user_id": 1774579, 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "district": "NV_03", 
+      "created": "2013-08-09T23:50:04", 
+      "state": "NV", 
+      "iface": "timeline_vote", 
+      "y": 36.0603, 
+      "x": -114.957, 
+      "id": 16288139, 
+      "question_id": "16173259"
+    }, 
+    {
       "city": "El Prado", 
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Currently campaign finance laws allow money to dictate elections & future decisions by the elected. Would you suppor a bill that publicly funds campaigns w/ free advertising for all candidates", 
+      "submission": "Would you work to support  renewable energy systems and to cut subsidies to the fossil fuel industries", 
       "district": "NM_03", 
-      "created": "2013-08-09T23:49:02", 
+      "created": "2013-08-09T23:50:04", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16288133, 
-      "question_id": "16213319"
+      "id": 16288141, 
+      "question_id": "16211942"
     }, 
     {
       "city": "Burnsville", 
@@ -290,40 +320,6 @@ opendebate.processTimeline({
       "latest_vote": "2013-08-09T23:42:37", 
       "id": 16287763, 
       "trending_score": 1.5
-    }, 
-    {
-      "city": "Monson", 
-      "first_name": "Kathleen", 
-      "last_name": "Conley", 
-      "user_id": 1809996, 
-      "submission": "What specific results have you achieved as a legislator that prove: 1. your commitment to social and econ. justice; 2. protection of citizens from harm (name it); 3. sustainable econ./environ./edu?", 
-      "district": "MA_01", 
-      "created": "2013-08-09T23:22:00", 
-      "state_votes": 1, 
-      "votes": 1, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.094, 
-      "x": -72.324, 
-      "latest_vote": "2013-08-09T23:25:58", 
-      "id": 16287756, 
-      "trending_score": 1.5
-    }, 
-    {
-      "city": "Troy", 
-      "first_name": "John", 
-      "last_name": "Janowski", 
-      "user_id": 163007, 
-      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
-      "district": "MI_11", 
-      "created": "2013-08-09T23:21:56", 
-      "state": "MI", 
-      "iface": "timeline_vote", 
-      "y": 42.5596, 
-      "x": -83.1232, 
-      "id": 16287755, 
-      "question_id": "16173259"
     }
   ]
 });
