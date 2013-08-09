@@ -2,6 +2,70 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Burnsville", 
+      "first_name": "Bonnie", 
+      "last_name": "Rosenfield", 
+      "user_id": 1025762, 
+      "submission": "Will you introduce and support a \"Term Limit\" for ALL members of congress - 10 years max during a lifetime?  Also, a cooling off period so a member cannot become a lobbyist for 5 years after leaving?", 
+      "district": "MN_02", 
+      "created": "2013-08-09T23:33:50", 
+      "state": "MN", 
+      "iface": "timeline_vote", 
+      "y": 44.7702, 
+      "x": -93.2812, 
+      "id": 16287915, 
+      "question_id": "16245994"
+    }, 
+    {
+      "city": "Seattle", 
+      "first_name": "Sigrid", 
+      "last_name": "Asmus", 
+      "user_id": 176478, 
+      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
+      "district": "WA_07", 
+      "created": "2013-08-09T23:33:47", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 47.6498, 
+      "x": -122.398, 
+      "id": 16287914, 
+      "question_id": "16175230"
+    }, 
+    {
+      "city": "El Prado", 
+      "first_name": "Sally", 
+      "last_name": "Phelps", 
+      "user_id": 1567108, 
+      "submission": "would you support making the IRS follow the law on 501(c)(4)'s and make any political interest in a group a disqualifier for tax exemption.", 
+      "district": "NM_03", 
+      "created": "2013-08-09T23:33:44", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 36.4486, 
+      "x": -105.575, 
+      "id": 16287912, 
+      "question_id": "16223890"
+    }, 
+    {
+      "city": "Monson", 
+      "first_name": "Kathleen", 
+      "last_name": "Conley", 
+      "user_id": 1809996, 
+      "submission": "What in your perspective and experience is/are the essential role(s) of government?What skills have you used to promote the(se) essential role(s)?", 
+      "district": "MA_01", 
+      "created": "2013-08-09T23:33:14", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.094, 
+      "x": -72.324, 
+      "latest_vote": null, 
+      "id": 16287907, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Winfield", 
       "first_name": "Adele", 
       "last_name": "Galloway", 
@@ -15,36 +79,6 @@ opendebate.processTimeline({
       "x": -96.9548, 
       "id": 16287905, 
       "question_id": "16172207"
-    }, 
-    {
-      "city": "El Prado", 
-      "first_name": "Sally", 
-      "last_name": "Phelps", 
-      "user_id": 1567108, 
-      "submission": "Do you support expanding social security benefits so that seniors would receive between $400 and $800 more a year? ", 
-      "district": "NM_03", 
-      "created": "2013-08-09T23:32:52", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16287902, 
-      "question_id": "16170105"
-    }, 
-    {
-      "city": "Burnsville", 
-      "first_name": "Bonnie", 
-      "last_name": "Rosenfield", 
-      "user_id": 1025762, 
-      "submission": "What will you do to prevent abuse snd exploitation of the elderly?", 
-      "district": "MN_02", 
-      "created": "2013-08-09T23:32:49", 
-      "state": "MN", 
-      "iface": "timeline_vote", 
-      "y": 44.7702, 
-      "x": -93.2812, 
-      "id": 16287900, 
-      "question_id": "16233239"
     }, 
     {
       "city": "Roanoke Rapids", 
@@ -79,21 +113,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16287896, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Seattle", 
-      "first_name": "Sigrid", 
-      "last_name": "Asmus", 
-      "user_id": 176478, 
-      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
-      "district": "WA_07", 
-      "created": "2013-08-09T23:32:44", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 47.6498, 
-      "x": -122.398, 
-      "id": 16287895, 
-      "question_id": "16202059"
     }, 
     {
       "city": "Grover", 
@@ -305,21 +324,6 @@ opendebate.processTimeline({
       "x": -70.6862, 
       "id": 16287551, 
       "question_id": "16172755"
-    }, 
-    {
-      "city": "Detroit", 
-      "first_name": "Daniel", 
-      "last_name": "Sarasin", 
-      "user_id": 1487238, 
-      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
-      "district": "MI_13", 
-      "created": "2013-08-09T22:49:26", 
-      "state": "MI", 
-      "iface": "timeline_vote", 
-      "y": 42.3801, 
-      "x": -83.0518, 
-      "id": 16287543, 
-      "question_id": "16173257"
     }
   ]
 });
