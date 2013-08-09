@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Victoria", 
       "last_name": "Scott", 
       "user_id": 1708295, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "submission": "Would you be in favor of Congress and the Senate payingfor heath care like the rest of us,and no pension for life unless you put in 25 years like almost every other American. ", 
       "district": "NM_03", 
-      "created": "2013-08-09T08:16:49", 
+      "created": "2013-08-09T08:17:43", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 35.6768, 
       "x": -105.958, 
-      "id": 16269748, 
-      "question_id": "16172266"
+      "id": 16269751, 
+      "question_id": "16188477"
     }, 
     {
       "city": "Parlier", 
