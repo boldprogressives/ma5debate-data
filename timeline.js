@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "Are you willing to fight for womens rights to determine their own healthcare?  Or do you think that \"you\" know what is best for every woman? Healthcare is not a religious  decision, it is a health decision to be made by woman of all faiths.", 
-      "district": "MA_04", 
-      "created": "2013-08-09T09:58:59", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16270525, 
-      "question_id": "16199305"
-    }, 
-    {
       "city": "Clayton", 
       "first_name": "Vicki", 
       "last_name": "Thompson", 
       "user_id": 1796286, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "submission": "How will you support the dignity and freedom of women to make medical decisions with their health care providers without interference of federal and state laws?", 
       "district": "NC_07", 
-      "created": "2013-08-09T09:58:48", 
+      "created": "2013-08-09T09:59:59", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.6363, 
       "x": -78.4448, 
-      "id": 16270524, 
-      "question_id": "16172281"
+      "id": 16270534, 
+      "question_id": "16183415"
+    }, 
+    {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Climate change is moving us towards a planet that may not support human life.  Will you make addressing climate change one of your highest priorities?", 
+      "district": "MA_04", 
+      "created": "2013-08-09T09:59:46", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16270531, 
+      "question_id": "16175078"
+    }, 
+    {
+      "city": "Lincoln", 
+      "first_name": "Jenny", 
+      "last_name": "Golay", 
+      "user_id": 194531, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "MA_05", 
+      "created": "2013-08-09T09:59:37", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4239, 
+      "x": -71.3142, 
+      "id": 16270530, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Clermont", 
@@ -305,21 +320,6 @@ opendebate.processTimeline({
       "x": -82.343, 
       "id": 16270264, 
       "question_id": "16172690"
-    }, 
-    {
-      "city": "Newland", 
-      "first_name": "royce", 
-      "last_name": "hohn", 
-      "user_id": 1141717, 
-      "submission": "If the Constitution defines income as \"profits made from the labor of others\" Why are the corporations not paying their taxes while the citizens are taxed?\u00a0We make no profit we exchange time for wages", 
-      "district": "NC_11", 
-      "created": "2013-08-09T09:26:02", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 36.0328, 
-      "x": -81.9544, 
-      "id": 16270244, 
-      "question_id": "16198297"
     }
   ]
 });
