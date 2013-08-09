@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Ellen", 
       "last_name": "Steens", 
       "user_id": 1782363, 
-      "submission": "Why is there not even ONE mention about possibly repealing the \"Patriot Act\", even though that one law has completely obliterated all of our civil rights that were guaranteed in the Constitution??? All USA laws have become invalid, especially for protecting against oppressive governmental organizations, by simply declaring ANYONE an \"Enemy Combatant\" with no real justification for that declaration. The Constitution was specifically created to design precautions against an oppressive government that already had gone too far (Britain). ", 
+      "submission": "Will you support a constitutional amendment requiring the federal Government to provide universal health care to all U.S. citizens?", 
       "district": "CA_37", 
-      "created": "2013-08-09T07:39:33", 
+      "created": "2013-08-09T07:40:58", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 34.0277, 
       "x": -118.352, 
-      "id": 16268785, 
-      "question_id": "16176201"
+      "id": 16269153, 
+      "question_id": "16232327"
     }, 
     {
       "city": "Tryon", 
       "first_name": "Murlel", 
       "last_name": "Lunsford", 
       "user_id": 1656934, 
-      "submission": "Why is it that the congress and senate can work part time and do nothing  and get full benefits  full pay when other as the military do not.", 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and if not why not?", 
       "district": "NC_10", 
-      "created": "2013-08-09T07:39:11", 
+      "created": "2013-08-09T07:40:42", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.2172, 
       "x": -82.2262, 
-      "id": 16268674, 
-      "question_id": "16176482"
+      "id": 16269087, 
+      "question_id": "16186709"
     }, 
     {
       "city": "Charlotte", 
