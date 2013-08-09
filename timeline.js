@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Chicopee", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810216, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "MA_01", 
+      "created": "2013-08-09T12:01:07", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.1623, 
+      "x": -72.6045, 
+      "id": 16271775, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Santa Rosa", 
       "first_name": "David", 
       "last_name": "Bauer", 
       "user_id": 1781154, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "CA_05", 
-      "created": "2013-08-09T12:00:55", 
+      "created": "2013-08-09T12:01:04", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 38.4796, 
       "x": -122.751, 
-      "id": 16271773, 
-      "question_id": "16172777"
+      "id": 16271774, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Irving", 
@@ -45,21 +60,6 @@ opendebate.processTimeline({
       "x": -118.354, 
       "id": 16271770, 
       "question_id": "16207967"
-    }, 
-    {
-      "city": "Chicopee", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1810216, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
-      "district": "MA_01", 
-      "created": "2013-08-09T12:00:21", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.1623, 
-      "x": -72.6045, 
-      "id": 16271769, 
-      "question_id": "16172913"
     }, 
     {
       "city": "Poughkeepsie", 
