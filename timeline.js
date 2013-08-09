@@ -2,34 +2,68 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Tryon", 
-      "first_name": "Murlel", 
-      "last_name": "Lunsford", 
-      "user_id": 1656934, 
-      "submission": "Will you sponsor a bill that requires a Congressperson to recuse themselves on any vote where they have accepted monies from any party that stands to gain financially from the legislation?", 
-      "district": "NC_10", 
-      "created": "2013-08-09T07:44:52", 
+      "city": "Charlotte", 
+      "first_name": "cindy", 
+      "last_name": "chilton", 
+      "user_id": 1779238, 
+      "submission": "We all know Social Security is more than solvent. Why is a Democratic administration trying to cut back on benefits when it should be raising them? ", 
+      "district": "NC_09", 
+      "created": "2013-08-09T07:45:58", 
       "state": "NC", 
       "iface": "timeline_vote", 
-      "y": 35.2172, 
-      "x": -82.2262, 
-      "id": 16269459, 
-      "question_id": "16226780"
+      "y": 35.2696, 
+      "x": -80.9607, 
+      "id": 16269474, 
+      "question_id": "16176614"
     }, 
     {
       "city": "New York", 
       "first_name": "Marcus", 
       "last_name": "Adams", 
       "user_id": 526656, 
-      "submission": "Will you really be the voice of the people you represent and not be taken in by the lure of corruption ?", 
+      "submission": "Will you fight to eliminate corporate influence (ALEC) from the legislative process?", 
       "district": "NY_10", 
-      "created": "2013-08-09T07:44:36", 
+      "created": "2013-08-09T07:45:44", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7243, 
       "x": -73.9961, 
-      "id": 16269458, 
-      "question_id": "16261678"
+      "id": 16269468, 
+      "question_id": "16260175"
+    }, 
+    {
+      "city": "Tryon", 
+      "first_name": "Murlel", 
+      "last_name": "Lunsford", 
+      "user_id": 1656934, 
+      "submission": "Will you oppose current efforts by House Republicans to slash the Food Stamp program as part of the current agriculture bill.", 
+      "district": "NC_10", 
+      "created": "2013-08-09T07:45:29", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.2172, 
+      "x": -82.2262, 
+      "id": 16269464, 
+      "question_id": "16193997"
+    }, 
+    {
+      "city": "Elkins Park", 
+      "first_name": "David", 
+      "last_name": "Herman", 
+      "user_id": 1781058, 
+      "submission": "TRAITORS IN OFFICECan legislators who signed the \"No New Tax\" pledge of Grover Norquist be prosecuted for violating their oaths of office to preserve, protect and defend the Constitution?", 
+      "district": "PA_13", 
+      "created": "2013-08-09T07:45:11", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "PA", 
+      "iface": "timeline_question", 
+      "y": 40.0178, 
+      "x": -75.136, 
+      "latest_vote": null, 
+      "id": 16269460, 
+      "trending_score": 0.5
     }, 
     {
       "city": "Los Angeles", 
@@ -45,21 +79,6 @@ opendebate.processTimeline({
       "x": -118.352, 
       "id": 16269457, 
       "question_id": "16174163"
-    }, 
-    {
-      "city": "Charlotte", 
-      "first_name": "cindy", 
-      "last_name": "chilton", 
-      "user_id": 1779238, 
-      "submission": "Will you work to end all U.S. military installations on foreign soil?", 
-      "district": "NC_09", 
-      "created": "2013-08-09T07:37:54", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.2696, 
-      "x": -80.9607, 
-      "id": 16268573, 
-      "question_id": "16256797"
     }, 
     {
       "city": "Boulder City", 
@@ -301,21 +320,6 @@ opendebate.processTimeline({
       "x": -122.333, 
       "id": 16267422, 
       "question_id": "16172207"
-    }, 
-    {
-      "city": "Minneapolis", 
-      "first_name": "Nancy", 
-      "last_name": "D'Ambrosio", 
-      "user_id": 752168, 
-      "submission": "Why is Social Security referred to by many elected Representatives and Senators in Washington as an \"entitlement\" when, first, we all pay or paid into it during all of our working years, and second, by law, normal tax revenue can not be used to fund It?  Is it because the government has used up all the money paid into Social Security over the years, and so that now the government has to raise more money to pay Social Security's current obligations?", 
-      "district": "MN_03", 
-      "created": "2013-08-09T07:04:26", 
-      "state": "MN", 
-      "iface": "timeline_vote", 
-      "y": 45.0007, 
-      "x": -93.4881, 
-      "id": 16267372, 
-      "question_id": "16180456"
     }
   ]
 });
