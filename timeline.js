@@ -6,30 +6,45 @@ opendebate.processTimeline({
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
+      "submission": "What, specifically, would you do to protect the right to vote for all? Please address specifically a new Voting Rights Act and the concept of a paper ballot that can be verified by the voter.", 
       "district": "NM_03", 
-      "created": "2013-08-09T23:09:59", 
+      "created": "2013-08-09T23:10:56", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16287677, 
-      "question_id": "16175637"
+      "id": 16287694, 
+      "question_id": "16207107"
     }, 
     {
       "city": "Ocala", 
       "first_name": "Richard", 
       "last_name": "Barstow", 
       "user_id": 44028, 
-      "submission": "Will you work to support Elizabeth Warren's efforts to revise Glass-Steagall", 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
       "district": "FL_11", 
-      "created": "2013-08-09T23:08:32", 
+      "created": "2013-08-09T23:10:40", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 29.1562, 
       "x": -82.196, 
-      "id": 16287670, 
-      "question_id": "16265543"
+      "id": 16287688, 
+      "question_id": "16172281"
+    }, 
+    {
+      "city": "Castle Rock", 
+      "first_name": "Mikel", 
+      "last_name": "Whitney", 
+      "user_id": 710090, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "CO_04", 
+      "created": "2013-08-09T23:10:09", 
+      "state": "CO", 
+      "iface": "timeline_vote", 
+      "y": 39.3904, 
+      "x": -104.859, 
+      "id": 16287681, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Monson", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -74.6695, 
       "id": 16287117, 
       "question_id": "16173244"
-    }, 
-    {
-      "city": "Daniel Island", 
-      "first_name": "FRANCIS", 
-      "last_name": "HENDERSON", 
-      "user_id": 401891, 
-      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
-      "district": "SC_01", 
-      "created": "2013-08-09T22:30:17", 
-      "state": "SC", 
-      "iface": "timeline_vote", 
-      "y": 32.9557, 
-      "x": -79.8873, 
-      "id": 16287109, 
-      "question_id": "16173259"
     }
   ]
 });
