@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Boulder City", 
-      "first_name": "Dominique", 
-      "last_name": "Spurling", 
-      "user_id": 339493, 
-      "submission": "Will you support reasonable changes in our gun laws?", 
-      "district": "NV_03", 
-      "created": "2013-08-09T07:31:59", 
-      "state": "NV", 
-      "iface": "timeline_vote", 
-      "y": 35.9778, 
-      "x": -114.836, 
-      "id": 16268457, 
-      "question_id": "16234792"
-    }, 
-    {
       "city": "Tryon", 
       "first_name": "Murlel", 
       "last_name": "Lunsford", 
       "user_id": 1656934, 
-      "submission": "Congress persons have voted to put themselves in the driver's seat when it comes to their salaries. They vote themselves raises and we as citizens cannot over turn. What will you do to stop this practice?", 
+      "submission": "Would you support a living wage law that would force corporations, like Wal-Mart, whose Walton family owns more wealth than 40% of all Americans, to pay  living wages to all of their workers?", 
       "district": "NC_10", 
-      "created": "2013-08-09T07:31:58", 
+      "created": "2013-08-09T07:32:57", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.2172, 
       "x": -82.2262, 
-      "id": 16268445, 
-      "question_id": "16173244"
+      "id": 16268521, 
+      "question_id": "16210264"
+    }, 
+    {
+      "city": "Boulder City", 
+      "first_name": "Dominique", 
+      "last_name": "Spurling", 
+      "user_id": 339493, 
+      "submission": "How can we have a sustainable economy where no relief goes to the middle class nor to the very poor?", 
+      "district": "NV_03", 
+      "created": "2013-08-09T07:32:57", 
+      "state": "NV", 
+      "iface": "timeline_vote", 
+      "y": 35.9778, 
+      "x": -114.836, 
+      "id": 16268522, 
+      "question_id": "16204677"
+    }, 
+    {
+      "city": "Owensboro", 
+      "first_name": "james", 
+      "last_name": "shultz", 
+      "user_id": 1545001, 
+      "submission": "The big banks want to innovate.  Will you demand that banks get approval from federal regulators BEFORE they implement high risk innovations like Credit Default Swaps and Collateralized Obligations?", 
+      "district": "KY_02", 
+      "created": "2013-08-09T07:32:50", 
+      "state": "KY", 
+      "iface": "timeline_vote", 
+      "y": 37.7571, 
+      "x": -87.0926, 
+      "id": 16268520, 
+      "question_id": "16260903"
     }, 
     {
       "city": "Los Angeles", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "x": -75.2104, 
       "id": 16267364, 
       "question_id": "16172542"
-    }, 
-    {
-      "city": "San Anselmo", 
-      "first_name": "Larry", 
-      "last_name": "Lapuyade", 
-      "user_id": 1691997, 
-      "submission": "What will you do to overturn Citizen's United?", 
-      "district": "CA_02", 
-      "created": "2013-08-09T07:00:02", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 37.972, 
-      "x": -122.562, 
-      "id": 16267306, 
-      "question_id": "16172765"
     }
   ]
 });
