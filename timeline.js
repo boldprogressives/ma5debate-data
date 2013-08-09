@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "dedham", 
+      "first_name": "suzanne", 
+      "last_name": "searle", 
+      "user_id": 211231, 
+      "submission": "What can you do to improve public transit nationally, including building a good rail network, when the governors and legislatures of some key states are so resistant to it?", 
+      "district": "MA_08", 
+      "created": "2013-08-09T22:13:49", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2446, 
+      "x": -71.1676, 
+      "id": 16286976, 
+      "question_id": "16172286"
+    }, 
+    {
       "city": "Fountain Hills", 
       "first_name": "Day", 
       "last_name": "Jolliff", 
       "user_id": 1785674, 
-      "submission": "Will you protect Social Security And Medicare by not cutting it with the chained CPI for Social Security that has been mentioned.  Also, no cuts to Medicare but closing the donute hole 100% so seniors aren't left fending for themselves to pay full price for their drugs.", 
+      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
       "district": "AZ_06", 
-      "created": "2013-08-09T22:12:54", 
+      "created": "2013-08-09T22:13:39", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 33.609, 
       "x": -111.73, 
-      "id": 16286972, 
-      "question_id": "16175570"
+      "id": 16286975, 
+      "question_id": "16172583"
+    }, 
+    {
+      "city": "Helena", 
+      "first_name": "Bob", 
+      "last_name": "Balhiser", 
+      "user_id": 674040, 
+      "submission": "Would you work to end the \"revolving door\" in politics: where politicians are given lucrative jobs as lobbyists once they leave [cough] \"public service\"", 
+      "district": "MT_01", 
+      "created": "2013-08-09T22:13:03", 
+      "state": "MT", 
+      "iface": "timeline_vote", 
+      "y": 46.6453, 
+      "x": -111.974, 
+      "id": 16286973, 
+      "question_id": "16217343"
     }, 
     {
       "city": "Cambridge", 
@@ -30,21 +60,6 @@ opendebate.processTimeline({
       "x": -71.1312, 
       "id": 16286971, 
       "question_id": "16172286"
-    }, 
-    {
-      "city": "Helena", 
-      "first_name": "Bob", 
-      "last_name": "Balhiser", 
-      "user_id": 674040, 
-      "submission": "Do you agree that accepting money from corporate interests with an economic stake in how Congressmen vote, and then voting on matters that affect them, is pernicious and close to bribery?  If not, why not?  ", 
-      "district": "MT_01", 
-      "created": "2013-08-09T22:12:41", 
-      "state": "MT", 
-      "iface": "timeline_vote", 
-      "y": 46.6453, 
-      "x": -111.974, 
-      "id": 16286969, 
-      "question_id": "16176481"
     }, 
     {
       "city": "Kansas City", 
@@ -289,25 +304,6 @@ opendebate.processTimeline({
       "x": -122.859, 
       "id": 16286284, 
       "question_id": "16173438"
-    }, 
-    {
-      "city": "Wesley Chapel", 
-      "first_name": "Wilbert", 
-      "last_name": "Dripps", 
-      "user_id": 50501, 
-      "submission": "Will you work to remove obmacarej", 
-      "district": "FL_12", 
-      "created": "2013-08-09T21:33:09", 
-      "state_votes": 0, 
-      "votes": 1, 
-      "district_votes": 0, 
-      "state": "FL", 
-      "iface": "timeline_question", 
-      "y": 28.2051, 
-      "x": -82.3, 
-      "latest_vote": "2013-08-09T21:57:21", 
-      "id": 16286269, 
-      "trending_score": 1.5
     }
   ]
 });
