@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Day", 
       "last_name": "Jolliff", 
       "user_id": 1785674, 
-      "submission": "Given the likelihood that a Republican majority will continue to block any legislative activity in the House, what will you do to advance a progressive agenda?", 
+      "submission": "The threat that hangs over the country today is a GOP determined to destroy the middle class and the values that define it.  What specific steps will you recommend to confront, not appease, the GOP?", 
       "district": "AZ_06", 
-      "created": "2013-08-09T22:23:01", 
+      "created": "2013-08-09T22:23:44", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 33.609, 
       "x": -111.73, 
-      "id": 16287063, 
-      "question_id": "16172530"
+      "id": 16287068, 
+      "question_id": "16172694"
     }, 
     {
       "city": "Daniel Island", 
       "first_name": "FRANCIS", 
       "last_name": "HENDERSON", 
       "user_id": 401891, 
-      "submission": "The threat that hangs over the country today is a GOP determined to destroy the middle class and the values that define it.  What specific steps will you recommend to confront, not appease, the GOP?", 
+      "submission": "Will you work to support Elizabeth Warren's efforts to revise Glass-Steagall", 
       "district": "SC_01", 
-      "created": "2013-08-09T22:23:00", 
+      "created": "2013-08-09T22:23:41", 
       "state": "SC", 
       "iface": "timeline_vote", 
       "y": 32.9557, 
       "x": -79.8873, 
-      "id": 16287062, 
-      "question_id": "16172694"
+      "id": 16287067, 
+      "question_id": "16265543"
     }, 
     {
       "city": "Lafayette", 
