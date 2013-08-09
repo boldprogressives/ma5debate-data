@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Dominique", 
       "last_name": "Spurling", 
       "user_id": 339493, 
-      "submission": "Will you work to reinstate the Glass-Steagall Act to insure that the Wall Street banks behave in a more responsible manner?", 
+      "submission": "do you believe that gerrymandering is hurting our democracy and if so how would you fix it?", 
       "district": "NV_03", 
-      "created": "2013-08-09T07:26:57", 
+      "created": "2013-08-09T07:27:55", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 35.9778, 
       "x": -114.836, 
-      "id": 16267580, 
-      "question_id": "16256690"
+      "id": 16267587, 
+      "question_id": "16223771"
     }, 
     {
       "city": "Medford", 
       "first_name": "", 
       "last_name": "", 
       "user_id": 1810198, 
-      "submission": "Would you support a living wage law that would force corporations, like Wal-Mart, whose Walton family owns more wealth than 40% of all Americans, to pay  living wages to all of their workers?", 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
       "district": "MA_05", 
-      "created": "2013-08-09T07:26:38", 
+      "created": "2013-08-09T07:27:24", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.4213, 
       "x": -71.1134, 
-      "id": 16267578, 
-      "question_id": "16210264"
+      "id": 16267583, 
+      "question_id": "16202059"
     }, 
     {
       "city": "Tryon", 
