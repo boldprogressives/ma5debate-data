@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Vera", 
       "last_name": "Morgan", 
       "user_id": 1012008, 
-      "submission": "Will you vote YES to extending Medicare to everybody?", 
+      "submission": "Do you intend to be a vocal advocate favoring mandatory labeling of food and beverage products that contain genetically modified ingredients...labeling that indicates the presence of GMO?", 
       "district": "NC_04", 
-      "created": "2013-08-09T12:32:02", 
+      "created": "2013-08-09T12:32:24", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.0577, 
       "x": -79.0035, 
-      "id": 16272121, 
-      "question_id": "16174319"
+      "id": 16272125, 
+      "question_id": "16248162"
     }, 
     {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "What sort of programs could realistically be put in place to prevent congressional gridlock on the scale we are currently seeing?", 
-      "district": "MA_04", 
-      "created": "2013-08-09T12:31:52", 
-      "state": "MA", 
+      "city": "Lenexa", 
+      "first_name": "Pamela", 
+      "last_name": "Lewis", 
+      "user_id": 1751177, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "KS_03", 
+      "created": "2013-08-09T12:32:17", 
+      "state": "KS", 
       "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16272119, 
-      "question_id": "16193988"
+      "y": 38.9492, 
+      "x": -94.7425, 
+      "id": 16272124, 
+      "question_id": "16172777"
     }, 
     {
       "city": "Ulster Park", 
@@ -45,6 +45,21 @@ opendebate.processTimeline({
       "x": -73.9902, 
       "id": 16272098, 
       "question_id": "16172755"
+    }, 
+    {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Will you support responsible reform among the big banks - never too big to FAIL, never too big to JAIL, and always too big to BAIL?", 
+      "district": "MA_04", 
+      "created": "2013-08-09T12:28:33", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16272095, 
+      "question_id": "16248409"
     }, 
     {
       "city": "Lyons", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -74.0084, 
       "id": 16271908, 
       "question_id": "16172690"
-    }, 
-    {
-      "city": "Sebastian", 
-      "first_name": "Nancy", 
-      "last_name": "Fox", 
-      "user_id": 1693212, 
-      "submission": "Do you think Stand Your Ground laws inhibit or promote violence in society? If the latter, what are you going to do about it?", 
-      "district": "FL_08", 
-      "created": "2013-08-09T12:12:26", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 27.7831, 
-      "x": -80.4832, 
-      "id": 16271881, 
-      "question_id": "16178617"
     }
   ]
 });
