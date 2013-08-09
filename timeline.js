@@ -2,19 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Schaumburg", 
+      "first_name": "Roger", 
+      "last_name": "Gonnering", 
+      "user_id": 1684316, 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "district": "IL_08", 
+      "created": "2013-08-09T14:56:57", 
+      "state": "IL", 
+      "iface": "timeline_vote", 
+      "y": 42.012, 
+      "x": -88.0907, 
+      "id": 16276807, 
+      "question_id": "16172755"
+    }, 
+    {
+      "city": "Williamsport", 
+      "first_name": "Mary", 
+      "last_name": "Webb", 
+      "user_id": 1783551, 
+      "submission": "What can you do to stop this sickness of MONSANTO paying off Congressmen,FDA,EPA,USDA and many others to sicken poison and degrade a system which was put in place to preserve our Health and Safty?", 
+      "district": "OH_15", 
+      "created": "2013-08-09T14:56:56", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 39.601, 
+      "x": -83.1221, 
+      "id": 16276808, 
+      "question_id": "16215471"
+    }, 
+    {
       "city": "Alexandria", 
       "first_name": "Bruce Hutson", 
       "last_name": "PO  Box 7404, Alexandria, VA  22307-0404", 
       "user_id": 1772446, 
-      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
+      "submission": "Will you support Elizabeth Warren's efforts to create a new Glass-Steagall Act?", 
       "district": "VA_08", 
-      "created": "2013-08-09T14:56:00", 
+      "created": "2013-08-09T14:56:50", 
       "state": "VA", 
       "iface": "timeline_vote", 
       "y": 38.7726, 
       "x": -77.0569, 
-      "id": 16276767, 
-      "question_id": "16175634"
+      "id": 16276801, 
+      "question_id": "16201467"
+    }, 
+    {
+      "city": "Trenton", 
+      "first_name": "JoAnne", 
+      "last_name": "Bruno", 
+      "user_id": 1575480, 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "district": "NJ_04", 
+      "created": "2013-08-09T14:56:11", 
+      "state": "NJ", 
+      "iface": "timeline_vote", 
+      "y": 40.1788, 
+      "x": -74.66, 
+      "id": 16276777, 
+      "question_id": "16172913"
     }, 
     {
       "city": "Bronx", 
@@ -45,21 +90,6 @@ opendebate.processTimeline({
       "x": -88.282, 
       "id": 16276740, 
       "question_id": "16173264"
-    }, 
-    {
-      "city": "Williamsport", 
-      "first_name": "Mary", 
-      "last_name": "Webb", 
-      "user_id": 1783551, 
-      "submission": "When will Congress respect the will of the people and repeal the War on Drugs, and allow farmers to grow hemp and cannabis?  The industries and jobs that would be provided could save our economy.  ", 
-      "district": "OH_15", 
-      "created": "2013-08-09T14:55:13", 
-      "state": "OH", 
-      "iface": "timeline_vote", 
-      "y": 39.601, 
-      "x": -83.1221, 
-      "id": 16276724, 
-      "question_id": "16213354"
     }, 
     {
       "city": "Louisville", 
@@ -94,21 +124,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16276690, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Trenton", 
-      "first_name": "JoAnne", 
-      "last_name": "Bruno", 
-      "user_id": 1575480, 
-      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
-      "district": "NJ_04", 
-      "created": "2013-08-09T14:53:40", 
-      "state": "NJ", 
-      "iface": "timeline_vote", 
-      "y": 40.1788, 
-      "x": -74.66, 
-      "id": 16276657, 
-      "question_id": "16172731"
     }, 
     {
       "city": "Canyon", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -97.8298, 
       "id": 16276252, 
       "question_id": "16172823"
-    }, 
-    {
-      "city": "Jersey City", 
-      "first_name": "Glen", 
-      "last_name": "Myers", 
-      "user_id": 66410, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "NJ_08", 
-      "created": "2013-08-09T14:45:28", 
-      "state": "NJ", 
-      "iface": "timeline_vote", 
-      "y": 40.7477, 
-      "x": -74.0499, 
-      "id": 16276241, 
-      "question_id": "16172777"
     }
   ]
 });
