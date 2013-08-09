@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Daniel Island", 
-      "first_name": "FRANCIS", 
-      "last_name": "HENDERSON", 
-      "user_id": 401891, 
-      "submission": "In 2006, the lame-duck GOP congress enacted a bill forcing the U.S.Postal service to fully fund pensions for the next 75 years and do it in ten years. It's a bill that was designed to ruin the USPS so it could be privatized. Will you work to repeal this onerous bill and introduce legislation to allow the USPS to compete with private carriers?", 
-      "district": "SC_01", 
-      "created": "2013-08-09T22:17:58", 
-      "state": "SC", 
-      "iface": "timeline_vote", 
-      "y": 32.9557, 
-      "x": -79.8873, 
-      "id": 16287030, 
-      "question_id": "16206983"
-    }, 
-    {
       "city": "Fountain Hills", 
       "first_name": "Day", 
       "last_name": "Jolliff", 
       "user_id": 1785674, 
-      "submission": "Do/would you support an investigation of any/all Representative\u2019s that signed the Norquist pledge as having a conflict of interest with their pledge to uphold the Constitution and make government work?", 
+      "submission": "What steps will you take to restore livable wages to the shredded middle class, and to restore our voting rights?", 
       "district": "AZ_06", 
-      "created": "2013-08-09T22:17:38", 
+      "created": "2013-08-09T22:18:27", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 33.609, 
       "x": -111.73, 
-      "id": 16287025, 
-      "question_id": "16206139"
+      "id": 16287034, 
+      "question_id": "16172657"
+    }, 
+    {
+      "city": "Daniel Island", 
+      "first_name": "FRANCIS", 
+      "last_name": "HENDERSON", 
+      "user_id": 401891, 
+      "submission": "What are you going to do to regulate banks and stock exchange speculations?", 
+      "district": "SC_01", 
+      "created": "2013-08-09T22:18:20", 
+      "state": "SC", 
+      "iface": "timeline_vote", 
+      "y": 32.9557, 
+      "x": -79.8873, 
+      "id": 16287033, 
+      "question_id": "16172283"
     }, 
     {
       "city": "SCOTTSDALE", 
