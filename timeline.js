@@ -6,45 +6,60 @@ opendebate.processTimeline({
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "Why should SCOTUS justices or their families be involved in such misinformation campaigns as Groundswell when other judges are forbidden to do this?  What do you think about efforts to suppress votes?", 
+      "submission": "Would you support single-payer health reform to provide coverage to all and reduction in costs?", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:40:55", 
+      "created": "2013-08-09T21:42:01", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286678, 
-      "question_id": "16209598"
+      "id": 16286690, 
+      "question_id": "16210738"
     }, 
     {
       "city": "Cathedral City", 
       "first_name": "Sam", 
       "last_name": "Massarella", 
       "user_id": 714003, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
       "district": "CA_36", 
-      "created": "2013-08-09T21:40:44", 
+      "created": "2013-08-09T21:41:58", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 33.8225, 
       "x": -116.463, 
-      "id": 16286675, 
-      "question_id": "16172266"
+      "id": 16286689, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Rancho Santa Margarita", 
+      "first_name": "George", 
+      "last_name": "I.", 
+      "user_id": 1714387, 
+      "submission": "Would you support the proposition that Big Oil should help to fund the veterans rehab issues, and their benefits since they were sent to fight for their safe access to oil.", 
+      "district": "CA_45", 
+      "created": "2013-08-09T21:41:55", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 33.6512, 
+      "x": -117.594, 
+      "id": 16286688, 
+      "question_id": "16173438"
     }, 
     {
       "city": "Bloomington", 
       "first_name": "Naomi", 
       "last_name": "Fatouros", 
       "user_id": 183575, 
-      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
       "district": "IN_09", 
-      "created": "2013-08-09T21:40:30", 
+      "created": "2013-08-09T21:41:22", 
       "state": "IN", 
       "iface": "timeline_vote", 
       "y": 39.0953, 
       "x": -86.4577, 
-      "id": 16286673, 
-      "question_id": "16172755"
+      "id": 16286681, 
+      "question_id": "16180998"
     }, 
     {
       "city": "Seattle", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -78.285, 
       "id": 16286076, 
       "question_id": "16229931"
-    }, 
-    {
-      "city": "SEDONA", 
-      "first_name": "JAY", 
-      "last_name": "MACKEY", 
-      "user_id": 1402810, 
-      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
-      "district": "AZ_01", 
-      "created": "2013-08-09T21:16:45", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 34.8643, 
-      "x": -111.798, 
-      "id": 16286072, 
-      "question_id": "16175230"
     }
   ]
 });
