@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "John", 
       "last_name": "Janowski", 
       "user_id": 163007, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "submission": "Would you support the proposition that Big Oil should help to fund the veterans rehab issues, and their benefits since they were sent to fight for their safe access to oil.", 
       "district": "MI_11", 
-      "created": "2013-08-09T23:16:52", 
+      "created": "2013-08-09T23:18:03", 
       "state": "MI", 
       "iface": "timeline_vote", 
       "y": 42.5596, 
       "x": -83.1232, 
-      "id": 16287714, 
-      "question_id": "16172913"
+      "id": 16287724, 
+      "question_id": "16173438"
     }, 
     {
       "city": "El Prado", 
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Do you support the labeling of GMOs and if so, what do you intend to do to promote people's right to know what is in their food?", 
+      "submission": "Would you vote to overturn Citizens United?", 
       "district": "NM_03", 
-      "created": "2013-08-09T23:16:24", 
+      "created": "2013-08-09T23:17:56", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16287712, 
-      "question_id": "16176001"
+      "id": 16287723, 
+      "question_id": "16185125"
     }, 
     {
       "city": "Monson", 
