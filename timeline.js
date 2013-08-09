@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "What would you do to eliminate or restrict the warrantless surveillance of electronic and telephone communications within the United States?", 
+      "submission": "To save S.S. & Medicare why don't we get rid of the fraud. What will you do about it?", 
       "district": "MO_06", 
-      "created": "2013-08-09T22:00:40", 
+      "created": "2013-08-09T22:02:02", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286888, 
-      "question_id": "16221821"
+      "id": 16286898, 
+      "question_id": "16197573"
     }, 
     {
       "city": "Framingham", 
