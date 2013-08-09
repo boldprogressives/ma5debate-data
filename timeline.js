@@ -2,34 +2,53 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "Will you actively support and promote the proposal for a Constitution Amendment protecting the right to vote?  (see freetovote.org)", 
-      "district": "MA_04", 
-      "created": "2013-08-09T10:48:56", 
+      "city": "Concord", 
+      "first_name": "Arra", 
+      "last_name": "Avakian", 
+      "user_id": 1131013, 
+      "submission": "How do we change our government to be of the people, by the people, and for the people, instead of corporations?", 
+      "district": "MA_03", 
+      "created": "2013-08-09T10:49:52", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
       "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16271039, 
-      "question_id": "16185403"
+      "iface": "timeline_question", 
+      "y": 42.4564, 
+      "x": -71.371, 
+      "latest_vote": null, 
+      "id": 16271044, 
+      "trending_score": 0.5
     }, 
     {
       "city": "Nashville", 
       "first_name": "D. S.", 
       "last_name": "Kinzie", 
       "user_id": 88880, 
-      "submission": "What will you do to counteract the rampant income inequality that coddles the wealthy, relegates the poor to economic slavery and makes a mockery of the public good?", 
+      "submission": "would you sponsor a bill requiring manufacturers of food and other products to list where products are manufactured not just whom they were  distributed by and encourage made in the USAs", 
       "district": "TN_05", 
-      "created": "2013-08-09T10:48:55", 
+      "created": "2013-08-09T10:49:44", 
       "state": "TN", 
       "iface": "timeline_vote", 
       "y": 36.1088, 
       "x": -86.7806, 
-      "id": 16271038, 
-      "question_id": "16225362"
+      "id": 16271043, 
+      "question_id": "16217848"
+    }, 
+    {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Would you support legislation like the Voter Empowerment Act (H.R. 12) to create national voting standards to ensure free, fair, and accessible elections nationwide?", 
+      "district": "MA_04", 
+      "created": "2013-08-09T10:49:38", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16271042, 
+      "question_id": "16181013"
     }, 
     {
       "city": "Fleetwood", 
@@ -289,21 +308,6 @@ opendebate.processTimeline({
       "x": -81.7638, 
       "id": 16270521, 
       "question_id": "16226952"
-    }, 
-    {
-      "city": "Alexandria", 
-      "first_name": "John", 
-      "last_name": "Grim", 
-      "user_id": 785415, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
-      "district": "VA_08", 
-      "created": "2013-08-09T09:58:02", 
-      "state": "VA", 
-      "iface": "timeline_vote", 
-      "y": 38.783, 
-      "x": -77.12, 
-      "id": 16270518, 
-      "question_id": "16173264"
     }
   ]
 });
