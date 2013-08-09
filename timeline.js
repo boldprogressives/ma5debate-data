@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Nashville", 
-      "first_name": "D. S.", 
-      "last_name": "Kinzie", 
-      "user_id": 88880, 
-      "submission": "when is congress going to make foods containing GMO'S be labeled. so we can choose what we are eating. & how many times  are they going to let MONSANTO keep killing us. ", 
-      "district": "TN_05", 
-      "created": "2013-08-09T10:52:37", 
-      "state": "TN", 
-      "iface": "timeline_vote", 
-      "y": 36.1088, 
-      "x": -86.7806, 
-      "id": 16271061, 
-      "question_id": "16203965"
-    }, 
-    {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "What are you going to do about the revolving door of regulators and private industry? The corruption taking place here is unbelievable. Example FCC Comcast takeover of NBC scandal. ", 
+      "submission": "Will you vote to end subsides on sugar, corn syrup, etc. that contribute to  obesity?", 
       "district": "MA_04", 
-      "created": "2013-08-09T10:52:36", 
+      "created": "2013-08-09T10:53:55", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16271062, 
-      "question_id": "16199756"
+      "id": 16271068, 
+      "question_id": "16174330"
+    }, 
+    {
+      "city": "Nashville", 
+      "first_name": "D. S.", 
+      "last_name": "Kinzie", 
+      "user_id": 88880, 
+      "submission": "Since I am on SSI, haven't had a raise in pay for the last 20 years, what's wrong with the Congress and Senate, repaying our SSI fund all the money they have appropriated over the last 20 years and pay the interest on it also.  That would fix it for all time.  Raise the SSI on the rich.  Don't treat the rich folks different from the rest of us Americans.  Self paid health care for the politicians.  No benefits for them unless they pay for them out of their own pocket.", 
+      "district": "TN_05", 
+      "created": "2013-08-09T10:53:45", 
+      "state": "TN", 
+      "iface": "timeline_vote", 
+      "y": 36.1088, 
+      "x": -86.7806, 
+      "id": 16271066, 
+      "question_id": "16207794"
     }, 
     {
       "city": "Fort Lauderdale", 
