@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits and sign on to expand these programs?", 
+      "submission": "Would you propose legislation that would disallow tax deductions for CEO salaries over $1 million with No loop holes?", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:26:01", 
+      "created": "2013-08-09T21:26:55", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286202, 
-      "question_id": "16223981"
+      "id": 16286211, 
+      "question_id": "16235453"
+    }, 
+    {
+      "city": "Moss Point", 
+      "first_name": "Michael", 
+      "last_name": "Stallworth", 
+      "user_id": 821196, 
+      "submission": "What is your stand on full disclosure of all campaign contributions, including specifically identifiable individual and corporate donations to PACs.", 
+      "district": "MS_04", 
+      "created": "2013-08-09T21:26:55", 
+      "state": "MS", 
+      "iface": "timeline_vote", 
+      "y": 30.4076, 
+      "x": -88.5302, 
+      "id": 16286212, 
+      "question_id": "16199834"
     }, 
     {
       "city": "Boston", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -71.0181, 
       "id": 16286199, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Moss Point", 
-      "first_name": "Michael", 
-      "last_name": "Stallworth", 
-      "user_id": 821196, 
-      "submission": "When will the Congress return all the money of  our Social Security funds we paid for or retirement  return back to the Social Security fund?  We need a date and we need every penny which was  robbed from our people's  money Returned NOW! ", 
-      "district": "MS_04", 
-      "created": "2013-08-09T21:25:47", 
-      "state": "MS", 
-      "iface": "timeline_vote", 
-      "y": 30.4076, 
-      "x": -88.5302, 
-      "id": 16286197, 
-      "question_id": "16201865"
     }, 
     {
       "city": "Poulsbo", 
