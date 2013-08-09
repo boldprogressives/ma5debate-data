@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Pittsburgh", 
+      "first_name": "paul", 
+      "last_name": "bates", 
+      "user_id": 70130, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "PA_18", 
+      "created": "2013-08-09T15:40:00", 
+      "state": "PA", 
+      "iface": "timeline_vote", 
+      "y": 40.3576, 
+      "x": -80.06, 
+      "id": 16278139, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Seattle", 
+      "first_name": "Susan", 
+      "last_name": "fried", 
+      "user_id": 291649, 
+      "submission": "Will you fight to protect voting rights of all Americans?", 
+      "district": "WA_07", 
+      "created": "2013-08-09T15:39:46", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 47.7184, 
+      "x": -122.302, 
+      "id": 16278137, 
+      "question_id": "16201559"
+    }, 
+    {
+      "city": "Trenton", 
+      "first_name": "JoAnne", 
+      "last_name": "Bruno", 
+      "user_id": 1575480, 
+      "submission": "When will the Congress return all the money of  our Social Security funds we paid for or retirement  return back to the Social Security fund?  We need a date and we need every penny which was  robbed from our people's  money Returned NOW! ", 
+      "district": "NJ_04", 
+      "created": "2013-08-09T15:39:34", 
+      "state": "NJ", 
+      "iface": "timeline_vote", 
+      "y": 40.1788, 
+      "x": -74.66, 
+      "id": 16278134, 
+      "question_id": "16201865"
+    }, 
+    {
       "city": "Alexandria", 
       "first_name": "Bruce Hutson", 
       "last_name": "PO  Box 7404, Alexandria, VA  22307-0404", 
@@ -15,36 +60,6 @@ opendebate.processTimeline({
       "x": -77.0569, 
       "id": 16278126, 
       "question_id": "16213457"
-    }, 
-    {
-      "city": "Trenton", 
-      "first_name": "JoAnne", 
-      "last_name": "Bruno", 
-      "user_id": 1575480, 
-      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
-      "district": "NJ_04", 
-      "created": "2013-08-09T15:38:59", 
-      "state": "NJ", 
-      "iface": "timeline_vote", 
-      "y": 40.1788, 
-      "x": -74.66, 
-      "id": 16278127, 
-      "question_id": "16175637"
-    }, 
-    {
-      "city": "Seattle", 
-      "first_name": "Susan", 
-      "last_name": "fried", 
-      "user_id": 291649, 
-      "submission": "Why  is social security only funded by the lowest earners in the country.", 
-      "district": "WA_07", 
-      "created": "2013-08-09T15:38:48", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 47.7184, 
-      "x": -122.302, 
-      "id": 16278123, 
-      "question_id": "16173225"
     }, 
     {
       "city": "princeton", 
@@ -293,25 +308,6 @@ opendebate.processTimeline({
       "x": -122.181, 
       "id": 16277885, 
       "question_id": "16175637"
-    }, 
-    {
-      "city": "Waltham", 
-      "first_name": "Noah", 
-      "last_name": "Beit-Aharon", 
-      "user_id": 1171311, 
-      "submission": "Where do you come down on the President's \"Race to the Top\" program, and on 'education reform' in general?", 
-      "district": "MA_05", 
-      "created": "2013-08-09T15:24:39", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.3992, 
-      "x": -71.2625, 
-      "latest_vote": null, 
-      "id": 16277844, 
-      "trending_score": 0.5
     }
   ]
 });
