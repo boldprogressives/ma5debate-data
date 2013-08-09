@@ -6,30 +6,45 @@ opendebate.processTimeline({
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "Would you propose legislation that would disallow tax deductions for CEO salaries over $1 million with No loop holes?", 
+      "submission": "SINCE THE REPUBLICANS, NRA AND GUN MANUFACTURERS CLAIM SECURITY IN THE SCHOOLS IS POSSIBLE BY HAVING ARMED GUARDS,I PROPOSE THAT THESE SAME GROUPS BE REQUIRED BY LAW TO PAY ALL THE EXPENSES, UP TO 75 YEARS IN ADVANCE, JUST LIKE THE POST OFFICE.", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:26:55", 
+      "created": "2013-08-09T21:28:00", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286211, 
-      "question_id": "16235453"
+      "id": 16286226, 
+      "question_id": "16204616"
+    }, 
+    {
+      "city": "Wilton", 
+      "first_name": "Sharyn", 
+      "last_name": "Lawler", 
+      "user_id": 558617, 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "district": "NH_02", 
+      "created": "2013-08-09T21:27:30", 
+      "state": "NH", 
+      "iface": "timeline_vote", 
+      "y": 42.8379, 
+      "x": -71.7437, 
+      "id": 16286221, 
+      "question_id": "16172533"
     }, 
     {
       "city": "Moss Point", 
       "first_name": "Michael", 
       "last_name": "Stallworth", 
       "user_id": 821196, 
-      "submission": "What is your stand on full disclosure of all campaign contributions, including specifically identifiable individual and corporate donations to PACs.", 
+      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
       "district": "MS_04", 
-      "created": "2013-08-09T21:26:55", 
+      "created": "2013-08-09T21:27:20", 
       "state": "MS", 
       "iface": "timeline_vote", 
       "y": 30.4076, 
       "x": -88.5302, 
-      "id": 16286212, 
-      "question_id": "16199834"
+      "id": 16286217, 
+      "question_id": "16203676"
     }, 
     {
       "city": "Boston", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -71.4638, 
       "id": 16285978, 
       "question_id": "16172697"
-    }, 
-    {
-      "city": "Provincetown", 
-      "first_name": "Jamia", 
-      "last_name": "Kelly", 
-      "user_id": 559451, 
-      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
-      "district": "MA_09", 
-      "created": "2013-08-09T21:06:15", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.0555, 
-      "x": -70.1873, 
-      "id": 16285963, 
-      "question_id": "16203676"
     }
   ]
 });
