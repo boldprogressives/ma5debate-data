@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Christiane", 
       "last_name": "Pors", 
       "user_id": 1785709, 
-      "submission": "We want reasonable and accountable banking - will you support the requirement for FIDUCIARY responsibility to customers  among all banks?", 
+      "submission": "Do you think Supreme Court Judges should sign/abide by a Code Of Ethics?", 
       "district": "NY_10", 
-      "created": "2013-08-09T09:02:49", 
+      "created": "2013-08-09T09:03:28", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7773, 
       "x": -73.9825, 
-      "id": 16270066, 
-      "question_id": "16248929"
+      "id": 16270068, 
+      "question_id": "16194740"
     }, 
     {
       "city": "Fort Worth", 
