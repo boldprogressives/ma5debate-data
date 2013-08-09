@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Victoria", 
       "last_name": "Scott", 
       "user_id": 1708295, 
-      "submission": "What steps are you taking to overturn Citizens United?", 
+      "submission": "Will you fight for a  revival of Glass/Steagall Act and the Monopoly and Merger legislation which are essential for restoring liquidity throughout the economy, genuine competition, and the revival of a healthy form of Capitalism?", 
       "district": "NM_03", 
-      "created": "2013-08-09T08:34:00", 
+      "created": "2013-08-09T08:34:55", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 35.6768, 
       "x": -105.958, 
-      "id": 16269950, 
-      "question_id": "16237280"
+      "id": 16269953, 
+      "question_id": "16189753"
     }, 
     {
       "city": "Tryon", 
