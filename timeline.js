@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Charlotte", 
+      "first_name": "cindy", 
+      "last_name": "chilton", 
+      "user_id": 1779238, 
+      "submission": "Will you work to end all U.S. military installations on foreign soil?", 
+      "district": "NC_09", 
+      "created": "2013-08-09T07:37:54", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.2696, 
+      "x": -80.9607, 
+      "id": 16268573, 
+      "question_id": "16256797"
+    }, 
+    {
       "city": "Los Angeles", 
       "first_name": "Ellen", 
       "last_name": "Steens", 
       "user_id": 1782363, 
-      "submission": "Will congress ever address a jobs/infrastructure bill?  We needs jobs, jobs training and massive infrastructure repair.  I am sick of the GOP obstruction.", 
+      "submission": "In the talk about government spending, there has been discussion about entitlements, but very little discussion about corporate welfare. Examples of corporate welfare include profitable companies such GE paying no federal income taxes, or corporations not paying taxes on profits made overseas. Would you support and work to eliminate all corporate welfare?", 
       "district": "CA_37", 
-      "created": "2013-08-09T07:37:02", 
+      "created": "2013-08-09T07:37:48", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 34.0277, 
       "x": -118.352, 
-      "id": 16268558, 
-      "question_id": "16256688"
+      "id": 16268570, 
+      "question_id": "16249133"
     }, 
     {
       "city": "Tryon", 
       "first_name": "Murlel", 
       "last_name": "Lunsford", 
       "user_id": 1656934, 
-      "submission": "what is your position on the transfer of wealth in this country to the wealthy class and the broken contracts to the working people.  Specifically, respond to the debacle going on in Detroit with workers losing their hard earned pensions.", 
+      "submission": "If you lose your job and have to live on a minimum wage, how long do you think you could last in today's economy? Will you support increasing the minimum wage to a living wage?", 
       "district": "NC_10", 
-      "created": "2013-08-09T07:36:39", 
+      "created": "2013-08-09T07:37:46", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.2172, 
       "x": -82.2262, 
-      "id": 16268556, 
-      "question_id": "16183913"
+      "id": 16268569, 
+      "question_id": "16194324"
     }, 
     {
       "city": "Boulder City", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "x": -93.4881, 
       "id": 16267372, 
       "question_id": "16180456"
-    }, 
-    {
-      "city": "Philadelphia", 
-      "first_name": "John", 
-      "last_name": "Overbeck", 
-      "user_id": 1676776, 
-      "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
-      "district": "PA_02", 
-      "created": "2013-08-09T07:04:05", 
-      "state": "PA", 
-      "iface": "timeline_vote", 
-      "y": 40.0696, 
-      "x": -75.2104, 
-      "id": 16267364, 
-      "question_id": "16172542"
     }
   ]
 });
