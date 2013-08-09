@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Briarcliff Manor", 
+      "first_name": "Harvey", 
+      "last_name": "Berman", 
+      "user_id": 174153, 
+      "submission": "Will you stand up to gun lobbyists to support strong measures about gun control or will you shy away from it because it is too hot?", 
+      "district": "NY_17", 
+      "created": "2013-08-09T09:10:36", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 41.1457, 
+      "x": -73.8337, 
+      "id": 16270108, 
+      "question_id": "16187691"
+    }, 
+    {
       "city": "Richmond", 
       "first_name": "Paula", 
       "last_name": "Goodman", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -122.355, 
       "id": 16270105, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Briarcliff Manor", 
-      "first_name": "Harvey", 
-      "last_name": "Berman", 
-      "user_id": 174153, 
-      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
-      "district": "NY_17", 
-      "created": "2013-08-09T09:09:47", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 41.1457, 
-      "x": -73.8337, 
-      "id": 16270101, 
-      "question_id": "16172690"
     }, 
     {
       "city": "New York", 
