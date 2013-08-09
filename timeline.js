@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Sudbury", 
+      "first_name": "Judith", 
+      "last_name": "Deutsch", 
+      "user_id": 745688, 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "district": "MA_05", 
+      "created": "2013-08-09T11:29:56", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.383, 
+      "x": -71.4277, 
+      "id": 16271384, 
+      "question_id": "16172913"
+    }, 
+    {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "We are the richest country in the world.  And yet we choose to direct the resources of our economy to concentrate wealth and build a ridiculously large  military force which has been used to accomplish questionable goals.  Are you proud of what America has accomplished as a society in the last 15 years? If not, how will you lead a real discussion about a set of policies that in time we can all look back on what we've accomplished with pride?", 
+      "submission": "A proposal hasbeen made to privitize the water supply.  Where do you stand on this, and what actions do you plan to address the proposal?", 
       "district": "MA_04", 
-      "created": "2013-08-09T11:28:56", 
+      "created": "2013-08-09T11:29:45", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16271375, 
-      "question_id": "16183546"
+      "id": 16271382, 
+      "question_id": "16177841"
     }, 
     {
       "city": "Amherst", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -121.507, 
       "id": 16270977, 
       "question_id": "16172286"
-    }, 
-    {
-      "city": "New York", 
-      "first_name": "Gary", 
-      "last_name": "Miller", 
-      "user_id": 30166, 
-      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
-      "district": "NY_10", 
-      "created": "2013-08-09T10:31:10", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.734, 
-      "x": -74.0053, 
-      "id": 16270910, 
-      "question_id": "16172690"
     }
   ]
 });
