@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Lyons", 
+      "first_name": "Sandra", 
+      "last_name": "Toomey", 
+      "user_id": 1773961, 
+      "submission": "It is time we stop rewarding companies that outsource American jobs.  Would you propose a new tax on these companies, an import tax on products produced by these companies or some other form of incentive to keep jobs in this country?  Please be specific.", 
+      "district": "IL_03", 
+      "created": "2013-08-09T11:47:59", 
+      "state": "IL", 
+      "iface": "timeline_vote", 
+      "y": 41.8118, 
+      "x": -87.8206, 
+      "id": 16271532, 
+      "question_id": "16175276"
+    }, 
+    {
       "city": "Madison", 
       "first_name": "Teresa", 
       "last_name": "Goodier", 
       "user_id": 1699894, 
-      "submission": "Congress persons have voted to put themselves in the driver's seat when it comes to their salaries. They vote themselves raises and we as citizens cannot over turn. What will you do to stop this practice?", 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
       "district": "WI_02", 
-      "created": "2013-08-09T11:47:03", 
+      "created": "2013-08-09T11:47:46", 
       "state": "WI", 
       "iface": "timeline_vote", 
       "y": 43.0792, 
       "x": -89.3772, 
-      "id": 16271520, 
-      "question_id": "16173244"
+      "id": 16271530, 
+      "question_id": "16172281"
     }, 
     {
       "city": "Williston", 
@@ -285,21 +300,6 @@ opendebate.processTimeline({
       "x": -71.1035, 
       "id": 16271309, 
       "question_id": "16172533"
-    }, 
-    {
-      "city": "Green Bay", 
-      "first_name": "Mark", 
-      "last_name": "Cherney", 
-      "user_id": 1707649, 
-      "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
-      "district": "WI_08", 
-      "created": "2013-08-09T11:16:21", 
-      "state": "WI", 
-      "iface": "timeline_vote", 
-      "y": 44.4935, 
-      "x": -87.9285, 
-      "id": 16271296, 
-      "question_id": "16175500"
     }
   ]
 });
