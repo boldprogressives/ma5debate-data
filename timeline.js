@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dominique", 
       "last_name": "Spurling", 
       "user_id": 339493, 
-      "submission": "The infrastructure of our nation is crumbling.  How would you propose we begin to correct the problem?", 
+      "submission": "Why don't we change the lobbying rules so that we do not have a system that legalizes bribery, and why do we not reform the filibuster so congress does not have an excuse to continue doing nothing ?", 
       "district": "NV_03", 
-      "created": "2013-08-09T07:23:59", 
+      "created": "2013-08-09T07:24:52", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 35.9778, 
       "x": -114.836, 
-      "id": 16267565, 
-      "question_id": "16246613"
+      "id": 16267570, 
+      "question_id": "16174072"
     }, 
     {
       "city": "Medford", 
