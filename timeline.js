@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Newton", 
+      "first_name": "Kyle", 
+      "last_name": "Baymiller", 
+      "user_id": 1667701, 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "district": "KS_04", 
+      "created": "2013-08-09T22:42:46", 
+      "state": "KS", 
+      "iface": "timeline_vote", 
+      "y": 38.0463, 
+      "x": -97.3506, 
+      "id": 16287169, 
+      "question_id": "16172303"
+    }, 
+    {
       "city": "Detroit", 
       "first_name": "Daniel", 
       "last_name": "Sarasin", 
@@ -34,21 +49,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16287162, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Newton", 
-      "first_name": "Kyle", 
-      "last_name": "Baymiller", 
-      "user_id": 1667701, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
-      "district": "KS_04", 
-      "created": "2013-08-09T22:40:21", 
-      "state": "KS", 
-      "iface": "timeline_vote", 
-      "y": 38.0463, 
-      "x": -97.3506, 
-      "id": 16287159, 
-      "question_id": "16172533"
     }, 
     {
       "city": "Fountain Hills", 
