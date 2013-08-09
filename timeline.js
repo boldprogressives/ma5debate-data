@@ -2,18 +2,18 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Banning", 
-      "first_name": "Dennis", 
-      "last_name": "Anderson", 
-      "user_id": 1116240, 
+      "city": "Lincoln", 
+      "first_name": "Sue", 
+      "last_name": "Dodson", 
+      "user_id": 1523964, 
       "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
-      "district": "CA_36", 
-      "created": "2013-08-09T15:54:55", 
-      "state": "CA", 
+      "district": "NE_01", 
+      "created": "2013-08-09T15:56:00", 
+      "state": "NE", 
       "iface": "timeline_vote", 
-      "y": 33.9316, 
-      "x": -116.886, 
-      "id": 16278316, 
+      "y": 40.8488, 
+      "x": -96.716, 
+      "id": 16278330, 
       "question_id": "16175740"
     }, 
     {
@@ -21,30 +21,45 @@ opendebate.processTimeline({
       "first_name": "Barbara", 
       "last_name": "Maynard", 
       "user_id": 224280, 
-      "submission": "In 2006, the lame-duck GOP congress enacted a bill forcing the U.S.Postal service to fully fund pensions for the next 75 years and do it in ten years. It's a bill that was designed to ruin the USPS so it could be privatized. Will you work to repeal this onerous bill and introduce legislation to allow the USPS to compete with private carriers?", 
+      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
       "district": "CA_13", 
-      "created": "2013-08-09T15:54:50", 
+      "created": "2013-08-09T15:55:57", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 37.8356, 
       "x": -122.223, 
-      "id": 16278315, 
-      "question_id": "16206983"
+      "id": 16278328, 
+      "question_id": "16172583"
+    }, 
+    {
+      "city": "Banning", 
+      "first_name": "Dennis", 
+      "last_name": "Anderson", 
+      "user_id": 1116240, 
+      "submission": "What will you do to overturn Citizen's United?", 
+      "district": "CA_36", 
+      "created": "2013-08-09T15:55:51", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 33.9316, 
+      "x": -116.886, 
+      "id": 16278326, 
+      "question_id": "16172765"
     }, 
     {
       "city": "Penfield", 
       "first_name": "Margaret", 
       "last_name": "Terwilliger", 
       "user_id": 1704823, 
-      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "submission": "Will you vote YES to extending Medicare to everybody?", 
       "district": "NY_25", 
-      "created": "2013-08-09T15:54:39", 
+      "created": "2013-08-09T15:55:50", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 43.1417, 
       "x": -77.4557, 
-      "id": 16278313, 
-      "question_id": "16173259"
+      "id": 16278324, 
+      "question_id": "16174319"
     }, 
     {
       "city": "Zelienople", 
@@ -289,25 +304,6 @@ opendebate.processTimeline({
       "x": -117.926, 
       "id": 16278100, 
       "question_id": "16172207"
-    }, 
-    {
-      "city": "Worcester", 
-      "first_name": "Marjorie", 
-      "last_name": "Evans", 
-      "user_id": 774326, 
-      "submission": "The unemployment rate in the African-American community is extremely high because of companies and employment agencies refusal to hire African-American.  What will you do to crack down on this practice by companies and employment agencies and to help everyone who has been out of work for a very long time?", 
-      "district": "MA_02", 
-      "created": "2013-08-09T15:36:35", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.2541, 
-      "x": -71.7731, 
-      "latest_vote": null, 
-      "id": 16278093, 
-      "trending_score": 0.5
     }
   ]
 });
