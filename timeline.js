@@ -6,15 +6,45 @@ opendebate.processTimeline({
       "first_name": "rox", 
       "last_name": "colby", 
       "user_id": 1677442, 
-      "submission": "Will you go on record to oppose chained CPI?", 
+      "submission": "How can we stop paying Congress for not doing their jobs and take away their healthcare benefits?", 
       "district": "TX_22", 
-      "created": "2013-08-09T06:39:01", 
+      "created": "2013-08-09T06:40:05", 
       "state": "TX", 
       "iface": "timeline_vote", 
       "y": 29.4, 
       "x": -95.2394, 
-      "id": 16266975, 
-      "question_id": "16225266"
+      "id": 16267004, 
+      "question_id": "16210559"
+    }, 
+    {
+      "city": "Bremerton", 
+      "first_name": "Glenn", 
+      "last_name": "Gang", 
+      "user_id": 160745, 
+      "submission": "The threat that hangs over the country today is a GOP determined to destroy the middle class and the values that define it.  What specific steps will you recommend to confront, not appease, the GOP?", 
+      "district": "WA_06", 
+      "created": "2013-08-09T06:40:04", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 47.6103, 
+      "x": -122.632, 
+      "id": 16267003, 
+      "question_id": "16172694"
+    }, 
+    {
+      "city": "Tryon", 
+      "first_name": "Murlel", 
+      "last_name": "Lunsford", 
+      "user_id": 1656934, 
+      "submission": "To all Candidates...Will you support Elizabeth Warren's bill to allow college students to borrow under 1% interest of college loans? ", 
+      "district": "NC_10", 
+      "created": "2013-08-09T06:39:55", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.2172, 
+      "x": -82.2262, 
+      "id": 16266998, 
+      "question_id": "16200733"
     }, 
     {
       "city": "Granite Falls", 
@@ -34,21 +64,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16266957, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Tryon", 
-      "first_name": "Murlel", 
-      "last_name": "Lunsford", 
-      "user_id": 1656934, 
-      "submission": "Re Gun Control:  Will you fight the NRA to achieve basic reforms that most Americans agree on?:* Some people should never own any type of weapon.* Some weapons should never be owned by anyone.* Background checks should be universal and enforced.* Basic defense of self and home requires only a simple rifle and/or pistol, not assault weapons.* The Second Amendment refers to a \"well-regulated militia\"; this clause cannot be ignored, everything that follows relates to that.  It does not mean that any and all Americans may own any and all forms of weaponry. Would you support an amendment to the U.S. Constitution clarifying the Second Amendment as suggested above?", 
-      "district": "NC_10", 
-      "created": "2013-08-09T06:38:09", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.2172, 
-      "x": -82.2262, 
-      "id": 16266956, 
-      "question_id": "16232223"
     }, 
     {
       "city": "Dallas", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -73.9961, 
       "id": 16266637, 
       "question_id": "16266296"
-    }, 
-    {
-      "city": "Oak Harbor", 
-      "first_name": "Elaine", 
-      "last_name": "Tucker", 
-      "user_id": 848487, 
-      "submission": "Why is Social Security referred to by many elected Representatives and Senators in Washington as an \"entitlement\" when, first, we all pay or paid into it during all of our working years, and second, by law, normal tax revenue can not be used to fund It?  Is it because the government has used up all the money paid into Social Security over the years, and so that now the government has to raise more money to pay Social Security's current obligations?", 
-      "district": "WA_02", 
-      "created": "2013-08-09T06:19:10", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 48.303, 
-      "x": -122.641, 
-      "id": 16266417, 
-      "question_id": "16180456"
     }
   ]
 });
