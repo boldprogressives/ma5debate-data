@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Victoria", 
       "last_name": "Scott", 
       "user_id": 1708295, 
-      "submission": "Will you demand that Harry Reid control the filibuster and get the work of the Senate done?", 
+      "submission": "Would you support the pardoning of all victimless crime marijuana (Cannabis) offenders? Depopulating our For Profit Prisons?", 
       "district": "NM_03", 
-      "created": "2013-08-09T08:38:00", 
+      "created": "2013-08-09T08:39:05", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 35.6768, 
       "x": -105.958, 
-      "id": 16269964, 
-      "question_id": "16173118"
+      "id": 16269970, 
+      "question_id": "16208291"
     }, 
     {
       "city": "Rocky Mount", 
