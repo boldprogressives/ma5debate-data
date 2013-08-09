@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "IRMA", 
       "last_name": "CAMARILLO", 
       "user_id": 226704, 
-      "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
+      "submission": "Hunger and the threat of hunger are very real for millions of Americans. What legislation would you propose to protect the SNAP Program?", 
       "district": "CA_53", 
-      "created": "2013-08-09T08:08:36", 
+      "created": "2013-08-09T08:09:34", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 32.6757, 
       "x": -117.05, 
-      "id": 16269672, 
-      "question_id": "16173320"
+      "id": 16269679, 
+      "question_id": "16188108"
     }, 
     {
       "city": "New York", 
       "first_name": "Marcus", 
       "last_name": "Adams", 
       "user_id": 526656, 
-      "submission": "Why are politicians and the media not talking more about getting rid of criminal, corporate welfare versus keeping critical, survival spending programs ? ", 
+      "submission": "Access to a quality education and affordable healthcare are two of the key components that have paved the road to income equality.  These same two key components have all but been eliminated over the past few decades.  Specifically, how do you plan on changing this.", 
       "district": "NY_10", 
-      "created": "2013-08-09T08:08:23", 
+      "created": "2013-08-09T08:09:30", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7243, 
       "x": -73.9961, 
-      "id": 16269671, 
-      "question_id": "16250081"
+      "id": 16269678, 
+      "question_id": "16249998"
     }, 
     {
       "city": "Tryon", 
