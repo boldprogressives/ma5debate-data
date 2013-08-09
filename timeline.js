@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Woodbridge", 
+      "first_name": "N", 
+      "last_name": "Oure", 
+      "user_id": 1694674, 
+      "submission": "What is your position on labeling for genetically engineered food and INDEPENDENT safety testing ?", 
+      "district": "VA_11", 
+      "created": "2013-08-09T12:53:05", 
+      "state": "VA", 
+      "iface": "timeline_vote", 
+      "y": 38.6462, 
+      "x": -77.3497, 
+      "id": 16272366, 
+      "question_id": "16175112"
+    }, 
+    {
       "city": "Fayetteville", 
       "first_name": "Vera", 
       "last_name": "Morgan", 
       "user_id": 1012008, 
-      "submission": "Will you have te courage to stop/stand against the present obstruction in congress?", 
+      "submission": "Why, when federal employees  are having to take furloughs, and many other Americans are underemployed, are our so-called representatives exempt from the same. If American workers performed as poorly as the DC bunch, they would be fired outright.", 
       "district": "NC_04", 
-      "created": "2013-08-09T12:51:44", 
+      "created": "2013-08-09T12:53:01", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.0577, 
       "x": -79.0035, 
-      "id": 16272360, 
-      "question_id": "16200783"
+      "id": 16272365, 
+      "question_id": "16173074"
+    }, 
+    {
+      "city": "South Amboy", 
+      "first_name": "Rose Marie", 
+      "last_name": "Gordon", 
+      "user_id": 422801, 
+      "submission": "Why is it that Halliburton only gets a $200K fine for destroying evidence concerning the Gulf oil spill when if you make a copy of a DVD you get a $250K fine and up to 5 years in prison?", 
+      "district": "NJ_06", 
+      "created": "2013-08-09T12:52:46", 
+      "state": "NJ", 
+      "iface": "timeline_vote", 
+      "y": 40.464, 
+      "x": -74.2758, 
+      "id": 16272364, 
+      "question_id": "16175493"
     }, 
     {
       "city": "Staten Island", 
@@ -286,36 +316,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16272083, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Milford", 
-      "first_name": "Lauriel", 
-      "last_name": "Bowman", 
-      "user_id": 725523, 
-      "submission": "What will you do to ensure that all Americans have access to the voting booth and what will you do to get money out of our elections so that we all have an equal voice?", 
-      "district": "MI_11", 
-      "created": "2013-08-09T12:26:42", 
-      "state": "MI", 
-      "iface": "timeline_vote", 
-      "y": 42.586, 
-      "x": -83.6507, 
-      "id": 16272065, 
-      "question_id": "16205834"
-    }, 
-    {
-      "city": "Erie", 
-      "first_name": "Patricia", 
-      "last_name": "Fronzaglia", 
-      "user_id": 1783044, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "PA_03", 
-      "created": "2013-08-09T12:26:42", 
-      "state": "PA", 
-      "iface": "timeline_vote", 
-      "y": 42.111, 
-      "x": -80.0497, 
-      "id": 16272066, 
-      "question_id": "16172266"
     }
   ]
 });
