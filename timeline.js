@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "Would you support public financing of all political campaigns?", 
-      "district": "MA_04", 
-      "created": "2013-08-09T10:34:58", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16270943, 
-      "question_id": "16200039"
-    }, 
-    {
       "city": "Nashville", 
       "first_name": "D. S.", 
       "last_name": "Kinzie", 
       "user_id": 88880, 
-      "submission": "It is time we stop rewarding companies that outsource American jobs.  Would you propose a new tax on these companies, an import tax on products produced by these companies or some other form of incentive to keep jobs in this country?  Please be specific.", 
+      "submission": "Would you support an independent prosecutor for major financial crimes who would review regulatory agency civil charges for possible criminal prosecution?Over 30,000 criminal referrals were made in the savings and loan crisis, but since 2008, the major banking regulatory agencies have made zero criminal referrals despite overwhelming evidence of criminal fraud.", 
       "district": "TN_05", 
-      "created": "2013-08-09T10:34:49", 
+      "created": "2013-08-09T10:36:04", 
       "state": "TN", 
       "iface": "timeline_vote", 
       "y": 36.1088, 
       "x": -86.7806, 
-      "id": 16270942, 
-      "question_id": "16175276"
+      "id": 16270950, 
+      "question_id": "16236054"
+    }, 
+    {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Will you do everything you possibly can to eliminate all subsidies to the fossil fuel industry while promoting and supporting clean, renewable energy sources?", 
+      "district": "MA_04", 
+      "created": "2013-08-09T10:35:45", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16270948, 
+      "question_id": "16178291"
     }, 
     {
       "city": "New York", 
