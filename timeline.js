@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Vera", 
       "last_name": "Morgan", 
       "user_id": 1012008, 
-      "submission": "Will you protect Social Security And Medicare by not cutting it with the chained CPI for Social Security that has been mentioned.  Also, no cuts to Medicare but closing the donute hole 100% so seniors aren't left fending for themselves to pay full price for their drugs.", 
+      "submission": "What will you do about the lack of accountability for crimes such as Wall Street committed, Bankers and foreclosures, 911 crimes, NSA, TSA, and politicians taking bribery and the fake wars they create at OUR expense?  ", 
       "district": "NC_04", 
-      "created": "2013-08-09T12:50:00", 
+      "created": "2013-08-09T12:50:46", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.0577, 
       "x": -79.0035, 
-      "id": 16272351, 
-      "question_id": "16175570"
+      "id": 16272356, 
+      "question_id": "16194250"
     }, 
     {
       "city": "Lock Haven", 
