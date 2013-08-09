@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Fayetteville", 
+      "first_name": "Vera", 
+      "last_name": "Morgan", 
+      "user_id": 1012008, 
+      "submission": "Do you support expanding social security benefits so that seniors would receive between $400 and $800 more a year? ", 
+      "district": "NC_04", 
+      "created": "2013-08-09T12:38:59", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.0577, 
+      "x": -79.0035, 
+      "id": 16272209, 
+      "question_id": "16170105"
+    }, 
+    {
       "city": "Lyons", 
       "first_name": "Sandra", 
       "last_name": "Toomey", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -87.8206, 
       "id": 16272197, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Fayetteville", 
-      "first_name": "Vera", 
-      "last_name": "Morgan", 
-      "user_id": 1012008, 
-      "submission": "How would you vote on rpealing what supreme  court did(removed guts) to civil rights voting act of 1965?", 
-      "district": "NC_04", 
-      "created": "2013-08-09T12:37:52", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.0577, 
-      "x": -79.0035, 
-      "id": 16272196, 
-      "question_id": "16234626"
     }, 
     {
       "city": "West Warwick", 
