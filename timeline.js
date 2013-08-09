@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Ocala", 
-      "first_name": "Richard", 
-      "last_name": "Barstow", 
-      "user_id": 44028, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "FL_11", 
-      "created": "2013-08-09T23:06:00", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 29.1562, 
-      "x": -82.196, 
-      "id": 16287627, 
-      "question_id": "16172777"
-    }, 
-    {
       "city": "Hemphill", 
       "first_name": "Cecil", 
       "last_name": "Jones", 
       "user_id": 1779842, 
-      "submission": "will you support legislation ending the cap on social security wages", 
+      "submission": "What will you do to get congress to work on a jobs bill instead of wasting taxpayers money trying to repeal The Affordable Healthcare Act?", 
       "district": "TX_01", 
-      "created": "2013-08-09T23:05:51", 
+      "created": "2013-08-09T23:06:45", 
       "state": "TX", 
       "iface": "timeline_vote", 
       "y": 31.3087, 
       "x": -93.7716, 
-      "id": 16287625, 
-      "question_id": "16208816"
+      "id": 16287638, 
+      "question_id": "16203558"
+    }, 
+    {
+      "city": "Ocala", 
+      "first_name": "Richard", 
+      "last_name": "Barstow", 
+      "user_id": 44028, 
+      "submission": "What can you do to improve public transit nationally, including building a good rail network, when the governors and legislatures of some key states are so resistant to it?", 
+      "district": "FL_11", 
+      "created": "2013-08-09T23:06:42", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 29.1562, 
+      "x": -82.196, 
+      "id": 16287637, 
+      "question_id": "16172286"
     }, 
     {
       "city": "El Prado", 
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
       "district": "NM_03", 
-      "created": "2013-08-09T23:05:37", 
+      "created": "2013-08-09T23:06:40", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16287621, 
-      "question_id": "16172533"
+      "id": 16287636, 
+      "question_id": "16172281"
+    }, 
+    {
+      "city": "Monson", 
+      "first_name": "Kathleen", 
+      "last_name": "Conley", 
+      "user_id": 1809996, 
+      "submission": "The federal Individuals with Disabilities Education Act has helped millions of public school students through \"Special Ed\" services for over 30 years, yet Congress has never appropriated funding for the 40% federal share of the costs, so will you work to fully fund the IDEA/Special Ed to support education and shift this burden from middle class property taxpayers?", 
+      "district": "MA_01", 
+      "created": "2013-08-09T23:06:22", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.094, 
+      "x": -72.324, 
+      "id": 16287631, 
+      "question_id": "16287120"
     }, 
     {
       "city": "Sarasota", 
@@ -257,16 +272,16 @@ opendebate.processTimeline({
       "submission": "The federal Individuals with Disabilities Education Act has helped millions of public school students through \"Special Ed\" services for over 30 years, yet Congress has never appropriated funding for the 40% federal share of the costs, so will you work to fully fund the IDEA/Special Ed to support education and shift this burden from middle class property taxpayers?", 
       "district": "MA_05", 
       "created": "2013-08-09T22:32:02", 
-      "state_votes": 0, 
-      "votes": 0, 
+      "state_votes": 1, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "timeline_question", 
       "y": 42.4529, 
       "x": -71.146, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-09T23:06:22", 
       "id": 16287120, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Princeton", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -79.8873, 
       "id": 16287109, 
       "question_id": "16173259"
-    }, 
-    {
-      "city": "Hillsville", 
-      "first_name": "Juanita", 
-      "last_name": "Duffy", 
-      "user_id": 1075355, 
-      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
-      "district": "VA_09", 
-      "created": "2013-08-09T22:29:46", 
-      "state": "VA", 
-      "iface": "timeline_vote", 
-      "y": 36.7642, 
-      "x": -80.7368, 
-      "id": 16287106, 
-      "question_id": "16203866"
     }
   ]
 });
