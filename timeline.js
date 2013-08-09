@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "East Weymouth", 
+      "first_name": "Carlotta", 
+      "last_name": "Hayes", 
+      "user_id": 1806880, 
+      "submission": "Will you work to protect Planned Parenthood and affordable health care for all women", 
+      "district": "MA_08", 
+      "created": "2013-08-09T11:36:22", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2138, 
+      "x": -70.9328, 
+      "id": 16271443, 
+      "question_id": "16263952"
+    }, 
+    {
       "city": "Decatur", 
       "first_name": "Wilma", 
       "last_name": "Bondurant", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -88.9932, 
       "id": 16271440, 
       "question_id": "16265573"
-    }, 
-    {
-      "city": "East Weymouth", 
-      "first_name": "Carlotta", 
-      "last_name": "Hayes", 
-      "user_id": 1806880, 
-      "submission": "How can we get the Republican Congress to work with our President for the benefit of all Americans not just the rich?", 
-      "district": "MA_08", 
-      "created": "2013-08-09T11:35:56", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2138, 
-      "x": -70.9328, 
-      "id": 16271439, 
-      "question_id": "16265501"
     }, 
     {
       "city": "Cincinnati", 
