@@ -2,19 +2,68 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Henderson", 
+      "first_name": "Nicholas", 
+      "last_name": "Martino", 
+      "user_id": 1810195, 
+      "submission": "When those of us who have spoken out about 9/11 and have been terrorized for years by the NSA start taking the law into our own hands and start executing traitors, terrorists and mass murderers in government, where are you going to hide?", 
+      "district": "NV_03", 
+      "created": "2013-08-09T06:51:00", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NV", 
+      "iface": "timeline_question", 
+      "y": 36.0401, 
+      "x": -115.077, 
+      "latest_vote": null, 
+      "id": 16267196, 
+      "trending_score": 0.5
+    }, 
+    {
+      "city": "bucyrus", 
+      "first_name": "layla", 
+      "last_name": "bowen", 
+      "user_id": 264115, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "OH_04", 
+      "created": "2013-08-09T06:50:58", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 40.8167, 
+      "x": -82.9694, 
+      "id": 16267195, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Tryon", 
+      "first_name": "Murlel", 
+      "last_name": "Lunsford", 
+      "user_id": 1656934, 
+      "submission": "Will you support Elizabeth Warren's efforts to create a new Glass-Steagall Act?", 
+      "district": "NC_10", 
+      "created": "2013-08-09T06:50:53", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.2172, 
+      "x": -82.2262, 
+      "id": 16267194, 
+      "question_id": "16201467"
+    }, 
+    {
       "city": "Dallas", 
       "first_name": "Violet", 
       "last_name": "Sunderland", 
       "user_id": 986238, 
-      "submission": "Specifically, do you support or are you opposed to continuous genetically modified food production and chemical farming with pesticides, herbicides and insecticides?", 
+      "submission": "How will you vote on key issues such as climate change and big oil welfare. Will rich lobbyist be able to change your mind once they have wined and dined you?  Will you give in to the threats, of losing the next election if you win.", 
       "district": "OR_05", 
-      "created": "2013-08-09T06:50:02", 
+      "created": "2013-08-09T06:50:29", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 44.9222, 
       "x": -123.327, 
-      "id": 16267187, 
-      "question_id": "16179784"
+      "id": 16267190, 
+      "question_id": "16178433"
     }, 
     {
       "city": "Burnsville", 
@@ -30,21 +79,6 @@ opendebate.processTimeline({
       "x": -93.2812, 
       "id": 16267186, 
       "question_id": "16174618"
-    }, 
-    {
-      "city": "Tryon", 
-      "first_name": "Murlel", 
-      "last_name": "Lunsford", 
-      "user_id": 1656934, 
-      "submission": "What will you do to reduce the number of Americans in prison for victimless crimes such as marijuana possession?", 
-      "district": "NC_10", 
-      "created": "2013-08-09T06:49:56", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.2172, 
-      "x": -82.2262, 
-      "id": 16267185, 
-      "question_id": "16180815"
     }, 
     {
       "city": "New York", 
@@ -278,36 +312,6 @@ opendebate.processTimeline({
       "x": -118.352, 
       "id": 16266856, 
       "question_id": "16229765"
-    }, 
-    {
-      "city": "Yorktown Heights", 
-      "first_name": "Chris", 
-      "last_name": "Klett", 
-      "user_id": 167758, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "NY_17", 
-      "created": "2013-08-09T06:34:08", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 41.2949, 
-      "x": -73.7977, 
-      "id": 16266855, 
-      "question_id": "16172266"
-    }, 
-    {
-      "city": "San Francisco", 
-      "first_name": "Wayne", 
-      "last_name": "Johnson", 
-      "user_id": 333260, 
-      "submission": "What will you do to overturn Citizen's United?", 
-      "district": "CA_12", 
-      "created": "2013-08-09T06:32:35", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 37.7591, 
-      "x": -122.439, 
-      "id": 16266826, 
-      "question_id": "16172765"
     }
   ]
 });
