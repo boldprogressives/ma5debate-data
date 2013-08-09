@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Violet", 
       "last_name": "Sunderland", 
       "user_id": 986238, 
-      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
       "district": "OR_05", 
-      "created": "2013-08-09T07:10:01", 
+      "created": "2013-08-09T07:10:58", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 44.9222, 
       "x": -123.327, 
-      "id": 16267440, 
-      "question_id": "16173210"
+      "id": 16267448, 
+      "question_id": "16172303"
     }, 
     {
       "city": "Tryon", 
       "first_name": "Murlel", 
       "last_name": "Lunsford", 
       "user_id": 1656934, 
-      "submission": "What will you do about the lack of accountability for crimes such as Wall Street committed, Bankers and foreclosures, 911 crimes, NSA, TSA, and politicians taking bribery and the fake wars they create at OUR expense?  ", 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
       "district": "NC_10", 
-      "created": "2013-08-09T07:09:56", 
+      "created": "2013-08-09T07:10:35", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.2172, 
       "x": -82.2262, 
-      "id": 16267439, 
-      "question_id": "16194250"
+      "id": 16267446, 
+      "question_id": "16173335"
     }, 
     {
       "city": "Suffern", 
