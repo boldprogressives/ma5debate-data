@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Kansas City", 
-      "first_name": "Sandra", 
-      "last_name": "Singleton", 
-      "user_id": 578766, 
-      "submission": "What will you do to ensure people with disabilities and mental health issues get appropriate medical care, support services, housing and food?", 
-      "district": "MO_06", 
-      "created": "2013-08-09T21:31:58", 
-      "state": "MO", 
-      "iface": "timeline_vote", 
-      "y": 39.2158, 
-      "x": -94.5728, 
-      "id": 16286257, 
-      "question_id": "16224922"
-    }, 
-    {
       "city": "Portland", 
       "first_name": "Ed", 
       "last_name": "Loosli", 
       "user_id": 890741, 
-      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
+      "submission": "What will you do to overturn Citizen's United?", 
       "district": "OR_01", 
-      "created": "2013-08-09T21:31:45", 
+      "created": "2013-08-09T21:33:01", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 45.4087, 
       "x": -122.789, 
-      "id": 16286254, 
-      "question_id": "16173210"
+      "id": 16286268, 
+      "question_id": "16172765"
+    }, 
+    {
+      "city": "Kansas City", 
+      "first_name": "Sandra", 
+      "last_name": "Singleton", 
+      "user_id": 578766, 
+      "submission": "How do you propose to heed the people's concerns when there is special interest moneys and lobbyists' monies tugging you in an opposite direction?", 
+      "district": "MO_06", 
+      "created": "2013-08-09T21:33:00", 
+      "state": "MO", 
+      "iface": "timeline_vote", 
+      "y": 39.2158, 
+      "x": -94.5728, 
+      "id": 16286267, 
+      "question_id": "16216285"
+    }, 
+    {
+      "city": "Mount Angel", 
+      "first_name": "Jo", 
+      "last_name": "Morton", 
+      "user_id": 1692354, 
+      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
+      "district": "OR_05", 
+      "created": "2013-08-09T21:32:34", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 45.0681, 
+      "x": -122.781, 
+      "id": 16286263, 
+      "question_id": "16203866"
     }, 
     {
       "city": "Lexington", 
       "first_name": "Richard", 
       "last_name": "Jenson", 
       "user_id": 1644458, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
       "district": "MA_05", 
-      "created": "2013-08-09T21:31:23", 
+      "created": "2013-08-09T21:32:03", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.4484, 
       "x": -71.2338, 
-      "id": 16286250, 
-      "question_id": "16172913"
+      "id": 16286259, 
+      "question_id": "16203676"
     }, 
     {
       "city": "Wilton", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -122.568, 
       "id": 16285988, 
       "question_id": "16183286"
-    }, 
-    {
-      "city": "New Hartford", 
-      "first_name": "Ron", 
-      "last_name": "De George", 
-      "user_id": 699868, 
-      "submission": "The drug war and the prison industry has destroyed many lives -- especially of low income and minority citizens. As a first step, marijuana needs to be legalized nation-wide. What will you do toward that end?", 
-      "district": "NY_22", 
-      "created": "2013-08-09T21:07:57", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 43.0661, 
-      "x": -75.2901, 
-      "id": 16285987, 
-      "question_id": "16173418"
     }
   ]
 });
