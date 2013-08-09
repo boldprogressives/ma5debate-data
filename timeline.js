@@ -6,30 +6,45 @@ opendebate.processTimeline({
       "first_name": "Robert", 
       "last_name": "Soby", 
       "user_id": 1810107, 
-      "submission": "Would you support legislation like the Voter Empowerment Act (H.R. 12) to create national voting standards to ensure free, fair, and accessible elections nationwide?", 
+      "submission": "What will you do to ensure anyone that works full time has a living wage with benefits?", 
       "district": "CO_03", 
-      "created": "2013-08-09T05:40:48", 
+      "created": "2013-08-09T05:42:00", 
       "state": "CO", 
       "iface": "timeline_vote", 
       "y": 38.8953, 
       "x": -107.588, 
-      "id": 16265852, 
-      "question_id": "16181013"
+      "id": 16265858, 
+      "question_id": "16175636"
+    }, 
+    {
+      "city": "Takoma Park", 
+      "first_name": "P", 
+      "last_name": "Bucksell", 
+      "user_id": 775107, 
+      "submission": "The threat that hangs over the country today is a GOP determined to destroy the middle class and the values that define it.  What specific steps will you recommend to confront, not appease, the GOP?", 
+      "district": "MD_08", 
+      "created": "2013-08-09T05:41:57", 
+      "state": "MD", 
+      "iface": "timeline_vote", 
+      "y": 38.9857, 
+      "x": -77.0055, 
+      "id": 16265857, 
+      "question_id": "16172694"
     }, 
     {
       "city": "port angeles .", 
       "first_name": "neil", 
       "last_name": "hildebrand", 
       "user_id": 172877, 
-      "submission": "What actions will you take to support your commitment to protecting the environment in this country and on the globe?", 
+      "submission": "How do you plan to control the corporations who are now controlling the commodities markets?  Will you bring back the Glass/Seagal act?", 
       "district": "WA_06", 
-      "created": "2013-08-09T05:40:24", 
+      "created": "2013-08-09T05:41:43", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 48.1184, 
       "x": -123.481, 
-      "id": 16265849, 
-      "question_id": "16257312"
+      "id": 16265854, 
+      "question_id": "16254871"
     }, 
     {
       "city": "Henderson", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -112.141, 
       "id": 16265555, 
       "question_id": "16238957"
-    }, 
-    {
-      "city": "Brookings", 
-      "first_name": "Martin", 
-      "last_name": "Zuniga", 
-      "user_id": 1771781, 
-      "submission": "Will you support responsible reform among the big banks - never too big to FAIL, never too big to JAIL, and always too big to BAIL?", 
-      "district": "OR_04", 
-      "created": "2013-08-09T05:22:37", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 42.0542, 
-      "x": -124.26, 
-      "id": 16265551, 
-      "question_id": "16248409"
     }
   ]
 });
