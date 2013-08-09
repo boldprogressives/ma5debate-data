@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Paula", 
       "last_name": "Goodman", 
       "user_id": 546461, 
-      "submission": "Would you support the pardoning of all victimless crime marijuana (Cannabis) offenders? Depopulating our For Profit Prisons?", 
+      "submission": "Would you support ending ALL corporate welfare.The taxpayers should not have to finance our own destruction.Our tax's are used to ship jobs overseas, destroy small farms + business's, pollute our air + water, deny our children access to quality education, ect.", 
       "district": "CA_11", 
-      "created": "2013-08-09T09:06:40", 
+      "created": "2013-08-09T09:08:04", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 37.9423, 
       "x": -122.355, 
-      "id": 16270084, 
-      "question_id": "16208291"
+      "id": 16270092, 
+      "question_id": "16217791"
     }, 
     {
       "city": "New York", 
       "first_name": "Christiane", 
       "last_name": "Pors", 
       "user_id": 1785709, 
-      "submission": "What will you do to restore the voters rights act?  ", 
+      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
       "district": "NY_10", 
-      "created": "2013-08-09T09:06:15", 
+      "created": "2013-08-09T09:07:29", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7773, 
       "x": -73.9825, 
-      "id": 16270083, 
-      "question_id": "16238835"
+      "id": 16270087, 
+      "question_id": "16173210"
     }, 
     {
       "city": "Acton", 
