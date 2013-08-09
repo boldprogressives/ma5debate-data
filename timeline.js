@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Mount Joy", 
+      "first_name": "Margaret", 
+      "last_name": "Beitzel", 
+      "user_id": 526895, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "PA_16", 
+      "created": "2013-08-09T11:02:00", 
+      "state": "PA", 
+      "iface": "timeline_vote", 
+      "y": 40.1085, 
+      "x": -76.5089, 
+      "id": 16271164, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Nashville", 
       "first_name": "D. S.", 
       "last_name": "Kinzie", 
       "user_id": 88880, 
-      "submission": "When are we going to prosecute Wall Street Banksters ?", 
+      "submission": "What will you do about stopping the billions of dollars that the postal service have to pay even though it not funded by any federal money.", 
       "district": "TN_05", 
-      "created": "2013-08-09T11:01:02", 
+      "created": "2013-08-09T11:01:55", 
       "state": "TN", 
       "iface": "timeline_vote", 
       "y": 36.1088, 
       "x": -86.7806, 
-      "id": 16271155, 
-      "question_id": "16175312"
+      "id": 16271163, 
+      "question_id": "16176473"
+    }, 
+    {
+      "city": "Amherst", 
+      "first_name": "James", 
+      "last_name": "Oldham", 
+      "user_id": 1173732, 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "district": "MA_02", 
+      "created": "2013-08-09T11:01:36", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3769, 
+      "x": -72.4691, 
+      "id": 16271162, 
+      "question_id": "16172755"
     }, 
     {
       "city": "Newton", 
@@ -30,21 +60,6 @@ opendebate.processTimeline({
       "x": -71.1907, 
       "id": 16271154, 
       "question_id": "16180815"
-    }, 
-    {
-      "city": "Mount Joy", 
-      "first_name": "Margaret", 
-      "last_name": "Beitzel", 
-      "user_id": 526895, 
-      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
-      "district": "PA_16", 
-      "created": "2013-08-09T11:00:46", 
-      "state": "PA", 
-      "iface": "timeline_vote", 
-      "y": 40.1085, 
-      "x": -76.5089, 
-      "id": 16271152, 
-      "question_id": "16173210"
     }, 
     {
       "city": "Sullivan", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -88.1815, 
       "id": 16270717, 
       "question_id": "16205834"
-    }, 
-    {
-      "city": "Clayton", 
-      "first_name": "Vicki", 
-      "last_name": "Thompson", 
-      "user_id": 1796286, 
-      "submission": "Will you make repairing and updating the infrastructure, not just roads but bridges and the electrical grid, a priority?", 
-      "district": "NC_07", 
-      "created": "2013-08-09T10:12:34", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.6363, 
-      "x": -78.4448, 
-      "id": 16270682, 
-      "question_id": "16191114"
     }
   ]
 });
