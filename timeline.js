@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Carolyn", 
       "last_name": "Nikkal", 
       "user_id": 994541, 
-      "submission": "What is your position on the Keystone XL pipeline and on fracking? Specifically what would you do to stop climate change and move to renewable energy?", 
+      "submission": "Will you vote to end all fossil-fuel subsidies?", 
       "district": "MA_08", 
-      "created": "2013-08-09T16:16:01", 
+      "created": "2013-08-09T16:16:58", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2947, 
       "x": -71.1305, 
-      "id": 16279010, 
-      "question_id": "16207584"
+      "id": 16279019, 
+      "question_id": "16201353"
     }, 
     {
       "city": "Newtown Square", 
