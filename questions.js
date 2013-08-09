@@ -4817,15 +4817,15 @@ opendebate.processFetchedQuestions({
       "district": "GA_14", 
       "created": "2013-08-08T21:11:52", 
       "state_votes": 1, 
-      "votes": 8, 
+      "votes": 9, 
       "district_votes": 1, 
       "state": "GA", 
       "iface": "question", 
       "y": 34.2829, 
       "x": -85.2376, 
-      "latest_vote": "2013-08-09T15:04:15", 
+      "latest_vote": "2013-08-09T15:41:47", 
       "id": 16234647, 
-      "trending_score": 4.5
+      "trending_score": 3.0
     }, 
     {
       "city": "Knoxville", 
@@ -4912,15 +4912,15 @@ opendebate.processFetchedQuestions({
       "district": "PA_01", 
       "created": "2013-08-08T21:07:50", 
       "state_votes": 0, 
-      "votes": 27, 
+      "votes": 28, 
       "district_votes": 0, 
       "state": "PA", 
       "iface": "question", 
       "y": 39.9685, 
       "x": -75.1731, 
-      "latest_vote": "2013-08-09T14:45:43", 
+      "latest_vote": "2013-08-09T15:41:58", 
       "id": 16234332, 
-      "trending_score": 5.25
+      "trending_score": 6.25
     }, 
     {
       "city": "Phila", 
@@ -5881,15 +5881,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_01", 
       "created": "2013-08-08T16:17:51", 
       "state_votes": 5, 
-      "votes": 86, 
+      "votes": 87, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4555, 
       "x": -73.25, 
-      "latest_vote": "2013-08-09T14:46:19", 
+      "latest_vote": "2013-08-09T15:41:37", 
       "id": 16227025, 
-      "trending_score": 5.25
+      "trending_score": 6.25
     }, 
     {
       "city": "Lexington", 
@@ -9206,15 +9206,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_06", 
       "created": "2013-08-07T16:23:27", 
       "state_votes": 4, 
-      "votes": 38, 
+      "votes": 39, 
       "district_votes": 0, 
       "state": "FL", 
       "iface": "question", 
       "y": 29.2364, 
       "x": -81.0578, 
-      "latest_vote": "2013-08-09T15:23:03", 
+      "latest_vote": "2013-08-09T15:41:13", 
       "id": 16217791, 
-      "trending_score": 5.166666666666667
+      "trending_score": 6.166666666666667
     }, 
     {
       "city": "Fairbanks", 
@@ -12995,7 +12995,7 @@ opendebate.processFetchedQuestions({
       "x": -77.231, 
       "latest_vote": "2013-08-09T11:12:01", 
       "id": 16207353, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Millis", 
@@ -13375,7 +13375,7 @@ opendebate.processFetchedQuestions({
       "x": -117.307, 
       "latest_vote": "2013-08-09T14:47:11", 
       "id": 16205966, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Saratoga Springs", 
@@ -13386,15 +13386,15 @@ opendebate.processFetchedQuestions({
       "district": "NY_20", 
       "created": "2013-08-06T21:28:51", 
       "state_votes": 16, 
-      "votes": 119, 
+      "votes": 120, 
       "district_votes": 4, 
       "state": "NY", 
       "iface": "question", 
       "y": 43.076, 
       "x": -73.7748, 
-      "latest_vote": "2013-08-09T15:17:59", 
+      "latest_vote": "2013-08-09T15:41:26", 
       "id": 16205951, 
-      "trending_score": 4.166666666666666
+      "trending_score": 4.5
     }, 
     {
       "city": "Addison", 
@@ -13443,15 +13443,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_02", 
       "created": "2013-08-06T21:20:24", 
       "state_votes": 16, 
-      "votes": 522, 
+      "votes": 523, 
       "district_votes": 4, 
       "state": "CA", 
       "iface": "question", 
       "y": 40.8726, 
       "x": -124.071, 
-      "latest_vote": "2013-08-09T15:37:52", 
+      "latest_vote": "2013-08-09T15:41:23", 
       "id": 16205834, 
-      "trending_score": 8.642857142857142
+      "trending_score": 9.142857142857142
     }, 
     {
       "city": "Addison", 
@@ -14088,16 +14088,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
       "district": "MA_01", 
       "created": "2013-08-06T20:10:21", 
-      "state_votes": 30, 
-      "votes": 379, 
+      "state_votes": 31, 
+      "votes": 380, 
       "district_votes": 10, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.204, 
       "x": -72.6301, 
-      "latest_vote": "2013-08-09T15:35:35", 
+      "latest_vote": "2013-08-09T15:41:31", 
       "id": 16203676, 
-      "trending_score": 31.25
+      "trending_score": 31.75
     }, 
     {
       "city": "Gloucester", 
@@ -16947,7 +16947,7 @@ opendebate.processFetchedQuestions({
       "x": -81.4184, 
       "latest_vote": "2013-08-09T14:46:49", 
       "id": 16191114, 
-      "trending_score": 2.0
+      "trending_score": 3.1666666666666665
     }, 
     {
       "city": "Somerset", 
@@ -19067,15 +19067,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-06T15:02:39", 
       "state_votes": 6, 
-      "votes": 423, 
+      "votes": 424, 
       "district_votes": 0, 
       "state": "MT", 
       "iface": "question", 
       "y": 45.8404, 
       "x": -108.465, 
-      "latest_vote": "2013-08-09T15:29:28", 
+      "latest_vote": "2013-08-09T15:41:14", 
       "id": 16185364, 
-      "trending_score": 5.333333333333333
+      "trending_score": 5.833333333333333
     }, 
     {
       "city": "Boca Raton", 
@@ -19960,15 +19960,15 @@ opendebate.processFetchedQuestions({
       "district": "DE_01", 
       "created": "2013-08-06T14:38:18", 
       "state_votes": 5, 
-      "votes": 346, 
+      "votes": 347, 
       "district_votes": 2, 
       "state": "DE", 
       "iface": "question", 
       "y": 39.6046, 
       "x": -75.7463, 
-      "latest_vote": "2013-08-09T15:38:10", 
+      "latest_vote": "2013-08-09T15:41:47", 
       "id": 16183415, 
-      "trending_score": 11.166666666666666
+      "trending_score": 12.166666666666666
     }, 
     {
       "city": "UNIO PIER", 
@@ -21100,15 +21100,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-06T13:36:44", 
       "state_votes": 13, 
-      "votes": 110, 
+      "votes": 111, 
       "district_votes": 3, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4213, 
       "x": -71.1134, 
-      "latest_vote": "2013-08-09T14:45:54", 
+      "latest_vote": "2013-08-09T15:41:42", 
       "id": 16181276, 
-      "trending_score": 4.25
+      "trending_score": 4.75
     }, 
     {
       "city": "Arlington", 
@@ -21270,16 +21270,16 @@ opendebate.processFetchedQuestions({
       "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
       "district": "MA_07", 
       "created": "2013-08-06T12:32:01", 
-      "state_votes": 19, 
-      "votes": 632, 
+      "state_votes": 20, 
+      "votes": 633, 
       "district_votes": 7, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3818, 
       "x": -71.1032, 
-      "latest_vote": "2013-08-09T15:39:26", 
+      "latest_vote": "2013-08-09T15:41:45", 
       "id": 16180998, 
-      "trending_score": 29.125
+      "trending_score": 30.125
     }, 
     {
       "city": "Irvine", 
@@ -24918,16 +24918,16 @@ opendebate.processFetchedQuestions({
       "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
       "district": "FL_25", 
       "created": "2013-08-05T00:22:27", 
-      "state_votes": 57, 
-      "votes": 435, 
+      "state_votes": 58, 
+      "votes": 436, 
       "district_votes": 17, 
       "state": "FL", 
       "iface": "question", 
       "y": 25.99, 
       "x": -81.5334, 
-      "latest_vote": "2013-08-09T15:35:17", 
+      "latest_vote": "2013-08-09T15:41:49", 
       "id": 16175500, 
-      "trending_score": 28.125
+      "trending_score": 28.625
     }, 
     {
       "city": "Seattle", 
@@ -25261,15 +25261,15 @@ opendebate.processFetchedQuestions({
       "district": "WI_02", 
       "created": "2013-08-04T21:54:34", 
       "state_votes": 25, 
-      "votes": 220, 
+      "votes": 221, 
       "district_votes": 11, 
       "state": "WI", 
       "iface": "question", 
       "y": 42.9812, 
       "x": -89.7297, 
-      "latest_vote": "2013-08-09T15:35:44", 
+      "latest_vote": "2013-08-09T15:41:54", 
       "id": 16175078, 
-      "trending_score": 7.25
+      "trending_score": 8.25
     }, 
     {
       "city": "Iuka", 
@@ -26059,15 +26059,15 @@ opendebate.processFetchedQuestions({
       "district": "AZ_06", 
       "created": "2013-08-04T19:07:04", 
       "state_votes": 5, 
-      "votes": 71, 
+      "votes": 72, 
       "district_votes": 2, 
       "state": "AZ", 
       "iface": "question", 
       "y": 33.6324, 
       "x": -112.112, 
-      "latest_vote": "2013-08-09T15:17:42", 
+      "latest_vote": "2013-08-09T15:41:17", 
       "id": 16174319, 
-      "trending_score": 13.25
+      "trending_score": 14.25
     }, 
     {
       "city": "Great Neck", 
@@ -26913,16 +26913,16 @@ opendebate.processFetchedQuestions({
       "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
       "district": "TN_02", 
       "created": "2013-08-04T02:07:32", 
-      "state_votes": 134, 
-      "votes": 1000, 
+      "state_votes": 135, 
+      "votes": 1001, 
       "district_votes": 31, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.8311, 
       "x": -84.0482, 
-      "latest_vote": "2013-08-09T15:35:46", 
+      "latest_vote": "2013-08-09T15:41:39", 
       "id": 16173335, 
-      "trending_score": 28.708333333333332
+      "trending_score": 29.041666666666668
     }, 
     {
       "city": "Evansville", 
@@ -27435,7 +27435,7 @@ opendebate.processFetchedQuestions({
       "x": -97.7518, 
       "latest_vote": "2013-08-09T15:40:43", 
       "id": 16173210, 
-      "trending_score": 20.666666666666668
+      "trending_score": 16.633333333333333
     }, 
     {
       "city": "Cottonwood", 
@@ -28433,16 +28433,16 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
       "district": "ID_02", 
       "created": "2013-08-03T22:11:15", 
-      "state_votes": 89, 
-      "votes": 733, 
+      "state_votes": 90, 
+      "votes": 734, 
       "district_votes": 22, 
       "state": "ID", 
       "iface": "question", 
       "y": 43.6302, 
       "x": -116.297, 
-      "latest_vote": "2013-08-09T15:35:54", 
+      "latest_vote": "2013-08-09T15:41:54", 
       "id": 16172697, 
-      "trending_score": 27.59090909090909
+      "trending_score": 28.09090909090909
     }, 
     {
       "city": "Holts Summit", 

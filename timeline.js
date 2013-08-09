@@ -6,15 +6,45 @@ opendebate.processTimeline({
       "first_name": "JoAnne", 
       "last_name": "Bruno", 
       "user_id": 1575480, 
-      "submission": "The drug war and the prison industry has destroyed many lives -- especially of low income and minority citizens. As a first step, marijuana needs to be legalized nation-wide. What will you do toward that end?", 
+      "submission": "Would you support alternative energy R&D in place of subsidies for oil gas and coal?", 
       "district": "NJ_04", 
-      "created": "2013-08-09T15:41:04", 
+      "created": "2013-08-09T15:41:58", 
       "state": "NJ", 
       "iface": "timeline_vote", 
       "y": 40.1788, 
       "x": -74.66, 
-      "id": 16278148, 
-      "question_id": "16173418"
+      "id": 16278165, 
+      "question_id": "16234332"
+    }, 
+    {
+      "city": "springfield", 
+      "first_name": "James", 
+      "last_name": "Keats", 
+      "user_id": 1684693, 
+      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
+      "district": "MA_01", 
+      "created": "2013-08-09T15:41:54", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.1229, 
+      "x": -72.5064, 
+      "id": 16278163, 
+      "question_id": "16172697"
+    }, 
+    {
+      "city": "Seattle", 
+      "first_name": "Susan", 
+      "last_name": "fried", 
+      "user_id": 291649, 
+      "submission": "Will Goldman Sachs be prosecuted for their aluminum inventory manipulations?", 
+      "district": "WA_07", 
+      "created": "2013-08-09T15:41:47", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 47.7184, 
+      "x": -122.302, 
+      "id": 16278159, 
+      "question_id": "16234647"
     }, 
     {
       "city": "Pittsburgh", 
@@ -30,21 +60,6 @@ opendebate.processTimeline({
       "x": -80.06, 
       "id": 16278147, 
       "question_id": "16176855"
-    }, 
-    {
-      "city": "Seattle", 
-      "first_name": "Susan", 
-      "last_name": "fried", 
-      "user_id": 291649, 
-      "submission": "Would you support a ban on Congresspersons accepting jobs as corporate lobbyists for at least ten years after leaving Congress?", 
-      "district": "WA_07", 
-      "created": "2013-08-09T15:40:35", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 47.7184, 
-      "x": -122.302, 
-      "id": 16278145, 
-      "question_id": "16178177"
     }, 
     {
       "city": "Alexandria", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -122.34, 
       "id": 16277891, 
       "question_id": "16172765"
-    }, 
-    {
-      "city": "Oakland", 
-      "first_name": "Teresa", 
-      "last_name": "Boggs-Moura", 
-      "user_id": 896992, 
-      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
-      "district": "CA_13", 
-      "created": "2013-08-09T15:26:17", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 37.791, 
-      "x": -122.181, 
-      "id": 16277885, 
-      "question_id": "16175637"
     }
   ]
 });
