@@ -2,19 +2,79 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Athens", 
+      "first_name": "llynn", 
+      "last_name": "manzione", 
+      "user_id": 698396, 
+      "submission": "When will you force Eric Holder and the DOJ to start prosecuting the criminal elements in the Wall Street firms that attributed to the great economic crash of 2008?", 
+      "district": "GA_09", 
+      "created": "2013-08-09T13:33:00", 
+      "state": "GA", 
+      "iface": "timeline_vote", 
+      "y": 33.9924, 
+      "x": -83.4167, 
+      "id": 16273088, 
+      "question_id": "16209667"
+    }, 
+    {
+      "city": "Port Orchard", 
+      "first_name": "Neal", 
+      "last_name": "Foley", 
+      "user_id": 1538368, 
+      "submission": "Will you work to support Elizabeth Warren's efforts to revise Glass-Steagall", 
+      "district": "WA_06", 
+      "created": "2013-08-09T13:32:43", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 47.5312, 
+      "x": -122.64, 
+      "id": 16273085, 
+      "question_id": "16265543"
+    }, 
+    {
       "city": "Barnum", 
       "first_name": "James", 
       "last_name": "Korioth", 
       "user_id": 1693318, 
-      "submission": "I assume you are for relegalization of marijuana, stopping the idiotic raids on legal medical marijuana facioities, allow taxing o fit... So what would youdo to make this process happen?", 
+      "submission": "What will you do to get the US government to stop lying about the medical values of marijuana and suppressing our right to control our own bodies?", 
       "district": "MN_08", 
-      "created": "2013-08-09T13:32:07", 
+      "created": "2013-08-09T13:32:42", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 46.5765, 
       "x": -92.7179, 
-      "id": 16273062, 
-      "question_id": "16185516"
+      "id": 16273082, 
+      "question_id": "16183803"
+    }, 
+    {
+      "city": "Amarillo", 
+      "first_name": "alesa", 
+      "last_name": "nolan", 
+      "user_id": 1716047, 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "district": "TX_13", 
+      "created": "2013-08-09T13:32:42", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 35.1869, 
+      "x": -101.804, 
+      "id": 16273084, 
+      "question_id": "16173335"
+    }, 
+    {
+      "city": "Monmouth", 
+      "first_name": "Thomas", 
+      "last_name": "Rousseau", 
+      "user_id": 1485320, 
+      "submission": "Why doesn't congressional pay get cut with the sequester cuts - that are hurting Americans?", 
+      "district": "ME_02", 
+      "created": "2013-08-09T13:32:12", 
+      "state": "ME", 
+      "iface": "timeline_vote", 
+      "y": 44.2288, 
+      "x": -70.0637, 
+      "id": 16273069, 
+      "question_id": "16256438"
     }, 
     {
       "city": "Stillwater", 
@@ -30,21 +90,6 @@ opendebate.processTimeline({
       "x": -97.0616, 
       "id": 16273061, 
       "question_id": "16173335"
-    }, 
-    {
-      "city": "Athens", 
-      "first_name": "llynn", 
-      "last_name": "manzione", 
-      "user_id": 698396, 
-      "submission": "/What will you do to bring to end the very distructive drug war.  Could you at least support and promote moving Marijuana from level i to a lower level of controled substance as the first step.", 
-      "district": "GA_09", 
-      "created": "2013-08-09T13:32:02", 
-      "state": "GA", 
-      "iface": "timeline_vote", 
-      "y": 33.9924, 
-      "x": -83.4167, 
-      "id": 16273058, 
-      "question_id": "16262893"
     }, 
     {
       "city": "Perkinsville", 
@@ -66,21 +111,6 @@ opendebate.processTimeline({
       "trending_score": 0.5
     }, 
     {
-      "city": "Amarillo", 
-      "first_name": "alesa", 
-      "last_name": "nolan", 
-      "user_id": 1716047, 
-      "submission": "Will you work to support Elizabeth Warren's efforts to revise Glass-Steagall", 
-      "district": "TX_13", 
-      "created": "2013-08-09T13:31:37", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 35.1869, 
-      "x": -101.804, 
-      "id": 16273043, 
-      "question_id": "16265543"
-    }, 
-    {
       "city": "Natick", 
       "first_name": "Sheila", 
       "last_name": "Cram", 
@@ -94,21 +124,6 @@ opendebate.processTimeline({
       "x": -71.3523, 
       "id": 16273042, 
       "question_id": "16172777"
-    }, 
-    {
-      "city": "Port Orchard", 
-      "first_name": "Neal", 
-      "last_name": "Foley", 
-      "user_id": 1538368, 
-      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
-      "district": "WA_06", 
-      "created": "2013-08-09T13:31:32", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 47.5312, 
-      "x": -122.64, 
-      "id": 16273041, 
-      "question_id": "16172727"
     }, 
     {
       "city": "Tucson", 
@@ -139,21 +154,6 @@ opendebate.processTimeline({
       "x": -71.1312, 
       "id": 16273032, 
       "question_id": "16172777"
-    }, 
-    {
-      "city": "Monmouth", 
-      "first_name": "Thomas", 
-      "last_name": "Rousseau", 
-      "user_id": 1485320, 
-      "submission": "Will you support reform to congressional and executive compensation, including pay that is equal to the median income of the constituents they represent?", 
-      "district": "ME_02", 
-      "created": "2013-08-09T13:30:24", 
-      "state": "ME", 
-      "iface": "timeline_vote", 
-      "y": 44.2288, 
-      "x": -70.0637, 
-      "id": 16273024, 
-      "question_id": "16201568"
     }, 
     {
       "city": "Duluth", 
