@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Dominique", 
       "last_name": "Spurling", 
       "user_id": 339493, 
-      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "submission": "Will you work to reinstate the Glass-Steagall Act to insure that the Wall Street banks behave in a more responsible manner?", 
       "district": "NV_03", 
-      "created": "2013-08-09T07:26:00", 
+      "created": "2013-08-09T07:26:57", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 35.9778, 
       "x": -114.836, 
-      "id": 16267575, 
-      "question_id": "16172755"
+      "id": 16267580, 
+      "question_id": "16256690"
     }, 
     {
       "city": "Medford", 
       "first_name": "", 
       "last_name": "", 
       "user_id": 1810198, 
-      "submission": "What is your view of the \"Race to the Top\" approach to education and its reliance on increased standardized testing and nationwide standardization via the Common Core?", 
+      "submission": "Would you support a living wage law that would force corporations, like Wal-Mart, whose Walton family owns more wealth than 40% of all Americans, to pay  living wages to all of their workers?", 
       "district": "MA_05", 
-      "created": "2013-08-09T07:23:53", 
+      "created": "2013-08-09T07:26:38", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.4213, 
       "x": -71.1134, 
-      "id": 16267562, 
-      "question_id": "16202179"
+      "id": 16267578, 
+      "question_id": "16210264"
     }, 
     {
       "city": "Tryon", 
