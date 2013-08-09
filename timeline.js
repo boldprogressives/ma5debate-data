@@ -2,6 +2,55 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Alvin", 
+      "first_name": "rox", 
+      "last_name": "colby", 
+      "user_id": 1677442, 
+      "submission": "Will you go on record to oppose chained CPI?", 
+      "district": "TX_22", 
+      "created": "2013-08-09T06:39:01", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 29.4, 
+      "x": -95.2394, 
+      "id": 16266975, 
+      "question_id": "16225266"
+    }, 
+    {
+      "city": "Granite Falls", 
+      "first_name": "Bruce", 
+      "last_name": "Barnbaum", 
+      "user_id": 204726, 
+      "submission": "What do you intend to do about global warming and greenhouse gases?", 
+      "district": "WA_01", 
+      "created": "2013-08-09T06:38:10", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WA", 
+      "iface": "timeline_question", 
+      "y": 48.0532, 
+      "x": -121.684, 
+      "latest_vote": null, 
+      "id": 16266957, 
+      "trending_score": 0.5
+    }, 
+    {
+      "city": "Tryon", 
+      "first_name": "Murlel", 
+      "last_name": "Lunsford", 
+      "user_id": 1656934, 
+      "submission": "Re Gun Control:  Will you fight the NRA to achieve basic reforms that most Americans agree on?:* Some people should never own any type of weapon.* Some weapons should never be owned by anyone.* Background checks should be universal and enforced.* Basic defense of self and home requires only a simple rifle and/or pistol, not assault weapons.* The Second Amendment refers to a \"well-regulated militia\"; this clause cannot be ignored, everything that follows relates to that.  It does not mean that any and all Americans may own any and all forms of weaponry. Would you support an amendment to the U.S. Constitution clarifying the Second Amendment as suggested above?", 
+      "district": "NC_10", 
+      "created": "2013-08-09T06:38:09", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.2172, 
+      "x": -82.2262, 
+      "id": 16266956, 
+      "question_id": "16232223"
+    }, 
+    {
       "city": "Dallas", 
       "first_name": "Violet", 
       "last_name": "Sunderland", 
@@ -15,36 +64,6 @@ opendebate.processTimeline({
       "x": -123.327, 
       "id": 16266951, 
       "question_id": "16173312"
-    }, 
-    {
-      "city": "Alvin", 
-      "first_name": "rox", 
-      "last_name": "colby", 
-      "user_id": 1677442, 
-      "submission": "Do we really need 800 overseas military bases? Does it make sense to invest in peaceful coexistence and greening the planet", 
-      "district": "TX_22", 
-      "created": "2013-08-09T06:38:00", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 29.4, 
-      "x": -95.2394, 
-      "id": 16266952, 
-      "question_id": "16180989"
-    }, 
-    {
-      "city": "Tryon", 
-      "first_name": "Murlel", 
-      "last_name": "Lunsford", 
-      "user_id": 1656934, 
-      "submission": "I was surprised and dimayed you supported the Monsanto Farm Bill. Do you support a communities right to require GMO labeling and to prohibit GMO crops from being planted within pollinating distance of  established Organic Farms?", 
-      "district": "NC_10", 
-      "created": "2013-08-09T06:37:10", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.2172, 
-      "x": -82.2262, 
-      "id": 16266933, 
-      "question_id": "16174618"
     }, 
     {
       "city": "Seattle", 
@@ -289,21 +308,6 @@ opendebate.processTimeline({
       "x": -122.641, 
       "id": 16266417, 
       "question_id": "16180456"
-    }, 
-    {
-      "city": "Tularosa", 
-      "first_name": "Raphael", 
-      "last_name": "Filippi", 
-      "user_id": 89759, 
-      "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
-      "district": "NM_02", 
-      "created": "2013-08-09T06:19:00", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 33.0746, 
-      "x": -106.015, 
-      "id": 16266411, 
-      "question_id": "16175500"
     }
   ]
 });
