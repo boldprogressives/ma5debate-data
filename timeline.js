@@ -2,19 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "El Prado", 
+      "first_name": "Sally", 
+      "last_name": "Phelps", 
+      "user_id": 1567108, 
+      "submission": "Our public structures help assure our quality of life, what will you do to strengthen our public health infrastructure (e.g. state lab institute) in the face of 25+% cuts over the past few years?", 
+      "district": "NM_03", 
+      "created": "2013-08-09T23:38:59", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 36.4486, 
+      "x": -105.575, 
+      "id": 16287998, 
+      "question_id": "16230698"
+    }, 
+    {
       "city": "Holland Patent", 
       "first_name": "Bob", 
       "last_name": "Prosser", 
       "user_id": 699964, 
-      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
+      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
       "district": "NY_22", 
-      "created": "2013-08-09T23:38:00", 
+      "created": "2013-08-09T23:38:59", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 43.2536, 
       "x": -75.2845, 
-      "id": 16287989, 
-      "question_id": "16172697"
+      "id": 16287999, 
+      "question_id": "16175740"
+    }, 
+    {
+      "city": "Burnsville", 
+      "first_name": "Bonnie", 
+      "last_name": "Rosenfield", 
+      "user_id": 1025762, 
+      "submission": "Will you pledge to do all you can to fight the increasing income inequities in our society, and the policies that promote them?", 
+      "district": "MN_02", 
+      "created": "2013-08-09T23:38:52", 
+      "state": "MN", 
+      "iface": "timeline_vote", 
+      "y": 44.7702, 
+      "x": -93.2812, 
+      "id": 16287997, 
+      "question_id": "16182122"
+    }, 
+    {
+      "city": "Tucson", 
+      "first_name": "glenn", 
+      "last_name": "martin", 
+      "user_id": 1773873, 
+      "submission": "When will the Congress return all the money of  our Social Security funds we paid for or retirement  return back to the Social Security fund?  We need a date and we need every penny which was  robbed from our people's  money Returned NOW! ", 
+      "district": "AZ_02", 
+      "created": "2013-08-09T23:38:48", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 32.2449, 
+      "x": -110.921, 
+      "id": 16287996, 
+      "question_id": "16201865"
     }, 
     {
       "city": "Seattle", 
@@ -30,36 +75,6 @@ opendebate.processTimeline({
       "x": -122.398, 
       "id": 16287988, 
       "question_id": "16172694"
-    }, 
-    {
-      "city": "El Prado", 
-      "first_name": "Sally", 
-      "last_name": "Phelps", 
-      "user_id": 1567108, 
-      "submission": "What will you do about food stamps and increasing them will you protect the program to make sure it doesn't get depleted?", 
-      "district": "NM_03", 
-      "created": "2013-08-09T23:37:47", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16287985, 
-      "question_id": "16259933"
-    }, 
-    {
-      "city": "Burnsville", 
-      "first_name": "Bonnie", 
-      "last_name": "Rosenfield", 
-      "user_id": 1025762, 
-      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
-      "district": "MN_02", 
-      "created": "2013-08-09T23:36:51", 
-      "state": "MN", 
-      "iface": "timeline_vote", 
-      "y": 44.7702, 
-      "x": -93.2812, 
-      "id": 16287966, 
-      "question_id": "16172583"
     }, 
     {
       "city": "Lynn", 
@@ -305,25 +320,6 @@ opendebate.processTimeline({
       "x": -93.7716, 
       "id": 16287649, 
       "question_id": "16181276"
-    }, 
-    {
-      "city": "Sarasota", 
-      "first_name": "Michael", 
-      "last_name": "B", 
-      "user_id": 1677568, 
-      "submission": "Will you work to end America's disastrous \"war in drugs,\" or at least work to decriminalize marijuana?", 
-      "district": "FL_16", 
-      "created": "2013-08-09T23:04:56", 
-      "state_votes": 0, 
-      "votes": 1, 
-      "district_votes": 0, 
-      "state": "FL", 
-      "iface": "timeline_question", 
-      "y": 27.3104, 
-      "x": -82.5178, 
-      "latest_vote": "2013-08-09T23:23:37", 
-      "id": 16287611, 
-      "trending_score": 1.5
     }
   ]
 });
