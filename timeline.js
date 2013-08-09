@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "People who apply for mission critical jobs like astronauts have to pass multiple psychological tests. Why not politicians? An IQ test might not be a bad place to start.", 
+      "submission": "How do you justify our decades long sanctions on Cuba and our normal relationships with the oppressive governments of China, Russia, Bahrain, Saudia  and others?Arabia", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:17:42", 
+      "created": "2013-08-09T21:18:29", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286087, 
-      "question_id": "16213317"
+      "id": 16286098, 
+      "question_id": "16255232"
+    }, 
+    {
+      "city": "Roslindale", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810360, 
+      "submission": "What can you do to improve public transit nationally, including building a good rail network, when the governors and legislatures of some key states are so resistant to it?", 
+      "district": "MA_07", 
+      "created": "2013-08-09T21:18:13", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2847, 
+      "x": -71.1277, 
+      "id": 16286091, 
+      "question_id": "16172286"
     }, 
     {
       "city": "Port Allegany", 
@@ -74,15 +89,15 @@ opendebate.processTimeline({
       "district": "ME_01", 
       "created": "2013-08-09T21:15:18", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "ME", 
       "iface": "timeline_question", 
       "y": 43.8081, 
       "x": -70.4209, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-09T21:18:19", 
       "id": 16286055, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Palmer", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "x": -111.829, 
       "id": 16285727, 
       "question_id": "16173259"
-    }, 
-    {
-      "city": "ozone park", 
-      "first_name": "erin", 
-      "last_name": "yarrobino", 
-      "user_id": 111767, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
-      "district": "NY_08", 
-      "created": "2013-08-09T20:54:46", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.6743, 
-      "x": -73.8438, 
-      "id": 16285691, 
-      "question_id": "16173264"
     }
   ]
 });
