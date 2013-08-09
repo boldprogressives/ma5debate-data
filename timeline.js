@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Vera", 
       "last_name": "Morgan", 
       "user_id": 1012008, 
-      "submission": "Why do we take money from public education and build more prisons? Is this what are future holds for our children? But they claim there is no money for Public Education. Where do you stand?", 
+      "submission": "When are we going to prosecute Wall Street Banksters ?", 
       "district": "NC_04", 
-      "created": "2013-08-09T12:34:52", 
+      "created": "2013-08-09T12:35:39", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.0577, 
       "x": -79.0035, 
-      "id": 16272168, 
-      "question_id": "16202593"
+      "id": 16272174, 
+      "question_id": "16175312"
     }, 
     {
       "city": "Lyons", 
       "first_name": "Sandra", 
       "last_name": "Toomey", 
       "user_id": 1773961, 
-      "submission": "What would you do to eliminate congressional pensions so congress has a stake in social security retirement benifits.", 
+      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
       "district": "IL_03", 
-      "created": "2013-08-09T12:34:43", 
+      "created": "2013-08-09T12:35:25", 
       "state": "IL", 
       "iface": "timeline_vote", 
       "y": 41.8118, 
       "x": -87.8206, 
-      "id": 16272167, 
-      "question_id": "16176855"
+      "id": 16272172, 
+      "question_id": "16173257"
     }, 
     {
       "city": "West Warwick", 
