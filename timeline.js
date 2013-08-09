@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Rockledge", 
+      "first_name": "Valerie", 
+      "last_name": "Brant-Wilson", 
+      "user_id": 582707, 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "district": "FL_08", 
+      "created": "2013-08-09T22:33:59", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 28.3133, 
+      "x": -80.7233, 
+      "id": 16287129, 
+      "question_id": "16172533"
+    }, 
+    {
+      "city": "Fountain Hills", 
+      "first_name": "Day", 
+      "last_name": "Jolliff", 
+      "user_id": 1785674, 
+      "submission": "Why is the U.S. Congress,year after year,taking funds out of the Social Security fund.This is not legal,yet the U.S. Congress Continues this practice.Why ? Martin Boroian", 
+      "district": "AZ_06", 
+      "created": "2013-08-09T22:33:32", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 33.609, 
+      "x": -111.73, 
+      "id": 16287127, 
+      "question_id": "16201488"
+    }, 
+    {
+      "city": "Detroit", 
+      "first_name": "Daniel", 
+      "last_name": "Sarasin", 
+      "user_id": 1487238, 
+      "submission": "Will you work to eliminate the Income Cap on SS \"Contributions\"?", 
+      "district": "MI_13", 
+      "created": "2013-08-09T22:33:12", 
+      "state": "MI", 
+      "iface": "timeline_vote", 
+      "y": 42.3801, 
+      "x": -83.0518, 
+      "id": 16287125, 
+      "question_id": "16175571"
+    }, 
+    {
       "city": "West Palm Beach", 
       "first_name": "Donna", 
       "last_name": "Valbuena", 
@@ -15,21 +60,6 @@ opendebate.processTimeline({
       "x": -80.0597, 
       "id": 16287122, 
       "question_id": "16175500"
-    }, 
-    {
-      "city": "Detroit", 
-      "first_name": "Daniel", 
-      "last_name": "Sarasin", 
-      "user_id": 1487238, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
-      "district": "MI_13", 
-      "created": "2013-08-09T22:32:16", 
-      "state": "MI", 
-      "iface": "timeline_vote", 
-      "y": 42.3801, 
-      "x": -83.0518, 
-      "id": 16287121, 
-      "question_id": "16173264"
     }, 
     {
       "city": "Winchester", 
@@ -94,21 +124,6 @@ opendebate.processTimeline({
       "x": -80.7368, 
       "id": 16287106, 
       "question_id": "16203866"
-    }, 
-    {
-      "city": "Fountain Hills", 
-      "first_name": "Day", 
-      "last_name": "Jolliff", 
-      "user_id": 1785674, 
-      "submission": "will you support legislation ending the cap on social security wages", 
-      "district": "AZ_06", 
-      "created": "2013-08-09T22:26:21", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 33.609, 
-      "x": -111.73, 
-      "id": 16287086, 
-      "question_id": "16208816"
     }, 
     {
       "city": "Lafayette", 
@@ -289,25 +304,6 @@ opendebate.processTimeline({
       "x": -71.4248, 
       "id": 16286860, 
       "question_id": "16175078"
-    }, 
-    {
-      "city": "Lewis Run", 
-      "first_name": "Christopher", 
-      "last_name": "Minich", 
-      "user_id": 1689522, 
-      "submission": "It is apparent that gas is drilled similarly on off shore wells as they are on land. Assuming the same method of \"Fracking \" is used, where is the waste water disposed of or any other drilling waste for that matted?", 
-      "district": "PA_05", 
-      "created": "2013-08-09T21:57:03", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "PA", 
-      "iface": "timeline_question", 
-      "y": 41.8715, 
-      "x": -78.6629, 
-      "latest_vote": null, 
-      "id": 16286849, 
-      "trending_score": 0.5
     }
   ]
 });
