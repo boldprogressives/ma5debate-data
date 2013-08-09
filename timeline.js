@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Jamaica Plain", 
+      "first_name": "Carolyn", 
+      "last_name": "Nikkal", 
+      "user_id": 994541, 
+      "submission": "Will you support a Whistleblowers Act that will allow for transparency  in our Government and the NSA with immunity to prosecution?", 
+      "district": "MA_08", 
+      "created": "2013-08-09T16:10:58", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2947, 
+      "x": -71.1305, 
+      "id": 16278946, 
+      "question_id": "16203822"
+    }, 
+    {
       "city": "Newtown Square", 
       "first_name": "Jo-Anne", 
       "last_name": "Perkinson", 
       "user_id": 1773418, 
-      "submission": "Will you vote YES to extending Medicare to everybody?", 
+      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
       "district": "PA_07", 
-      "created": "2013-08-09T16:09:59", 
+      "created": "2013-08-09T16:10:49", 
       "state": "PA", 
       "iface": "timeline_vote", 
       "y": 39.9832, 
       "x": -75.4127, 
-      "id": 16278930, 
-      "question_id": "16174319"
+      "id": 16278945, 
+      "question_id": "16173257"
     }, 
     {
       "city": "Madison", 
       "first_name": "Jose", 
       "last_name": "DelaCruz", 
       "user_id": 1677998, 
-      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
+      "submission": "What will you do to overturn Citizen's United?", 
       "district": "WI_02", 
-      "created": "2013-08-09T16:09:29", 
+      "created": "2013-08-09T16:10:23", 
       "state": "WI", 
       "iface": "timeline_vote", 
       "y": 43.0751, 
       "x": -89.4599, 
-      "id": 16278926, 
-      "question_id": "16175634"
+      "id": 16278935, 
+      "question_id": "16172765"
     }, 
     {
       "city": "Arlington", 
@@ -45,21 +60,6 @@ opendebate.processTimeline({
       "x": -71.1582, 
       "id": 16278921, 
       "question_id": "16183435"
-    }, 
-    {
-      "city": "Jamaica Plain", 
-      "first_name": "Carolyn", 
-      "last_name": "Nikkal", 
-      "user_id": 994541, 
-      "submission": "What is your stand on full disclosure of all campaign contributions, including specifically identifiable individual and corporate donations to PACs.", 
-      "district": "MA_08", 
-      "created": "2013-08-09T16:09:06", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2947, 
-      "x": -71.1305, 
-      "id": 16278919, 
-      "question_id": "16199834"
     }, 
     {
       "city": "Boise", 
