@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Kansas City", 
+      "first_name": "Sandra", 
+      "last_name": "Singleton", 
+      "user_id": 578766, 
+      "submission": "People who apply for mission critical jobs like astronauts have to pass multiple psychological tests. Why not politicians? An IQ test might not be a bad place to start.", 
+      "district": "MO_06", 
+      "created": "2013-08-09T21:17:42", 
+      "state": "MO", 
+      "iface": "timeline_vote", 
+      "y": 39.2158, 
+      "x": -94.5728, 
+      "id": 16286087, 
+      "question_id": "16213317"
+    }, 
+    {
+      "city": "Port Allegany", 
+      "first_name": "Basil", 
+      "last_name": "Freeman", 
+      "user_id": 737691, 
+      "submission": "Would you submit a bill prohibiting legislators from soliciting campaign funds on taxpayer's time?", 
+      "district": "PA_05", 
+      "created": "2013-08-09T21:17:06", 
+      "state": "PA", 
+      "iface": "timeline_vote", 
+      "y": 41.8182, 
+      "x": -78.285, 
+      "id": 16286076, 
+      "question_id": "16229931"
+    }, 
+    {
       "city": "SEDONA", 
       "first_name": "JAY", 
       "last_name": "MACKEY", 
@@ -15,21 +45,6 @@ opendebate.processTimeline({
       "x": -111.798, 
       "id": 16286072, 
       "question_id": "16175230"
-    }, 
-    {
-      "city": "Kansas City", 
-      "first_name": "Sandra", 
-      "last_name": "Singleton", 
-      "user_id": 578766, 
-      "submission": "Should Supreme Court Justices have term limits.. say 12 years maximum?", 
-      "district": "MO_06", 
-      "created": "2013-08-09T21:16:43", 
-      "state": "MO", 
-      "iface": "timeline_vote", 
-      "y": 39.2158, 
-      "x": -94.5728, 
-      "id": 16286071, 
-      "question_id": "16240928"
     }, 
     {
       "city": "Willard", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "x": -73.8438, 
       "id": 16285691, 
       "question_id": "16173264"
-    }, 
-    {
-      "city": "Covington", 
-      "first_name": "Carol", 
-      "last_name": "Cooper", 
-      "user_id": 76744, 
-      "submission": "will you support legislation ending the cap on social security wages", 
-      "district": "LA_01", 
-      "created": "2013-08-09T20:54:32", 
-      "state": "LA", 
-      "iface": "timeline_vote", 
-      "y": 30.5364, 
-      "x": -90.1072, 
-      "id": 16285689, 
-      "question_id": "16208816"
     }
   ]
 });
