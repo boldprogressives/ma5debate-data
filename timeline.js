@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Would you support a living wage law that would force corporations, like Wal-Mart, whose Walton family owns more wealth than 40% of all Americans, to pay  living wages to all of their workers?", 
+      "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
       "district": "MA_04", 
-      "created": "2013-08-09T09:41:40", 
+      "created": "2013-08-09T09:42:45", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270376, 
-      "question_id": "16210264"
+      "id": 16270380, 
+      "question_id": "16173320"
     }, 
     {
       "city": "East Orange", 
