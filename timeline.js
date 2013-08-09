@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Vera", 
       "last_name": "Morgan", 
       "user_id": 1012008, 
-      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
+      "submission": "Should marriage equality be legal in all 50 states?", 
       "district": "NC_04", 
-      "created": "2013-08-09T12:29:44", 
+      "created": "2013-08-09T12:30:50", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.0577, 
       "x": -79.0035, 
-      "id": 16272105, 
-      "question_id": "16202059"
+      "id": 16272112, 
+      "question_id": "16173222"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Knowing that an educated person is an asset to the nation, do you think school vouchers should be eliminated and public education should be free, or nearly free, for citizens to access as far as they're capabilities allow?", 
+      "submission": "I don't trust the government, but I certainly don't trust corporations.Would you support reversing the privatization of military and intelligence duties to non-government organizations? ", 
       "district": "MA_04", 
-      "created": "2013-08-09T12:29:35", 
+      "created": "2013-08-09T12:30:26", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16272104, 
-      "question_id": "16173220"
+      "id": 16272110, 
+      "question_id": "16210488"
     }, 
     {
       "city": "Ulster Park", 
@@ -119,15 +119,15 @@ opendebate.processTimeline({
       "district": "KY_02", 
       "created": "2013-08-09T12:26:05", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "KY", 
       "iface": "timeline_question", 
       "y": 37.0182, 
       "x": -86.4587, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-09T12:30:07", 
       "id": 16272053, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "New Castle", 
