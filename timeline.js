@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "John", 
       "last_name": "Janowski", 
       "user_id": 163007, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
       "district": "MI_11", 
-      "created": "2013-08-09T23:15:02", 
+      "created": "2013-08-09T23:15:54", 
       "state": "MI", 
       "iface": "timeline_vote", 
       "y": 42.5596, 
       "x": -83.1232, 
-      "id": 16287707, 
-      "question_id": "16172533"
+      "id": 16287710, 
+      "question_id": "16203676"
+    }, 
+    {
+      "city": "Monson", 
+      "first_name": "Kathleen", 
+      "last_name": "Conley", 
+      "user_id": 1809996, 
+      "submission": "How do you see yourself being able to work productively in a congress that seems hopelessly deadlocked by partisan politics?", 
+      "district": "MA_01", 
+      "created": "2013-08-09T23:15:07", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.094, 
+      "x": -72.324, 
+      "id": 16287708, 
+      "question_id": "16280883"
     }, 
     {
       "city": "El Prado", 
@@ -60,21 +75,6 @@ opendebate.processTimeline({
       "x": -104.859, 
       "id": 16287681, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Monson", 
-      "first_name": "Kathleen", 
-      "last_name": "Conley", 
-      "user_id": 1809996, 
-      "submission": "What restrictions would you place on the use of drones?", 
-      "district": "MA_01", 
-      "created": "2013-08-09T23:08:03", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.094, 
-      "x": -72.324, 
-      "id": 16287663, 
-      "question_id": "16285318"
     }, 
     {
       "city": "Hemphill", 
