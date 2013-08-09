@@ -2,6 +2,66 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Hutchinson", 
+      "first_name": "Jeanne", 
+      "last_name": "Piehl", 
+      "user_id": 1782242, 
+      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
+      "district": "MN_07", 
+      "created": "2013-08-09T13:09:01", 
+      "state": "MN", 
+      "iface": "timeline_vote", 
+      "y": 44.8907, 
+      "x": -94.3702, 
+      "id": 16272594, 
+      "question_id": "16175740"
+    }, 
+    {
+      "city": "Ballston Spa", 
+      "first_name": "William", 
+      "last_name": "Shaw", 
+      "user_id": 104602, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "NY_20", 
+      "created": "2013-08-09T13:08:54", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 43.0056, 
+      "x": -73.8604, 
+      "id": 16272593, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Cleveland", 
+      "first_name": "Charles", 
+      "last_name": "Cicco", 
+      "user_id": 376730, 
+      "submission": "Do you support the concept of keeping church and state separate?", 
+      "district": "OH_11", 
+      "created": "2013-08-09T13:08:45", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 41.4988, 
+      "x": -81.5546, 
+      "id": 16272591, 
+      "question_id": "16173921"
+    }, 
+    {
+      "city": "Woodbridge", 
+      "first_name": "N", 
+      "last_name": "Oure", 
+      "user_id": 1694674, 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "district": "VA_11", 
+      "created": "2013-08-09T13:08:04", 
+      "state": "VA", 
+      "iface": "timeline_vote", 
+      "y": 38.6462, 
+      "x": -77.3497, 
+      "id": 16272586, 
+      "question_id": "16173335"
+    }, 
+    {
       "city": "Fayetteville", 
       "first_name": "Vera", 
       "last_name": "Morgan", 
@@ -17,36 +77,6 @@ opendebate.processTimeline({
       "question_id": "16253989"
     }, 
     {
-      "city": "Woodbridge", 
-      "first_name": "N", 
-      "last_name": "Oure", 
-      "user_id": 1694674, 
-      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
-      "district": "VA_11", 
-      "created": "2013-08-09T13:07:56", 
-      "state": "VA", 
-      "iface": "timeline_vote", 
-      "y": 38.6462, 
-      "x": -77.3497, 
-      "id": 16272582, 
-      "question_id": "16173259"
-    }, 
-    {
-      "city": "Cleveland", 
-      "first_name": "Charles", 
-      "last_name": "Cicco", 
-      "user_id": 376730, 
-      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
-      "district": "OH_11", 
-      "created": "2013-08-09T13:07:43", 
-      "state": "OH", 
-      "iface": "timeline_vote", 
-      "y": 41.4988, 
-      "x": -81.5546, 
-      "id": 16272578, 
-      "question_id": "16173259"
-    }, 
-    {
       "city": "Monmouth", 
       "first_name": "Thomas", 
       "last_name": "Rousseau", 
@@ -60,21 +90,6 @@ opendebate.processTimeline({
       "x": -70.0637, 
       "id": 16272565, 
       "question_id": "16173335"
-    }, 
-    {
-      "city": "Ballston Spa", 
-      "first_name": "William", 
-      "last_name": "Shaw", 
-      "user_id": 104602, 
-      "submission": "Will you support a \"Clean Up Congress\" campaign to promote term limits and cease the eternal 'full pay' for lifetime after serving only one term?", 
-      "district": "NY_20", 
-      "created": "2013-08-09T13:05:20", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 43.0056, 
-      "x": -73.8604, 
-      "id": 16272549, 
-      "question_id": "16184803"
     }, 
     {
       "city": "carlisle", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -75.9816, 
       "id": 16272292, 
       "question_id": "16172727"
-    }, 
-    {
-      "city": "Montpelier", 
-      "first_name": "Mary Alice", 
-      "last_name": "Bisbee", 
-      "user_id": 1704344, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
-      "district": "VT_01", 
-      "created": "2013-08-09T12:43:55", 
-      "state": "VT", 
-      "iface": "timeline_vote", 
-      "y": 44.2702, 
-      "x": -72.5764, 
-      "id": 16272278, 
-      "question_id": "16175740"
     }
   ]
 });
