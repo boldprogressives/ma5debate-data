@@ -6,45 +6,60 @@ opendebate.processTimeline({
       "first_name": "Rebecca", 
       "last_name": "Hall", 
       "user_id": 1707725, 
-      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "submission": "Would you support a ban on Congresspersons accepting jobs as corporate lobbyists for at least ten years after leaving Congress?", 
       "district": "CA_20", 
-      "created": "2013-08-09T16:21:59", 
+      "created": "2013-08-09T16:22:58", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 36.989, 
       "x": -122.058, 
-      "id": 16279261, 
-      "question_id": "16173259"
+      "id": 16279282, 
+      "question_id": "16178177"
     }, 
     {
       "city": "Ester", 
       "first_name": "Richard", 
       "last_name": "McCaffrey", 
       "user_id": 289675, 
-      "submission": "Do you favor legislation to protect our water, land, and communities from the negative environmental and social impacts of fracking for natural gas?", 
+      "submission": "What will you do to ensure that all Americans have access to the voting booth and what will you do to get money out of our elections so that we all have an equal voice?", 
       "district": "AK_01", 
-      "created": "2013-08-09T16:21:59", 
+      "created": "2013-08-09T16:22:48", 
       "state": "AK", 
       "iface": "timeline_vote", 
       "y": 64.9452, 
       "x": -148.248, 
-      "id": 16279262, 
-      "question_id": "16204423"
+      "id": 16279280, 
+      "question_id": "16205834"
     }, 
     {
       "city": "Jamaica Plain", 
       "first_name": "Carolyn", 
       "last_name": "Nikkal", 
       "user_id": 994541, 
-      "submission": "9-in-10 Americans (87%) are deeply disturbed by the corruption in Congress, which ranks 2nd only to jobs as a priority in recent polling, so what will you do to stop corruption around you in Congress?", 
+      "submission": "Will you support carbon taxes?", 
       "district": "MA_08", 
-      "created": "2013-08-09T16:21:44", 
+      "created": "2013-08-09T16:22:44", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2947, 
       "x": -71.1305, 
-      "id": 16279257, 
-      "question_id": "16208638"
+      "id": 16279274, 
+      "question_id": "16174323"
+    }, 
+    {
+      "city": "Rice", 
+      "first_name": "Barbara", 
+      "last_name": "Jewell", 
+      "user_id": 451139, 
+      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
+      "district": "WA_05", 
+      "created": "2013-08-09T16:22:28", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 48.4264, 
+      "x": -118.132, 
+      "id": 16279270, 
+      "question_id": "16180998"
     }, 
     {
       "city": "Duluth", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -122.223, 
       "id": 16278887, 
       "question_id": "16239976"
-    }, 
-    {
-      "city": "Madera", 
-      "first_name": "Phyllis", 
-      "last_name": "Krystal", 
-      "user_id": 1744736, 
-      "submission": "Will you vote to end tax loopholes for the rich, big business subsides, overseas corporate tax loopholes, wasteful wars, foreign country subsides, quality health care for all, good safe food for all, clean air, clean energy, clean safe drinking water, useful education and job opportunities for all hard working citizens that can achieve these levels and deserve it, gun control, to end wall street fraud and corruption.", 
-      "district": "CA_16", 
-      "created": "2013-08-09T16:01:02", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 36.9743, 
-      "x": -120.002, 
-      "id": 16278832, 
-      "question_id": "16203215"
     }
   ]
 });
