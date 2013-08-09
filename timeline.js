@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
+      "submission": "Will you protect Social Security And Medicare by not cutting it with the chained CPI for Social Security that has been mentioned.  Also, no cuts to Medicare but closing the donute hole 100% so seniors aren't left fending for themselves to pay full price for their drugs.", 
       "district": "MA_04", 
-      "created": "2013-08-09T09:49:55", 
+      "created": "2013-08-09T09:50:32", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270418, 
-      "question_id": "16175634"
+      "id": 16270421, 
+      "question_id": "16175570"
     }, 
     {
       "city": "Eugene", 
@@ -89,15 +89,15 @@ opendebate.processTimeline({
       "district": "OR_04", 
       "created": "2013-08-09T09:38:12", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "timeline_question", 
       "y": 43.9495, 
       "x": -123.128, 
-      "latest_vote": "2013-08-09T09:43:15", 
+      "latest_vote": "2013-08-09T09:50:56", 
       "id": 16270361, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Fort Bragg", 
@@ -187,15 +187,15 @@ opendebate.processTimeline({
       "district": "OR_04", 
       "created": "2013-08-09T09:36:35", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "timeline_question", 
       "y": 43.9495, 
       "x": -123.128, 
-      "latest_vote": "2013-08-09T09:43:29", 
+      "latest_vote": "2013-08-09T09:50:51", 
       "id": 16270343, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Eugene", 
@@ -206,15 +206,15 @@ opendebate.processTimeline({
       "district": "OR_04", 
       "created": "2013-08-09T09:35:26", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "timeline_question", 
       "y": 43.9495, 
       "x": -123.128, 
-      "latest_vote": "2013-08-09T09:43:38", 
+      "latest_vote": "2013-08-09T09:50:50", 
       "id": 16270324, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Tampa", 
