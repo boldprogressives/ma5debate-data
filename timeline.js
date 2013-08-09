@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Lexington", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810281, 
+      "submission": "Do you favor legislation to protect our water, land, and communities from the negative environmental and social impacts of fracking for natural gas?", 
+      "district": "MA_05", 
+      "created": "2013-08-09T15:58:40", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4484, 
+      "x": -71.2338, 
+      "id": 16278661, 
+      "question_id": "16204423"
+    }, 
+    {
       "city": "Oakland", 
       "first_name": "Barbara", 
       "last_name": "Maynard", 
       "user_id": 224280, 
-      "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
       "district": "CA_13", 
-      "created": "2013-08-09T15:57:58", 
+      "created": "2013-08-09T15:58:25", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 37.8356, 
       "x": -122.223, 
-      "id": 16278502, 
-      "question_id": "16173320"
+      "id": 16278598, 
+      "question_id": "16202059"
     }, 
     {
       "city": "Penfield", 
@@ -45,21 +60,6 @@ opendebate.processTimeline({
       "x": -96.716, 
       "id": 16278466, 
       "question_id": "16173418"
-    }, 
-    {
-      "city": "Lexington", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1810281, 
-      "submission": "In 2006, the lame-duck GOP congress enacted a bill forcing the U.S.Postal service to fully fund pensions for the next 75 years and do it in ten years. It's a bill that was designed to ruin the USPS so it could be privatized. Will you work to repeal this onerous bill and introduce legislation to allow the USPS to compete with private carriers?", 
-      "district": "MA_05", 
-      "created": "2013-08-09T15:56:50", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4484, 
-      "x": -71.2338, 
-      "id": 16278366, 
-      "question_id": "16206983"
     }, 
     {
       "city": "Madison", 
