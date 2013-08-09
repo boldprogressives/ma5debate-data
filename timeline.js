@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Carolyn", 
       "last_name": "Wohlgemuth", 
       "user_id": 706295, 
-      "submission": "In 2006, the lame-duck GOP congress enacted a bill forcing the U.S.Postal service to fully fund pensions for the next 75 years and do it in ten years. It's a bill that was designed to ruin the USPS so it could be privatized. Will you work to repeal this onerous bill and introduce legislation to allow the USPS to compete with private carriers?", 
+      "submission": "Why are so many countries banning GMO foods but the US refuses to do so? Why aren't they required to label them as such? ", 
       "district": "OH_11", 
-      "created": "2013-08-09T08:50:20", 
+      "created": "2013-08-09T08:52:39", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 41.4988, 
       "x": -81.5546, 
-      "id": 16270021, 
-      "question_id": "16206983"
+      "id": 16270028, 
+      "question_id": "16205646"
     }, 
     {
       "city": "Vacaville", 
