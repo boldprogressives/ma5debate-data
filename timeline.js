@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Victoria", 
       "last_name": "Scott", 
       "user_id": 1708295, 
-      "submission": "Would you support the pardoning of all victimless crime marijuana (Cannabis) offenders? Depopulating our For Profit Prisons?", 
+      "submission": "Where do you stand on the prospect of nation-wide legalization, regulation and taxation of marijuana? ", 
       "district": "NM_03", 
-      "created": "2013-08-09T08:39:05", 
+      "created": "2013-08-09T08:39:57", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 35.6768, 
       "x": -105.958, 
-      "id": 16269970, 
-      "question_id": "16208291"
+      "id": 16269978, 
+      "question_id": "16175899"
     }, 
     {
       "city": "Rocky Mount", 
