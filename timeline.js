@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "I was surprised and dimayed you supported the Monsanto Farm Bill. Do you support a communities right to require GMO labeling and to prohibit GMO crops from being planted within pollinating distance of  established Organic Farms?", 
-      "district": "MA_04", 
-      "created": "2013-08-09T10:40:42", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16270994, 
-      "question_id": "16174618"
-    }, 
-    {
       "city": "Nashville", 
       "first_name": "D. S.", 
       "last_name": "Kinzie", 
       "user_id": 88880, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
+      "submission": "Will you make repairing and updating the infrastructure, not just roads but bridges and the electrical grid, a priority?", 
       "district": "TN_05", 
-      "created": "2013-08-09T10:40:37", 
+      "created": "2013-08-09T10:41:42", 
       "state": "TN", 
       "iface": "timeline_vote", 
       "y": 36.1088, 
       "x": -86.7806, 
-      "id": 16270993, 
-      "question_id": "16175740"
+      "id": 16270997, 
+      "question_id": "16191114"
+    }, 
+    {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Will you pledge to uphold the Affordable Care Act and help states implement it -- not defund it?", 
+      "district": "MA_04", 
+      "created": "2013-08-09T10:41:12", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16270995, 
+      "question_id": "16181276"
     }, 
     {
       "city": "Sacramento", 
