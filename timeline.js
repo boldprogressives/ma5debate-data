@@ -6,15 +6,34 @@ opendebate.processTimeline({
       "first_name": "Victoria", 
       "last_name": "Scott", 
       "user_id": 1708295, 
-      "submission": "Will you fight for a  revival of Glass/Steagall Act and the Monopoly and Merger legislation which are essential for restoring liquidity throughout the economy, genuine competition, and the revival of a healthy form of Capitalism?", 
+      "submission": "What will you do to support real campaign finance reform that will remove entrenched special interest money and its attendant corruption from our aspiring democracy?", 
       "district": "NM_03", 
-      "created": "2013-08-09T08:34:55", 
+      "created": "2013-08-09T08:35:49", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 35.6768, 
       "x": -105.958, 
-      "id": 16269953, 
-      "question_id": "16189753"
+      "id": 16269955, 
+      "question_id": "16186239"
+    }, 
+    {
+      "city": "Rocky Mount", 
+      "first_name": "Sharon", 
+      "last_name": "Scott", 
+      "user_id": 1739125, 
+      "submission": "Will you favor the declassifying of all papers surrounding 9/11? And if not why not? Also would you back an independent investigation into 9/11 and the surrounding occurances before and after this event, and bring charges to all those responsible parties no matter who they are?", 
+      "district": "VA_05", 
+      "created": "2013-08-09T08:35:35", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "VA", 
+      "iface": "timeline_question", 
+      "y": 37.0001, 
+      "x": -79.8958, 
+      "latest_vote": null, 
+      "id": 16269954, 
+      "trending_score": 0.5
     }, 
     {
       "city": "Tryon", 
@@ -301,25 +320,6 @@ opendebate.processTimeline({
       "x": -80.9607, 
       "id": 16269477, 
       "question_id": "16175493"
-    }, 
-    {
-      "city": "Elkins Park", 
-      "first_name": "David", 
-      "last_name": "Herman", 
-      "user_id": 1781058, 
-      "submission": "TRAITORS IN OFFICECan legislators who signed the \"No New Tax\" pledge of Grover Norquist be prosecuted for violating their oaths of office to preserve, protect and defend the Constitution?", 
-      "district": "PA_13", 
-      "created": "2013-08-09T07:45:11", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "PA", 
-      "iface": "timeline_question", 
-      "y": 40.0178, 
-      "x": -75.136, 
-      "latest_vote": null, 
-      "id": 16269460, 
-      "trending_score": 0.5
     }
   ]
 });
