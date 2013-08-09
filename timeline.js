@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "East Weymouth", 
+      "first_name": "Carlotta", 
+      "last_name": "Hayes", 
+      "user_id": 1806880, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "MA_08", 
+      "created": "2013-08-09T11:21:57", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2138, 
+      "x": -70.9328, 
+      "id": 16271318, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Do you believe the NSA spying programs revealed by Edward Snowden are unconstitutional?  Do you feel it is your job to protect Americans first or protect the constitution first?", 
+      "submission": "\"Lobbying\" is essentially a legal method for wealthy corporations and special interest groups to obtain legislation and subsidies not available to individual American citizens and small businesses.  Additionally, the groups using \"lobbyists\" (often former elected officials with \"contacts\" in Congress), are able to deduct the expenses of lobbying from their taxable income.  It is tax-deductible bribery by the \"haves\" in order to maintain their ascendency over the \"have-nots,\" and should be illegal.   Do you support eliminating lobbying?  If so, how will you go about getting rid of it; if not, why not?", 
       "district": "MA_04", 
-      "created": "2013-08-09T11:20:48", 
+      "created": "2013-08-09T11:21:47", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16271315, 
-      "question_id": "16206200"
+      "id": 16271317, 
+      "question_id": "16197666"
     }, 
     {
       "city": "Nashville", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -98.6057, 
       "id": 16270906, 
       "question_id": "16175500"
-    }, 
-    {
-      "city": "Raleigh", 
-      "first_name": "John", 
-      "last_name": "Wilson", 
-      "user_id": 64411, 
-      "submission": "What will you do to ensure that all Americans have access to the voting booth and what will you do to get money out of our elections so that we all have an equal voice?", 
-      "district": "NC_04", 
-      "created": "2013-08-09T10:27:32", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.7927, 
-      "x": -78.6911, 
-      "id": 16270873, 
-      "question_id": "16205834"
     }
   ]
 });
