@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Williamsport", 
-      "first_name": "Mary", 
-      "last_name": "Webb", 
-      "user_id": 1783551, 
-      "submission": "Would you support replacing \"Obamacare\" with single-payer coverage (Medicare for All)?", 
-      "district": "OH_15", 
-      "created": "2013-08-09T14:35:00", 
-      "state": "OH", 
+      "city": "Trenton", 
+      "first_name": "Michael", 
+      "last_name": "Odell", 
+      "user_id": 1762804, 
+      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
+      "district": "NJ_12", 
+      "created": "2013-08-09T14:35:59", 
+      "state": "NJ", 
       "iface": "timeline_vote", 
-      "y": 39.601, 
-      "x": -83.1221, 
-      "id": 16275894, 
-      "question_id": "16175729"
+      "y": 40.2219, 
+      "x": -74.7336, 
+      "id": 16275916, 
+      "question_id": "16173210"
     }, 
     {
       "city": "Park Ridge", 
       "first_name": "Sean", 
       "last_name": "O'malley", 
       "user_id": 371004, 
-      "submission": "Will you support Elizabeth Warren's efforts to create a new Glass-Steagall Act?", 
+      "submission": "Do you support the legalization of marijuana (which should be taxed & regulated like alcohol or tobacco)? If so, would you allow the release of nonviolent offenders from prison?", 
       "district": "IL_09", 
-      "created": "2013-08-09T14:34:58", 
+      "created": "2013-08-09T14:35:58", 
       "state": "IL", 
       "iface": "timeline_vote", 
       "y": 41.9711, 
       "x": -87.8294, 
-      "id": 16275893, 
-      "question_id": "16201467"
+      "id": 16275915, 
+      "question_id": "16172722"
+    }, 
+    {
+      "city": "Williamsport", 
+      "first_name": "Mary", 
+      "last_name": "Webb", 
+      "user_id": 1783551, 
+      "submission": "When are we going to prosecute Wall Street Banksters ?", 
+      "district": "OH_15", 
+      "created": "2013-08-09T14:35:52", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 39.601, 
+      "x": -83.1221, 
+      "id": 16275913, 
+      "question_id": "16175312"
     }, 
     {
       "city": "New York", 
       "first_name": "anne-marie", 
       "last_name": "caron", 
       "user_id": 899303, 
-      "submission": "What would you do to eliminate congressional pensions so congress has a stake in social security retirement benifits.", 
+      "submission": "Serving in Congress is not a career.  Will you vote for term limits?", 
       "district": "NY_10", 
-      "created": "2013-08-09T14:34:50", 
+      "created": "2013-08-09T14:35:50", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7865, 
       "x": -73.9786, 
-      "id": 16275890, 
-      "question_id": "16176855"
+      "id": 16275912, 
+      "question_id": "16173323"
     }, 
     {
       "city": "Martin", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16275488, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Tucson", 
-      "first_name": "Narciso", 
-      "last_name": "Garcia", 
-      "user_id": 1656578, 
-      "submission": "are you aware that the social security trust fund is owed about 18% of the national debt because of borrowing by previous congresses? should there be a repayment plan set up by congress to make the fund even more solvent?", 
-      "district": "AZ_02", 
-      "created": "2013-08-09T14:16:02", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 32.291, 
-      "x": -110.842, 
-      "id": 16275426, 
-      "question_id": "16185653"
     }
   ]
 });
