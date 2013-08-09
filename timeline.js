@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Victoria", 
       "last_name": "Scott", 
       "user_id": 1708295, 
-      "submission": "The drug war and the prison industry has destroyed many lives -- especially of low income and minority citizens. As a first step marijuana needs to be legalized nationa=wide. What will you do toward that end?", 
+      "submission": "Will you be voting to legalize Marijuana?", 
       "district": "NM_03", 
-      "created": "2013-08-09T08:40:52", 
+      "created": "2013-08-09T08:41:31", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 35.6768, 
       "x": -105.958, 
-      "id": 16269982, 
-      "question_id": "16173417"
+      "id": 16269985, 
+      "question_id": "16189089"
     }, 
     {
       "city": "Rocky Mount", 
