@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Cleveland", 
+      "first_name": "Charles", 
+      "last_name": "Cicco", 
+      "user_id": 376730, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "OH_11", 
+      "created": "2013-08-09T13:06:55", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 41.4988, 
+      "x": -81.5546, 
+      "id": 16272571, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Monmouth", 
+      "first_name": "Thomas", 
+      "last_name": "Rousseau", 
+      "user_id": 1485320, 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "district": "ME_02", 
+      "created": "2013-08-09T13:06:29", 
+      "state": "ME", 
+      "iface": "timeline_vote", 
+      "y": 44.2288, 
+      "x": -70.0637, 
+      "id": 16272565, 
+      "question_id": "16173335"
+    }, 
+    {
+      "city": "Fayetteville", 
+      "first_name": "Vera", 
+      "last_name": "Morgan", 
+      "user_id": 1012008, 
+      "submission": "Would you pledge to take no gifts or money from special interest groups in exchange for your votes favoring them?", 
+      "district": "NC_04", 
+      "created": "2013-08-09T13:06:20", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.0577, 
+      "x": -79.0035, 
+      "id": 16272562, 
+      "question_id": "16205451"
+    }, 
+    {
       "city": "Ballston Spa", 
       "first_name": "William", 
       "last_name": "Shaw", 
@@ -30,21 +75,6 @@ opendebate.processTimeline({
       "x": -77.3497, 
       "id": 16272548, 
       "question_id": "16203215"
-    }, 
-    {
-      "city": "Fayetteville", 
-      "first_name": "Vera", 
-      "last_name": "Morgan", 
-      "user_id": 1012008, 
-      "submission": "The wealthiest 5% own and control all corporations through shareholder votes, executive positions, and management positions.Corporations are responsible for all toxic air pollution, all toxic water pollution, and the killing off of the planet's oxygen production. They are responsible for poverty, hunger, war, toxic food, and the worst nutrition in food of any agricultural system we have ever heard of.How can you attempt to redress these issues, and remove their damaging influence from the political whoredom that passes for the current federal (and?) government?", 
-      "district": "NC_04", 
-      "created": "2013-08-09T13:05:03", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.0577, 
-      "x": -79.0035, 
-      "id": 16272544, 
-      "question_id": "16208766"
     }, 
     {
       "city": "carlisle", 
@@ -278,36 +308,6 @@ opendebate.processTimeline({
       "x": -72.5764, 
       "id": 16272278, 
       "question_id": "16175740"
-    }, 
-    {
-      "city": "Conroe", 
-      "first_name": "Mark", 
-      "last_name": "Hayter", 
-      "user_id": 52703, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
-      "district": "TX_08", 
-      "created": "2013-08-09T12:43:32", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 30.3428, 
-      "x": -95.4779, 
-      "id": 16272270, 
-      "question_id": "16175740"
-    }, 
-    {
-      "city": "Franklin", 
-      "first_name": "Shirl", 
-      "last_name": "Ches", 
-      "user_id": 761731, 
-      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
-      "district": "NC_11", 
-      "created": "2013-08-09T12:42:04", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.2015, 
-      "x": -83.3815, 
-      "id": 16272247, 
-      "question_id": "16180998"
     }
   ]
 });
