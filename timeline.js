@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Victoria", 
       "last_name": "Scott", 
       "user_id": 1708295, 
-      "submission": "Will you vote to reinstate the FDR Glass Steagall Act?", 
+      "submission": "9-in-10 Americans (87%) are deeply disturbed by the corruption in Congress, which ranks 2nd only to jobs as a priority in recent polling, so what will you do to stop corruption around you in Congress?", 
       "district": "NM_03", 
-      "created": "2013-08-09T08:29:46", 
+      "created": "2013-08-09T08:30:03", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 35.6768, 
       "x": -105.958, 
-      "id": 16269926, 
-      "question_id": "16236353"
+      "id": 16269929, 
+      "question_id": "16208638"
     }, 
     {
       "city": "Tryon", 
