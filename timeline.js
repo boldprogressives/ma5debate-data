@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Will you advocate for taking 10% of the defense budget and re-directing it to rail transit, pedestrian facilities, and bike paths?", 
+      "district": "MA_04", 
+      "created": "2013-08-09T12:16:06", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16271941, 
+      "question_id": "16196093"
+    }, 
+    {
       "city": "Fayetteville", 
       "first_name": "Vera", 
       "last_name": "Morgan", 
       "user_id": 1012008, 
-      "submission": "Will you work to protect Planned Parenthood and affordable health care for all women", 
+      "submission": "Will you support Elizabeth Warren's efforts to create a new Glass-Steagall Act?", 
       "district": "NC_04", 
-      "created": "2013-08-09T12:14:58", 
+      "created": "2013-08-09T12:16:02", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.0577, 
       "x": -79.0035, 
-      "id": 16271930, 
-      "question_id": "16263952"
+      "id": 16271940, 
+      "question_id": "16201467"
+    }, 
+    {
+      "city": "West Columbia", 
+      "first_name": "Pamela Blades", 
+      "last_name": "", 
+      "user_id": 1794455, 
+      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
+      "district": "TX_14", 
+      "created": "2013-08-09T12:15:38", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 29.1421, 
+      "x": -95.6656, 
+      "id": 16271937, 
+      "question_id": "16173210"
     }, 
     {
       "city": "Greenville", 
@@ -30,21 +60,6 @@ opendebate.processTimeline({
       "x": -77.4386, 
       "id": 16271929, 
       "question_id": "16181276"
-    }, 
-    {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "Will you pledge to do all you can to fight the increasing income inequities in our society, and the policies that promote them?", 
-      "district": "MA_04", 
-      "created": "2013-08-09T12:14:38", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16271927, 
-      "question_id": "16182122"
     }, 
     {
       "city": "Cedar Rapids", 
@@ -285,21 +300,6 @@ opendebate.processTimeline({
       "x": -122.751, 
       "id": 16271776, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Chicopee", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1810216, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "MA_01", 
-      "created": "2013-08-09T12:01:07", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.1623, 
-      "x": -72.6045, 
-      "id": 16271775, 
-      "question_id": "16172777"
     }
   ]
 });
