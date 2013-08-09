@@ -6,45 +6,60 @@ opendebate.processTimeline({
       "first_name": "Pamela Blades", 
       "last_name": "", 
       "user_id": 1794455, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
       "district": "TX_14", 
-      "created": "2013-08-09T12:17:00", 
+      "created": "2013-08-09T12:18:01", 
       "state": "TX", 
       "iface": "timeline_vote", 
       "y": 29.1421, 
       "x": -95.6656, 
-      "id": 16271948, 
-      "question_id": "16172266"
+      "id": 16271966, 
+      "question_id": "16172731"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Would you take on the previously untouchable topic of rampant corporate lobbying causing unfair decisions tantamount to political bribery?", 
+      "submission": "Alec and the Tea Party have taken control of state governments in an effort to further confuse and divide the country.  How will you punish rogue, dishonest right-to-work states like AZ, TX, and FL?  ", 
       "district": "MA_04", 
-      "created": "2013-08-09T12:16:59", 
+      "created": "2013-08-09T12:17:46", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16271947, 
-      "question_id": "16190319"
+      "id": 16271964, 
+      "question_id": "16176690"
     }, 
     {
       "city": "Fayetteville", 
       "first_name": "Vera", 
       "last_name": "Morgan", 
       "user_id": 1012008, 
-      "submission": "Will you work to support Elizabeth Warren's efforts to revise Glass-Steagall", 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
       "district": "NC_04", 
-      "created": "2013-08-09T12:16:22", 
+      "created": "2013-08-09T12:17:37", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.0577, 
       "x": -79.0035, 
-      "id": 16271943, 
-      "question_id": "16265543"
+      "id": 16271961, 
+      "question_id": "16173335"
+    }, 
+    {
+      "city": "Atlanta", 
+      "first_name": "Moya", 
+      "last_name": "Hambridge", 
+      "user_id": 1680040, 
+      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
+      "district": "GA_06", 
+      "created": "2013-08-09T12:17:04", 
+      "state": "GA", 
+      "iface": "timeline_vote", 
+      "y": 33.9758, 
+      "x": -84.3253, 
+      "id": 16271949, 
+      "question_id": "16172697"
     }, 
     {
       "city": "Greenville", 
@@ -285,21 +300,6 @@ opendebate.processTimeline({
       "x": -81.2515, 
       "id": 16271777, 
       "question_id": "16190286"
-    }, 
-    {
-      "city": "Santa Rosa", 
-      "first_name": "David", 
-      "last_name": "Bauer", 
-      "user_id": 1781154, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "CA_05", 
-      "created": "2013-08-09T12:02:10", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 38.4796, 
-      "x": -122.751, 
-      "id": 16271776, 
-      "question_id": "16172266"
     }
   ]
 });
