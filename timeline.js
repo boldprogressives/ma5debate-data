@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Fountain Hills", 
+      "first_name": "Day", 
+      "last_name": "Jolliff", 
+      "user_id": 1785674, 
+      "submission": "Given the likelihood that a Republican majority will continue to block any legislative activity in the House, what will you do to advance a progressive agenda?", 
+      "district": "AZ_06", 
+      "created": "2013-08-09T22:23:01", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 33.609, 
+      "x": -111.73, 
+      "id": 16287063, 
+      "question_id": "16172530"
+    }, 
+    {
+      "city": "Daniel Island", 
+      "first_name": "FRANCIS", 
+      "last_name": "HENDERSON", 
+      "user_id": 401891, 
+      "submission": "The threat that hangs over the country today is a GOP determined to destroy the middle class and the values that define it.  What specific steps will you recommend to confront, not appease, the GOP?", 
+      "district": "SC_01", 
+      "created": "2013-08-09T22:23:00", 
+      "state": "SC", 
+      "iface": "timeline_vote", 
+      "y": 32.9557, 
+      "x": -79.8873, 
+      "id": 16287062, 
+      "question_id": "16172694"
+    }, 
+    {
+      "city": "Lafayette", 
+      "first_name": "Fred", 
+      "last_name": "Fawcett", 
+      "user_id": 316888, 
+      "submission": "Why has the federal government refused to release the 9/11 photographs of the Pentagon attack?  There are cameras that film 24 hour a day on every square inch of the building.  Why have these photographs been kept from us?  We are allowed to watch the Trade Center being hit so why not the Pentagon?", 
+      "district": "OR_01", 
+      "created": "2013-08-09T22:22:55", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 45.2458, 
+      "x": -123.114, 
+      "id": 16287061, 
+      "question_id": "16217969"
+    }, 
+    {
       "city": "Seal Rock", 
       "first_name": "Ardis", 
       "last_name": "Letey", 
@@ -15,36 +60,6 @@ opendebate.processTimeline({
       "x": -124.056, 
       "id": 16287059, 
       "question_id": "16175192"
-    }, 
-    {
-      "city": "Fountain Hills", 
-      "first_name": "Day", 
-      "last_name": "Jolliff", 
-      "user_id": 1785674, 
-      "submission": "Do you support the separation of Church and State?", 
-      "district": "AZ_06", 
-      "created": "2013-08-09T22:22:00", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 33.609, 
-      "x": -111.73, 
-      "id": 16287058, 
-      "question_id": "16178438"
-    }, 
-    {
-      "city": "Daniel Island", 
-      "first_name": "FRANCIS", 
-      "last_name": "HENDERSON", 
-      "user_id": 401891, 
-      "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
-      "district": "SC_01", 
-      "created": "2013-08-09T22:21:50", 
-      "state": "SC", 
-      "iface": "timeline_vote", 
-      "y": 32.9557, 
-      "x": -79.8873, 
-      "id": 16287057, 
-      "question_id": "16175500"
     }, 
     {
       "city": "Boston", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -117.594, 
       "id": 16286693, 
       "question_id": "16203676"
-    }, 
-    {
-      "city": "Bloomington", 
-      "first_name": "Naomi", 
-      "last_name": "Fatouros", 
-      "user_id": 183575, 
-      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
-      "district": "IN_09", 
-      "created": "2013-08-09T21:41:22", 
-      "state": "IN", 
-      "iface": "timeline_vote", 
-      "y": 39.0953, 
-      "x": -86.4577, 
-      "id": 16286681, 
-      "question_id": "16180998"
     }
   ]
 });
