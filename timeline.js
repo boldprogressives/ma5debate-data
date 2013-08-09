@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "JoAnne", 
       "last_name": "Bruno", 
       "user_id": 1575480, 
-      "submission": "What will you do to guard OUR SOCIAL SECURITY ACCOUNTS we own and prevent from them being a.  reduced or denied to us and b. our social security funds being funneled into other purposes?", 
+      "submission": "Why is it that Congress continues to get great health care and time off, yet those on the right, don't want the same for all Americans? What can and will you do, to advocate for the middle class and poor? ", 
       "district": "NJ_04", 
-      "created": "2013-08-09T15:42:56", 
+      "created": "2013-08-09T15:43:04", 
       "state": "NJ", 
       "iface": "timeline_vote", 
       "y": 40.1788, 
       "x": -74.66, 
-      "id": 16278185, 
-      "question_id": "16233077"
+      "id": 16278187, 
+      "question_id": "16267533"
     }, 
     {
       "city": "springfield", 
