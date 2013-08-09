@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "rox", 
       "last_name": "colby", 
       "user_id": 1677442, 
-      "submission": "How can we stop paying Congress for not doing their jobs and take away their healthcare benefits?", 
+      "submission": "Will you commit to sponsoring and voting for legislation requiring MANDATORY public financing of campaigns for elected office, and if not, why not?", 
       "district": "TX_22", 
-      "created": "2013-08-09T06:40:05", 
+      "created": "2013-08-09T06:41:00", 
       "state": "TX", 
       "iface": "timeline_vote", 
       "y": 29.4, 
       "x": -95.2394, 
-      "id": 16267004, 
-      "question_id": "16210559"
+      "id": 16267022, 
+      "question_id": "16208142"
     }, 
     {
       "city": "Bremerton", 
       "first_name": "Glenn", 
       "last_name": "Gang", 
       "user_id": 160745, 
-      "submission": "The threat that hangs over the country today is a GOP determined to destroy the middle class and the values that define it.  What specific steps will you recommend to confront, not appease, the GOP?", 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "WA_06", 
-      "created": "2013-08-09T06:40:04", 
+      "created": "2013-08-09T06:40:37", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 47.6103, 
       "x": -122.632, 
-      "id": 16267003, 
-      "question_id": "16172694"
+      "id": 16267016, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Tryon", 
