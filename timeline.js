@@ -6,15 +6,34 @@ opendebate.processTimeline({
       "first_name": "Violet", 
       "last_name": "Sunderland", 
       "user_id": 986238, 
-      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "submission": "Will you make it your highest priority to prosecute the bankers who brought about the financial crisis and force them to pay back the billions they stole from us as well as confining them to long prison terms?", 
       "district": "OR_05", 
-      "created": "2013-08-09T07:10:58", 
+      "created": "2013-08-09T07:11:54", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 44.9222, 
       "x": -123.327, 
-      "id": 16267448, 
-      "question_id": "16172303"
+      "id": 16267453, 
+      "question_id": "16176917"
+    }, 
+    {
+      "city": "Henderson", 
+      "first_name": "Nicholas", 
+      "last_name": "Martino", 
+      "user_id": 1810196, 
+      "submission": "Just how long do you plan to keep staring the the fly, a la Norman Bates, pretending you don't understand the evidence re 9/11 and denying that Nazis in the NSA have been terrorizing those of us with a brain and a conscience for years?", 
+      "district": "NV_03", 
+      "created": "2013-08-09T07:11:16", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NV", 
+      "iface": "timeline_question", 
+      "y": 36.0401, 
+      "x": -115.077, 
+      "latest_vote": null, 
+      "id": 16267450, 
+      "trending_score": 0.5
     }, 
     {
       "city": "Tryon", 
@@ -224,15 +243,15 @@ opendebate.processTimeline({
       "district": "NV_03", 
       "created": "2013-08-09T06:51:00", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "NV", 
       "iface": "timeline_question", 
       "y": 36.0401, 
       "x": -115.077, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-09T07:11:59", 
       "id": 16267196, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Burnsville", 
@@ -293,21 +312,6 @@ opendebate.processTimeline({
       "x": -121.191, 
       "id": 16267145, 
       "question_id": "16260903"
-    }, 
-    {
-      "city": "Alvin", 
-      "first_name": "rox", 
-      "last_name": "colby", 
-      "user_id": 1677442, 
-      "submission": "What can be we do as citizens to change  the Supreme Court Justices lifetime jobs to specific term limits?", 
-      "district": "TX_22", 
-      "created": "2013-08-09T06:44:59", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 29.4, 
-      "x": -95.2394, 
-      "id": 16267109, 
-      "question_id": "16192922"
     }
   ]
 });
