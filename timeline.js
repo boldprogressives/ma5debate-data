@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "John", 
       "last_name": "Janowski", 
       "user_id": 163007, 
-      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
       "district": "MI_11", 
-      "created": "2013-08-09T23:15:54", 
+      "created": "2013-08-09T23:16:52", 
       "state": "MI", 
       "iface": "timeline_vote", 
       "y": 42.5596, 
       "x": -83.1232, 
-      "id": 16287710, 
-      "question_id": "16203676"
+      "id": 16287714, 
+      "question_id": "16172913"
+    }, 
+    {
+      "city": "El Prado", 
+      "first_name": "Sally", 
+      "last_name": "Phelps", 
+      "user_id": 1567108, 
+      "submission": "Do you support the labeling of GMOs and if so, what do you intend to do to promote people's right to know what is in their food?", 
+      "district": "NM_03", 
+      "created": "2013-08-09T23:16:24", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 36.4486, 
+      "x": -105.575, 
+      "id": 16287712, 
+      "question_id": "16176001"
     }, 
     {
       "city": "Monson", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -72.324, 
       "id": 16287708, 
       "question_id": "16280883"
-    }, 
-    {
-      "city": "El Prado", 
-      "first_name": "Sally", 
-      "last_name": "Phelps", 
-      "user_id": 1567108, 
-      "submission": "\"Will you pledge to support and work toward overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend?\" ", 
-      "district": "NM_03", 
-      "created": "2013-08-09T23:11:34", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16287702, 
-      "question_id": "16255209"
     }, 
     {
       "city": "Ocala", 
