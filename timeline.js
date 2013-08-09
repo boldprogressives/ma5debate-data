@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Fayetteville", 
-      "first_name": "Vera", 
-      "last_name": "Morgan", 
-      "user_id": 1012008, 
-      "submission": "Solar would bring in new jobs and the factorys built in this country you could even run street lights, stop and go lights i know it would help with the citys tax base, becouse i build solar heat exchangers for the low income folks and it works becouse my heating bills run 16.00 dollars a month 2 years ago last year 48 dollars a month why would not want that ?", 
-      "district": "NC_04", 
-      "created": "2013-08-09T12:19:53", 
-      "state": "NC", 
+      "city": "seattle", 
+      "first_name": "Rick", 
+      "last_name": "Harlan", 
+      "user_id": 245327, 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "district": "WA_07", 
+      "created": "2013-08-09T12:21:01", 
+      "state": "WA", 
       "iface": "timeline_vote", 
-      "y": 35.0577, 
-      "x": -79.0035, 
-      "id": 16271983, 
-      "question_id": "16172866"
+      "y": 47.6335, 
+      "x": -122.293, 
+      "id": 16271990, 
+      "question_id": "16172303"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Do you support a single payer health plan Government run like Medicare/Medicaid?", 
+      "submission": "What will you do to fund public education, including higher education, to keep tuition affordable and pay full time adjunct faculty on par with tenured faculty?", 
       "district": "MA_04", 
-      "created": "2013-08-09T12:19:32", 
+      "created": "2013-08-09T12:20:53", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16271980, 
-      "question_id": "16175855"
+      "id": 16271989, 
+      "question_id": "16186056"
+    }, 
+    {
+      "city": "Fayetteville", 
+      "first_name": "Vera", 
+      "last_name": "Morgan", 
+      "user_id": 1012008, 
+      "submission": "The threat that hangs over the country today is a GOP determined to destroy the middle class and the values that define it.  What specific steps will you recommend to confront, not appease, the GOP?", 
+      "district": "NC_04", 
+      "created": "2013-08-09T12:20:42", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.0577, 
+      "x": -79.0035, 
+      "id": 16271988, 
+      "question_id": "16172694"
     }, 
     {
       "city": "West Columbia", 
@@ -285,21 +300,6 @@ opendebate.processTimeline({
       "x": -73.9399, 
       "id": 16271785, 
       "question_id": "16173921"
-    }, 
-    {
-      "city": "Orlando", 
-      "first_name": "Barbara", 
-      "last_name": "Lawrence", 
-      "user_id": 1203623, 
-      "submission": "How do you address cities going bankrupt, unemployment, people working not meeting basic needs and social services being cut over and over- yet corporations receiving welfare- in the form of tax breaks, incentives and yet they are can outsource jobs to other countries and people in the US are hungry?", 
-      "district": "FL_09", 
-      "created": "2013-08-09T12:03:06", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 28.5824, 
-      "x": -81.2515, 
-      "id": 16271777, 
-      "question_id": "16190286"
     }
   ]
 });
