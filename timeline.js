@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Carlotta", 
       "last_name": "Hayes", 
       "user_id": 1806880, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
       "district": "MA_08", 
-      "created": "2013-08-09T11:21:57", 
+      "created": "2013-08-09T11:22:52", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2138, 
       "x": -70.9328, 
-      "id": 16271318, 
-      "question_id": "16172777"
+      "id": 16271326, 
+      "question_id": "16172281"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "\"Lobbying\" is essentially a legal method for wealthy corporations and special interest groups to obtain legislation and subsidies not available to individual American citizens and small businesses.  Additionally, the groups using \"lobbyists\" (often former elected officials with \"contacts\" in Congress), are able to deduct the expenses of lobbying from their taxable income.  It is tax-deductible bribery by the \"haves\" in order to maintain their ascendency over the \"have-nots,\" and should be illegal.   Do you support eliminating lobbying?  If so, how will you go about getting rid of it; if not, why not?", 
+      "submission": "Will you pledge to protect Social Security and expand it if possible for the Elderly and Dusabled?", 
       "district": "MA_04", 
-      "created": "2013-08-09T11:21:47", 
+      "created": "2013-08-09T11:22:49", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16271317, 
-      "question_id": "16197666"
+      "id": 16271325, 
+      "question_id": "16238957"
     }, 
     {
       "city": "Nashville", 
