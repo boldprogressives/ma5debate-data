@@ -6003,7 +6003,7 @@ opendebate.processFetchedQuestions({
       "x": -71.215, 
       "latest_vote": "2013-08-09T15:24:35", 
       "id": 16226967, 
-      "trending_score": 2.833333333333333
+      "trending_score": 2.5
     }, 
     {
       "city": "Lexington", 
@@ -6592,7 +6592,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1804, 
       "latest_vote": "2013-08-09T15:14:45", 
       "id": 16225266, 
-      "trending_score": 2.0
+      "trending_score": 2.25
     }, 
     {
       "city": "Quincy", 
@@ -6934,7 +6934,7 @@ opendebate.processFetchedQuestions({
       "x": -80.9535, 
       "latest_vote": "2013-08-09T15:10:42", 
       "id": 16224944, 
-      "trending_score": 3.0
+      "trending_score": 4.25
     }, 
     {
       "city": "Trumbull", 
@@ -7238,7 +7238,7 @@ opendebate.processFetchedQuestions({
       "x": -73.2739, 
       "latest_vote": "2013-08-09T15:04:03", 
       "id": 16224524, 
-      "trending_score": 3.0
+      "trending_score": 4.25
     }, 
     {
       "city": "Haverhill", 
@@ -7257,7 +7257,7 @@ opendebate.processFetchedQuestions({
       "x": -71.0842, 
       "latest_vote": "2013-08-09T15:09:42", 
       "id": 16224467, 
-      "trending_score": 3.0
+      "trending_score": 4.25
     }, 
     {
       "city": "Framingham", 
@@ -7428,7 +7428,7 @@ opendebate.processFetchedQuestions({
       "x": -70.9975, 
       "latest_vote": "2013-08-09T15:14:36", 
       "id": 16223764, 
-      "trending_score": 2.0
+      "trending_score": 2.25
     }, 
     {
       "city": "Sierra Madre", 
@@ -7542,7 +7542,7 @@ opendebate.processFetchedQuestions({
       "x": -75.2891, 
       "latest_vote": "2013-08-09T15:09:39", 
       "id": 16223490, 
-      "trending_score": 2.0
+      "trending_score": 2.25
     }, 
     {
       "city": "Lee", 
@@ -13974,16 +13974,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you favor legislation to protect our water, land, and communities from the negative environmental and social impacts of fracking for natural gas?", 
       "district": "PA_18", 
       "created": "2013-08-06T20:31:06", 
-      "state_votes": 15, 
-      "votes": 358, 
+      "state_votes": 16, 
+      "votes": 359, 
       "district_votes": 5, 
       "state": "PA", 
       "iface": "question", 
       "y": 39.8949, 
       "x": -80.1743, 
-      "latest_vote": "2013-08-09T15:30:46", 
+      "latest_vote": "2013-08-09T15:47:35", 
       "id": 16204423, 
-      "trending_score": 4.083333333333334
+      "trending_score": 4.416666666666666
     }, 
     {
       "city": "Peabody", 
@@ -21290,15 +21290,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_07", 
       "created": "2013-08-06T12:32:01", 
       "state_votes": 20, 
-      "votes": 633, 
+      "votes": 634, 
       "district_votes": 7, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3818, 
       "x": -71.1032, 
-      "latest_vote": "2013-08-09T15:41:45", 
+      "latest_vote": "2013-08-09T15:47:11", 
       "id": 16180998, 
-      "trending_score": 30.125
+      "trending_score": 31.125
     }, 
     {
       "city": "Irvine", 
@@ -24653,15 +24653,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_08", 
       "created": "2013-08-05T01:44:45", 
       "state_votes": 86, 
-      "votes": 961, 
+      "votes": 962, 
       "district_votes": 32, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.174, 
       "x": -87.9643, 
-      "latest_vote": "2013-08-09T15:46:57", 
+      "latest_vote": "2013-08-09T15:47:47", 
       "id": 16175740, 
-      "trending_score": 31.3
+      "trending_score": 31.633333333333333
     }, 
     {
       "city": "Buffalo Grove", 
@@ -28206,15 +28206,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
       "state_votes": 254, 
-      "votes": 1670, 
+      "votes": 1672, 
       "district_votes": 68, 
       "state": "MT", 
       "iface": "question", 
       "y": 46.6453, 
       "x": -111.974, 
-      "latest_vote": "2013-08-09T15:46:18", 
+      "latest_vote": "2013-08-09T15:47:53", 
       "id": 16172777, 
-      "trending_score": 56.7
+      "trending_score": 38.3
     }, 
     {
       "city": "Gladstone", 
@@ -29042,15 +29042,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:33:11", 
       "state_votes": 252, 
-      "votes": 1593, 
+      "votes": 1594, 
       "district_votes": 69, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-09T15:46:28", 
+      "latest_vote": "2013-08-09T15:47:43", 
       "id": 16172266, 
-      "trending_score": 27.25
+      "trending_score": 27.583333333333332
     }, 
     {
       "city": "Cambridge", 
