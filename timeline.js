@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Lyons", 
-      "first_name": "Sandra", 
-      "last_name": "Toomey", 
-      "user_id": 1773961, 
-      "submission": "It is time we stop rewarding companies that outsource American jobs.  Would you propose a new tax on these companies, an import tax on products produced by these companies or some other form of incentive to keep jobs in this country?  Please be specific.", 
-      "district": "IL_03", 
-      "created": "2013-08-09T11:47:59", 
-      "state": "IL", 
-      "iface": "timeline_vote", 
-      "y": 41.8118, 
-      "x": -87.8206, 
-      "id": 16271532, 
-      "question_id": "16175276"
-    }, 
-    {
       "city": "Madison", 
       "first_name": "Teresa", 
       "last_name": "Goodier", 
       "user_id": 1699894, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "submission": "Do you support the concept of keeping church and state separate?", 
       "district": "WI_02", 
-      "created": "2013-08-09T11:47:46", 
+      "created": "2013-08-09T11:49:03", 
       "state": "WI", 
       "iface": "timeline_vote", 
       "y": 43.0792, 
       "x": -89.3772, 
-      "id": 16271530, 
-      "question_id": "16172281"
+      "id": 16271547, 
+      "question_id": "16173921"
+    }, 
+    {
+      "city": "Inglewood", 
+      "first_name": "Ken", 
+      "last_name": "Benson", 
+      "user_id": 519373, 
+      "submission": "The drug war and the prison industry has destroyed many lives -- especially of low income and minority citizens. As a first step, marijuana needs to be legalized nation-wide. What will you do toward that end?", 
+      "district": "CA_43", 
+      "created": "2013-08-09T11:48:53", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 33.9753, 
+      "x": -118.354, 
+      "id": 16271545, 
+      "question_id": "16173418"
     }, 
     {
       "city": "Williston", 
       "first_name": "Michael", 
       "last_name": "Lowe", 
       "user_id": 654169, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
+      "submission": "Will you work to support Elizabeth Warren's efforts to revise Glass-Steagall", 
       "district": "FL_03", 
-      "created": "2013-08-09T11:47:02", 
+      "created": "2013-08-09T11:48:41", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 29.3881, 
       "x": -82.4535, 
-      "id": 16271519, 
-      "question_id": "16175740"
+      "id": 16271543, 
+      "question_id": "16265543"
+    }, 
+    {
+      "city": "Lyons", 
+      "first_name": "Sandra", 
+      "last_name": "Toomey", 
+      "user_id": 1773961, 
+      "submission": "How do you address cities going bankrupt, unemployment, people working not meeting basic needs and social services being cut over and over- yet corporations receiving welfare- in the form of tax breaks, incentives and yet they are can outsource jobs to other countries and people in the US are hungry?", 
+      "district": "IL_03", 
+      "created": "2013-08-09T11:48:35", 
+      "state": "IL", 
+      "iface": "timeline_vote", 
+      "y": 41.8118, 
+      "x": -87.8206, 
+      "id": 16271541, 
+      "question_id": "16190286"
     }, 
     {
       "city": "Massillon", 
@@ -285,21 +300,6 @@ opendebate.processTimeline({
       "x": -86.7806, 
       "id": 16271311, 
       "question_id": "16247712"
-    }, 
-    {
-      "city": "Cambridge", 
-      "first_name": "amy", 
-      "last_name": "thomas", 
-      "user_id": 1618349, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
-      "district": "MA_05", 
-      "created": "2013-08-09T11:18:45", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.366, 
-      "x": -71.1035, 
-      "id": 16271309, 
-      "question_id": "16172533"
     }
   ]
 });
