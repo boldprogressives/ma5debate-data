@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Paula", 
       "last_name": "Goodman", 
       "user_id": 546461, 
-      "submission": "Are you going to stand up to the NRA, to stop our young and innocent, from being murdered?", 
+      "submission": "Will you support a constitutional amendment requiring the federal Government to provide universal health care to all U.S. citizens?", 
       "district": "CA_11", 
-      "created": "2013-08-09T09:04:22", 
+      "created": "2013-08-09T09:05:55", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 37.9423, 
       "x": -122.355, 
-      "id": 16270070, 
-      "question_id": "16199637"
+      "id": 16270081, 
+      "question_id": "16232327"
+    }, 
+    {
+      "city": "Acton", 
+      "first_name": "Karl", 
+      "last_name": "Heinemann", 
+      "user_id": 1722316, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "MA_03", 
+      "created": "2013-08-09T09:05:06", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4774, 
+      "x": -71.4467, 
+      "id": 16270072, 
+      "question_id": "16172777"
     }, 
     {
       "city": "New York", 
@@ -293,25 +308,6 @@ opendebate.processTimeline({
       "x": -154.962, 
       "id": 16269627, 
       "question_id": "16180815"
-    }, 
-    {
-      "city": "Henderson", 
-      "first_name": "Nicholas", 
-      "last_name": "Martino", 
-      "user_id": 1810196, 
-      "submission": "Can you honestly believe that the house of cards that was 9/11 and the state-sponsored terrorism of those of us with a brain and a conscience by the NSA can be sustained indefinitely or that it won't ultimately result in patriotic Americans taking arms and simply hunting down and executing traitors in Washington?", 
-      "district": "NV_03", 
-      "created": "2013-08-09T07:59:15", 
-      "state_votes": 0, 
-      "votes": 2, 
-      "district_votes": 0, 
-      "state": "NV", 
-      "iface": "timeline_question", 
-      "y": 36.0401, 
-      "x": -115.077, 
-      "latest_vote": "2013-08-09T08:33:09", 
-      "id": 16269603, 
-      "trending_score": 2.5
     }
   ]
 });
