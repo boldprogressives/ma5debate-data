@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and if not why not?", 
+      "submission": "When is Congress going to reinstate Glass-Steagall Act and hold CEO's of \"too big to fail\" banks accountable for their criminal behavior?", 
       "district": "MA_04", 
-      "created": "2013-08-09T12:09:05", 
+      "created": "2013-08-09T12:10:01", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16271825, 
-      "question_id": "16186709"
+      "id": 16271829, 
+      "question_id": "16242609"
+    }, 
+    {
+      "city": "Greenville", 
+      "first_name": "Don", 
+      "last_name": "Cavellini", 
+      "user_id": 528799, 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "district": "NC_01", 
+      "created": "2013-08-09T12:09:56", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.6264, 
+      "x": -77.4386, 
+      "id": 16271828, 
+      "question_id": "16172755"
     }, 
     {
       "city": "New York", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -71.0589, 
       "id": 16271729, 
       "question_id": "16271044"
-    }, 
-    {
-      "city": "Sanbornton", 
-      "first_name": "Catharine", 
-      "last_name": "Farkas", 
-      "user_id": 659119, 
-      "submission": "Do you support the concept of keeping church and state separate?", 
-      "district": "NH_01", 
-      "created": "2013-08-09T11:56:29", 
-      "state": "NH", 
-      "iface": "timeline_vote", 
-      "y": 43.5444, 
-      "x": -71.6231, 
-      "id": 16271718, 
-      "question_id": "16173921"
     }
   ]
 });
