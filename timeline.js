@@ -6,30 +6,45 @@ opendebate.processTimeline({
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "What will you do to counteract the rampant income inequality that coddles the wealthy, relegates the poor to economic slavery and makes a mockery of the public good?", 
+      "submission": "Will you support reasonable changes in our gun laws?", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:23:51", 
+      "created": "2013-08-09T21:24:58", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286173, 
-      "question_id": "16225362"
+      "id": 16286188, 
+      "question_id": "16234792"
     }, 
     {
       "city": "Moss Point", 
       "first_name": "Michael", 
       "last_name": "Stallworth", 
       "user_id": 821196, 
-      "submission": "Will you pledge to uphold the Affordable Care Act and help states implement it -- not defund it?", 
+      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
       "district": "MS_04", 
-      "created": "2013-08-09T21:23:44", 
+      "created": "2013-08-09T21:24:39", 
       "state": "MS", 
       "iface": "timeline_vote", 
       "y": 30.4076, 
       "x": -88.5302, 
-      "id": 16286171, 
-      "question_id": "16181276"
+      "id": 16286184, 
+      "question_id": "16175634"
+    }, 
+    {
+      "city": "Fairfield", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810363, 
+      "submission": "I am a 26 yr old College student who will be majoring From Political Science in 2014. I am a convicted felon and have had a great amount of difficulty getting companies to hire me because of my CORI. What will you do for me and others whom have the same issues as i have even after changing my life around. ", 
+      "district": "CA_03", 
+      "created": "2013-08-09T21:24:14", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 38.2852, 
+      "x": -122.008, 
+      "id": 16286177, 
+      "question_id": "16209749"
     }, 
     {
       "city": "Wesley Chapel", 
@@ -297,25 +312,6 @@ opendebate.processTimeline({
       "x": -76.091, 
       "id": 16285870, 
       "question_id": "16201951"
-    }, 
-    {
-      "city": "Pompano Beach", 
-      "first_name": "Stewart", 
-      "last_name": "Rosenkrantz", 
-      "user_id": 1778535, 
-      "submission": "What would you do to ensure that disabled parking spaces are used by the truly disabled?", 
-      "district": "FL_22", 
-      "created": "2013-08-09T21:01:53", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "FL", 
-      "iface": "timeline_question", 
-      "y": 26.2348, 
-      "x": -80.0938, 
-      "latest_vote": null, 
-      "id": 16285838, 
-      "trending_score": 0.5
     }
   ]
 });
