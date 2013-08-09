@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "New York", 
-      "first_name": "charles", 
-      "last_name": "philp", 
-      "user_id": 1759838, 
-      "submission": "Will you support Elizabeth Warren's efforts to create a new Glass-Steagall Act?", 
-      "district": "NY_12", 
-      "created": "2013-08-09T08:18:42", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.7653, 
-      "x": -73.9638, 
-      "id": 16269757, 
-      "question_id": "16201467"
-    }, 
-    {
       "city": "Santa Fe", 
       "first_name": "Victoria", 
       "last_name": "Scott", 
       "user_id": 1708295, 
-      "submission": "Will you support raising the minimum wage to at least $10.00 per hour?", 
+      "submission": "Would you support the pardoning of all victimless crime marijuana (Cannabis) offenders? Depopulating our For Profit Prisons?", 
       "district": "NM_03", 
-      "created": "2013-08-09T08:18:39", 
+      "created": "2013-08-09T08:19:48", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 35.6768, 
       "x": -105.958, 
-      "id": 16269756, 
-      "question_id": "16260137"
+      "id": 16269763, 
+      "question_id": "16208291"
+    }, 
+    {
+      "city": "New York", 
+      "first_name": "charles", 
+      "last_name": "philp", 
+      "user_id": 1759838, 
+      "submission": "Do you intend to be a vocal advocate favoring mandatory labeling of food and beverage products that contain genetically modified ingredients...labeling that indicates the presence of GMO?", 
+      "district": "NY_12", 
+      "created": "2013-08-09T08:19:16", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.7653, 
+      "x": -73.9638, 
+      "id": 16269759, 
+      "question_id": "16248162"
     }, 
     {
       "city": "Tryon", 
