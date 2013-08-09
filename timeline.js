@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and if not why not?", 
+      "district": "MA_04", 
+      "created": "2013-08-09T12:09:05", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16271825, 
+      "question_id": "16186709"
+    }, 
+    {
+      "city": "New York", 
+      "first_name": "Dorothy", 
+      "last_name": "Marion", 
+      "user_id": 1142675, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "NY_10", 
+      "created": "2013-08-09T12:08:53", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.7996, 
+      "x": -73.9703, 
+      "id": 16271824, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "Rockland", 
       "first_name": "Marty", 
       "last_name": "Blumberg", 
@@ -15,21 +45,6 @@ opendebate.processTimeline({
       "x": -70.9078, 
       "id": 16271821, 
       "question_id": "16173921"
-    }, 
-    {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "What do you think are solutions to how money in politics has resulted in a very corrupt electoral and legislative system.", 
-      "district": "MA_04", 
-      "created": "2013-08-09T12:07:43", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16271819, 
-      "question_id": "16173172"
     }, 
     {
       "city": "Rocky Hill", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -71.6231, 
       "id": 16271718, 
       "question_id": "16173921"
-    }, 
-    {
-      "city": "Cape Coral", 
-      "first_name": "Celestine", 
-      "last_name": "Washington", 
-      "user_id": 793417, 
-      "submission": "Serving in Congress is not a career.  Will you vote for term limits?", 
-      "district": "FL_19", 
-      "created": "2013-08-09T11:56:04", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 26.6297, 
-      "x": -81.9518, 
-      "id": 16271708, 
-      "question_id": "16173323"
     }
   ]
 });
