@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "royce", 
       "last_name": "hohn", 
       "user_id": 1141717, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "submission": "To all Candidates...Will you support Elizabeth Warren's bill to allow college students to borrow under 1% interest of college loans? ", 
       "district": "NC_11", 
-      "created": "2013-08-09T09:23:29", 
+      "created": "2013-08-09T09:24:27", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 36.0328, 
       "x": -81.9544, 
-      "id": 16270220, 
-      "question_id": "16172266"
+      "id": 16270231, 
+      "question_id": "16200733"
     }, 
     {
       "city": "Meadow Vista", 
