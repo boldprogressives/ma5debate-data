@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Rebecca", 
       "last_name": "Hall", 
       "user_id": 1707725, 
-      "submission": "Would you support a ban on Congresspersons accepting jobs as corporate lobbyists for at least ten years after leaving Congress?", 
+      "submission": "How will you support the dignity and freedom of women to make medical decisions with their health care providers without interference of federal and state laws?", 
       "district": "CA_20", 
-      "created": "2013-08-09T16:22:58", 
+      "created": "2013-08-09T16:24:00", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 36.989, 
       "x": -122.058, 
-      "id": 16279282, 
-      "question_id": "16178177"
+      "id": 16279293, 
+      "question_id": "16183415"
+    }, 
+    {
+      "city": "Jamaica Plain", 
+      "first_name": "Carolyn", 
+      "last_name": "Nikkal", 
+      "user_id": 994541, 
+      "submission": "When will you force Eric Holder and the DOJ to start prosecuting the criminal elements in the Wall Street firms that attributed to the great economic crash of 2008?", 
+      "district": "MA_08", 
+      "created": "2013-08-09T16:24:00", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2947, 
+      "x": -71.1305, 
+      "id": 16279294, 
+      "question_id": "16209667"
     }, 
     {
       "city": "Ester", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -148.248, 
       "id": 16279280, 
       "question_id": "16205834"
-    }, 
-    {
-      "city": "Jamaica Plain", 
-      "first_name": "Carolyn", 
-      "last_name": "Nikkal", 
-      "user_id": 994541, 
-      "submission": "Will you support carbon taxes?", 
-      "district": "MA_08", 
-      "created": "2013-08-09T16:22:44", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2947, 
-      "x": -71.1305, 
-      "id": 16279274, 
-      "question_id": "16174323"
     }, 
     {
       "city": "Rice", 
