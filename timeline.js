@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "D. S.", 
       "last_name": "Kinzie", 
       "user_id": 88880, 
-      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
+      "submission": "How will you support the dignity and freedom of women to make medical decisions with their health care providers without interference of federal and state laws?", 
       "district": "TN_05", 
-      "created": "2013-08-09T10:27:58", 
+      "created": "2013-08-09T10:29:01", 
       "state": "TN", 
       "iface": "timeline_vote", 
       "y": 36.1088, 
       "x": -86.7806, 
-      "id": 16270879, 
-      "question_id": "16202059"
+      "id": 16270890, 
+      "question_id": "16183415"
     }, 
     {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Why is Social Security referred to by many elected Representatives and Senators in Washington as an \"entitlement\" when, first, we all pay or paid into it during all of our working years, and second, by law, normal tax revenue can not be used to fund It?  Is it because the government has used up all the money paid into Social Security over the years, and so that now the government has to raise more money to pay Social Security's current obligations?", 
+      "submission": "What will you do to curb the influence of lobbyist and limit campaign spending.  ", 
       "district": "MA_04", 
-      "created": "2013-08-09T10:27:35", 
+      "created": "2013-08-09T10:28:29", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270875, 
-      "question_id": "16180456"
+      "id": 16270885, 
+      "question_id": "16201563"
     }, 
     {
       "city": "Raleigh", 
