@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "How can we keep our post offices up and running?", 
+      "district": "MA_04", 
+      "created": "2013-08-09T11:16:58", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16271300, 
+      "question_id": "16194365"
+    }, 
+    {
+      "city": "Amherst", 
+      "first_name": "judith", 
+      "last_name": "gatz", 
+      "user_id": 383985, 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "district": "MA_02", 
+      "created": "2013-08-09T11:16:49", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3839, 
+      "x": -72.5118, 
+      "id": 16271299, 
+      "question_id": "16172281"
+    }, 
+    {
       "city": "Green Bay", 
       "first_name": "Mark", 
       "last_name": "Cherney", 
       "user_id": 1707649, 
-      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
+      "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
       "district": "WI_08", 
-      "created": "2013-08-09T11:16:00", 
+      "created": "2013-08-09T11:16:21", 
       "state": "WI", 
       "iface": "timeline_vote", 
       "y": 44.4935, 
       "x": -87.9285, 
-      "id": 16271291, 
-      "question_id": "16172690"
+      "id": 16271296, 
+      "question_id": "16175500"
     }, 
     {
       "city": "Nashville", 
@@ -30,21 +60,6 @@ opendebate.processTimeline({
       "x": -86.7806, 
       "id": 16271288, 
       "question_id": "16192109"
-    }, 
-    {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "The sequester just slashed Meals on Wheels, food stamps, Section 8 vouchers for housing for the needy.How come in April, when the sequester hit the commuting congressional members with inconvenienltly long waiting suddenly money was found to eliminate inconveniences. What is your view on congressional priorities affecting the American people ?", 
-      "district": "MA_04", 
-      "created": "2013-08-09T11:15:33", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16271287, 
-      "question_id": "16206216"
     }, 
     {
       "city": "Delray Beach", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -105.251, 
       "id": 16270869, 
       "question_id": "16208136"
-    }, 
-    {
-      "city": "Rockport", 
-      "first_name": "Lois", 
-      "last_name": "Brynes", 
-      "user_id": 49354, 
-      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
-      "district": "MA_06", 
-      "created": "2013-08-09T10:26:03", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.6587, 
-      "x": -70.6187, 
-      "id": 16270861, 
-      "question_id": "16172303"
     }
   ]
 });
