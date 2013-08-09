@@ -6,30 +6,45 @@ opendebate.processTimeline({
       "first_name": "Carlotta", 
       "last_name": "Hayes", 
       "user_id": 1806880, 
-      "submission": "Will you work to protect Planned Parenthood and affordable health care for all women", 
+      "submission": "AR15's are a \"civilian \" version of the M16A1 Assault Rifle, a weapon of WAR. Would you support legislation that would outlaw private possession of all weapons of WAR, while affirming our 2nd Amendment Rights to own a hunting  rifle, etc.?", 
       "district": "MA_08", 
-      "created": "2013-08-09T11:36:22", 
+      "created": "2013-08-09T11:38:03", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2138, 
       "x": -70.9328, 
-      "id": 16271443, 
-      "question_id": "16263952"
+      "id": 16271447, 
+      "question_id": "16230765"
+    }, 
+    {
+      "city": "Massillon", 
+      "first_name": "Tom and Betty", 
+      "last_name": "Cliff", 
+      "user_id": 1776730, 
+      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
+      "district": "OH_16", 
+      "created": "2013-08-09T11:37:48", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 40.8028, 
+      "x": -81.5208, 
+      "id": 16271446, 
+      "question_id": "16175230"
     }, 
     {
       "city": "Decatur", 
       "first_name": "Wilma", 
       "last_name": "Bondurant", 
       "user_id": 1807845, 
-      "submission": "Do you support Unions and their work on behalf of  American workers ", 
+      "submission": "Do/would you support an investigation of any/all Representative\u2019s that signed the Norquist pledge as having a conflict of interest with their pledge to uphold the Constitution and make government work?", 
       "district": "IL_13", 
-      "created": "2013-08-09T11:35:57", 
+      "created": "2013-08-09T11:37:18", 
       "state": "IL", 
       "iface": "timeline_vote", 
       "y": 39.846, 
       "x": -88.9932, 
-      "id": 16271440, 
-      "question_id": "16265573"
+      "id": 16271444, 
+      "question_id": "16206139"
     }, 
     {
       "city": "Cincinnati", 
@@ -285,21 +300,6 @@ opendebate.processTimeline({
       "x": -82.899, 
       "id": 16271104, 
       "question_id": "16219940"
-    }, 
-    {
-      "city": "Parrish", 
-      "first_name": "Steve", 
-      "last_name": "Battle", 
-      "user_id": 1679894, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "FL_16", 
-      "created": "2013-08-09T10:56:29", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 27.5628, 
-      "x": -82.4336, 
-      "id": 16271102, 
-      "question_id": "16172266"
     }
   ]
 });
