@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Newton", 
+      "first_name": "Eric", 
+      "last_name": "Chipman", 
+      "user_id": 133784, 
+      "submission": "Will you vote YES to extending Medicare to everybody?", 
+      "district": "MA_04", 
+      "created": "2013-08-09T11:07:52", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3525, 
+      "x": -71.1907, 
+      "id": 16271221, 
+      "question_id": "16174319"
+    }, 
+    {
+      "city": "key west", 
+      "first_name": "chris", 
+      "last_name": "Stone", 
+      "user_id": 192506, 
+      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
+      "district": "FL_26", 
+      "created": "2013-08-09T11:07:43", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 24.5625, 
+      "x": -81.7611, 
+      "id": 16271220, 
+      "question_id": "16203866"
+    }, 
+    {
       "city": "Nashville", 
       "first_name": "D. S.", 
       "last_name": "Kinzie", 
       "user_id": 88880, 
-      "submission": "The loss of manufacturing jobs and killing the unions are major factors in hurting the middle class and wiping out the city of Detroit. Will you fight to bring manufacturing jobs back to America and help save the unions? ", 
+      "submission": "Will you support reform to congressional and executive compensation, including pay that is equal to the median income of the constituents they represent?", 
       "district": "TN_05", 
-      "created": "2013-08-09T11:07:02", 
+      "created": "2013-08-09T11:07:19", 
       "state": "TN", 
       "iface": "timeline_vote", 
       "y": 36.1088, 
       "x": -86.7806, 
-      "id": 16271217, 
-      "question_id": "16211284"
+      "id": 16271218, 
+      "question_id": "16201568"
     }, 
     {
       "city": "Mount Joy", 
@@ -30,21 +60,6 @@ opendebate.processTimeline({
       "x": -76.5089, 
       "id": 16271216, 
       "question_id": "16244527"
-    }, 
-    {
-      "city": "Newton", 
-      "first_name": "Eric", 
-      "last_name": "Chipman", 
-      "user_id": 133784, 
-      "submission": "Investments in early childhood have been found by economists to have a 7 to 1 return on investment. Would you introduce legislation for programs such as newborn home visiting, parenting education and support, and high quality available and affordable early childhood education?", 
-      "district": "MA_04", 
-      "created": "2013-08-09T11:06:54", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3525, 
-      "x": -71.1907, 
-      "id": 16271215, 
-      "question_id": "16172296"
     }, 
     {
       "city": "Amherst", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -71.3647, 
       "id": 16270781, 
       "question_id": "16206139"
-    }, 
-    {
-      "city": "Thomasboro", 
-      "first_name": "Wanda", 
-      "last_name": "Schideman", 
-      "user_id": 1678833, 
-      "submission": "What will you do to ensure that all Americans have access to the voting booth and what will you do to get money out of our elections so that we all have an equal voice?", 
-      "district": "IL_15", 
-      "created": "2013-08-09T10:14:08", 
-      "state": "IL", 
-      "iface": "timeline_vote", 
-      "y": 40.243, 
-      "x": -88.1815, 
-      "id": 16270717, 
-      "question_id": "16205834"
     }
   ]
 });
