@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Williamsport", 
+      "first_name": "Mary", 
+      "last_name": "Webb", 
+      "user_id": 1783551, 
+      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
+      "district": "OH_15", 
+      "created": "2013-08-09T14:08:00", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 39.601, 
+      "x": -83.1221, 
+      "id": 16275233, 
+      "question_id": "16175740"
+    }, 
+    {
+      "city": "West Newton", 
+      "first_name": "Mgax", 
+      "last_name": "Cangiano", 
+      "user_id": 1807109, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "MA_04", 
+      "created": "2013-08-09T14:07:59", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3489, 
+      "x": -71.2256, 
+      "id": 16275232, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Gwynn Oak", 
+      "first_name": "Sharon", 
+      "last_name": "Holley", 
+      "user_id": 1783365, 
+      "submission": "Do you agree that accepting money from corporate interests with an economic stake in how Congressmen vote, and then voting on matters that affect them, is pernicious and close to bribery?  If not, why not?  ", 
+      "district": "MD_07", 
+      "created": "2013-08-09T14:07:36", 
+      "state": "MD", 
+      "iface": "timeline_vote", 
+      "y": 39.3238, 
+      "x": -76.7143, 
+      "id": 16275227, 
+      "question_id": "16176481"
+    }, 
+    {
       "city": "Belford", 
       "first_name": "Alan", 
       "last_name": "Reid", 
@@ -34,21 +79,6 @@ opendebate.processTimeline({
       "x": -97.7656, 
       "id": 16275220, 
       "question_id": "16259807"
-    }, 
-    {
-      "city": "Gwynn Oak", 
-      "first_name": "Sharon", 
-      "last_name": "Holley", 
-      "user_id": 1783365, 
-      "submission": "Congress persons have voted to put themselves in the driver's seat when it comes to their salaries. They vote themselves raises and we as citizens cannot over turn. What will you do to stop this practice?", 
-      "district": "MD_07", 
-      "created": "2013-08-09T14:06:40", 
-      "state": "MD", 
-      "iface": "timeline_vote", 
-      "y": 39.3238, 
-      "x": -76.7143, 
-      "id": 16275218, 
-      "question_id": "16173244"
     }, 
     {
       "city": "Folcroft", 
@@ -278,36 +308,6 @@ opendebate.processTimeline({
       "x": -84.4706, 
       "id": 16274687, 
       "question_id": "16173921"
-    }, 
-    {
-      "city": "Burdett", 
-      "first_name": "Karen", 
-      "last_name": "Melamed Smith", 
-      "user_id": 541198, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
-      "district": "NY_23", 
-      "created": "2013-08-09T13:52:30", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 42.4371, 
-      "x": -76.8283, 
-      "id": 16274629, 
-      "question_id": "16172281"
-    }, 
-    {
-      "city": "Trenton", 
-      "first_name": "donald", 
-      "last_name": "simpson", 
-      "user_id": 1719622, 
-      "submission": "Will you work to support Elizabeth Warren's efforts to revise Glass-Steagall", 
-      "district": "OH_08", 
-      "created": "2013-08-09T13:51:47", 
-      "state": "OH", 
-      "iface": "timeline_vote", 
-      "y": 39.4682, 
-      "x": -84.4571, 
-      "id": 16274588, 
-      "question_id": "16265543"
     }
   ]
 });

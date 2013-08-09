@@ -1272,7 +1272,7 @@ opendebate.processFetchedQuestions({
       "x": -111.955, 
       "latest_vote": "2013-08-09T09:07:40", 
       "id": 16260137, 
-      "trending_score": 0.3333333333333333
+      "trending_score": 0.125
     }, 
     {
       "city": "Portland", 
@@ -2146,7 +2146,7 @@ opendebate.processFetchedQuestions({
       "x": -118.399, 
       "latest_vote": "2013-08-09T10:30:53", 
       "id": 16250174, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Las Vegas", 
@@ -4654,7 +4654,7 @@ opendebate.processFetchedQuestions({
       "x": -75.1731, 
       "latest_vote": "2013-08-09T13:24:39", 
       "id": 16234332, 
-      "trending_score": 3.0
+      "trending_score": 2.083333333333333
     }, 
     {
       "city": "Phila", 
@@ -8435,7 +8435,7 @@ opendebate.processFetchedQuestions({
       "x": -71.7731, 
       "latest_vote": "2013-08-09T13:21:34", 
       "id": 16219940, 
-      "trending_score": 9.166666666666666
+      "trending_score": 5.916666666666667
     }, 
     {
       "city": "Worcester", 
@@ -8948,7 +8948,7 @@ opendebate.processFetchedQuestions({
       "x": -81.0578, 
       "latest_vote": "2013-08-09T12:36:37", 
       "id": 16217791, 
-      "trending_score": 2.0
+      "trending_score": 1.8333333333333333
     }, 
     {
       "city": "Fairbanks", 
@@ -12197,7 +12197,7 @@ opendebate.processFetchedQuestions({
       "x": -99.16, 
       "latest_vote": "2013-08-09T13:26:50", 
       "id": 16209412, 
-      "trending_score": 4.5
+      "trending_score": 3.5
     }, 
     {
       "city": "El Cajon", 
@@ -13698,7 +13698,7 @@ opendebate.processFetchedQuestions({
       "x": -80.1743, 
       "latest_vote": "2013-08-09T13:40:30", 
       "id": 16204423, 
-      "trending_score": 6.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Peabody", 
@@ -15266,16 +15266,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you pleadge to oppose cuts to Social Security and Medicare benefits?", 
       "district": "VA_01", 
       "created": "2013-08-06T17:54:59", 
-      "state_votes": 6, 
-      "votes": 36, 
-      "district_votes": 3, 
+      "state_votes": 7, 
+      "votes": 37, 
+      "district_votes": 4, 
       "state": "VA", 
       "iface": "question", 
       "y": 38.0078, 
       "x": -77.5456, 
-      "latest_vote": "2013-08-09T12:58:11", 
+      "latest_vote": "2013-08-09T14:07:41", 
       "id": 16196880, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Jamaica Plain", 
@@ -23293,7 +23293,7 @@ opendebate.processFetchedQuestions({
       "x": -110.829, 
       "latest_vote": "2013-08-09T14:06:16", 
       "id": 16176673, 
-      "trending_score": 2.5
+      "trending_score": 3.0
     }, 
     {
       "city": "Idaho Falls", 
@@ -23589,15 +23589,15 @@ opendebate.processFetchedQuestions({
       "district": "NM_01", 
       "created": "2013-08-05T04:17:03", 
       "state_votes": 8, 
-      "votes": 160, 
+      "votes": 161, 
       "district_votes": 1, 
       "state": "NM", 
       "iface": "question", 
       "y": 35.1075, 
       "x": -106.576, 
-      "latest_vote": "2013-08-09T13:57:23", 
+      "latest_vote": "2013-08-09T14:07:36", 
       "id": 16176481, 
-      "trending_score": 8.25
+      "trending_score": 8.75
     }, 
     {
       "city": "Copperas Cove", 
@@ -24368,15 +24368,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_08", 
       "created": "2013-08-05T01:44:45", 
       "state_votes": 83, 
-      "votes": 921, 
+      "votes": 922, 
       "district_votes": 32, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.174, 
       "x": -87.9643, 
-      "latest_vote": "2013-08-09T14:02:19", 
+      "latest_vote": "2013-08-09T14:08:00", 
       "id": 16175740, 
-      "trending_score": 59.25
+      "trending_score": 60.25
     }, 
     {
       "city": "Buffalo Grove", 
@@ -24509,7 +24509,7 @@ opendebate.processFetchedQuestions({
       "x": -88.9093, 
       "latest_vote": "2013-08-09T13:58:10", 
       "id": 16175634, 
-      "trending_score": 14.0
+      "trending_score": 26.25
     }, 
     {
       "city": "Mount Vernon", 
@@ -24680,7 +24680,7 @@ opendebate.processFetchedQuestions({
       "x": -122.322, 
       "latest_vote": "2013-08-09T13:30:31", 
       "id": 16175493, 
-      "trending_score": 12.833333333333334
+      "trending_score": 13.0
     }, 
     {
       "city": "Seattle", 
@@ -26067,7 +26067,7 @@ opendebate.processFetchedQuestions({
       "x": -105.043, 
       "latest_vote": "2013-08-09T13:59:39", 
       "id": 16173921, 
-      "trending_score": 21.5
+      "trending_score": 41.25
     }, 
     {
       "city": "Fort Collins", 
@@ -26447,7 +26447,7 @@ opendebate.processFetchedQuestions({
       "x": -123.188, 
       "latest_vote": "2013-08-09T13:31:45", 
       "id": 16173418, 
-      "trending_score": 3.8333333333333335
+      "trending_score": 5.25
     }, 
     {
       "city": "Eugene", 
@@ -26971,15 +26971,15 @@ opendebate.processFetchedQuestions({
       "district": "WI_06", 
       "created": "2013-08-04T01:21:04", 
       "state_votes": 59, 
-      "votes": 572, 
+      "votes": 573, 
       "district_votes": 15, 
       "state": "WI", 
       "iface": "question", 
       "y": 44.0957, 
       "x": -87.7111, 
-      "latest_vote": "2013-08-09T13:57:47", 
+      "latest_vote": "2013-08-09T14:07:14", 
       "id": 16173257, 
-      "trending_score": 18.5
+      "trending_score": 19.5
     }, 
     {
       "city": "Corvallis", 
@@ -27169,7 +27169,7 @@ opendebate.processFetchedQuestions({
       "x": -97.7518, 
       "latest_vote": "2013-08-09T14:05:24", 
       "id": 16173210, 
-      "trending_score": 24.0
+      "trending_score": 46.25
     }, 
     {
       "city": "Cottonwood", 
@@ -28699,16 +28699,16 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
       "district": "MA_05", 
       "created": "2013-08-03T17:42:20", 
-      "state_votes": 174, 
-      "votes": 1112, 
+      "state_votes": 175, 
+      "votes": 1113, 
       "district_votes": 53, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3699, 
       "x": -71.2368, 
-      "latest_vote": "2013-08-09T14:04:26", 
+      "latest_vote": "2013-08-09T14:07:35", 
       "id": 16172281, 
-      "trending_score": 17.416666666666668
+      "trending_score": 17.75
     }, 
     {
       "city": "Arlington", 
@@ -28756,16 +28756,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "MA_05", 
       "created": "2013-08-03T17:33:11", 
-      "state_votes": 247, 
-      "votes": 1559, 
+      "state_votes": 248, 
+      "votes": 1560, 
       "district_votes": 68, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-09T14:03:41", 
+      "latest_vote": "2013-08-09T14:07:59", 
       "id": 16172266, 
-      "trending_score": 9.666666666666668
+      "trending_score": 9.833333333333334
     }, 
     {
       "city": "Cambridge", 
