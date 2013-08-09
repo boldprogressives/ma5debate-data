@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "Please, can you consider the fact that social security is money we paid out of our income for many years? It should not be cut!", 
+      "submission": "Can you please leave Social Security alone.", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:28:54", 
+      "created": "2013-08-09T21:30:54", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286230, 
-      "question_id": "16225581"
+      "id": 16286246, 
+      "question_id": "16224569"
+    }, 
+    {
+      "city": "Portland", 
+      "first_name": "Ed", 
+      "last_name": "Loosli", 
+      "user_id": 890741, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "OR_01", 
+      "created": "2013-08-09T21:30:43", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 45.4087, 
+      "x": -122.789, 
+      "id": 16286242, 
+      "question_id": "16172777"
     }, 
     {
       "city": "Wilton", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -80.8051, 
       "id": 16285980, 
       "question_id": "16172207"
-    }, 
-    {
-      "city": "North Kingstown", 
-      "first_name": "Dina", 
-      "last_name": "Mihos", 
-      "user_id": 1686039, 
-      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
-      "district": "RI_02", 
-      "created": "2013-08-09T21:07:20", 
-      "state": "RI", 
-      "iface": "timeline_vote", 
-      "y": 41.5843, 
-      "x": -71.4638, 
-      "id": 16285978, 
-      "question_id": "16172697"
     }
   ]
 });
