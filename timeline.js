@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "It is time we stop rewarding companies that outsource American jobs.  Would you propose a new tax on these companies, an import tax on products produced by these companies or some other form of incentive to keep jobs in this country?  Please be specific.", 
+      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
       "district": "NM_03", 
-      "created": "2013-08-09T23:08:48", 
+      "created": "2013-08-09T23:09:59", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16287672, 
-      "question_id": "16175276"
+      "id": 16287677, 
+      "question_id": "16175637"
     }, 
     {
       "city": "Ocala", 
