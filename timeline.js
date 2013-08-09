@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "How will you stand up against the Keystone XL pipeline and the lies told to the American people about it creating jobs, lowering the cost of gas, and decreasing dependency on Middle Eastern oil?", 
+      "submission": "Should marriage equality be legal in all 50 states?", 
       "district": "NM_03", 
-      "created": "2013-08-09T23:28:57", 
+      "created": "2013-08-09T23:29:57", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16287827, 
-      "question_id": "16181945"
+      "id": 16287840, 
+      "question_id": "16173222"
+    }, 
+    {
+      "city": "Seattle", 
+      "first_name": "Sigrid", 
+      "last_name": "Asmus", 
+      "user_id": 176478, 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "district": "WA_07", 
+      "created": "2013-08-09T23:29:57", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 47.6498, 
+      "x": -122.398, 
+      "id": 16287841, 
+      "question_id": "16172281"
     }, 
     {
       "city": "Grover", 
@@ -45,21 +60,6 @@ opendebate.processTimeline({
       "x": -93.2812, 
       "id": 16287825, 
       "question_id": "16260175"
-    }, 
-    {
-      "city": "Seattle", 
-      "first_name": "Sigrid", 
-      "last_name": "Asmus", 
-      "user_id": 176478, 
-      "submission": "What are you going to do about the revolving door of regulators and private industry? The corruption taking place here is unbelievable. Example FCC Comcast takeover of NBC scandal. ", 
-      "district": "WA_07", 
-      "created": "2013-08-09T23:28:17", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 47.6498, 
-      "x": -122.398, 
-      "id": 16287814, 
-      "question_id": "16199756"
     }, 
     {
       "city": "Union City", 
