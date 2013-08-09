@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Tryon", 
+      "first_name": "Murlel", 
+      "last_name": "Lunsford", 
+      "user_id": 1656934, 
+      "submission": "Will you support repairing the unsafe bridges and tunnels in this country?", 
+      "district": "NC_10", 
+      "created": "2013-08-09T08:25:02", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.2172, 
+      "x": -82.2262, 
+      "id": 16269873, 
+      "question_id": "16217796"
+    }, 
+    {
+      "city": "Santa Fe", 
+      "first_name": "Victoria", 
+      "last_name": "Scott", 
+      "user_id": 1708295, 
+      "submission": "Would you vote to overturn Citizens United?", 
+      "district": "NM_03", 
+      "created": "2013-08-09T08:24:26", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 35.6768, 
+      "x": -105.958, 
+      "id": 16269858, 
+      "question_id": "16185125"
+    }, 
+    {
       "city": "New York", 
       "first_name": "charles", 
       "last_name": "philp", 
@@ -15,21 +45,6 @@ opendebate.processTimeline({
       "x": -73.9638, 
       "id": 16269847, 
       "question_id": "16205646"
-    }, 
-    {
-      "city": "Santa Fe", 
-      "first_name": "Victoria", 
-      "last_name": "Scott", 
-      "user_id": 1708295, 
-      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
-      "district": "NM_03", 
-      "created": "2013-08-09T08:23:25", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 35.6768, 
-      "x": -105.958, 
-      "id": 16269830, 
-      "question_id": "16172755"
     }, 
     {
       "city": "East Calais", 
@@ -64,21 +79,6 @@ opendebate.processTimeline({
       "x": -93.1457, 
       "id": 16269764, 
       "question_id": "16219940"
-    }, 
-    {
-      "city": "Tryon", 
-      "first_name": "Murlel", 
-      "last_name": "Lunsford", 
-      "user_id": 1656934, 
-      "submission": "What will you do to ban military assault weapons and multi-bullet magazine clips?", 
-      "district": "NC_10", 
-      "created": "2013-08-09T08:18:15", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.2172, 
-      "x": -82.2262, 
-      "id": 16269754, 
-      "question_id": "16217229"
     }, 
     {
       "city": "Parlier", 
