@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Daniel", 
       "last_name": "Sarasin", 
       "user_id": 1487238, 
-      "submission": "Do/would you support an investigation of any/all Representative\u2019s that signed the Norquist pledge as having a conflict of interest with their pledge to uphold the Constitution and make government work?", 
+      "submission": "Where do you stand with regard to GMO labeling. Is it our right as citizens to have complete transparency with regard to the foods we choose to eat. ", 
       "district": "MI_13", 
-      "created": "2013-08-09T22:24:58", 
+      "created": "2013-08-09T22:26:00", 
       "state": "MI", 
       "iface": "timeline_vote", 
       "y": 42.3801, 
       "x": -83.0518, 
-      "id": 16287074, 
-      "question_id": "16206139"
+      "id": 16287083, 
+      "question_id": "16178048"
     }, 
     {
       "city": "Daniel Island", 
       "first_name": "FRANCIS", 
       "last_name": "HENDERSON", 
       "user_id": 401891, 
-      "submission": "How do you propose stopping the GOPs continued assault on women's reproductive rights?", 
+      "submission": "What will you do about the lack of accountability for crimes such as Wall Street committed, Bankers and foreclosures, 911 crimes, NSA, TSA, and politicians taking bribery and the fake wars they create at OUR expense?  ", 
       "district": "SC_01", 
-      "created": "2013-08-09T22:24:48", 
+      "created": "2013-08-09T22:25:23", 
       "state": "SC", 
       "iface": "timeline_vote", 
       "y": 32.9557, 
       "x": -79.8873, 
-      "id": 16287072, 
-      "question_id": "16205884"
+      "id": 16287078, 
+      "question_id": "16194250"
     }, 
     {
       "city": "Fountain Hills", 
