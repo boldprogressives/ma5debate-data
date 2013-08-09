@@ -6,30 +6,45 @@ opendebate.processTimeline({
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "Why do we always have to be fighting to maintain basic essential human supports?  Social Security and Medicare need to be strengthened and expanded.", 
+      "submission": "Why should SCOTUS justices or their families be involved in such misinformation campaigns as Groundswell when other judges are forbidden to do this?  What do you think about efforts to suppress votes?", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:39:50", 
+      "created": "2013-08-09T21:40:55", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286668, 
-      "question_id": "16222999"
+      "id": 16286678, 
+      "question_id": "16209598"
     }, 
     {
       "city": "Cathedral City", 
       "first_name": "Sam", 
       "last_name": "Massarella", 
       "user_id": 714003, 
-      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "CA_36", 
-      "created": "2013-08-09T21:39:46", 
+      "created": "2013-08-09T21:40:44", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 33.8225, 
       "x": -116.463, 
-      "id": 16286666, 
-      "question_id": "16172583"
+      "id": 16286675, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Bloomington", 
+      "first_name": "Naomi", 
+      "last_name": "Fatouros", 
+      "user_id": 183575, 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "district": "IN_09", 
+      "created": "2013-08-09T21:40:30", 
+      "state": "IN", 
+      "iface": "timeline_vote", 
+      "y": 39.0953, 
+      "x": -86.4577, 
+      "id": 16286673, 
+      "question_id": "16172755"
     }, 
     {
       "city": "Seattle", 
@@ -289,25 +304,6 @@ opendebate.processTimeline({
       "x": -111.798, 
       "id": 16286072, 
       "question_id": "16175230"
-    }, 
-    {
-      "city": "Willard", 
-      "first_name": "michael", 
-      "last_name": "painter", 
-      "user_id": 1808157, 
-      "submission": "What will you do about  incorrect background checks being done on prospective employees? ", 
-      "district": "NC_03", 
-      "created": "2013-08-09T21:16:04", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "NC", 
-      "iface": "timeline_question", 
-      "y": 34.6654, 
-      "x": -78.0664, 
-      "latest_vote": null, 
-      "id": 16286064, 
-      "trending_score": 0.5
     }
   ]
 });
