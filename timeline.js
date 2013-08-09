@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Newton", 
+      "first_name": "Kyle", 
+      "last_name": "Baymiller", 
+      "user_id": 1667701, 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "district": "KS_04", 
+      "created": "2013-08-09T22:40:21", 
+      "state": "KS", 
+      "iface": "timeline_vote", 
+      "y": 38.0463, 
+      "x": -97.3506, 
+      "id": 16287159, 
+      "question_id": "16172533"
+    }, 
+    {
       "city": "Detroit", 
       "first_name": "Daniel", 
       "last_name": "Sarasin", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -83.0518, 
       "id": 16287158, 
       "question_id": "16204423"
-    }, 
-    {
-      "city": "Newton", 
-      "first_name": "Kyle", 
-      "last_name": "Baymiller", 
-      "user_id": 1667701, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "KS_04", 
-      "created": "2013-08-09T22:38:18", 
-      "state": "KS", 
-      "iface": "timeline_vote", 
-      "y": 38.0463, 
-      "x": -97.3506, 
-      "id": 16287147, 
-      "question_id": "16172777"
     }, 
     {
       "city": "Rockledge", 
