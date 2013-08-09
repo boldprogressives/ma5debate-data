@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Jamaica Plain", 
+      "first_name": "Carolyn", 
+      "last_name": "Nikkal", 
+      "user_id": 994541, 
+      "submission": "Would you support the public's right to have GMO's labeled as such?", 
+      "district": "MA_08", 
+      "created": "2013-08-09T16:20:51", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2947, 
+      "x": -71.1305, 
+      "id": 16279244, 
+      "question_id": "16200699"
+    }, 
+    {
+      "city": "San Luis Obispo", 
+      "first_name": "cleo", 
+      "last_name": "smith", 
+      "user_id": 1120582, 
+      "submission": "do you support a min wage increase", 
+      "district": "CA_24", 
+      "created": "2013-08-09T16:20:15", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 35.2595, 
+      "x": -120.653, 
+      "id": 16279240, 
+      "question_id": "16173625"
+    }, 
+    {
       "city": "De Witt", 
       "first_name": "Douglas", 
       "last_name": "Lass", 
@@ -17,21 +47,6 @@ opendebate.processTimeline({
       "question_id": "16173259"
     }, 
     {
-      "city": "Jamaica Plain", 
-      "first_name": "Carolyn", 
-      "last_name": "Nikkal", 
-      "user_id": 994541, 
-      "submission": "Will you work to remove the billions of dollars of subsidies and incentives currently going to the fossil fuel industry \u2013 the most profitable industry in the world? ", 
-      "district": "MA_08", 
-      "created": "2013-08-09T16:19:57", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2947, 
-      "x": -71.1305, 
-      "id": 16279236, 
-      "question_id": "16226967"
-    }, 
-    {
       "city": "Tulsa", 
       "first_name": "Maudie", 
       "last_name": "Reed", 
@@ -45,21 +60,6 @@ opendebate.processTimeline({
       "x": -95.9843, 
       "id": 16279237, 
       "question_id": "16184803"
-    }, 
-    {
-      "city": "San Luis Obispo", 
-      "first_name": "cleo", 
-      "last_name": "smith", 
-      "user_id": 1120582, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
-      "district": "CA_24", 
-      "created": "2013-08-09T16:19:51", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 35.2595, 
-      "x": -120.653, 
-      "id": 16279235, 
-      "question_id": "16175740"
     }, 
     {
       "city": "Madison", 
