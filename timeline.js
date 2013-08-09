@@ -6,30 +6,60 @@ opendebate.processTimeline({
       "first_name": "Luis M.", 
       "last_name": "Diaz", 
       "user_id": 1780949, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "submission": "Do/would you support an investigation of any/all Representative\u2019s that signed the Norquist pledge as having a conflict of interest with their pledge to uphold the Constitution and make government work?", 
       "district": "NY_17", 
-      "created": "2013-08-09T07:02:04", 
+      "created": "2013-08-09T07:02:56", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 41.1277, 
       "x": -74.1119, 
-      "id": 16267334, 
-      "question_id": "16172777"
+      "id": 16267344, 
+      "question_id": "16206139"
+    }, 
+    {
+      "city": "Dallas", 
+      "first_name": "Violet", 
+      "last_name": "Sunderland", 
+      "user_id": 986238, 
+      "submission": "why does Congress feel they deserve more then the constituents they represent?", 
+      "district": "OR_05", 
+      "created": "2013-08-09T07:02:51", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 44.9222, 
+      "x": -123.327, 
+      "id": 16267342, 
+      "question_id": "16184213"
+    }, 
+    {
+      "city": "Minneapolis", 
+      "first_name": "Nancy", 
+      "last_name": "D'Ambrosio", 
+      "user_id": 752168, 
+      "submission": "Will you pledge to protect Social Security and expand it if possible for the Elderly and Dusabled?", 
+      "district": "MN_03", 
+      "created": "2013-08-09T07:02:51", 
+      "state": "MN", 
+      "iface": "timeline_vote", 
+      "y": 45.0007, 
+      "x": -93.4881, 
+      "id": 16267343, 
+      "question_id": "16238957"
     }, 
     {
       "city": "Tryon", 
       "first_name": "Murlel", 
       "last_name": "Lunsford", 
       "user_id": 1656934, 
-      "submission": "Why don't we change the lobbying rules so that we do not have a system that legalizes bribery, and why do we not reform the filibuster so congress does not have an excuse to continue doing nothing ?", 
+      "submission": "Who is financing your campaign and what have you promised in return for this support?", 
       "district": "NC_10", 
-      "created": "2013-08-09T07:01:55", 
+      "created": "2013-08-09T07:02:38", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.2172, 
       "x": -82.2262, 
-      "id": 16267332, 
-      "question_id": "16174072"
+      "id": 16267339, 
+      "question_id": "16199725"
     }, 
     {
       "city": "Philadelphia", 
@@ -45,21 +75,6 @@ opendebate.processTimeline({
       "x": -75.2104, 
       "id": 16267330, 
       "question_id": "16174466"
-    }, 
-    {
-      "city": "Dallas", 
-      "first_name": "Violet", 
-      "last_name": "Sunderland", 
-      "user_id": 986238, 
-      "submission": "Will you vote to subsidize renewable, clean energy and eliminate subsidies for nonrenewable energy sources?", 
-      "district": "OR_05", 
-      "created": "2013-08-09T07:01:12", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 44.9222, 
-      "x": -123.327, 
-      "id": 16267323, 
-      "question_id": "16176491"
     }, 
     {
       "city": "San Anselmo", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -122.632, 
       "id": 16267042, 
       "question_id": "16248409"
-    }, 
-    {
-      "city": "West Linn", 
-      "first_name": "Craig", 
-      "last_name": "Allen", 
-      "user_id": 1198862, 
-      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
-      "district": "OR_05", 
-      "created": "2013-08-09T06:41:21", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 45.3669, 
-      "x": -122.65, 
-      "id": 16267033, 
-      "question_id": "16203866"
     }
   ]
 });
