@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Monmouth", 
+      "first_name": "Thomas", 
+      "last_name": "Rousseau", 
+      "user_id": 1485320, 
+      "submission": "Congress persons have voted to put themselves in the driver's seat when it comes to their salaries. They vote themselves raises and we as citizens cannot over turn. What will you do to stop this practice?", 
+      "district": "ME_02", 
+      "created": "2013-08-09T13:09:40", 
+      "state": "ME", 
+      "iface": "timeline_vote", 
+      "y": 44.2288, 
+      "x": -70.0637, 
+      "id": 16272599, 
+      "question_id": "16173244"
+    }, 
+    {
       "city": "Hutchinson", 
       "first_name": "Jeanne", 
       "last_name": "Piehl", 
@@ -75,21 +90,6 @@ opendebate.processTimeline({
       "x": -79.0035, 
       "id": 16272583, 
       "question_id": "16253989"
-    }, 
-    {
-      "city": "Monmouth", 
-      "first_name": "Thomas", 
-      "last_name": "Rousseau", 
-      "user_id": 1485320, 
-      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
-      "district": "ME_02", 
-      "created": "2013-08-09T13:06:29", 
-      "state": "ME", 
-      "iface": "timeline_vote", 
-      "y": 44.2288, 
-      "x": -70.0637, 
-      "id": 16272565, 
-      "question_id": "16173335"
     }, 
     {
       "city": "carlisle", 
