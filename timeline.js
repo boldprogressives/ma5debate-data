@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Nashville", 
+      "first_name": "D. S.", 
+      "last_name": "Kinzie", 
+      "user_id": 88880, 
+      "submission": "Will you vote to end tax loopholes for the rich, big business subsides, overseas corporate tax loopholes, wasteful wars, foreign country subsides, quality health care for all, good safe food for all, clean air, clean energy, clean safe drinking water, useful education and job opportunities for all hard working citizens that can achieve these levels and deserve it, gun control, to end wall street fraud and corruption.", 
+      "district": "TN_05", 
+      "created": "2013-08-09T10:21:01", 
+      "state": "TN", 
+      "iface": "timeline_vote", 
+      "y": 36.1088, 
+      "x": -86.7806, 
+      "id": 16270818, 
+      "question_id": "16203215"
+    }, 
+    {
       "city": "Golden", 
       "first_name": "LouAnne", 
       "last_name": "Dale", 
       "user_id": 91258, 
-      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
+      "submission": "Will you work to eliminate the Income Cap on SS \"Contributions\"?", 
       "district": "CO_07", 
-      "created": "2013-08-09T10:20:01", 
+      "created": "2013-08-09T10:20:59", 
       "state": "CO", 
       "iface": "timeline_vote", 
       "y": 39.818, 
       "x": -105.251, 
-      "id": 16270811, 
-      "question_id": "16203676"
+      "id": 16270817, 
+      "question_id": "16175571"
     }, 
     {
       "city": "Seattle", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -122.31, 
       "id": 16270809, 
       "question_id": "16175493"
-    }, 
-    {
-      "city": "Nashville", 
-      "first_name": "D. S.", 
-      "last_name": "Kinzie", 
-      "user_id": 88880, 
-      "submission": "Why is it that Congress continues to get great health care and time off, yet those on the right, don't want the same for all Americans? What can and will you do, to advocate for the middle class and poor? ", 
-      "district": "TN_05", 
-      "created": "2013-08-09T10:19:48", 
-      "state": "TN", 
-      "iface": "timeline_vote", 
-      "y": 36.1088, 
-      "x": -86.7806, 
-      "id": 16270807, 
-      "question_id": "16267533"
     }, 
     {
       "city": "Newton", 
