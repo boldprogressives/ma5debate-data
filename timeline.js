@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Cleveland Heights", 
+      "first_name": "Carolyn", 
+      "last_name": "Wohlgemuth", 
+      "user_id": 706295, 
+      "submission": "Will you support Elizabeth Warren's efforts to create a new Glass-Steagall Act?", 
+      "district": "OH_11", 
+      "created": "2013-08-09T08:48:39", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 41.4988, 
+      "x": -81.5546, 
+      "id": 16270015, 
+      "question_id": "16201467"
+    }, 
+    {
       "city": "Vacaville", 
       "first_name": "Judy", 
       "last_name": "Elliott", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16269540, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Alameda", 
-      "first_name": "Eugene", 
-      "last_name": "Laczynski", 
-      "user_id": 585774, 
-      "submission": "As the Supreme Court has limited individual human rights, it has expanded and strengthen the \"rights\" of corporations.  What steps would you take to redress this balance?", 
-      "district": "CA_13", 
-      "created": "2013-08-09T07:52:54", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 37.7606, 
-      "x": -122.26, 
-      "id": 16269535, 
-      "question_id": "16235193"
     }
   ]
 });
