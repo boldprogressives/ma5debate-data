@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "Will you support repairing the unsafe bridges and tunnels in this country?", 
+      "submission": "Will you take action to overturn Citizens United with an effective Constitutional Amendment?", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:08:56", 
+      "created": "2013-08-09T21:09:32", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16285996, 
-      "question_id": "16217796"
+      "id": 16286002, 
+      "question_id": "16182966"
+    }, 
+    {
+      "city": "Palmer", 
+      "first_name": "Kathleen", 
+      "last_name": "Mitchell", 
+      "user_id": 1653546, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "MA_01", 
+      "created": "2013-08-09T21:09:23", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.1655, 
+      "x": -72.3144, 
+      "id": 16286000, 
+      "question_id": "16172777"
     }, 
     {
       "city": "SEDONA", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -87.5544, 
       "id": 16285560, 
       "question_id": "16172913"
-    }, 
-    {
-      "city": "Overland Park", 
-      "first_name": "Nolan", 
-      "last_name": "Goldberg", 
-      "user_id": 1785819, 
-      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
-      "district": "KS_03", 
-      "created": "2013-08-09T20:48:34", 
-      "state": "KS", 
-      "iface": "timeline_vote", 
-      "y": 38.9247, 
-      "x": -94.6783, 
-      "id": 16285557, 
-      "question_id": "16180998"
     }
   ]
 });
