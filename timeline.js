@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "New Bedford", 
+      "first_name": "alan", 
+      "last_name": "mc alister", 
+      "user_id": 636564, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "MA_09", 
+      "created": "2013-08-09T09:46:55", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 41.6634, 
+      "x": -70.9362, 
+      "id": 16270409, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "Newton", 
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
       "district": "MA_04", 
-      "created": "2013-08-09T09:45:51", 
+      "created": "2013-08-09T09:46:54", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16270404, 
-      "question_id": "16203866"
+      "id": 16270408, 
+      "question_id": "16202059"
     }, 
     {
       "city": "Portland", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "x": -71.4467, 
       "id": 16270072, 
       "question_id": "16172777"
-    }, 
-    {
-      "city": "Fort Worth", 
-      "first_name": "Doug", 
-      "last_name": "Arnold", 
-      "user_id": 734057, 
-      "submission": "Should Bush and Cheney (AND Obama) be prosecuted for war crimes?", 
-      "district": "TX_12", 
-      "created": "2013-08-09T08:57:17", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 32.7144, 
-      "x": -97.4646, 
-      "id": 16270046, 
-      "question_id": "16219940"
     }
   ]
 });
