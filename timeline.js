@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Framingham", 
-      "first_name": "Sharon", 
-      "last_name": "Rozines", 
-      "user_id": 1771502, 
-      "submission": "What are you going to do to regulate banks and stock exchange speculations?", 
-      "district": "MA_05", 
-      "created": "2013-08-09T21:55:57", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2721, 
-      "x": -71.4248, 
-      "id": 16286839, 
-      "question_id": "16172283"
-    }, 
-    {
       "city": "Kansas City", 
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "When are Democrats going to stand UNITED and finally expose all the Republican Tea Party LIES about everything from Obamacare to our US Economy and let the American People learn the TRUTH?   ", 
+      "submission": "Not everyone can work, due to health/circumstances, and we don't have jobs for all who need one.  You can't buy a loaf of bread with promises of eventual jobs. What should we do about those who can't provide for themselves?", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:55:38", 
+      "created": "2013-08-09T21:56:55", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286838, 
-      "question_id": "16219526"
+      "id": 16286847, 
+      "question_id": "16219965"
+    }, 
+    {
+      "city": "Framingham", 
+      "first_name": "Sharon", 
+      "last_name": "Rozines", 
+      "user_id": 1771502, 
+      "submission": "Will you support immigration reform with a path to citizenship ?", 
+      "district": "MA_05", 
+      "created": "2013-08-09T21:56:37", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2721, 
+      "x": -71.4248, 
+      "id": 16286846, 
+      "question_id": "16172648"
     }, 
     {
       "city": "Fountain Hills", 
