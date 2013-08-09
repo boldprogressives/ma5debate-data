@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Daniel", 
       "last_name": "Sarasin", 
       "user_id": 1487238, 
-      "submission": "Do you support the labeling of GMOs and if so, what do you intend to do to promote people's right to know what is in their food?", 
+      "submission": "Do you favor legislation to protect our water, land, and communities from the negative environmental and social impacts of fracking for natural gas?", 
       "district": "MI_13", 
-      "created": "2013-08-09T22:38:51", 
+      "created": "2013-08-09T22:39:53", 
       "state": "MI", 
       "iface": "timeline_vote", 
       "y": 42.3801, 
       "x": -83.0518, 
-      "id": 16287151, 
-      "question_id": "16176001"
+      "id": 16287158, 
+      "question_id": "16204423"
     }, 
     {
       "city": "Newton", 
