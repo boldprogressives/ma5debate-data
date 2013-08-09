@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Victoria", 
       "last_name": "Scott", 
       "user_id": 1708295, 
-      "submission": "Do you support a financial transaction tax?", 
+      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
       "district": "NM_03", 
-      "created": "2013-08-09T08:26:33", 
+      "created": "2013-08-09T08:27:52", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 35.6768, 
       "x": -105.958, 
-      "id": 16269909, 
-      "question_id": "16174331"
+      "id": 16269915, 
+      "question_id": "16172697"
     }, 
     {
       "city": "Tryon", 
       "first_name": "Murlel", 
       "last_name": "Lunsford", 
       "user_id": 1656934, 
-      "submission": "What kind of campaign finance reform is needed, and how can we get it done?", 
+      "submission": "Will you pledge your support and vote in favor of the President's jobs bill and any other legislation to rebuild the middle class?", 
       "district": "NC_10", 
-      "created": "2013-08-09T08:25:59", 
+      "created": "2013-08-09T08:27:15", 
       "state": "NC", 
       "iface": "timeline_vote", 
       "y": 35.2172, 
       "x": -82.2262, 
-      "id": 16269893, 
-      "question_id": "16182734"
+      "id": 16269913, 
+      "question_id": "16181773"
     }, 
     {
       "city": "New York", 
