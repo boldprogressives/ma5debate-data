@@ -6,30 +6,49 @@ opendebate.processTimeline({
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "Not everyone can work, due to health/circumstances, and we don't have jobs for all who need one.  You can't buy a loaf of bread with promises of eventual jobs. What should we do about those who can't provide for themselves?", 
+      "submission": "What solution would you propose for the city of Detroit?", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:56:55", 
+      "created": "2013-08-09T21:57:56", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286847, 
-      "question_id": "16219965"
+      "id": 16286862, 
+      "question_id": "16220269"
     }, 
     {
       "city": "Framingham", 
       "first_name": "Sharon", 
       "last_name": "Rozines", 
       "user_id": 1771502, 
-      "submission": "Will you support immigration reform with a path to citizenship ?", 
+      "submission": "Climate change is moving us towards a planet that may not support human life.  Will you make addressing climate change one of your highest priorities?", 
       "district": "MA_05", 
-      "created": "2013-08-09T21:56:37", 
+      "created": "2013-08-09T21:57:41", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2721, 
       "x": -71.4248, 
-      "id": 16286846, 
-      "question_id": "16172648"
+      "id": 16286860, 
+      "question_id": "16175078"
+    }, 
+    {
+      "city": "Lewis Run", 
+      "first_name": "Christopher", 
+      "last_name": "Minich", 
+      "user_id": 1689522, 
+      "submission": "It is apparent that gas is drilled similarly on off shore wells as they are on land. Assuming the same method of \"Fracking \" is used, where is the waste water disposed of or any other drilling waste for that matted?", 
+      "district": "PA_05", 
+      "created": "2013-08-09T21:57:03", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "PA", 
+      "iface": "timeline_question", 
+      "y": 41.8715, 
+      "x": -78.6629, 
+      "latest_vote": null, 
+      "id": 16286849, 
+      "trending_score": 0.5
     }, 
     {
       "city": "Fountain Hills", 
@@ -220,15 +239,15 @@ opendebate.processTimeline({
       "district": "FL_12", 
       "created": "2013-08-09T21:33:09", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "FL", 
       "iface": "timeline_question", 
       "y": 28.2051, 
       "x": -82.3, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-09T21:57:21", 
       "id": 16286269, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Portland", 
@@ -289,21 +308,6 @@ opendebate.processTimeline({
       "x": -88.5302, 
       "id": 16286217, 
       "question_id": "16203676"
-    }, 
-    {
-      "city": "Boston", 
-      "first_name": "Dorothea", 
-      "last_name": "Sierra", 
-      "user_id": 233501, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "MA_07", 
-      "created": "2013-08-09T21:25:54", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3831, 
-      "x": -71.0181, 
-      "id": 16286199, 
-      "question_id": "16172266"
     }
   ]
 });
