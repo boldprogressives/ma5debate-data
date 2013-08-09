@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "FRANCIS", 
       "last_name": "HENDERSON", 
       "user_id": 401891, 
-      "submission": "Will you support immigration reform with a path to citizenship ?", 
+      "submission": "What steps will you take to restore livable wages to the shredded middle class, and to restore our voting rights?", 
       "district": "SC_01", 
-      "created": "2013-08-09T22:19:58", 
+      "created": "2013-08-09T22:20:55", 
       "state": "SC", 
       "iface": "timeline_vote", 
       "y": 32.9557, 
       "x": -79.8873, 
-      "id": 16287040, 
-      "question_id": "16172648"
+      "id": 16287049, 
+      "question_id": "16172657"
     }, 
     {
       "city": "Fountain Hills", 
       "first_name": "Day", 
       "last_name": "Jolliff", 
       "user_id": 1785674, 
-      "submission": "Will you support immigration reform with a path to citizenship ?", 
+      "submission": "What would you do to stop the unbridled takeover of American resources by Corporate America.", 
       "district": "AZ_06", 
-      "created": "2013-08-09T22:19:12", 
+      "created": "2013-08-09T22:20:40", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 33.609, 
       "x": -111.73, 
-      "id": 16287039, 
-      "question_id": "16172648"
+      "id": 16287046, 
+      "question_id": "16174109"
     }, 
     {
       "city": "SCOTTSDALE", 
