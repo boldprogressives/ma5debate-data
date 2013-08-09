@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Palmer", 
-      "first_name": "Kathleen", 
-      "last_name": "Mitchell", 
-      "user_id": 1653546, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
-      "district": "MA_01", 
-      "created": "2013-08-09T21:10:28", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.1655, 
-      "x": -72.3144, 
-      "id": 16286014, 
-      "question_id": "16173264"
-    }, 
-    {
       "city": "Kansas City", 
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "Will you fight to release our postal system from the unfair financial burden it was strapped with under President George  W. Bush and to prevent shut downs and lost of some routine services that would affect the entire country?", 
+      "submission": "What will you do to get the US government to stop lying about the medical values of marijuana and suppressing our right to control our own bodies?", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:10:28", 
+      "created": "2013-08-09T21:11:57", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286015, 
-      "question_id": "16176088"
+      "id": 16286032, 
+      "question_id": "16183803"
+    }, 
+    {
+      "city": "Palmer", 
+      "first_name": "Kathleen", 
+      "last_name": "Mitchell", 
+      "user_id": 1653546, 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "district": "MA_01", 
+      "created": "2013-08-09T21:11:41", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.1655, 
+      "x": -72.3144, 
+      "id": 16286031, 
+      "question_id": "16172303"
     }, 
     {
       "city": "SEDONA", 
