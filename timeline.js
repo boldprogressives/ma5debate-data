@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Fayetteville", 
+      "first_name": "Vera", 
+      "last_name": "Morgan", 
+      "user_id": 1012008, 
+      "submission": "Where do you stand on establishing term limits for Senators and members of the House?", 
+      "district": "NC_04", 
+      "created": "2013-08-09T13:07:59", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.0577, 
+      "x": -79.0035, 
+      "id": 16272583, 
+      "question_id": "16253989"
+    }, 
+    {
+      "city": "Woodbridge", 
+      "first_name": "N", 
+      "last_name": "Oure", 
+      "user_id": 1694674, 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "district": "VA_11", 
+      "created": "2013-08-09T13:07:56", 
+      "state": "VA", 
+      "iface": "timeline_vote", 
+      "y": 38.6462, 
+      "x": -77.3497, 
+      "id": 16272582, 
+      "question_id": "16173259"
+    }, 
+    {
       "city": "Cleveland", 
       "first_name": "Charles", 
       "last_name": "Cicco", 
       "user_id": 376730, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
       "district": "OH_11", 
-      "created": "2013-08-09T13:06:55", 
+      "created": "2013-08-09T13:07:43", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 41.4988, 
       "x": -81.5546, 
-      "id": 16272571, 
-      "question_id": "16173264"
+      "id": 16272578, 
+      "question_id": "16173259"
     }, 
     {
       "city": "Monmouth", 
@@ -32,21 +62,6 @@ opendebate.processTimeline({
       "question_id": "16173335"
     }, 
     {
-      "city": "Fayetteville", 
-      "first_name": "Vera", 
-      "last_name": "Morgan", 
-      "user_id": 1012008, 
-      "submission": "Would you pledge to take no gifts or money from special interest groups in exchange for your votes favoring them?", 
-      "district": "NC_04", 
-      "created": "2013-08-09T13:06:20", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.0577, 
-      "x": -79.0035, 
-      "id": 16272562, 
-      "question_id": "16205451"
-    }, 
-    {
       "city": "Ballston Spa", 
       "first_name": "William", 
       "last_name": "Shaw", 
@@ -60,21 +75,6 @@ opendebate.processTimeline({
       "x": -73.8604, 
       "id": 16272549, 
       "question_id": "16184803"
-    }, 
-    {
-      "city": "Woodbridge", 
-      "first_name": "N", 
-      "last_name": "Oure", 
-      "user_id": 1694674, 
-      "submission": "Will you vote to end tax loopholes for the rich, big business subsides, overseas corporate tax loopholes, wasteful wars, foreign country subsides, quality health care for all, good safe food for all, clean air, clean energy, clean safe drinking water, useful education and job opportunities for all hard working citizens that can achieve these levels and deserve it, gun control, to end wall street fraud and corruption.", 
-      "district": "VA_11", 
-      "created": "2013-08-09T13:05:09", 
-      "state": "VA", 
-      "iface": "timeline_vote", 
-      "y": 38.6462, 
-      "x": -77.3497, 
-      "id": 16272548, 
-      "question_id": "16203215"
     }, 
     {
       "city": "carlisle", 
