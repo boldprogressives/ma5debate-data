@@ -6,30 +6,60 @@ opendebate.processTimeline({
       "first_name": "Valerie", 
       "last_name": "Fields", 
       "user_id": 1180132, 
-      "submission": "What would you do to eliminate congressional pensions so congress has a stake in social security retirement benifits.", 
+      "submission": "Will you support Elizabeth Warren's efforts to create a new Glass-Steagall Act?", 
       "district": "CA_41", 
-      "created": "2013-08-09T07:54:55", 
+      "created": "2013-08-09T07:55:50", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 33.9401, 
       "x": -117.362, 
-      "id": 16269553, 
-      "question_id": "16176855"
+      "id": 16269564, 
+      "question_id": "16201467"
+    }, 
+    {
+      "city": "Tryon", 
+      "first_name": "Murlel", 
+      "last_name": "Lunsford", 
+      "user_id": 1656934, 
+      "submission": "What will you do to improve public education, not only in the top neighborhoods but also in the cities poorest neighborhoods, as well?", 
+      "district": "NC_10", 
+      "created": "2013-08-09T07:55:40", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 35.2172, 
+      "x": -82.2262, 
+      "id": 16269563, 
+      "question_id": "16199371"
+    }, 
+    {
+      "city": "Keaau", 
+      "first_name": "Paul", 
+      "last_name": "Deeter", 
+      "user_id": 1705561, 
+      "submission": "Should Bush and Cheney (AND Obama) be prosecuted for war crimes?", 
+      "district": "HI_02", 
+      "created": "2013-08-09T07:55:24", 
+      "state": "HI", 
+      "iface": "timeline_vote", 
+      "y": 19.5754, 
+      "x": -154.962, 
+      "id": 16269559, 
+      "question_id": "16219940"
     }, 
     {
       "city": "Los Angeles", 
       "first_name": "Ellen", 
       "last_name": "Steens", 
       "user_id": 1782363, 
-      "submission": "Outlaw the use of \"Private Defense Contractors\". They a nothing more than mercenaries, and as such, are not beholden to the laws and restraints that keep the public safe from official law enforcement.", 
+      "submission": "What will you do to restore the voters rights act?  ", 
       "district": "CA_37", 
-      "created": "2013-08-09T07:54:54", 
+      "created": "2013-08-09T07:55:20", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 34.0277, 
       "x": -118.352, 
-      "id": 16269552, 
-      "question_id": "16194273"
+      "id": 16269557, 
+      "question_id": "16238835"
     }, 
     {
       "city": "San Diego", 
@@ -45,21 +75,6 @@ opendebate.processTimeline({
       "x": -117.05, 
       "id": 16269550, 
       "question_id": "16172690"
-    }, 
-    {
-      "city": "Tryon", 
-      "first_name": "Murlel", 
-      "last_name": "Lunsford", 
-      "user_id": 1656934, 
-      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
-      "district": "NC_10", 
-      "created": "2013-08-09T07:53:33", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 35.2172, 
-      "x": -82.2262, 
-      "id": 16269543, 
-      "question_id": "16203676"
     }, 
     {
       "city": "Dallas", 
@@ -309,21 +324,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16267512, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "San Mateo", 
-      "first_name": "marcia", 
-      "last_name": "Shull", 
-      "user_id": 520234, 
-      "submission": "Will you aggressively prosecute those at Goldman Sachs and other banks/financial institutions for their continued illegal activities which have resulted in the serious and continuing economic disaster in this country?", 
-      "district": "CA_14", 
-      "created": "2013-08-09T07:15:00", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 37.5479, 
-      "x": -122.269, 
-      "id": 16267488, 
-      "question_id": "16225925"
     }
   ]
 });
