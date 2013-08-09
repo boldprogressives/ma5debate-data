@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Jersey City", 
+      "first_name": "Tommie", 
+      "last_name": "Cates", 
+      "user_id": 1782957, 
+      "submission": "When will the Congress return all the money of  our Social Security funds we paid for or retirement  return back to the Social Security fund?  We need a date and we need every penny which was  robbed from our people's  money Returned NOW! ", 
+      "district": "NJ_10", 
+      "created": "2013-08-09T04:14:03", 
+      "state": "NJ", 
+      "iface": "timeline_vote", 
+      "y": 40.7336, 
+      "x": -74.0656, 
+      "id": 16261566, 
+      "question_id": "16201865"
+    }, 
+    {
       "city": "portland", 
       "first_name": "khabira", 
       "last_name": "mcdow-keefer", 
       "user_id": 1245402, 
-      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
       "district": "OR_01", 
-      "created": "2013-08-09T04:13:00", 
+      "created": "2013-08-09T04:13:58", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 45.6334, 
       "x": -122.856, 
-      "id": 16261547, 
-      "question_id": "16202059"
-    }, 
-    {
-      "city": "Missoula", 
-      "first_name": "dorothy", 
-      "last_name": "gates", 
-      "user_id": 1750631, 
-      "submission": "Our public structures help assure our quality of life, what will you do to strengthen our public health infrastructure (e.g. state lab institute) in the face of 25+% cuts over the past few years?", 
-      "district": "MT_01", 
-      "created": "2013-08-09T04:12:57", 
-      "state": "MT", 
-      "iface": "timeline_vote", 
-      "y": 46.8587, 
-      "x": -114.04, 
-      "id": 16261544, 
-      "question_id": "16230698"
+      "id": 16261564, 
+      "question_id": "16172755"
     }, 
     {
       "city": "Apache Junction", 
@@ -38,13 +38,43 @@ opendebate.processTimeline({
       "user_id": 905060, 
       "submission": "Will you work to end all U.S. military installations on foreign soil?", 
       "district": "AZ_04", 
-      "created": "2013-08-09T04:12:57", 
+      "created": "2013-08-09T04:13:46", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 33.4124, 
       "x": -111.59, 
-      "id": 16261545, 
+      "id": 16261561, 
       "question_id": "16256797"
+    }, 
+    {
+      "city": "Rockville", 
+      "first_name": "Gary", 
+      "last_name": "Brown", 
+      "user_id": 1809156, 
+      "submission": "Will you support a \"Clean Up Congress\" campaign to promote term limits and cease the eternal 'full pay' for lifetime after serving only one term?", 
+      "district": "MD_06", 
+      "created": "2013-08-09T04:13:34", 
+      "state": "MD", 
+      "iface": "timeline_vote", 
+      "y": 39.0962, 
+      "x": -77.0955, 
+      "id": 16261557, 
+      "question_id": "16184803"
+    }, 
+    {
+      "city": "Missoula", 
+      "first_name": "dorothy", 
+      "last_name": "gates", 
+      "user_id": 1750631, 
+      "submission": "Why are so many countries banning GMO foods but the US refuses to do so? Why aren't they required to label them as such? ", 
+      "district": "MT_01", 
+      "created": "2013-08-09T04:13:25", 
+      "state": "MT", 
+      "iface": "timeline_vote", 
+      "y": 46.8587, 
+      "x": -114.04, 
+      "id": 16261552, 
+      "question_id": "16205646"
     }, 
     {
       "city": "Mesa", 
@@ -75,21 +105,6 @@ opendebate.processTimeline({
       "x": -72.5014, 
       "id": 16261542, 
       "question_id": "16209667"
-    }, 
-    {
-      "city": "Rockville", 
-      "first_name": "Gary", 
-      "last_name": "Brown", 
-      "user_id": 1809156, 
-      "submission": "Would you support  every state being mandated to have early voting for a minimum of 1 week before the election to give everyone a chance to vote?", 
-      "district": "MD_06", 
-      "created": "2013-08-09T04:12:55", 
-      "state": "MD", 
-      "iface": "timeline_vote", 
-      "y": 39.0962, 
-      "x": -77.0955, 
-      "id": 16261543, 
-      "question_id": "16234459"
     }, 
     {
       "city": "Eugene", 
@@ -145,15 +160,15 @@ opendebate.processTimeline({
       "district": "WA_06", 
       "created": "2013-08-09T04:11:42", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "WA", 
       "iface": "timeline_question", 
       "y": 47.5746, 
       "x": -122.811, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-09T04:13:27", 
       "id": 16261512, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Mesa", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -77.1599, 
       "id": 16261337, 
       "question_id": "16246613"
-    }, 
-    {
-      "city": "san ramon", 
-      "first_name": "ruth", 
-      "last_name": "vanover", 
-      "user_id": 955398, 
-      "submission": "Why don't we have public works programs to put people to work and save our failing infrastructure.  And don't tell we can't afford it.  Public work projects would pay off in many more dollars then would be spent.", 
-      "district": "CA_15", 
-      "created": "2013-08-09T04:04:52", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 37.6725, 
-      "x": -121.889, 
-      "id": 16261315, 
-      "question_id": "16213399"
     }
   ]
 });
