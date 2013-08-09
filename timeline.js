@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Kansas City", 
+      "first_name": "Sandra", 
+      "last_name": "Singleton", 
+      "user_id": 578766, 
+      "submission": "Are you willing to fight for womens rights to determine their own healthcare?  Or do you think that \"you\" know what is best for every woman? Healthcare is not a religious  decision, it is a health decision to be made by woman of all faiths.", 
+      "district": "MO_06", 
+      "created": "2013-08-09T20:57:41", 
+      "state": "MO", 
+      "iface": "timeline_vote", 
+      "y": 39.2158, 
+      "x": -94.5728, 
+      "id": 16285739, 
+      "question_id": "16199305"
+    }, 
+    {
+      "city": "Southwest Harbor", 
+      "first_name": "Joyce", 
+      "last_name": "Worcester", 
+      "user_id": 1794458, 
+      "submission": "Will you pledge to uphold the Affordable Care Act and help states implement it -- not defund it?", 
+      "district": "ME_02", 
+      "created": "2013-08-09T20:57:38", 
+      "state": "ME", 
+      "iface": "timeline_vote", 
+      "y": 44.2799, 
+      "x": -68.3301, 
+      "id": 16285738, 
+      "question_id": "16181276"
+    }, 
+    {
+      "city": "Mesa", 
+      "first_name": "Toni", 
+      "last_name": "Williamson", 
+      "user_id": 1783108, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "AZ_05", 
+      "created": "2013-08-09T20:57:31", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 33.4022, 
+      "x": -111.728, 
+      "id": 16285736, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "SALT LAKE CITY", 
       "first_name": "Michael", 
       "last_name": "Smith", 
@@ -15,36 +60,6 @@ opendebate.processTimeline({
       "x": -111.829, 
       "id": 16285727, 
       "question_id": "16173259"
-    }, 
-    {
-      "city": "Kansas City", 
-      "first_name": "Sandra", 
-      "last_name": "Singleton", 
-      "user_id": 578766, 
-      "submission": "Why is it that Halliburton only gets a $200K fine for destroying evidence concerning the Gulf oil spill when if you make a copy of a DVD you get a $250K fine and up to 5 years in prison?", 
-      "district": "MO_06", 
-      "created": "2013-08-09T20:56:49", 
-      "state": "MO", 
-      "iface": "timeline_vote", 
-      "y": 39.2158, 
-      "x": -94.5728, 
-      "id": 16285726, 
-      "question_id": "16175493"
-    }, 
-    {
-      "city": "Southwest Harbor", 
-      "first_name": "Joyce", 
-      "last_name": "Worcester", 
-      "user_id": 1794458, 
-      "submission": "In 2006, the lame-duck GOP congress enacted a bill forcing the U.S.Postal service to fully fund pensions for the next 75 years and do it in ten years. It's a bill that was designed to ruin the USPS so it could be privatized. Will you work to repeal this onerous bill and introduce legislation to allow the USPS to compete with private carriers?", 
-      "district": "ME_02", 
-      "created": "2013-08-09T20:56:35", 
-      "state": "ME", 
-      "iface": "timeline_vote", 
-      "y": 44.2799, 
-      "x": -68.3301, 
-      "id": 16285722, 
-      "question_id": "16206983"
     }, 
     {
       "city": "ozone park", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -71.1918, 
       "id": 16285315, 
       "question_id": "16274487"
-    }, 
-    {
-      "city": "Louisville", 
-      "first_name": "Laura", 
-      "last_name": "Skaggs", 
-      "user_id": 1773063, 
-      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
-      "district": "KY_03", 
-      "created": "2013-08-09T20:31:06", 
-      "state": "KY", 
-      "iface": "timeline_vote", 
-      "y": 38.1844, 
-      "x": -85.7161, 
-      "id": 16285314, 
-      "question_id": "16172731"
     }
   ]
 });
