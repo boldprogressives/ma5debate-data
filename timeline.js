@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sandra", 
       "last_name": "Singleton", 
       "user_id": 578766, 
-      "submission": "What solution would you propose for the city of Detroit?", 
+      "submission": "What is your position on public education.  Do you believe that quality public education should be made available to all citizens regardless of income, race, religion, sex?", 
       "district": "MO_06", 
-      "created": "2013-08-09T21:57:56", 
+      "created": "2013-08-09T21:58:51", 
       "state": "MO", 
       "iface": "timeline_vote", 
       "y": 39.2158, 
       "x": -94.5728, 
-      "id": 16286862, 
-      "question_id": "16220269"
+      "id": 16286869, 
+      "question_id": "16221200"
     }, 
     {
       "city": "Framingham", 
