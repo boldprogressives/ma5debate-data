@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Eric", 
       "last_name": "Chipman", 
       "user_id": 133784, 
-      "submission": "How do you address cities going bankrupt, unemployment, people working not meeting basic needs and social services being cut over and over- yet corporations receiving welfare- in the form of tax breaks, incentives and yet they are can outsource jobs to other countries and people in the US are hungry?", 
+      "submission": "Do you believe the NSA spying programs revealed by Edward Snowden are unconstitutional?  Do you feel it is your job to protect Americans first or protect the constitution first?", 
       "district": "MA_04", 
-      "created": "2013-08-09T11:19:47", 
+      "created": "2013-08-09T11:20:48", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3525, 
       "x": -71.1907, 
-      "id": 16271312, 
-      "question_id": "16190286"
+      "id": 16271315, 
+      "question_id": "16206200"
     }, 
     {
       "city": "Nashville", 
