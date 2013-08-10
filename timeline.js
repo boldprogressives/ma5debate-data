@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Barbara", 
       "last_name": "Macek", 
       "user_id": 1678230, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
       "district": "NY_09", 
-      "created": "2013-08-10T08:35:55", 
+      "created": "2013-08-10T08:36:54", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.6497, 
       "x": -73.9377, 
-      "id": 16292423, 
-      "question_id": "16172266"
+      "id": 16292428, 
+      "question_id": "16172533"
     }, 
     {
       "city": "Los Angeles", 
