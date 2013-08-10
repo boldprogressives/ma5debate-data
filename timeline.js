@@ -2,34 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Panama City", 
-      "first_name": "eugene", 
-      "last_name": "mcclure", 
-      "user_id": 1567750, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
-      "district": "FL_02", 
-      "created": "2013-08-10T01:49:02", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 30.2034, 
-      "x": -85.6606, 
-      "id": 16289859, 
-      "question_id": "16175740"
-    }, 
-    {
       "city": "New York", 
       "first_name": "Brett", 
       "last_name": "Greisen", 
       "user_id": 35998, 
-      "submission": "Public education is being privatized all over the U.S., with even Obama supporting school \"reform\" which turns education over to private corporations. These companies get rid of experienced teachers, hire in kids just out of college, give them 5 weeks of \"training\" and then put them in schools at low wages. Our children are being short-changed, particularly those with learning problems - \"reform\" schools \"cook the books\" by denying places in schools to those with problems, then saying, \"look, scores up!\" Will you seriously take a hard look at school \"reform?\"", 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "NY_13", 
-      "created": "2013-08-10T01:49:01", 
+      "created": "2013-08-10T01:49:58", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7996, 
       "x": -73.9703, 
-      "id": 16289858, 
-      "question_id": "16197636"
+      "id": 16289876, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Reno", 
+      "first_name": "Tim", 
+      "last_name": "Sanders", 
+      "user_id": 974978, 
+      "submission": "Will you make it your highest priority to prosecute the bankers who brought about the financial crisis and force them to pay back the billions they stole from us as well as confining them to long prison terms?", 
+      "district": "NV_02", 
+      "created": "2013-08-10T01:49:58", 
+      "state": "NV", 
+      "iface": "timeline_vote", 
+      "y": 39.7704, 
+      "x": -119.617, 
+      "id": 16289877, 
+      "question_id": "16176917"
+    }, 
+    {
+      "city": "Panama City", 
+      "first_name": "eugene", 
+      "last_name": "mcclure", 
+      "user_id": 1567750, 
+      "submission": "What will you do to overturn Citizen's United?", 
+      "district": "FL_02", 
+      "created": "2013-08-10T01:49:55", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 30.2034, 
+      "x": -85.6606, 
+      "id": 16289875, 
+      "question_id": "16172765"
+    }, 
+    {
+      "city": "Marathon", 
+      "first_name": "Anna", 
+      "last_name": "Davis", 
+      "user_id": 961057, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "FL_26", 
+      "created": "2013-08-10T01:49:43", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 24.7236, 
+      "x": -81.0469, 
+      "id": 16289872, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Cumming", 
@@ -45,21 +75,6 @@ opendebate.processTimeline({
       "x": -84.0743, 
       "id": 16289841, 
       "question_id": "16173111"
-    }, 
-    {
-      "city": "Reno", 
-      "first_name": "Tim", 
-      "last_name": "Sanders", 
-      "user_id": 974978, 
-      "submission": "would you support making the IRS follow the law on 501(c)(4)'s and make any political interest in a group a disqualifier for tax exemption.", 
-      "district": "NV_02", 
-      "created": "2013-08-10T01:47:47", 
-      "state": "NV", 
-      "iface": "timeline_vote", 
-      "y": 39.7704, 
-      "x": -119.617, 
-      "id": 16289835, 
-      "question_id": "16223890"
     }, 
     {
       "city": "Winston Salem", 
@@ -285,21 +300,6 @@ opendebate.processTimeline({
       "x": -122.783, 
       "id": 16289542, 
       "question_id": "16205834"
-    }, 
-    {
-      "city": "", 
-      "first_name": "Amy", 
-      "last_name": "Clark", 
-      "user_id": 1718534, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "", 
-      "created": "2013-08-10T01:12:52", 
-      "state": "", 
-      "iface": "timeline_vote", 
-      "y": 0.0, 
-      "x": 0.0, 
-      "id": 16289531, 
-      "question_id": "16172266"
     }
   ]
 });
