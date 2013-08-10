@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "New Port Richey", 
+      "first_name": "David", 
+      "last_name": "Marshall", 
+      "user_id": 395800, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "FL_12", 
+      "created": "2013-08-10T02:08:45", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 28.2385, 
+      "x": -82.7307, 
+      "id": 16290430, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "tigard", 
       "first_name": "David", 
       "last_name": "Otto", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -73.5882, 
       "id": 16289650, 
       "question_id": "16204423"
-    }, 
-    {
-      "city": "El Prado", 
-      "first_name": "Sally", 
-      "last_name": "Phelps", 
-      "user_id": 1567108, 
-      "submission": "Why hasn't the Gerrymandering situation been sent straight to the Supreme Court?  It is in direct opposition to the \"One person, one vote\" principle.", 
-      "district": "NM_03", 
-      "created": "2013-08-10T01:23:14", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16289627, 
-      "question_id": "16225156"
     }
   ]
 });
