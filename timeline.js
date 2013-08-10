@@ -2,19 +2,57 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Winchester", 
+      "first_name": "Jeff", 
+      "last_name": "Dearman", 
+      "user_id": 1810429, 
+      "submission": "Do you support stem cell research? Why or why not?", 
+      "district": "MA_05", 
+      "created": "2013-08-10T05:28:01", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.4529, 
+      "x": -71.146, 
+      "latest_vote": null, 
+      "id": 16291896, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Disney", 
       "first_name": "Pam", 
       "last_name": "Johnson", 
       "user_id": 1754508, 
-      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "submission": "Where do you stand on a constitutional admendment that declares that corporations are NOT, in fact, people and do not have the legal rights of people.", 
       "district": "OK_02", 
-      "created": "2013-08-10T05:26:50", 
+      "created": "2013-08-10T05:28:00", 
       "state": "OK", 
       "iface": "timeline_vote", 
       "y": 36.481, 
       "x": -95.0171, 
-      "id": 16291891, 
-      "question_id": "16172755"
+      "id": 16291895, 
+      "question_id": "16176313"
+    }, 
+    {
+      "city": "Winchester", 
+      "first_name": "Jeff", 
+      "last_name": "Dearman", 
+      "user_id": 1810429, 
+      "submission": "What is your position on expanding Alternative fuels and Alternative Energy to lessen America's dependence on Foreign Oil and Domestic Oil? ", 
+      "district": "MA_05", 
+      "created": "2013-08-10T05:27:05", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.4529, 
+      "x": -71.146, 
+      "latest_vote": null, 
+      "id": 16291892, 
+      "trending_score": 0.5
     }, 
     {
       "city": "Birmingham", 
@@ -278,36 +316,6 @@ opendebate.processTimeline({
       "x": -86.2651, 
       "id": 16290856, 
       "question_id": "16208291"
-    }, 
-    {
-      "city": "Salinas", 
-      "first_name": "Donna", 
-      "last_name": "Gleaves", 
-      "user_id": 1635501, 
-      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
-      "district": "CA_20", 
-      "created": "2013-08-10T03:32:20", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 36.6757, 
-      "x": -121.628, 
-      "id": 16290852, 
-      "question_id": "16172583"
-    }, 
-    {
-      "city": "Winter Park", 
-      "first_name": "Carol", 
-      "last_name": "Sidofsky", 
-      "user_id": 255818, 
-      "submission": "How quickly would you say that the Keystone Pipeline must NEVER BE BUILT, since it would be an ecological disaster?", 
-      "district": "CO_02", 
-      "created": "2013-08-10T03:21:02", 
-      "state": "CO", 
-      "iface": "timeline_vote", 
-      "y": 39.9389, 
-      "x": -105.796, 
-      "id": 16290737, 
-      "question_id": "16172941"
     }
   ]
 });
