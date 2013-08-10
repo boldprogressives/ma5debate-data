@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Donna", 
       "last_name": "Gleaves", 
       "user_id": 1635501, 
-      "submission": "Do you support the legalization of marijuana (which should be taxed & regulated like alcohol or tobacco)? If so, would you allow the release of nonviolent offenders from prison?", 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
       "district": "CA_20", 
-      "created": "2013-08-10T03:29:55", 
+      "created": "2013-08-10T03:31:02", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 36.6757, 
       "x": -121.628, 
-      "id": 16290826, 
-      "question_id": "16172722"
+      "id": 16290841, 
+      "question_id": "16173335"
     }, 
     {
       "city": "Indianapolis", 
       "first_name": "John", 
       "last_name": "Grady", 
       "user_id": 1742213, 
-      "submission": "Will you work to eliminate the Income Cap on SS \"Contributions\"?", 
+      "submission": "Would you be in favor of Congress and the Senate payingfor heath care like the rest of us,and no pension for life unless you put in 25 years like almost every other American. ", 
       "district": "IN_07", 
-      "created": "2013-08-10T03:29:47", 
+      "created": "2013-08-10T03:30:55", 
       "state": "IN", 
       "iface": "timeline_vote", 
       "y": 39.8408, 
       "x": -86.2651, 
-      "id": 16290824, 
-      "question_id": "16175571"
+      "id": 16290840, 
+      "question_id": "16188477"
     }, 
     {
       "city": "Winter Park", 
