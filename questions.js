@@ -3951,7 +3951,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2203, 
       "latest_vote": "2013-08-10T14:58:12", 
       "id": 16259255, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Winchester", 
@@ -5129,7 +5129,7 @@ opendebate.processFetchedQuestions({
       "x": -122.811, 
       "latest_vote": "2013-08-10T14:57:48", 
       "id": 16248409, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Athol", 
@@ -14762,7 +14762,7 @@ opendebate.processFetchedQuestions({
       "x": -99.16, 
       "latest_vote": "2013-08-10T20:14:55", 
       "id": 16209412, 
-      "trending_score": 1.5
+      "trending_score": 2.0
     }, 
     {
       "city": "El Cajon", 
@@ -16491,7 +16491,7 @@ opendebate.processFetchedQuestions({
       "x": -83.1201, 
       "latest_vote": "2013-08-10T16:46:49", 
       "id": 16203215, 
-      "trending_score": 0.8333333333333333
+      "trending_score": 1.125
     }, 
     {
       "city": "Lake Worth", 
@@ -24642,7 +24642,7 @@ opendebate.processFetchedQuestions({
       "x": -105.037, 
       "latest_vote": "2013-08-10T17:48:39", 
       "id": 16178788, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Sammamish", 
@@ -30247,7 +30247,7 @@ opendebate.processFetchedQuestions({
       "x": -114.294, 
       "latest_vote": "2013-08-10T18:17:33", 
       "id": 16172913, 
-      "trending_score": 2.25
+      "trending_score": 2.2857142857142856
     }, 
     {
       "city": "Montegut", 
@@ -31159,7 +31159,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1582, 
       "latest_vote": "2013-08-10T18:20:28", 
       "id": 16172303, 
-      "trending_score": 3.1875
+      "trending_score": 3.2142857142857144
     }, 
     {
       "city": "Arlington", 
@@ -31235,7 +31235,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2368, 
       "latest_vote": "2013-08-10T18:17:25", 
       "id": 16172281, 
-      "trending_score": 7.071428571428571
+      "trending_score": 7.1
     }, 
     {
       "city": "Arlington", 
