@@ -1264,15 +1264,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_06", 
       "created": "2013-08-09T20:34:33", 
       "state_votes": 3, 
-      "votes": 8, 
+      "votes": 9, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4598, 
       "x": -71.0097, 
-      "latest_vote": "2013-08-10T04:40:00", 
+      "latest_vote": "2013-08-10T14:32:08", 
       "id": 16285357, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Saugus", 

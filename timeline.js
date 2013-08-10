@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "North Bend", 
+      "first_name": "Cheryl", 
+      "last_name": "Meyer", 
+      "user_id": 795081, 
+      "submission": "All email is read by the NSA. What limits should be placed on the NSA to preserve privacy?", 
+      "district": "WA_08", 
+      "created": "2013-08-10T14:32:08", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 47.4752, 
+      "x": -121.757, 
+      "id": 16293425, 
+      "question_id": "16285357"
+    }, 
+    {
       "city": "Braintree", 
       "first_name": "", 
       "last_name": "", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -71.0007, 
       "id": 16293423, 
       "question_id": "16172281"
-    }, 
-    {
-      "city": "North Bend", 
-      "first_name": "Cheryl", 
-      "last_name": "Meyer", 
-      "user_id": 795081, 
-      "submission": "Will you support a national bill to decriminalize marijuana?", 
-      "district": "WA_08", 
-      "created": "2013-08-10T14:31:38", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 47.4752, 
-      "x": -121.757, 
-      "id": 16293422, 
-      "question_id": "16290490"
     }, 
     {
       "city": "Duvall", 
