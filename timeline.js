@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Santa Cruz", 
+      "first_name": "Ricci", 
+      "last_name": "Pineau", 
+      "user_id": 1239640, 
+      "submission": "What will you do to get congress to work on a jobs bill instead of wasting taxpayers money trying to repeal The Affordable Healthcare Act?", 
+      "district": "CA_20", 
+      "created": "2013-08-10T20:12:55", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 36.9715, 
+      "x": -121.985, 
+      "id": 16295100, 
+      "question_id": "16203558"
+    }, 
+    {
       "city": "Oklahoma City", 
       "first_name": "Arthur", 
       "last_name": "Clark", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -107.863, 
       "id": 16294566, 
       "question_id": "16217343"
-    }, 
-    {
-      "city": "Chicago", 
-      "first_name": "Wasiu", 
-      "last_name": "Alade", 
-      "user_id": 1186066, 
-      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
-      "district": "IL_01", 
-      "created": "2013-08-10T16:46:05", 
-      "state": "IL", 
-      "iface": "timeline_vote", 
-      "y": 41.7421, 
-      "x": -87.6555, 
-      "id": 16294538, 
-      "question_id": "16173257"
     }
   ]
 });
