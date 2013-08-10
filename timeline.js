@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Do you think Citizens United should be abandoned and the idea of corporations as people is unfair to real people?", 
+      "submission": "Will you support peace and transferring money spent on Military to Education, Food & Health Security, along with making sure we have Clean Air & the right to clean Water?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:59:54", 
+      "created": "2013-08-10T05:00:28", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291778, 
-      "question_id": "16201423"
+      "id": 16291780, 
+      "question_id": "16202732"
     }, 
     {
       "city": "Arlington", 
