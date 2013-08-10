@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Bridget", 
       "last_name": "Burke", 
       "user_id": 1592935, 
-      "submission": "Do you favor legislation to protect our water, land, and communities from the negative environmental and social impacts of fracking for natural gas?", 
+      "submission": "What will you do to get congress to work on a jobs bill instead of wasting taxpayers money trying to repeal The Affordable Healthcare Act?", 
       "district": "AZ_02", 
-      "created": "2013-08-10T03:07:03", 
+      "created": "2013-08-10T03:07:17", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 31.4588, 
       "x": -109.946, 
-      "id": 16290655, 
-      "question_id": "16204423"
+      "id": 16290656, 
+      "question_id": "16203558"
     }, 
     {
       "city": "Laurel", 
