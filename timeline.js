@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Do you think there should be a separation of corporations and state similar to the separation of church and state? If so, what specific actions would you take to get money out of politics?", 
+      "submission": "Why are so many countries banning GMO foods but the US refuses to do so? Why aren't they required to label them as such? ", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:56:42", 
+      "created": "2013-08-10T04:57:36", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291771, 
-      "question_id": "16206519"
+      "id": 16291772, 
+      "question_id": "16205646"
     }, 
     {
       "city": "Arlington", 
