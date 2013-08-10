@@ -14924,16 +14924,16 @@ opendebate.processFetchedQuestions({
       "submission": "How do you propose stopping the GOPs continued assault on women's reproductive rights?", 
       "district": "VA_01", 
       "created": "2013-08-06T21:24:53", 
-      "state_votes": 21, 
-      "votes": 347, 
+      "state_votes": 22, 
+      "votes": 348, 
       "district_votes": 7, 
       "state": "VA", 
       "iface": "question", 
       "y": 38.6736, 
       "x": -77.4268, 
-      "latest_vote": "2013-08-10T04:04:43", 
+      "latest_vote": "2013-08-10T11:20:42", 
       "id": 16205884, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "McKinleyville", 
@@ -19455,7 +19455,7 @@ opendebate.processFetchedQuestions({
       "x": -73.9992, 
       "latest_vote": "2013-08-10T06:20:45", 
       "id": 16188477, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Somerville", 
@@ -21460,16 +21460,16 @@ opendebate.processFetchedQuestions({
       "submission": "How will you support the dignity and freedom of women to make medical decisions with their health care providers without interference of federal and state laws?", 
       "district": "DE_01", 
       "created": "2013-08-06T14:38:18", 
-      "state_votes": 6, 
-      "votes": 397, 
+      "state_votes": 7, 
+      "votes": 398, 
       "district_votes": 2, 
       "state": "DE", 
       "iface": "question", 
       "y": 39.6046, 
       "x": -75.7463, 
-      "latest_vote": "2013-08-10T07:16:35", 
+      "latest_vote": "2013-08-10T11:20:36", 
       "id": 16183415, 
-      "trending_score": 0.75
+      "trending_score": 1.25
     }, 
     {
       "city": "UNIO PIER", 
@@ -22780,7 +22780,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1032, 
       "latest_vote": "2013-08-10T08:39:45", 
       "id": 16180998, 
-      "trending_score": 1.5
+      "trending_score": 2.1666666666666665
     }, 
     {
       "city": "Irvine", 
@@ -23578,7 +23578,7 @@ opendebate.processFetchedQuestions({
       "x": -83.8772, 
       "latest_vote": "2013-08-10T06:21:07", 
       "id": 16179460, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Madison", 
@@ -23711,7 +23711,7 @@ opendebate.processFetchedQuestions({
       "x": -94.1677, 
       "latest_vote": "2013-08-10T06:20:33", 
       "id": 16179242, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Salt Lake City", 
@@ -23787,7 +23787,7 @@ opendebate.processFetchedQuestions({
       "x": -88.3315, 
       "latest_vote": "2013-08-10T06:20:45", 
       "id": 16178941, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Lake in the Hills", 
@@ -24091,7 +24091,7 @@ opendebate.processFetchedQuestions({
       "x": -93.3744, 
       "latest_vote": "2013-08-10T06:20:16", 
       "id": 16178313, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Minneapolis", 
@@ -25165,16 +25165,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you support the ERA and women's rights to make their own health care decisions without government interference, even if it includes abortion?  If not, why not? ", 
       "district": "AZ_01", 
       "created": "2013-08-05T05:46:31", 
-      "state_votes": 5, 
-      "votes": 156, 
+      "state_votes": 6, 
+      "votes": 157, 
       "district_votes": 2, 
       "state": "AZ", 
       "iface": "question", 
       "y": 32.8795, 
       "x": -111.75, 
-      "latest_vote": "2013-08-10T04:34:54", 
+      "latest_vote": "2013-08-10T11:20:58", 
       "id": 16176653, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Seattle", 
@@ -26219,7 +26219,7 @@ opendebate.processFetchedQuestions({
       "x": -88.9093, 
       "latest_vote": "2013-08-10T05:55:29", 
       "id": 16175637, 
-      "trending_score": 0.125
+      "trending_score": 0.16666666666666666
     }, 
     {
       "city": "Mount Vernon", 
@@ -26647,16 +26647,16 @@ opendebate.processFetchedQuestions({
       "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
       "district": "CO_01", 
       "created": "2013-08-04T22:24:13", 
-      "state_votes": 39, 
-      "votes": 489, 
+      "state_votes": 40, 
+      "votes": 490, 
       "district_votes": 10, 
       "state": "CO", 
       "iface": "question", 
       "y": 39.7285, 
       "x": -104.954, 
-      "latest_vote": "2013-08-10T04:01:02", 
+      "latest_vote": "2013-08-10T11:20:27", 
       "id": 16175230, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Seal Rock", 
@@ -26770,7 +26770,7 @@ opendebate.processFetchedQuestions({
       "x": -89.7297, 
       "latest_vote": "2013-08-10T07:16:10", 
       "id": 16175078, 
-      "trending_score": 0.8333333333333333
+      "trending_score": 1.125
     }, 
     {
       "city": "Iuka", 
@@ -27834,7 +27834,7 @@ opendebate.processFetchedQuestions({
       "x": -105.043, 
       "latest_vote": "2013-08-10T11:08:23", 
       "id": 16173921, 
-      "trending_score": 2.5
+      "trending_score": 3.25
     }, 
     {
       "city": "Fort Collins", 
@@ -28746,7 +28746,7 @@ opendebate.processFetchedQuestions({
       "x": -87.7111, 
       "latest_vote": "2013-08-10T06:21:12", 
       "id": 16173257, 
-      "trending_score": 0.5
+      "trending_score": 0.16666666666666666
     }, 
     {
       "city": "Corvallis", 
@@ -28993,7 +28993,7 @@ opendebate.processFetchedQuestions({
       "x": -122.797, 
       "latest_vote": "2013-08-10T05:20:21", 
       "id": 16173184, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Mililani", 
@@ -29715,7 +29715,7 @@ opendebate.processFetchedQuestions({
       "x": -122.589, 
       "latest_vote": "2013-08-10T08:39:29", 
       "id": 16172765, 
-      "trending_score": 1.3333333333333333
+      "trending_score": 2.125
     }, 
     {
       "city": "Egg Harbor", 
@@ -30551,7 +30551,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1313, 
       "latest_vote": "2013-08-10T05:21:04", 
       "id": 16172265, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Cambridge", 
@@ -30627,7 +30627,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1035, 
       "latest_vote": "2013-08-10T05:20:54", 
       "id": 16172225, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Cambridge", 

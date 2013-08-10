@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "East Weymouth", 
+      "first_name": "Carlotta", 
+      "last_name": "Hayes", 
+      "user_id": 1806880, 
+      "submission": "Will you support the ERA and women's rights to make their own health care decisions without government interference, even if it includes abortion?  If not, why not? ", 
+      "district": "MA_08", 
+      "created": "2013-08-10T11:20:58", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2138, 
+      "x": -70.9328, 
+      "id": 16292520, 
+      "question_id": "16176653"
+    }, 
+    {
       "city": "West Shokan", 
       "first_name": "Amy", 
       "last_name": "Fradon", 
@@ -333,21 +348,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16292254, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Santa Cruz", 
-      "first_name": "Jane", 
-      "last_name": "Bruce-Munro", 
-      "user_id": 1644313, 
-      "submission": "Can you explain why the people responsible for the failure of Wall Street and the banking industry have not been held accountable for the destruction of our economy.", 
-      "district": "CA_20", 
-      "created": "2013-08-10T07:19:07", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 36.9715, 
-      "x": -121.985, 
-      "id": 16292248, 
-      "question_id": "16201979"
     }
   ]
 });
