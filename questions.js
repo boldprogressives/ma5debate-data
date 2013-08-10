@@ -20158,7 +20158,7 @@ opendebate.processFetchedQuestions({
       "x": -77.3338, 
       "latest_vote": "2013-08-10T12:39:24", 
       "id": 16188671, 
-      "trending_score": 0.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Dumfries", 
@@ -24718,7 +24718,7 @@ opendebate.processFetchedQuestions({
       "x": -87.6918, 
       "latest_vote": "2013-08-10T16:00:28", 
       "id": 16178617, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "West Salem", 
