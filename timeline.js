@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Birmingham", 
-      "first_name": "Dot", 
-      "last_name": "Canup", 
-      "user_id": 1565077, 
-      "submission": "Will you finally call out the GOP's travesties in politics and denounce Fox 'News' support of same?", 
-      "district": "AL_07", 
-      "created": "2013-08-10T06:34:53", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 33.6391, 
-      "x": -86.6919, 
-      "id": 16292182, 
-      "question_id": "16199852"
-    }, 
-    {
       "city": "Phoenix", 
       "first_name": "Lynne", 
       "last_name": "Vestal", 
       "user_id": 1121128, 
-      "submission": "What would you do to create criminal indictments of these corporate polluters of our water, air and food or the corporate thieves of our housing, pensions and futures? Will you uphold the constitution and DEMAND JUSTICE.", 
+      "submission": "Would you eliminate the use of GMO (Genetically Modified Organism) foods. They are detrimental to human health, and hazardous to the environment.", 
       "district": "AZ_09", 
-      "created": "2013-08-10T06:33:59", 
+      "created": "2013-08-10T06:35:55", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 33.559, 
       "x": -112.089, 
-      "id": 16292180, 
-      "question_id": "16207548"
+      "id": 16292186, 
+      "question_id": "16193930"
+    }, 
+    {
+      "city": "Birmingham", 
+      "first_name": "Dot", 
+      "last_name": "Canup", 
+      "user_id": 1565077, 
+      "submission": "Big banks today are able to issue loans and not offer any assistance when the borrower needs help, yet they are allowed all kinds of Federal kickbacks and help. What will you do to protect taxpayers?", 
+      "district": "AL_07", 
+      "created": "2013-08-10T06:35:45", 
+      "state": "AL", 
+      "iface": "timeline_vote", 
+      "y": 33.6391, 
+      "x": -86.6919, 
+      "id": 16292185, 
+      "question_id": "16191182"
     }, 
     {
       "city": "Watertown", 
