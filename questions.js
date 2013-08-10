@@ -26257,7 +26257,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9643, 
       "latest_vote": "2013-08-10T12:52:20", 
       "id": 16175740, 
-      "trending_score": 2.5
+      "trending_score": 3.25
     }, 
     {
       "city": "Buffalo Grove", 
@@ -27948,7 +27948,7 @@ opendebate.processFetchedQuestions({
       "x": -105.043, 
       "latest_vote": "2013-08-10T13:37:52", 
       "id": 16173921, 
-      "trending_score": 3.5
+      "trending_score": 5.25
     }, 
     {
       "city": "Fort Collins", 
@@ -28529,15 +28529,15 @@ opendebate.processFetchedQuestions({
       "district": "TN_02", 
       "created": "2013-08-04T02:07:32", 
       "state_votes": 140, 
-      "votes": 1120, 
+      "votes": 1121, 
       "district_votes": 32, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.8311, 
       "x": -84.0482, 
-      "latest_vote": "2013-08-10T12:52:41", 
+      "latest_vote": "2013-08-10T13:38:28", 
       "id": 16173335, 
-      "trending_score": 3.25
+      "trending_score": 4.25
     }, 
     {
       "city": "Evansville", 
@@ -28814,15 +28814,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:25:59", 
       "state_votes": 247, 
-      "votes": 1668, 
+      "votes": 1669, 
       "district_votes": 78, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-10T12:38:06", 
+      "latest_vote": "2013-08-10T13:38:26", 
       "id": 16173264, 
-      "trending_score": 3.25
+      "trending_score": 4.25
     }, 
     {
       "city": "Prosper", 
@@ -29574,15 +29574,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T23:23:07", 
       "state_votes": 185, 
-      "votes": 1250, 
+      "votes": 1251, 
       "district_votes": 49, 
       "state": "MT", 
       "iface": "question", 
       "y": 48.2112, 
       "x": -114.294, 
-      "latest_vote": "2013-08-10T13:25:20", 
+      "latest_vote": "2013-08-10T13:38:59", 
       "id": 16172913, 
-      "trending_score": 3.25
+      "trending_score": 4.25
     }, 
     {
       "city": "Montegut", 
@@ -30057,7 +30057,7 @@ opendebate.processFetchedQuestions({
       "x": -116.297, 
       "latest_vote": "2013-08-10T11:58:35", 
       "id": 16172697, 
-      "trending_score": 3.5
+      "trending_score": 5.25
     }, 
     {
       "city": "Holts Summit", 
@@ -30133,7 +30133,7 @@ opendebate.processFetchedQuestions({
       "x": -122.594, 
       "latest_vote": "2013-08-10T08:39:18", 
       "id": 16172690, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Gig Harbor", 

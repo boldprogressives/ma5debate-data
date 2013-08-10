@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Judith Meldahl", 
       "last_name": "Meldahl", 
       "user_id": 242274, 
-      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
       "district": "IL_13", 
-      "created": "2013-08-10T13:37:57", 
+      "created": "2013-08-10T13:38:59", 
       "state": "IL", 
       "iface": "timeline_vote", 
       "y": 39.8271, 
       "x": -88.9241, 
-      "id": 16292692, 
-      "question_id": "16172303"
+      "id": 16292696, 
+      "question_id": "16172913"
     }, 
     {
       "city": "Helena", 
