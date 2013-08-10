@@ -3400,7 +3400,7 @@ opendebate.processFetchedQuestions({
       "x": -123.05, 
       "latest_vote": "2013-08-10T03:47:53", 
       "id": 16255209, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "La Jolla", 
@@ -16263,7 +16263,7 @@ opendebate.processFetchedQuestions({
       "x": -76.2257, 
       "latest_vote": "2013-08-10T04:14:47", 
       "id": 16200693, 
-      "trending_score": 1.5
+      "trending_score": 0.5
     }, 
     {
       "city": "Charlotte", 
@@ -17517,7 +17517,7 @@ opendebate.processFetchedQuestions({
       "x": -74.4073, 
       "latest_vote": "2013-08-10T03:48:02", 
       "id": 16193888, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Baltimore", 
