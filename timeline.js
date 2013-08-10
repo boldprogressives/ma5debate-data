@@ -2,64 +2,79 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Patterson", 
-      "first_name": "Enders", 
-      "last_name": "Family", 
-      "user_id": 715454, 
-      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
-      "district": "CA_10", 
-      "created": "2013-08-10T00:35:51", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 37.4861, 
-      "x": -121.13, 
-      "id": 16289080, 
-      "question_id": "16203866"
-    }, 
-    {
       "city": "Ivins", 
       "first_name": "Robert", 
       "last_name": "Whitbeck", 
       "user_id": 1808375, 
-      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
+      "submission": "will you pledge to oppose Any cuts to social Security or Medicare?", 
       "district": "UT_02", 
-      "created": "2013-08-10T00:35:39", 
+      "created": "2013-08-10T00:37:02", 
       "state": "UT", 
       "iface": "timeline_vote", 
       "y": 37.1678, 
       "x": -113.668, 
-      "id": 16289079, 
-      "question_id": "16172731"
+      "id": 16289106, 
+      "question_id": "16185364"
+    }, 
+    {
+      "city": "Rockville", 
+      "first_name": "Gary", 
+      "last_name": "Brown", 
+      "user_id": 1809156, 
+      "submission": "What would you do to stop Fracking?", 
+      "district": "MD_06", 
+      "created": "2013-08-10T00:37:00", 
+      "state": "MD", 
+      "iface": "timeline_vote", 
+      "y": 39.0962, 
+      "x": -77.0955, 
+      "id": 16289105, 
+      "question_id": "16278915"
+    }, 
+    {
+      "city": "Patterson", 
+      "first_name": "Enders", 
+      "last_name": "Family", 
+      "user_id": 715454, 
+      "submission": "Do you support the labeling of GMOs and if so, what do you intend to do to promote people's right to know what is in their food?", 
+      "district": "CA_10", 
+      "created": "2013-08-10T00:36:58", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 37.4861, 
+      "x": -121.13, 
+      "id": 16289104, 
+      "question_id": "16176001"
     }, 
     {
       "city": "El Prado", 
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Will you support giving more \"teeth\" to the EPA?  \"Our\" planet is being destroyed by corporate greed.", 
+      "submission": "What, specifically, are you planning to do during your congressional term about the global threats of global warming and climate change?", 
       "district": "NM_03", 
-      "created": "2013-08-10T00:35:37", 
+      "created": "2013-08-10T00:36:56", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16289078, 
-      "question_id": "16220253"
+      "id": 16289103, 
+      "question_id": "16217933"
     }, 
     {
       "city": "", 
       "first_name": "Juluie M", 
       "last_name": "Lacinak", 
       "user_id": 1548415, 
-      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
       "district": "", 
-      "created": "2013-08-10T00:35:32", 
+      "created": "2013-08-10T00:36:38", 
       "state": "", 
       "iface": "timeline_vote", 
       "y": 0.0, 
       "x": 0.0, 
-      "id": 16289077, 
-      "question_id": "16172583"
+      "id": 16289095, 
+      "question_id": "16173335"
     }, 
     {
       "city": "Pasadena", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -80.0109, 
       "id": 16288682, 
       "question_id": "16235193"
-    }, 
-    {
-      "city": "Portland", 
-      "first_name": "Gwendolyn", 
-      "last_name": "Gerald", 
-      "user_id": 1674613, 
-      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
-      "district": "OR_01", 
-      "created": "2013-08-10T00:04:10", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 45.5409, 
-      "x": -122.83, 
-      "id": 16288667, 
-      "question_id": "16180998"
     }
   ]
 });
