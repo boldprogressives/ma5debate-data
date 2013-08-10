@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Ashland", 
+      "first_name": "Kenneth", 
+      "last_name": "Deveney", 
+      "user_id": 506233, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "OR_02", 
+      "created": "2013-08-10T03:00:17", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 42.1583, 
+      "x": -122.634, 
+      "id": 16290628, 
+      "question_id": "16173264"
+    }, 
+    {
       "city": "LOS OSOS", 
       "first_name": "TIM", 
       "last_name": "LYTSELL", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -74.0036, 
       "id": 16290626, 
       "question_id": "16175740"
-    }, 
-    {
-      "city": "Ashland", 
-      "first_name": "Kenneth", 
-      "last_name": "Deveney", 
-      "user_id": 506233, 
-      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
-      "district": "OR_02", 
-      "created": "2013-08-10T02:59:20", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 42.1583, 
-      "x": -122.634, 
-      "id": 16290624, 
-      "question_id": "16173210"
     }, 
     {
       "city": "Reno", 
