@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Arlington", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1809582, 
+      "submission": "What are your views on the National Security Agency and its sweeping search through and storage of virtually limitless amounts of Americans' e-mail, phone, and text communications?", 
+      "district": "MA_05", 
+      "created": "2013-08-10T04:39:01", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4119, 
+      "x": -71.1765, 
+      "id": 16291409, 
+      "question_id": "16289961"
+    }, 
+    {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Will you work to reinstate the Glass-Steagall Act to insure that the Wall Street banks behave in a more responsible manner?", 
+      "submission": "How are you going to make those who have brought our economy to its knees pay for their crimes, if these same criminals are paying to put most political candidates in power?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:37:49", 
+      "created": "2013-08-10T04:38:46", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291405, 
-      "question_id": "16256690"
+      "id": 16291408, 
+      "question_id": "16250174"
     }, 
     {
       "city": "Yakima", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -71.2188, 
       "id": 16290665, 
       "question_id": "16172690"
-    }, 
-    {
-      "city": "Laurel", 
-      "first_name": "Gary", 
-      "last_name": "Osland", 
-      "user_id": 148343, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
-      "district": "IA_01", 
-      "created": "2013-08-10T03:03:55", 
-      "state": "IA", 
-      "iface": "timeline_vote", 
-      "y": 41.8882, 
-      "x": -92.9427, 
-      "id": 16290644, 
-      "question_id": "16172913"
     }
   ]
 });
