@@ -5870,7 +5870,7 @@ opendebate.processFetchedQuestions({
       "x": -122.046, 
       "latest_vote": "2013-08-10T14:51:15", 
       "id": 16242609, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Garden City", 
@@ -12444,7 +12444,7 @@ opendebate.processFetchedQuestions({
       "x": -71.3639, 
       "latest_vote": "2013-08-10T15:02:03", 
       "id": 16215369, 
-      "trending_score": 1.0
+      "trending_score": 1.5
     }, 
     {
       "city": "Wayland", 
@@ -14781,7 +14781,7 @@ opendebate.processFetchedQuestions({
       "x": -116.908, 
       "latest_vote": "2013-08-10T16:02:03", 
       "id": 16209328, 
-      "trending_score": 1.5
+      "trending_score": 1.25
     }, 
     {
       "city": "Pittsburgh", 
@@ -28613,7 +28613,7 @@ opendebate.processFetchedQuestions({
       "x": -105.043, 
       "latest_vote": "2013-08-10T18:21:05", 
       "id": 16173921, 
-      "trending_score": 2.875
+      "trending_score": 2.8428571428571425
     }, 
     {
       "city": "Fort Collins", 
@@ -29202,7 +29202,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-10T18:20:08", 
       "id": 16173335, 
-      "trending_score": 3.1
+      "trending_score": 3.4166666666666665
     }, 
     {
       "city": "Evansville", 
@@ -29487,7 +29487,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T18:16:47", 
       "id": 16173264, 
-      "trending_score": 2.638888888888889
+      "trending_score": 2.696428571428571
     }, 
     {
       "city": "Prosper", 
@@ -29772,7 +29772,7 @@ opendebate.processFetchedQuestions({
       "x": -122.797, 
       "latest_vote": "2013-08-10T16:06:17", 
       "id": 16173184, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Mililani", 
@@ -30532,7 +30532,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5959, 
       "latest_vote": "2013-08-10T18:20:34", 
       "id": 16172755, 
-      "trending_score": 4.757142857142857
+      "trending_score": 5.75
     }, 
     {
       "city": "Richardson", 
