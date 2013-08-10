@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "R. Gwen", 
       "last_name": "Smith Minniti", 
       "user_id": 697062, 
-      "submission": "will you commit to stand against any and all fracking in order to protect our environment, water supply, home safety, and property values, as well as to contend against further climate change?", 
+      "submission": "What will you do to support real campaign finance reform that will remove entrenched special interest money and its attendant corruption from our aspiring democracy?", 
       "district": "GA_07", 
-      "created": "2013-08-10T01:57:17", 
+      "created": "2013-08-10T01:59:00", 
       "state": "GA", 
       "iface": "timeline_vote", 
       "y": 34.2031, 
       "x": -84.0743, 
-      "id": 16290212, 
-      "question_id": "16213290"
+      "id": 16290290, 
+      "question_id": "16186239"
+    }, 
+    {
+      "city": "Madison", 
+      "first_name": "Linda", 
+      "last_name": "Leonhart", 
+      "user_id": 1777183, 
+      "submission": "Why is increased investment  in early learning important to the future of our country?", 
+      "district": "WI_02", 
+      "created": "2013-08-10T01:58:43", 
+      "state": "WI", 
+      "iface": "timeline_vote", 
+      "y": 43.1471, 
+      "x": -89.4069, 
+      "id": 16290276, 
+      "question_id": "16179434"
     }, 
     {
       "city": "New York", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -112.468, 
       "id": 16289611, 
       "question_id": "16175500"
-    }, 
-    {
-      "city": "Miami", 
-      "first_name": "Judy", 
-      "last_name": "Seagal", 
-      "user_id": 132179, 
-      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
-      "district": "FL_23", 
-      "created": "2013-08-10T01:20:07", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 25.9619, 
-      "x": -80.1406, 
-      "id": 16289590, 
-      "question_id": "16175634"
     }
   ]
 });
