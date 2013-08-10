@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Joe", 
       "last_name": "Verdoes", 
       "user_id": 503455, 
-      "submission": "Why don't we change the lobbying rules so that we do not have a system that legalizes bribery, and why do we not reform the filibuster so congress does not have an excuse to continue doing nothing ?", 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and if not why not?", 
       "district": "WA_02", 
-      "created": "2013-08-10T03:42:54", 
+      "created": "2013-08-10T03:43:40", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 48.4989, 
       "x": -122.607, 
-      "id": 16290913, 
-      "question_id": "16174072"
+      "id": 16290917, 
+      "question_id": "16186709"
     }, 
     {
       "city": "Greensboro", 
