@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Birmingham", 
-      "first_name": "Dot", 
-      "last_name": "Canup", 
-      "user_id": 1565077, 
-      "submission": "What will you do to ban military assault weapons and multi-bullet magazine clips?", 
-      "district": "AL_07", 
-      "created": "2013-08-10T05:44:57", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 33.6391, 
-      "x": -86.6919, 
-      "id": 16291963, 
-      "question_id": "16217229"
-    }, 
-    {
       "city": "Las Vegas", 
       "first_name": "Steven", 
       "last_name": "Born", 
       "user_id": 1699500, 
-      "submission": "Solar would bring in new jobs and the factorys built in this country you could even run street lights, stop and go lights i know it would help with the citys tax base, becouse i build solar heat exchangers for the low income folks and it works becouse my heating bills run 16.00 dollars a month 2 years ago last year 48 dollars a month why would not want that ?", 
+      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
       "district": "NV_03", 
-      "created": "2013-08-10T05:44:55", 
+      "created": "2013-08-10T05:45:52", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 36.1135, 
       "x": -115.273, 
-      "id": 16291962, 
-      "question_id": "16172866"
+      "id": 16291969, 
+      "question_id": "16172697"
+    }, 
+    {
+      "city": "Birmingham", 
+      "first_name": "Dot", 
+      "last_name": "Canup", 
+      "user_id": 1565077, 
+      "submission": "The Congress needs an overseer committee.  Either you work for the good of the country and ALL of it people or get out.  No work, no pay.  Question:  Are rt wing conservatives on a suicide mission?", 
+      "district": "AL_07", 
+      "created": "2013-08-10T05:45:40", 
+      "state": "AL", 
+      "iface": "timeline_vote", 
+      "y": 33.6391, 
+      "x": -86.6919, 
+      "id": 16291968, 
+      "question_id": "16215494"
     }, 
     {
       "city": "McMinnville", 
