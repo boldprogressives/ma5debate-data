@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Cheryl", 
       "last_name": "Meyer", 
       "user_id": 795081, 
-      "submission": "Public education is being privatized all over the U.S., with even Obama supporting school \"reform\" which turns education over to private corporations. These companies get rid of experienced teachers, hire in kids just out of college, give them 5 weeks of \"training\" and then put them in schools at low wages. Our children are being short-changed, particularly those with learning problems - \"reform\" schools \"cook the books\" by denying places in schools to those with problems, then saying, \"look, scores up!\" Will you seriously take a hard look at school \"reform?\"", 
+      "submission": "Republicans have shifted much of their strategy for reducing reproductive rights to the state level.  How will you ensure women have access to the safe and legal abortions Roe v. Wade promised us?", 
       "district": "WA_08", 
-      "created": "2013-08-10T14:27:36", 
+      "created": "2013-08-10T14:28:38", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 47.4752, 
       "x": -121.757, 
-      "id": 16293394, 
-      "question_id": "16197636"
+      "id": 16293400, 
+      "question_id": "16177825"
+    }, 
+    {
+      "city": "Austin", 
+      "first_name": "Bill", 
+      "last_name": "Kryzanowski", 
+      "user_id": 1775396, 
+      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
+      "district": "TX_10", 
+      "created": "2013-08-10T14:28:27", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 30.3972, 
+      "x": -97.7518, 
+      "id": 16293399, 
+      "question_id": "16173210"
     }, 
     {
       "city": "Las Cruces", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -86.8183, 
       "id": 16292687, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "New Port Richey", 
-      "first_name": "robert", 
-      "last_name": "Brown", 
-      "user_id": 599761, 
-      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
-      "district": "FL_12", 
-      "created": "2013-08-10T13:26:16", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 28.2385, 
-      "x": -82.7307, 
-      "id": 16292683, 
-      "question_id": "16172731"
     }
   ]
 });
