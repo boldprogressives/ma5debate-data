@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Katherine", 
       "last_name": "Fernandez", 
       "user_id": 333705, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "submission": "What will you do to stop the attack on women, & their health? Will you enforce equal pay?", 
       "district": "TX_18", 
-      "created": "2013-08-10T12:38:06", 
+      "created": "2013-08-10T12:38:54", 
       "state": "TX", 
       "iface": "timeline_vote", 
       "y": 29.7963, 
       "x": -95.4172, 
-      "id": 16292585, 
-      "question_id": "16173264"
+      "id": 16292592, 
+      "question_id": "16177906"
     }, 
     {
       "city": "Millis", 
