@@ -28613,7 +28613,7 @@ opendebate.processFetchedQuestions({
       "x": -105.043, 
       "latest_vote": "2013-08-10T18:21:05", 
       "id": 16173921, 
-      "trending_score": 2.166666666666667
+      "trending_score": 1.6666666666666665
     }, 
     {
       "city": "Fort Collins", 
@@ -29202,7 +29202,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-10T18:20:08", 
       "id": 16173335, 
-      "trending_score": 2.75
+      "trending_score": 1.7083333333333333
     }, 
     {
       "city": "Evansville", 
@@ -29506,7 +29506,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T18:17:01", 
       "id": 16173259, 
-      "trending_score": 1.6333333333333333
+      "trending_score": 1.15
     }, 
     {
       "city": "Manitowoc", 
@@ -30247,7 +30247,7 @@ opendebate.processFetchedQuestions({
       "x": -114.294, 
       "latest_vote": "2013-08-10T18:17:33", 
       "id": 16172913, 
-      "trending_score": 1.25
+      "trending_score": 1.6428571428571428
     }, 
     {
       "city": "Montegut", 
@@ -30475,7 +30475,7 @@ opendebate.processFetchedQuestions({
       "x": -111.974, 
       "latest_vote": "2013-08-10T18:22:08", 
       "id": 16172777, 
-      "trending_score": 1.0
+      "trending_score": 1.1875
     }, 
     {
       "city": "Gladstone", 
