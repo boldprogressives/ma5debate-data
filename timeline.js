@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Tim", 
       "last_name": "Sanders", 
       "user_id": 974978, 
-      "submission": "Do/would you support an investigation of any/all Representative\u2019s that signed the Norquist pledge as having a conflict of interest with their pledge to uphold the Constitution and make government work?", 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
       "district": "NV_02", 
-      "created": "2013-08-10T01:34:01", 
+      "created": "2013-08-10T01:35:00", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 39.7704, 
       "x": -119.617, 
-      "id": 16289704, 
-      "question_id": "16206139"
+      "id": 16289709, 
+      "question_id": "16172913"
+    }, 
+    {
+      "city": "Jacksonville", 
+      "first_name": "Gwendolyn", 
+      "last_name": "Fleury", 
+      "user_id": 1702817, 
+      "submission": "Will you support immigration reform with a path to citizenship ?", 
+      "district": "FL_05", 
+      "created": "2013-08-10T01:34:48", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 30.3908, 
+      "x": -81.6842, 
+      "id": 16289707, 
+      "question_id": "16172648"
     }, 
     {
       "city": "Cumming", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -71.1804, 
       "id": 16289310, 
       "question_id": "16199834"
-    }, 
-    {
-      "city": "San Angelo", 
-      "first_name": "Janna", 
-      "last_name": "Simms", 
-      "user_id": 521772, 
-      "submission": "What will you do to ensure that all Americans have access to the voting booth and what will you do to get money out of our elections so that we all have an equal voice?", 
-      "district": "TX_11", 
-      "created": "2013-08-10T00:52:37", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 31.4678, 
-      "x": -100.436, 
-      "id": 16289281, 
-      "question_id": "16205834"
     }
   ]
 });
