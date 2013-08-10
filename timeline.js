@@ -2,49 +2,79 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "New York", 
+      "first_name": "Brett", 
+      "last_name": "Greisen", 
+      "user_id": 35998, 
+      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
+      "district": "NY_13", 
+      "created": "2013-08-10T01:47:00", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.7996, 
+      "x": -73.9703, 
+      "id": 16289819, 
+      "question_id": "16175230"
+    }, 
+    {
       "city": "Cumming", 
       "first_name": "R. Gwen", 
       "last_name": "Smith Minniti", 
       "user_id": 697062, 
-      "submission": "Will you vote to end tax loopholes for the rich, big business subsides, overseas corporate tax loopholes, wasteful wars, foreign country subsides, quality health care for all, good safe food for all, clean air, clean energy, clean safe drinking water, useful education and job opportunities for all hard working citizens that can achieve these levels and deserve it, gun control, to end wall street fraud and corruption.", 
+      "submission": "Will you vote to prosecute the perpetrators of the illegalities of the Bush Supreme Court - particularly Anton Scalia, Samuel Alito and Clarence Thomas?", 
       "district": "GA_07", 
-      "created": "2013-08-10T01:46:06", 
+      "created": "2013-08-10T01:47:00", 
       "state": "GA", 
       "iface": "timeline_vote", 
       "y": 34.2031, 
       "x": -84.0743, 
-      "id": 16289810, 
-      "question_id": "16203215"
+      "id": 16289820, 
+      "question_id": "16185930"
+    }, 
+    {
+      "city": "Winston Salem", 
+      "first_name": "Hannah", 
+      "last_name": "Shapere", 
+      "user_id": 1138048, 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
+      "district": "NC_05", 
+      "created": "2013-08-10T01:46:54", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 36.1496, 
+      "x": -80.3226, 
+      "id": 16289817, 
+      "question_id": "16202059"
     }, 
     {
       "city": "Panama City", 
       "first_name": "eugene", 
       "last_name": "mcclure", 
       "user_id": 1567750, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
       "district": "FL_02", 
-      "created": "2013-08-10T01:46:05", 
+      "created": "2013-08-10T01:46:45", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 30.2034, 
       "x": -85.6606, 
-      "id": 16289809, 
-      "question_id": "16173264"
+      "id": 16289814, 
+      "question_id": "16172533"
     }, 
     {
       "city": "Reno", 
       "first_name": "Tim", 
       "last_name": "Sanders", 
       "user_id": 974978, 
-      "submission": "How can Manning and Snowden be in trouble and Dick Chaney isn't in trouble for outing Valerie Plame?", 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and if not why not?", 
       "district": "NV_02", 
-      "created": "2013-08-10T01:45:54", 
+      "created": "2013-08-10T01:46:39", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 39.7704, 
       "x": -119.617, 
-      "id": 16289807, 
-      "question_id": "16201620"
+      "id": 16289812, 
+      "question_id": "16186709"
     }, 
     {
       "city": "Oswego", 
@@ -270,36 +300,6 @@ opendebate.processTimeline({
       "x": 0.0, 
       "id": 16289531, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Rocky Hill", 
-      "first_name": "John", 
-      "last_name": "Wieder", 
-      "user_id": 1760927, 
-      "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
-      "district": "CT_01", 
-      "created": "2013-08-10T01:12:27", 
-      "state": "CT", 
-      "iface": "timeline_vote", 
-      "y": 41.6625, 
-      "x": -72.6688, 
-      "id": 16289527, 
-      "question_id": "16172542"
-    }, 
-    {
-      "city": "Cambridge", 
-      "first_name": "Sam", 
-      "last_name": "Geller", 
-      "user_id": 1808953, 
-      "submission": "What is your position on the Keystone XL pipeline and on fracking? Specifically what would you do to stop climate change and move to renewable energy?", 
-      "district": "MA_07", 
-      "created": "2013-08-10T01:09:45", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3683, 
-      "x": -71.0824, 
-      "id": 16289483, 
-      "question_id": "16207584"
     }
   ]
 });
