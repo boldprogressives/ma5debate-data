@@ -18,8 +18,8 @@ opendebate.processTimeline({
     }, 
     {
       "city": "Waltham", 
-      "first_name": "", 
-      "last_name": "", 
+      "first_name": "Michael", 
+      "last_name": "Rich", 
       "user_id": 1810448, 
       "submission": "Should the police be used to keep the people from protesting about the ongoing illegal activities of the financial institutions on Wall Street?", 
       "district": "MA_05", 
