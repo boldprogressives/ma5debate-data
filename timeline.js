@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Donna", 
       "last_name": "Freeman", 
       "user_id": 1578049, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
       "district": "MI_10", 
-      "created": "2013-08-10T10:54:54", 
+      "created": "2013-08-10T10:55:45", 
       "state": "MI", 
       "iface": "timeline_vote", 
       "y": 42.6094, 
       "x": -82.8357, 
-      "id": 16292477, 
-      "question_id": "16172777"
+      "id": 16292484, 
+      "question_id": "16172727"
     }, 
     {
       "city": "Killeen", 
