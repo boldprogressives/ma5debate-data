@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Joe", 
       "last_name": "Verdoes", 
       "user_id": 503455, 
-      "submission": "Would you support a new millennial version of the Civilian Conservation Corps to provide a broad sector of the general public with fulltime employment in municipal, state, and federal parks?", 
+      "submission": "Do you agree that accepting money from corporate interests with an economic stake in how Congressmen vote, and then voting on matters that affect them, is pernicious and close to bribery?  If not, why not?  ", 
       "district": "WA_02", 
-      "created": "2013-08-10T03:44:36", 
+      "created": "2013-08-10T03:45:58", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 48.4989, 
       "x": -122.607, 
-      "id": 16290920, 
-      "question_id": "16272358"
+      "id": 16290927, 
+      "question_id": "16176481"
     }, 
     {
       "city": "Greensboro", 
