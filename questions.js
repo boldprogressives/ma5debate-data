@@ -15921,7 +15921,7 @@ opendebate.processFetchedQuestions({
       "x": -80.6964, 
       "latest_vote": "2013-08-10T06:18:52", 
       "id": 16201745, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Richardson", 
@@ -16035,7 +16035,7 @@ opendebate.processFetchedQuestions({
       "x": -82.7314, 
       "latest_vote": "2013-08-10T07:12:40", 
       "id": 16201559, 
-      "trending_score": 1.1
+      "trending_score": 1.1666666666666667
     }, 
     {
       "city": "North Andover", 
@@ -16624,7 +16624,7 @@ opendebate.processFetchedQuestions({
       "x": -75.3857, 
       "latest_vote": "2013-08-10T07:13:07", 
       "id": 16199756, 
-      "trending_score": 0.75
+      "trending_score": 0.8333333333333333
     }, 
     {
       "city": "Elizabethtown", 
@@ -22419,7 +22419,7 @@ opendebate.processFetchedQuestions({
       "x": -99.2939, 
       "latest_vote": "2013-08-10T06:18:25", 
       "id": 16181773, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Malden", 
@@ -23369,7 +23369,7 @@ opendebate.processFetchedQuestions({
       "x": -118.349, 
       "latest_vote": "2013-08-10T06:19:04", 
       "id": 16179810, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Rancho Santa Margarita", 
@@ -28043,7 +28043,7 @@ opendebate.processFetchedQuestions({
       "x": -101.89, 
       "latest_vote": "2013-08-10T05:18:27", 
       "id": 16173607, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Duluth", 
@@ -28195,7 +28195,7 @@ opendebate.processFetchedQuestions({
       "x": -122.859, 
       "latest_vote": "2013-08-10T05:54:11", 
       "id": 16173438, 
-      "trending_score": 0.16666666666666666
+      "trending_score": 0.25
     }, 
     {
       "city": "Eugene", 
@@ -28252,7 +28252,7 @@ opendebate.processFetchedQuestions({
       "x": -93.291, 
       "latest_vote": "2013-08-10T05:18:53", 
       "id": 16173412, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Grand Coulee", 
@@ -28499,7 +28499,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-10T05:25:06", 
       "id": 16173323, 
-      "trending_score": 0.16666666666666666
+      "trending_score": 0.25
     }, 
     {
       "city": "Bensenville", 
@@ -28537,7 +28537,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9488, 
       "latest_vote": "2013-08-10T05:19:07", 
       "id": 16173312, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "North Sioux City", 
@@ -29715,7 +29715,7 @@ opendebate.processFetchedQuestions({
       "x": -122.589, 
       "latest_vote": "2013-08-10T08:39:29", 
       "id": 16172765, 
-      "trending_score": 1.25
+      "trending_score": 1.3333333333333333
     }, 
     {
       "city": "Egg Harbor", 
