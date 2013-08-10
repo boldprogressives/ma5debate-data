@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Edmonds", 
+      "first_name": "Edward Anthony", 
+      "last_name": "Aldridge", 
+      "user_id": 1758854, 
+      "submission": "Will you pledge to change the current filibuster rule to what it had been in the past where a Senator had to stand and speak for the duration his/her filibuster? If not, why not?", 
+      "district": "WA_07", 
+      "created": "2013-08-10T07:17:03", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 47.8408, 
+      "x": -122.337, 
+      "id": 16292234, 
+      "question_id": "16197620"
+    }, 
+    {
       "city": "Santa Cruz", 
       "first_name": "Jane", 
       "last_name": "Bruce-Munro", 
       "user_id": 1644313, 
-      "submission": "In 2006, the lame-duck GOP congress enacted a bill forcing the U.S.Postal service to fully fund pensions for the next 75 years and do it in ten years. It's a bill that was designed to ruin the USPS so it could be privatized. Will you work to repeal this onerous bill and introduce legislation to allow the USPS to compete with private carriers?", 
+      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
       "district": "CA_20", 
-      "created": "2013-08-10T07:15:58", 
+      "created": "2013-08-10T07:16:55", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 36.9715, 
       "x": -121.985, 
-      "id": 16292222, 
-      "question_id": "16206983"
+      "id": 16292233, 
+      "question_id": "16172697"
     }, 
     {
       "city": "Grand Terrace", 
@@ -324,25 +339,6 @@ opendebate.processTimeline({
       "x": -71.146, 
       "latest_vote": null, 
       "id": 16291919, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Winchester", 
-      "first_name": "Jeff", 
-      "last_name": "Dearman", 
-      "user_id": 1810429, 
-      "submission": "What is your favorite country other than the United States? ", 
-      "district": "MA_05", 
-      "created": "2013-08-10T05:33:15", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.4529, 
-      "x": -71.146, 
-      "latest_vote": null, 
-      "id": 16291918, 
       "trending_score": 0.5
     }
   ]
