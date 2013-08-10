@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Peggy", 
       "last_name": "Szymeczek", 
       "user_id": 1236028, 
-      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "submission": "Would you support Medicare paying for dental care?", 
       "district": "AZ_02", 
-      "created": "2013-08-10T18:05:58", 
+      "created": "2013-08-10T18:06:12", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 31.47, 
       "x": -110.187, 
-      "id": 16294839, 
-      "question_id": "16173259"
+      "id": 16294845, 
+      "question_id": "16174466"
     }, 
     {
       "city": "Los Angeles", 
