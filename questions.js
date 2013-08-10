@@ -1044,7 +1044,7 @@ opendebate.processFetchedQuestions({
       "x": -71.0097, 
       "latest_vote": "2013-08-10T04:40:00", 
       "id": 16285357, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Saugus", 
@@ -4787,7 +4787,7 @@ opendebate.processFetchedQuestions({
       "x": -74.4327, 
       "latest_vote": "2013-08-10T04:40:04", 
       "id": 16244119, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Fremont", 
@@ -4863,7 +4863,7 @@ opendebate.processFetchedQuestions({
       "x": -120.941, 
       "latest_vote": "2013-08-10T05:39:46", 
       "id": 16243690, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Smyrna", 
@@ -4958,7 +4958,7 @@ opendebate.processFetchedQuestions({
       "x": -122.046, 
       "latest_vote": "2013-08-10T04:39:35", 
       "id": 16243005, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Lakewood", 
@@ -5338,7 +5338,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7109, 
       "latest_vote": "2013-08-10T04:39:25", 
       "id": 16240772, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Hugo", 
@@ -5851,7 +5851,7 @@ opendebate.processFetchedQuestions({
       "x": -81.9503, 
       "latest_vote": "2013-08-10T05:40:12", 
       "id": 16237380, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Medford", 
@@ -18752,7 +18752,7 @@ opendebate.processFetchedQuestions({
       "x": -71.8195, 
       "latest_vote": "2013-08-10T06:09:38", 
       "id": 16190183, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Wilmington", 
@@ -19113,7 +19113,7 @@ opendebate.processFetchedQuestions({
       "x": -86.4577, 
       "latest_vote": "2013-08-10T06:10:20", 
       "id": 16189599, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "McKinney", 
@@ -24129,7 +24129,7 @@ opendebate.processFetchedQuestions({
       "x": -106.578, 
       "latest_vote": "2013-08-10T07:16:28", 
       "id": 16178177, 
-      "trending_score": 2.3333333333333335
+      "trending_score": 1.5
     }, 
     {
       "city": "San Antonio", 
