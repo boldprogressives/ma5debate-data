@@ -19769,16 +19769,16 @@ opendebate.processFetchedQuestions({
       "submission": "How will Social Security & Medicare be strengthened with additional benefits for Senior Citizens?", 
       "district": "FL_20", 
       "created": "2013-08-06T15:36:40", 
-      "state_votes": 2, 
-      "votes": 21, 
-      "district_votes": 0, 
+      "state_votes": 3, 
+      "votes": 22, 
+      "district_votes": 1, 
       "state": "FL", 
       "iface": "question", 
       "y": 26.1405, 
       "x": -80.1738, 
-      "latest_vote": "2013-08-10T05:04:45", 
+      "latest_vote": "2013-08-10T14:00:31", 
       "id": 16188015, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Washington", 

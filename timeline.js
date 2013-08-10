@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Waltham", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810455, 
+      "submission": "How will Social Security & Medicare be strengthened with additional benefits for Senior Citizens?", 
+      "district": "MA_05", 
+      "created": "2013-08-10T14:00:31", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3699, 
+      "x": -71.2368, 
+      "id": 16293148, 
+      "question_id": "16188015"
+    }, 
+    {
       "city": "Copperopolis", 
       "first_name": "Anthony", 
       "last_name": "Pascual", 
@@ -289,25 +304,6 @@ opendebate.processTimeline({
       "x": -72.5986, 
       "id": 16292563, 
       "question_id": "16173921"
-    }, 
-    {
-      "city": "East Weymouth", 
-      "first_name": "Carlotta", 
-      "last_name": "Hayes", 
-      "user_id": 1806880, 
-      "submission": "What do you see as the first steps to ensure food safety for all?", 
-      "district": "MA_08", 
-      "created": "2013-08-10T11:50:33", 
-      "state_votes": 0, 
-      "votes": 1, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.2138, 
-      "x": -70.9328, 
-      "latest_vote": "2013-08-10T13:57:28", 
-      "id": 16292560, 
-      "trending_score": 1.5
     }
   ]
 });
