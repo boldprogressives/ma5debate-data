@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "How would you reform the process of drawing congressional districts so that it represents the interests of the people and does not favor any one party?", 
+      "submission": "Why is Social Security referred to by many elected Representatives and Senators in Washington as an \"entitlement\" when, first, we all pay or paid into it during all of our working years, and second, by law, normal tax revenue can not be used to fund It?  Is it because the government has used up all the money paid into Social Security over the years, and so that now the government has to raise more money to pay Social Security's current obligations?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:08:04", 
+      "created": "2013-08-10T04:09:01", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291107, 
-      "question_id": "16201951"
+      "id": 16291115, 
+      "question_id": "16180456"
     }, 
     {
       "city": "Beverly", 
       "first_name": "David", 
       "last_name": "Laverdiere", 
       "user_id": 1664612, 
-      "submission": "Will you pledge to change the current filibuster rule to what it had been in the past where a Senator had to stand and speak for the duration his/her filibuster? If not, why not?", 
+      "submission": "Will you support legislation to change our income tax so the very wealthy pay 90% of their yearly income as they did in the 1950s and 60s?", 
       "district": "MA_06", 
-      "created": "2013-08-10T04:07:51", 
+      "created": "2013-08-10T04:08:58", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.5665, 
       "x": -70.8533, 
-      "id": 16291105, 
-      "question_id": "16197620"
+      "id": 16291113, 
+      "question_id": "16172688"
     }, 
     {
       "city": "San Antonio", 
