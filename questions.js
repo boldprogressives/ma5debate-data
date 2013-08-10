@@ -6,6 +6,25 @@ opendebate.processFetchedQuestions({
       "first_name": "Nicholas", 
       "last_name": "Martino", 
       "user_id": 1810196, 
+      "submission": "I repeat an earlier question -- rephrased.  When the truth about 9/11 is known to all and it's apparent that every motherfucking one of you have been acting as accessories after the fact to mass murder while duping the children of the poor to fight, kill and die, where are you going to hide when the shooting starts?", 
+      "district": "NV_03", 
+      "created": "2013-08-10T09:23:16", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NV", 
+      "iface": "question", 
+      "y": 36.0401, 
+      "x": -115.077, 
+      "latest_vote": null, 
+      "id": 16292454, 
+      "trending_score": 0.5
+    }, 
+    {
+      "city": "Henderson", 
+      "first_name": "Nicholas", 
+      "last_name": "Martino", 
+      "user_id": 1810196, 
       "submission": "The answer to that question is, who knows and who cares, but one less Nazi war criminal walking around pretending to be a patriotic American is a start.  We have to start somewhere, and it appears that I'm the only one willing.  ", 
       "district": "NV_03", 
       "created": "2013-08-10T09:19:16", 
@@ -4692,7 +4711,7 @@ opendebate.processFetchedQuestions({
       "x": -80.8051, 
       "latest_vote": "2013-08-10T04:47:57", 
       "id": 16244527, 
-      "trending_score": 0.3333333333333333
+      "trending_score": 0.5
     }, 
     {
       "city": "Riverbank", 
@@ -5015,7 +5034,7 @@ opendebate.processFetchedQuestions({
       "x": -116.294, 
       "latest_vote": "2013-08-10T03:23:30", 
       "id": 16242348, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Albuquerque", 
@@ -5680,7 +5699,7 @@ opendebate.processFetchedQuestions({
       "x": -118.382, 
       "latest_vote": "2013-08-10T04:23:40", 
       "id": 16238835, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Germantown", 
@@ -5756,7 +5775,7 @@ opendebate.processFetchedQuestions({
       "x": -92.3808, 
       "latest_vote": "2013-08-10T04:23:36", 
       "id": 16238259, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Marietta", 
@@ -6516,7 +6535,7 @@ opendebate.processFetchedQuestions({
       "x": -97.7339, 
       "latest_vote": "2013-08-10T04:23:24", 
       "id": 16233077, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Austin", 
@@ -13869,7 +13888,7 @@ opendebate.processFetchedQuestions({
       "x": -88.2527, 
       "latest_vote": "2013-08-10T04:53:53", 
       "id": 16209598, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Kearney", 
@@ -15522,7 +15541,7 @@ opendebate.processFetchedQuestions({
       "x": -72.6301, 
       "latest_vote": "2013-08-10T07:16:46", 
       "id": 16203676, 
-      "trending_score": 3.1
+      "trending_score": 3.125
     }, 
     {
       "city": "Gloucester", 
@@ -15826,7 +15845,7 @@ opendebate.processFetchedQuestions({
       "x": -73.6893, 
       "latest_vote": "2013-08-10T03:24:13", 
       "id": 16201865, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Melbourne", 
@@ -18999,7 +19018,7 @@ opendebate.processFetchedQuestions({
       "x": -74.062, 
       "latest_vote": "2013-08-10T04:18:32", 
       "id": 16189753, 
-      "trending_score": 0.125
+      "trending_score": 0.16666666666666666
     }, 
     {
       "city": "Raleigh", 
@@ -22666,7 +22685,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1032, 
       "latest_vote": "2013-08-10T06:26:18", 
       "id": 16181013, 
-      "trending_score": 1.0
+      "trending_score": 1.5
     }, 
     {
       "city": "Cathedral City", 
@@ -22856,7 +22875,7 @@ opendebate.processFetchedQuestions({
       "x": -121.184, 
       "latest_vote": "2013-08-10T04:09:01", 
       "id": 16180456, 
-      "trending_score": 0.16666666666666666
+      "trending_score": 0.25
     }, 
     {
       "city": "Cerritos", 
@@ -24661,7 +24680,7 @@ opendebate.processFetchedQuestions({
       "x": -122.017, 
       "latest_vote": "2013-08-10T06:23:44", 
       "id": 16176917, 
-      "trending_score": 2.125
+      "trending_score": 2.1666666666666665
     }, 
     {
       "city": "Sioux Falls", 
@@ -24680,7 +24699,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7896, 
       "latest_vote": "2013-08-10T04:06:38", 
       "id": 16176855, 
-      "trending_score": 0.16666666666666666
+      "trending_score": 0.25
     }, 
     {
       "city": "Kula", 
@@ -26143,7 +26162,7 @@ opendebate.processFetchedQuestions({
       "x": -88.9093, 
       "latest_vote": "2013-08-10T05:55:29", 
       "id": 16175637, 
-      "trending_score": 3.125
+      "trending_score": 3.1666666666666665
     }, 
     {
       "city": "Mount Vernon", 
@@ -26694,7 +26713,7 @@ opendebate.processFetchedQuestions({
       "x": -89.7297, 
       "latest_vote": "2013-08-10T07:16:10", 
       "id": 16175078, 
-      "trending_score": 5.166666666666667
+      "trending_score": 5.25
     }, 
     {
       "city": "Iuka", 
@@ -27169,7 +27188,7 @@ opendebate.processFetchedQuestions({
       "x": -122.298, 
       "latest_vote": "2013-08-10T07:13:26", 
       "id": 16174466, 
-      "trending_score": 1.8333333333333333
+      "trending_score": 2.0
     }, 
     {
       "city": "Albany", 
@@ -27625,7 +27644,7 @@ opendebate.processFetchedQuestions({
       "x": -91.7189, 
       "latest_vote": "2013-08-10T03:23:22", 
       "id": 16174109, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Baraboo", 

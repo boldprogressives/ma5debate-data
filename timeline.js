@@ -6,6 +6,25 @@ opendebate.processTimeline({
       "first_name": "Nicholas", 
       "last_name": "Martino", 
       "user_id": 1810196, 
+      "submission": "I repeat an earlier question -- rephrased.  When the truth about 9/11 is known to all and it's apparent that every motherfucking one of you have been acting as accessories after the fact to mass murder while duping the children of the poor to fight, kill and die, where are you going to hide when the shooting starts?", 
+      "district": "NV_03", 
+      "created": "2013-08-10T09:23:16", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NV", 
+      "iface": "timeline_question", 
+      "y": 36.0401, 
+      "x": -115.077, 
+      "latest_vote": null, 
+      "id": 16292454, 
+      "trending_score": 0.5
+    }, 
+    {
+      "city": "Henderson", 
+      "first_name": "Nicholas", 
+      "last_name": "Martino", 
+      "user_id": 1810196, 
       "submission": "The answer to that question is, who knows and who cares, but one less Nazi war criminal walking around pretending to be a patriotic American is a start.  We have to start somewhere, and it appears that I'm the only one willing.  ", 
       "district": "NV_03", 
       "created": "2013-08-10T09:19:16", 
@@ -325,21 +344,6 @@ opendebate.processTimeline({
       "x": -77.5598, 
       "id": 16292147, 
       "question_id": "16184803"
-    }, 
-    {
-      "city": "Santa Barbara", 
-      "first_name": "Margaret", 
-      "last_name": "Chapman", 
-      "user_id": 1061818, 
-      "submission": "Will you pledge to change the current filibuster rule to what it had been in the past where a Senator had to stand and speak for the duration his/her filibuster? If not, why not?", 
-      "district": "CA_24", 
-      "created": "2013-08-10T06:13:17", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 34.4413, 
-      "x": -119.8, 
-      "id": 16292087, 
-      "question_id": "16197620"
     }
   ]
 });
