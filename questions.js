@@ -15902,7 +15902,7 @@ opendebate.processFetchedQuestions({
       "x": -78.6896, 
       "latest_vote": "2013-08-10T16:03:27", 
       "id": 16205646, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Gaithersburg", 
@@ -16358,7 +16358,7 @@ opendebate.processFetchedQuestions({
       "x": -75.9005, 
       "latest_vote": "2013-08-10T16:52:22", 
       "id": 16203822, 
-      "trending_score": 0.16666666666666666
+      "trending_score": 0.25
     }, 
     {
       "city": "Tampa", 
