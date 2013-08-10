@@ -15722,16 +15722,16 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do to get congress to work on a jobs bill instead of wasting taxpayers money trying to repeal The Affordable Healthcare Act?", 
       "district": "MA_06", 
       "created": "2013-08-06T20:07:53", 
-      "state_votes": 28, 
-      "votes": 611, 
-      "district_votes": 6, 
+      "state_votes": 29, 
+      "votes": 612, 
+      "district_votes": 7, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.6285, 
       "x": -70.6862, 
-      "latest_vote": "2013-08-10T06:11:33", 
+      "latest_vote": "2013-08-10T13:13:50", 
       "id": 16203558, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Holyoke", 
@@ -15950,16 +15950,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
       "district": "CA_12", 
       "created": "2013-08-06T19:37:02", 
-      "state_votes": 72, 
-      "votes": 650, 
-      "district_votes": 25, 
+      "state_votes": 73, 
+      "votes": 651, 
+      "district_votes": 26, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.7802, 
       "x": -122.459, 
-      "latest_vote": "2013-08-10T05:54:07", 
+      "latest_vote": "2013-08-10T13:13:43", 
       "id": 16202059, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Richfield", 
@@ -20272,7 +20272,7 @@ opendebate.processFetchedQuestions({
       "x": -82.5085, 
       "latest_vote": "2013-08-10T07:14:16", 
       "id": 16186103, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Bronx", 
@@ -25174,7 +25174,7 @@ opendebate.processFetchedQuestions({
       "x": -110.829, 
       "latest_vote": "2013-08-10T07:13:51", 
       "id": 16176673, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Idaho Falls", 
@@ -27359,7 +27359,7 @@ opendebate.processFetchedQuestions({
       "x": -122.298, 
       "latest_vote": "2013-08-10T12:52:28", 
       "id": 16174466, 
-      "trending_score": 4.25
+      "trending_score": 4.5
     }, 
     {
       "city": "Albany", 
@@ -28138,7 +28138,7 @@ opendebate.processFetchedQuestions({
       "x": -90.0296, 
       "latest_vote": "2013-08-10T07:13:40", 
       "id": 16173625, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Lubbock", 
@@ -28594,7 +28594,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-10T07:13:32", 
       "id": 16173327, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Louisville", 
@@ -30751,16 +30751,16 @@ opendebate.processFetchedQuestions({
       "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
       "district": "MA_05", 
       "created": "2013-08-03T17:00:17", 
-      "state_votes": 128, 
-      "votes": 731, 
-      "district_votes": 41, 
+      "state_votes": 129, 
+      "votes": 732, 
+      "district_votes": 42, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.366, 
       "x": -71.1035, 
-      "latest_vote": "2013-08-10T11:06:46", 
+      "latest_vote": "2013-08-10T13:13:14", 
       "id": 16172207, 
-      "trending_score": 2.0
+      "trending_score": 2.5
     }, 
     {
       "city": "Arlington", 
