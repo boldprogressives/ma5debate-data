@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Will you support a constitutional amendment stating that Social Security and Medicare cannot ever be cut?", 
+      "submission": "Will you protect Social Security And Medicare by not cutting it with the chained CPI for Social Security that has been mentioned.  Also, no cuts to Medicare but closing the donute hole 100% so seniors aren't left fending for themselves to pay full price for their drugs.", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:15:51", 
+      "created": "2013-08-10T04:16:18", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291150, 
-      "question_id": "16280510"
+      "id": 16291151, 
+      "question_id": "16175570"
     }, 
     {
       "city": "San Antonio", 
