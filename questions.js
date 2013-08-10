@@ -30475,7 +30475,7 @@ opendebate.processFetchedQuestions({
       "x": -122.589, 
       "latest_vote": "2013-08-10T18:06:10", 
       "id": 16172765, 
-      "trending_score": 9.0
+      "trending_score": 16.25
     }, 
     {
       "city": "Egg Harbor", 
@@ -31311,7 +31311,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1035, 
       "latest_vote": "2013-08-10T17:44:02", 
       "id": 16172207, 
-      "trending_score": 8.0
+      "trending_score": 14.25
     }, 
     {
       "city": "Arlington", 
