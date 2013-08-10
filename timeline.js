@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "R. Gwen", 
       "last_name": "Smith Minniti", 
       "user_id": 697062, 
-      "submission": "What will you do to support real campaign finance reform that will remove entrenched special interest money and its attendant corruption from our aspiring democracy?", 
+      "submission": "Will you oppose current efforts by House Republicans to slash the Food Stamp program as part of the current agriculture bill.", 
       "district": "GA_07", 
-      "created": "2013-08-10T01:59:00", 
+      "created": "2013-08-10T01:59:50", 
       "state": "GA", 
       "iface": "timeline_vote", 
       "y": 34.2031, 
       "x": -84.0743, 
-      "id": 16290290, 
-      "question_id": "16186239"
+      "id": 16290328, 
+      "question_id": "16193997"
     }, 
     {
       "city": "Madison", 
