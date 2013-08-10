@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "What do you think the top tax rate should be for the 1%? ", 
+      "submission": "Currently campaign finance laws allow money to dictate elections & future decisions by the elected. Would you suppor a bill that publicly funds campaigns w/ free advertising for all candidates", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:22:53", 
+      "created": "2013-08-10T05:23:59", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291867, 
-      "question_id": "16172752"
+      "id": 16291868, 
+      "question_id": "16213319"
     }, 
     {
       "city": "Stevens Point", 
