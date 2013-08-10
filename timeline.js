@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Will you vote to reinstate the FDR Glass Steagall Act?", 
+      "submission": "Would you support  every state being mandated to have early voting for a minimum of 1 week before the election to give everyone a chance to vote?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:41:56", 
+      "created": "2013-08-10T04:42:58", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291419, 
-      "question_id": "16236353"
+      "id": 16291425, 
+      "question_id": "16234459"
+    }, 
+    {
+      "city": "Phoenix", 
+      "first_name": "Lynne", 
+      "last_name": "Vestal", 
+      "user_id": 1121128, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "AZ_09", 
+      "created": "2013-08-10T04:42:54", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 33.559, 
+      "x": -112.089, 
+      "id": 16291424, 
+      "question_id": "16173264"
     }, 
     {
       "city": "Arlington", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -88.9093, 
       "id": 16290685, 
       "question_id": "16180998"
-    }, 
-    {
-      "city": "Mansfield", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1810421, 
-      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
-      "district": "MA_04", 
-      "created": "2013-08-10T03:09:25", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.0239, 
-      "x": -71.2188, 
-      "id": 16290665, 
-      "question_id": "16172690"
     }
   ]
 });
