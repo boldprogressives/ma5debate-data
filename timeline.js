@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Birmingham", 
-      "first_name": "Dot", 
-      "last_name": "Canup", 
-      "user_id": 1565077, 
-      "submission": "Why is Social Security referred to by many elected Representatives and Senators in Washington as an \"entitlement\" when, first, we all pay or paid into it during all of our working years, and second, by law, normal tax revenue can not be used to fund It?  Is it because the government has used up all the money paid into Social Security over the years, and so that now the government has to raise more money to pay Social Security's current obligations?", 
-      "district": "AL_07", 
-      "created": "2013-08-10T04:09:01", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 33.6391, 
-      "x": -86.6919, 
-      "id": 16291115, 
-      "question_id": "16180456"
-    }, 
-    {
       "city": "Beverly", 
       "first_name": "David", 
       "last_name": "Laverdiere", 
       "user_id": 1664612, 
-      "submission": "Will you support legislation to change our income tax so the very wealthy pay 90% of their yearly income as they did in the 1950s and 60s?", 
+      "submission": "Can you explain why the people responsible for the failure of Wall Street and the banking industry have not been held accountable for the destruction of our economy.", 
       "district": "MA_06", 
-      "created": "2013-08-10T04:08:58", 
+      "created": "2013-08-10T04:10:01", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.5665, 
       "x": -70.8533, 
-      "id": 16291113, 
-      "question_id": "16172688"
+      "id": 16291123, 
+      "question_id": "16201979"
+    }, 
+    {
+      "city": "Birmingham", 
+      "first_name": "Dot", 
+      "last_name": "Canup", 
+      "user_id": 1565077, 
+      "submission": "Congress persons have voted to put themselves in the driver's seat when it comes to their salaries. They vote themselves raises and we as citizens cannot over turn. What will you do to stop this practice?", 
+      "district": "AL_07", 
+      "created": "2013-08-10T04:10:00", 
+      "state": "AL", 
+      "iface": "timeline_vote", 
+      "y": 33.6391, 
+      "x": -86.6919, 
+      "id": 16291122, 
+      "question_id": "16173244"
     }, 
     {
       "city": "San Antonio", 
