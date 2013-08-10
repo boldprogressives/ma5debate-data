@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Bridget", 
       "last_name": "Burke", 
       "user_id": 1592935, 
-      "submission": "What will you do to get congress to work on a jobs bill instead of wasting taxpayers money trying to repeal The Affordable Healthcare Act?", 
+      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
       "district": "AZ_02", 
-      "created": "2013-08-10T03:07:17", 
+      "created": "2013-08-10T03:08:48", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 31.4588, 
       "x": -109.946, 
-      "id": 16290656, 
-      "question_id": "16203558"
+      "id": 16290658, 
+      "question_id": "16175634"
     }, 
     {
       "city": "Laurel", 
