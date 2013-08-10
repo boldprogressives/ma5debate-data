@@ -1291,7 +1291,7 @@ opendebate.processFetchedQuestions({
       "x": -77.0498, 
       "latest_vote": "2013-08-10T05:29:46", 
       "id": 16281369, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Medford", 
@@ -29582,7 +29582,7 @@ opendebate.processFetchedQuestions({
       "x": -91.087, 
       "latest_vote": "2013-08-10T07:12:20", 
       "id": 16172866, 
-      "trending_score": 1.1666666666666667
+      "trending_score": 1.25
     }, 
     {
       "city": "Austin", 
