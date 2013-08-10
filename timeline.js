@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "CJ", 
       "last_name": "Brennan", 
       "user_id": 993088, 
-      "submission": "Will you pledge to vote against the chained CPI", 
+      "submission": "Do you support the concept of keeping church and state separate?", 
       "district": "OR_01", 
-      "created": "2013-08-10T14:45:31", 
+      "created": "2013-08-10T14:47:03", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 45.5352, 
       "x": -122.956, 
-      "id": 16293573, 
-      "question_id": "16293538"
+      "id": 16293590, 
+      "question_id": "16173921"
     }, 
     {
       "city": "Belford", 

@@ -22278,15 +22278,15 @@ opendebate.processFetchedQuestions({
       "district": "MI_02", 
       "created": "2013-08-06T14:21:25", 
       "state_votes": 3, 
-      "votes": 43, 
+      "votes": 44, 
       "district_votes": 1, 
       "state": "MI", 
       "iface": "question", 
       "y": 42.8217, 
       "x": -86.1469, 
-      "latest_vote": "2013-08-10T14:21:58", 
+      "latest_vote": "2013-08-10T14:46:29", 
       "id": 16182122, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Boynton Beach", 
@@ -27864,15 +27864,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_02", 
       "created": "2013-08-04T14:21:20", 
       "state_votes": 135, 
-      "votes": 1005, 
+      "votes": 1006, 
       "district_votes": 35, 
       "state": "CO", 
       "iface": "question", 
       "y": 40.5342, 
       "x": -105.043, 
-      "latest_vote": "2013-08-10T14:42:53", 
+      "latest_vote": "2013-08-10T14:47:03", 
       "id": 16173921, 
-      "trending_score": 12.5
+      "trending_score": 13.5
     }, 
     {
       "city": "Fort Collins", 
@@ -29981,7 +29981,7 @@ opendebate.processFetchedQuestions({
       "x": -116.297, 
       "latest_vote": "2013-08-10T14:43:04", 
       "id": 16172697, 
-      "trending_score": 5.5
+      "trending_score": 9.25
     }, 
     {
       "city": "Holts Summit", 
@@ -30429,15 +30429,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:52:54", 
       "state_votes": 179, 
-      "votes": 1139, 
+      "votes": 1140, 
       "district_votes": 49, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4207, 
       "x": -71.1582, 
-      "latest_vote": "2013-08-10T14:42:16", 
+      "latest_vote": "2013-08-10T14:46:47", 
       "id": 16172303, 
-      "trending_score": 13.5
+      "trending_score": 14.5
     }, 
     {
       "city": "Arlington", 
@@ -30562,15 +30562,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:33:11", 
       "state_votes": 267, 
-      "votes": 1730, 
+      "votes": 1731, 
       "district_votes": 73, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-10T14:41:20", 
+      "latest_vote": "2013-08-10T14:46:59", 
       "id": 16172266, 
-      "trending_score": 12.5
+      "trending_score": 13.5
     }, 
     {
       "city": "Cambridge", 
