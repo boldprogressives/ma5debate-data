@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Leon", 
       "last_name": "Yang", 
       "user_id": 1778301, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
       "district": "CA_18", 
-      "created": "2013-08-10T16:14:52", 
+      "created": "2013-08-10T16:15:52", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 37.4055, 
       "x": -122.078, 
-      "id": 16294347, 
-      "question_id": "16172266"
+      "id": 16294353, 
+      "question_id": "16172731"
     }, 
     {
       "city": "Idyllwild", 

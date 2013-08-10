@@ -26800,15 +26800,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_08", 
       "created": "2013-08-05T01:44:45", 
       "state_votes": 98, 
-      "votes": 1070, 
+      "votes": 1071, 
       "district_votes": 34, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.174, 
       "x": -87.9643, 
-      "latest_vote": "2013-08-10T15:54:40", 
+      "latest_vote": "2013-08-10T16:15:27", 
       "id": 16175740, 
-      "trending_score": 8.0
+      "trending_score": 8.5
     }, 
     {
       "city": "Buffalo Grove", 
@@ -29593,15 +29593,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_10", 
       "created": "2013-08-04T00:59:23", 
       "state_votes": 187, 
-      "votes": 1352, 
+      "votes": 1353, 
       "district_votes": 46, 
       "state": "TX", 
       "iface": "question", 
       "y": 30.3972, 
       "x": -97.7518, 
-      "latest_vote": "2013-08-10T16:14:03", 
+      "latest_vote": "2013-08-10T16:15:37", 
       "id": 16173210, 
-      "trending_score": 16.125
+      "trending_score": 17.125
     }, 
     {
       "city": "Cottonwood", 
@@ -30467,15 +30467,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:21:20", 
       "state_votes": 123, 
-      "votes": 1074, 
+      "votes": 1075, 
       "district_votes": 25, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.5746, 
       "x": -122.811, 
-      "latest_vote": "2013-08-10T15:54:31", 
+      "latest_vote": "2013-08-10T16:15:52", 
       "id": 16172731, 
-      "trending_score": 14.5
+      "trending_score": 15.5
     }, 
     {
       "city": "Chicago", 
