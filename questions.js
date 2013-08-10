@@ -14059,7 +14059,7 @@ opendebate.processFetchedQuestions({
       "x": -99.16, 
       "latest_vote": "2013-08-10T07:15:03", 
       "id": 16209412, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "El Cajon", 
@@ -16244,7 +16244,7 @@ opendebate.processFetchedQuestions({
       "x": -122.074, 
       "latest_vote": "2013-08-10T06:14:50", 
       "id": 16201353, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Cincinnati", 
@@ -16320,7 +16320,7 @@ opendebate.processFetchedQuestions({
       "x": -72.7291, 
       "latest_vote": "2013-08-10T07:14:33", 
       "id": 16201159, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Saint Cloud", 
@@ -20253,7 +20253,7 @@ opendebate.processFetchedQuestions({
       "x": -82.5085, 
       "latest_vote": "2013-08-10T07:14:16", 
       "id": 16186103, 
-      "trending_score": 0.16666666666666666
+      "trending_score": 0.25
     }, 
     {
       "city": "Bronx", 
@@ -21260,7 +21260,7 @@ opendebate.processFetchedQuestions({
       "x": -73.9703, 
       "latest_vote": "2013-08-10T06:15:11", 
       "id": 16183913, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Venice", 
@@ -21469,7 +21469,7 @@ opendebate.processFetchedQuestions({
       "x": -73.9491, 
       "latest_vote": "2013-08-10T06:14:41", 
       "id": 16183533, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Sudbury", 
@@ -21545,7 +21545,7 @@ opendebate.processFetchedQuestions({
       "x": -73.7091, 
       "latest_vote": "2013-08-10T06:14:19", 
       "id": 16183435, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Newark", 
@@ -30304,7 +30304,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T07:14:47", 
       "id": 16172583, 
-      "trending_score": 0.5
+      "trending_score": 0.16666666666666666
     }, 
     {
       "city": "ARLINGTON", 
