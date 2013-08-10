@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Will you support labeling of GMOs (genetically modified organisms) so the people can choose whether or not they want to eat them?", 
+      "submission": "What will you do to promote background checks for potential gun owners?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:49:42", 
+      "created": "2013-08-10T04:51:03", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291466, 
-      "question_id": "16220874"
+      "id": 16291493, 
+      "question_id": "16211475"
     }, 
     {
       "city": "Phoenix", 
       "first_name": "Lynne", 
       "last_name": "Vestal", 
       "user_id": 1121128, 
-      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
+      "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
       "district": "AZ_09", 
-      "created": "2013-08-10T04:49:31", 
+      "created": "2013-08-10T04:50:38", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 33.559, 
       "x": -112.089, 
-      "id": 16291465, 
-      "question_id": "16202059"
+      "id": 16291468, 
+      "question_id": "16173320"
     }, 
     {
       "city": "Cleveland", 
