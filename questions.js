@@ -1264,15 +1264,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_10", 
       "created": "2013-08-09T19:52:40", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "FL", 
       "iface": "question", 
       "y": 28.5359, 
       "x": -81.7638, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-10T13:06:17", 
       "id": 16282376, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Philadelphia", 
@@ -29050,7 +29050,7 @@ opendebate.processFetchedQuestions({
       "x": -97.7518, 
       "latest_vote": "2013-08-10T11:08:02", 
       "id": 16173210, 
-      "trending_score": 4.25
+      "trending_score": 2.0
     }, 
     {
       "city": "Cottonwood", 
@@ -29582,7 +29582,7 @@ opendebate.processFetchedQuestions({
       "x": -114.294, 
       "latest_vote": "2013-08-10T12:40:47", 
       "id": 16172913, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Montegut", 
@@ -29867,7 +29867,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5959, 
       "latest_vote": "2013-08-10T13:01:10", 
       "id": 16172755, 
-      "trending_score": 7.5
+      "trending_score": 4.0
     }, 
     {
       "city": "Richardson", 
@@ -29943,7 +29943,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5544, 
       "latest_vote": "2013-08-10T12:51:27", 
       "id": 16172727, 
-      "trending_score": 5.5
+      "trending_score": 3.0
     }, 
     {
       "city": "Waldport", 
@@ -30456,7 +30456,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T12:51:50", 
       "id": 16172533, 
-      "trending_score": 5.166666666666667
+      "trending_score": 2.3333333333333335
     }, 
     {
       "city": "Medford", 

@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Clermont", 
+      "first_name": "eileen", 
+      "last_name": "fleming", 
+      "user_id": 1810342, 
+      "submission": "Will you earn your Nobel and end US collusion in Israel's Nuclear Deceptions and military occupation of Palestine?Learn More:http://www.causes.com/VANUNUhttp://wearewideawake.org/", 
+      "district": "FL_10", 
+      "created": "2013-08-10T13:06:17", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 28.5359, 
+      "x": -81.7638, 
+      "id": 16292628, 
+      "question_id": "16282376"
+    }, 
+    {
       "city": "Midlothian", 
       "first_name": "thomas", 
       "last_name": "deceault", 
@@ -313,25 +328,6 @@ opendebate.processTimeline({
       "x": -82.8357, 
       "id": 16292494, 
       "question_id": "16173210"
-    }, 
-    {
-      "city": "Killeen", 
-      "first_name": "George", 
-      "last_name": "Dare", 
-      "user_id": 1771655, 
-      "submission": "When are we going to have the 266 million voters bribed by lobbyists rather than just the 535 Congressional representatives??", 
-      "district": "TX_31", 
-      "created": "2013-08-10T10:54:37", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "TX", 
-      "iface": "timeline_question", 
-      "y": 31.1198, 
-      "x": -97.7297, 
-      "latest_vote": null, 
-      "id": 16292476, 
-      "trending_score": 0.5
     }
   ]
 });
