@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Cleveland", 
-      "first_name": "Ernest", 
-      "last_name": "Montoro", 
-      "user_id": 1686159, 
-      "submission": "Will you introduce legislation or a rules change -- whichever it takes -- that will mean Congress and their families must be subject to the same laws it passes for other citizens?  If not, why not?", 
-      "district": "OH_09", 
-      "created": "2013-08-10T04:47:57", 
-      "state": "OH", 
-      "iface": "timeline_vote", 
-      "y": 41.3872, 
-      "x": -81.7022, 
-      "id": 16291454, 
-      "question_id": "16244527"
-    }, 
-    {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Will you go on record to oppose chained CPI?", 
+      "submission": "Would you consider legislation that reduces tax breaks to multinational corporations that send manufacturing jobs outside of the USA.", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:47:41", 
+      "created": "2013-08-10T04:48:45", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291452, 
-      "question_id": "16225266"
+      "id": 16291463, 
+      "question_id": "16223764"
+    }, 
+    {
+      "city": "Cleveland", 
+      "first_name": "Ernest", 
+      "last_name": "Montoro", 
+      "user_id": 1686159, 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "district": "OH_09", 
+      "created": "2013-08-10T04:48:40", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 41.3872, 
+      "x": -81.7022, 
+      "id": 16291462, 
+      "question_id": "16172281"
     }, 
     {
       "city": "Phoenix", 
