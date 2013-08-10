@@ -2,6 +2,25 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "New York", 
+      "first_name": "Jake", 
+      "last_name": "Jacobs", 
+      "user_id": 453227, 
+      "submission": "In future years, who will pay to repair the hundreds of thousands of compromised, eroded concrete linings used in fracking?", 
+      "district": "NY_10", 
+      "created": "2013-08-10T15:05:38", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NY", 
+      "iface": "question", 
+      "y": 40.7865, 
+      "x": -73.9786, 
+      "latest_vote": null, 
+      "id": 16293808, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Indian Orchard", 
       "first_name": "Miguel", 
       "last_name": "Soto", 
@@ -29384,15 +29403,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_10", 
       "created": "2013-08-04T00:59:23", 
       "state_votes": 187, 
-      "votes": 1346, 
+      "votes": 1347, 
       "district_votes": 46, 
       "state": "TX", 
       "iface": "question", 
       "y": 30.3972, 
       "x": -97.7518, 
-      "latest_vote": "2013-08-10T14:56:59", 
+      "latest_vote": "2013-08-10T15:05:50", 
       "id": 16173210, 
-      "trending_score": 7.0
+      "trending_score": 7.5
     }, 
     {
       "city": "Cottonwood", 
@@ -29916,15 +29935,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T23:23:07", 
       "state_votes": 186, 
-      "votes": 1264, 
+      "votes": 1265, 
       "district_votes": 49, 
       "state": "MT", 
       "iface": "question", 
       "y": 48.2112, 
       "x": -114.294, 
-      "latest_vote": "2013-08-10T15:00:16", 
+      "latest_vote": "2013-08-10T15:06:00", 
       "id": 16172913, 
-      "trending_score": 17.5
+      "trending_score": 18.5
     }, 
     {
       "city": "Montegut", 
@@ -30201,15 +30220,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:27:03", 
       "state_votes": 199, 
-      "votes": 1503, 
+      "votes": 1504, 
       "district_votes": 51, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.6267, 
       "x": -87.5959, 
-      "latest_vote": "2013-08-10T14:56:21", 
+      "latest_vote": "2013-08-10T15:05:15", 
       "id": 16172755, 
-      "trending_score": 10.0
+      "trending_score": 10.5
     }, 
     {
       "city": "Richardson", 
@@ -30277,15 +30296,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:20:39", 
       "state_votes": 174, 
-      "votes": 1470, 
+      "votes": 1471, 
       "district_votes": 45, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.7162, 
       "x": -87.5544, 
-      "latest_vote": "2013-08-10T15:00:57", 
+      "latest_vote": "2013-08-10T15:05:18", 
       "id": 16172727, 
-      "trending_score": 7.0
+      "trending_score": 7.5
     }, 
     {
       "city": "Waldport", 
@@ -30790,15 +30809,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T20:45:26", 
       "state_votes": 209, 
-      "votes": 1354, 
+      "votes": 1355, 
       "district_votes": 58, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-10T15:01:06", 
+      "latest_vote": "2013-08-10T15:05:31", 
       "id": 16172533, 
-      "trending_score": 9.5
+      "trending_score": 10.0
     }, 
     {
       "city": "Medford", 

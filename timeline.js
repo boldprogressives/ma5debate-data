@@ -6,15 +6,34 @@ opendebate.processTimeline({
       "first_name": "Colleen", 
       "last_name": "Sattelmaier", 
       "user_id": 1691702, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
       "district": "OH_14", 
-      "created": "2013-08-10T15:04:54", 
+      "created": "2013-08-10T15:06:00", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 41.5975, 
       "x": -81.0504, 
-      "id": 16293798, 
-      "question_id": "16173264"
+      "id": 16293811, 
+      "question_id": "16172913"
+    }, 
+    {
+      "city": "New York", 
+      "first_name": "Jake", 
+      "last_name": "Jacobs", 
+      "user_id": 453227, 
+      "submission": "In future years, who will pay to repair the hundreds of thousands of compromised, eroded concrete linings used in fracking?", 
+      "district": "NY_10", 
+      "created": "2013-08-10T15:05:38", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NY", 
+      "iface": "timeline_question", 
+      "y": 40.7865, 
+      "x": -73.9786, 
+      "latest_vote": null, 
+      "id": 16293808, 
+      "trending_score": 0.5
     }, 
     {
       "city": "Bend", 
@@ -329,21 +348,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16293748, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Waltham", 
-      "first_name": "Dee", 
-      "last_name": "McGann", 
-      "user_id": 1810162, 
-      "submission": "Because of the recent abuses of EBT cards, what are your plans to combat welfare fraud?", 
-      "district": "MA_05", 
-      "created": "2013-08-10T14:58:12", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.398, 
-      "x": -71.2203, 
-      "id": 16293728, 
-      "question_id": "16259255"
     }
   ]
 });
