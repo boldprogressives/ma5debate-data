@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Birmingham", 
-      "first_name": "Dot", 
-      "last_name": "Canup", 
-      "user_id": 1565077, 
-      "submission": "What will you do SPECIFICALLY about women's issues: reproductive rights, equal pay, violence against women, military violence against women, family caregiving, etc. etc. etc.?", 
-      "district": "AL_07", 
-      "created": "2013-08-10T05:17:51", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 33.6391, 
-      "x": -86.6919, 
-      "id": 16291841, 
-      "question_id": "16175552"
-    }, 
-    {
       "city": "Wenatchee", 
       "first_name": "James", 
       "last_name": "Davis", 
       "user_id": 1677736, 
-      "submission": "Would you support replacing \"Obamacare\" with single-payer coverage (Medicare for All)?", 
+      "submission": "Serving in Congress is not a career.  Will you vote for term limits?", 
       "district": "WA_08", 
-      "created": "2013-08-10T05:17:46", 
+      "created": "2013-08-10T05:19:01", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 47.4275, 
       "x": -120.333, 
-      "id": 16291840, 
-      "question_id": "16175729"
+      "id": 16291847, 
+      "question_id": "16173323"
+    }, 
+    {
+      "city": "Stevens Point", 
+      "first_name": "Bruce Hall", 
+      "last_name": "1600 Brawley, Apt 4", 
+      "user_id": 1066307, 
+      "submission": "Will you fight to protect voting rights of all Americans?", 
+      "district": "WI_03", 
+      "created": "2013-08-10T05:18:55", 
+      "state": "WI", 
+      "iface": "timeline_vote", 
+      "y": 44.543, 
+      "x": -89.5645, 
+      "id": 16291846, 
+      "question_id": "16201559"
+    }, 
+    {
+      "city": "Birmingham", 
+      "first_name": "Dot", 
+      "last_name": "Canup", 
+      "user_id": 1565077, 
+      "submission": "Dear candidates: how can we keep the progress we've made in  getting health care for all people, not just those who can afford it?", 
+      "district": "AL_07", 
+      "created": "2013-08-10T05:18:53", 
+      "state": "AL", 
+      "iface": "timeline_vote", 
+      "y": 33.6391, 
+      "x": -86.6919, 
+      "id": 16291845, 
+      "question_id": "16173412"
     }, 
     {
       "city": "Phoenix", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -74.4327, 
       "id": 16290735, 
       "question_id": "16243019"
-    }, 
-    {
-      "city": "Loyalton", 
-      "first_name": "Michael", 
-      "last_name": "Moore", 
-      "user_id": 1736586, 
-      "submission": "Would you support ending ALL corporate welfare.The taxpayers should not have to finance our own destruction.Our tax's are used to ship jobs overseas, destroy small farms + business's, pollute our air + water, deny our children access to quality education, ect.", 
-      "district": "CA_01", 
-      "created": "2013-08-10T03:20:05", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 39.67, 
-      "x": -120.237, 
-      "id": 16290730, 
-      "question_id": "16217791"
     }
   ]
 });
