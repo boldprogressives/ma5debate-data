@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Birmingham", 
+      "first_name": "Dot", 
+      "last_name": "Canup", 
+      "user_id": 1565077, 
+      "submission": "What, specifically, would you do to protect the right to vote for all? Please address specifically a new Voting Rights Act and the concept of a paper ballot that can be verified by the voter.", 
+      "district": "AL_07", 
+      "created": "2013-08-10T04:55:54", 
+      "state": "AL", 
+      "iface": "timeline_vote", 
+      "y": 33.6391, 
+      "x": -86.6919, 
+      "id": 16291766, 
+      "question_id": "16207107"
+    }, 
+    {
+      "city": "San Antonio", 
+      "first_name": "Damon", 
+      "last_name": "Mason", 
+      "user_id": 1783359, 
+      "submission": "What will you do to emulate Amtrak's Auto-Train interurban rail service ALL OVER the United States with the emphatic blessing of both Union Pacific and \u00bbBurlington Northern-Santa Fe\u00ab?", 
+      "district": "TX_20", 
+      "created": "2013-08-10T04:55:07", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 29.4672, 
+      "x": -98.53, 
+      "id": 16291761, 
+      "question_id": "16178120"
+    }, 
+    {
       "city": "Phoenix", 
       "first_name": "Lynne", 
       "last_name": "Vestal", 
@@ -34,21 +64,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16291700, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Birmingham", 
-      "first_name": "Dot", 
-      "last_name": "Canup", 
-      "user_id": 1565077, 
-      "submission": "Why should SCOTUS justices or their families be involved in such misinformation campaigns as Groundswell when other judges are forbidden to do this?  What do you think about efforts to suppress votes?", 
-      "district": "AL_07", 
-      "created": "2013-08-10T04:53:53", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 33.6391, 
-      "x": -86.6919, 
-      "id": 16291685, 
-      "question_id": "16209598"
     }, 
     {
       "city": "Cleveland", 
@@ -94,21 +109,6 @@ opendebate.processTimeline({
       "x": -120.537, 
       "id": 16291239, 
       "question_id": "16173264"
-    }, 
-    {
-      "city": "San Antonio", 
-      "first_name": "Damon", 
-      "last_name": "Mason", 
-      "user_id": 1783359, 
-      "submission": "Will you support a foreign policy that is based on mutual respect (especially in Latin America) rather than on domination", 
-      "district": "TX_20", 
-      "created": "2013-08-10T04:30:22", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 29.4672, 
-      "x": -98.53, 
-      "id": 16291203, 
-      "question_id": "16177937"
     }, 
     {
       "city": "Beverly", 
