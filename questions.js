@@ -3391,16 +3391,16 @@ opendebate.processFetchedQuestions({
       "submission": "Because of the recent abuses of EBT cards, what are your plans to combat welfare fraud?", 
       "district": "MA_05", 
       "created": "2013-08-09T02:58:13", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
+      "state_votes": 1, 
+      "votes": 1, 
+      "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.398, 
       "x": -71.2203, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-10T14:58:12", 
       "id": 16259255, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Winchester", 
@@ -10441,15 +10441,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_02", 
       "created": "2013-08-07T18:37:57", 
       "state_votes": 3, 
-      "votes": 37, 
+      "votes": 38, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.2541, 
       "x": -71.7731, 
-      "latest_vote": "2013-08-09T21:11:22", 
+      "latest_vote": "2013-08-10T14:58:42", 
       "id": 16219940, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Worcester", 
@@ -22848,15 +22848,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-06T13:36:44", 
       "state_votes": 14, 
-      "votes": 152, 
+      "votes": 153, 
       "district_votes": 3, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4213, 
       "x": -71.1134, 
-      "latest_vote": "2013-08-10T14:44:50", 
+      "latest_vote": "2013-08-10T14:58:36", 
       "id": 16181276, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Arlington", 
@@ -28947,15 +28947,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:25:59", 
       "state_votes": 248, 
-      "votes": 1683, 
+      "votes": 1684, 
       "district_votes": 78, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-10T14:55:39", 
+      "latest_vote": "2013-08-10T14:58:58", 
       "id": 16173264, 
-      "trending_score": 18.5
+      "trending_score": 19.5
     }, 
     {
       "city": "Prosper", 
@@ -28966,15 +28966,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:22:04", 
       "state_votes": 154, 
-      "votes": 1117, 
+      "votes": 1118, 
       "district_votes": 38, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-10T14:56:59", 
+      "latest_vote": "2013-08-10T14:58:19", 
       "id": 16173259, 
-      "trending_score": 16.5
+      "trending_score": 17.5
     }, 
     {
       "city": "Manitowoc", 
@@ -30049,15 +30049,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:21:20", 
       "state_votes": 123, 
-      "votes": 1067, 
+      "votes": 1068, 
       "district_votes": 25, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.5746, 
       "x": -122.811, 
-      "latest_vote": "2013-08-10T14:49:15", 
+      "latest_vote": "2013-08-10T14:58:42", 
       "id": 16172731, 
-      "trending_score": 7.5
+      "trending_score": 8.5
     }, 
     {
       "city": "Chicago", 
