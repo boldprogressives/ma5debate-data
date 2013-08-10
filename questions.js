@@ -8036,7 +8036,7 @@ opendebate.processFetchedQuestions({
       "x": -71.0253, 
       "latest_vote": "2013-08-10T04:13:34", 
       "id": 16225264, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Westfield", 
@@ -8397,7 +8397,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1765, 
       "latest_vote": "2013-08-10T04:13:44", 
       "id": 16224940, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Trumbull", 
@@ -21412,7 +21412,7 @@ opendebate.processFetchedQuestions({
       "x": -75.7463, 
       "latest_vote": "2013-08-10T07:16:35", 
       "id": 16183415, 
-      "trending_score": 2.5
+      "trending_score": 1.75
     }, 
     {
       "city": "UNIO PIER", 
@@ -24471,7 +24471,7 @@ opendebate.processFetchedQuestions({
       "x": -123.188, 
       "latest_vote": "2013-08-10T05:13:48", 
       "id": 16177784, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Littleton", 
@@ -24585,7 +24585,7 @@ opendebate.processFetchedQuestions({
       "x": -105.967, 
       "latest_vote": "2013-08-10T06:36:28", 
       "id": 16177435, 
-      "trending_score": 1.5
+      "trending_score": 1.25
     }, 
     {
       "city": "West Plains", 
