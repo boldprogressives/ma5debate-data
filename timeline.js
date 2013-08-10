@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "How can we get rid of corporate lobbyists.  They buy the politicians which, in most cases, is neither good for the planet or the populous.", 
+      "submission": "Will you support reasonable changes in our gun laws?", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:39:46", 
+      "created": "2013-08-10T05:40:48", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291940, 
-      "question_id": "16243690"
+      "id": 16291944, 
+      "question_id": "16234792"
     }, 
     {
       "city": "Winchester", 
