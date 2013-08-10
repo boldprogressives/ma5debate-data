@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "How realistic is it that Wall Street/Banks will ever be held criminally accountable for the destruction it did to Americans and the ecomony?", 
+      "submission": "Would you support Medicare paying for dental care?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:29:48", 
+      "created": "2013-08-10T04:30:58", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291196, 
-      "question_id": "16173397"
+      "id": 16291206, 
+      "question_id": "16174466"
     }, 
     {
       "city": "San Antonio", 
       "first_name": "Damon", 
       "last_name": "Mason", 
       "user_id": 1783359, 
-      "submission": "can we expect any wall street arrests any time soon?", 
+      "submission": "Will you support a foreign policy that is based on mutual respect (especially in Latin America) rather than on domination", 
       "district": "TX_20", 
-      "created": "2013-08-10T04:28:36", 
+      "created": "2013-08-10T04:30:22", 
       "state": "TX", 
       "iface": "timeline_vote", 
       "y": 29.4672, 
       "x": -98.53, 
-      "id": 16291190, 
-      "question_id": "16176007"
+      "id": 16291203, 
+      "question_id": "16177937"
     }, 
     {
       "city": "Beverly", 
