@@ -6,30 +6,45 @@ opendebate.processTimeline({
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Will you do everything you possibly can to eliminate all subsidies to the fossil fuel industry while promoting and supporting clean, renewable energy sources?", 
+      "submission": "Will you totally repeal the Patriot Act.?", 
       "district": "NM_03", 
-      "created": "2013-08-10T00:05:04", 
+      "created": "2013-08-10T00:06:00", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16288676, 
-      "question_id": "16178291"
+      "id": 16288687, 
+      "question_id": "16178788"
     }, 
     {
       "city": "El Prado", 
       "first_name": "Janet", 
       "last_name": "Anderson", 
       "user_id": 1725594, 
-      "submission": "Would you support a living wage law that would force corporations, like Wal-Mart, whose Walton family owns more wealth than 40% of all Americans, to pay  living wages to all of their workers?", 
+      "submission": "Why is it that Halliburton only gets a $200K fine for destroying evidence concerning the Gulf oil spill when if you make a copy of a DVD you get a $250K fine and up to 5 years in prison?", 
       "district": "NM_03", 
-      "created": "2013-08-10T00:04:41", 
+      "created": "2013-08-10T00:05:55", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16288674, 
-      "question_id": "16210264"
+      "id": 16288685, 
+      "question_id": "16175493"
+    }, 
+    {
+      "city": "Charleston", 
+      "first_name": "Susan", 
+      "last_name": "Nial", 
+      "user_id": 116771, 
+      "submission": "As the Supreme Court has limited individual human rights, it has expanded and strengthen the \"rights\" of corporations.  What steps would you take to redress this balance?", 
+      "district": "SC_01", 
+      "created": "2013-08-10T00:05:36", 
+      "state": "SC", 
+      "iface": "timeline_vote", 
+      "y": 32.8001, 
+      "x": -80.0109, 
+      "id": 16288682, 
+      "question_id": "16235193"
     }, 
     {
       "city": "Portland", 
@@ -297,25 +312,6 @@ opendebate.processTimeline({
       "x": -77.6551, 
       "id": 16287898, 
       "question_id": "16172286"
-    }, 
-    {
-      "city": "Warren", 
-      "first_name": "Sally", 
-      "last_name": "Eaton", 
-      "user_id": 815761, 
-      "submission": "Do you understand that women are over 50% of the population and a much larger percentage of them vote than men?  Do you understand that to deny women's reproductive and civil rights is irresponsible and short-sighted for any politician who wishes to serve the majority of his fellow citizens AND retain his office? Let's have a Right-To-Privacy Amendment to the US Constitution!", 
-      "district": "PA_05", 
-      "created": "2013-08-09T23:32:46", 
-      "state_votes": 0, 
-      "votes": 2, 
-      "district_votes": 0, 
-      "state": "PA", 
-      "iface": "timeline_question", 
-      "y": 41.8543, 
-      "x": -79.1594, 
-      "latest_vote": "2013-08-10T00:02:59", 
-      "id": 16287896, 
-      "trending_score": 2.5
     }
   ]
 });
