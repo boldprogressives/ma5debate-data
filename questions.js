@@ -15332,7 +15332,7 @@ opendebate.processFetchedQuestions({
       "x": -79.9806, 
       "latest_vote": "2013-08-10T15:48:57", 
       "id": 16207107, 
-      "trending_score": 3.0
+      "trending_score": 5.166666666666667
     }, 
     {
       "city": "Asheville", 
@@ -15712,7 +15712,7 @@ opendebate.processFetchedQuestions({
       "x": -77.4268, 
       "latest_vote": "2013-08-10T15:49:00", 
       "id": 16205884, 
-      "trending_score": 1.5
+      "trending_score": 2.1666666666666665
     }, 
     {
       "city": "McKinleyville", 
@@ -15902,7 +15902,7 @@ opendebate.processFetchedQuestions({
       "x": -77.2402, 
       "latest_vote": "2013-08-10T13:22:51", 
       "id": 16205617, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Granite Falls", 
@@ -26922,7 +26922,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9643, 
       "latest_vote": "2013-08-10T16:55:16", 
       "id": 16175740, 
-      "trending_score": 8.0
+      "trending_score": 15.166666666666666
     }, 
     {
       "city": "Buffalo Grove", 
@@ -28024,7 +28024,7 @@ opendebate.processFetchedQuestions({
       "x": -122.298, 
       "latest_vote": "2013-08-10T16:47:38", 
       "id": 16174466, 
-      "trending_score": 5.0
+      "trending_score": 8.25
     }, 
     {
       "city": "Albany", 
@@ -29183,7 +29183,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-10T17:42:20", 
       "id": 16173335, 
-      "trending_score": 11.0
+      "trending_score": 20.25
     }, 
     {
       "city": "Evansville", 
@@ -29487,7 +29487,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T17:42:30", 
       "id": 16173259, 
-      "trending_score": 9.833333333333334
+      "trending_score": 13.0
     }, 
     {
       "city": "Manitowoc", 
@@ -30570,7 +30570,7 @@ opendebate.processFetchedQuestions({
       "x": -122.811, 
       "latest_vote": "2013-08-10T17:11:47", 
       "id": 16172731, 
-      "trending_score": 8.5
+      "trending_score": 16.166666666666668
     }, 
     {
       "city": "Chicago", 
