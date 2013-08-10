@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Margaret", 
       "last_name": "Chapman", 
       "user_id": 1061818, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
+      "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
       "district": "CA_24", 
-      "created": "2013-08-10T06:12:03", 
+      "created": "2013-08-10T06:12:59", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 34.4413, 
       "x": -119.8, 
-      "id": 16292075, 
-      "question_id": "16175740"
+      "id": 16292084, 
+      "question_id": "16173320"
     }, 
     {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Why do you think government no longer represents working class Americans, and what are the necessary changes needed to remedy that situation?", 
+      "submission": "Where do you stand on a Federal Cap & Trade Plan on Carbon and Green House Gasses?", 
       "district": "AL_07", 
-      "created": "2013-08-10T06:11:47", 
+      "created": "2013-08-10T06:12:45", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292073, 
-      "question_id": "16185937"
+      "id": 16292082, 
+      "question_id": "16188461"
     }, 
     {
       "city": "Las Vegas", 
