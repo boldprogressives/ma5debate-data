@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Bloomington", 
+      "first_name": "Jim", 
+      "last_name": "Young", 
+      "user_id": 1770393, 
+      "submission": "What steps will you take to restore livable wages to the shredded middle class, and to restore our voting rights?", 
+      "district": "CA_35", 
+      "created": "2013-08-10T14:40:00", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 34.0699, 
+      "x": -117.397, 
+      "id": 16293509, 
+      "question_id": "16172657"
+    }, 
+    {
       "city": "Chicago", 
       "first_name": "Peter", 
       "last_name": "Moxon", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -87.6365, 
       "id": 16293502, 
       "question_id": "16203676"
-    }, 
-    {
-      "city": "Bloomington", 
-      "first_name": "Jim", 
-      "last_name": "Young", 
-      "user_id": 1770393, 
-      "submission": "What will you do to overturn Citizen's United?", 
-      "district": "CA_35", 
-      "created": "2013-08-10T14:37:49", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 34.0699, 
-      "x": -117.397, 
-      "id": 16293500, 
-      "question_id": "16172765"
     }, 
     {
       "city": "Wilmington", 

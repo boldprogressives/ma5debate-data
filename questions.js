@@ -78,25 +78,6 @@ opendebate.processFetchedQuestions({
       "trending_score": 0.5
     }, 
     {
-      "city": "Henderson", 
-      "first_name": "Nicholas", 
-      "last_name": "Martino", 
-      "user_id": 1810196, 
-      "submission": "I'm hung up on the lack of math skills in this country.  here's an easy one.  If a patriot who had rightly concluded that our government has been hijacked by Nazi terrorists who killed 3000 of their own in cold blood on 9/11 and entered the Capitol with an AK-47, how many 30-round clips would he need to execute the entire lot of traitors pretending to be decent Americans?", 
-      "district": "NV_03", 
-      "created": "2013-08-10T12:32:08", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "NV", 
-      "iface": "question", 
-      "y": 36.0401, 
-      "x": -115.077, 
-      "latest_vote": null, 
-      "id": 16292579, 
-      "trending_score": 0.5
-    }, 
-    {
       "city": "East Weymouth", 
       "first_name": "Carlotta", 
       "last_name": "Hayes", 
@@ -116,63 +97,6 @@ opendebate.processFetchedQuestions({
       "trending_score": 2.5
     }, 
     {
-      "city": "Henderson", 
-      "first_name": "Nicholas", 
-      "last_name": "Martino", 
-      "user_id": 1810196, 
-      "submission": "When are the insane Nazi war criminals in the CIA going to strike again and how many will they kill this time?  Will they kill every single intelligent American who has a conscience and who has looked at the mountain of evidence they left at the WTC crime scene.  Earth to insane Nazi war criminals.  WE KNOW.  We aren't theorizing or guessing.  You didn't get away with it, and if you think you're going to shove it down our throats without bloodshed, you ARE insane.  ", 
-      "district": "NV_03", 
-      "created": "2013-08-10T11:45:12", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "NV", 
-      "iface": "question", 
-      "y": 36.0401, 
-      "x": -115.077, 
-      "latest_vote": null, 
-      "id": 16292557, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Henderson", 
-      "first_name": "Nicholas", 
-      "last_name": "Martino", 
-      "user_id": 1810196, 
-      "submission": "Is there a timetable for when the Fourth Reich nazi war criminals who have hijacked our government will finally come out from behind the curtains and proudly start goose-stepping to the tune of Deutchland Detchland Uber Alles?  Seriously, how much longer do you assholes think this charade can continue?  You killed 3000 innocent people in cold blood and did it in a manner that anyone with an IQ over 50 could see it and since, you've been spying on everyone just to make sure we won't just hunt you down and kill you, as we should.  Do you think THIS lie is sustainable?  Are you THAT criminally insane?", 
-      "district": "NV_03", 
-      "created": "2013-08-10T11:40:34", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "NV", 
-      "iface": "question", 
-      "y": 36.0401, 
-      "x": -115.077, 
-      "latest_vote": null, 
-      "id": 16292553, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Henderson", 
-      "first_name": "Nicholas", 
-      "last_name": "Martino", 
-      "user_id": 1810196, 
-      "submission": "More on the sad state of math and science in this country.  How many liters of cyanide would be needed to execute all 535 members of Congress once they are exposed as Fourth reich Nazi war criminals for their role in perpetuating the coverup of 9/11 and allowing thousands of other young men and women to be duped into enlisting on the basis of the false flag operation.  All told, close to 20,000 Americans have died horrible deaths due to nazi insanity.  Estimates of innocent deaths abroad are about 1 million.  You pices of Nazi filth should be tortured and then killed, but we'll settle for seeing every last one of you executed.", 
-      "district": "NV_03", 
-      "created": "2013-08-10T11:35:26", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "NV", 
-      "iface": "question", 
-      "y": 36.0401, 
-      "x": -115.077, 
-      "latest_vote": null, 
-      "id": 16292546, 
-      "trending_score": 0.5
-    }, 
-    {
       "city": "East Weymouth", 
       "first_name": "Carlotta", 
       "last_name": "Hayes", 
@@ -189,25 +113,6 @@ opendebate.processFetchedQuestions({
       "x": -70.9328, 
       "latest_vote": null, 
       "id": 16292545, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Henderson", 
-      "first_name": "Nicholas", 
-      "last_name": "Martino", 
-      "user_id": 1810196, 
-      "submission": "If a patriot hunts down and executes one of your \"colleagues\", a 4th Reich Nazi war criminal posing as a \"public official\" who has committed treason, aided and abetted terrorists, acted as a an accessory after the fact to mass murder on 9/11 by perpetuating the cover-up and in so doing put the lives of every young man and women who has been or might be duped into enlisting at grave risk, would you... (a) pin an iron cross on him and attend the state funeral, (b) find a safe place to hide in South America, or (c) rejoice as the free people of the country throw his worthless Nazi carcass into a pit of fire? ", 
-      "district": "NV_03", 
-      "created": "2013-08-10T10:58:10", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "NV", 
-      "iface": "question", 
-      "y": 36.0401, 
-      "x": -115.077, 
-      "latest_vote": null, 
-      "id": 16292495, 
       "trending_score": 0.5
     }, 
     {
@@ -247,63 +152,6 @@ opendebate.processFetchedQuestions({
       "latest_vote": "2013-08-10T14:30:58", 
       "id": 16292474, 
       "trending_score": 1.5
-    }, 
-    {
-      "city": "Henderson", 
-      "first_name": "Nicholas", 
-      "last_name": "Martino", 
-      "user_id": 1810196, 
-      "submission": "I repeat an earlier question -- rephrased.  When the truth about 9/11 is known to all and it's apparent that every motherfucking one of you have been acting as accessories after the fact to mass murder while duping the children of the poor to fight, kill and die, where are you going to hide when the shooting starts?", 
-      "district": "NV_03", 
-      "created": "2013-08-10T09:23:16", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "NV", 
-      "iface": "question", 
-      "y": 36.0401, 
-      "x": -115.077, 
-      "latest_vote": null, 
-      "id": 16292454, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Henderson", 
-      "first_name": "Nicholas", 
-      "last_name": "Martino", 
-      "user_id": 1810196, 
-      "submission": "The answer to that question is, who knows and who cares, but one less Nazi war criminal walking around pretending to be a patriotic American is a start.  We have to start somewhere, and it appears that I'm the only one willing.  ", 
-      "district": "NV_03", 
-      "created": "2013-08-10T09:19:16", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "NV", 
-      "iface": "question", 
-      "y": 36.0401, 
-      "x": -115.077, 
-      "latest_vote": null, 
-      "id": 16292451, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Henderson", 
-      "first_name": "Nicholas", 
-      "last_name": "Martino", 
-      "user_id": 1810196, 
-      "submission": "What are you going to do to improve math and science skills in this country. How many of you can answer this?  If one Ivy League educated rocket scientist who has been terrorized for 5 years by the NSA hunts down and executes one US Congressman, how many Nazi war criminals will be left in Washington?", 
-      "district": "NV_03", 
-      "created": "2013-08-10T09:07:48", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "NV", 
-      "iface": "question", 
-      "y": 36.0401, 
-      "x": -115.077, 
-      "latest_vote": null, 
-      "id": 16292449, 
-      "trending_score": 0.5
     }, 
     {
       "city": "Inkster", 
@@ -2510,25 +2358,6 @@ opendebate.processFetchedQuestions({
       "trending_score": 0.5
     }, 
     {
-      "city": "Henderson", 
-      "first_name": "Nicholas", 
-      "last_name": "Martino", 
-      "user_id": 1810196, 
-      "submission": "Can you honestly believe that the house of cards that was 9/11 and the state-sponsored terrorism of those of us with a brain and a conscience by the NSA can be sustained indefinitely or that it won't ultimately result in patriotic Americans taking arms and simply hunting down and executing traitors in Washington?", 
-      "district": "NV_03", 
-      "created": "2013-08-09T07:59:15", 
-      "state_votes": 0, 
-      "votes": 1, 
-      "district_votes": 0, 
-      "state": "NV", 
-      "iface": "question", 
-      "y": 36.0401, 
-      "x": -115.077, 
-      "latest_vote": "2013-08-09T08:32:49", 
-      "id": 16269603, 
-      "trending_score": 0.5
-    }, 
-    {
       "city": "Dallas", 
       "first_name": "Violet", 
       "last_name": "Sunderland", 
@@ -2545,25 +2374,6 @@ opendebate.processFetchedQuestions({
       "x": -123.327, 
       "latest_vote": "2013-08-10T04:47:33", 
       "id": 16269540, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Henderson", 
-      "first_name": "Nicholas", 
-      "last_name": "Martino", 
-      "user_id": 1810196, 
-      "submission": "Hypothetically, how many Congressmen and Senators would those of us who have been terrorized for years by the NSA for speaking out about 9/11 have to hunt down and execute in the street in order to get some justice in this country?", 
-      "district": "NV_03", 
-      "created": "2013-08-09T07:49:19", 
-      "state_votes": 0, 
-      "votes": 1, 
-      "district_votes": 0, 
-      "state": "NV", 
-      "iface": "question", 
-      "y": 36.0401, 
-      "x": -115.077, 
-      "latest_vote": "2013-08-09T07:51:40", 
-      "id": 16269505, 
       "trending_score": 0.5
     }, 
     {
@@ -2640,25 +2450,6 @@ opendebate.processFetchedQuestions({
       "x": -83.7165, 
       "latest_vote": "2013-08-09T21:23:06", 
       "id": 16267512, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Henderson", 
-      "first_name": "Nicholas", 
-      "last_name": "Martino", 
-      "user_id": 1810196, 
-      "submission": "Just how long do you plan to keep staring the the fly, a la Norman Bates, pretending you don't understand the evidence re 9/11 and denying that Nazis in the NSA have been terrorizing those of us with a brain and a conscience for years?", 
-      "district": "NV_03", 
-      "created": "2013-08-09T07:11:16", 
-      "state_votes": 0, 
-      "votes": 1, 
-      "district_votes": 0, 
-      "state": "NV", 
-      "iface": "question", 
-      "y": 36.0401, 
-      "x": -115.077, 
-      "latest_vote": "2013-08-09T07:13:18", 
-      "id": 16267450, 
       "trending_score": 0.5
     }, 
     {
@@ -15780,15 +15571,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_01", 
       "created": "2013-08-06T20:10:21", 
       "state_votes": 40, 
-      "votes": 445, 
+      "votes": 446, 
       "district_votes": 12, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.204, 
       "x": -72.6301, 
-      "latest_vote": "2013-08-10T14:38:29", 
+      "latest_vote": "2013-08-10T14:39:07", 
       "id": 16203676, 
-      "trending_score": 3.5
+      "trending_score": 4.5
     }, 
     {
       "city": "Gloucester", 
@@ -20766,7 +20557,7 @@ opendebate.processFetchedQuestions({
       "x": -108.465, 
       "latest_vote": "2013-08-10T14:29:59", 
       "id": 16185364, 
-      "trending_score": 2.25
+      "trending_score": 2.5
     }, 
     {
       "city": "Boca Raton", 
@@ -22970,7 +22761,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1032, 
       "latest_vote": "2013-08-10T13:56:57", 
       "id": 16180998, 
-      "trending_score": 2.25
+      "trending_score": 2.5
     }, 
     {
       "city": "Irvine", 
@@ -26618,7 +26409,7 @@ opendebate.processFetchedQuestions({
       "x": -81.5334, 
       "latest_vote": "2013-08-10T14:19:09", 
       "id": 16175500, 
-      "trending_score": 2.25
+      "trending_score": 2.5
     }, 
     {
       "city": "Seattle", 
@@ -30315,15 +30106,15 @@ opendebate.processFetchedQuestions({
       "district": "MN_01", 
       "created": "2013-08-03T21:58:57", 
       "state_votes": 59, 
-      "votes": 350, 
+      "votes": 351, 
       "district_votes": 13, 
       "state": "MN", 
       "iface": "question", 
       "y": 43.6508, 
       "x": -93.3713, 
-      "latest_vote": "2013-08-10T05:52:08", 
+      "latest_vote": "2013-08-10T14:40:00", 
       "id": 16172657, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Midlothian", 
@@ -30836,7 +30627,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1035, 
       "latest_vote": "2013-08-10T14:38:03", 
       "id": 16172207, 
-      "trending_score": 7.25
+      "trending_score": 7.5
     }, 
     {
       "city": "Arlington", 
