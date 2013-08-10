@@ -14773,15 +14773,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_08", 
       "created": "2013-08-06T21:37:16", 
       "state_votes": 16, 
-      "votes": 361, 
+      "votes": 362, 
       "district_votes": 0, 
       "state": "FL", 
       "iface": "question", 
       "y": 28.0247, 
       "x": -80.5392, 
-      "latest_vote": "2013-08-10T05:49:12", 
+      "latest_vote": "2013-08-10T14:40:26", 
       "id": 16206139, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Saratoga Springs", 
@@ -16008,15 +16008,15 @@ opendebate.processFetchedQuestions({
       "district": "OH_09", 
       "created": "2013-08-06T19:27:12", 
       "state_votes": 22, 
-      "votes": 352, 
+      "votes": 353, 
       "district_votes": 5, 
       "state": "OH", 
       "iface": "question", 
       "y": 41.405, 
       "x": -82.7314, 
-      "latest_vote": "2013-08-10T07:12:40", 
+      "latest_vote": "2013-08-10T14:40:10", 
       "id": 16201559, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "North Andover", 
@@ -26135,15 +26135,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_08", 
       "created": "2013-08-05T01:42:38", 
       "state_votes": 50, 
-      "votes": 360, 
+      "votes": 361, 
       "district_votes": 14, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.174, 
       "x": -87.9643, 
-      "latest_vote": "2013-08-10T05:50:47", 
+      "latest_vote": "2013-08-10T14:40:15", 
       "id": 16175729, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Tucson", 
