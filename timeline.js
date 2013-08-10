@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Grand Terrace", 
+      "first_name": "Janet", 
+      "last_name": "Moran", 
+      "user_id": 899677, 
+      "submission": "Where do you stand on trade agreements such as the Trans Pacific Partnership, and the secrecy surrounding it?", 
+      "district": "CA_31", 
+      "created": "2013-08-10T06:43:41", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 34.061, 
+      "x": -117.324, 
+      "id": 16292192, 
+      "question_id": "16203477"
+    }, 
+    {
       "city": "Phoenix", 
       "first_name": "Lynne", 
       "last_name": "Vestal", 
@@ -332,25 +347,6 @@ opendebate.processTimeline({
       "x": -71.146, 
       "latest_vote": null, 
       "id": 16291916, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Winchester", 
-      "first_name": "Jeff", 
-      "last_name": "Dearman", 
-      "user_id": 1810429, 
-      "submission": "What would you do to prevent bullying in our schools? ", 
-      "district": "MA_05", 
-      "created": "2013-08-10T05:32:33", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.4529, 
-      "x": -71.146, 
-      "latest_vote": null, 
-      "id": 16291914, 
       "trending_score": 0.5
     }
   ]
