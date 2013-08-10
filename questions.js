@@ -4930,16 +4930,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you introduce legislation or a rules change -- whichever it takes -- that will mean Congress and their families must be subject to the same laws it passes for other citizens?  If not, why not?", 
       "district": "NC_09", 
       "created": "2013-08-08T23:20:20", 
-      "state_votes": 1, 
-      "votes": 63, 
+      "state_votes": 2, 
+      "votes": 64, 
       "district_votes": 0, 
       "state": "NC", 
       "iface": "question", 
       "y": 35.3144, 
       "x": -80.8051, 
-      "latest_vote": "2013-08-10T04:47:57", 
+      "latest_vote": "2013-08-10T14:18:27", 
       "id": 16244527, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Riverbank", 

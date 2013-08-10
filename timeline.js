@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Wakefield", 
+      "first_name": "Carol and Robert", 
+      "last_name": "Caverly-Paxton", 
+      "user_id": 1671069, 
+      "submission": "Will you introduce legislation or a rules change -- whichever it takes -- that will mean Congress and their families must be subject to the same laws it passes for other citizens?  If not, why not?", 
+      "district": "MA_06", 
+      "created": "2013-08-10T14:18:27", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.5021, 
+      "x": -71.0697, 
+      "id": 16293334, 
+      "question_id": "16244527"
+    }, 
+    {
       "city": "Belton", 
       "first_name": "Rt Rev John T", 
       "last_name": "Stone, D. D (Ret.)", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -82.5016, 
       "id": 16293332, 
       "question_id": "16172690"
-    }, 
-    {
-      "city": "Wakefield", 
-      "first_name": "Carol and Robert", 
-      "last_name": "Caverly-Paxton", 
-      "user_id": 1671069, 
-      "submission": "are you aware that the social security trust fund is owed about 18% of the national debt because of borrowing by previous congresses? should there be a repayment plan set up by congress to make the fund even more solvent?", 
-      "district": "MA_06", 
-      "created": "2013-08-10T14:17:34", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.5021, 
-      "x": -71.0697, 
-      "id": 16293331, 
-      "question_id": "16185653"
     }, 
     {
       "city": "San Antonio", 
