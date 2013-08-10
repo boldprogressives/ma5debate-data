@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Jane", 
       "last_name": "Bruce-Munro", 
       "user_id": 1644313, 
-      "submission": "What will you do about gun control and the scare tactics/bullying by the NRA and gun lobbyists?  How will you approach the Right's program of 'divisiveness and culture of fear' that now rips us apart?", 
+      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
       "district": "CA_20", 
-      "created": "2013-08-10T07:13:51", 
+      "created": "2013-08-10T07:14:47", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 36.9715, 
       "x": -121.985, 
-      "id": 16292214, 
-      "question_id": "16176673"
+      "id": 16292217, 
+      "question_id": "16172583"
     }, 
     {
       "city": "Grand Terrace", 
