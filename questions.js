@@ -29460,15 +29460,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_10", 
       "created": "2013-08-04T00:59:23", 
       "state_votes": 187, 
-      "votes": 1347, 
+      "votes": 1348, 
       "district_votes": 46, 
       "state": "TX", 
       "iface": "question", 
       "y": 30.3972, 
       "x": -97.7518, 
-      "latest_vote": "2013-08-10T15:05:50", 
+      "latest_vote": "2013-08-10T15:32:10", 
       "id": 16173210, 
-      "trending_score": 6.5
+      "trending_score": 7.0
     }, 
     {
       "city": "Cottonwood", 
@@ -30923,15 +30923,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:52:54", 
       "state_votes": 179, 
-      "votes": 1148, 
+      "votes": 1149, 
       "district_votes": 49, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4207, 
       "x": -71.1582, 
-      "latest_vote": "2013-08-10T15:22:16", 
+      "latest_vote": "2013-08-10T15:32:40", 
       "id": 16172303, 
-      "trending_score": 22.5
+      "trending_score": 23.5
     }, 
     {
       "city": "Arlington", 

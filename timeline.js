@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Denise", 
       "last_name": "Black", 
       "user_id": 61674, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
       "district": "FL_22", 
-      "created": "2013-08-10T15:32:01", 
+      "created": "2013-08-10T15:32:40", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 26.5242, 
       "x": -80.1073, 
-      "id": 16294013, 
-      "question_id": "16172533"
+      "id": 16294018, 
+      "question_id": "16172303"
     }, 
     {
       "city": "Dayton", 
