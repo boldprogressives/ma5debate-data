@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Bisbee", 
+      "first_name": "Bridget", 
+      "last_name": "Burke", 
+      "user_id": 1592935, 
+      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
+      "district": "AZ_02", 
+      "created": "2013-08-10T03:02:01", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 31.4588, 
+      "x": -109.946, 
+      "id": 16290632, 
+      "question_id": "16172690"
+    }, 
+    {
+      "city": "New York", 
+      "first_name": "Marcus", 
+      "last_name": "Gustafsson", 
+      "user_id": 1638867, 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
+      "district": "NY_10", 
+      "created": "2013-08-10T03:01:03", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.72, 
+      "x": -74.0036, 
+      "id": 16290629, 
+      "question_id": "16202059"
+    }, 
+    {
       "city": "Ashland", 
       "first_name": "Kenneth", 
       "last_name": "Deveney", 
@@ -30,21 +60,6 @@ opendebate.processTimeline({
       "x": -120.825, 
       "id": 16290627, 
       "question_id": "16172697"
-    }, 
-    {
-      "city": "New York", 
-      "first_name": "Marcus", 
-      "last_name": "Gustafsson", 
-      "user_id": 1638867, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
-      "district": "NY_10", 
-      "created": "2013-08-10T02:59:31", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.72, 
-      "x": -74.0036, 
-      "id": 16290626, 
-      "question_id": "16175740"
     }, 
     {
       "city": "Reno", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -84.0743, 
       "id": 16290358, 
       "question_id": "16205331"
-    }, 
-    {
-      "city": "Madison", 
-      "first_name": "Linda", 
-      "last_name": "Leonhart", 
-      "user_id": 1777183, 
-      "submission": "Why is increased investment  in early learning important to the future of our country?", 
-      "district": "WI_02", 
-      "created": "2013-08-10T01:58:43", 
-      "state": "WI", 
-      "iface": "timeline_vote", 
-      "y": 43.1471, 
-      "x": -89.4069, 
-      "id": 16290276, 
-      "question_id": "16179434"
     }
   ]
 });
