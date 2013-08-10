@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Arcata", 
+      "first_name": "Linda", 
+      "last_name": "Bernard", 
+      "user_id": 1179209, 
+      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
+      "district": "CA_02", 
+      "created": "2013-08-10T18:12:00", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 40.9288, 
+      "x": -124.06, 
+      "id": 16294857, 
+      "question_id": "16172697"
+    }, 
+    {
       "city": "Sierra Vista", 
       "first_name": "Peggy", 
       "last_name": "Szymeczek", 
@@ -304,25 +319,6 @@ opendebate.processTimeline({
       "x": -72.5065, 
       "latest_vote": null, 
       "id": 16294392, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Indian Orchard", 
-      "first_name": "Miguel", 
-      "last_name": "Soto", 
-      "user_id": 1716772, 
-      "submission": "What are you all going to do to assure protection to federal employees, state and local to guarantee their retirement kept in place without no disruption of their pension plan, due to bad practice of mismanagement and power negligence to do unjust to employee by upper level management and other involved with power to violate employees rights under the law, without any grievances and written disciplinary actions according to their jurisdictions, law, representation and protection of the labor law?", 
-      "district": "MA_01", 
-      "created": "2013-08-10T16:20:56", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.151, 
-      "x": -72.5065, 
-      "latest_vote": null, 
-      "id": 16294381, 
       "trending_score": 0.5
     }
   ]
