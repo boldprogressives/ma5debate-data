@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Birmingham", 
-      "first_name": "Dot", 
-      "last_name": "Canup", 
-      "user_id": 1565077, 
-      "submission": "When is Washington going to realize they aren't on the payroll of the rich?", 
-      "district": "AL_07", 
-      "created": "2013-08-10T05:51:35", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 33.6391, 
-      "x": -86.6919, 
-      "id": 16291995, 
-      "question_id": "16213485"
-    }, 
-    {
       "city": "Las Vegas", 
       "first_name": "Steven", 
       "last_name": "Born", 
       "user_id": 1699500, 
-      "submission": "Who are your corporate sponsors? Would you be in favor of all politicians wearing patches on their cloths with the corporate logo's of their sponsors just like athletes do. This way we know where the money comes from before we vote.", 
+      "submission": "Would you support a ban on Congresspersons accepting jobs as corporate lobbyists for at least ten years after leaving Congress?", 
       "district": "NV_03", 
-      "created": "2013-08-10T05:51:27", 
+      "created": "2013-08-10T05:53:02", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 36.1135, 
       "x": -115.273, 
-      "id": 16291994, 
-      "question_id": "16175691"
+      "id": 16292005, 
+      "question_id": "16178177"
+    }, 
+    {
+      "city": "Birmingham", 
+      "first_name": "Dot", 
+      "last_name": "Canup", 
+      "user_id": 1565077, 
+      "submission": "We have an unemployment crisis in this country - a crisis so big this question requires two parts.  First, if you could pass absolutely anything into law, what would you do to address this crisis?  Second, given the constraints of the current Do-Nothing Congress, what would you do to address this crisis?", 
+      "district": "AL_07", 
+      "created": "2013-08-10T05:53:01", 
+      "state": "AL", 
+      "iface": "timeline_vote", 
+      "y": 33.6391, 
+      "x": -86.6919, 
+      "id": 16292004, 
+      "question_id": "16211042"
     }, 
     {
       "city": "McMinnville", 
