@@ -1538,7 +1538,7 @@ opendebate.processFetchedQuestions({
       "x": -87.2905, 
       "latest_vote": "2013-08-10T03:45:06", 
       "id": 16277589, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Savannah", 
@@ -1956,7 +1956,7 @@ opendebate.processFetchedQuestions({
       "x": -74.0902, 
       "latest_vote": "2013-08-10T03:44:36", 
       "id": 16272358, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "West Warwick", 
@@ -6953,7 +6953,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1035, 
       "latest_vote": "2013-08-10T04:44:30", 
       "id": 16230698, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Naples", 
@@ -7523,7 +7523,7 @@ opendebate.processFetchedQuestions({
       "x": -71.17, 
       "latest_vote": "2013-08-10T04:44:58", 
       "id": 16226899, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Palos Park", 
@@ -7561,7 +7561,7 @@ opendebate.processFetchedQuestions({
       "x": -74.0659, 
       "latest_vote": "2013-08-10T04:45:12", 
       "id": 16226780, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Point Pleasant Beach", 
@@ -16871,7 +16871,7 @@ opendebate.processFetchedQuestions({
       "x": -78.9237, 
       "latest_vote": "2013-08-10T07:17:03", 
       "id": 16197620, 
-      "trending_score": 5.125
+      "trending_score": 5.166666666666667
     }, 
     {
       "city": "Brevard", 
@@ -25288,7 +25288,7 @@ opendebate.processFetchedQuestions({
       "x": -97.9342, 
       "latest_vote": "2013-08-10T05:14:22", 
       "id": 16176482, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Albuquerque", 
@@ -25611,7 +25611,7 @@ opendebate.processFetchedQuestions({
       "x": -112.109, 
       "latest_vote": "2013-08-10T05:14:38", 
       "id": 16176088, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Salt Lake City", 
@@ -25972,7 +25972,7 @@ opendebate.processFetchedQuestions({
       "x": -90.6197, 
       "latest_vote": "2013-08-10T05:14:55", 
       "id": 16175852, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Davenport", 
