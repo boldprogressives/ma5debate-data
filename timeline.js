@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Anthony", 
       "last_name": "Pascual", 
       "user_id": 1673880, 
-      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
       "district": "CA_04", 
-      "created": "2013-08-10T13:55:57", 
+      "created": "2013-08-10T13:56:57", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 37.9578, 
       "x": -120.638, 
-      "id": 16292944, 
-      "question_id": "16172303"
+      "id": 16292992, 
+      "question_id": "16180998"
     }, 
     {
       "city": "Metairie", 
