@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Ricci", 
       "last_name": "Pineau", 
       "user_id": 1239640, 
-      "submission": "Will you work to reinstate the Glass-Steagall Act to insure that the Wall Street banks behave in a more responsible manner?", 
+      "submission": "Would you support laws that aggressively tax \"passive\" income (i.e., offshore investments, etc.) and lower  rates for \"active\" income (i.e., physical labor, \"doing the work\" that generates the income, etc.)?  Would you be amenable to opening a conversation on this topic with your constituents?", 
       "district": "CA_20", 
-      "created": "2013-08-10T20:14:58", 
+      "created": "2013-08-10T20:16:03", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 36.9715, 
       "x": -121.985, 
-      "id": 16295122, 
-      "question_id": "16256690"
+      "id": 16295144, 
+      "question_id": "16272679"
     }, 
     {
       "city": "Oklahoma City", 
