@@ -2,34 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "El Prado", 
+      "first_name": "Sally", 
+      "last_name": "Phelps", 
+      "user_id": 1567108, 
+      "submission": "Do you view Mr. Snowden as a whistleblower who should be protected or a \"leaker\" who should be prosecuted?", 
+      "district": "NM_03", 
+      "created": "2013-08-10T00:29:00", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 36.4486, 
+      "x": -105.575, 
+      "id": 16288980, 
+      "question_id": "16235300"
+    }, 
+    {
       "city": "Las Vegas", 
       "first_name": "Keith", 
       "last_name": "Augusto", 
       "user_id": 1777155, 
-      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
+      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
       "district": "NV_04", 
-      "created": "2013-08-10T00:28:04", 
+      "created": "2013-08-10T00:28:58", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 36.3006, 
       "x": -115.238, 
-      "id": 16288971, 
-      "question_id": "16180998"
+      "id": 16288979, 
+      "question_id": "16175740"
     }, 
     {
       "city": "", 
       "first_name": "Juluie M", 
       "last_name": "Lacinak", 
       "user_id": 1548415, 
-      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
+      "submission": "Will you introduce legislation or a rules change -- whichever it takes -- that will mean Congress and their families must be subject to the same laws it passes for other citizens?  If not, why not?", 
       "district": "", 
-      "created": "2013-08-10T00:27:59", 
+      "created": "2013-08-10T00:28:55", 
       "state": "", 
       "iface": "timeline_vote", 
       "y": 0.0, 
       "x": 0.0, 
-      "id": 16288970, 
-      "question_id": "16175230"
+      "id": 16288978, 
+      "question_id": "16244527"
+    }, 
+    {
+      "city": "Pasadena", 
+      "first_name": "Linda", 
+      "last_name": "Hubbard", 
+      "user_id": 1809380, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "CA_27", 
+      "created": "2013-08-10T00:28:20", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 34.147, 
+      "x": -118.093, 
+      "id": 16288973, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Metairie", 
@@ -45,21 +75,6 @@ opendebate.processTimeline({
       "x": -90.1663, 
       "id": 16288966, 
       "question_id": "16197636"
-    }, 
-    {
-      "city": "El Prado", 
-      "first_name": "Sally", 
-      "last_name": "Phelps", 
-      "user_id": 1567108, 
-      "submission": "Is congress being sequestered??", 
-      "district": "NM_03", 
-      "created": "2013-08-10T00:27:42", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16288963, 
-      "question_id": "16242208"
     }, 
     {
       "city": "New York", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -114.141, 
       "id": 16288556, 
       "question_id": "16173320"
-    }, 
-    {
-      "city": "Seattle", 
-      "first_name": "Sigrid", 
-      "last_name": "Asmus", 
-      "user_id": 176478, 
-      "submission": "What specific steps would you take to combat climate change while in office?", 
-      "district": "WA_07", 
-      "created": "2013-08-09T23:56:21", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 47.6498, 
-      "x": -122.398, 
-      "id": 16288554, 
-      "question_id": "16169991"
     }
   ]
 });
