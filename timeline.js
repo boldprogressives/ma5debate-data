@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Phoenix", 
-      "first_name": "Lynne", 
-      "last_name": "Vestal", 
-      "user_id": 1121128, 
-      "submission": "Will you support a ban on hydrofracking for natural gas?", 
-      "district": "AZ_09", 
-      "created": "2013-08-10T06:20:04", 
-      "state": "AZ", 
+      "city": "Rochester", 
+      "first_name": "Stephen", 
+      "last_name": "Bellomo", 
+      "user_id": 1772514, 
+      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
+      "district": "NY_25", 
+      "created": "2013-08-10T06:21:00", 
+      "state": "NY", 
       "iface": "timeline_vote", 
-      "y": 33.559, 
-      "x": -112.089, 
-      "id": 16292110, 
-      "question_id": "16205951"
+      "y": 43.1745, 
+      "x": -77.5598, 
+      "id": 16292118, 
+      "question_id": "16180998"
     }, 
     {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Is the incredible inequality in our society compatible with democracy?  If not, what can we do about it?", 
+      "submission": "The New Deal, and The CCC helped us survive The Great Depression. Why does congress refuse to learn from the past and bring back these programs? ", 
       "district": "AL_07", 
-      "created": "2013-08-10T06:19:04", 
+      "created": "2013-08-10T06:20:45", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292108, 
-      "question_id": "16179810"
+      "id": 16292116, 
+      "question_id": "16178941"
+    }, 
+    {
+      "city": "Phoenix", 
+      "first_name": "Lynne", 
+      "last_name": "Vestal", 
+      "user_id": 1121128, 
+      "submission": "Would you be in favor of Congress and the Senate payingfor heath care like the rest of us,and no pension for life unless you put in 25 years like almost every other American. ", 
+      "district": "AZ_09", 
+      "created": "2013-08-10T06:20:45", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 33.559, 
+      "x": -112.089, 
+      "id": 16292117, 
+      "question_id": "16188477"
     }, 
     {
       "city": "Santa Barbara", 
@@ -333,25 +348,6 @@ opendebate.processTimeline({
       "x": -95.0171, 
       "id": 16291911, 
       "question_id": "16202059"
-    }, 
-    {
-      "city": "Winchester", 
-      "first_name": "Jeff", 
-      "last_name": "Dearman", 
-      "user_id": 1810429, 
-      "submission": "Do you believe the American Space program is important? Why or why not? Do you feel we should continue to have a space program?", 
-      "district": "MA_05", 
-      "created": "2013-08-10T05:30:48", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.4529, 
-      "x": -71.146, 
-      "latest_vote": null, 
-      "id": 16291908, 
-      "trending_score": 0.5
     }
   ]
 });
