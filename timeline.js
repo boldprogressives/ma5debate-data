@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Belton", 
+      "first_name": "Rt Rev John T", 
+      "last_name": "Stone, D. D (Ret.)", 
+      "user_id": 1776973, 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "district": "SC_03", 
+      "created": "2013-08-10T14:15:51", 
+      "state": "SC", 
+      "iface": "timeline_vote", 
+      "y": 34.5172, 
+      "x": -82.5016, 
+      "id": 16293317, 
+      "question_id": "16172913"
+    }, 
+    {
+      "city": "Wakefield", 
+      "first_name": "Carol and Robert", 
+      "last_name": "Caverly-Paxton", 
+      "user_id": 1671069, 
+      "submission": "Who is financing your campaign and what have you promised in return for this support?", 
+      "district": "MA_06", 
+      "created": "2013-08-10T14:15:42", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.5021, 
+      "x": -71.0697, 
+      "id": 16293316, 
+      "question_id": "16199725"
+    }, 
+    {
+      "city": "Belmont", 
+      "first_name": "Georges", 
+      "last_name": "Brun-Cottan", 
+      "user_id": 162984, 
+      "submission": "What are you going to do about the revolving door of regulators and private industry? The corruption taking place here is unbelievable. Example FCC Comcast takeover of NBC scandal. ", 
+      "district": "MA_05", 
+      "created": "2013-08-10T14:15:20", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3942, 
+      "x": -71.1802, 
+      "id": 16293314, 
+      "question_id": "16199756"
+    }, 
+    {
       "city": "San Antonio", 
       "first_name": "Don", 
       "last_name": "Freidkin", 
@@ -15,36 +60,6 @@ opendebate.processTimeline({
       "x": -98.3977, 
       "id": 16293310, 
       "question_id": "16173335"
-    }, 
-    {
-      "city": "Belton", 
-      "first_name": "Rt Rev John T", 
-      "last_name": "Stone, D. D (Ret.)", 
-      "user_id": 1776973, 
-      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
-      "district": "SC_03", 
-      "created": "2013-08-10T14:14:53", 
-      "state": "SC", 
-      "iface": "timeline_vote", 
-      "y": 34.5172, 
-      "x": -82.5016, 
-      "id": 16293309, 
-      "question_id": "16172727"
-    }, 
-    {
-      "city": "Wakefield", 
-      "first_name": "Carol and Robert", 
-      "last_name": "Caverly-Paxton", 
-      "user_id": 1671069, 
-      "submission": "Should marriage equality be legal in all 50 states?", 
-      "district": "MA_06", 
-      "created": "2013-08-10T14:14:48", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.5021, 
-      "x": -71.0697, 
-      "id": 16293307, 
-      "question_id": "16173222"
     }, 
     {
       "city": "Muskego", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -71.2203, 
       "id": 16292675, 
       "question_id": "16257701"
-    }, 
-    {
-      "city": "Clermont", 
-      "first_name": "eileen", 
-      "last_name": "fleming", 
-      "user_id": 1810342, 
-      "submission": "Will you earn your Nobel and end US collusion in Israel's Nuclear Deceptions and military occupation of Palestine?Learn More:http://www.causes.com/VANUNUhttp://wearewideawake.org/", 
-      "district": "FL_10", 
-      "created": "2013-08-10T13:06:17", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 28.5359, 
-      "x": -81.7638, 
-      "id": 16292628, 
-      "question_id": "16282376"
     }
   ]
 });

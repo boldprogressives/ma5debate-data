@@ -11086,16 +11086,16 @@ opendebate.processFetchedQuestions({
       "submission": "Would you work to end the \"revolving door\" in politics: where politicians are given lucrative jobs as lobbyists once they leave [cough] \"public service\"", 
       "district": "NY_03", 
       "created": "2013-08-07T15:37:42", 
-      "state_votes": 2, 
-      "votes": 35, 
-      "district_votes": 0, 
+      "state_votes": 3, 
+      "votes": 36, 
+      "district_votes": 1, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.8691, 
       "x": -73.4093, 
-      "latest_vote": "2013-08-10T04:29:12", 
+      "latest_vote": "2013-08-10T14:15:19", 
       "id": 16217343, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Lloyd Harbor", 
@@ -16786,16 +16786,16 @@ opendebate.processFetchedQuestions({
       "submission": "What are you going to do about the revolving door of regulators and private industry? The corruption taking place here is unbelievable. Example FCC Comcast takeover of NBC scandal. ", 
       "district": "PA_07", 
       "created": "2013-08-06T18:46:11", 
-      "state_votes": 8, 
-      "votes": 109, 
-      "district_votes": 0, 
+      "state_votes": 9, 
+      "votes": 110, 
+      "district_votes": 1, 
       "state": "PA", 
       "iface": "question", 
       "y": 39.8687, 
       "x": -75.3857, 
-      "latest_vote": "2013-08-10T07:13:07", 
+      "latest_vote": "2013-08-10T14:15:20", 
       "id": 16199756, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Elizabethtown", 
@@ -16805,16 +16805,16 @@ opendebate.processFetchedQuestions({
       "submission": "Who is financing your campaign and what have you promised in return for this support?", 
       "district": "KY_02", 
       "created": "2013-08-06T18:45:43", 
-      "state_votes": 20, 
-      "votes": 118, 
+      "state_votes": 21, 
+      "votes": 119, 
       "district_votes": 7, 
       "state": "KY", 
       "iface": "question", 
       "y": 37.7076, 
       "x": -85.8619, 
-      "latest_vote": "2013-08-10T05:24:59", 
+      "latest_vote": "2013-08-10T14:15:42", 
       "id": 16199725, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Fort Myers", 
@@ -27920,16 +27920,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you consider whistleblower Americans Bradley Manning & Edward Snowden heros or villians? Why? ", 
       "district": "MO_08", 
       "created": "2013-08-04T15:03:20", 
-      "state_votes": 18, 
-      "votes": 116, 
+      "state_votes": 19, 
+      "votes": 117, 
       "district_votes": 5, 
       "state": "MO", 
       "iface": "question", 
       "y": 37.319, 
       "x": -89.5406, 
-      "latest_vote": "2013-08-10T07:18:40", 
+      "latest_vote": "2013-08-10T14:15:19", 
       "id": 16174044, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Forest Grove", 
@@ -29099,15 +29099,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_10", 
       "created": "2013-08-04T00:59:23", 
       "state_votes": 187, 
-      "votes": 1338, 
+      "votes": 1339, 
       "district_votes": 46, 
       "state": "TX", 
       "iface": "question", 
       "y": 30.3972, 
       "x": -97.7518, 
-      "latest_vote": "2013-08-10T14:14:09", 
+      "latest_vote": "2013-08-10T14:15:40", 
       "id": 16173210, 
-      "trending_score": 5.25
+      "trending_score": 6.25
     }, 
     {
       "city": "Cottonwood", 
@@ -29631,15 +29631,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T23:23:07", 
       "state_votes": 186, 
-      "votes": 1253, 
+      "votes": 1254, 
       "district_votes": 49, 
       "state": "MT", 
       "iface": "question", 
       "y": 48.2112, 
       "x": -114.294, 
-      "latest_vote": "2013-08-10T14:14:18", 
+      "latest_vote": "2013-08-10T14:15:51", 
       "id": 16172913, 
-      "trending_score": 6.25
+      "trending_score": 7.25
     }, 
     {
       "city": "Montegut", 
@@ -30505,15 +30505,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T20:45:26", 
       "state_votes": 209, 
-      "votes": 1343, 
+      "votes": 1344, 
       "district_votes": 58, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-10T14:13:41", 
+      "latest_vote": "2013-08-10T14:15:07", 
       "id": 16172533, 
-      "trending_score": 7.25
+      "trending_score": 8.25
     }, 
     {
       "city": "Medford", 
