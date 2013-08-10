@@ -6,30 +6,45 @@ opendebate.processTimeline({
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Will you pledge to always refer to \"chained CPI\" as \"Dog food CPI\"?", 
+      "submission": "What are the main areas that we need to focus in on so that we can improve education in America?", 
       "district": "NM_03", 
-      "created": "2013-08-10T00:46:58", 
+      "created": "2013-08-10T00:47:57", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16289224, 
-      "question_id": "16196840"
+      "id": 16289230, 
+      "question_id": "16194024"
+    }, 
+    {
+      "city": "San Angelo", 
+      "first_name": "Janna", 
+      "last_name": "Simms", 
+      "user_id": 521772, 
+      "submission": "Where do you stand on a constitutional admendment that declares that corporations are NOT, in fact, people and do not have the legal rights of people.", 
+      "district": "TX_11", 
+      "created": "2013-08-10T00:47:55", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 31.4678, 
+      "x": -100.436, 
+      "id": 16289229, 
+      "question_id": "16176313"
     }, 
     {
       "city": "Philadelphia", 
       "first_name": "Wanda", 
       "last_name": "Seidle", 
       "user_id": 1689376, 
-      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "PA_02", 
-      "created": "2013-08-10T00:46:54", 
+      "created": "2013-08-10T00:47:48", 
       "state": "PA", 
       "iface": "timeline_vote", 
       "y": 39.9789, 
       "x": -75.2206, 
-      "id": 16289223, 
-      "question_id": "16172727"
+      "id": 16289227, 
+      "question_id": "16172266"
     }, 
     {
       "city": "", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -110.921, 
       "id": 16288772, 
       "question_id": "16172722"
-    }, 
-    {
-      "city": "Commerce Township", 
-      "first_name": "Diane", 
-      "last_name": "Bauer", 
-      "user_id": 152938, 
-      "submission": "Will you pledge to uphold the Affordable Care Act and help states implement it -- not defund it?", 
-      "district": "MI_11", 
-      "created": "2013-08-10T00:08:42", 
-      "state": "MI", 
-      "iface": "timeline_vote", 
-      "y": 42.5836, 
-      "x": -83.5003, 
-      "id": 16288749, 
-      "question_id": "16181276"
     }
   ]
 });
