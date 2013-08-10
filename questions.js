@@ -14648,7 +14648,7 @@ opendebate.processFetchedQuestions({
       "x": -79.9806, 
       "latest_vote": "2013-08-10T11:38:38", 
       "id": 16207107, 
-      "trending_score": 2.1666666666666665
+      "trending_score": 2.25
     }, 
     {
       "city": "Asheville", 
@@ -14990,7 +14990,7 @@ opendebate.processFetchedQuestions({
       "x": -73.7748, 
       "latest_vote": "2013-08-10T06:20:04", 
       "id": 16205951, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Addison", 
