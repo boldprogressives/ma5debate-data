@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Wakefield", 
+      "first_name": "Carol and Robert", 
+      "last_name": "Caverly-Paxton", 
+      "user_id": 1671069, 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "district": "MA_06", 
+      "created": "2013-08-10T14:07:44", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.5021, 
+      "x": -71.0697, 
+      "id": 16293275, 
+      "question_id": "16172913"
+    }, 
+    {
       "city": "Boston", 
       "first_name": "Aimee", 
       "last_name": "Coolidge", 
       "user_id": 1657685, 
-      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
+      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
       "district": "MA_07", 
-      "created": "2013-08-10T14:06:52", 
+      "created": "2013-08-10T14:07:28", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.337, 
       "x": -71.0638, 
-      "id": 16293269, 
-      "question_id": "16175230"
+      "id": 16293274, 
+      "question_id": "16203676"
     }, 
     {
       "city": "Muskego", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -95.4172, 
       "id": 16292602, 
       "question_id": "16180998"
-    }, 
-    {
-      "city": "Millis", 
-      "first_name": "Carol", 
-      "last_name": "Coakley", 
-      "user_id": 173730, 
-      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
-      "district": "MA_04", 
-      "created": "2013-08-10T12:32:30", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.1677, 
-      "x": -71.3601, 
-      "id": 16292580, 
-      "question_id": "16172731"
     }
   ]
 });

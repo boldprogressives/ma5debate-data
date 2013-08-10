@@ -15741,16 +15741,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
       "district": "MA_01", 
       "created": "2013-08-06T20:10:21", 
-      "state_votes": 39, 
-      "votes": 442, 
+      "state_votes": 40, 
+      "votes": 443, 
       "district_votes": 12, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.204, 
       "x": -72.6301, 
-      "latest_vote": "2013-08-10T07:16:46", 
+      "latest_vote": "2013-08-10T14:07:28", 
       "id": 16203676, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Gloucester", 
@@ -28851,16 +28851,16 @@ opendebate.processFetchedQuestions({
       "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
       "district": "TX_03", 
       "created": "2013-08-04T01:25:59", 
-      "state_votes": 247, 
-      "votes": 1670, 
+      "state_votes": 248, 
+      "votes": 1671, 
       "district_votes": 78, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-10T13:55:01", 
+      "latest_vote": "2013-08-10T14:07:15", 
       "id": 16173264, 
-      "trending_score": 5.25
+      "trending_score": 6.25
     }, 
     {
       "city": "Prosper", 
@@ -29611,16 +29611,16 @@ opendebate.processFetchedQuestions({
       "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
       "district": "MT_01", 
       "created": "2013-08-03T23:23:07", 
-      "state_votes": 185, 
-      "votes": 1251, 
+      "state_votes": 186, 
+      "votes": 1252, 
       "district_votes": 49, 
       "state": "MT", 
       "iface": "question", 
       "y": 48.2112, 
       "x": -114.294, 
-      "latest_vote": "2013-08-10T13:38:59", 
+      "latest_vote": "2013-08-10T14:07:44", 
       "id": 16172913, 
-      "trending_score": 4.25
+      "trending_score": 5.25
     }, 
     {
       "city": "Montegut", 
@@ -29896,16 +29896,16 @@ opendebate.processFetchedQuestions({
       "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
       "district": "IL_02", 
       "created": "2013-08-03T22:27:03", 
-      "state_votes": 198, 
-      "votes": 1493, 
+      "state_votes": 199, 
+      "votes": 1494, 
       "district_votes": 51, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.6267, 
       "x": -87.5959, 
-      "latest_vote": "2013-08-10T13:55:08", 
+      "latest_vote": "2013-08-10T14:07:09", 
       "id": 16172755, 
-      "trending_score": 9.25
+      "trending_score": 10.25
     }, 
     {
       "city": "Richardson", 
