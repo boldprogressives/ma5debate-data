@@ -2,19 +2,38 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Scarborough", 
+      "first_name": "Melanie", 
+      "last_name": "FENGLER", 
+      "user_id": 673283, 
+      "submission": "Are you working to overturn the decision against voters rights?", 
+      "district": "ME_01", 
+      "created": "2013-08-10T16:05:59", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "ME", 
+      "iface": "timeline_question", 
+      "y": 43.585, 
+      "x": -70.3706, 
+      "latest_vote": null, 
+      "id": 16294313, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Independence", 
       "first_name": "Margaret", 
       "last_name": "Goodwin", 
       "user_id": 1697661, 
-      "submission": "Will you sign legislation outlining ethics for SCOTUS - including when they clearly have a conflict-of-interest?", 
+      "submission": "Do you think that anyone running  for public service should have psychological screenings...", 
       "district": "OR_05", 
-      "created": "2013-08-10T16:04:58", 
+      "created": "2013-08-10T16:05:46", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 44.8433, 
       "x": -123.186, 
-      "id": 16294306, 
-      "question_id": "16244019"
+      "id": 16294311, 
+      "question_id": "16172804"
     }, 
     {
       "city": "Westwood", 
@@ -313,21 +332,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16293883, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Worcester", 
-      "first_name": "Marjorie", 
-      "last_name": "Evans", 
-      "user_id": 774326, 
-      "submission": "What are you doing to ensure that all residents have access to a living wage and to help create jobs for those still looking for work, five years after the Great Recession and the weak recovery?", 
-      "district": "MA_02", 
-      "created": "2013-08-10T15:13:19", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2541, 
-      "x": -71.7731, 
-      "id": 16293867, 
-      "question_id": "16201159"
     }
   ]
 });

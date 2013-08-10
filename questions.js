@@ -2,6 +2,25 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Scarborough", 
+      "first_name": "Melanie", 
+      "last_name": "FENGLER", 
+      "user_id": 673283, 
+      "submission": "Are you working to overturn the decision against voters rights?", 
+      "district": "ME_01", 
+      "created": "2013-08-10T16:05:59", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "ME", 
+      "iface": "question", 
+      "y": 43.585, 
+      "x": -70.3706, 
+      "latest_vote": null, 
+      "id": 16294313, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Westwood", 
       "first_name": "Tom", 
       "last_name": "Bengaff", 
@@ -637,15 +656,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_07", 
       "created": "2013-08-10T14:42:23", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "district_votes": 0, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.899, 
       "x": -87.6365, 
-      "latest_vote": "2013-08-10T14:45:31", 
+      "latest_vote": "2013-08-10T16:05:16", 
       "id": 16293538, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Chicago", 
@@ -17224,15 +17243,15 @@ opendebate.processFetchedQuestions({
       "district": "TN_04", 
       "created": "2013-08-06T18:47:43", 
       "state_votes": 25, 
-      "votes": 317, 
+      "votes": 318, 
       "district_votes": 8, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.476, 
       "x": -86.4672, 
-      "latest_vote": "2013-08-10T15:02:14", 
+      "latest_vote": "2013-08-10T16:05:35", 
       "id": 16199834, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Ashland", 
@@ -17281,15 +17300,15 @@ opendebate.processFetchedQuestions({
       "district": "KY_02", 
       "created": "2013-08-06T18:45:43", 
       "state_votes": 21, 
-      "votes": 119, 
+      "votes": 120, 
       "district_votes": 7, 
       "state": "KY", 
       "iface": "question", 
       "y": 37.7076, 
       "x": -85.8619, 
-      "latest_vote": "2013-08-10T14:15:42", 
+      "latest_vote": "2013-08-10T16:05:10", 
       "id": 16199725, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Fort Myers", 
@@ -30296,15 +30315,15 @@ opendebate.processFetchedQuestions({
       "district": "", 
       "created": "2013-08-03T22:41:18", 
       "state_votes": 0, 
-      "votes": 3, 
+      "votes": 4, 
       "district_votes": 0, 
       "state": "", 
       "iface": "question", 
       "y": 0.0, 
       "x": 0.0, 
-      "latest_vote": "2013-08-10T15:42:26", 
+      "latest_vote": "2013-08-10T16:05:46", 
       "id": 16172804, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Sequim", 
