@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Cumming", 
+      "first_name": "R. Gwen", 
+      "last_name": "Smith Minniti", 
+      "user_id": 697062, 
+      "submission": "why are the democrats so afraid to stand up to the republicans..? you stand up to a bully they usually back down.", 
+      "district": "GA_07", 
+      "created": "2013-08-10T01:39:00", 
+      "state": "GA", 
+      "iface": "timeline_vote", 
+      "y": 34.2031, 
+      "x": -84.0743, 
+      "id": 16289742, 
+      "question_id": "16172823"
+    }, 
+    {
       "city": "Oswego", 
       "first_name": "Sandra", 
       "last_name": "Van Schaack", 
       "user_id": 553291, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
       "district": "NY_24", 
-      "created": "2013-08-10T01:38:04", 
+      "created": "2013-08-10T01:38:55", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 43.4515, 
       "x": -76.5017, 
-      "id": 16289730, 
-      "question_id": "16172281"
+      "id": 16289741, 
+      "question_id": "16172731"
+    }, 
+    {
+      "city": "Washington", 
+      "first_name": "Ian", 
+      "last_name": "Mishalove", 
+      "user_id": 338297, 
+      "submission": "Why is there not even ONE mention about possibly repealing the \"Patriot Act\", even though that one law has completely obliterated all of our civil rights that were guaranteed in the Constitution??? All USA laws have become invalid, especially for protecting against oppressive governmental organizations, by simply declaring ANYONE an \"Enemy Combatant\" with no real justification for that declaration. The Constitution was specifically created to design precautions against an oppressive government that already had gone too far (Britain). ", 
+      "district": "DC_01", 
+      "created": "2013-08-10T01:38:52", 
+      "state": "DC", 
+      "iface": "timeline_vote", 
+      "y": 38.9054, 
+      "x": -77.031, 
+      "id": 16289739, 
+      "question_id": "16176201"
     }, 
     {
       "city": "Reno", 
       "first_name": "Tim", 
       "last_name": "Sanders", 
       "user_id": 974978, 
-      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
       "district": "NV_02", 
-      "created": "2013-08-10T01:38:02", 
+      "created": "2013-08-10T01:38:51", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 39.7704, 
       "x": -119.617, 
-      "id": 16289728, 
-      "question_id": "16173259"
-    }, 
-    {
-      "city": "Cumming", 
-      "first_name": "R. Gwen", 
-      "last_name": "Smith Minniti", 
-      "user_id": 697062, 
-      "submission": "Will you support a 0.01% (one hundredth of one percent) tax on the gross value of all stock market purchases? It would only add $1 to a $10,000 stock purchase, but such a tax could help reduce our national debt due to the millions traded each day.", 
-      "district": "GA_07", 
-      "created": "2013-08-10T01:36:05", 
-      "state": "GA", 
-      "iface": "timeline_vote", 
-      "y": 34.2031, 
-      "x": -84.0743, 
-      "id": 16289716, 
-      "question_id": "16285260"
+      "id": 16289740, 
+      "question_id": "16172207"
     }, 
     {
       "city": "Jacksonville", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "latest_vote": "2013-08-10T01:07:46", 
       "id": 16289392, 
       "trending_score": 1.5
-    }, 
-    {
-      "city": "Manassas", 
-      "first_name": "Eileen L. P. Davis", 
-      "last_name": "", 
-      "user_id": 1778238, 
-      "submission": "When will the Congress return all the money of  our Social Security funds we paid for or retirement  return back to the Social Security fund?  We need a date and we need every penny which was  robbed from our people's  money Returned NOW! ", 
-      "district": "VA_01", 
-      "created": "2013-08-10T01:01:29", 
-      "state": "VA", 
-      "iface": "timeline_vote", 
-      "y": 38.6736, 
-      "x": -77.4268, 
-      "id": 16289382, 
-      "question_id": "16201865"
     }
   ]
 });
