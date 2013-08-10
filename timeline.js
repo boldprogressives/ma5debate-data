@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "R. Gwen", 
       "last_name": "Smith Minniti", 
       "user_id": 697062, 
-      "submission": "Will you stand up to gun lobbyists to support strong measures about gun control or will you shy away from it because it is too hot?", 
+      "submission": "will you commit to stand against any and all fracking in order to protect our environment, water supply, home safety, and property values, as well as to contend against further climate change?", 
       "district": "GA_07", 
-      "created": "2013-08-10T01:56:46", 
+      "created": "2013-08-10T01:57:17", 
       "state": "GA", 
       "iface": "timeline_vote", 
       "y": 34.2031, 
       "x": -84.0743, 
-      "id": 16290188, 
-      "question_id": "16187691"
+      "id": 16290212, 
+      "question_id": "16213290"
     }, 
     {
       "city": "New York", 
