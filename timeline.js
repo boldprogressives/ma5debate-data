@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "El Prado", 
+      "first_name": "Sally", 
+      "last_name": "Phelps", 
+      "user_id": 1567108, 
+      "submission": "Why did the US (and few others) ignore the world during the Kyoto Protocols? What are we doing to stop the impending doom of climate disaster. NASA says we're dead at 350 ppm CO2 in the atmosphere 400", 
+      "district": "NM_03", 
+      "created": "2013-08-10T00:41:00", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 36.4486, 
+      "x": -105.575, 
+      "id": 16289166, 
+      "question_id": "16213131"
+    }, 
+    {
       "city": "Patterson", 
       "first_name": "Enders", 
       "last_name": "Family", 
       "user_id": 715454, 
-      "submission": "Would you support ending ALL corporate welfare.The taxpayers should not have to finance our own destruction.Our tax's are used to ship jobs overseas, destroy small farms + business's, pollute our air + water, deny our children access to quality education, ect.", 
+      "submission": "Where do you stand on a constitutional admendment that declares that corporations are NOT, in fact, people and do not have the legal rights of people.", 
       "district": "CA_10", 
-      "created": "2013-08-10T00:40:02", 
+      "created": "2013-08-10T00:40:56", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 37.4861, 
       "x": -121.13, 
-      "id": 16289158, 
-      "question_id": "16217791"
+      "id": 16289165, 
+      "question_id": "16176313"
     }, 
     {
       "city": "", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": 0.0, 
       "id": 16289156, 
       "question_id": "16184803"
-    }, 
-    {
-      "city": "El Prado", 
-      "first_name": "Sally", 
-      "last_name": "Phelps", 
-      "user_id": 1567108, 
-      "submission": "will you commit to stand against any and all fracking in order to protect our environment, water supply, home safety, and property values, as well as to contend against further climate change?", 
-      "district": "NM_03", 
-      "created": "2013-08-10T00:39:36", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16289153, 
-      "question_id": "16213290"
     }, 
     {
       "city": "Rockville", 
