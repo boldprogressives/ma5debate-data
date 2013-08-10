@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Kapaa", 
+      "first_name": "Susan", 
+      "last_name": "Oakley", 
+      "user_id": 227763, 
+      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
+      "district": "HI_02", 
+      "created": "2013-08-10T02:28:47", 
+      "state": "HI", 
+      "iface": "timeline_vote", 
+      "y": 22.0788, 
+      "x": -159.35, 
+      "id": 16290527, 
+      "question_id": "16172731"
+    }, 
+    {
       "city": "Oklahoma City", 
       "first_name": "Sheila", 
       "last_name": "Nance", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "x": 0.0, 
       "id": 16289784, 
       "question_id": "16209749"
-    }, 
-    {
-      "city": "Washington", 
-      "first_name": "Ian", 
-      "last_name": "Mishalove", 
-      "user_id": 338297, 
-      "submission": "Do you support the labeling of GMOs and if so, what do you intend to do to promote people's right to know what is in their food?", 
-      "district": "DC_01", 
-      "created": "2013-08-10T01:39:06", 
-      "state": "DC", 
-      "iface": "timeline_vote", 
-      "y": 38.9054, 
-      "x": -77.031, 
-      "id": 16289744, 
-      "question_id": "16176001"
     }
   ]
 });
