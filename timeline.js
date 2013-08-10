@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Margaret", 
       "last_name": "Goodwin", 
       "user_id": 1697661, 
-      "submission": "Would you vote to relieve the onerous burden that Congress imposed on the Post Office?", 
+      "submission": "Will you pledge to initiate or support Congressional action to reverse the gerrymandering of legislative districts, and return them to their Constitutionally-mandated structure?", 
       "district": "OR_05", 
-      "created": "2013-08-10T15:58:38", 
+      "created": "2013-08-10T16:00:01", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 44.8433, 
       "x": -123.186, 
-      "id": 16294269, 
-      "question_id": "16185056"
+      "id": 16294277, 
+      "question_id": "16292474"
     }, 
     {
       "city": "Jacksonville", 

@@ -789,15 +789,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_07", 
       "created": "2013-08-10T10:46:23", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "district_votes": 0, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.8408, 
       "x": -122.337, 
-      "latest_vote": "2013-08-10T14:30:58", 
+      "latest_vote": "2013-08-10T16:00:01", 
       "id": 16292474, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Inkster", 
@@ -1359,15 +1359,15 @@ opendebate.processFetchedQuestions({
       "district": "HI_02", 
       "created": "2013-08-10T02:13:30", 
       "state_votes": 0, 
-      "votes": 2, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "HI", 
       "iface": "question", 
       "y": 19.6647, 
       "x": -155.981, 
-      "latest_vote": "2013-08-10T14:31:38", 
+      "latest_vote": "2013-08-10T15:59:48", 
       "id": 16290490, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "New York", 
@@ -13006,15 +13006,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_10", 
       "created": "2013-08-07T04:04:13", 
       "state_votes": 2, 
-      "votes": 19, 
+      "votes": 20, 
       "district_votes": 1, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.1507, 
       "x": -122.447, 
-      "latest_vote": "2013-08-10T14:19:33", 
+      "latest_vote": "2013-08-10T15:59:38", 
       "id": 16213319, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Sutton", 
