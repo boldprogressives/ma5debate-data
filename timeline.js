@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "John", 
       "last_name": "Grady", 
       "user_id": 1742213, 
-      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
       "district": "IN_07", 
-      "created": "2013-08-10T03:16:58", 
+      "created": "2013-08-10T03:18:05", 
       "state": "IN", 
       "iface": "timeline_vote", 
       "y": 39.8408, 
       "x": -86.2651, 
-      "id": 16290714, 
-      "question_id": "16173259"
+      "id": 16290718, 
+      "question_id": "16172207"
     }, 
     {
       "city": "Akron", 
