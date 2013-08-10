@@ -6,15 +6,34 @@ opendebate.processTimeline({
       "first_name": "jim", 
       "last_name": "miller", 
       "user_id": 1724173, 
-      "submission": "What will you do to overturn Citizen's United?", 
+      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
       "district": "FL_16", 
-      "created": "2013-08-10T14:49:57", 
+      "created": "2013-08-10T14:50:03", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 27.2717, 
       "x": -82.5168, 
-      "id": 16293624, 
-      "question_id": "16172765"
+      "id": 16293626, 
+      "question_id": "16180998"
+    }, 
+    {
+      "city": "Portland", 
+      "first_name": "Sian Barbara", 
+      "last_name": "Allen", 
+      "user_id": 819683, 
+      "submission": "why won't Obama sign the land mine ban?  Every other NATO country has signed it.", 
+      "district": "OR_03", 
+      "created": "2013-08-10T14:50:02", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "OR", 
+      "iface": "timeline_question", 
+      "y": 45.531, 
+      "x": -122.633, 
+      "latest_vote": null, 
+      "id": 16293625, 
+      "trending_score": 0.5
     }, 
     {
       "city": "Bend", 
@@ -305,21 +324,6 @@ opendebate.processTimeline({
       "x": -122.282, 
       "id": 16293436, 
       "question_id": "16172913"
-    }, 
-    {
-      "city": "Braintree", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1810462, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
-      "district": "MA_08", 
-      "created": "2013-08-10T14:31:43", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2088, 
-      "x": -71.0007, 
-      "id": 16293423, 
-      "question_id": "16172281"
     }
   ]
 });
