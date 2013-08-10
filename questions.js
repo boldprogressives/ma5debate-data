@@ -1842,7 +1842,7 @@ opendebate.processFetchedQuestions({
       "x": -97.0975, 
       "latest_vote": "2013-08-10T05:33:10", 
       "id": 16274440, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Port Orchard", 
@@ -2127,7 +2127,7 @@ opendebate.processFetchedQuestions({
       "x": -73.9168, 
       "latest_vote": "2013-08-10T05:32:44", 
       "id": 16271739, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Fort Lauderdale", 
@@ -2165,7 +2165,7 @@ opendebate.processFetchedQuestions({
       "x": -71.371, 
       "latest_vote": "2013-08-10T05:32:26", 
       "id": 16271044, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Fleetwood", 
@@ -4179,7 +4179,7 @@ opendebate.processFetchedQuestions({
       "x": -77.1197, 
       "latest_vote": "2013-08-10T06:32:41", 
       "id": 16249133, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Victorville", 
@@ -9822,7 +9822,7 @@ opendebate.processFetchedQuestions({
       "x": -69.9805, 
       "latest_vote": "2013-08-10T06:33:01", 
       "id": 16220936, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Williamstown", 
