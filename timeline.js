@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "What will you do to promote background checks for potential gun owners?", 
+      "submission": "Do you believe there is such a thing as corporate personhood?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:51:03", 
+      "created": "2013-08-10T04:51:53", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291493, 
-      "question_id": "16211475"
+      "id": 16291630, 
+      "question_id": "16212348"
     }, 
     {
       "city": "Phoenix", 
