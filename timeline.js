@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "What is your plan to reduce human population growth?", 
+      "submission": "What would you do to reduce gun violence in our country?", 
       "district": "NM_03", 
-      "created": "2013-08-10T00:53:57", 
+      "created": "2013-08-10T00:54:49", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16289290, 
-      "question_id": "16188211"
+      "id": 16289300, 
+      "question_id": "16186954"
     }, 
     {
       "city": "Watertown", 
       "first_name": "", 
       "last_name": "", 
       "user_id": 1810397, 
-      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
+      "submission": "Do you support the legalization of marijuana (which should be taxed & regulated like alcohol or tobacco)? If so, would you allow the release of nonviolent offenders from prison?", 
       "district": "MA_05", 
-      "created": "2013-08-10T00:53:01", 
+      "created": "2013-08-10T00:54:45", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3713, 
       "x": -71.1804, 
-      "id": 16289286, 
-      "question_id": "16175230"
+      "id": 16289299, 
+      "question_id": "16172722"
     }, 
     {
       "city": "San Angelo", 
