@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Lynne", 
       "last_name": "Vestal", 
       "user_id": 1121128, 
-      "submission": "Climate change has many facets: CO2/CH4 emissions, permafrost melting, ocean warming/acidification, overpopulation, et al. Who among you has a plan to defeat this unprecedented hydra of challenges?", 
+      "submission": "Will you support a ban on hydrofracking for natural gas?", 
       "district": "AZ_09", 
-      "created": "2013-08-10T06:18:52", 
+      "created": "2013-08-10T06:20:04", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 33.559, 
       "x": -112.089, 
-      "id": 16292107, 
-      "question_id": "16201745"
+      "id": 16292110, 
+      "question_id": "16205951"
     }, 
     {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Will you pledge your support and vote in favor of the President's jobs bill and any other legislation to rebuild the middle class?", 
+      "submission": "Is the incredible inequality in our society compatible with democracy?  If not, what can we do about it?", 
       "district": "AL_07", 
-      "created": "2013-08-10T06:18:25", 
+      "created": "2013-08-10T06:19:04", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292106, 
-      "question_id": "16181773"
+      "id": 16292108, 
+      "question_id": "16179810"
     }, 
     {
       "city": "Santa Barbara", 
