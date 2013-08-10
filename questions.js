@@ -3134,7 +3134,7 @@ opendebate.processFetchedQuestions({
       "x": -79.8958, 
       "latest_vote": "2013-08-10T12:43:38", 
       "id": 16269954, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "East Calais", 
@@ -14591,7 +14591,7 @@ opendebate.processFetchedQuestions({
       "x": -117.955, 
       "latest_vote": "2013-08-10T16:48:42", 
       "id": 16210264, 
-      "trending_score": 6.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Hemet", 
@@ -15731,7 +15731,7 @@ opendebate.processFetchedQuestions({
       "x": -124.071, 
       "latest_vote": "2013-08-10T16:48:30", 
       "id": 16205834, 
-      "trending_score": 7.5
+      "trending_score": 4.0
     }, 
     {
       "city": "Addison", 
@@ -16396,7 +16396,7 @@ opendebate.processFetchedQuestions({
       "x": -70.6862, 
       "latest_vote": "2013-08-10T16:46:40", 
       "id": 16203558, 
-      "trending_score": 5.5
+      "trending_score": 3.0
     }, 
     {
       "city": "Holyoke", 
@@ -16472,7 +16472,7 @@ opendebate.processFetchedQuestions({
       "x": -83.1201, 
       "latest_vote": "2013-08-10T16:46:49", 
       "id": 16203215, 
-      "trending_score": 5.5
+      "trending_score": 3.0
     }, 
     {
       "city": "Lake Worth", 
@@ -16624,7 +16624,7 @@ opendebate.processFetchedQuestions({
       "x": -122.459, 
       "latest_vote": "2013-08-10T16:45:58", 
       "id": 16202059, 
-      "trending_score": 7.5
+      "trending_score": 4.0
     }, 
     {
       "city": "Richfield", 
@@ -23550,16 +23550,16 @@ opendebate.processFetchedQuestions({
       "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
       "district": "MA_07", 
       "created": "2013-08-06T12:32:01", 
-      "state_votes": 29, 
-      "votes": 780, 
+      "state_votes": 30, 
+      "votes": 781, 
       "district_votes": 9, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3818, 
       "x": -71.1032, 
-      "latest_vote": "2013-08-10T17:16:11", 
+      "latest_vote": "2013-08-10T17:43:51", 
       "id": 16180998, 
-      "trending_score": 9.25
+      "trending_score": 10.25
     }, 
     {
       "city": "Irvine", 
@@ -31064,7 +31064,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2368, 
       "latest_vote": "2013-08-10T11:43:30", 
       "id": 16172542, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Cambridge", 
@@ -31302,16 +31302,16 @@ opendebate.processFetchedQuestions({
       "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
       "district": "MA_05", 
       "created": "2013-08-03T17:00:17", 
-      "state_votes": 131, 
-      "votes": 745, 
+      "state_votes": 132, 
+      "votes": 746, 
       "district_votes": 43, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.366, 
       "x": -71.1035, 
-      "latest_vote": "2013-08-10T16:44:17", 
+      "latest_vote": "2013-08-10T17:44:02", 
       "id": 16172207, 
-      "trending_score": 7.5
+      "trending_score": 8.0
     }, 
     {
       "city": "Arlington", 
