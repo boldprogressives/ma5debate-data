@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Why are so many countries banning GMO foods but the US refuses to do so? Why aren't they required to label them as such? ", 
+      "submission": "What do you propose congress fix the retirement requirements of the USPS. The USPS doesn't contribute any to our national debt. Stamps pay for everything the USPS does, no other business is required to fund retirement 7 years in advance within a 5 year window.", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:57:36", 
+      "created": "2013-08-10T04:58:58", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291772, 
-      "question_id": "16205646"
+      "id": 16291774, 
+      "question_id": "16199390"
     }, 
     {
       "city": "Arlington", 
