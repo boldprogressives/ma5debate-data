@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Cheryl", 
       "last_name": "Meyer", 
       "user_id": 795081, 
-      "submission": "Republicans have shifted much of their strategy for reducing reproductive rights to the state level.  How will you ensure women have access to the safe and legal abortions Roe v. Wade promised us?", 
+      "submission": "will you pledge to oppose Any cuts to social Security or Medicare?", 
       "district": "WA_08", 
-      "created": "2013-08-10T14:28:38", 
+      "created": "2013-08-10T14:29:59", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 47.4752, 
       "x": -121.757, 
-      "id": 16293400, 
-      "question_id": "16177825"
+      "id": 16293410, 
+      "question_id": "16185364"
     }, 
     {
       "city": "Austin", 
