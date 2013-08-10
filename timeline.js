@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "San Antonio", 
+      "first_name": "Don", 
+      "last_name": "Freidkin", 
+      "user_id": 1694474, 
+      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
+      "district": "TX_35", 
+      "created": "2013-08-10T14:16:40", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 29.5013, 
+      "x": -98.3977, 
+      "id": 16293324, 
+      "question_id": "16175740"
+    }, 
+    {
       "city": "Belton", 
       "first_name": "Rt Rev John T", 
       "last_name": "Stone, D. D (Ret.)", 
       "user_id": 1776973, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
       "district": "SC_03", 
-      "created": "2013-08-10T14:15:51", 
+      "created": "2013-08-10T14:16:34", 
       "state": "SC", 
       "iface": "timeline_vote", 
       "y": 34.5172, 
       "x": -82.5016, 
-      "id": 16293317, 
-      "question_id": "16172913"
+      "id": 16293322, 
+      "question_id": "16173259"
     }, 
     {
       "city": "Wakefield", 
@@ -45,21 +60,6 @@ opendebate.processTimeline({
       "x": -71.1802, 
       "id": 16293314, 
       "question_id": "16199756"
-    }, 
-    {
-      "city": "San Antonio", 
-      "first_name": "Don", 
-      "last_name": "Freidkin", 
-      "user_id": 1694474, 
-      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
-      "district": "TX_35", 
-      "created": "2013-08-10T14:15:00", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 29.5013, 
-      "x": -98.3977, 
-      "id": 16293310, 
-      "question_id": "16173335"
     }, 
     {
       "city": "Muskego", 
