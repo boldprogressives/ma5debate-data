@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Salinas", 
-      "first_name": "Donna", 
-      "last_name": "Gleaves", 
-      "user_id": 1635501, 
-      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
-      "district": "CA_20", 
-      "created": "2013-08-10T03:22:55", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 36.6757, 
-      "x": -121.628, 
-      "id": 16290757, 
-      "question_id": "16172727"
-    }, 
-    {
       "city": "Indianapolis", 
       "first_name": "John", 
       "last_name": "Grady", 
       "user_id": 1742213, 
-      "submission": "What will you do about gun control and the scare tactics/bullying by the NRA and gun lobbyists?  How will you approach the Right's program of 'divisiveness and culture of fear' that now rips us apart?", 
+      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
       "district": "IN_07", 
-      "created": "2013-08-10T03:22:50", 
+      "created": "2013-08-10T03:23:54", 
       "state": "IN", 
       "iface": "timeline_vote", 
       "y": 39.8408, 
       "x": -86.2651, 
-      "id": 16290755, 
-      "question_id": "16176673"
+      "id": 16290771, 
+      "question_id": "16175637"
+    }, 
+    {
+      "city": "Salinas", 
+      "first_name": "Donna", 
+      "last_name": "Gleaves", 
+      "user_id": 1635501, 
+      "submission": "Why is Social Security referred to by many elected Representatives and Senators in Washington as an \"entitlement\" when, first, we all pay or paid into it during all of our working years, and second, by law, normal tax revenue can not be used to fund It?  Is it because the government has used up all the money paid into Social Security over the years, and so that now the government has to raise more money to pay Social Security's current obligations?", 
+      "district": "CA_20", 
+      "created": "2013-08-10T03:23:50", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 36.6757, 
+      "x": -121.628, 
+      "id": 16290770, 
+      "question_id": "16180456"
     }, 
     {
       "city": "Winter Park", 
