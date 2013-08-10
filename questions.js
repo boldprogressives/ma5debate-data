@@ -1785,7 +1785,7 @@ opendebate.processFetchedQuestions({
       "x": -97.0975, 
       "latest_vote": "2013-08-10T05:33:10", 
       "id": 16274440, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Port Orchard", 
@@ -2070,7 +2070,7 @@ opendebate.processFetchedQuestions({
       "x": -73.9168, 
       "latest_vote": "2013-08-10T05:32:44", 
       "id": 16271739, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Fort Lauderdale", 
@@ -2108,7 +2108,7 @@ opendebate.processFetchedQuestions({
       "x": -71.371, 
       "latest_vote": "2013-08-10T05:32:26", 
       "id": 16271044, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Fleetwood", 
@@ -5015,7 +5015,7 @@ opendebate.processFetchedQuestions({
       "x": -122.046, 
       "latest_vote": "2013-08-10T04:32:57", 
       "id": 16242609, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Garden City", 
@@ -15294,7 +15294,7 @@ opendebate.processFetchedQuestions({
       "x": -122.484, 
       "latest_vote": "2013-08-10T06:02:32", 
       "id": 16204677, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Battletown", 
@@ -15313,7 +15313,7 @@ opendebate.processFetchedQuestions({
       "x": -86.3238, 
       "latest_vote": "2013-08-10T06:37:35", 
       "id": 16204636, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Ithaca", 
@@ -15351,7 +15351,7 @@ opendebate.processFetchedQuestions({
       "x": -121.458, 
       "latest_vote": "2013-08-10T06:02:46", 
       "id": 16204609, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Cambridge", 
@@ -21982,7 +21982,7 @@ opendebate.processFetchedQuestions({
       "x": -77.6438, 
       "latest_vote": "2013-08-10T04:32:40", 
       "id": 16182493, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Schererville", 
@@ -22685,7 +22685,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1032, 
       "latest_vote": "2013-08-10T06:26:18", 
       "id": 16181013, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Cathedral City", 
