@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Clearwater", 
+      "first_name": "Paul", 
+      "last_name": "cadogan", 
+      "user_id": 1525378, 
+      "submission": "Will you protect Social Security And Medicare by not cutting it with the chained CPI for Social Security that has been mentioned.  Also, no cuts to Medicare but closing the donute hole 100% so seniors aren't left fending for themselves to pay full price for their drugs.", 
+      "district": "FL_13", 
+      "created": "2013-08-10T17:37:58", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 28.002, 
+      "x": -82.7465, 
+      "id": 16294752, 
+      "question_id": "16175570"
+    }, 
+    {
       "city": "Hobart", 
       "first_name": "Karon", 
       "last_name": "Vance", 
@@ -309,21 +324,6 @@ opendebate.processTimeline({
       "x": -93.2894, 
       "id": 16294362, 
       "question_id": "16172303"
-    }, 
-    {
-      "city": "Mountain View", 
-      "first_name": "Leon", 
-      "last_name": "Yang", 
-      "user_id": 1778301, 
-      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
-      "district": "CA_18", 
-      "created": "2013-08-10T16:15:52", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 37.4055, 
-      "x": -122.078, 
-      "id": 16294353, 
-      "question_id": "16172731"
     }
   ]
 });

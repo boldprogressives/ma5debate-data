@@ -27142,15 +27142,15 @@ opendebate.processFetchedQuestions({
       "district": "NE_03", 
       "created": "2013-08-05T00:36:55", 
       "state_votes": 19, 
-      "votes": 494, 
+      "votes": 495, 
       "district_votes": 4, 
       "state": "NE", 
       "iface": "question", 
       "y": 41.1313, 
       "x": -103.032, 
-      "latest_vote": "2013-08-10T17:16:28", 
+      "latest_vote": "2013-08-10T17:37:58", 
       "id": 16175570, 
-      "trending_score": 10.5
+      "trending_score": 11.5
     }, 
     {
       "city": "Mountlake Terrace", 
@@ -27226,7 +27226,7 @@ opendebate.processFetchedQuestions({
       "x": -122.322, 
       "latest_vote": "2013-08-10T14:35:30", 
       "id": 16175493, 
-      "trending_score": 1.75
+      "trending_score": 2.5
     }, 
     {
       "city": "Seattle", 
@@ -28594,7 +28594,7 @@ opendebate.processFetchedQuestions({
       "x": -105.043, 
       "latest_vote": "2013-08-10T17:20:14", 
       "id": 16173921, 
-      "trending_score": 7.416666666666667
+      "trending_score": 10.333333333333334
     }, 
     {
       "city": "Fort Collins", 
@@ -29468,7 +29468,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T17:19:55", 
       "id": 16173264, 
-      "trending_score": 14.0
+      "trending_score": 26.25
     }, 
     {
       "city": "Prosper", 
@@ -30456,7 +30456,7 @@ opendebate.processFetchedQuestions({
       "x": -111.974, 
       "latest_vote": "2013-08-10T17:21:46", 
       "id": 16172777, 
-      "trending_score": 15.5
+      "trending_score": 30.166666666666668
     }, 
     {
       "city": "Gladstone", 
@@ -30513,7 +30513,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5959, 
       "latest_vote": "2013-08-10T17:19:46", 
       "id": 16172755, 
-      "trending_score": 8.5
+      "trending_score": 9.416666666666666
     }, 
     {
       "city": "Richardson", 
@@ -31140,7 +31140,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1582, 
       "latest_vote": "2013-08-10T17:21:33", 
       "id": 16172303, 
-      "trending_score": 15.0
+      "trending_score": 29.166666666666668
     }, 
     {
       "city": "Arlington", 
