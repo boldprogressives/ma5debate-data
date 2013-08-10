@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "John", 
       "last_name": "Grady", 
       "user_id": 1742213, 
-      "submission": "Will you support carbon taxes?", 
+      "submission": "Would you support the pardoning of all victimless crime marijuana (Cannabis) offenders? Depopulating our For Profit Prisons?", 
       "district": "IN_07", 
-      "created": "2013-08-10T03:32:03", 
+      "created": "2013-08-10T03:32:47", 
       "state": "IN", 
       "iface": "timeline_vote", 
       "y": 39.8408, 
       "x": -86.2651, 
-      "id": 16290849, 
-      "question_id": "16174323"
+      "id": 16290856, 
+      "question_id": "16208291"
     }, 
     {
       "city": "Salinas", 
       "first_name": "Donna", 
       "last_name": "Gleaves", 
       "user_id": 1635501, 
-      "submission": "How will you support the dignity and freedom of women to make medical decisions with their health care providers without interference of federal and state laws?", 
+      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
       "district": "CA_20", 
-      "created": "2013-08-10T03:31:54", 
+      "created": "2013-08-10T03:32:20", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 36.6757, 
       "x": -121.628, 
-      "id": 16290847, 
-      "question_id": "16183415"
+      "id": 16290852, 
+      "question_id": "16172583"
     }, 
     {
       "city": "Winter Park", 
