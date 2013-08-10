@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "John", 
       "last_name": "Grady", 
       "user_id": 1742213, 
-      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
+      "submission": "Would you support a living wage law that would force corporations, like Wal-Mart, whose Walton family owns more wealth than 40% of all Americans, to pay  living wages to all of their workers?", 
       "district": "IN_07", 
-      "created": "2013-08-10T03:18:05", 
+      "created": "2013-08-10T03:19:01", 
       "state": "IN", 
       "iface": "timeline_vote", 
       "y": 39.8408, 
       "x": -86.2651, 
-      "id": 16290718, 
-      "question_id": "16172207"
+      "id": 16290721, 
+      "question_id": "16210264"
     }, 
     {
       "city": "Akron", 
