@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Beverly", 
-      "first_name": "David", 
-      "last_name": "Laverdiere", 
-      "user_id": 1664612, 
-      "submission": "Can you explain why the people responsible for the failure of Wall Street and the banking industry have not been held accountable for the destruction of our economy.", 
-      "district": "MA_06", 
-      "created": "2013-08-10T04:10:01", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.5665, 
-      "x": -70.8533, 
-      "id": 16291123, 
-      "question_id": "16201979"
-    }, 
-    {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Congress persons have voted to put themselves in the driver's seat when it comes to their salaries. They vote themselves raises and we as citizens cannot over turn. What will you do to stop this practice?", 
+      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:10:00", 
+      "created": "2013-08-10T04:11:00", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291122, 
-      "question_id": "16173244"
+      "id": 16291131, 
+      "question_id": "16172583"
+    }, 
+    {
+      "city": "Beverly", 
+      "first_name": "David", 
+      "last_name": "Laverdiere", 
+      "user_id": 1664612, 
+      "submission": "What will you do to ensure anyone that works full time has a living wage with benefits?", 
+      "district": "MA_06", 
+      "created": "2013-08-10T04:10:47", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.5665, 
+      "x": -70.8533, 
+      "id": 16291130, 
+      "question_id": "16175636"
     }, 
     {
       "city": "San Antonio", 

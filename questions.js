@@ -7580,7 +7580,7 @@ opendebate.processFetchedQuestions({
       "x": -124.06, 
       "latest_vote": "2013-08-09T23:41:15", 
       "id": 16225191, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Peoria", 
@@ -8055,7 +8055,7 @@ opendebate.processFetchedQuestions({
       "x": -72.6394, 
       "latest_vote": "2013-08-09T23:41:02", 
       "id": 16224569, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Belmont", 
@@ -8074,7 +8074,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1802, 
       "latest_vote": "2013-08-09T23:41:00", 
       "id": 16224551, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "North Attleboro", 
@@ -8492,7 +8492,7 @@ opendebate.processFetchedQuestions({
       "x": -71.0561, 
       "latest_vote": "2013-08-09T23:40:57", 
       "id": 16223224, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Chatham", 
@@ -8568,7 +8568,7 @@ opendebate.processFetchedQuestions({
       "x": -71.476, 
       "latest_vote": "2013-08-09T23:40:44", 
       "id": 16223006, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Amherst", 
@@ -8587,7 +8587,7 @@ opendebate.processFetchedQuestions({
       "x": -72.4691, 
       "latest_vote": "2013-08-09T23:40:42", 
       "id": 16222999, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Westport", 
@@ -8720,7 +8720,7 @@ opendebate.processFetchedQuestions({
       "x": -70.9755, 
       "latest_vote": "2013-08-09T23:40:29", 
       "id": 16222571, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "West Newbury", 
@@ -10107,7 +10107,7 @@ opendebate.processFetchedQuestions({
       "x": -81.0578, 
       "latest_vote": "2013-08-10T04:00:42", 
       "id": 16217791, 
-      "trending_score": 6.5
+      "trending_score": 5.1
     }, 
     {
       "city": "Fairbanks", 
@@ -13945,7 +13945,7 @@ opendebate.processFetchedQuestions({
       "x": -79.9806, 
       "latest_vote": "2013-08-10T03:30:23", 
       "id": 16207107, 
-      "trending_score": 1.5
+      "trending_score": 1.25
     }, 
     {
       "city": "Asheville", 
@@ -14211,7 +14211,7 @@ opendebate.processFetchedQuestions({
       "x": -73.7748, 
       "latest_vote": "2013-08-09T23:10:50", 
       "id": 16206023, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "San Mateo", 
@@ -14344,7 +14344,7 @@ opendebate.processFetchedQuestions({
       "x": -124.071, 
       "latest_vote": "2013-08-10T04:00:30", 
       "id": 16205834, 
-      "trending_score": 8.375
+      "trending_score": 12.2
     }, 
     {
       "city": "Addison", 
@@ -14933,7 +14933,7 @@ opendebate.processFetchedQuestions({
       "x": -74.1907, 
       "latest_vote": "2013-08-10T04:00:10", 
       "id": 16203866, 
-      "trending_score": 5.472222222222222
+      "trending_score": 5.5
     }, 
     {
       "city": "Watertown", 
@@ -14952,7 +14952,7 @@ opendebate.processFetchedQuestions({
       "x": -75.9005, 
       "latest_vote": "2013-08-10T03:24:47", 
       "id": 16203822, 
-      "trending_score": 4.0
+      "trending_score": 2.75
     }, 
     {
       "city": "Tampa", 
@@ -15237,7 +15237,7 @@ opendebate.processFetchedQuestions({
       "x": -122.459, 
       "latest_vote": "2013-08-10T03:59:44", 
       "id": 16202059, 
-      "trending_score": 5.083333333333333
+      "trending_score": 5.15
     }, 
     {
       "city": "Richfield", 
@@ -18277,7 +18277,7 @@ opendebate.processFetchedQuestions({
       "x": -86.9261, 
       "latest_vote": "2013-08-09T22:11:11", 
       "id": 16190066, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Garrison", 
@@ -19541,16 +19541,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you support a Constitutional Amendment to guarantee the existence of Labor Unions, the right to organize and negotiate, to strike without the loss of employment, and extend those rights to all private and public sector workers?", 
       "district": "FL_14", 
       "created": "2013-08-06T15:12:57", 
-      "state_votes": 6, 
-      "votes": 147, 
+      "state_votes": 7, 
+      "votes": 148, 
       "district_votes": 1, 
       "state": "FL", 
       "iface": "question", 
       "y": 27.9212, 
       "x": -82.5085, 
-      "latest_vote": "2013-08-10T01:59:26", 
+      "latest_vote": "2013-08-10T04:10:22", 
       "id": 16186103, 
-      "trending_score": 1.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Bronx", 
@@ -21992,16 +21992,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you pledge to uphold the Affordable Care Act and help states implement it -- not defund it?", 
       "district": "MA_05", 
       "created": "2013-08-06T13:36:44", 
-      "state_votes": 13, 
-      "votes": 149, 
+      "state_votes": 14, 
+      "votes": 150, 
       "district_votes": 3, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4213, 
       "x": -71.1134, 
-      "latest_vote": "2013-08-10T03:21:21", 
+      "latest_vote": "2013-08-10T04:10:10", 
       "id": 16181276, 
-      "trending_score": 4.633333333333333
+      "trending_score": 4.966666666666667
     }, 
     {
       "city": "Arlington", 
@@ -22172,7 +22172,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1032, 
       "latest_vote": "2013-08-10T04:05:53", 
       "id": 16180998, 
-      "trending_score": 3.6
+      "trending_score": 3.75
     }, 
     {
       "city": "Irvine", 
@@ -23654,7 +23654,7 @@ opendebate.processFetchedQuestions({
       "x": -112.052, 
       "latest_vote": "2013-08-10T02:11:13", 
       "id": 16178048, 
-      "trending_score": 8.0625
+      "trending_score": 2.1875
     }, 
     {
       "city": "Rathdrum", 
@@ -24566,7 +24566,7 @@ opendebate.processFetchedQuestions({
       "x": -111.75, 
       "latest_vote": "2013-08-10T02:14:23", 
       "id": 16176653, 
-      "trending_score": 2.6666666666666665
+      "trending_score": 1.5833333333333333
     }, 
     {
       "city": "Seattle", 
@@ -24748,15 +24748,15 @@ opendebate.processFetchedQuestions({
       "district": "NM_01", 
       "created": "2013-08-05T04:17:03", 
       "state_votes": 10, 
-      "votes": 219, 
+      "votes": 220, 
       "district_votes": 1, 
       "state": "NM", 
       "iface": "question", 
       "y": 35.1075, 
       "x": -106.576, 
-      "latest_vote": "2013-08-10T03:45:58", 
+      "latest_vote": "2013-08-10T04:10:36", 
       "id": 16176481, 
-      "trending_score": 4.25
+      "trending_score": 5.25
     }, 
     {
       "city": "Copperas Cove", 
@@ -24842,16 +24842,16 @@ opendebate.processFetchedQuestions({
       "submission": "Where do you stand on a constitutional admendment that declares that corporations are NOT, in fact, people and do not have the legal rights of people.", 
       "district": "WI_02", 
       "created": "2013-08-05T03:39:13", 
-      "state_votes": 5, 
-      "votes": 146, 
+      "state_votes": 6, 
+      "votes": 147, 
       "district_votes": 2, 
       "state": "WI", 
       "iface": "question", 
       "y": 43.0328, 
       "x": -89.4981, 
-      "latest_vote": "2013-08-10T04:00:29", 
+      "latest_vote": "2013-08-10T04:10:30", 
       "id": 16176313, 
-      "trending_score": 9.125
+      "trending_score": 10.125
     }, 
     {
       "city": "Denver", 
@@ -25621,16 +25621,16 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do to ensure anyone that works full time has a living wage with benefits?", 
       "district": "IL_12", 
       "created": "2013-08-05T01:06:11", 
-      "state_votes": 10, 
-      "votes": 142, 
+      "state_votes": 11, 
+      "votes": 143, 
       "district_votes": 3, 
       "state": "IL", 
       "iface": "question", 
       "y": 38.3176, 
       "x": -88.9093, 
-      "latest_vote": "2013-08-09T23:18:29", 
+      "latest_vote": "2013-08-10T04:10:47", 
       "id": 16175636, 
-      "trending_score": 1.0
+      "trending_score": 1.5
     }, 
     {
       "city": "Naples", 
@@ -25744,7 +25744,7 @@ opendebate.processFetchedQuestions({
       "x": -81.5334, 
       "latest_vote": "2013-08-10T03:53:52", 
       "id": 16175571, 
-      "trending_score": 2.0
+      "trending_score": 1.4166666666666665
     }, 
     {
       "city": "Sidney", 
@@ -25763,7 +25763,7 @@ opendebate.processFetchedQuestions({
       "x": -103.032, 
       "latest_vote": "2013-08-10T03:27:49", 
       "id": 16175570, 
-      "trending_score": 6.125
+      "trending_score": 2.75
     }, 
     {
       "city": "Mountlake Terrace", 
@@ -27522,15 +27522,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_01", 
       "created": "2013-08-04T04:11:32", 
       "state_votes": 22, 
-      "votes": 195, 
+      "votes": 196, 
       "district_votes": 6, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.2096, 
       "x": -123.218, 
-      "latest_vote": "2013-08-10T03:35:39", 
+      "latest_vote": "2013-08-10T04:10:23", 
       "id": 16173512, 
-      "trending_score": 3.1666666666666665
+      "trending_score": 3.5
     }, 
     {
       "city": "Las Vegas", 
@@ -27815,7 +27815,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-10T04:03:16", 
       "id": 16173335, 
-      "trending_score": 5.333333333333333
+      "trending_score": 4.216666666666667
     }, 
     {
       "city": "Evansville", 
@@ -28138,7 +28138,7 @@ opendebate.processFetchedQuestions({
       "x": -87.7111, 
       "latest_vote": "2013-08-10T03:59:58", 
       "id": 16173257, 
-      "trending_score": 6.166666666666667
+      "trending_score": 6.416666666666667
     }, 
     {
       "city": "Corvallis", 
@@ -28328,7 +28328,7 @@ opendebate.processFetchedQuestions({
       "x": -97.7518, 
       "latest_vote": "2013-08-10T04:00:45", 
       "id": 16173210, 
-      "trending_score": 5.5
+      "trending_score": 4.425
     }, 
     {
       "city": "Cottonwood", 
@@ -28632,7 +28632,7 @@ opendebate.processFetchedQuestions({
       "x": -93.7569, 
       "latest_vote": "2013-08-10T01:48:11", 
       "id": 16173111, 
-      "trending_score": 3.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Fox River Grove", 
@@ -29023,15 +29023,15 @@ opendebate.processFetchedQuestions({
       "district": "WI_02", 
       "created": "2013-08-03T22:52:12", 
       "state_votes": 65, 
-      "votes": 471, 
+      "votes": 472, 
       "district_votes": 14, 
       "state": "WI", 
       "iface": "question", 
       "y": 43.1271, 
       "x": -89.7423, 
-      "latest_vote": "2013-08-10T03:45:43", 
+      "latest_vote": "2013-08-10T04:10:16", 
       "id": 16172823, 
-      "trending_score": 4.25
+      "trending_score": 5.25
     }, 
     {
       "city": "", 
@@ -29593,15 +29593,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T21:18:50", 
       "state_votes": 56, 
-      "votes": 477, 
+      "votes": 478, 
       "district_votes": 10, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-10T04:01:37", 
+      "latest_vote": "2013-08-10T04:11:00", 
       "id": 16172583, 
-      "trending_score": 4.3
+      "trending_score": 4.633333333333333
     }, 
     {
       "city": "ARLINGTON", 
@@ -29734,7 +29734,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T04:00:31", 
       "id": 16172533, 
-      "trending_score": 4.833333333333333
+      "trending_score": 5.557142857142857
     }, 
     {
       "city": "Medford", 
@@ -29848,7 +29848,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1035, 
       "latest_vote": "2013-08-10T04:04:37", 
       "id": 16172283, 
-      "trending_score": 15.1
+      "trending_score": 7.2
     }, 
     {
       "city": "Waltham", 
@@ -29867,7 +29867,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2368, 
       "latest_vote": "2013-08-10T04:01:18", 
       "id": 16172281, 
-      "trending_score": 8.5
+      "trending_score": 10.5
     }, 
     {
       "city": "Arlington", 
