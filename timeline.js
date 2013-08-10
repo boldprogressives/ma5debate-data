@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "El Prado", 
-      "first_name": "Sally", 
-      "last_name": "Phelps", 
-      "user_id": 1567108, 
-      "submission": "What would you do to reduce gun violence in our country?", 
-      "district": "NM_03", 
-      "created": "2013-08-10T00:54:49", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16289300, 
-      "question_id": "16186954"
-    }, 
-    {
       "city": "Watertown", 
       "first_name": "", 
       "last_name": "", 
       "user_id": 1810397, 
-      "submission": "Do you support the legalization of marijuana (which should be taxed & regulated like alcohol or tobacco)? If so, would you allow the release of nonviolent offenders from prison?", 
+      "submission": "What is your stand on full disclosure of all campaign contributions, including specifically identifiable individual and corporate donations to PACs.", 
       "district": "MA_05", 
-      "created": "2013-08-10T00:54:45", 
+      "created": "2013-08-10T00:55:59", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3713, 
       "x": -71.1804, 
-      "id": 16289299, 
-      "question_id": "16172722"
+      "id": 16289310, 
+      "question_id": "16199834"
+    }, 
+    {
+      "city": "El Prado", 
+      "first_name": "Sally", 
+      "last_name": "Phelps", 
+      "user_id": 1567108, 
+      "submission": "Will you actively support and promote the proposal for a Constitution Amendment protecting the right to vote?  (see freetovote.org)", 
+      "district": "NM_03", 
+      "created": "2013-08-10T00:55:44", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 36.4486, 
+      "x": -105.575, 
+      "id": 16289308, 
+      "question_id": "16185403"
     }, 
     {
       "city": "San Angelo", 
