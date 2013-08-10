@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Chicago", 
+      "first_name": "Peter", 
+      "last_name": "Moxon", 
+      "user_id": 128965, 
+      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
+      "district": "IL_07", 
+      "created": "2013-08-10T14:38:29", 
+      "state": "IL", 
+      "iface": "timeline_vote", 
+      "y": 41.899, 
+      "x": -87.6365, 
+      "id": 16293502, 
+      "question_id": "16203676"
+    }, 
+    {
       "city": "Bloomington", 
       "first_name": "Jim", 
       "last_name": "Young", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -117.397, 
       "id": 16293500, 
       "question_id": "16172765"
-    }, 
-    {
-      "city": "Chicago", 
-      "first_name": "Peter", 
-      "last_name": "Moxon", 
-      "user_id": 128965, 
-      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
-      "district": "IL_07", 
-      "created": "2013-08-10T14:37:10", 
-      "state": "IL", 
-      "iface": "timeline_vote", 
-      "y": 41.899, 
-      "x": -87.6365, 
-      "id": 16293498, 
-      "question_id": "16173259"
     }, 
     {
       "city": "Wilmington", 
