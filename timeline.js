@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Cumming", 
+      "first_name": "R. Gwen", 
+      "last_name": "Smith Minniti", 
+      "user_id": 697062, 
+      "submission": "The sequester just slashed Meals on Wheels, food stamps, Section 8 vouchers for housing for the needy.  Since we all have to \"tighten our belts\" how come Congress gets a pay RAISE this year?", 
+      "district": "GA_07", 
+      "created": "2013-08-10T01:23:59", 
+      "state": "GA", 
+      "iface": "timeline_vote", 
+      "y": 34.2031, 
+      "x": -84.0743, 
+      "id": 16289633, 
+      "question_id": "16209412"
+    }, 
+    {
       "city": "El Prado", 
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Will you vote for green energy, and stop fossil fuel subsidies?", 
+      "submission": "Why hasn't the Gerrymandering situation been sent straight to the Supreme Court?  It is in direct opposition to the \"One person, one vote\" principle.", 
       "district": "NM_03", 
-      "created": "2013-08-10T01:22:58", 
+      "created": "2013-08-10T01:23:14", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16289622, 
-      "question_id": "16224828"
+      "id": 16289627, 
+      "question_id": "16225156"
     }, 
     {
       "city": "Watertown", 
@@ -60,21 +75,6 @@ opendebate.processTimeline({
       "x": -112.468, 
       "id": 16289611, 
       "question_id": "16175500"
-    }, 
-    {
-      "city": "Cumming", 
-      "first_name": "R. Gwen", 
-      "last_name": "Smith Minniti", 
-      "user_id": 697062, 
-      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
-      "district": "GA_07", 
-      "created": "2013-08-10T01:21:58", 
-      "state": "GA", 
-      "iface": "timeline_vote", 
-      "y": 34.2031, 
-      "x": -84.0743, 
-      "id": 16289608, 
-      "question_id": "16175637"
     }, 
     {
       "city": "Miami", 
