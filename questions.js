@@ -15693,7 +15693,7 @@ opendebate.processFetchedQuestions({
       "x": -72.6301, 
       "latest_vote": "2013-08-10T06:43:41", 
       "id": 16203477, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Elmira", 
@@ -21526,7 +21526,7 @@ opendebate.processFetchedQuestions({
       "x": -75.7463, 
       "latest_vote": "2013-08-10T11:20:36", 
       "id": 16183415, 
-      "trending_score": 2.125
+      "trending_score": 2.1666666666666665
     }, 
     {
       "city": "UNIO PIER", 
@@ -25117,7 +25117,7 @@ opendebate.processFetchedQuestions({
       "x": -110.829, 
       "latest_vote": "2013-08-10T07:13:51", 
       "id": 16176673, 
-      "trending_score": 1.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Idaho Falls", 
@@ -26191,16 +26191,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
       "district": "IL_08", 
       "created": "2013-08-05T01:44:45", 
-      "state_votes": 97, 
-      "votes": 1055, 
+      "state_votes": 98, 
+      "votes": 1056, 
       "district_votes": 34, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.174, 
       "x": -87.9643, 
-      "latest_vote": "2013-08-10T08:38:44", 
+      "latest_vote": "2013-08-10T11:43:15", 
       "id": 16175740, 
-      "trending_score": 1.1666666666666667
+      "trending_score": 2.1666666666666665
     }, 
     {
       "city": "Buffalo Grove", 
@@ -28081,7 +28081,7 @@ opendebate.processFetchedQuestions({
       "x": -90.0296, 
       "latest_vote": "2013-08-10T07:13:40", 
       "id": 16173625, 
-      "trending_score": 1.1666666666666667
+      "trending_score": 0.3333333333333333
     }, 
     {
       "city": "Lubbock", 
@@ -28537,7 +28537,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-10T07:13:32", 
       "id": 16173327, 
-      "trending_score": 1.1666666666666667
+      "trending_score": 0.3333333333333333
     }, 
     {
       "city": "Louisville", 
@@ -30371,16 +30371,16 @@ opendebate.processFetchedQuestions({
       "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
       "district": "MA_05", 
       "created": "2013-08-03T20:51:46", 
-      "state_votes": 74, 
-      "votes": 361, 
+      "state_votes": 75, 
+      "votes": 362, 
       "district_votes": 20, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3699, 
       "x": -71.2368, 
-      "latest_vote": "2013-08-10T05:56:16", 
+      "latest_vote": "2013-08-10T11:43:30", 
       "id": 16172542, 
-      "trending_score": 0.25
+      "trending_score": 1.25
     }, 
     {
       "city": "Cambridge", 
