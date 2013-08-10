@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Montville", 
+      "first_name": "Colleen", 
+      "last_name": "Sattelmaier", 
+      "user_id": 1691702, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "OH_14", 
+      "created": "2013-08-10T15:04:54", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 41.5975, 
+      "x": -81.0504, 
+      "id": 16293798, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Bend", 
+      "first_name": "Robert", 
+      "last_name": "Marvos", 
+      "user_id": 1081036, 
+      "submission": "Would you vote to relieve the onerous burden that Congress imposed on the Post Office?", 
+      "district": "OR_02", 
+      "created": "2013-08-10T15:04:51", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 44.0221, 
+      "x": -121.297, 
+      "id": 16293797, 
+      "question_id": "16185056"
+    }, 
+    {
       "city": "San Diego", 
       "first_name": "Jason", 
       "last_name": "Folkman", 
@@ -15,21 +45,6 @@ opendebate.processTimeline({
       "x": -117.13, 
       "id": 16293790, 
       "question_id": "16201745"
-    }, 
-    {
-      "city": "Bend", 
-      "first_name": "Robert", 
-      "last_name": "Marvos", 
-      "user_id": 1081036, 
-      "submission": "Do you believe that its right that our military uses depleted uranium munitions in conflict zones, which not only destroy their target, but also spread deadly radiation over civillian populations?", 
-      "district": "OR_02", 
-      "created": "2013-08-10T15:02:42", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 44.0221, 
-      "x": -121.297, 
-      "id": 16293788, 
-      "question_id": "16207353"
     }, 
     {
       "city": "Winston Salem", 
@@ -329,21 +344,6 @@ opendebate.processTimeline({
       "x": -71.2203, 
       "id": 16293728, 
       "question_id": "16259255"
-    }, 
-    {
-      "city": "Virginia Beach", 
-      "first_name": "Sandi", 
-      "last_name": "Dove", 
-      "user_id": 866438, 
-      "submission": "The sequester just slashed Meals on Wheels, food stamps, Section 8 vouchers for housing for the needy.  Since we all have to \"tighten our belts\" how come Congress gets a pay RAISE this year?", 
-      "district": "VA_02", 
-      "created": "2013-08-10T14:57:43", 
-      "state": "VA", 
-      "iface": "timeline_vote", 
-      "y": 36.8377, 
-      "x": -76.026, 
-      "id": 16293722, 
-      "question_id": "16209412"
     }
   ]
 });
