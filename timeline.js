@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "When is Congress going to reinstate Glass-Steagall Act and hold CEO's of \"too big to fail\" banks accountable for their criminal behavior?", 
+      "submission": "Will you make repairing and updating the infrastructure, not just roads but bridges and the electrical grid, a priority?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:32:57", 
+      "created": "2013-08-10T04:33:55", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291212, 
-      "question_id": "16242609"
+      "id": 16291216, 
+      "question_id": "16191114"
     }, 
     {
       "city": "San Antonio", 
