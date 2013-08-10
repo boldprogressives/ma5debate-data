@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Birmingham", 
+      "first_name": "Dot", 
+      "last_name": "Canup", 
+      "user_id": 1565077, 
+      "submission": "As an injured worker having sustained a work related injury, I am dismayed at the poor treatment by the Worker's Comp insurance companies.  Will you take a look at and suggest reformation of WC Laws?", 
+      "district": "AL_07", 
+      "created": "2013-08-10T05:29:46", 
+      "state": "AL", 
+      "iface": "timeline_vote", 
+      "y": 33.6391, 
+      "x": -86.6919, 
+      "id": 16291903, 
+      "question_id": "16281369"
+    }, 
+    {
+      "city": "Disney", 
+      "first_name": "Pam", 
+      "last_name": "Johnson", 
+      "user_id": 1754508, 
+      "submission": "Who are your corporate sponsors? Would you be in favor of all politicians wearing patches on their cloths with the corporate logo's of their sponsors just like athletes do. This way we know where the money comes from before we vote.", 
+      "district": "OK_02", 
+      "created": "2013-08-10T05:29:12", 
+      "state": "OK", 
+      "iface": "timeline_vote", 
+      "y": 36.481, 
+      "x": -95.0171, 
+      "id": 16291902, 
+      "question_id": "16175691"
+    }, 
+    {
       "city": "Winchester", 
       "first_name": "Jeff", 
       "last_name": "Dearman", 
@@ -19,21 +49,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16291900, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Disney", 
-      "first_name": "Pam", 
-      "last_name": "Johnson", 
-      "user_id": 1754508, 
-      "submission": "Will you vote to end tax loopholes for the rich, big business subsides, overseas corporate tax loopholes, wasteful wars, foreign country subsides, quality health care for all, good safe food for all, clean air, clean energy, clean safe drinking water, useful education and job opportunities for all hard working citizens that can achieve these levels and deserve it, gun control, to end wall street fraud and corruption.", 
-      "district": "OK_02", 
-      "created": "2013-08-10T05:28:51", 
-      "state": "OK", 
-      "iface": "timeline_vote", 
-      "y": 36.481, 
-      "x": -95.0171, 
-      "id": 16291899, 
-      "question_id": "16203215"
     }, 
     {
       "city": "Winchester", 
@@ -72,21 +87,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16291892, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Birmingham", 
-      "first_name": "Dot", 
-      "last_name": "Canup", 
-      "user_id": 1565077, 
-      "submission": "The Tax Payers cost for Incentives for outsourcing jobs overseas is 58 billion dollars a year. And this does not include the cost of lost jobs. Will you work to stop giving tax breaks to send jobs overseas.", 
-      "district": "AL_07", 
-      "created": "2013-08-10T05:26:24", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 33.6391, 
-      "x": -86.6919, 
-      "id": 16291889, 
-      "question_id": "16290698"
     }, 
     {
       "city": "Stevens Point", 
