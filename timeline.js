@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Beverly", 
-      "first_name": "David", 
-      "last_name": "Laverdiere", 
-      "user_id": 1664612, 
-      "submission": "What will you do to overturn Citizen's United?", 
-      "district": "MA_06", 
-      "created": "2013-08-10T03:58:59", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.5665, 
-      "x": -70.8533, 
-      "id": 16291012, 
-      "question_id": "16172765"
-    }, 
-    {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
+      "submission": "Will congress ever address a jobs/infrastructure bill?  We needs jobs, jobs training and massive infrastructure repair.  I am sick of the GOP obstruction.", 
       "district": "AL_07", 
-      "created": "2013-08-10T03:58:56", 
+      "created": "2013-08-10T04:00:06", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291011, 
-      "question_id": "16175634"
+      "id": 16291022, 
+      "question_id": "16256688"
+    }, 
+    {
+      "city": "Beverly", 
+      "first_name": "David", 
+      "last_name": "Laverdiere", 
+      "user_id": 1664612, 
+      "submission": "Will you vote to end tax loopholes for the rich, big business subsides, overseas corporate tax loopholes, wasteful wars, foreign country subsides, quality health care for all, good safe food for all, clean air, clean energy, clean safe drinking water, useful education and job opportunities for all hard working citizens that can achieve these levels and deserve it, gun control, to end wall street fraud and corruption.", 
+      "district": "MA_06", 
+      "created": "2013-08-10T04:00:02", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.5665, 
+      "x": -70.8533, 
+      "id": 16291021, 
+      "question_id": "16203215"
+    }, 
+    {
+      "city": "Idaho Falls", 
+      "first_name": "Claire", 
+      "last_name": "Ashton-Heckathorn", 
+      "user_id": 1807090, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "ID_02", 
+      "created": "2013-08-10T03:59:58", 
+      "state": "ID", 
+      "iface": "timeline_vote", 
+      "y": 43.4746, 
+      "x": -112.013, 
+      "id": 16291019, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Alameda", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -122.634, 
       "id": 16290628, 
       "question_id": "16173264"
-    }, 
-    {
-      "city": "LOS OSOS", 
-      "first_name": "TIM", 
-      "last_name": "LYTSELL", 
-      "user_id": 1093890, 
-      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
-      "district": "CA_24", 
-      "created": "2013-08-10T02:59:32", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 35.3014, 
-      "x": -120.825, 
-      "id": 16290627, 
-      "question_id": "16172697"
     }
   ]
 });
