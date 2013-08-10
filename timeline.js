@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Prosper", 
+      "first_name": "Jeffrey", 
+      "last_name": "Wallace", 
+      "user_id": 1653140, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "TX_03", 
+      "created": "2013-08-10T01:28:56", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 33.2476, 
+      "x": -96.8112, 
+      "id": 16289680, 
+      "question_id": "16173264"
+    }, 
+    {
       "city": "Cumming", 
       "first_name": "R. Gwen", 
       "last_name": "Smith Minniti", 
       "user_id": 697062, 
-      "submission": "Will you protect the rights of all citizens by immediately reauthorizing the 1965 Voter Rights through up-dating section 3, 4, and 5 to include all states?", 
+      "submission": "Will you fight to protect voting rights of all Americans?", 
       "district": "GA_07", 
-      "created": "2013-08-10T01:27:59", 
+      "created": "2013-08-10T01:28:45", 
       "state": "GA", 
       "iface": "timeline_vote", 
       "y": 34.2031, 
       "x": -84.0743, 
-      "id": 16289670, 
-      "question_id": "16287162"
+      "id": 16289678, 
+      "question_id": "16201559"
+    }, 
+    {
+      "city": "Reno", 
+      "first_name": "Tim", 
+      "last_name": "Sanders", 
+      "user_id": 974978, 
+      "submission": "The threat that hangs over the country today is a GOP determined to destroy the middle class and the values that define it.  What specific steps will you recommend to confront, not appease, the GOP?", 
+      "district": "NV_02", 
+      "created": "2013-08-10T01:28:43", 
+      "state": "NV", 
+      "iface": "timeline_vote", 
+      "y": 39.7704, 
+      "x": -119.617, 
+      "id": 16289677, 
+      "question_id": "16172694"
     }, 
     {
       "city": "Allston", 
@@ -30,21 +60,6 @@ opendebate.processTimeline({
       "x": -71.1306, 
       "id": 16289669, 
       "question_id": "16199482"
-    }, 
-    {
-      "city": "Reno", 
-      "first_name": "Tim", 
-      "last_name": "Sanders", 
-      "user_id": 974978, 
-      "submission": "To all Candidates...Will you support Elizabeth Warren's bill to allow college students to borrow under 1% interest of college loans? ", 
-      "district": "NV_02", 
-      "created": "2013-08-10T01:27:39", 
-      "state": "NV", 
-      "iface": "timeline_vote", 
-      "y": 39.7704, 
-      "x": -119.617, 
-      "id": 16289668, 
-      "question_id": "16200733"
     }, 
     {
       "city": "Watertown", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -100.436, 
       "id": 16289281, 
       "question_id": "16205834"
-    }, 
-    {
-      "city": "Philadelphia", 
-      "first_name": "Wanda", 
-      "last_name": "Seidle", 
-      "user_id": 1689376, 
-      "submission": "Will you work to support Elizabeth Warren's efforts to revise Glass-Steagall", 
-      "district": "PA_02", 
-      "created": "2013-08-10T00:49:03", 
-      "state": "PA", 
-      "iface": "timeline_vote", 
-      "y": 39.9789, 
-      "x": -75.2206, 
-      "id": 16289243, 
-      "question_id": "16265543"
     }
   ]
 });
