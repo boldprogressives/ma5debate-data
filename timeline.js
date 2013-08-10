@@ -2,6 +2,25 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Henderson", 
+      "first_name": "Nicholas", 
+      "last_name": "Martino", 
+      "user_id": 1810196, 
+      "submission": "If a patriot hunts down and executes one of your \"colleagues\", a 4th Reich Nazi war criminal posing as a \"public official\" who has committed treason, aided and abetted terrorists, acted as a an accessory after the fact to mass murder on 9/11 by perpetuating the cover-up and in so doing put the lives of every young man and women who has been or might be duped into enlisting at grave risk, would you... (a) pin an iron cross on him and attend the state funeral, (b) find a safe place to hide in South America, or (c) rejoice as the free people of the country throw his worthless Nazi carcass into a pit of fire? ", 
+      "district": "NV_03", 
+      "created": "2013-08-10T10:58:10", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NV", 
+      "iface": "timeline_question", 
+      "y": 36.0401, 
+      "x": -115.077, 
+      "latest_vote": null, 
+      "id": 16292495, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Harrison Township", 
       "first_name": "Donna", 
       "last_name": "Freeman", 
@@ -329,21 +348,6 @@ opendebate.processTimeline({
       "x": -117.324, 
       "id": 16292192, 
       "question_id": "16203477"
-    }, 
-    {
-      "city": "Phoenix", 
-      "first_name": "Lynne", 
-      "last_name": "Vestal", 
-      "user_id": 1121128, 
-      "submission": "Why is Monsanto allowed to destroy our agriculture and the small farmers?", 
-      "district": "AZ_09", 
-      "created": "2013-08-10T06:42:46", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 33.559, 
-      "x": -112.089, 
-      "id": 16292191, 
-      "question_id": "16244435"
     }
   ]
 });

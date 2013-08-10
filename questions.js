@@ -2,6 +2,25 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Henderson", 
+      "first_name": "Nicholas", 
+      "last_name": "Martino", 
+      "user_id": 1810196, 
+      "submission": "If a patriot hunts down and executes one of your \"colleagues\", a 4th Reich Nazi war criminal posing as a \"public official\" who has committed treason, aided and abetted terrorists, acted as a an accessory after the fact to mass murder on 9/11 by perpetuating the cover-up and in so doing put the lives of every young man and women who has been or might be duped into enlisting at grave risk, would you... (a) pin an iron cross on him and attend the state funeral, (b) find a safe place to hide in South America, or (c) rejoice as the free people of the country throw his worthless Nazi carcass into a pit of fire? ", 
+      "district": "NV_03", 
+      "created": "2013-08-10T10:58:10", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NV", 
+      "iface": "question", 
+      "y": 36.0401, 
+      "x": -115.077, 
+      "latest_vote": null, 
+      "id": 16292495, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Killeen", 
       "first_name": "George", 
       "last_name": "Dare", 
@@ -14553,7 +14572,7 @@ opendebate.processFetchedQuestions({
       "x": -82.5584, 
       "latest_vote": "2013-08-10T05:59:17", 
       "id": 16207073, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Hollywood", 
@@ -14705,7 +14724,7 @@ opendebate.processFetchedQuestions({
       "x": -99.1513, 
       "latest_vote": "2013-08-10T05:58:41", 
       "id": 16206388, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Addison", 
@@ -16529,7 +16548,7 @@ opendebate.processFetchedQuestions({
       "x": -76.0246, 
       "latest_vote": "2013-08-10T04:59:16", 
       "id": 16199877, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "El Dorado Hills", 
@@ -16662,7 +16681,7 @@ opendebate.processFetchedQuestions({
       "x": -75.2291, 
       "latest_vote": "2013-08-10T04:59:11", 
       "id": 16199637, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Belmont", 
@@ -16700,7 +16719,7 @@ opendebate.processFetchedQuestions({
       "x": -77.9589, 
       "latest_vote": "2013-08-10T04:58:58", 
       "id": 16199390, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Philadelphia", 
@@ -16738,7 +16757,7 @@ opendebate.processFetchedQuestions({
       "x": -73.9075, 
       "latest_vote": "2013-08-10T04:58:32", 
       "id": 16199317, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "New Port Richey", 
@@ -29031,7 +29050,7 @@ opendebate.processFetchedQuestions({
       "x": -122.797, 
       "latest_vote": "2013-08-10T06:29:00", 
       "id": 16173172, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "San Antonio", 
@@ -29202,7 +29221,7 @@ opendebate.processFetchedQuestions({
       "x": -93.7569, 
       "latest_vote": "2013-08-10T06:28:43", 
       "id": 16173118, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "West Des Moines", 
