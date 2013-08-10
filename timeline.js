@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "John", 
       "last_name": "Grady", 
       "user_id": 1742213, 
-      "submission": "Will you support a Whistleblowers Act that will allow for transparency  in our Government and the NSA with immunity to prosecution?", 
+      "submission": "The drug war and the prison industry has destroyed many lives -- especially of low income and minority citizens. As a first step, marijuana needs to be legalized nation-wide. What will you do toward that end?", 
       "district": "IN_07", 
-      "created": "2013-08-10T03:24:47", 
+      "created": "2013-08-10T03:26:05", 
       "state": "IN", 
       "iface": "timeline_vote", 
       "y": 39.8408, 
       "x": -86.2651, 
-      "id": 16290781, 
-      "question_id": "16203822"
+      "id": 16290791, 
+      "question_id": "16173418"
     }, 
     {
       "city": "Salinas", 
       "first_name": "Donna", 
       "last_name": "Gleaves", 
       "user_id": 1635501, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "submission": "Would you support a living wage law that would force corporations, like Wal-Mart, whose Walton family owns more wealth than 40% of all Americans, to pay  living wages to all of their workers?", 
       "district": "CA_20", 
-      "created": "2013-08-10T03:24:43", 
+      "created": "2013-08-10T03:25:58", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 36.6757, 
       "x": -121.628, 
-      "id": 16290780, 
-      "question_id": "16172266"
+      "id": 16290790, 
+      "question_id": "16210264"
     }, 
     {
       "city": "Winter Park", 
