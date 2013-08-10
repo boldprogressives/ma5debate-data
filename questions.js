@@ -9404,7 +9404,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1804, 
       "latest_vote": "2013-08-10T11:39:59", 
       "id": 16222728, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Louisville", 
@@ -11751,16 +11751,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you believe the NSA violated the Fourth Amendment by failing to obtain specific warrants detailing the probable cause it has to eavesdrop on the conversations of each individual it has surveilled?", 
       "district": "MA_05", 
       "created": "2013-08-07T09:46:47", 
-      "state_votes": 3, 
-      "votes": 12, 
-      "district_votes": 2, 
+      "state_votes": 4, 
+      "votes": 13, 
+      "district_votes": 3, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3612, 
       "x": -71.3639, 
-      "latest_vote": "2013-08-10T00:38:48", 
+      "latest_vote": "2013-08-10T13:20:30", 
       "id": 16215369, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Wayland", 
@@ -18363,16 +18363,16 @@ opendebate.processFetchedQuestions({
       "submission": " Graduate students who borrow money, are being forced into repayment by private loan lenders before they complete their education. What will you do to help this population? ", 
       "district": "MA_01", 
       "created": "2013-08-06T16:39:38", 
-      "state_votes": 4, 
-      "votes": 13, 
-      "district_votes": 0, 
+      "state_votes": 5, 
+      "votes": 14, 
+      "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.6871, 
       "x": -73.0744, 
-      "latest_vote": "2013-08-10T00:49:20", 
+      "latest_vote": "2013-08-10T13:20:13", 
       "id": 16192164, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Mountain View", 
@@ -29924,7 +29924,7 @@ opendebate.processFetchedQuestions({
       "x": -122.811, 
       "latest_vote": "2013-08-10T12:52:18", 
       "id": 16172731, 
-      "trending_score": 2.1666666666666665
+      "trending_score": 1.5
     }, 
     {
       "city": "Chicago", 
