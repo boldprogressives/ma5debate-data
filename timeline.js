@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "LOS OSOS", 
+      "first_name": "TIM", 
+      "last_name": "LYTSELL", 
+      "user_id": 1093890, 
+      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "district": "CA_24", 
+      "created": "2013-08-10T02:56:55", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 35.3014, 
+      "x": -120.825, 
+      "id": 16290579, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Ashland", 
+      "first_name": "Kenneth", 
+      "last_name": "Deveney", 
+      "user_id": 506233, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "OR_02", 
+      "created": "2013-08-10T02:56:50", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 42.1583, 
+      "x": -122.634, 
+      "id": 16290578, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Somerville", 
       "first_name": "", 
       "last_name": "", 
@@ -286,40 +316,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16289961, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "El Paso", 
-      "first_name": "GAry", 
-      "last_name": "Petz", 
-      "user_id": 603382, 
-      "submission": "will help to bring Majeruana down from schedule 1to something lower,even legalize it?", 
-      "district": "TX_16", 
-      "created": "2013-08-10T01:51:39", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "TX", 
-      "iface": "timeline_question", 
-      "y": 31.8576, 
-      "x": -106.438, 
-      "latest_vote": null, 
-      "id": 16289937, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Panama City", 
-      "first_name": "eugene", 
-      "last_name": "mcclure", 
-      "user_id": 1567750, 
-      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
-      "district": "FL_02", 
-      "created": "2013-08-10T01:50:23", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 30.2034, 
-      "x": -85.6606, 
-      "id": 16289883, 
-      "question_id": "16172207"
     }
   ]
 });
