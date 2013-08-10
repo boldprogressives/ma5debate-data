@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Ricci", 
       "last_name": "Pineau", 
       "user_id": 1239640, 
-      "submission": "What will you do to get congress to work on a jobs bill instead of wasting taxpayers money trying to repeal The Affordable Healthcare Act?", 
+      "submission": "When will you force Eric Holder and the DOJ to start prosecuting the criminal elements in the Wall Street firms that attributed to the great economic crash of 2008?", 
       "district": "CA_20", 
-      "created": "2013-08-10T20:12:55", 
+      "created": "2013-08-10T20:13:56", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 36.9715, 
       "x": -121.985, 
-      "id": 16295100, 
-      "question_id": "16203558"
+      "id": 16295110, 
+      "question_id": "16209667"
     }, 
     {
       "city": "Oklahoma City", 
