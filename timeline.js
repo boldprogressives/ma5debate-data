@@ -6,30 +6,45 @@ opendebate.processTimeline({
       "first_name": "Michael", 
       "last_name": "Grish", 
       "user_id": 1691528, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
       "district": "TX_10", 
-      "created": "2013-08-10T14:55:01", 
+      "created": "2013-08-10T14:55:52", 
       "state": "TX", 
       "iface": "timeline_vote", 
       "y": 30.331, 
       "x": -97.699, 
-      "id": 16293668, 
-      "question_id": "16172777"
+      "id": 16293687, 
+      "question_id": "16172913"
     }, 
     {
       "city": "Bluffton", 
       "first_name": "Theo", 
       "last_name": "Brown", 
       "user_id": 1693171, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
       "district": "SC_01", 
-      "created": "2013-08-10T14:54:52", 
+      "created": "2013-08-10T14:55:48", 
       "state": "SC", 
       "iface": "timeline_vote", 
       "y": 32.2597, 
       "x": -80.8723, 
-      "id": 16293667, 
-      "question_id": "16172777"
+      "id": 16293682, 
+      "question_id": "16172303"
+    }, 
+    {
+      "city": "Bristol", 
+      "first_name": "Marcia", 
+      "last_name": "Miller", 
+      "user_id": 1733720, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "RI_01", 
+      "created": "2013-08-10T14:55:39", 
+      "state": "RI", 
+      "iface": "timeline_vote", 
+      "y": 41.6875, 
+      "x": -71.2701, 
+      "id": 16293680, 
+      "question_id": "16173264"
     }, 
     {
       "city": "Bend", 
@@ -313,21 +328,6 @@ opendebate.processTimeline({
       "x": -75.5081, 
       "id": 16293497, 
       "question_id": "16172281"
-    }, 
-    {
-      "city": "Great Neck", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1768827, 
-      "submission": "Will you pledge to uphold the Affordable Care Act and help states implement it -- not defund it?", 
-      "district": "NY_03", 
-      "created": "2013-08-10T14:36:29", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.7867, 
-      "x": -73.7258, 
-      "id": 16293490, 
-      "question_id": "16181276"
     }
   ]
 });
