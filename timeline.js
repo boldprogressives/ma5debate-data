@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "concord", 
+      "first_name": "karen", 
+      "last_name": "hrenko", 
+      "user_id": 1079825, 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "district": "OH_14", 
+      "created": "2013-08-10T14:41:58", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 41.75, 
+      "x": -81.2833, 
+      "id": 16293533, 
+      "question_id": "16172913"
+    }, 
+    {
       "city": "Bloomington", 
       "first_name": "Jim", 
       "last_name": "Young", 
       "user_id": 1770393, 
-      "submission": "Do/would you support an investigation of any/all Representative\u2019s that signed the Norquist pledge as having a conflict of interest with their pledge to uphold the Constitution and make government work?", 
+      "submission": "Will you support a Whistleblowers Act that will allow for transparency  in our Government and the NSA with immunity to prosecution?", 
       "district": "CA_35", 
-      "created": "2013-08-10T14:40:26", 
+      "created": "2013-08-10T14:41:12", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 34.0699, 
       "x": -117.397, 
-      "id": 16293515, 
-      "question_id": "16206139"
+      "id": 16293519, 
+      "question_id": "16203822"
+    }, 
+    {
+      "city": "Chicago", 
+      "first_name": "Sarah", 
+      "last_name": "Green", 
+      "user_id": 1564201, 
+      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
+      "district": "IL_05", 
+      "created": "2013-08-10T14:41:12", 
+      "state": "IL", 
+      "iface": "timeline_vote", 
+      "y": 41.9685, 
+      "x": -87.7037, 
+      "id": 16293520, 
+      "question_id": "16175230"
     }, 
     {
       "city": "Chicago", 
@@ -115,15 +145,15 @@ opendebate.processTimeline({
       "district": "VA_04", 
       "created": "2013-08-10T14:34:34", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "VA", 
       "iface": "timeline_question", 
       "y": 36.8497, 
       "x": -76.4794, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-10T14:41:36", 
       "id": 16293451, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Berkeley", 
@@ -278,36 +308,6 @@ opendebate.processTimeline({
       "x": -71.1802, 
       "id": 16293283, 
       "question_id": "16200039"
-    }, 
-    {
-      "city": "Portland", 
-      "first_name": "Marc", 
-      "last_name": "Schluper", 
-      "user_id": 1691083, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
-      "district": "OR_01", 
-      "created": "2013-08-10T14:08:49", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 45.5409, 
-      "x": -122.83, 
-      "id": 16293279, 
-      "question_id": "16172533"
-    }, 
-    {
-      "city": "Boston", 
-      "first_name": "Aimee", 
-      "last_name": "Coolidge", 
-      "user_id": 1657685, 
-      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
-      "district": "MA_07", 
-      "created": "2013-08-10T14:07:28", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.337, 
-      "x": -71.0638, 
-      "id": 16293274, 
-      "question_id": "16203676"
     }
   ]
 });
