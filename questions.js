@@ -2,6 +2,25 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Indian Orchard", 
+      "first_name": "Miguel", 
+      "last_name": "Soto", 
+      "user_id": 1716772, 
+      "submission": "Where do you all stand on the Immigration status for the dreamers and those families that are not violators of any law to be able to stay in America, and earn a citizenship, since they have been working and are part of every communities as we speak.", 
+      "district": "MA_01", 
+      "created": "2013-08-10T14:57:33", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.151, 
+      "x": -72.5065, 
+      "latest_vote": null, 
+      "id": 16293718, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Portland", 
       "first_name": "Sian Barbara", 
       "last_name": "Allen", 
@@ -4551,15 +4570,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-09T00:02:39", 
       "state_votes": 1, 
-      "votes": 35, 
+      "votes": 36, 
       "district_votes": 0, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.5746, 
       "x": -122.811, 
-      "latest_vote": "2013-08-10T04:40:44", 
+      "latest_vote": "2013-08-10T14:57:48", 
       "id": 16248409, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Athol", 
@@ -14184,15 +14203,15 @@ opendebate.processFetchedQuestions({
       "district": "NE_03", 
       "created": "2013-08-06T23:27:59", 
       "state_votes": 11, 
-      "votes": 157, 
+      "votes": 158, 
       "district_votes": 1, 
       "state": "NE", 
       "iface": "question", 
       "y": 40.7286, 
       "x": -99.16, 
-      "latest_vote": "2013-08-10T07:15:03", 
+      "latest_vote": "2013-08-10T14:57:43", 
       "id": 16209412, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "El Cajon", 
@@ -24064,15 +24083,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_07", 
       "created": "2013-08-05T21:13:12", 
       "state_votes": 4, 
-      "votes": 35, 
+      "votes": 36, 
       "district_votes": 1, 
       "state": "CO", 
       "iface": "question", 
       "y": 39.8289, 
       "x": -105.037, 
-      "latest_vote": "2013-08-10T00:06:00", 
+      "latest_vote": "2013-08-10T14:57:34", 
       "id": 16178788, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Sammamish", 
@@ -29688,15 +29707,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T23:23:07", 
       "state_votes": 186, 
-      "votes": 1262, 
+      "votes": 1263, 
       "district_votes": 49, 
       "state": "MT", 
       "iface": "question", 
       "y": 48.2112, 
       "x": -114.294, 
-      "latest_vote": "2013-08-10T14:55:52", 
+      "latest_vote": "2013-08-10T14:57:42", 
       "id": 16172913, 
-      "trending_score": 15.5
+      "trending_score": 16.5
     }, 
     {
       "city": "Montegut", 
@@ -30619,15 +30638,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:52:54", 
       "state_votes": 179, 
-      "votes": 1143, 
+      "votes": 1145, 
       "district_votes": 49, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4207, 
       "x": -71.1582, 
-      "latest_vote": "2013-08-10T14:55:48", 
+      "latest_vote": "2013-08-10T14:58:00", 
       "id": 16172303, 
-      "trending_score": 17.5
+      "trending_score": 19.5
     }, 
     {
       "city": "Arlington", 
@@ -30695,15 +30714,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:42:20", 
       "state_votes": 186, 
-      "votes": 1250, 
+      "votes": 1252, 
       "district_votes": 57, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3699, 
       "x": -71.2368, 
-      "latest_vote": "2013-08-10T14:48:36", 
+      "latest_vote": "2013-08-10T14:57:47", 
       "id": 16172281, 
-      "trending_score": 7.5
+      "trending_score": 8.5
     }, 
     {
       "city": "Arlington", 
