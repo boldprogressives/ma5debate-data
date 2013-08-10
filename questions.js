@@ -29916,15 +29916,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:21:20", 
       "state_votes": 123, 
-      "votes": 1062, 
+      "votes": 1063, 
       "district_votes": 25, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.5746, 
       "x": -122.811, 
-      "latest_vote": "2013-08-10T12:52:18", 
+      "latest_vote": "2013-08-10T13:26:16", 
       "id": 16172731, 
-      "trending_score": 1.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Chicago", 

@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "robert", 
       "last_name": "Brown", 
       "user_id": 599761, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
       "district": "FL_12", 
-      "created": "2013-08-10T13:25:20", 
+      "created": "2013-08-10T13:26:16", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 28.2385, 
       "x": -82.7307, 
-      "id": 16292682, 
-      "question_id": "16172913"
+      "id": 16292683, 
+      "question_id": "16172731"
     }, 
     {
       "city": "Gaithersburg", 
