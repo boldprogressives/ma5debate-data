@@ -2,34 +2,68 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Wilmington", 
+      "first_name": "BETTY", 
+      "last_name": "DUFF", 
+      "user_id": 1577224, 
+      "submission": "Would you support Medicare paying for dental care?", 
+      "district": "DE_01", 
+      "created": "2013-08-10T14:34:57", 
+      "state": "DE", 
+      "iface": "timeline_vote", 
+      "y": 39.8206, 
+      "x": -75.5081, 
+      "id": 16293459, 
+      "question_id": "16174466"
+    }, 
+    {
       "city": "New York", 
       "first_name": "Madeline", 
       "last_name": "Moch", 
       "user_id": 1681741, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
       "district": "NY_13", 
-      "created": "2013-08-10T14:33:58", 
+      "created": "2013-08-10T14:34:52", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.8476, 
       "x": -73.936, 
-      "id": 16293441, 
-      "question_id": "16173264"
+      "id": 16293458, 
+      "question_id": "16173335"
+    }, 
+    {
+      "city": "Suffolk", 
+      "first_name": "Mario", 
+      "last_name": "Granger", 
+      "user_id": 277933, 
+      "submission": "If you were unable to continue, which of your peers would you support", 
+      "district": "VA_04", 
+      "created": "2013-08-10T14:34:34", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "VA", 
+      "iface": "timeline_question", 
+      "y": 36.8497, 
+      "x": -76.4794, 
+      "latest_vote": null, 
+      "id": 16293451, 
+      "trending_score": 0.5
     }, 
     {
       "city": "Bloomington", 
       "first_name": "Jim", 
       "last_name": "Young", 
       "user_id": 1770393, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
       "district": "CA_35", 
-      "created": "2013-08-10T14:33:54", 
+      "created": "2013-08-10T14:34:23", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 34.0699, 
       "x": -117.397, 
-      "id": 16293440, 
-      "question_id": "16172777"
+      "id": 16293449, 
+      "question_id": "16173264"
     }, 
     {
       "city": "Berkeley", 
@@ -282,36 +316,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16293261, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Shelbyville", 
-      "first_name": "Gerald", 
-      "last_name": "Jesch", 
-      "user_id": 1077147, 
-      "submission": "Why is it that Halliburton only gets a $200K fine for destroying evidence concerning the Gulf oil spill when if you make a copy of a DVD you get a $250K fine and up to 5 years in prison?", 
-      "district": "TN_04", 
-      "created": "2013-08-10T14:02:51", 
-      "state": "TN", 
-      "iface": "timeline_vote", 
-      "y": 35.476, 
-      "x": -86.4672, 
-      "id": 16293251, 
-      "question_id": "16175493"
-    }, 
-    {
-      "city": "Waltham", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1810455, 
-      "submission": "How will Social Security & Medicare be strengthened with additional benefits for Senior Citizens?", 
-      "district": "MA_05", 
-      "created": "2013-08-10T14:00:31", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3699, 
-      "x": -71.2368, 
-      "id": 16293148, 
-      "question_id": "16188015"
     }
   ]
 });
