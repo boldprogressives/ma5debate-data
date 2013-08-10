@@ -1329,7 +1329,7 @@ opendebate.processFetchedQuestions({
       "x": -74.0487, 
       "latest_vote": "2013-08-10T04:15:51", 
       "id": 16280510, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "San Francisco", 
@@ -11418,7 +11418,7 @@ opendebate.processFetchedQuestions({
       "x": -71.9954, 
       "latest_vote": "2013-08-10T05:45:40", 
       "id": 16215494, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Merrimack", 
@@ -11437,7 +11437,7 @@ opendebate.processFetchedQuestions({
       "x": -71.517, 
       "latest_vote": "2013-08-10T05:45:18", 
       "id": 16215482, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Merrimack", 
@@ -15408,7 +15408,7 @@ opendebate.processFetchedQuestions({
       "x": -80.1743, 
       "latest_vote": "2013-08-10T05:45:38", 
       "id": 16204423, 
-      "trending_score": 1.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Peabody", 
@@ -26010,7 +26010,7 @@ opendebate.processFetchedQuestions({
       "x": -90.6197, 
       "latest_vote": "2013-08-10T05:15:19", 
       "id": 16175815, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Rathdrum", 
@@ -26124,7 +26124,7 @@ opendebate.processFetchedQuestions({
       "x": -110.947, 
       "latest_vote": "2013-08-10T07:13:20", 
       "id": 16175691, 
-      "trending_score": 2.75
+      "trending_score": 1.8333333333333333
     }, 
     {
       "city": "Mount Vernon", 
@@ -26143,7 +26143,7 @@ opendebate.processFetchedQuestions({
       "x": -88.9093, 
       "latest_vote": "2013-08-10T05:15:52", 
       "id": 16175641, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Mount Vernon", 
@@ -26295,7 +26295,7 @@ opendebate.processFetchedQuestions({
       "x": -81.5334, 
       "latest_vote": "2013-08-10T07:18:21", 
       "id": 16175571, 
-      "trending_score": 1.5
+      "trending_score": 1.25
     }, 
     {
       "city": "Sidney", 
@@ -28879,7 +28879,7 @@ opendebate.processFetchedQuestions({
       "x": -97.7518, 
       "latest_vote": "2013-08-10T08:37:07", 
       "id": 16173210, 
-      "trending_score": 3.0
+      "trending_score": 2.5
     }, 
     {
       "city": "Cottonwood", 
@@ -29886,7 +29886,7 @@ opendebate.processFetchedQuestions({
       "x": -116.297, 
       "latest_vote": "2013-08-10T09:47:28", 
       "id": 16172697, 
-      "trending_score": 6.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Holts Summit", 
