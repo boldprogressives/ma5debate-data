@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "What do you propose congress fix the retirement requirements of the USPS. The USPS doesn't contribute any to our national debt. Stamps pay for everything the USPS does, no other business is required to fund retirement 7 years in advance within a 5 year window.", 
+      "submission": "Do you think Citizens United should be abandoned and the idea of corporations as people is unfair to real people?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:58:58", 
+      "created": "2013-08-10T04:59:54", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291774, 
-      "question_id": "16199390"
+      "id": 16291778, 
+      "question_id": "16201423"
     }, 
     {
       "city": "Arlington", 
