@@ -2621,7 +2621,7 @@ opendebate.processFetchedQuestions({
       "x": -74.0881, 
       "latest_vote": "2013-08-10T16:03:01", 
       "id": 16275298, 
-      "trending_score": 1.5
+      "trending_score": 1.25
     }, 
     {
       "city": "Belford", 
@@ -2640,7 +2640,7 @@ opendebate.processFetchedQuestions({
       "x": -74.0881, 
       "latest_vote": "2013-08-10T14:44:20", 
       "id": 16275222, 
-      "trending_score": 0.5
+      "trending_score": 0.16666666666666666
     }, 
     {
       "city": "Folcroft", 
@@ -23407,7 +23407,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1134, 
       "latest_vote": "2013-08-10T14:58:36", 
       "id": 16181276, 
-      "trending_score": 0.75
+      "trending_score": 0.3333333333333333
     }, 
     {
       "city": "Arlington", 
@@ -27568,7 +27568,7 @@ opendebate.processFetchedQuestions({
       "x": -89.7297, 
       "latest_vote": "2013-08-10T15:14:40", 
       "id": 16175078, 
-      "trending_score": 1.1666666666666667
+      "trending_score": 0.3333333333333333
     }, 
     {
       "city": "Iuka", 
