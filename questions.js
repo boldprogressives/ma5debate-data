@@ -4274,7 +4274,7 @@ opendebate.processFetchedQuestions({
       "x": -122.811, 
       "latest_vote": "2013-08-10T04:40:44", 
       "id": 16248409, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Athol", 
@@ -4540,7 +4540,7 @@ opendebate.processFetchedQuestions({
       "x": -112.029, 
       "latest_vote": "2013-08-10T04:40:31", 
       "id": 16245614, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Los Angeles", 
@@ -15883,7 +15883,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7452, 
       "latest_vote": "2013-08-10T03:41:04", 
       "id": 16201620, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Cambridge", 
@@ -21716,7 +21716,7 @@ opendebate.processFetchedQuestions({
       "x": -73.6575, 
       "latest_vote": "2013-08-10T05:10:32", 
       "id": 16182966, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Akron", 
@@ -27777,7 +27777,7 @@ opendebate.processFetchedQuestions({
       "x": -105.043, 
       "latest_vote": "2013-08-10T08:38:50", 
       "id": 16173921, 
-      "trending_score": 1.75
+      "trending_score": 1.8333333333333333
     }, 
     {
       "city": "Fort Collins", 
@@ -27967,7 +27967,7 @@ opendebate.processFetchedQuestions({
       "x": -90.0296, 
       "latest_vote": "2013-08-10T07:13:40", 
       "id": 16173625, 
-      "trending_score": 5.25
+      "trending_score": 2.5
     }, 
     {
       "city": "Lubbock", 
@@ -28366,7 +28366,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-10T08:37:49", 
       "id": 16173335, 
-      "trending_score": 1.6666666666666667
+      "trending_score": 1.7
     }, 
     {
       "city": "Evansville", 
@@ -29810,7 +29810,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7109, 
       "latest_vote": "2013-08-10T07:18:17", 
       "id": 16172722, 
-      "trending_score": 7.25
+      "trending_score": 3.5
     }, 
     {
       "city": "Albuquerque", 
