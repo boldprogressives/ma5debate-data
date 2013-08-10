@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Los Angeles", 
+      "first_name": "Hadassa", 
+      "last_name": "Gilbert", 
+      "user_id": 1201039, 
+      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
+      "district": "CA_33", 
+      "created": "2013-08-10T08:20:56", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 34.1015, 
+      "x": -118.452, 
+      "id": 16292282, 
+      "question_id": "16172731"
+    }, 
+    {
+      "city": "Lake City", 
+      "first_name": "Judith", 
+      "last_name": "Burlage", 
+      "user_id": 396995, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "FL_03", 
+      "created": "2013-08-10T08:20:13", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 30.184, 
+      "x": -82.6348, 
+      "id": 16292281, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Inkster", 
       "first_name": "UNITED NATIONS", 
       "last_name": "FOR ANIMALS", 
@@ -302,44 +332,6 @@ opendebate.processTimeline({
       "x": -123.218, 
       "id": 16291955, 
       "question_id": "16210264"
-    }, 
-    {
-      "city": "Winchester", 
-      "first_name": "Jeff", 
-      "last_name": "Dearman", 
-      "user_id": 1810429, 
-      "submission": "Which will be the biggest threat to the United States in the next 10 to 20 years? Al queda, Taliban, Lone wolves like the marathon bomber, Iran, China, Russia? Oil rich nations? ", 
-      "district": "MA_05", 
-      "created": "2013-08-10T05:38:30", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.4529, 
-      "x": -71.146, 
-      "latest_vote": null, 
-      "id": 16291936, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Winchester", 
-      "first_name": "Jeff", 
-      "last_name": "Dearman", 
-      "user_id": 1810429, 
-      "submission": "How would you improve Us relations with Putin and Russia over the snowden case? Would you use the Winter olympic games as a chance to improve relations? ", 
-      "district": "MA_05", 
-      "created": "2013-08-10T05:37:33", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.4529, 
-      "x": -71.146, 
-      "latest_vote": null, 
-      "id": 16291933, 
-      "trending_score": 0.5
     }
   ]
 });
