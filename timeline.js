@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Will you totally repeal the Patriot Act.?", 
+      "submission": "Will you propose returning to REPUBLICAN top tax rates for the ultra-rich to reduce our deficit - either Eisenhower's 91% or Nixon's 70% - since neither of these created a depression or recession?", 
       "district": "NM_03", 
-      "created": "2013-08-10T00:06:00", 
+      "created": "2013-08-10T00:07:00", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16288687, 
-      "question_id": "16178788"
+      "id": 16288704, 
+      "question_id": "16177435"
     }, 
     {
       "city": "El Prado", 
       "first_name": "Janet", 
       "last_name": "Anderson", 
       "user_id": 1725594, 
-      "submission": "Why is it that Halliburton only gets a $200K fine for destroying evidence concerning the Gulf oil spill when if you make a copy of a DVD you get a $250K fine and up to 5 years in prison?", 
+      "submission": "How would you reform the process of drawing congressional districts so that it represents the interests of the people and does not favor any one party?", 
       "district": "NM_03", 
-      "created": "2013-08-10T00:05:55", 
+      "created": "2013-08-10T00:06:36", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16288685, 
-      "question_id": "16175493"
+      "id": 16288699, 
+      "question_id": "16201951"
     }, 
     {
       "city": "Charleston", 
