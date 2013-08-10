@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Edmonds", 
-      "first_name": "Edward Anthony", 
-      "last_name": "Aldridge", 
-      "user_id": 1758854, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
-      "district": "WA_07", 
-      "created": "2013-08-10T07:17:42", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 47.8408, 
-      "x": -122.337, 
-      "id": 16292240, 
-      "question_id": "16172533"
-    }, 
-    {
       "city": "Santa Cruz", 
       "first_name": "Jane", 
       "last_name": "Bruce-Munro", 
       "user_id": 1644313, 
-      "submission": "Do you support the concept of keeping church and state separate?", 
+      "submission": "What, specifically, would you do to protect the right to vote for all? Please address specifically a new Voting Rights Act and the concept of a paper ballot that can be verified by the voter.", 
       "district": "CA_20", 
-      "created": "2013-08-10T07:17:21", 
+      "created": "2013-08-10T07:18:55", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 36.9715, 
       "x": -121.985, 
-      "id": 16292237, 
-      "question_id": "16173921"
+      "id": 16292247, 
+      "question_id": "16207107"
+    }, 
+    {
+      "city": "Edmonds", 
+      "first_name": "Edward Anthony", 
+      "last_name": "Aldridge", 
+      "user_id": 1758854, 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "district": "WA_07", 
+      "created": "2013-08-10T07:18:28", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 47.8408, 
+      "x": -122.337, 
+      "id": 16292245, 
+      "question_id": "16173335"
     }, 
     {
       "city": "Grand Terrace", 
