@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Jane", 
       "last_name": "Bruce-Munro", 
       "user_id": 1644313, 
-      "submission": "What, specifically, would you do to protect the right to vote for all? Please address specifically a new Voting Rights Act and the concept of a paper ballot that can be verified by the voter.", 
+      "submission": "Can you explain why the people responsible for the failure of Wall Street and the banking industry have not been held accountable for the destruction of our economy.", 
       "district": "CA_20", 
-      "created": "2013-08-10T07:18:55", 
+      "created": "2013-08-10T07:19:07", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 36.9715, 
       "x": -121.985, 
-      "id": 16292247, 
-      "question_id": "16207107"
+      "id": 16292248, 
+      "question_id": "16201979"
     }, 
     {
       "city": "Edmonds", 
