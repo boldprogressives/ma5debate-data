@@ -11874,7 +11874,7 @@ opendebate.processFetchedQuestions({
       "x": -78.7968, 
       "latest_vote": "2013-08-10T04:21:44", 
       "id": 16213508, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Gibsonton", 
@@ -11931,7 +11931,7 @@ opendebate.processFetchedQuestions({
       "x": -122.413, 
       "latest_vote": "2013-08-10T05:51:35", 
       "id": 16213485, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Sutton", 
@@ -12121,7 +12121,7 @@ opendebate.processFetchedQuestions({
       "x": -90.5289, 
       "latest_vote": "2013-08-10T04:21:31", 
       "id": 16213399, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Gibsonton", 
@@ -26124,7 +26124,7 @@ opendebate.processFetchedQuestions({
       "x": -110.947, 
       "latest_vote": "2013-08-10T07:13:20", 
       "id": 16175691, 
-      "trending_score": 1.8333333333333333
+      "trending_score": 1.1666666666666665
     }, 
     {
       "city": "Mount Vernon", 
@@ -29905,7 +29905,7 @@ opendebate.processFetchedQuestions({
       "x": -92.1163, 
       "latest_vote": "2013-08-10T05:22:13", 
       "id": 16172696, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Marana", 
@@ -30057,7 +30057,7 @@ opendebate.processFetchedQuestions({
       "x": -105.135, 
       "latest_vote": "2013-08-10T05:21:37", 
       "id": 16172661, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Albert Lea", 
@@ -30076,7 +30076,7 @@ opendebate.processFetchedQuestions({
       "x": -93.3713, 
       "latest_vote": "2013-08-10T05:52:08", 
       "id": 16172657, 
-      "trending_score": 1.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Midlothian", 
