@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Jason", 
       "last_name": "Folkman", 
       "user_id": 1098338, 
-      "submission": "Should marriage equality be legal in all 50 states?", 
+      "submission": "Climate change has many facets: CO2/CH4 emissions, permafrost melting, ocean warming/acidification, overpopulation, et al. Who among you has a plan to defeat this unprecedented hydra of challenges?", 
       "district": "CA_53", 
-      "created": "2013-08-10T15:02:47", 
+      "created": "2013-08-10T15:03:07", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 32.74, 
       "x": -117.13, 
-      "id": 16293789, 
-      "question_id": "16173222"
+      "id": 16293790, 
+      "question_id": "16201745"
     }, 
     {
       "city": "Bend", 

@@ -390,15 +390,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_03", 
       "created": "2013-08-10T14:50:02", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.531, 
       "x": -122.633, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-10T15:03:38", 
       "id": 16293625, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Portland", 
@@ -16369,15 +16369,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_08", 
       "created": "2013-08-06T19:31:30", 
       "state_votes": 15, 
-      "votes": 129, 
+      "votes": 130, 
       "district_votes": 3, 
       "state": "FL", 
       "iface": "question", 
       "y": 28.143, 
       "x": -80.6964, 
-      "latest_vote": "2013-08-10T14:28:42", 
+      "latest_vote": "2013-08-10T15:03:07", 
       "id": 16201745, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Richardson", 
