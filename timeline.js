@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "", 
       "last_name": "", 
       "user_id": 1809582, 
-      "submission": "What are your views on the National Security Agency and its sweeping search through and storage of virtually limitless amounts of Americans' e-mail, phone, and text communications?", 
+      "submission": "All email is read by the NSA. What limits should be placed on the NSA to preserve privacy?", 
       "district": "MA_05", 
-      "created": "2013-08-10T04:39:01", 
+      "created": "2013-08-10T04:40:00", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.4119, 
       "x": -71.1765, 
-      "id": 16291409, 
-      "question_id": "16289961"
+      "id": 16291412, 
+      "question_id": "16285357"
     }, 
     {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "How are you going to make those who have brought our economy to its knees pay for their crimes, if these same criminals are paying to put most political candidates in power?", 
+      "submission": "Will support a constitutional amendment to overturn Citizen's United?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:38:46", 
+      "created": "2013-08-10T04:39:35", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291408, 
-      "question_id": "16250174"
+      "id": 16291411, 
+      "question_id": "16243005"
     }, 
     {
       "city": "Yakima", 
