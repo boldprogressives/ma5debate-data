@@ -797,7 +797,7 @@ opendebate.processFetchedQuestions({
       "x": -87.6365, 
       "latest_vote": "2013-08-10T16:05:16", 
       "id": 16293538, 
-      "trending_score": 0.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Chicago", 
@@ -26941,7 +26941,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9643, 
       "latest_vote": "2013-08-10T18:16:33", 
       "id": 16175740, 
-      "trending_score": 2.25
+      "trending_score": 1.5833333333333333
     }, 
     {
       "city": "Buffalo Grove", 
@@ -29715,7 +29715,7 @@ opendebate.processFetchedQuestions({
       "x": -97.7518, 
       "latest_vote": "2013-08-10T18:21:54", 
       "id": 16173210, 
-      "trending_score": 2.8333333333333335
+      "trending_score": 2.216666666666667
     }, 
     {
       "city": "Cottonwood", 
@@ -30589,7 +30589,7 @@ opendebate.processFetchedQuestions({
       "x": -122.811, 
       "latest_vote": "2013-08-10T18:20:52", 
       "id": 16172731, 
-      "trending_score": 1.880952380952381
+      "trending_score": 1.2857142857142856
     }, 
     {
       "city": "Chicago", 
