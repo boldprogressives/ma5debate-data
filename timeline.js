@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "JAN", 
       "last_name": "NORBERG", 
       "user_id": 1682829, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "submission": "How do you propose stopping the GOPs continued assault on women's reproductive rights?", 
       "district": "FL_13", 
-      "created": "2013-08-10T12:51:50", 
+      "created": "2013-08-10T12:52:52", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 27.8443, 
       "x": -82.6437, 
-      "id": 16292610, 
-      "question_id": "16172533"
+      "id": 16292618, 
+      "question_id": "16205884"
     }, 
     {
       "city": "West Warwick", 

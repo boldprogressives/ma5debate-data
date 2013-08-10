@@ -14659,15 +14659,15 @@ opendebate.processFetchedQuestions({
       "district": "VA_06", 
       "created": "2013-08-06T21:59:48", 
       "state_votes": 14, 
-      "votes": 130, 
+      "votes": 131, 
       "district_votes": 3, 
       "state": "VA", 
       "iface": "question", 
       "y": 37.2549, 
       "x": -79.9806, 
-      "latest_vote": "2013-08-10T12:38:41", 
+      "latest_vote": "2013-08-10T12:52:51", 
       "id": 16207107, 
-      "trending_score": 3.25
+      "trending_score": 4.25
     }, 
     {
       "city": "Asheville", 
@@ -15039,15 +15039,15 @@ opendebate.processFetchedQuestions({
       "district": "VA_01", 
       "created": "2013-08-06T21:24:53", 
       "state_votes": 22, 
-      "votes": 349, 
+      "votes": 350, 
       "district_votes": 7, 
       "state": "VA", 
       "iface": "question", 
       "y": 38.6736, 
       "x": -77.4268, 
-      "latest_vote": "2013-08-10T12:39:41", 
+      "latest_vote": "2013-08-10T12:52:52", 
       "id": 16205884, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "McKinleyville", 
@@ -26249,15 +26249,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_08", 
       "created": "2013-08-05T01:44:45", 
       "state_votes": 98, 
-      "votes": 1057, 
+      "votes": 1058, 
       "district_votes": 34, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.174, 
       "x": -87.9643, 
-      "latest_vote": "2013-08-10T12:38:37", 
+      "latest_vote": "2013-08-10T12:52:20", 
       "id": 16175740, 
-      "trending_score": 3.5
+      "trending_score": 4.5
     }, 
     {
       "city": "Buffalo Grove", 
@@ -26553,15 +26553,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_07", 
       "created": "2013-08-05T00:11:21", 
       "state_votes": 50, 
-      "votes": 388, 
+      "votes": 389, 
       "district_votes": 9, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.6327, 
       "x": -122.322, 
-      "latest_vote": "2013-08-10T12:38:22", 
+      "latest_vote": "2013-08-10T12:52:07", 
       "id": 16175493, 
-      "trending_score": 4.166666666666667
+      "trending_score": 5.166666666666667
     }, 
     {
       "city": "Seattle", 
@@ -27351,15 +27351,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_09", 
       "created": "2013-08-04T19:58:10", 
       "state_votes": 29, 
-      "votes": 234, 
+      "votes": 235, 
       "district_votes": 6, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.5869, 
       "x": -122.298, 
-      "latest_vote": "2013-08-10T11:38:27", 
+      "latest_vote": "2013-08-10T12:52:28", 
       "id": 16174466, 
-      "trending_score": 3.25
+      "trending_score": 4.25
     }, 
     {
       "city": "Albany", 
@@ -28529,15 +28529,15 @@ opendebate.processFetchedQuestions({
       "district": "TN_02", 
       "created": "2013-08-04T02:07:32", 
       "state_votes": 140, 
-      "votes": 1119, 
+      "votes": 1120, 
       "district_votes": 32, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.8311, 
       "x": -84.0482, 
-      "latest_vote": "2013-08-10T11:06:54", 
+      "latest_vote": "2013-08-10T12:52:41", 
       "id": 16173335, 
-      "trending_score": 3.25
+      "trending_score": 4.25
     }, 
     {
       "city": "Evansville", 
@@ -28833,15 +28833,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:22:04", 
       "state_votes": 153, 
-      "votes": 1103, 
+      "votes": 1104, 
       "district_votes": 37, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-10T11:07:12", 
+      "latest_vote": "2013-08-10T12:52:34", 
       "id": 16173259, 
-      "trending_score": 3.25
+      "trending_score": 4.25
     }, 
     {
       "city": "Manitowoc", 
@@ -29916,15 +29916,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:21:20", 
       "state_votes": 123, 
-      "votes": 1061, 
+      "votes": 1062, 
       "district_votes": 25, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.5746, 
       "x": -122.811, 
-      "latest_vote": "2013-08-10T12:32:30", 
+      "latest_vote": "2013-08-10T12:52:18", 
       "id": 16172731, 
-      "trending_score": 2.0
+      "trending_score": 2.5
     }, 
     {
       "city": "Chicago", 
