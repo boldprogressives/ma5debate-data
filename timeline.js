@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Kathleen", 
       "last_name": "Conley", 
       "user_id": 1809996, 
-      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
+      "submission": "What in your perspective and experience what is/are the essential role(s) of government?And, what skills have you used to effectively promote the(se) essential role(s)?", 
       "district": "MA_01", 
-      "created": "2013-08-10T09:47:28", 
+      "created": "2013-08-10T09:51:39", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.094, 
       "x": -72.324, 
-      "id": 16292459, 
-      "question_id": "16172697"
+      "id": 16292462, 
+      "question_id": "16287786"
     }, 
     {
       "city": "Henderson", 

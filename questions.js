@@ -807,16 +807,16 @@ opendebate.processFetchedQuestions({
       "submission": "What in your perspective and experience what is/are the essential role(s) of government?And, what skills have you used to effectively promote the(se) essential role(s)?", 
       "district": "MA_01", 
       "created": "2013-08-09T23:25:18", 
-      "state_votes": 0, 
-      "votes": 1, 
+      "state_votes": 1, 
+      "votes": 2, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.094, 
       "x": -72.324, 
-      "latest_vote": "2013-08-10T00:03:29", 
+      "latest_vote": "2013-08-10T09:51:39", 
       "id": 16287786, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Warren", 
@@ -7010,7 +7010,7 @@ opendebate.processFetchedQuestions({
       "x": -119.717, 
       "latest_vote": "2013-08-10T03:51:34", 
       "id": 16230106, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Port Allegany", 
@@ -12957,7 +12957,7 @@ opendebate.processFetchedQuestions({
       "x": -84.3168, 
       "latest_vote": "2013-08-10T04:52:09", 
       "id": 16212356, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Jonesboro", 
@@ -13052,7 +13052,7 @@ opendebate.processFetchedQuestions({
       "x": -84.3168, 
       "latest_vote": "2013-08-10T04:51:53", 
       "id": 16212348, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Jonesboro", 
@@ -13204,7 +13204,7 @@ opendebate.processFetchedQuestions({
       "x": -73.4871, 
       "latest_vote": "2013-08-10T04:51:47", 
       "id": 16212069, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Takoma Park", 
@@ -13299,7 +13299,7 @@ opendebate.processFetchedQuestions({
       "x": -106.837, 
       "latest_vote": "2013-08-10T04:51:30", 
       "id": 16211942, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Takoma Park", 
@@ -28366,7 +28366,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-10T08:37:49", 
       "id": 16173335, 
-      "trending_score": 3.0833333333333335
+      "trending_score": 3.1
     }, 
     {
       "city": "Evansville", 
@@ -29639,7 +29639,7 @@ opendebate.processFetchedQuestions({
       "x": -111.974, 
       "latest_vote": "2013-08-10T08:36:05", 
       "id": 16172777, 
-      "trending_score": 7.083333333333333
+      "trending_score": 7.1
     }, 
     {
       "city": "Gladstone", 
@@ -29905,7 +29905,7 @@ opendebate.processFetchedQuestions({
       "x": -92.1163, 
       "latest_vote": "2013-08-10T05:22:13", 
       "id": 16172696, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Marana", 
@@ -30057,7 +30057,7 @@ opendebate.processFetchedQuestions({
       "x": -105.135, 
       "latest_vote": "2013-08-10T05:21:37", 
       "id": 16172661, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Albert Lea", 
