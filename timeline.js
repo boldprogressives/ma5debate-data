@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Bisbee", 
+      "first_name": "Bridget", 
+      "last_name": "Burke", 
+      "user_id": 1592935, 
+      "submission": "Would you support the proposition that Big Oil should help to fund the veterans rehab issues, and their benefits since they were sent to fight for their safe access to oil.", 
+      "district": "AZ_02", 
+      "created": "2013-08-10T03:04:59", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 31.4588, 
+      "x": -109.946, 
+      "id": 16290648, 
+      "question_id": "16173438"
+    }, 
+    {
       "city": "Laurel", 
       "first_name": "Gary", 
       "last_name": "Osland", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -92.9427, 
       "id": 16290644, 
       "question_id": "16172913"
-    }, 
-    {
-      "city": "Bisbee", 
-      "first_name": "Bridget", 
-      "last_name": "Burke", 
-      "user_id": 1592935, 
-      "submission": "will you pledge to oppose Any cuts to social Security or Medicare?", 
-      "district": "AZ_02", 
-      "created": "2013-08-10T03:03:45", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 31.4588, 
-      "x": -109.946, 
-      "id": 16290643, 
-      "question_id": "16185364"
     }, 
     {
       "city": "New York", 
