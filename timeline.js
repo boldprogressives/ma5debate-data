@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Jacksonville", 
+      "first_name": "Gerard Hettinger", 
+      "last_name": "", 
+      "user_id": 1771618, 
+      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
+      "district": "FL_04", 
+      "created": "2013-08-10T15:56:00", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 30.3629, 
+      "x": -81.5819, 
+      "id": 16294238, 
+      "question_id": "16203866"
+    }, 
+    {
       "city": "Independence", 
       "first_name": "Margaret", 
       "last_name": "Goodwin", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -123.186, 
       "id": 16294223, 
       "question_id": "16201159"
-    }, 
-    {
-      "city": "Jacksonville", 
-      "first_name": "Gerard Hettinger", 
-      "last_name": "", 
-      "user_id": 1771618, 
-      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
-      "district": "FL_04", 
-      "created": "2013-08-10T15:54:57", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 30.3629, 
-      "x": -81.5819, 
-      "id": 16294224, 
-      "question_id": "16172690"
     }, 
     {
       "city": "Spokane", 
