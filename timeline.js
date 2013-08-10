@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Steven", 
       "last_name": "Born", 
       "user_id": 1699500, 
-      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
+      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
       "district": "NV_03", 
-      "created": "2013-08-10T05:49:38", 
+      "created": "2013-08-10T05:50:57", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 36.1135, 
       "x": -115.273, 
-      "id": 16291986, 
-      "question_id": "16175634"
+      "id": 16291992, 
+      "question_id": "16172583"
     }, 
     {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Do you agree that we need to get the corrupting influence of money and fundraising out of politics and out of the electoral process?  How do you plan to address this problem through legislation?", 
+      "submission": "Do you support the American Anti-Corruption Act?  This proposed legislation would overhaul campaign finance laws, impose strict lobbying and conflict-of-interest laws, and end secret political money.", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:48:37", 
+      "created": "2013-08-10T05:50:00", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291981, 
-      "question_id": "16215377"
+      "id": 16291988, 
+      "question_id": "16213342"
     }, 
     {
       "city": "McMinnville", 
