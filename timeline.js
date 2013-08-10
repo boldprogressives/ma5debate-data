@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Do you fully support Senator Warren's 21st century Glass-Steagall bill to separate investment banking from consumer banking?", 
+      "submission": "Would you support public financing of all political campaigns?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:13:44", 
+      "created": "2013-08-10T04:14:51", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291143, 
-      "question_id": "16224940"
+      "id": 16291148, 
+      "question_id": "16200039"
     }, 
     {
       "city": "San Antonio", 
