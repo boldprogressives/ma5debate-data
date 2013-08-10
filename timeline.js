@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "RANDY", 
       "last_name": "Woodard", 
       "user_id": 1246384, 
-      "submission": "Does the Patriot Act overrule the U.S. Constitution? (NSA Spying)", 
+      "submission": "Since corporations are now people, those that undermine democracy and don't pay their taxes should be convicted, punished, and sent packing.  Hardly patriots; more like treasonists?  Your views?", 
       "district": "CA_37", 
-      "created": "2013-08-10T17:49:01", 
+      "created": "2013-08-10T17:49:31", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 34.0009, 
       "x": -118.288, 
-      "id": 16294797, 
-      "question_id": "16182985"
+      "id": 16294801, 
+      "question_id": "16176713"
     }, 
     {
       "city": "Spencer", 
