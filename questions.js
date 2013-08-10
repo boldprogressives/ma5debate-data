@@ -2,6 +2,25 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Portland", 
+      "first_name": "Sian Barbara", 
+      "last_name": "Allen", 
+      "user_id": 819683, 
+      "submission": "Why won't Obama sign the land mine ban?  Every NATO country has signed it.", 
+      "district": "OR_03", 
+      "created": "2013-08-10T14:48:22", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "OR", 
+      "iface": "question", 
+      "y": 45.531, 
+      "x": -122.633, 
+      "latest_vote": null, 
+      "id": 16293600, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Palm Bay", 
       "first_name": "WALTER", 
       "last_name": "CONNELLY", 
@@ -28453,15 +28472,15 @@ opendebate.processFetchedQuestions({
       "district": "TN_02", 
       "created": "2013-08-04T02:07:32", 
       "state_votes": 140, 
-      "votes": 1128, 
+      "votes": 1129, 
       "district_votes": 32, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.8311, 
       "x": -84.0482, 
-      "latest_vote": "2013-08-10T14:42:20", 
+      "latest_vote": "2013-08-10T14:48:54", 
       "id": 16173335, 
-      "trending_score": 11.5
+      "trending_score": 12.5
     }, 
     {
       "city": "Evansville", 
@@ -29726,15 +29745,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
       "state_votes": 269, 
-      "votes": 1833, 
+      "votes": 1834, 
       "district_votes": 73, 
       "state": "MT", 
       "iface": "question", 
       "y": 46.6453, 
       "x": -111.974, 
-      "latest_vote": "2013-08-10T14:41:13", 
+      "latest_vote": "2013-08-10T14:48:49", 
       "id": 16172777, 
-      "trending_score": 13.5
+      "trending_score": 14.5
     }, 
     {
       "city": "Gladstone", 
@@ -30372,15 +30391,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T20:45:26", 
       "state_votes": 209, 
-      "votes": 1349, 
+      "votes": 1350, 
       "district_votes": 58, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-10T14:47:56", 
+      "latest_vote": "2013-08-10T14:48:28", 
       "id": 16172533, 
-      "trending_score": 13.5
+      "trending_score": 14.5
     }, 
     {
       "city": "Medford", 
@@ -30429,15 +30448,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:52:54", 
       "state_votes": 179, 
-      "votes": 1140, 
+      "votes": 1141, 
       "district_votes": 49, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4207, 
       "x": -71.1582, 
-      "latest_vote": "2013-08-10T14:46:47", 
+      "latest_vote": "2013-08-10T14:48:42", 
       "id": 16172303, 
-      "trending_score": 14.5
+      "trending_score": 15.5
     }, 
     {
       "city": "Arlington", 
@@ -30505,15 +30524,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:42:20", 
       "state_votes": 186, 
-      "votes": 1249, 
+      "votes": 1250, 
       "district_votes": 57, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3699, 
       "x": -71.2368, 
-      "latest_vote": "2013-08-10T14:37:02", 
+      "latest_vote": "2013-08-10T14:48:36", 
       "id": 16172281, 
-      "trending_score": 13.5
+      "trending_score": 14.5
     }, 
     {
       "city": "Arlington", 
