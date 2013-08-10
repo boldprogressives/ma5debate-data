@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "lucy", 
       "last_name": "mccampbell", 
       "user_id": 1735723, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
       "district": "CA_36", 
-      "created": "2013-08-10T16:12:43", 
+      "created": "2013-08-10T16:14:03", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 33.7359, 
       "x": -116.694, 
-      "id": 16294336, 
-      "question_id": "16172777"
+      "id": 16294344, 
+      "question_id": "16173210"
     }, 
     {
       "city": "Independence", 

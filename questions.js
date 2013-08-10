@@ -29593,15 +29593,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_10", 
       "created": "2013-08-04T00:59:23", 
       "state_votes": 187, 
-      "votes": 1351, 
+      "votes": 1352, 
       "district_votes": 46, 
       "state": "TX", 
       "iface": "question", 
       "y": 30.3972, 
       "x": -97.7518, 
-      "latest_vote": "2013-08-10T15:53:48", 
+      "latest_vote": "2013-08-10T16:14:03", 
       "id": 16173210, 
-      "trending_score": 15.125
+      "trending_score": 16.125
     }, 
     {
       "city": "Cottonwood", 
