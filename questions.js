@@ -968,7 +968,7 @@ opendebate.processFetchedQuestions({
       "x": -122.337, 
       "latest_vote": "2013-08-10T16:00:01", 
       "id": 16292474, 
-      "trending_score": 0.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Inkster", 
@@ -9499,7 +9499,7 @@ opendebate.processFetchedQuestions({
       "x": -71.3248, 
       "latest_vote": "2013-08-10T16:00:54", 
       "id": 16224538, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Lenox", 
@@ -24737,7 +24737,7 @@ opendebate.processFetchedQuestions({
       "x": -87.6918, 
       "latest_vote": "2013-08-10T16:00:28", 
       "id": 16178617, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "West Salem", 
@@ -30475,7 +30475,7 @@ opendebate.processFetchedQuestions({
       "x": -111.974, 
       "latest_vote": "2013-08-10T18:22:08", 
       "id": 16172777, 
-      "trending_score": 2.1488095238095237
+      "trending_score": 2.3974358974358974
     }, 
     {
       "city": "Gladstone", 
