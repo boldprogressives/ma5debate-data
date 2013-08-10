@@ -2412,7 +2412,7 @@ opendebate.processFetchedQuestions({
       "x": -107.877, 
       "latest_vote": "2013-08-10T05:34:42", 
       "id": 16267533, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Durango", 
@@ -2678,7 +2678,7 @@ opendebate.processFetchedQuestions({
       "x": -117.717, 
       "latest_vote": "2013-08-10T05:34:57", 
       "id": 16265573, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Claremont", 
@@ -16567,7 +16567,7 @@ opendebate.processFetchedQuestions({
       "x": -121.079, 
       "latest_vote": "2013-08-10T06:34:53", 
       "id": 16199852, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Shelbyville", 
@@ -17023,7 +17023,7 @@ opendebate.processFetchedQuestions({
       "x": -90.1219, 
       "latest_vote": "2013-08-10T06:35:08", 
       "id": 16197127, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Ruther Glen", 
