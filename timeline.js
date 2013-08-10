@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Joe", 
       "last_name": "Verdoes", 
       "user_id": 503455, 
-      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
       "district": "WA_02", 
-      "created": "2013-08-10T03:39:55", 
+      "created": "2013-08-10T03:40:45", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 48.4989, 
       "x": -122.607, 
-      "id": 16290902, 
-      "question_id": "16172207"
+      "id": 16290904, 
+      "question_id": "16173335"
     }, 
     {
       "city": "Indianapolis", 
