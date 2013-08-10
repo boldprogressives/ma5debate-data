@@ -27055,7 +27055,7 @@ opendebate.processFetchedQuestions({
       "x": -88.9093, 
       "latest_vote": "2013-08-10T16:46:18", 
       "id": 16175634, 
-      "trending_score": 7.5
+      "trending_score": 4.0
     }, 
     {
       "city": "Mount Vernon", 
@@ -27150,7 +27150,7 @@ opendebate.processFetchedQuestions({
       "x": -103.032, 
       "latest_vote": "2013-08-10T17:37:58", 
       "id": 16175570, 
-      "trending_score": 11.5
+      "trending_score": 6.0
     }, 
     {
       "city": "Mountlake Terrace", 
@@ -30504,16 +30504,16 @@ opendebate.processFetchedQuestions({
       "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
       "district": "IL_02", 
       "created": "2013-08-03T22:27:03", 
-      "state_votes": 200, 
-      "votes": 1516, 
+      "state_votes": 201, 
+      "votes": 1517, 
       "district_votes": 51, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.6267, 
       "x": -87.5959, 
-      "latest_vote": "2013-08-10T17:19:46", 
+      "latest_vote": "2013-08-10T17:44:26", 
       "id": 16172755, 
-      "trending_score": 9.416666666666666
+      "trending_score": 9.75
     }, 
     {
       "city": "Richardson", 
@@ -31264,16 +31264,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "MA_05", 
       "created": "2013-08-03T17:33:11", 
-      "state_votes": 268, 
-      "votes": 1754, 
+      "state_votes": 269, 
+      "votes": 1755, 
       "district_votes": 73, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-10T17:38:54", 
+      "latest_vote": "2013-08-10T17:44:11", 
       "id": 16172266, 
-      "trending_score": 33.25
+      "trending_score": 34.25
     }, 
     {
       "city": "Cambridge", 

@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "", 
       "last_name": "", 
       "user_id": 1810521, 
-      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
       "district": "MA_02", 
-      "created": "2013-08-10T17:44:02", 
+      "created": "2013-08-10T17:44:26", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2486, 
       "x": -71.9952, 
-      "id": 16294770, 
-      "question_id": "16172207"
+      "id": 16294774, 
+      "question_id": "16172755"
     }, 
     {
       "city": "Clearwater", 
