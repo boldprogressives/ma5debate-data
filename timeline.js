@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "New Port Richey", 
+      "first_name": "robert", 
+      "last_name": "Brown", 
+      "user_id": 599761, 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "district": "FL_12", 
+      "created": "2013-08-10T13:25:20", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 28.2385, 
+      "x": -82.7307, 
+      "id": 16292682, 
+      "question_id": "16172913"
+    }, 
+    {
       "city": "Gaithersburg", 
       "first_name": "Arlene", 
       "last_name": "Pater-Rov", 
@@ -309,21 +324,6 @@ opendebate.processTimeline({
       "x": -82.9119, 
       "id": 16292543, 
       "question_id": "16172281"
-    }, 
-    {
-      "city": "West Shokan", 
-      "first_name": "Amy", 
-      "last_name": "Fradon", 
-      "user_id": 1201769, 
-      "submission": "What, specifically, would you do to protect the right to vote for all? Please address specifically a new Voting Rights Act and the concept of a paper ballot that can be verified by the voter.", 
-      "district": "NY_19", 
-      "created": "2013-08-10T11:09:14", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 41.9456, 
-      "x": -74.2919, 
-      "id": 16292515, 
-      "question_id": "16207107"
     }
   ]
 });

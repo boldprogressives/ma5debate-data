@@ -29574,15 +29574,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T23:23:07", 
       "state_votes": 185, 
-      "votes": 1249, 
+      "votes": 1250, 
       "district_votes": 49, 
       "state": "MT", 
       "iface": "question", 
       "y": 48.2112, 
       "x": -114.294, 
-      "latest_vote": "2013-08-10T13:11:21", 
+      "latest_vote": "2013-08-10T13:25:20", 
       "id": 16172913, 
-      "trending_score": 2.0
+      "trending_score": 2.5
     }, 
     {
       "city": "Montegut", 
