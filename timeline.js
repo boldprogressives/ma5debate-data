@@ -3,48 +3,63 @@ opendebate.processTimeline({
   "entries": [
     {
       "city": "El Prado", 
-      "first_name": "Janet", 
-      "last_name": "Anderson", 
-      "user_id": 1725594, 
-      "submission": "Will you vote YES to extending Medicare to everybody?", 
-      "district": "NM_03", 
-      "created": "2013-08-10T00:07:58", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16288723, 
-      "question_id": "16174319"
-    }, 
-    {
-      "city": "El Prado", 
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Will you vote to subsidize renewable, clean energy and eliminate subsidies for nonrenewable energy sources?", 
+      "submission": "Would you favor a law excluding unlimited contributions in political campaigns from groups such as Citizens United?", 
       "district": "NM_03", 
-      "created": "2013-08-10T00:07:47", 
+      "created": "2013-08-10T00:09:01", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16288713, 
-      "question_id": "16176491"
+      "id": 16288752, 
+      "question_id": "16173913"
+    }, 
+    {
+      "city": "El Prado", 
+      "first_name": "Janet", 
+      "last_name": "Anderson", 
+      "user_id": 1725594, 
+      "submission": "What would you do to stop the unbridled takeover of American resources by Corporate America.", 
+      "district": "NM_03", 
+      "created": "2013-08-10T00:08:51", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 36.4486, 
+      "x": -105.575, 
+      "id": 16288750, 
+      "question_id": "16174109"
+    }, 
+    {
+      "city": "Commerce Township", 
+      "first_name": "Diane", 
+      "last_name": "Bauer", 
+      "user_id": 152938, 
+      "submission": "Will you pledge to uphold the Affordable Care Act and help states implement it -- not defund it?", 
+      "district": "MI_11", 
+      "created": "2013-08-10T00:08:42", 
+      "state": "MI", 
+      "iface": "timeline_vote", 
+      "y": 42.5836, 
+      "x": -83.5003, 
+      "id": 16288749, 
+      "question_id": "16181276"
     }, 
     {
       "city": "Quincy", 
       "first_name": "Thomas", 
       "last_name": "OKeefe II", 
       "user_id": 39, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
       "district": "MA_08", 
-      "created": "2013-08-10T00:07:20", 
+      "created": "2013-08-10T00:08:07", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2852, 
       "x": -71.0253, 
-      "id": 16288707, 
-      "question_id": "16172777"
+      "id": 16288742, 
+      "question_id": "16172913"
     }, 
     {
       "city": "Charleston", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "latest_vote": "2013-08-09T23:58:06", 
       "id": 16287907, 
       "trending_score": 1.5
-    }, 
-    {
-      "city": "Winfield", 
-      "first_name": "Adele", 
-      "last_name": "Galloway", 
-      "user_id": 1008078, 
-      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
-      "district": "KS_04", 
-      "created": "2013-08-09T23:33:01", 
-      "state": "KS", 
-      "iface": "timeline_vote", 
-      "y": 37.2328, 
-      "x": -96.9548, 
-      "id": 16287905, 
-      "question_id": "16172207"
     }
   ]
 });
