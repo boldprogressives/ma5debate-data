@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "dave", 
       "last_name": "keene", 
       "user_id": 281083, 
-      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
+      "submission": "What is your position on the Keystone XL pipeline and on fracking? Specifically what would you do to stop climate change and move to renewable energy?", 
       "district": "NY_04", 
-      "created": "2013-08-10T01:03:57", 
+      "created": "2013-08-10T01:05:00", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.652, 
       "x": -73.5882, 
-      "id": 16289411, 
-      "question_id": "16172731"
+      "id": 16289426, 
+      "question_id": "16207584"
     }, 
     {
       "city": "El Prado", 
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Do you believe those on Social Security are immune to inflation?", 
+      "submission": "the problem of fracking, what can be done about it?", 
       "district": "NM_03", 
-      "created": "2013-08-10T01:03:32", 
+      "created": "2013-08-10T01:04:39", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16289408, 
-      "question_id": "16181494"
+      "id": 16289422, 
+      "question_id": "16179691"
     }, 
     {
       "city": "Natick", 
