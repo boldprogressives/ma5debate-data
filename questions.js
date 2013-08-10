@@ -25250,7 +25250,7 @@ opendebate.processFetchedQuestions({
       "x": -111.045, 
       "latest_vote": "2013-08-10T15:56:32", 
       "id": 16177825, 
-      "trending_score": 2.25
+      "trending_score": 2.5
     }, 
     {
       "city": "Franklin", 
@@ -25934,7 +25934,7 @@ opendebate.processFetchedQuestions({
       "x": -111.75, 
       "latest_vote": "2013-08-10T12:40:28", 
       "id": 16176653, 
-      "trending_score": 0.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Seattle", 
@@ -29156,15 +29156,15 @@ opendebate.processFetchedQuestions({
       "district": "TN_02", 
       "created": "2013-08-04T02:07:32", 
       "state_votes": 141, 
-      "votes": 1138, 
+      "votes": 1139, 
       "district_votes": 32, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.8311, 
       "x": -84.0482, 
-      "latest_vote": "2013-08-10T16:46:56", 
+      "latest_vote": "2013-08-10T17:20:36", 
       "id": 16173335, 
-      "trending_score": 19.5
+      "trending_score": 20.5
     }, 
     {
       "city": "Evansville", 
@@ -29669,15 +29669,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_10", 
       "created": "2013-08-04T00:59:23", 
       "state_votes": 188, 
-      "votes": 1357, 
+      "votes": 1358, 
       "district_votes": 46, 
       "state": "TX", 
       "iface": "question", 
       "y": 30.3972, 
       "x": -97.7518, 
-      "latest_vote": "2013-08-10T16:54:15", 
+      "latest_vote": "2013-08-10T17:20:31", 
       "id": 16173210, 
-      "trending_score": 21.5
+      "trending_score": 22.5
     }, 
     {
       "city": "Cottonwood", 
@@ -30494,7 +30494,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5959, 
       "latest_vote": "2013-08-10T17:19:46", 
       "id": 16172755, 
-      "trending_score": 15.0
+      "trending_score": 10.5
     }, 
     {
       "city": "Richardson", 
@@ -31197,7 +31197,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2368, 
       "latest_vote": "2013-08-10T17:16:20", 
       "id": 16172281, 
-      "trending_score": 19.25
+      "trending_score": 9.5
     }, 
     {
       "city": "Arlington", 
