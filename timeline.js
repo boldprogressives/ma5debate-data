@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Where do you stand on getting rid of derivitives in the banking industry?", 
+      "submission": "How much money does the government spend on oil subsidies?  How does that compute to each person's tax dollars?  ", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:05:39", 
+      "created": "2013-08-10T05:06:27", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291790, 
-      "question_id": "16190280"
+      "id": 16291795, 
+      "question_id": "16187130"
     }, 
     {
       "city": "Arlington", 
