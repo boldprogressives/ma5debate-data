@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Bridget", 
       "last_name": "Burke", 
       "user_id": 1592935, 
-      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
+      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
       "district": "AZ_02", 
-      "created": "2013-08-10T03:08:48", 
+      "created": "2013-08-10T03:09:52", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 31.4588, 
       "x": -109.946, 
-      "id": 16290658, 
-      "question_id": "16175634"
+      "id": 16290671, 
+      "question_id": "16172727"
+    }, 
+    {
+      "city": "Mansfield", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810421, 
+      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
+      "district": "MA_04", 
+      "created": "2013-08-10T03:09:25", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.0239, 
+      "x": -71.2188, 
+      "id": 16290665, 
+      "question_id": "16172690"
     }, 
     {
       "city": "Laurel", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -96.8112, 
       "id": 16290439, 
       "question_id": "16215471"
-    }, 
-    {
-      "city": "tigard", 
-      "first_name": "David", 
-      "last_name": "Otto", 
-      "user_id": 64925, 
-      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
-      "district": "OR_01", 
-      "created": "2013-08-10T02:00:35", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 45.4087, 
-      "x": -122.789, 
-      "id": 16290362, 
-      "question_id": "16175637"
     }
   ]
 });
