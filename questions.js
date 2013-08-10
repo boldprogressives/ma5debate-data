@@ -17726,7 +17726,7 @@ opendebate.processFetchedQuestions({
       "x": -71.5469, 
       "latest_vote": "2013-08-10T06:35:55", 
       "id": 16193930, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "East Brunswick", 
@@ -18144,7 +18144,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7727, 
       "latest_vote": "2013-08-10T06:36:27", 
       "id": 16192621, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Washington", 
@@ -18524,7 +18524,7 @@ opendebate.processFetchedQuestions({
       "x": -74.1495, 
       "latest_vote": "2013-08-10T06:35:45", 
       "id": 16191182, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Dallas", 
@@ -24756,7 +24756,7 @@ opendebate.processFetchedQuestions({
       "x": -105.967, 
       "latest_vote": "2013-08-10T06:36:28", 
       "id": 16177435, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "West Plains", 
