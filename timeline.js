@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Miami", 
-      "first_name": "Judy", 
-      "last_name": "Seagal", 
-      "user_id": 132179, 
-      "submission": "The threat that hangs over the country today is a GOP determined to destroy the middle class and the values that define it.  What specific steps will you recommend to confront, not appease, the GOP?", 
-      "district": "FL_23", 
-      "created": "2013-08-10T01:20:01", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 25.9619, 
-      "x": -80.1406, 
-      "id": 16289589, 
-      "question_id": "16172694"
-    }, 
-    {
       "city": "El Prado", 
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "What is your plan to help make college affordable for ALL?", 
+      "submission": "What would you do to decrease the amount of testing in education and support the teachers in actually teaching content and not teaching for the test.", 
       "district": "NM_03", 
-      "created": "2013-08-10T01:19:49", 
+      "created": "2013-08-10T01:21:02", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16289587, 
-      "question_id": "16243369"
+      "id": 16289595, 
+      "question_id": "16234265"
+    }, 
+    {
+      "city": "Allston", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810404, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "MA_07", 
+      "created": "2013-08-10T01:20:44", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3581, 
+      "x": -71.1306, 
+      "id": 16289593, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Miami", 
+      "first_name": "Judy", 
+      "last_name": "Seagal", 
+      "user_id": 132179, 
+      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
+      "district": "FL_23", 
+      "created": "2013-08-10T01:20:07", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 25.9619, 
+      "x": -80.1406, 
+      "id": 16289590, 
+      "question_id": "16175634"
     }, 
     {
       "city": "Gering", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -77.0955, 
       "id": 16289150, 
       "question_id": "16272358"
-    }, 
-    {
-      "city": "Ivins", 
-      "first_name": "Robert", 
-      "last_name": "Whitbeck", 
-      "user_id": 1808375, 
-      "submission": "Will you protect Social Security And Medicare by not cutting it with the chained CPI for Social Security that has been mentioned.  Also, no cuts to Medicare but closing the donute hole 100% so seniors aren't left fending for themselves to pay full price for their drugs.", 
-      "district": "UT_02", 
-      "created": "2013-08-10T00:38:53", 
-      "state": "UT", 
-      "iface": "timeline_vote", 
-      "y": 37.1678, 
-      "x": -113.668, 
-      "id": 16289147, 
-      "question_id": "16175570"
     }
   ]
 });
