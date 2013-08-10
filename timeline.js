@@ -6,6 +6,40 @@ opendebate.processTimeline({
       "first_name": "Jeff", 
       "last_name": "Dearman", 
       "user_id": 1810429, 
+      "submission": "What would you do to fix our nation's crumbling highway infrastructure? (bridges /roads, tunnels etc.) ", 
+      "district": "MA_05", 
+      "created": "2013-08-10T05:28:52", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.4529, 
+      "x": -71.146, 
+      "latest_vote": null, 
+      "id": 16291900, 
+      "trending_score": 0.5
+    }, 
+    {
+      "city": "Disney", 
+      "first_name": "Pam", 
+      "last_name": "Johnson", 
+      "user_id": 1754508, 
+      "submission": "Will you vote to end tax loopholes for the rich, big business subsides, overseas corporate tax loopholes, wasteful wars, foreign country subsides, quality health care for all, good safe food for all, clean air, clean energy, clean safe drinking water, useful education and job opportunities for all hard working citizens that can achieve these levels and deserve it, gun control, to end wall street fraud and corruption.", 
+      "district": "OK_02", 
+      "created": "2013-08-10T05:28:51", 
+      "state": "OK", 
+      "iface": "timeline_vote", 
+      "y": 36.481, 
+      "x": -95.0171, 
+      "id": 16291899, 
+      "question_id": "16203215"
+    }, 
+    {
+      "city": "Winchester", 
+      "first_name": "Jeff", 
+      "last_name": "Dearman", 
+      "user_id": 1810429, 
       "submission": "Do you support stem cell research? Why or why not?", 
       "district": "MA_05", 
       "created": "2013-08-10T05:28:01", 
@@ -19,21 +53,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16291896, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Disney", 
-      "first_name": "Pam", 
-      "last_name": "Johnson", 
-      "user_id": 1754508, 
-      "submission": "Where do you stand on a constitutional admendment that declares that corporations are NOT, in fact, people and do not have the legal rights of people.", 
-      "district": "OK_02", 
-      "created": "2013-08-10T05:28:00", 
-      "state": "OK", 
-      "iface": "timeline_vote", 
-      "y": 36.481, 
-      "x": -95.0171, 
-      "id": 16291895, 
-      "question_id": "16176313"
     }, 
     {
       "city": "Winchester", 
@@ -301,21 +320,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16290908, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Indianapolis", 
-      "first_name": "John", 
-      "last_name": "Grady", 
-      "user_id": 1742213, 
-      "submission": "Would you support the pardoning of all victimless crime marijuana (Cannabis) offenders? Depopulating our For Profit Prisons?", 
-      "district": "IN_07", 
-      "created": "2013-08-10T03:32:47", 
-      "state": "IN", 
-      "iface": "timeline_vote", 
-      "y": 39.8408, 
-      "x": -86.2651, 
-      "id": 16290856, 
-      "question_id": "16208291"
     }
   ]
 });
