@@ -16729,16 +16729,16 @@ opendebate.processFetchedQuestions({
       "submission": "What are you doing to ensure that all residents have access to a living wage and to help create jobs for those still looking for work, five years after the Great Recession and the weak recovery?", 
       "district": "CT_01", 
       "created": "2013-08-06T19:17:43", 
-      "state_votes": 21, 
-      "votes": 431, 
+      "state_votes": 22, 
+      "votes": 432, 
       "district_votes": 4, 
       "state": "CT", 
       "iface": "question", 
       "y": 41.6886, 
       "x": -72.7291, 
-      "latest_vote": "2013-08-10T07:14:33", 
+      "latest_vote": "2013-08-10T15:13:19", 
       "id": 16201159, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Saint Cloud", 
@@ -16806,15 +16806,15 @@ opendebate.processFetchedQuestions({
       "district": "NY_23", 
       "created": "2013-08-06T19:07:09", 
       "state_votes": 25, 
-      "votes": 339, 
+      "votes": 340, 
       "district_votes": 7, 
       "state": "NY", 
       "iface": "question", 
       "y": 42.4276, 
       "x": -77.6687, 
-      "latest_vote": "2013-08-10T05:12:43", 
+      "latest_vote": "2013-08-10T15:13:25", 
       "id": 16200733, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Spring", 
@@ -27104,15 +27104,15 @@ opendebate.processFetchedQuestions({
       "district": "LA_01", 
       "created": "2013-08-04T22:35:27", 
       "state_votes": 34, 
-      "votes": 321, 
+      "votes": 322, 
       "district_votes": 9, 
       "state": "LA", 
       "iface": "question", 
       "y": 30.5364, 
       "x": -90.1072, 
-      "latest_vote": "2013-08-10T14:35:52", 
+      "latest_vote": "2013-08-10T15:13:53", 
       "id": 16175276, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Bainbridge Island", 
@@ -29004,15 +29004,15 @@ opendebate.processFetchedQuestions({
       "district": "TN_02", 
       "created": "2013-08-04T02:02:46", 
       "state_votes": 23, 
-      "votes": 330, 
+      "votes": 331, 
       "district_votes": 3, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.8311, 
       "x": -84.0482, 
-      "latest_vote": "2013-08-10T05:25:06", 
+      "latest_vote": "2013-08-10T15:13:34", 
       "id": 16173323, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Bensenville", 

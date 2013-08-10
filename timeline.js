@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Colleen", 
       "last_name": "Sattelmaier", 
       "user_id": 1691702, 
-      "submission": "Would you support replacing \"Obamacare\" with single-payer coverage (Medicare for All)?", 
+      "submission": "It is time we stop rewarding companies that outsource American jobs.  Would you propose a new tax on these companies, an import tax on products produced by these companies or some other form of incentive to keep jobs in this country?  Please be specific.", 
       "district": "OH_14", 
-      "created": "2013-08-10T15:12:54", 
+      "created": "2013-08-10T15:13:53", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 41.5975, 
       "x": -81.0504, 
-      "id": 16293866, 
-      "question_id": "16175729"
+      "id": 16293872, 
+      "question_id": "16175276"
+    }, 
+    {
+      "city": "Worcester", 
+      "first_name": "Marjorie", 
+      "last_name": "Evans", 
+      "user_id": 774326, 
+      "submission": "What are you doing to ensure that all residents have access to a living wage and to help create jobs for those still looking for work, five years after the Great Recession and the weak recovery?", 
+      "district": "MA_02", 
+      "created": "2013-08-10T15:13:19", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2541, 
+      "x": -71.7731, 
+      "id": 16293867, 
+      "question_id": "16201159"
     }, 
     {
       "city": "Indian Orchard", 
@@ -328,25 +343,6 @@ opendebate.processTimeline({
       "x": -87.6365, 
       "latest_vote": null, 
       "id": 16293751, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Chicago", 
-      "first_name": "Peter", 
-      "last_name": "Moxon", 
-      "user_id": 128965, 
-      "submission": "Where you pledge to vote against the chained CPI when applied to Social Security, Medicare, Medicaid funding", 
-      "district": "IL_07", 
-      "created": "2013-08-10T14:59:37", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "IL", 
-      "iface": "timeline_question", 
-      "y": 41.899, 
-      "x": -87.6365, 
-      "latest_vote": null, 
-      "id": 16293749, 
       "trending_score": 0.5
     }
   ]
