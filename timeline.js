@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Midlothian", 
+      "first_name": "thomas", 
+      "last_name": "deceault", 
+      "user_id": 1730186, 
+      "submission": "what law changes over the last 30 or so years have been poorly understood or recognized by the American public .How have they put us in the current economic state of affairs ?Were they intended to have these social changes?", 
+      "district": "IL_01", 
+      "created": "2013-08-10T13:04:19", 
+      "state": "IL", 
+      "iface": "timeline_vote", 
+      "y": 41.6357, 
+      "x": -87.7386, 
+      "id": 16292625, 
+      "question_id": "16176660"
+    }, 
+    {
       "city": "Porter Ranch", 
       "first_name": "Gertrude", 
       "last_name": "Barden", 
@@ -316,25 +331,6 @@ opendebate.processTimeline({
       "x": -97.7297, 
       "latest_vote": null, 
       "id": 16292476, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Edmonds", 
-      "first_name": "Edward Anthony", 
-      "last_name": "Aldridge", 
-      "user_id": 1758854, 
-      "submission": "Will you pledge to initiate or support Congressional action to reverse the gerrymandering of legislative districts, and return them to their Constitutionally-mandated structure?", 
-      "district": "WA_07", 
-      "created": "2013-08-10T10:46:23", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "WA", 
-      "iface": "timeline_question", 
-      "y": 47.8408, 
-      "x": -122.337, 
-      "latest_vote": null, 
-      "id": 16292474, 
       "trending_score": 0.5
     }
   ]

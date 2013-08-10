@@ -25242,15 +25242,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_01", 
       "created": "2013-08-05T06:07:26", 
       "state_votes": 0, 
-      "votes": 2, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.6357, 
       "x": -87.7386, 
-      "latest_vote": "2013-08-08T17:51:06", 
+      "latest_vote": "2013-08-10T13:04:19", 
       "id": 16176660, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Washington", 
