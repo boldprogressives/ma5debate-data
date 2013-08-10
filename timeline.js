@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Phoenix", 
-      "first_name": "Lynne", 
-      "last_name": "Vestal", 
-      "user_id": 1121128, 
-      "submission": "Will you vote to end all fossil-fuel subsidies?", 
-      "district": "AZ_09", 
-      "created": "2013-08-10T06:14:50", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 33.559, 
-      "x": -112.089, 
-      "id": 16292094, 
-      "question_id": "16201353"
-    }, 
-    {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Income inequality in U.S. is at a modern day high, and social mobility at a modern day low, placing us way behind most countries in the world in both categories. What policies do you favor to address this?", 
+      "submission": "why are corporations allowed to split, then one \"new\" corp makes money while the other half controls pensions and then steals workers pensions by claiming bankrupcy--all the while making huge profits and workers get yet screwed again. Why can't this practice be stopped - look at Detroit.", 
       "district": "AL_07", 
-      "created": "2013-08-10T06:14:41", 
+      "created": "2013-08-10T06:15:57", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292093, 
-      "question_id": "16183533"
+      "id": 16292097, 
+      "question_id": "16184415"
+    }, 
+    {
+      "city": "Phoenix", 
+      "first_name": "Lynne", 
+      "last_name": "Vestal", 
+      "user_id": 1121128, 
+      "submission": "Would you favor a law excluding unlimited contributions in political campaigns from groups such as Citizens United?", 
+      "district": "AZ_09", 
+      "created": "2013-08-10T06:15:57", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 33.559, 
+      "x": -112.089, 
+      "id": 16292098, 
+      "question_id": "16173913"
     }, 
     {
       "city": "Santa Barbara", 
