@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Do you believe that members of Congress should be held to at least as high of an ethical standard as teachers?  If so, would you be willing to make the results of an similar background check public?", 
+      "submission": "How would you reform the minimum wage to make it liveable for employees and sustainable for businesses?", 
       "district": "AL_07", 
-      "created": "2013-08-10T06:04:51", 
+      "created": "2013-08-10T06:05:51", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292051, 
-      "question_id": "16194645"
+      "id": 16292052, 
+      "question_id": "16199816"
     }, 
     {
       "city": "Las Vegas", 
