@@ -9499,7 +9499,7 @@ opendebate.processFetchedQuestions({
       "x": -71.3248, 
       "latest_vote": "2013-08-10T16:00:54", 
       "id": 16224538, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Lenox", 
@@ -10088,7 +10088,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1804, 
       "latest_vote": "2013-08-10T16:00:19", 
       "id": 16222728, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Louisville", 
@@ -24737,7 +24737,7 @@ opendebate.processFetchedQuestions({
       "x": -87.6918, 
       "latest_vote": "2013-08-10T16:00:28", 
       "id": 16178617, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "West Salem", 
