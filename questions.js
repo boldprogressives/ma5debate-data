@@ -16681,7 +16681,7 @@ opendebate.processFetchedQuestions({
       "x": -121.079, 
       "latest_vote": "2013-08-10T06:34:53", 
       "id": 16199852, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Shelbyville", 
@@ -17137,7 +17137,7 @@ opendebate.processFetchedQuestions({
       "x": -90.1219, 
       "latest_vote": "2013-08-10T06:35:08", 
       "id": 16197127, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Ruther Glen", 
