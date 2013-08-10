@@ -4513,15 +4513,15 @@ opendebate.processFetchedQuestions({
       "district": "AZ_02", 
       "created": "2013-08-08T23:45:20", 
       "state_votes": 0, 
-      "votes": 5, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "AZ", 
       "iface": "question", 
       "y": 32.2185, 
       "x": -110.888, 
-      "latest_vote": "2013-08-10T03:34:01", 
+      "latest_vote": "2013-08-10T12:30:40", 
       "id": 16247083, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Loudon", 
@@ -30323,7 +30323,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1765, 
       "latest_vote": "2013-08-10T06:30:47", 
       "id": 16172581, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Watertown", 
@@ -30950,7 +30950,7 @@ opendebate.processFetchedQuestions({
       "x": -88.4807, 
       "latest_vote": "2013-08-10T06:31:16", 
       "id": 16170119, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Cambridge", 

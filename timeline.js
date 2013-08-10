@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Tucson", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810442, 
+      "submission": "Will you actively advocate, & educate the public re the only way to provide total coverage health care for every American while saving $400 Billion/yr.... a Single Payer Health Care System (HR-676) also known as Improved Expanded Medicare for All?", 
+      "district": "AZ_03", 
+      "created": "2013-08-10T12:30:40", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 32.1914, 
+      "x": -111.063, 
+      "id": 16292576, 
+      "question_id": "16247083"
+    }, 
+    {
       "city": "Greenfield", 
       "first_name": "Jacqueline", 
       "last_name": "Young", 
@@ -329,21 +344,6 @@ opendebate.processTimeline({
       "x": -118.452, 
       "id": 16292282, 
       "question_id": "16172731"
-    }, 
-    {
-      "city": "Lake City", 
-      "first_name": "Judith", 
-      "last_name": "Burlage", 
-      "user_id": 396995, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "FL_03", 
-      "created": "2013-08-10T08:20:13", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 30.184, 
-      "x": -82.6348, 
-      "id": 16292281, 
-      "question_id": "16172777"
     }
   ]
 });
