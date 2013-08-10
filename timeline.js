@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Lynne", 
       "last_name": "Vestal", 
       "user_id": 1121128, 
-      "submission": "Would you eliminate the use of GMO (Genetically Modified Organism) foods. They are detrimental to human health, and hazardous to the environment.", 
+      "submission": "Will you propose returning to REPUBLICAN top tax rates for the ultra-rich to reduce our deficit - either Eisenhower's 91% or Nixon's 70% - since neither of these created a depression or recession?", 
       "district": "AZ_09", 
-      "created": "2013-08-10T06:35:55", 
+      "created": "2013-08-10T06:36:28", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 33.559, 
       "x": -112.089, 
-      "id": 16292186, 
-      "question_id": "16193930"
+      "id": 16292188, 
+      "question_id": "16177435"
     }, 
     {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Big banks today are able to issue loans and not offer any assistance when the borrower needs help, yet they are allowed all kinds of Federal kickbacks and help. What will you do to protect taxpayers?", 
+      "submission": "How do you address how veterans continue to not get their healthcare , social needs met as they are returning home? We are celebrating and supporting them with bumper stickers , at ball games, but the backlong of claims grow every day, the denial of benefits are atrocious , and we made a promise that we would not treat them like vets were treated after returning from Vietnam and we have not kept that promise- how do we expeditiously remedy these problems?", 
       "district": "AL_07", 
-      "created": "2013-08-10T06:35:45", 
+      "created": "2013-08-10T06:36:27", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292185, 
-      "question_id": "16191182"
+      "id": 16292187, 
+      "question_id": "16192621"
     }, 
     {
       "city": "Watertown", 
