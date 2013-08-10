@@ -15294,7 +15294,7 @@ opendebate.processFetchedQuestions({
       "x": -81.4571, 
       "latest_vote": "2013-08-10T06:01:27", 
       "id": 16205543, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Stoughton", 
@@ -15313,7 +15313,7 @@ opendebate.processFetchedQuestions({
       "x": -89.2143, 
       "latest_vote": "2013-08-10T06:01:45", 
       "id": 16205451, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Seattle", 
@@ -15332,7 +15332,7 @@ opendebate.processFetchedQuestions({
       "x": -122.298, 
       "latest_vote": "2013-08-10T06:02:02", 
       "id": 16205411, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "New London", 
