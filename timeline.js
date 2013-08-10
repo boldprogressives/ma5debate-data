@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Clinton Township", 
+      "first_name": "Pamela", 
+      "last_name": "St Louis", 
+      "user_id": 987414, 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "district": "MI_09", 
+      "created": "2013-08-10T11:30:19", 
+      "state": "MI", 
+      "iface": "timeline_vote", 
+      "y": 42.553, 
+      "x": -82.9119, 
+      "id": 16292543, 
+      "question_id": "16172281"
+    }, 
+    {
       "city": "East Weymouth", 
       "first_name": "Carlotta", 
       "last_name": "Hayes", 
@@ -328,25 +343,6 @@ opendebate.processTimeline({
       "x": -70.9045, 
       "latest_vote": null, 
       "id": 16292257, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "billings", 
-      "first_name": "george", 
-      "last_name": "jivelekas", 
-      "user_id": 1756173, 
-      "submission": "Wil you Support Raising Social Security And Keeping Medicare whole?   I.E. NO CUTS to either One.", 
-      "district": "MT_01", 
-      "created": "2013-08-10T07:29:49", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MT", 
-      "iface": "timeline_question", 
-      "y": 45.8404, 
-      "x": -108.465, 
-      "latest_vote": null, 
-      "id": 16292254, 
       "trending_score": 0.5
     }
   ]

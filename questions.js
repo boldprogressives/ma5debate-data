@@ -14705,7 +14705,7 @@ opendebate.processFetchedQuestions({
       "x": -80.5392, 
       "latest_vote": "2013-08-10T05:30:35", 
       "id": 16206470, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Kerrville", 
@@ -16073,7 +16073,7 @@ opendebate.processFetchedQuestions({
       "x": -122.074, 
       "latest_vote": "2013-08-10T07:16:50", 
       "id": 16201467, 
-      "trending_score": 2.125
+      "trending_score": 2.1666666666666665
     }, 
     {
       "city": "Needham Heights", 
@@ -28480,7 +28480,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-10T07:13:32", 
       "id": 16173327, 
-      "trending_score": 1.125
+      "trending_score": 1.1666666666666667
     }, 
     {
       "city": "Louisville", 
@@ -30209,7 +30209,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T07:14:47", 
       "id": 16172583, 
-      "trending_score": 1.1
+      "trending_score": 1.125
     }, 
     {
       "city": "ARLINGTON", 
@@ -30228,7 +30228,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1765, 
       "latest_vote": "2013-08-10T06:30:47", 
       "id": 16172581, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Watertown", 
@@ -30467,15 +30467,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:42:20", 
       "state_votes": 185, 
-      "votes": 1239, 
+      "votes": 1240, 
       "district_votes": 57, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3699, 
       "x": -71.2368, 
-      "latest_vote": "2013-08-10T11:07:00", 
+      "latest_vote": "2013-08-10T11:30:19", 
       "id": 16172281, 
-      "trending_score": 4.25
+      "trending_score": 5.25
     }, 
     {
       "city": "Arlington", 
