@@ -10867,7 +10867,7 @@ opendebate.processFetchedQuestions({
       "x": -73.4093, 
       "latest_vote": "2013-08-10T04:29:12", 
       "id": 16217343, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Lloyd Harbor", 
@@ -14667,7 +14667,7 @@ opendebate.processFetchedQuestions({
       "x": -99.1513, 
       "latest_vote": "2013-08-10T05:58:41", 
       "id": 16206388, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Addison", 
@@ -15636,7 +15636,7 @@ opendebate.processFetchedQuestions({
       "x": -83.1201, 
       "latest_vote": "2013-08-10T07:11:30", 
       "id": 16203215, 
-      "trending_score": 1.0833333333333333
+      "trending_score": 0.8333333333333333
     }, 
     {
       "city": "Lake Worth", 
@@ -16719,7 +16719,7 @@ opendebate.processFetchedQuestions({
       "x": -82.6341, 
       "latest_vote": "2013-08-10T04:29:01", 
       "id": 16199305, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Columbus", 
@@ -18980,7 +18980,7 @@ opendebate.processFetchedQuestions({
       "x": -83.8953, 
       "latest_vote": "2013-08-10T04:28:47", 
       "id": 16189767, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "New York", 
@@ -20063,7 +20063,7 @@ opendebate.processFetchedQuestions({
       "x": -73.9458, 
       "latest_vote": "2013-08-10T04:28:24", 
       "id": 16186239, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Hallandale", 
@@ -25687,7 +25687,7 @@ opendebate.processFetchedQuestions({
       "x": -111.747, 
       "latest_vote": "2013-08-10T04:28:36", 
       "id": 16176007, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Cleveland", 
@@ -26124,7 +26124,7 @@ opendebate.processFetchedQuestions({
       "x": -110.947, 
       "latest_vote": "2013-08-10T07:13:20", 
       "id": 16175691, 
-      "trending_score": 1.1666666666666665
+      "trending_score": 1.25
     }, 
     {
       "city": "Mount Vernon", 
@@ -28879,7 +28879,7 @@ opendebate.processFetchedQuestions({
       "x": -97.7518, 
       "latest_vote": "2013-08-10T10:22:54", 
       "id": 16173210, 
-      "trending_score": 2.833333333333333
+      "trending_score": 2.5
     }, 
     {
       "city": "Cottonwood", 
