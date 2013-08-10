@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "El Prado", 
-      "first_name": "Sally", 
-      "last_name": "Phelps", 
-      "user_id": 1567108, 
-      "submission": "Do you think Edward Snowden is a Hero or villain?", 
-      "district": "NM_03", 
-      "created": "2013-08-10T01:10:05", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16289489, 
-      "question_id": "16175584"
-    }, 
-    {
       "city": "", 
       "first_name": "Amy", 
       "last_name": "Clark", 
       "user_id": 1718534, 
-      "submission": "Will you support immigration reform with a path to citizenship ?", 
+      "submission": "What will do you do expand the solvency of Social Security and Medicare past their current deadlines? ", 
       "district": "", 
-      "created": "2013-08-10T01:10:00", 
+      "created": "2013-08-10T01:10:58", 
       "state": "", 
       "iface": "timeline_vote", 
       "y": 0.0, 
       "x": 0.0, 
-      "id": 16289487, 
-      "question_id": "16172648"
+      "id": 16289504, 
+      "question_id": "16174492"
     }, 
     {
       "city": "Gering", 
       "first_name": "Cody", 
       "last_name": "Rudow", 
       "user_id": 1806614, 
-      "submission": "What are you going to do to regulate banks and stock exchange speculations?", 
+      "submission": "Will you vote to end tax loopholes for the rich, big business subsides, overseas corporate tax loopholes, wasteful wars, foreign country subsides, quality health care for all, good safe food for all, clean air, clean energy, clean safe drinking water, useful education and job opportunities for all hard working citizens that can achieve these levels and deserve it, gun control, to end wall street fraud and corruption.", 
       "district": "NE_03", 
-      "created": "2013-08-10T01:09:47", 
+      "created": "2013-08-10T01:10:56", 
       "state": "NE", 
       "iface": "timeline_vote", 
       "y": 41.8046, 
       "x": -103.717, 
-      "id": 16289485, 
-      "question_id": "16172283"
+      "id": 16289503, 
+      "question_id": "16203215"
+    }, 
+    {
+      "city": "El Prado", 
+      "first_name": "Sally", 
+      "last_name": "Phelps", 
+      "user_id": 1567108, 
+      "submission": "Will you vote to label GMOs?", 
+      "district": "NM_03", 
+      "created": "2013-08-10T01:10:34", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 36.4486, 
+      "x": -105.575, 
+      "id": 16289500, 
+      "question_id": "16174903"
+    }, 
+    {
+      "city": "Rocky Hill", 
+      "first_name": "John", 
+      "last_name": "Wieder", 
+      "user_id": 1760927, 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "district": "CT_01", 
+      "created": "2013-08-10T01:10:32", 
+      "state": "CT", 
+      "iface": "timeline_vote", 
+      "y": 41.6625, 
+      "x": -72.6688, 
+      "id": 16289497, 
+      "question_id": "16173335"
     }, 
     {
       "city": "Cambridge", 
@@ -289,25 +304,6 @@ opendebate.processTimeline({
       "x": -93.932, 
       "id": 16289132, 
       "question_id": "16175740"
-    }, 
-    {
-      "city": "Sutton", 
-      "first_name": "Pete", 
-      "last_name": "Wason", 
-      "user_id": 1488441, 
-      "submission": "Which is more important for the long term survival of our species? Programs that promote national interests, or programs that promote Human interests? Since the military obviously cannot be trusted with money [insert copious references here], maybe we should be funding NASA and other space-related agencies [at some level greater than 1/45 of our military expenditures] so we can get off this effingly doomed rock and reach our full Human potential?", 
-      "district": "MA_02", 
-      "created": "2013-08-10T00:34:32", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.1384, 
-      "x": -71.7525, 
-      "latest_vote": null, 
-      "id": 16289058, 
-      "trending_score": 0.5
     }
   ]
 });
