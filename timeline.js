@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Oswego", 
-      "first_name": "Sandra", 
-      "last_name": "Van Schaack", 
-      "user_id": 553291, 
-      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
-      "district": "NY_24", 
-      "created": "2013-08-10T01:42:52", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 43.4515, 
-      "x": -76.5017, 
-      "id": 16289778, 
-      "question_id": "16203676"
-    }, 
-    {
       "city": "Reno", 
       "first_name": "Tim", 
       "last_name": "Sanders", 
       "user_id": 974978, 
-      "submission": "Will you work to end America's disastrous \"war in drugs,\" or at least work to decriminalize marijuana?", 
+      "submission": "Why is Monsanto allowed to destroy our agriculture and the small farmers?", 
       "district": "NV_02", 
-      "created": "2013-08-10T01:42:49", 
+      "created": "2013-08-10T01:43:54", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 39.7704, 
       "x": -119.617, 
-      "id": 16289777, 
-      "question_id": "16287611"
+      "id": 16289788, 
+      "question_id": "16244435"
+    }, 
+    {
+      "city": "Oswego", 
+      "first_name": "Sandra", 
+      "last_name": "Van Schaack", 
+      "user_id": 553291, 
+      "submission": "Do you favor legislation to protect our water, land, and communities from the negative environmental and social impacts of fracking for natural gas?", 
+      "district": "NY_24", 
+      "created": "2013-08-10T01:43:49", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 43.4515, 
+      "x": -76.5017, 
+      "id": 16289787, 
+      "question_id": "16204423"
+    }, 
+    {
+      "city": "", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810410, 
+      "submission": "I am a 26 yr old College student who will be majoring From Political Science in 2014. I am a convicted felon and have had a great amount of difficulty getting companies to hire me because of my CORI. What will you do for me and others whom have the same issues as i have even after changing my life around. ", 
+      "district": "", 
+      "created": "2013-08-10T01:43:44", 
+      "state": "", 
+      "iface": "timeline_vote", 
+      "y": 0.0, 
+      "x": 0.0, 
+      "id": 16289784, 
+      "question_id": "16209749"
     }, 
     {
       "city": "Cumming", 
       "first_name": "R. Gwen", 
       "last_name": "Smith Minniti", 
       "user_id": 697062, 
-      "submission": "Will you commit to forcing in person Filibusters so America and the world can hear the reasons someone wants to hold democracy hostage and prevent votes on legislation.", 
+      "submission": "Will you support Elizabeth Warren's efforts to create a new Glass-Steagall Act?", 
       "district": "GA_07", 
-      "created": "2013-08-10T01:42:46", 
+      "created": "2013-08-10T01:43:33", 
       "state": "GA", 
       "iface": "timeline_vote", 
       "y": 34.2031, 
       "x": -84.0743, 
-      "id": 16289776, 
-      "question_id": "16258323"
+      "id": 16289783, 
+      "question_id": "16201467"
     }, 
     {
       "city": "Washington", 
@@ -285,25 +300,6 @@ opendebate.processTimeline({
       "x": -71.3523, 
       "id": 16289465, 
       "question_id": "16280049"
-    }, 
-    {
-      "city": "Benicia", 
-      "first_name": "John", 
-      "last_name": "O'Hern", 
-      "user_id": 135099, 
-      "submission": "Will you support a draft Elizabeth Warren for President in 2016?", 
-      "district": "CA_05", 
-      "created": "2013-08-10T01:02:13", 
-      "state_votes": 0, 
-      "votes": 1, 
-      "district_votes": 0, 
-      "state": "CA", 
-      "iface": "timeline_question", 
-      "y": 38.0692, 
-      "x": -122.164, 
-      "latest_vote": "2013-08-10T01:07:46", 
-      "id": 16289392, 
-      "trending_score": 1.5
     }
   ]
 });
