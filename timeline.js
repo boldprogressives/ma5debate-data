@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Cumming", 
+      "first_name": "R. Gwen", 
+      "last_name": "Smith Minniti", 
+      "user_id": 697062, 
+      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
+      "district": "GA_07", 
+      "created": "2013-08-10T01:30:00", 
+      "state": "GA", 
+      "iface": "timeline_vote", 
+      "y": 34.2031, 
+      "x": -84.0743, 
+      "id": 16289686, 
+      "question_id": "16203676"
+    }, 
+    {
+      "city": "Reno", 
+      "first_name": "Tim", 
+      "last_name": "Sanders", 
+      "user_id": 974978, 
+      "submission": "Serving in Congress is not a career.  Will you vote for term limits?", 
+      "district": "NV_02", 
+      "created": "2013-08-10T01:29:36", 
+      "state": "NV", 
+      "iface": "timeline_vote", 
+      "y": 39.7704, 
+      "x": -119.617, 
+      "id": 16289685, 
+      "question_id": "16173323"
+    }, 
+    {
       "city": "Prosper", 
       "first_name": "Jeffrey", 
       "last_name": "Wallace", 
@@ -15,36 +45,6 @@ opendebate.processTimeline({
       "x": -96.8112, 
       "id": 16289680, 
       "question_id": "16173264"
-    }, 
-    {
-      "city": "Cumming", 
-      "first_name": "R. Gwen", 
-      "last_name": "Smith Minniti", 
-      "user_id": 697062, 
-      "submission": "Will you fight to protect voting rights of all Americans?", 
-      "district": "GA_07", 
-      "created": "2013-08-10T01:28:45", 
-      "state": "GA", 
-      "iface": "timeline_vote", 
-      "y": 34.2031, 
-      "x": -84.0743, 
-      "id": 16289678, 
-      "question_id": "16201559"
-    }, 
-    {
-      "city": "Reno", 
-      "first_name": "Tim", 
-      "last_name": "Sanders", 
-      "user_id": 974978, 
-      "submission": "The threat that hangs over the country today is a GOP determined to destroy the middle class and the values that define it.  What specific steps will you recommend to confront, not appease, the GOP?", 
-      "district": "NV_02", 
-      "created": "2013-08-10T01:28:43", 
-      "state": "NV", 
-      "iface": "timeline_vote", 
-      "y": 39.7704, 
-      "x": -119.617, 
-      "id": 16289677, 
-      "question_id": "16172694"
     }, 
     {
       "city": "Allston", 
