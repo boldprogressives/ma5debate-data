@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Bloomington", 
+      "first_name": "Jim", 
+      "last_name": "Young", 
+      "user_id": 1770393, 
+      "submission": "What will you do to overturn Citizen's United?", 
+      "district": "CA_35", 
+      "created": "2013-08-10T14:37:49", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 34.0699, 
+      "x": -117.397, 
+      "id": 16293500, 
+      "question_id": "16172765"
+    }, 
+    {
+      "city": "Chicago", 
+      "first_name": "Peter", 
+      "last_name": "Moxon", 
+      "user_id": 128965, 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "district": "IL_07", 
+      "created": "2013-08-10T14:37:10", 
+      "state": "IL", 
+      "iface": "timeline_vote", 
+      "y": 41.899, 
+      "x": -87.6365, 
+      "id": 16293498, 
+      "question_id": "16173259"
+    }, 
+    {
       "city": "Wilmington", 
       "first_name": "BETTY", 
       "last_name": "DUFF", 
       "user_id": 1577224, 
-      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
       "district": "DE_01", 
-      "created": "2013-08-10T14:36:52", 
+      "created": "2013-08-10T14:37:02", 
       "state": "DE", 
       "iface": "timeline_vote", 
       "y": 39.8206, 
       "x": -75.5081, 
-      "id": 16293496, 
-      "question_id": "16172755"
+      "id": 16293497, 
+      "question_id": "16172281"
     }, 
     {
       "city": "Great Neck", 
@@ -30,21 +60,6 @@ opendebate.processTimeline({
       "x": -73.7258, 
       "id": 16293490, 
       "question_id": "16181276"
-    }, 
-    {
-      "city": "Chicago", 
-      "first_name": "Peter", 
-      "last_name": "Moxon", 
-      "user_id": 128965, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
-      "district": "IL_07", 
-      "created": "2013-08-10T14:36:21", 
-      "state": "IL", 
-      "iface": "timeline_vote", 
-      "y": 41.899, 
-      "x": -87.6365, 
-      "id": 16293489, 
-      "question_id": "16172913"
     }, 
     {
       "city": "New York", 
@@ -75,21 +90,6 @@ opendebate.processTimeline({
       "x": -121.757, 
       "id": 16293479, 
       "question_id": "16175276"
-    }, 
-    {
-      "city": "Bloomington", 
-      "first_name": "Jim", 
-      "last_name": "Young", 
-      "user_id": 1770393, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
-      "district": "CA_35", 
-      "created": "2013-08-10T14:35:21", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 34.0699, 
-      "x": -117.397, 
-      "id": 16293468, 
-      "question_id": "16172913"
     }, 
     {
       "city": "Duvall", 
