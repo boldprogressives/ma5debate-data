@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "R. Gwen", 
       "last_name": "Smith Minniti", 
       "user_id": 697062, 
-      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
+      "submission": "Would you support a ban on Congresspersons accepting jobs as corporate lobbyists for at least ten years after leaving Congress?", 
       "district": "GA_07", 
-      "created": "2013-08-10T01:53:01", 
+      "created": "2013-08-10T01:54:00", 
       "state": "GA", 
       "iface": "timeline_vote", 
       "y": 34.2031, 
       "x": -84.0743, 
-      "id": 16290008, 
-      "question_id": "16172583"
+      "id": 16290057, 
+      "question_id": "16178177"
     }, 
     {
       "city": "Reno", 
       "first_name": "Tim", 
       "last_name": "Sanders", 
       "user_id": 974978, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "submission": "How will you support the dignity and freedom of women to make medical decisions with their health care providers without interference of federal and state laws?", 
       "district": "NV_02", 
-      "created": "2013-08-10T01:52:59", 
+      "created": "2013-08-10T01:53:45", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 39.7704, 
       "x": -119.617, 
-      "id": 16290006, 
-      "question_id": "16173264"
+      "id": 16290044, 
+      "question_id": "16183415"
     }, 
     {
       "city": "Arlington", 
