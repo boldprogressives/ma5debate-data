@@ -854,7 +854,7 @@ opendebate.processFetchedQuestions({
       "x": -72.324, 
       "latest_vote": "2013-08-10T04:41:42", 
       "id": 16287756, 
-      "trending_score": 0.5
+      "trending_score": 0.16666666666666666
     }, 
     {
       "city": "Sarasota", 
@@ -1804,7 +1804,7 @@ opendebate.processFetchedQuestions({
       "x": -122.64, 
       "latest_vote": "2013-08-10T03:41:16", 
       "id": 16273200, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Tempe", 
@@ -5889,7 +5889,7 @@ opendebate.processFetchedQuestions({
       "x": -74.1136, 
       "latest_vote": "2013-08-10T04:41:52", 
       "id": 16237280, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Flint", 
@@ -5927,7 +5927,7 @@ opendebate.processFetchedQuestions({
       "x": -91.7234, 
       "latest_vote": "2013-08-10T04:41:56", 
       "id": 16236353, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Huntington", 
@@ -22647,7 +22647,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1032, 
       "latest_vote": "2013-08-10T05:11:37", 
       "id": 16181015, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Somerville", 
@@ -22742,7 +22742,7 @@ opendebate.processFetchedQuestions({
       "x": -117.794, 
       "latest_vote": "2013-08-10T05:11:56", 
       "id": 16180989, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Irvine", 
@@ -29525,7 +29525,7 @@ opendebate.processFetchedQuestions({
       "x": -91.087, 
       "latest_vote": "2013-08-10T07:12:20", 
       "id": 16172866, 
-      "trending_score": 1.75
+      "trending_score": 1.8333333333333333
     }, 
     {
       "city": "Austin", 
@@ -29658,7 +29658,7 @@ opendebate.processFetchedQuestions({
       "x": -122.589, 
       "latest_vote": "2013-08-10T08:39:29", 
       "id": 16172765, 
-      "trending_score": 7.125
+      "trending_score": 7.166666666666667
     }, 
     {
       "city": "Egg Harbor", 
@@ -30266,7 +30266,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2368, 
       "latest_vote": "2013-08-10T05:56:16", 
       "id": 16172542, 
-      "trending_score": 3.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Cambridge", 
