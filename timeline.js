@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Helena", 
+      "first_name": "Rebecca", 
+      "last_name": "Conner", 
+      "user_id": 58638, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "AL_06", 
+      "created": "2013-08-10T13:35:28", 
+      "state": "AL", 
+      "iface": "timeline_vote", 
+      "y": 33.3053, 
+      "x": -86.8183, 
+      "id": 16292687, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "New Port Richey", 
       "first_name": "robert", 
       "last_name": "Brown", 
@@ -309,21 +324,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16292545, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Clinton Township", 
-      "first_name": "Pamela", 
-      "last_name": "St Louis", 
-      "user_id": 987414, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
-      "district": "MI_09", 
-      "created": "2013-08-10T11:30:19", 
-      "state": "MI", 
-      "iface": "timeline_vote", 
-      "y": 42.553, 
-      "x": -82.9119, 
-      "id": 16292543, 
-      "question_id": "16172281"
     }
   ]
 });
