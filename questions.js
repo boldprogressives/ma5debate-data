@@ -6,6 +6,44 @@ opendebate.processFetchedQuestions({
       "first_name": "Nicholas", 
       "last_name": "Martino", 
       "user_id": 1810196, 
+      "submission": "More on the sad state of math and science in this country.  How many liters of cyanide would be needed to execute all 535 members of Congress once they are exposed as Fourth reich Nazi war criminals for their role in perpetuating the coverup of 9/11 and allowing thousands of other young men and women to be duped into enlisting on the basis of the false flag operation.  All told, close to 20,000 Americans have died horrible deaths due to nazi insanity.  Estimates of innocent deaths abroad are about 1 million.  You pices of Nazi filth should be tortured and then killed, but we'll settle for seeing every last one of you executed.", 
+      "district": "NV_03", 
+      "created": "2013-08-10T11:35:26", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NV", 
+      "iface": "question", 
+      "y": 36.0401, 
+      "x": -115.077, 
+      "latest_vote": null, 
+      "id": 16292546, 
+      "trending_score": 0.5
+    }, 
+    {
+      "city": "East Weymouth", 
+      "first_name": "Carlotta", 
+      "last_name": "Hayes", 
+      "user_id": 1806880, 
+      "submission": "What specific measures would you initiate to turn around the epidemic of gun violence in Massachusetts cities ?", 
+      "district": "MA_08", 
+      "created": "2013-08-10T11:35:16", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.2138, 
+      "x": -70.9328, 
+      "latest_vote": null, 
+      "id": 16292545, 
+      "trending_score": 0.5
+    }, 
+    {
+      "city": "Henderson", 
+      "first_name": "Nicholas", 
+      "last_name": "Martino", 
+      "user_id": 1810196, 
       "submission": "If a patriot hunts down and executes one of your \"colleagues\", a 4th Reich Nazi war criminal posing as a \"public official\" who has committed treason, aided and abetted terrorists, acted as a an accessory after the fact to mass murder on 9/11 by perpetuating the cover-up and in so doing put the lives of every young man and women who has been or might be duped into enlisting at grave risk, would you... (a) pin an iron cross on him and attend the state funeral, (b) find a safe place to hide in South America, or (c) rejoice as the free people of the country throw his worthless Nazi carcass into a pit of fire? ", 
       "district": "NV_03", 
       "created": "2013-08-10T10:58:10", 
@@ -17612,7 +17650,7 @@ opendebate.processFetchedQuestions({
       "x": -71.5469, 
       "latest_vote": "2013-08-10T06:35:55", 
       "id": 16193930, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "East Brunswick", 
@@ -18410,7 +18448,7 @@ opendebate.processFetchedQuestions({
       "x": -74.1495, 
       "latest_vote": "2013-08-10T06:35:45", 
       "id": 16191182, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Dallas", 

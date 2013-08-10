@@ -2,6 +2,44 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Henderson", 
+      "first_name": "Nicholas", 
+      "last_name": "Martino", 
+      "user_id": 1810196, 
+      "submission": "More on the sad state of math and science in this country.  How many liters of cyanide would be needed to execute all 535 members of Congress once they are exposed as Fourth reich Nazi war criminals for their role in perpetuating the coverup of 9/11 and allowing thousands of other young men and women to be duped into enlisting on the basis of the false flag operation.  All told, close to 20,000 Americans have died horrible deaths due to nazi insanity.  Estimates of innocent deaths abroad are about 1 million.  You pices of Nazi filth should be tortured and then killed, but we'll settle for seeing every last one of you executed.", 
+      "district": "NV_03", 
+      "created": "2013-08-10T11:35:26", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NV", 
+      "iface": "timeline_question", 
+      "y": 36.0401, 
+      "x": -115.077, 
+      "latest_vote": null, 
+      "id": 16292546, 
+      "trending_score": 0.5
+    }, 
+    {
+      "city": "East Weymouth", 
+      "first_name": "Carlotta", 
+      "last_name": "Hayes", 
+      "user_id": 1806880, 
+      "submission": "What specific measures would you initiate to turn around the epidemic of gun violence in Massachusetts cities ?", 
+      "district": "MA_08", 
+      "created": "2013-08-10T11:35:16", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.2138, 
+      "x": -70.9328, 
+      "latest_vote": null, 
+      "id": 16292545, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Clinton Township", 
       "first_name": "Pamela", 
       "last_name": "St Louis", 
@@ -15,21 +53,6 @@ opendebate.processTimeline({
       "x": -82.9119, 
       "id": 16292543, 
       "question_id": "16172281"
-    }, 
-    {
-      "city": "East Weymouth", 
-      "first_name": "Carlotta", 
-      "last_name": "Hayes", 
-      "user_id": 1806880, 
-      "submission": "What do you intend to do ,if elected to office to end guns violence in out communities?do you promised to vote as One person with fellow democrat to stand their ground when provoque by Rep\u00fablicans or you will be a disguide Republican in a demogratic ship?", 
-      "district": "MA_08", 
-      "created": "2013-08-10T11:27:51", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2138, 
-      "x": -70.9328, 
-      "id": 16292542, 
-      "question_id": "16188671"
     }, 
     {
       "city": "West Shokan", 
@@ -324,25 +347,6 @@ opendebate.processTimeline({
       "x": -70.9045, 
       "latest_vote": null, 
       "id": 16292258, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Salem", 
-      "first_name": "Leon", 
-      "last_name": "Keefe", 
-      "user_id": 1771578, 
-      "submission": "Will you stop trying to rob our parents of their social security & retirement! It's their right & not a privilege for which they & we have already paid into! Will you increase it & not cut it!", 
-      "district": "MA_06", 
-      "created": "2013-08-10T07:46:12", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.5181, 
-      "x": -70.9045, 
-      "latest_vote": null, 
-      "id": 16292257, 
       "trending_score": 0.5
     }
   ]
