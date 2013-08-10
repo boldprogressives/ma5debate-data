@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Joe", 
       "last_name": "Verdoes", 
       "user_id": 503455, 
-      "submission": "Do you agree that accepting money from corporate interests with an economic stake in how Congressmen vote, and then voting on matters that affect them, is pernicious and close to bribery?  If not, why not?  ", 
+      "submission": "When is Congress going to reinstate Glass-Steagall Act and hold CEO's of \"too big to fail\" banks accountable for their criminal behavior?", 
       "district": "WA_02", 
-      "created": "2013-08-10T03:45:58", 
+      "created": "2013-08-10T03:46:51", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 48.4989, 
       "x": -122.607, 
-      "id": 16290927, 
-      "question_id": "16176481"
+      "id": 16290930, 
+      "question_id": "16242609"
     }, 
     {
       "city": "Greensboro", 
