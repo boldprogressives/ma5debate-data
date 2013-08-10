@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Bisbee", 
+      "first_name": "Bridget", 
+      "last_name": "Burke", 
+      "user_id": 1592935, 
+      "submission": "Do you support the legalization of marijuana (which should be taxed & regulated like alcohol or tobacco)? If so, would you allow the release of nonviolent offenders from prison?", 
+      "district": "AZ_02", 
+      "created": "2013-08-10T03:11:59", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 31.4588, 
+      "x": -109.946, 
+      "id": 16290687, 
+      "question_id": "16172722"
+    }, 
+    {
       "city": "Mount Vernon", 
       "first_name": "Laura", 
       "last_name": "Mays", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -88.9093, 
       "id": 16290685, 
       "question_id": "16180998"
-    }, 
-    {
-      "city": "Bisbee", 
-      "first_name": "Bridget", 
-      "last_name": "Burke", 
-      "user_id": 1592935, 
-      "submission": "Will you support a national bill to decriminalize marijuana?", 
-      "district": "AZ_02", 
-      "created": "2013-08-10T03:10:34", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 31.4588, 
-      "x": -109.946, 
-      "id": 16290680, 
-      "question_id": "16290490"
     }, 
     {
       "city": "Mansfield", 
