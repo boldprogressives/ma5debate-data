@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Metairie", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810452, 
+      "submission": "Public education is being privatized all over the U.S., with even Obama supporting school \"reform\" which turns education over to private corporations. These companies get rid of experienced teachers, hire in kids just out of college, give them 5 weeks of \"training\" and then put them in schools at low wages. Our children are being short-changed, particularly those with learning problems - \"reform\" schools \"cook the books\" by denying places in schools to those with problems, then saying, \"look, scores up!\" Will you seriously take a hard look at school \"reform?\"", 
+      "district": "LA_01", 
+      "created": "2013-08-10T13:47:46", 
+      "state": "LA", 
+      "iface": "timeline_vote", 
+      "y": 29.9868, 
+      "x": -90.1663, 
+      "id": 16292714, 
+      "question_id": "16197636"
+    }, 
+    {
       "city": "Arlington", 
       "first_name": "Marti", 
       "last_name": "Cockrell", 
       "user_id": 1770371, 
-      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "TX_06", 
-      "created": "2013-08-10T13:46:57", 
+      "created": "2013-08-10T13:47:31", 
       "state": "TX", 
       "iface": "timeline_vote", 
       "y": 32.69, 
       "x": -97.1915, 
-      "id": 16292710, 
-      "question_id": "16173259"
+      "id": 16292713, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Decatur", 
@@ -296,25 +311,6 @@ opendebate.processTimeline({
       "x": -115.077, 
       "latest_vote": null, 
       "id": 16292557, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Henderson", 
-      "first_name": "Nicholas", 
-      "last_name": "Martino", 
-      "user_id": 1810196, 
-      "submission": "Is there a timetable for when the Fourth Reich nazi war criminals who have hijacked our government will finally come out from behind the curtains and proudly start goose-stepping to the tune of Deutchland Detchland Uber Alles?  Seriously, how much longer do you assholes think this charade can continue?  You killed 3000 innocent people in cold blood and did it in a manner that anyone with an IQ over 50 could see it and since, you've been spying on everyone just to make sure we won't just hunt you down and kill you, as we should.  Do you think THIS lie is sustainable?  Are you THAT criminally insane?", 
-      "district": "NV_03", 
-      "created": "2013-08-10T11:40:34", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "NV", 
-      "iface": "timeline_question", 
-      "y": 36.0401, 
-      "x": -115.077, 
-      "latest_vote": null, 
-      "id": 16292553, 
       "trending_score": 0.5
     }
   ]

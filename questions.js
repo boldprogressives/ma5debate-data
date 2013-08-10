@@ -16996,15 +16996,15 @@ opendebate.processFetchedQuestions({
       "district": "LA_02", 
       "created": "2013-08-06T18:08:47", 
       "state_votes": 3, 
-      "votes": 31, 
+      "votes": 32, 
       "district_votes": 1, 
       "state": "LA", 
       "iface": "question", 
       "y": 29.9546, 
       "x": -90.1234, 
-      "latest_vote": "2013-08-10T04:01:40", 
+      "latest_vote": "2013-08-10T13:47:46", 
       "id": 16197636, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Hampton", 
@@ -27351,15 +27351,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_09", 
       "created": "2013-08-04T19:58:10", 
       "state_votes": 29, 
-      "votes": 235, 
+      "votes": 236, 
       "district_votes": 6, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.5869, 
       "x": -122.298, 
-      "latest_vote": "2013-08-10T12:52:28", 
+      "latest_vote": "2013-08-10T13:47:13", 
       "id": 16174466, 
-      "trending_score": 4.5
+      "trending_score": 5.5
     }, 
     {
       "city": "Albany", 
@@ -30049,15 +30049,15 @@ opendebate.processFetchedQuestions({
       "district": "ID_02", 
       "created": "2013-08-03T22:11:15", 
       "state_votes": 101, 
-      "votes": 846, 
+      "votes": 847, 
       "district_votes": 25, 
       "state": "ID", 
       "iface": "question", 
       "y": 43.6302, 
       "x": -116.297, 
-      "latest_vote": "2013-08-10T11:58:35", 
+      "latest_vote": "2013-08-10T13:47:09", 
       "id": 16172697, 
-      "trending_score": 5.25
+      "trending_score": 6.25
     }, 
     {
       "city": "Holts Summit", 
@@ -30638,15 +30638,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:33:11", 
       "state_votes": 267, 
-      "votes": 1722, 
+      "votes": 1723, 
       "district_votes": 73, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-10T13:35:28", 
+      "latest_vote": "2013-08-10T13:47:31", 
       "id": 16172266, 
-      "trending_score": 4.25
+      "trending_score": 5.25
     }, 
     {
       "city": "Cambridge", 
