@@ -14515,7 +14515,7 @@ opendebate.processFetchedQuestions({
       "x": -71.3601, 
       "latest_vote": "2013-08-10T05:59:56", 
       "id": 16207233, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Melbourne Beach", 
@@ -15921,7 +15921,7 @@ opendebate.processFetchedQuestions({
       "x": -80.6964, 
       "latest_vote": "2013-08-10T06:18:52", 
       "id": 16201745, 
-      "trending_score": 0.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Richardson", 
@@ -16092,7 +16092,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2318, 
       "latest_vote": "2013-08-10T04:59:54", 
       "id": 16201423, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Pleasant Hill", 
@@ -16358,7 +16358,7 @@ opendebate.processFetchedQuestions({
       "x": -76.2257, 
       "latest_vote": "2013-08-10T04:59:37", 
       "id": 16200699, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Chesapeake", 
