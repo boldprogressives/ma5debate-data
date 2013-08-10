@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Birmingham", 
-      "first_name": "Dot", 
-      "last_name": "Canup", 
-      "user_id": 1565077, 
-      "submission": "Would you support  every state being mandated to have early voting for a minimum of 1 week before the election to give everyone a chance to vote?", 
-      "district": "AL_07", 
-      "created": "2013-08-10T04:42:58", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 33.6391, 
-      "x": -86.6919, 
-      "id": 16291425, 
-      "question_id": "16234459"
-    }, 
-    {
       "city": "Phoenix", 
       "first_name": "Lynne", 
       "last_name": "Vestal", 
       "user_id": 1121128, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
       "district": "AZ_09", 
-      "created": "2013-08-10T04:42:54", 
+      "created": "2013-08-10T04:43:32", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 33.559, 
       "x": -112.089, 
-      "id": 16291424, 
-      "question_id": "16173264"
+      "id": 16291428, 
+      "question_id": "16172533"
+    }, 
+    {
+      "city": "Birmingham", 
+      "first_name": "Dot", 
+      "last_name": "Canup", 
+      "user_id": 1565077, 
+      "submission": "Will you fight to protect the Clean Air Act, the Clean Water Act and the EPA in a House of Representatives that has become increasingly hostile to all three?", 
+      "district": "AL_07", 
+      "created": "2013-08-10T04:43:24", 
+      "state": "AL", 
+      "iface": "timeline_vote", 
+      "y": 33.6391, 
+      "x": -86.6919, 
+      "id": 16291427, 
+      "question_id": "16226952"
     }, 
     {
       "city": "Arlington", 
