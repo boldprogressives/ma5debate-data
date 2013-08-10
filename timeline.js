@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Janet", 
       "last_name": "Anderson", 
       "user_id": 1725594, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
       "district": "NM_03", 
-      "created": "2013-08-09T23:59:01", 
+      "created": "2013-08-09T23:59:59", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16288585, 
-      "question_id": "16172266"
+      "id": 16288596, 
+      "question_id": "16172755"
     }, 
     {
       "city": "El Prado", 
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Since I am constantly hearing single women parents are looking for public assistance, even though they may be working two or more low-wage jobs, why isn't more being done for equal pay for women in all jobs, as well as higher min. wages, even if it is just for your state.", 
+      "submission": "Will you fight for a  revival of Glass/Steagall Act and the Monopoly and Merger legislation which are essential for restoring liquidity throughout the economy, genuine competition, and the revival of a healthy form of Capitalism?", 
       "district": "NM_03", 
-      "created": "2013-08-09T23:59:00", 
+      "created": "2013-08-09T23:59:58", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16288584, 
-      "question_id": "16190885"
+      "id": 16288595, 
+      "question_id": "16189753"
     }, 
     {
       "city": "Cedartown", 
