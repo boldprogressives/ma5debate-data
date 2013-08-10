@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Portland", 
+      "first_name": "Marc", 
+      "last_name": "Schluper", 
+      "user_id": 1691083, 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "district": "OR_01", 
+      "created": "2013-08-10T14:08:49", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 45.5409, 
+      "x": -122.83, 
+      "id": 16293279, 
+      "question_id": "16172533"
+    }, 
+    {
       "city": "Wakefield", 
       "first_name": "Carol and Robert", 
       "last_name": "Caverly-Paxton", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -71.5163, 
       "id": 16292605, 
       "question_id": "16269954"
-    }, 
-    {
-      "city": "Houston", 
-      "first_name": "Katherine", 
-      "last_name": "Fernandez", 
-      "user_id": 333705, 
-      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
-      "district": "TX_18", 
-      "created": "2013-08-10T12:41:05", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 29.7963, 
-      "x": -95.4172, 
-      "id": 16292602, 
-      "question_id": "16180998"
     }
   ]
 });
