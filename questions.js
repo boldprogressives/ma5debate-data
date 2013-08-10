@@ -12425,7 +12425,7 @@ opendebate.processFetchedQuestions({
       "x": -71.3639, 
       "latest_vote": "2013-08-10T15:02:03", 
       "id": 16215369, 
-      "trending_score": 3.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Wayland", 
@@ -30513,7 +30513,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5959, 
       "latest_vote": "2013-08-10T17:46:41", 
       "id": 16172755, 
-      "trending_score": 10.083333333333334
+      "trending_score": 14.333333333333334
     }, 
     {
       "city": "Richardson", 
