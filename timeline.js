@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Phoenix", 
+      "first_name": "Lynne", 
+      "last_name": "Vestal", 
+      "user_id": 1121128, 
+      "submission": "What would you do to create criminal indictments of these corporate polluters of our water, air and food or the corporate thieves of our housing, pensions and futures? Will you uphold the constitution and DEMAND JUSTICE.", 
+      "district": "AZ_09", 
+      "created": "2013-08-10T06:33:59", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 33.559, 
+      "x": -112.089, 
+      "id": 16292180, 
+      "question_id": "16207548"
+    }, 
+    {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Open and independent and thorough investigation of what really happened on 9/11, and, this time, require Bush and Cheney to answer questions on the record and not together.", 
+      "submission": "Can you explain why the people responsible for the failure of Wall Street and the banking industry have not been held accountable for the destruction of our economy.", 
       "district": "AL_07", 
-      "created": "2013-08-10T06:33:01", 
+      "created": "2013-08-10T06:33:51", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292175, 
-      "question_id": "16220936"
+      "id": 16292179, 
+      "question_id": "16201979"
     }, 
     {
       "city": "Watertown", 
@@ -53,21 +68,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16292168, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Phoenix", 
-      "first_name": "Lynne", 
-      "last_name": "Vestal", 
-      "user_id": 1121128, 
-      "submission": "Will you actively support and promote the proposal for a Constitution Amendment protecting the right to vote?  (see freetovote.org)", 
-      "district": "AZ_09", 
-      "created": "2013-08-10T06:27:02", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 33.559, 
-      "x": -112.089, 
-      "id": 16292162, 
-      "question_id": "16185403"
     }, 
     {
       "city": "Rochester", 
