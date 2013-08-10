@@ -14686,7 +14686,7 @@ opendebate.processFetchedQuestions({
       "x": -118.354, 
       "latest_vote": "2013-08-10T20:13:56", 
       "id": 16209667, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Lexington", 
@@ -16852,7 +16852,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1057, 
       "latest_vote": "2013-08-10T16:55:46", 
       "id": 16201488, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Pleasant Hill", 
@@ -25155,7 +25155,7 @@ opendebate.processFetchedQuestions({
       "x": -111.045, 
       "latest_vote": "2013-08-10T16:56:09", 
       "id": 16177944, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Albuquerque", 
@@ -26941,7 +26941,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9643, 
       "latest_vote": "2013-08-10T18:16:33", 
       "id": 16175740, 
-      "trending_score": 2.2
+      "trending_score": 1.3
     }, 
     {
       "city": "Buffalo Grove", 
@@ -27169,7 +27169,7 @@ opendebate.processFetchedQuestions({
       "x": -103.032, 
       "latest_vote": "2013-08-10T18:20:20", 
       "id": 16175570, 
-      "trending_score": 2.25
+      "trending_score": 1.375
     }, 
     {
       "city": "Mountlake Terrace", 
