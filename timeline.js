@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Oswego", 
-      "first_name": "Sandra", 
-      "last_name": "Van Schaack", 
-      "user_id": 553291, 
-      "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
-      "district": "NY_24", 
-      "created": "2013-08-10T01:45:03", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 43.4515, 
-      "x": -76.5017, 
-      "id": 16289798, 
-      "question_id": "16172542"
-    }, 
-    {
       "city": "Cumming", 
       "first_name": "R. Gwen", 
       "last_name": "Smith Minniti", 
       "user_id": 697062, 
-      "submission": "How would you reform the process of drawing congressional districts so that it represents the interests of the people and does not favor any one party?", 
+      "submission": "Will you vote to end tax loopholes for the rich, big business subsides, overseas corporate tax loopholes, wasteful wars, foreign country subsides, quality health care for all, good safe food for all, clean air, clean energy, clean safe drinking water, useful education and job opportunities for all hard working citizens that can achieve these levels and deserve it, gun control, to end wall street fraud and corruption.", 
       "district": "GA_07", 
-      "created": "2013-08-10T01:44:56", 
+      "created": "2013-08-10T01:46:06", 
       "state": "GA", 
       "iface": "timeline_vote", 
       "y": 34.2031, 
       "x": -84.0743, 
-      "id": 16289797, 
-      "question_id": "16201951"
+      "id": 16289810, 
+      "question_id": "16203215"
+    }, 
+    {
+      "city": "Panama City", 
+      "first_name": "eugene", 
+      "last_name": "mcclure", 
+      "user_id": 1567750, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "FL_02", 
+      "created": "2013-08-10T01:46:05", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 30.2034, 
+      "x": -85.6606, 
+      "id": 16289809, 
+      "question_id": "16173264"
     }, 
     {
       "city": "Reno", 
       "first_name": "Tim", 
       "last_name": "Sanders", 
       "user_id": 974978, 
-      "submission": "I would like to know why the monies appropriated from the Social Security accounts by the government to pay other bills were not returned to the account. That account should be sacrosanct and should not be touched by other government agencies.", 
+      "submission": "How can Manning and Snowden be in trouble and Dick Chaney isn't in trouble for outing Valerie Plame?", 
       "district": "NV_02", 
-      "created": "2013-08-10T01:44:37", 
+      "created": "2013-08-10T01:45:54", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 39.7704, 
       "x": -119.617, 
-      "id": 16289793, 
-      "question_id": "16225595"
+      "id": 16289807, 
+      "question_id": "16201620"
+    }, 
+    {
+      "city": "Oswego", 
+      "first_name": "Sandra", 
+      "last_name": "Van Schaack", 
+      "user_id": 553291, 
+      "submission": "Serving in Congress is not a career.  Will you vote for term limits?", 
+      "district": "NY_24", 
+      "created": "2013-08-10T01:45:52", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 43.4515, 
+      "x": -76.5017, 
+      "id": 16289806, 
+      "question_id": "16173323"
     }, 
     {
       "city": "", 
@@ -285,21 +300,6 @@ opendebate.processTimeline({
       "x": -71.0824, 
       "id": 16289483, 
       "question_id": "16207584"
-    }, 
-    {
-      "city": "Natick", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1810399, 
-      "submission": "Will you support the Constitutin of the United States of America against all enemies foreign and domestic by protecting each of our bill of rights including the right of individual citizens to carry and bear arms to protect this country and their family against those enemies that currently est or may exist at any time in the future?", 
-      "district": "MA_05", 
-      "created": "2013-08-10T01:08:10", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2872, 
-      "x": -71.3523, 
-      "id": 16289465, 
-      "question_id": "16280049"
     }
   ]
 });
