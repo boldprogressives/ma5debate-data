@@ -5661,7 +5661,7 @@ opendebate.processFetchedQuestions({
       "x": -122.046, 
       "latest_vote": "2013-08-10T16:04:58", 
       "id": 16244019, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Riverbank", 
@@ -17441,7 +17441,7 @@ opendebate.processFetchedQuestions({
       "x": -85.8619, 
       "latest_vote": "2013-08-10T16:05:10", 
       "id": 16199725, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Fort Myers", 
