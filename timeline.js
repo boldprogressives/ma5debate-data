@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Idyllwild", 
+      "first_name": "lucy", 
+      "last_name": "mccampbell", 
+      "user_id": 1735723, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "CA_36", 
+      "created": "2013-08-10T16:12:43", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 33.7359, 
+      "x": -116.694, 
+      "id": 16294336, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Independence", 
       "first_name": "Margaret", 
       "last_name": "Goodwin", 
@@ -313,21 +328,6 @@ opendebate.processTimeline({
       "x": -97.2115, 
       "id": 16293907, 
       "question_id": "16172731"
-    }, 
-    {
-      "city": "Montville", 
-      "first_name": "Colleen", 
-      "last_name": "Sattelmaier", 
-      "user_id": 1691702, 
-      "submission": "What are your thoughts on how to stop corporate welfare, tax loopholes and subsidies.", 
-      "district": "OH_14", 
-      "created": "2013-08-10T15:16:27", 
-      "state": "OH", 
-      "iface": "timeline_vote", 
-      "y": 41.5975, 
-      "x": -81.0504, 
-      "id": 16293889, 
-      "question_id": "16206470"
     }
   ]
 });

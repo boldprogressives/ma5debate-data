@@ -26808,7 +26808,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9643, 
       "latest_vote": "2013-08-10T15:54:40", 
       "id": 16175740, 
-      "trending_score": 15.5
+      "trending_score": 8.0
     }, 
     {
       "city": "Buffalo Grove", 
@@ -30353,15 +30353,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
       "state_votes": 269, 
-      "votes": 1845, 
+      "votes": 1846, 
       "district_votes": 73, 
       "state": "MT", 
       "iface": "question", 
       "y": 46.6453, 
       "x": -111.974, 
-      "latest_vote": "2013-08-10T15:53:14", 
+      "latest_vote": "2013-08-10T16:12:43", 
       "id": 16172777, 
-      "trending_score": 23.166666666666668
+      "trending_score": 24.166666666666668
     }, 
     {
       "city": "Gladstone", 
@@ -30380,7 +30380,7 @@ opendebate.processFetchedQuestions({
       "x": -122.589, 
       "latest_vote": "2013-08-10T15:54:55", 
       "id": 16172765, 
-      "trending_score": 14.5
+      "trending_score": 7.5
     }, 
     {
       "city": "Egg Harbor", 
@@ -30988,7 +30988,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2368, 
       "latest_vote": "2013-08-10T11:43:30", 
       "id": 16172542, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Cambridge", 
