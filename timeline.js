@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Will you stand up to gun lobbyists to support strong measures about gun control or will you shy away from it because it is too hot?", 
+      "submission": "Would you vote to overturn Citizens United?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:18:45", 
+      "created": "2013-08-10T04:20:01", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291155, 
-      "question_id": "16187691"
+      "id": 16291161, 
+      "question_id": "16185125"
     }, 
     {
       "city": "San Antonio", 
