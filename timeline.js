@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Independence", 
+      "first_name": "Margaret", 
+      "last_name": "Goodwin", 
+      "user_id": 1697661, 
+      "submission": "Will you sign legislation outlining ethics for SCOTUS - including when they clearly have a conflict-of-interest?", 
+      "district": "OR_05", 
+      "created": "2013-08-10T16:04:58", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 44.8433, 
+      "x": -123.186, 
+      "id": 16294306, 
+      "question_id": "16244019"
+    }, 
+    {
       "city": "Westwood", 
       "first_name": "Tom", 
       "last_name": "Bengaff", 
@@ -19,21 +34,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16294301, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Independence", 
-      "first_name": "Margaret", 
-      "last_name": "Goodwin", 
-      "user_id": 1697661, 
-      "submission": "Will you support a Whistleblowers Act that will allow for transparency  in our Government and the NSA with immunity to prosecution?", 
-      "district": "OR_05", 
-      "created": "2013-08-10T16:03:54", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 44.8433, 
-      "x": -123.186, 
-      "id": 16294300, 
-      "question_id": "16203822"
     }, 
     {
       "city": "Lynbrook", 

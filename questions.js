@@ -5501,15 +5501,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_15", 
       "created": "2013-08-08T23:18:00", 
       "state_votes": 0, 
-      "votes": 5, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.5746, 
       "x": -122.046, 
-      "latest_vote": "2013-08-10T14:21:24", 
+      "latest_vote": "2013-08-10T16:04:58", 
       "id": 16244019, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Riverbank", 
