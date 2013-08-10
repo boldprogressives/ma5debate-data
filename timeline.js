@@ -2,6 +2,40 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Somerville", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810418, 
+      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
+      "district": "MA_07", 
+      "created": "2013-08-10T02:49:56", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.399, 
+      "x": -71.1231, 
+      "id": 16290560, 
+      "question_id": "16172583"
+    }, 
+    {
+      "city": "Corona", 
+      "first_name": "Letitia", 
+      "last_name": "Mason", 
+      "user_id": 1779781, 
+      "submission": "Why can't I collect social security if I am discriminated when I apply for jobs?", 
+      "district": "CA_42", 
+      "created": "2013-08-10T02:49:16", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "CA", 
+      "iface": "timeline_question", 
+      "y": 33.8758, 
+      "x": -117.567, 
+      "latest_vote": null, 
+      "id": 16290556, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "San Diego", 
       "first_name": "Bonnie", 
       "last_name": "Breckenridge", 
@@ -286,36 +320,6 @@ opendebate.processTimeline({
       "x": -85.6606, 
       "id": 16289883, 
       "question_id": "16172207"
-    }, 
-    {
-      "city": "Marathon", 
-      "first_name": "Anna", 
-      "last_name": "Davis", 
-      "user_id": 961057, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "FL_26", 
-      "created": "2013-08-10T01:49:43", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 24.7236, 
-      "x": -81.0469, 
-      "id": 16289872, 
-      "question_id": "16172266"
-    }, 
-    {
-      "city": "Winston Salem", 
-      "first_name": "Hannah", 
-      "last_name": "Shapere", 
-      "user_id": 1138048, 
-      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
-      "district": "NC_05", 
-      "created": "2013-08-10T01:46:54", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 36.1496, 
-      "x": -80.3226, 
-      "id": 16289817, 
-      "question_id": "16202059"
     }
   ]
 });
