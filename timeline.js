@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "", 
       "last_name": "", 
       "user_id": 1810480, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
       "district": "NH_02", 
-      "created": "2013-08-10T15:44:00", 
+      "created": "2013-08-10T15:44:56", 
       "state": "NH", 
       "iface": "timeline_vote", 
       "y": 44.2214, 
       "x": -71.8191, 
-      "id": 16294124, 
-      "question_id": "16172777"
+      "id": 16294133, 
+      "question_id": "16172731"
     }, 
     {
       "city": "Spokane", 

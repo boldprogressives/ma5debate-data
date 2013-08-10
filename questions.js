@@ -29270,15 +29270,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:25:59", 
       "state_votes": 248, 
-      "votes": 1686, 
+      "votes": 1687, 
       "district_votes": 78, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-10T15:34:43", 
+      "latest_vote": "2013-08-10T15:44:09", 
       "id": 16173264, 
-      "trending_score": 7.833333333333333
+      "trending_score": 8.166666666666668
     }, 
     {
       "city": "Prosper", 
@@ -29498,15 +29498,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_10", 
       "created": "2013-08-04T00:59:23", 
       "state_votes": 187, 
-      "votes": 1348, 
+      "votes": 1349, 
       "district_votes": 46, 
       "state": "TX", 
       "iface": "question", 
       "y": 30.3972, 
       "x": -97.7518, 
-      "latest_vote": "2013-08-10T15:32:10", 
+      "latest_vote": "2013-08-10T15:44:37", 
       "id": 16173210, 
-      "trending_score": 4.75
+      "trending_score": 5.083333333333333
     }, 
     {
       "city": "Cottonwood", 
@@ -30315,15 +30315,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:27:03", 
       "state_votes": 199, 
-      "votes": 1507, 
+      "votes": 1508, 
       "district_votes": 51, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.6267, 
       "x": -87.5959, 
-      "latest_vote": "2013-08-10T15:34:51", 
+      "latest_vote": "2013-08-10T15:44:14", 
       "id": 16172755, 
-      "trending_score": 7.416666666666667
+      "trending_score": 7.75
     }, 
     {
       "city": "Richardson", 
@@ -30372,15 +30372,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:21:20", 
       "state_votes": 123, 
-      "votes": 1071, 
+      "votes": 1072, 
       "district_votes": 25, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.5746, 
       "x": -122.811, 
-      "latest_vote": "2013-08-10T15:33:12", 
+      "latest_vote": "2013-08-10T15:44:56", 
       "id": 16172731, 
-      "trending_score": 11.5
+      "trending_score": 12.5
     }, 
     {
       "city": "Chicago", 
