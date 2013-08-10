@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Weston", 
+      "first_name": "Nathaniel", 
+      "last_name": "Stutterheim", 
+      "user_id": 1700339, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "MO_06", 
+      "created": "2013-08-10T15:22:47", 
+      "state": "MO", 
+      "iface": "timeline_vote", 
+      "y": 39.4619, 
+      "x": -94.9114, 
+      "id": 16293924, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "Fort Worth", 
       "first_name": "Richard", 
       "last_name": "Scaturro", 
@@ -320,25 +335,6 @@ opendebate.processTimeline({
       "x": -87.6365, 
       "latest_vote": null, 
       "id": 16293754, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Chicago", 
-      "first_name": "Peter", 
-      "last_name": "Moxon", 
-      "user_id": 128965, 
-      "submission": "Where you pledge to vote against the chained CPI when applied to Social Security, Medicare, Medicaid funding", 
-      "district": "IL_07", 
-      "created": "2013-08-10T14:59:39", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "IL", 
-      "iface": "timeline_question", 
-      "y": 41.899, 
-      "x": -87.6365, 
-      "latest_vote": null, 
-      "id": 16293752, 
       "trending_score": 0.5
     }
   ]
