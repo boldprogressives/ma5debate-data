@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Will you support the ERA and women's rights to make their own health care decisions without government interference, even if it includes abortion?  If not, why not? ", 
+      "submission": "What can we do to limit gun violence in this country ?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:34:54", 
+      "created": "2013-08-10T04:36:25", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291347, 
-      "question_id": "16176653"
+      "id": 16291404, 
+      "question_id": "16265405"
     }, 
     {
       "city": "Yakima", 
