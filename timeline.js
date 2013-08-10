@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Phoenix", 
+      "first_name": "Lynne", 
+      "last_name": "Vestal", 
+      "user_id": 1121128, 
+      "submission": "Would you support the pardoning of all victimless crime marijuana (Cannabis) offenders? Depopulating our For Profit Prisons?", 
+      "district": "AZ_09", 
+      "created": "2013-08-10T06:25:03", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 33.559, 
+      "x": -112.089, 
+      "id": 16292154, 
+      "question_id": "16208291"
+    }, 
+    {
+      "city": "Watertown", 
+      "first_name": "Honorable Melvin C.", 
+      "last_name": "Poindexter", 
+      "user_id": 165355, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "MA_05", 
+      "created": "2013-08-10T06:24:52", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3713, 
+      "x": -71.1804, 
+      "id": 16292153, 
+      "question_id": "16173264"
+    }, 
+    {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "The democratic 'experiment' that defined this nation lasted about 200 years.  It came to an end with Ronald Reagan.  What will you do to bring government for the people by the people back?", 
+      "submission": "Obama has caved on so many issues that are important to liberals, how do we hold him accountable/push him to the left?", 
       "district": "AL_07", 
-      "created": "2013-08-10T06:23:56", 
+      "created": "2013-08-10T06:24:44", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292145, 
-      "question_id": "16176666"
+      "id": 16292152, 
+      "question_id": "16175465"
     }, 
     {
       "city": "Rochester", 
       "first_name": "Stephen", 
       "last_name": "Bellomo", 
       "user_id": 1772514, 
-      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
+      "submission": "Will you support a \"Clean Up Congress\" campaign to promote term limits and cease the eternal 'full pay' for lifetime after serving only one term?", 
       "district": "NY_25", 
-      "created": "2013-08-10T06:23:55", 
+      "created": "2013-08-10T06:24:16", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 43.1745, 
       "x": -77.5598, 
-      "id": 16292144, 
-      "question_id": "16172583"
-    }, 
-    {
-      "city": "Phoenix", 
-      "first_name": "Lynne", 
-      "last_name": "Vestal", 
-      "user_id": 1121128, 
-      "submission": "What steps do you intend to take to help prevent discriminatory practices violating the constitutional voting rights of non-white and poor citizens?", 
-      "district": "AZ_09", 
-      "created": "2013-08-10T06:23:43", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 33.559, 
-      "x": -112.089, 
-      "id": 16292142, 
-      "question_id": "16174163"
+      "id": 16292147, 
+      "question_id": "16184803"
     }, 
     {
       "city": "Santa Barbara", 
@@ -333,21 +348,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16291912, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Disney", 
-      "first_name": "Pam", 
-      "last_name": "Johnson", 
-      "user_id": 1754508, 
-      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
-      "district": "OK_02", 
-      "created": "2013-08-10T05:31:45", 
-      "state": "OK", 
-      "iface": "timeline_vote", 
-      "y": 36.481, 
-      "x": -95.0171, 
-      "id": 16291911, 
-      "question_id": "16202059"
     }
   ]
 });
