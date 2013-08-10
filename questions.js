@@ -13698,7 +13698,7 @@ opendebate.processFetchedQuestions({
       "x": -117.955, 
       "latest_vote": "2013-08-10T07:10:58", 
       "id": 16210264, 
-      "trending_score": 3.5
+      "trending_score": 2.75
     }, 
     {
       "city": "Hemet", 
@@ -14838,7 +14838,7 @@ opendebate.processFetchedQuestions({
       "x": -124.071, 
       "latest_vote": "2013-08-10T04:00:30", 
       "id": 16205834, 
-      "trending_score": 1.4166666666666665
+      "trending_score": 1.3333333333333333
     }, 
     {
       "city": "Addison", 
@@ -24072,7 +24072,7 @@ opendebate.processFetchedQuestions({
       "x": -106.578, 
       "latest_vote": "2013-08-10T07:16:28", 
       "id": 16178177, 
-      "trending_score": 2.5833333333333335
+      "trending_score": 3.2142857142857144
     }, 
     {
       "city": "San Antonio", 
