@@ -3077,7 +3077,7 @@ opendebate.processFetchedQuestions({
       "x": -82.5076, 
       "latest_vote": "2013-08-10T12:43:11", 
       "id": 16270349, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Eugene", 
@@ -26922,7 +26922,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9643, 
       "latest_vote": "2013-08-10T16:55:16", 
       "id": 16175740, 
-      "trending_score": 7.833333333333333
+      "trending_score": 8.0
     }, 
     {
       "city": "Buffalo Grove", 
@@ -28585,16 +28585,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you support the concept of keeping church and state separate?", 
       "district": "CO_02", 
       "created": "2013-08-04T14:21:20", 
-      "state_votes": 136, 
-      "votes": 1017, 
+      "state_votes": 137, 
+      "votes": 1018, 
       "district_votes": 35, 
       "state": "CO", 
       "iface": "question", 
       "y": 40.5342, 
       "x": -105.043, 
-      "latest_vote": "2013-08-10T17:20:14", 
+      "latest_vote": "2013-08-10T17:43:03", 
       "id": 16173921, 
-      "trending_score": 10.333333333333334
+      "trending_score": 10.833333333333334
     }, 
     {
       "city": "Fort Collins", 
@@ -29174,16 +29174,16 @@ opendebate.processFetchedQuestions({
       "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
       "district": "TN_02", 
       "created": "2013-08-04T02:07:32", 
-      "state_votes": 141, 
-      "votes": 1139, 
+      "state_votes": 142, 
+      "votes": 1140, 
       "district_votes": 32, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.8311, 
       "x": -84.0482, 
-      "latest_vote": "2013-08-10T17:20:36", 
+      "latest_vote": "2013-08-10T17:42:20", 
       "id": 16173335, 
-      "trending_score": 10.5
+      "trending_score": 11.0
     }, 
     {
       "city": "Evansville", 
@@ -29478,16 +29478,16 @@ opendebate.processFetchedQuestions({
       "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
       "district": "TX_03", 
       "created": "2013-08-04T01:22:04", 
-      "state_votes": 154, 
-      "votes": 1129, 
+      "state_votes": 155, 
+      "votes": 1130, 
       "district_votes": 38, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-10T17:38:10", 
+      "latest_vote": "2013-08-10T17:42:30", 
       "id": 16173259, 
-      "trending_score": 9.5
+      "trending_score": 9.833333333333334
     }, 
     {
       "city": "Manitowoc", 
@@ -30475,7 +30475,7 @@ opendebate.processFetchedQuestions({
       "x": -122.589, 
       "latest_vote": "2013-08-10T16:47:45", 
       "id": 16172765, 
-      "trending_score": 16.25
+      "trending_score": 8.5
     }, 
     {
       "city": "Egg Harbor", 
@@ -31311,7 +31311,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1035, 
       "latest_vote": "2013-08-10T16:44:17", 
       "id": 16172207, 
-      "trending_score": 14.5
+      "trending_score": 7.5
     }, 
     {
       "city": "Arlington", 

@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "", 
       "last_name": "", 
       "user_id": 1810521, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "submission": "Do you support the concept of keeping church and state separate?", 
       "district": "MA_02", 
-      "created": "2013-08-10T17:41:48", 
+      "created": "2013-08-10T17:43:03", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2486, 
       "x": -71.9952, 
-      "id": 16294763, 
-      "question_id": "16172533"
+      "id": 16294768, 
+      "question_id": "16173921"
     }, 
     {
       "city": "Clearwater", 
