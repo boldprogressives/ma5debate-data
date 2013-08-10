@@ -911,7 +911,7 @@ opendebate.processFetchedQuestions({
       "x": -70.9328, 
       "latest_vote": "2013-08-10T14:24:17", 
       "id": 16292560, 
-      "trending_score": 0.5
+      "trending_score": 0.16666666666666666
     }, 
     {
       "city": "East Weymouth", 
@@ -16662,7 +16662,7 @@ opendebate.processFetchedQuestions({
       "x": -93.2868, 
       "latest_vote": "2013-08-10T14:23:17", 
       "id": 16201979, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Ashland", 
@@ -18144,7 +18144,7 @@ opendebate.processFetchedQuestions({
       "x": -122.431, 
       "latest_vote": "2013-08-10T17:48:35", 
       "id": 16194500, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Provincetown", 
@@ -30798,7 +30798,7 @@ opendebate.processFetchedQuestions({
       "x": -122.594, 
       "latest_vote": "2013-08-10T18:17:07", 
       "id": 16172690, 
-      "trending_score": 2.9166666666666665
+      "trending_score": 3.375
     }, 
     {
       "city": "Gig Harbor", 
