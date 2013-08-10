@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "David", 
       "last_name": "Laverdiere", 
       "user_id": 1664612, 
-      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "submission": "What will you do to overturn Citizen's United?", 
       "district": "MA_06", 
-      "created": "2013-08-10T03:57:48", 
+      "created": "2013-08-10T03:58:59", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.5665, 
       "x": -70.8533, 
-      "id": 16291002, 
-      "question_id": "16173335"
+      "id": 16291012, 
+      "question_id": "16172765"
     }, 
     {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
       "district": "AL_07", 
-      "created": "2013-08-10T03:57:46", 
+      "created": "2013-08-10T03:58:56", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291001, 
-      "question_id": "16172281"
+      "id": 16291011, 
+      "question_id": "16175634"
     }, 
     {
       "city": "Alameda", 
