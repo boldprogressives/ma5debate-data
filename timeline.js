@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Colleen", 
       "last_name": "Sattelmaier", 
       "user_id": 1691702, 
-      "submission": "Why are so many countries banning GMO foods but the US refuses to do so? Why aren't they required to label them as such? ", 
+      "submission": "What are your thoughts on how to stop corporate welfare, tax loopholes and subsidies.", 
       "district": "OH_14", 
-      "created": "2013-08-10T15:15:59", 
+      "created": "2013-08-10T15:16:27", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 41.5975, 
       "x": -81.0504, 
-      "id": 16293884, 
-      "question_id": "16205646"
+      "id": 16293889, 
+      "question_id": "16206470"
     }, 
     {
       "city": "Indian Orchard", 

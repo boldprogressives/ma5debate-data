@@ -15229,15 +15229,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_08", 
       "created": "2013-08-06T21:46:34", 
       "state_votes": 25, 
-      "votes": 180, 
+      "votes": 181, 
       "district_votes": 8, 
       "state": "FL", 
       "iface": "question", 
       "y": 28.0247, 
       "x": -80.5392, 
-      "latest_vote": "2013-08-10T05:30:35", 
+      "latest_vote": "2013-08-10T15:16:27", 
       "id": 16206470, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Kerrville", 
