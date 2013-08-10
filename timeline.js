@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "What can you do to stop this sickness of MONSANTO paying off Congressmen,FDA,EPA,USDA and many others to sicken poison and degrade a system which was put in place to preserve our Health and Safty?", 
+      "submission": "How would you reform the process of drawing congressional districts so that it represents the interests of the people and does not favor any one party?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:06:55", 
+      "created": "2013-08-10T04:08:04", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291094, 
-      "question_id": "16215471"
+      "id": 16291107, 
+      "question_id": "16201951"
     }, 
     {
       "city": "Beverly", 
       "first_name": "David", 
       "last_name": "Laverdiere", 
       "user_id": 1664612, 
-      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
+      "submission": "Will you pledge to change the current filibuster rule to what it had been in the past where a Senator had to stand and speak for the duration his/her filibuster? If not, why not?", 
       "district": "MA_06", 
-      "created": "2013-08-10T04:06:54", 
+      "created": "2013-08-10T04:07:51", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.5665, 
       "x": -70.8533, 
-      "id": 16291093, 
-      "question_id": "16175637"
+      "id": 16291105, 
+      "question_id": "16197620"
     }, 
     {
       "city": "San Antonio", 
