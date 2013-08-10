@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Joe", 
       "last_name": "Verdoes", 
       "user_id": 503455, 
-      "submission": "Why is there not even ONE mention about possibly repealing the \"Patriot Act\", even though that one law has completely obliterated all of our civil rights that were guaranteed in the Constitution??? All USA laws have become invalid, especially for protecting against oppressive governmental organizations, by simply declaring ANYONE an \"Enemy Combatant\" with no real justification for that declaration. The Constitution was specifically created to design precautions against an oppressive government that already had gone too far (Britain). ", 
+      "submission": "What are you going to do about the revolving door of regulators and private industry? The corruption taking place here is unbelievable. Example FCC Comcast takeover of NBC scandal. ", 
       "district": "WA_02", 
-      "created": "2013-08-10T03:37:58", 
+      "created": "2013-08-10T03:39:00", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 48.4989, 
       "x": -122.607, 
-      "id": 16290893, 
-      "question_id": "16176201"
+      "id": 16290899, 
+      "question_id": "16199756"
     }, 
     {
       "city": "Indianapolis", 
