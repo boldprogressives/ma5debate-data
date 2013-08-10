@@ -2,33 +2,48 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Birmingham", 
-      "first_name": "Dot", 
-      "last_name": "Canup", 
-      "user_id": 1565077, 
-      "submission": "Will you protect the rights of all citizens by immediately reauthorizing the 1965 Voter Rights through up-dating section 3, 4, and 5 to include all states?", 
-      "district": "AL_07", 
-      "created": "2013-08-10T03:54:58", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 33.6391, 
-      "x": -86.6919, 
-      "id": 16290983, 
-      "question_id": "16287162"
-    }, 
-    {
       "city": "Alameda", 
       "first_name": "Elizabeth", 
       "last_name": "White", 
       "user_id": 1691274, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "submission": "Why don't we change the lobbying rules so that we do not have a system that legalizes bribery, and why do we not reform the filibuster so congress does not have an excuse to continue doing nothing ?", 
       "district": "CA_13", 
-      "created": "2013-08-10T03:54:23", 
+      "created": "2013-08-10T03:55:58", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 37.7606, 
       "x": -122.26, 
-      "id": 16290981, 
+      "id": 16290987, 
+      "question_id": "16174072"
+    }, 
+    {
+      "city": "Birmingham", 
+      "first_name": "Dot", 
+      "last_name": "Canup", 
+      "user_id": 1565077, 
+      "submission": "Will you vote to end tax loopholes for the rich, big business subsides, overseas corporate tax loopholes, wasteful wars, foreign country subsides, quality health care for all, good safe food for all, clean air, clean energy, clean safe drinking water, useful education and job opportunities for all hard working citizens that can achieve these levels and deserve it, gun control, to end wall street fraud and corruption.", 
+      "district": "AL_07", 
+      "created": "2013-08-10T03:55:53", 
+      "state": "AL", 
+      "iface": "timeline_vote", 
+      "y": 33.6391, 
+      "x": -86.6919, 
+      "id": 16290986, 
+      "question_id": "16203215"
+    }, 
+    {
+      "city": "Beverly", 
+      "first_name": "David", 
+      "last_name": "Laverdiere", 
+      "user_id": 1664612, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "MA_06", 
+      "created": "2013-08-10T03:55:51", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.5665, 
+      "x": -70.8533, 
+      "id": 16290985, 
       "question_id": "16172777"
     }, 
     {
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -120.825, 
       "id": 16290627, 
       "question_id": "16172697"
-    }, 
-    {
-      "city": "Reno", 
-      "first_name": "James", 
-      "last_name": "Watts", 
-      "user_id": 1780795, 
-      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
-      "district": "NV_02", 
-      "created": "2013-08-10T02:58:53", 
-      "state": "NV", 
-      "iface": "timeline_vote", 
-      "y": 39.5007, 
-      "x": -119.765, 
-      "id": 16290618, 
-      "question_id": "16172207"
     }
   ]
 });
