@@ -14819,7 +14819,7 @@ opendebate.processFetchedQuestions({
       "x": -99.1513, 
       "latest_vote": "2013-08-10T05:58:41", 
       "id": 16206388, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Addison", 
@@ -27920,16 +27920,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you support the concept of keeping church and state separate?", 
       "district": "CO_02", 
       "created": "2013-08-04T14:21:20", 
-      "state_votes": 133, 
-      "votes": 994, 
+      "state_votes": 134, 
+      "votes": 995, 
       "district_votes": 34, 
       "state": "CO", 
       "iface": "question", 
       "y": 40.5342, 
       "x": -105.043, 
-      "latest_vote": "2013-08-10T11:08:23", 
+      "latest_vote": "2013-08-10T11:58:57", 
       "id": 16173921, 
-      "trending_score": 1.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Fort Collins", 
@@ -30029,16 +30029,16 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
       "district": "ID_02", 
       "created": "2013-08-03T22:11:15", 
-      "state_votes": 100, 
-      "votes": 845, 
+      "state_votes": 101, 
+      "votes": 846, 
       "district_votes": 25, 
       "state": "ID", 
       "iface": "question", 
       "y": 43.6302, 
       "x": -116.297, 
-      "latest_vote": "2013-08-10T11:07:44", 
+      "latest_vote": "2013-08-10T11:58:35", 
       "id": 16172697, 
-      "trending_score": 2.8333333333333335
+      "trending_score": 3.3333333333333335
     }, 
     {
       "city": "Holts Summit", 

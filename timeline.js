@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Jacqueline", 
       "last_name": "Young", 
       "user_id": 1170659, 
-      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "submission": "Do you support the concept of keeping church and state separate?", 
       "district": "MA_02", 
-      "created": "2013-08-10T11:57:52", 
+      "created": "2013-08-10T11:58:57", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.6029, 
       "x": -72.5986, 
-      "id": 16292561, 
-      "question_id": "16172303"
+      "id": 16292563, 
+      "question_id": "16173921"
     }, 
     {
       "city": "East Weymouth", 
