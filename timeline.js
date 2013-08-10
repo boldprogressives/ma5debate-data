@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Birmingham", 
+      "first_name": "Dot", 
+      "last_name": "Canup", 
+      "user_id": 1565077, 
+      "submission": "What will you do personally to stop the outflow of jobs for middle and low income Americans?", 
+      "district": "AL_07", 
+      "created": "2013-08-10T04:44:58", 
+      "state": "AL", 
+      "iface": "timeline_vote", 
+      "y": 33.6391, 
+      "x": -86.6919, 
+      "id": 16291430, 
+      "question_id": "16226899"
+    }, 
+    {
       "city": "Phoenix", 
       "first_name": "Lynne", 
       "last_name": "Vestal", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -112.089, 
       "id": 16291428, 
       "question_id": "16172533"
-    }, 
-    {
-      "city": "Birmingham", 
-      "first_name": "Dot", 
-      "last_name": "Canup", 
-      "user_id": 1565077, 
-      "submission": "Will you fight to protect the Clean Air Act, the Clean Water Act and the EPA in a House of Representatives that has become increasingly hostile to all three?", 
-      "district": "AL_07", 
-      "created": "2013-08-10T04:43:24", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 33.6391, 
-      "x": -86.6919, 
-      "id": 16291427, 
-      "question_id": "16226952"
     }, 
     {
       "city": "Arlington", 
