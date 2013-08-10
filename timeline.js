@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Anacortes", 
+      "first_name": "Joe", 
+      "last_name": "Verdoes", 
+      "user_id": 503455, 
+      "submission": "Why don't we change the lobbying rules so that we do not have a system that legalizes bribery, and why do we not reform the filibuster so congress does not have an excuse to continue doing nothing ?", 
+      "district": "WA_02", 
+      "created": "2013-08-10T03:42:54", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 48.4989, 
+      "x": -122.607, 
+      "id": 16290913, 
+      "question_id": "16174072"
+    }, 
+    {
       "city": "Greensboro", 
       "first_name": "Sherry", 
       "last_name": "Tow", 
@@ -19,21 +34,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16290908, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Anacortes", 
-      "first_name": "Joe", 
-      "last_name": "Verdoes", 
-      "user_id": 503455, 
-      "submission": "What will you do to overturn Citizen's United?", 
-      "district": "WA_02", 
-      "created": "2013-08-10T03:41:46", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 48.4989, 
-      "x": -122.607, 
-      "id": 16290907, 
-      "question_id": "16172765"
     }, 
     {
       "city": "Indianapolis", 
