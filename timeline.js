@@ -6,15 +6,45 @@ opendebate.processTimeline({
       "first_name": "Jason", 
       "last_name": "Folkman", 
       "user_id": 1098338, 
-      "submission": "Do you believe the NSA violated the Fourth Amendment by failing to obtain specific warrants detailing the probable cause it has to eavesdrop on the conversations of each individual it has surveilled?", 
+      "submission": "Should marriage equality be legal in all 50 states?", 
       "district": "CA_53", 
-      "created": "2013-08-10T15:02:03", 
+      "created": "2013-08-10T15:02:47", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 32.74, 
       "x": -117.13, 
-      "id": 16293783, 
-      "question_id": "16215369"
+      "id": 16293789, 
+      "question_id": "16173222"
+    }, 
+    {
+      "city": "Bend", 
+      "first_name": "Robert", 
+      "last_name": "Marvos", 
+      "user_id": 1081036, 
+      "submission": "Do you believe that its right that our military uses depleted uranium munitions in conflict zones, which not only destroy their target, but also spread deadly radiation over civillian populations?", 
+      "district": "OR_02", 
+      "created": "2013-08-10T15:02:42", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 44.0221, 
+      "x": -121.297, 
+      "id": 16293788, 
+      "question_id": "16207353"
+    }, 
+    {
+      "city": "Winston Salem", 
+      "first_name": "Kevin", 
+      "last_name": "Hill", 
+      "user_id": 1654154, 
+      "submission": "Why is there not even ONE mention about possibly repealing the \"Patriot Act\", even though that one law has completely obliterated all of our civil rights that were guaranteed in the Constitution??? All USA laws have become invalid, especially for protecting against oppressive governmental organizations, by simply declaring ANYONE an \"Enemy Combatant\" with no real justification for that declaration. The Constitution was specifically created to design precautions against an oppressive government that already had gone too far (Britain). ", 
+      "district": "NC_05", 
+      "created": "2013-08-10T15:02:24", 
+      "state": "NC", 
+      "iface": "timeline_vote", 
+      "y": 36.0963, 
+      "x": -80.3227, 
+      "id": 16293786, 
+      "question_id": "16176201"
     }, 
     {
       "city": "Indian Orchard", 
@@ -49,21 +79,6 @@ opendebate.processTimeline({
       "x": -73.9738, 
       "id": 16293779, 
       "question_id": "16172281"
-    }, 
-    {
-      "city": "Bend", 
-      "first_name": "Robert", 
-      "last_name": "Marvos", 
-      "user_id": 1081036, 
-      "submission": "I don't trust the government, but I certainly don't trust corporations.Would you support reversing the privatization of military and intelligence duties to non-government organizations? ", 
-      "district": "OR_02", 
-      "created": "2013-08-10T15:01:31", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 44.0221, 
-      "x": -121.297, 
-      "id": 16293776, 
-      "question_id": "16210488"
     }, 
     {
       "city": "Portland", 
@@ -329,25 +344,6 @@ opendebate.processTimeline({
       "x": -76.026, 
       "id": 16293722, 
       "question_id": "16209412"
-    }, 
-    {
-      "city": "Indian Orchard", 
-      "first_name": "Miguel", 
-      "last_name": "Soto", 
-      "user_id": 1716772, 
-      "submission": "Where do you all stand on the Immigration status for the dreamers and those families that are not violators of any law to be able to stay in America, and earn a citizenship, since they have been working and are part of every communities as we speak.", 
-      "district": "MA_01", 
-      "created": "2013-08-10T14:57:33", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.151, 
-      "x": -72.5065, 
-      "latest_vote": null, 
-      "id": 16293718, 
-      "trending_score": 0.5
     }
   ]
 });

@@ -14944,15 +14944,15 @@ opendebate.processFetchedQuestions({
       "district": "NY_23", 
       "created": "2013-08-06T22:05:36", 
       "state_votes": 4, 
-      "votes": 31, 
+      "votes": 32, 
       "district_votes": 0, 
       "state": "NY", 
       "iface": "question", 
       "y": 42.1075, 
       "x": -77.231, 
-      "latest_vote": "2013-08-09T18:53:31", 
+      "latest_vote": "2013-08-10T15:02:42", 
       "id": 16207353, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Millis", 
@@ -17034,15 +17034,15 @@ opendebate.processFetchedQuestions({
       "district": "TN_04", 
       "created": "2013-08-06T18:47:43", 
       "state_votes": 25, 
-      "votes": 316, 
+      "votes": 317, 
       "district_votes": 8, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.476, 
       "x": -86.4672, 
-      "latest_vote": "2013-08-10T04:56:16", 
+      "latest_vote": "2013-08-10T15:02:14", 
       "id": 16199834, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Ashland", 
@@ -26059,15 +26059,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_07", 
       "created": "2013-08-05T03:21:23", 
       "state_votes": 9, 
-      "votes": 159, 
+      "votes": 160, 
       "district_votes": 2, 
       "state": "CO", 
       "iface": "question", 
       "y": 39.9288, 
       "x": -104.946, 
-      "latest_vote": "2013-08-10T14:43:59", 
+      "latest_vote": "2013-08-10T15:02:24", 
       "id": 16176201, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Albuquerque", 
@@ -29327,15 +29327,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_01", 
       "created": "2013-08-04T01:07:07", 
       "state_votes": 13, 
-      "votes": 112, 
+      "votes": 113, 
       "district_votes": 4, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.647, 
       "x": -87.6207, 
-      "latest_vote": "2013-08-10T14:14:48", 
+      "latest_vote": "2013-08-10T15:02:47", 
       "id": 16173222, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Tucson", 
