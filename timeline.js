@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "An educated population is essential for a modern nation,  yet the United States has fallen to pathetic levels when compared to other nations.  Why has this happened and what needs to be done to correct the problem?", 
+      "submission": "How can we get rid of corporate lobbyists.  They buy the politicians which, in most cases, is neither good for the planet or the populous.", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:38:55", 
+      "created": "2013-08-10T05:39:46", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291937, 
-      "question_id": "16246835"
+      "id": 16291940, 
+      "question_id": "16243690"
     }, 
     {
       "city": "Winchester", 
