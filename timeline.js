@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Bonnie", 
       "last_name": "Breckenridge", 
       "user_id": 107950, 
-      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
       "district": "CA_51", 
-      "created": "2013-08-10T02:46:00", 
+      "created": "2013-08-10T02:46:45", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 32.7403, 
       "x": -117.092, 
-      "id": 16290547, 
-      "question_id": "16172727"
+      "id": 16290552, 
+      "question_id": "16173264"
     }, 
     {
       "city": "Belmont", 
