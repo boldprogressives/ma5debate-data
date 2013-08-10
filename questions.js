@@ -797,7 +797,7 @@ opendebate.processFetchedQuestions({
       "x": -87.6365, 
       "latest_vote": "2013-08-10T16:05:16", 
       "id": 16293538, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Chicago", 
@@ -17384,7 +17384,7 @@ opendebate.processFetchedQuestions({
       "x": -86.4672, 
       "latest_vote": "2013-08-10T20:14:52", 
       "id": 16199834, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Ashland", 
@@ -30437,7 +30437,7 @@ opendebate.processFetchedQuestions({
       "x": 0.0, 
       "latest_vote": "2013-08-10T16:05:46", 
       "id": 16172804, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Sequim", 
