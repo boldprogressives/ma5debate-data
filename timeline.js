@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Will you sponsor and support an 8 year term limit for the House and Senate?", 
+      "submission": "How can we get rid of supreme court judges who lied to get the job,i,e\",I won't legislate from the bench or trash settled law\"? Or judges who do not follow the ethics of the lower courts and sit in on cases their wife have vested and loud interest in. ", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:58:41", 
+      "created": "2013-08-10T05:59:56", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292039, 
-      "question_id": "16206388"
+      "id": 16292041, 
+      "question_id": "16207233"
     }, 
     {
       "city": "Las Vegas", 
