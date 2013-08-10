@@ -2,6 +2,25 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Winchester", 
+      "first_name": "Jeff", 
+      "last_name": "Dearman", 
+      "user_id": 1810429, 
+      "submission": "What would your solution be to combat illegal immigrants coming in from Canada and Mexico?", 
+      "district": "MA_05", 
+      "created": "2013-08-10T05:35:20", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.4529, 
+      "x": -71.146, 
+      "latest_vote": null, 
+      "id": 16291925, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
@@ -333,25 +352,6 @@ opendebate.processTimeline({
       "x": -98.53, 
       "id": 16291761, 
       "question_id": "16178120"
-    }, 
-    {
-      "city": "Tucson", 
-      "first_name": "Bob", 
-      "last_name": "Wilson", 
-      "user_id": 1714318, 
-      "submission": "Private prison owners pay our reps to pass bad laws which create more criminals in order to keep the private prisons full. Do you think that a financial incentive to create more criminals is a good idea.", 
-      "district": "AZ_02", 
-      "created": "2013-08-10T04:54:27", 
-      "state_votes": 0, 
-      "votes": 1, 
-      "district_votes": 0, 
-      "state": "AZ", 
-      "iface": "timeline_question", 
-      "y": 32.2418, 
-      "x": -110.947, 
-      "latest_vote": "2013-08-10T05:16:27", 
-      "id": 16291700, 
-      "trending_score": 1.5
     }
   ]
 });
