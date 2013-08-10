@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Barbara", 
       "last_name": "Macek", 
       "user_id": 1678230, 
-      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "submission": "Do you support the concept of keeping church and state separate?", 
       "district": "NY_09", 
-      "created": "2013-08-10T08:37:49", 
+      "created": "2013-08-10T08:38:50", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.6497, 
       "x": -73.9377, 
-      "id": 16292433, 
-      "question_id": "16173335"
+      "id": 16292438, 
+      "question_id": "16173921"
     }, 
     {
       "city": "Los Angeles", 
