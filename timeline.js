@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "jim", 
       "last_name": "miller", 
       "user_id": 1724173, 
-      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "submission": "What will you do to overturn Citizen's United?", 
       "district": "FL_16", 
-      "created": "2013-08-10T14:48:54", 
+      "created": "2013-08-10T14:49:57", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 27.2717, 
       "x": -82.5168, 
-      "id": 16293612, 
-      "question_id": "16173335"
+      "id": 16293624, 
+      "question_id": "16172765"
+    }, 
+    {
+      "city": "Bend", 
+      "first_name": "Robert", 
+      "last_name": "Marvos", 
+      "user_id": 1081036, 
+      "submission": "Will you support separation of commercial and investment banking by returning to a current version of Glass-Steagall Act?", 
+      "district": "OR_02", 
+      "created": "2013-08-10T14:49:24", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 44.0221, 
+      "x": -121.297, 
+      "id": 16293619, 
+      "question_id": "16248600"
     }, 
     {
       "city": "Austin", 
@@ -98,21 +113,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16293565, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Bend", 
-      "first_name": "Robert", 
-      "last_name": "Marvos", 
-      "user_id": 1081036, 
-      "submission": "Why is there not even ONE mention about possibly repealing the \"Patriot Act\", even though that one law has completely obliterated all of our civil rights that were guaranteed in the Constitution??? All USA laws have become invalid, especially for protecting against oppressive governmental organizations, by simply declaring ANYONE an \"Enemy Combatant\" with no real justification for that declaration. The Constitution was specifically created to design precautions against an oppressive government that already had gone too far (Britain). ", 
-      "district": "OR_02", 
-      "created": "2013-08-10T14:43:59", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 44.0221, 
-      "x": -121.297, 
-      "id": 16293558, 
-      "question_id": "16176201"
     }, 
     {
       "city": "concord", 

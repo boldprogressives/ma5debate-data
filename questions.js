@@ -4361,15 +4361,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-09T00:04:43", 
       "state_votes": 2, 
-      "votes": 70, 
+      "votes": 71, 
       "district_votes": 0, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.5746, 
       "x": -122.811, 
-      "latest_vote": "2013-08-10T14:25:06", 
+      "latest_vote": "2013-08-10T14:49:24", 
       "id": 16248600, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Bremerton", 
@@ -26192,15 +26192,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_08", 
       "created": "2013-08-05T01:44:45", 
       "state_votes": 98, 
-      "votes": 1063, 
+      "votes": 1064, 
       "district_votes": 34, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.174, 
       "x": -87.9643, 
-      "latest_vote": "2013-08-10T14:42:44", 
+      "latest_vote": "2013-08-10T14:49:22", 
       "id": 16175740, 
-      "trending_score": 8.5
+      "trending_score": 9.5
     }, 
     {
       "city": "Buffalo Grove", 
@@ -27883,15 +27883,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_02", 
       "created": "2013-08-04T14:21:20", 
       "state_votes": 135, 
-      "votes": 1006, 
+      "votes": 1007, 
       "district_votes": 35, 
       "state": "CO", 
       "iface": "question", 
       "y": 40.5342, 
       "x": -105.043, 
-      "latest_vote": "2013-08-10T14:47:03", 
+      "latest_vote": "2013-08-10T14:49:27", 
       "id": 16173921, 
-      "trending_score": 13.5
+      "trending_score": 14.5
     }, 
     {
       "city": "Fort Collins", 
@@ -28776,15 +28776,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:22:04", 
       "state_votes": 154, 
-      "votes": 1114, 
+      "votes": 1115, 
       "district_votes": 38, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-10T14:42:32", 
+      "latest_vote": "2013-08-10T14:49:07", 
       "id": 16173259, 
-      "trending_score": 13.5
+      "trending_score": 14.5
     }, 
     {
       "city": "Manitowoc", 
@@ -29764,15 +29764,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_05", 
       "created": "2013-08-03T22:30:45", 
       "state_votes": 112, 
-      "votes": 808, 
+      "votes": 809, 
       "district_votes": 31, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.3898, 
       "x": -122.589, 
-      "latest_vote": "2013-08-10T14:43:24", 
+      "latest_vote": "2013-08-10T14:49:57", 
       "id": 16172765, 
-      "trending_score": 7.5
+      "trending_score": 8.5
     }, 
     {
       "city": "Egg Harbor", 
@@ -29859,15 +29859,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:21:20", 
       "state_votes": 123, 
-      "votes": 1066, 
+      "votes": 1067, 
       "district_votes": 25, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.5746, 
       "x": -122.811, 
-      "latest_vote": "2013-08-10T14:42:35", 
+      "latest_vote": "2013-08-10T14:49:15", 
       "id": 16172731, 
-      "trending_score": 6.5
+      "trending_score": 7.5
     }, 
     {
       "city": "Chicago", 
@@ -29992,15 +29992,15 @@ opendebate.processFetchedQuestions({
       "district": "ID_02", 
       "created": "2013-08-03T22:11:15", 
       "state_votes": 102, 
-      "votes": 851, 
+      "votes": 852, 
       "district_votes": 25, 
       "state": "ID", 
       "iface": "question", 
       "y": 43.6302, 
       "x": -116.297, 
-      "latest_vote": "2013-08-10T14:43:04", 
+      "latest_vote": "2013-08-10T14:49:46", 
       "id": 16172697, 
-      "trending_score": 9.25
+      "trending_score": 10.25
     }, 
     {
       "city": "Holts Summit", 
