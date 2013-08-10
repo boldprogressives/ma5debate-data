@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "David", 
       "last_name": "Laverdiere", 
       "user_id": 1664612, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
       "district": "MA_06", 
-      "created": "2013-08-10T03:57:00", 
+      "created": "2013-08-10T03:57:48", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.5665, 
       "x": -70.8533, 
-      "id": 16290996, 
-      "question_id": "16172533"
+      "id": 16291002, 
+      "question_id": "16173335"
     }, 
     {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Will you introduce legislation or a rules change -- whichever it takes -- that will mean Congress and their families must be subject to the same laws it passes for other citizens?  If not, why not?", 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
       "district": "AL_07", 
-      "created": "2013-08-10T03:56:34", 
+      "created": "2013-08-10T03:57:46", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16290992, 
-      "question_id": "16244527"
+      "id": 16291001, 
+      "question_id": "16172281"
     }, 
     {
       "city": "Alameda", 

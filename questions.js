@@ -398,7 +398,7 @@ opendebate.processFetchedQuestions({
       "x": -82.3, 
       "latest_vote": "2013-08-09T21:57:21", 
       "id": 16286269, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Willard", 
@@ -816,7 +816,7 @@ opendebate.processFetchedQuestions({
       "x": -122.852, 
       "latest_vote": "2013-08-10T01:08:10", 
       "id": 16280049, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Spring Valley", 
@@ -9385,7 +9385,7 @@ opendebate.processFetchedQuestions({
       "x": -71.7731, 
       "latest_vote": "2013-08-09T23:42:39", 
       "id": 16220439, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Worcester", 
@@ -9404,7 +9404,7 @@ opendebate.processFetchedQuestions({
       "x": -71.7731, 
       "latest_vote": "2013-08-09T23:42:44", 
       "id": 16220428, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Somerville", 
@@ -9442,7 +9442,7 @@ opendebate.processFetchedQuestions({
       "x": -105.041, 
       "latest_vote": "2013-08-09T21:57:56", 
       "id": 16220269, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Worcester", 
@@ -9480,7 +9480,7 @@ opendebate.processFetchedQuestions({
       "x": -74.2189, 
       "latest_vote": "2013-08-09T21:57:29", 
       "id": 16220249, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Factoryville", 
@@ -9499,7 +9499,7 @@ opendebate.processFetchedQuestions({
       "x": -75.7868, 
       "latest_vote": "2013-08-09T21:57:19", 
       "id": 16220168, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Billerica", 
@@ -15066,7 +15066,7 @@ opendebate.processFetchedQuestions({
       "x": -124.06, 
       "latest_vote": "2013-08-09T21:57:25", 
       "id": 16203315, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Troy", 
@@ -15104,7 +15104,7 @@ opendebate.processFetchedQuestions({
       "x": -80.1777, 
       "latest_vote": "2013-08-09T21:57:40", 
       "id": 16203194, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Forsyth", 
@@ -15142,7 +15142,7 @@ opendebate.processFetchedQuestions({
       "x": -81.8856, 
       "latest_vote": "2013-08-09T21:57:49", 
       "id": 16202789, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Boston", 
@@ -20044,7 +20044,7 @@ opendebate.processFetchedQuestions({
       "x": -88.5022, 
       "latest_vote": "2013-08-09T23:27:16", 
       "id": 16185100, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Shirley", 
@@ -20234,7 +20234,7 @@ opendebate.processFetchedQuestions({
       "x": -92.5211, 
       "latest_vote": "2013-08-10T03:29:29", 
       "id": 16184803, 
-      "trending_score": 4.0
+      "trending_score": 2.75
     }, 
     {
       "city": "Saint Louis", 
@@ -26162,7 +26162,7 @@ opendebate.processFetchedQuestions({
       "x": -89.7297, 
       "latest_vote": "2013-08-10T03:24:06", 
       "id": 16175078, 
-      "trending_score": 1.4166666666666665
+      "trending_score": 1.75
     }, 
     {
       "city": "Iuka", 
@@ -26428,7 +26428,7 @@ opendebate.processFetchedQuestions({
       "x": -96.5833, 
       "latest_vote": "2013-08-09T23:27:44", 
       "id": 16174806, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Siletz", 
@@ -26466,7 +26466,7 @@ opendebate.processFetchedQuestions({
       "x": -123.911, 
       "latest_vote": "2013-08-09T23:27:34", 
       "id": 16174618, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Siletz", 
@@ -27806,16 +27806,16 @@ opendebate.processFetchedQuestions({
       "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
       "district": "TN_02", 
       "created": "2013-08-04T02:07:32", 
-      "state_votes": 139, 
-      "votes": 1110, 
+      "state_votes": 140, 
+      "votes": 1111, 
       "district_votes": 32, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.8311, 
       "x": -84.0482, 
-      "latest_vote": "2013-08-10T03:52:03", 
+      "latest_vote": "2013-08-10T03:57:48", 
       "id": 16173335, 
-      "trending_score": 6.966666666666667
+      "trending_score": 5.4
     }, 
     {
       "city": "Evansville", 
@@ -28319,16 +28319,16 @@ opendebate.processFetchedQuestions({
       "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
       "district": "TX_10", 
       "created": "2013-08-04T00:59:23", 
-      "state_votes": 186, 
-      "votes": 1326, 
+      "state_votes": 187, 
+      "votes": 1327, 
       "district_votes": 46, 
       "state": "TX", 
       "iface": "question", 
       "y": 30.3972, 
       "x": -97.7518, 
-      "latest_vote": "2013-08-10T03:53:58", 
+      "latest_vote": "2013-08-10T03:57:11", 
       "id": 16173210, 
-      "trending_score": 5.666666666666667
+      "trending_score": 5.916666666666667
     }, 
     {
       "city": "Cottonwood", 
@@ -28851,16 +28851,16 @@ opendebate.processFetchedQuestions({
       "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
       "district": "MT_01", 
       "created": "2013-08-03T23:23:07", 
-      "state_votes": 183, 
-      "votes": 1242, 
+      "state_votes": 184, 
+      "votes": 1243, 
       "district_votes": 48, 
       "state": "MT", 
       "iface": "question", 
       "y": 48.2112, 
       "x": -114.294, 
-      "latest_vote": "2013-08-10T03:37:09", 
+      "latest_vote": "2013-08-10T03:57:29", 
       "id": 16172913, 
-      "trending_score": 5.416666666666667
+      "trending_score": 5.583333333333333
     }, 
     {
       "city": "Montegut", 
@@ -29782,16 +29782,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
       "district": "MA_05", 
       "created": "2013-08-03T17:52:54", 
-      "state_votes": 175, 
-      "votes": 1119, 
+      "state_votes": 176, 
+      "votes": 1120, 
       "district_votes": 48, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4207, 
       "x": -71.1582, 
-      "latest_vote": "2013-08-10T03:24:40", 
+      "latest_vote": "2013-08-10T03:57:42", 
       "id": 16172303, 
-      "trending_score": 4.033333333333333
+      "trending_score": 4.233333333333333
     }, 
     {
       "city": "Arlington", 
@@ -29859,15 +29859,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:42:20", 
       "state_votes": 185, 
-      "votes": 1229, 
+      "votes": 1230, 
       "district_votes": 57, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3699, 
       "x": -71.2368, 
-      "latest_vote": "2013-08-10T03:53:41", 
+      "latest_vote": "2013-08-10T03:57:46", 
       "id": 16172281, 
-      "trending_score": 10.75
+      "trending_score": 11.083333333333334
     }, 
     {
       "city": "Arlington", 
