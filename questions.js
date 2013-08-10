@@ -29897,15 +29897,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T23:23:07", 
       "state_votes": 186, 
-      "votes": 1263, 
+      "votes": 1264, 
       "district_votes": 49, 
       "state": "MT", 
       "iface": "question", 
       "y": 48.2112, 
       "x": -114.294, 
-      "latest_vote": "2013-08-10T14:57:42", 
+      "latest_vote": "2013-08-10T15:00:16", 
       "id": 16172913, 
-      "trending_score": 16.5
+      "trending_score": 17.5
     }, 
     {
       "city": "Montegut", 
@@ -30125,15 +30125,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
       "state_votes": 269, 
-      "votes": 1837, 
+      "votes": 1839, 
       "district_votes": 73, 
       "state": "MT", 
       "iface": "question", 
       "y": 46.6453, 
       "x": -111.974, 
-      "latest_vote": "2013-08-10T14:56:04", 
+      "latest_vote": "2013-08-10T15:00:24", 
       "id": 16172777, 
-      "trending_score": 17.5
+      "trending_score": 19.5
     }, 
     {
       "city": "Gladstone", 
@@ -30258,15 +30258,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:20:39", 
       "state_votes": 174, 
-      "votes": 1469, 
+      "votes": 1470, 
       "district_votes": 45, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.7162, 
       "x": -87.5544, 
-      "latest_vote": "2013-08-10T14:56:32", 
+      "latest_vote": "2013-08-10T15:00:57", 
       "id": 16172727, 
-      "trending_score": 6.5
+      "trending_score": 7.0
     }, 
     {
       "city": "Waldport", 
