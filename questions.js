@@ -4958,7 +4958,7 @@ opendebate.processFetchedQuestions({
       "x": -120.941, 
       "latest_vote": "2013-08-10T05:39:46", 
       "id": 16243690, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Smyrna", 
@@ -5946,7 +5946,7 @@ opendebate.processFetchedQuestions({
       "x": -81.9503, 
       "latest_vote": "2013-08-10T05:40:12", 
       "id": 16237380, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Medford", 
@@ -9319,16 +9319,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you support National standards for how federal elections should be run, to reduce long wait times at polls, limit unexplained removal of voter registrations and challenges to voters at the pole,  uneven eligibility of voting rights for federal elections,  making it a crime to send of false and misleading info to voters via mail, email or phone call, and how districts must be drawn to ensure that gerrymandering is minimized?", 
       "district": "MA_05", 
       "created": "2013-08-07T21:48:30", 
-      "state_votes": 1, 
-      "votes": 9, 
+      "state_votes": 2, 
+      "votes": 10, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3713, 
       "x": -71.1804, 
-      "latest_vote": "2013-08-10T07:20:37", 
+      "latest_vote": "2013-08-10T11:39:59", 
       "id": 16222728, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Louisville", 
@@ -24224,7 +24224,7 @@ opendebate.processFetchedQuestions({
       "x": -106.578, 
       "latest_vote": "2013-08-10T07:16:28", 
       "id": 16178177, 
-      "trending_score": 2.125
+      "trending_score": 0.75
     }, 
     {
       "city": "San Antonio", 
@@ -30570,7 +30570,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T11:07:54", 
       "id": 16172266, 
-      "trending_score": 5.125
+      "trending_score": 2.25
     }, 
     {
       "city": "Cambridge", 
