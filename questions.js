@@ -3286,7 +3286,7 @@ opendebate.processFetchedQuestions({
       "x": -123.05, 
       "latest_vote": "2013-08-10T03:47:53", 
       "id": 16255209, 
-      "trending_score": 1.5
+      "trending_score": 1.25
     }, 
     {
       "city": "La Jolla", 
@@ -19493,7 +19493,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7727, 
       "latest_vote": "2013-08-10T04:18:45", 
       "id": 16187691, 
-      "trending_score": 2.0
+      "trending_score": 2.25
     }, 
     {
       "city": "Cocoa", 
@@ -20139,7 +20139,7 @@ opendebate.processFetchedQuestions({
       "x": -80.0759, 
       "latest_vote": "2013-08-10T00:56:37", 
       "id": 16185717, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Newton", 
@@ -28651,7 +28651,7 @@ opendebate.processFetchedQuestions({
       "x": -87.6207, 
       "latest_vote": "2013-08-10T06:23:22", 
       "id": 16173222, 
-      "trending_score": 2.0
+      "trending_score": 2.25
     }, 
     {
       "city": "Tucson", 
