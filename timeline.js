@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Jane", 
       "last_name": "Bruce-Munro", 
       "user_id": 1644313, 
-      "submission": "Would you support a living wage law that would force corporations, like Wal-Mart, whose Walton family owns more wealth than 40% of all Americans, to pay  living wages to all of their workers?", 
+      "submission": "Why don't we change the lobbying rules so that we do not have a system that legalizes bribery, and why do we not reform the filibuster so congress does not have an excuse to continue doing nothing ?", 
       "district": "CA_20", 
-      "created": "2013-08-10T07:10:58", 
+      "created": "2013-08-10T07:12:00", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 36.9715, 
       "x": -121.985, 
-      "id": 16292200, 
-      "question_id": "16210264"
+      "id": 16292204, 
+      "question_id": "16174072"
     }, 
     {
       "city": "Grand Terrace", 
