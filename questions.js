@@ -14648,7 +14648,7 @@ opendebate.processFetchedQuestions({
       "x": -80.5392, 
       "latest_vote": "2013-08-10T05:30:35", 
       "id": 16206470, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Kerrville", 
@@ -16016,7 +16016,7 @@ opendebate.processFetchedQuestions({
       "x": -122.074, 
       "latest_vote": "2013-08-10T07:16:50", 
       "id": 16201467, 
-      "trending_score": 2.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Needham Heights", 
@@ -24319,7 +24319,7 @@ opendebate.processFetchedQuestions({
       "x": -106.519, 
       "latest_vote": "2013-08-10T04:30:22", 
       "id": 16177937, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "San Antonio", 
@@ -27188,7 +27188,7 @@ opendebate.processFetchedQuestions({
       "x": -122.298, 
       "latest_vote": "2013-08-10T07:13:26", 
       "id": 16174466, 
-      "trending_score": 1.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Albany", 
@@ -27606,7 +27606,7 @@ opendebate.processFetchedQuestions({
       "x": -93.3782, 
       "latest_vote": "2013-08-10T07:17:18", 
       "id": 16174163, 
-      "trending_score": 2.25
+      "trending_score": 2.5
     }, 
     {
       "city": "Syracuse", 
@@ -27796,7 +27796,7 @@ opendebate.processFetchedQuestions({
       "x": -105.043, 
       "latest_vote": "2013-08-10T06:15:57", 
       "id": 16173913, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Fort Collins", 
@@ -28423,7 +28423,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-10T07:13:32", 
       "id": 16173327, 
-      "trending_score": 1.4166666666666665
+      "trending_score": 1.3333333333333333
     }, 
     {
       "city": "Louisville", 
@@ -30152,7 +30152,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T07:14:47", 
       "id": 16172583, 
-      "trending_score": 2.5
+      "trending_score": 2.0
     }, 
     {
       "city": "ARLINGTON", 
