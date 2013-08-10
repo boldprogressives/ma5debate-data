@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "San Antonio", 
+      "first_name": "Don", 
+      "last_name": "Freidkin", 
+      "user_id": 1694474, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "TX_35", 
+      "created": "2013-08-10T14:13:03", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 29.5013, 
+      "x": -98.3977, 
+      "id": 16293296, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Muskego", 
       "first_name": "Cindy", 
       "last_name": "Bennett", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -87.7386, 
       "id": 16292625, 
       "question_id": "16176660"
-    }, 
-    {
-      "city": "Porter Ranch", 
-      "first_name": "Gertrude", 
-      "last_name": "Barden", 
-      "user_id": 287968, 
-      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
-      "district": "CA_25", 
-      "created": "2013-08-10T13:01:10", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 34.2766, 
-      "x": -118.544, 
-      "id": 16292622, 
-      "question_id": "16172755"
     }
   ]
 });
