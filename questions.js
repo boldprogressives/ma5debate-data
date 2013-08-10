@@ -219,15 +219,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_07", 
       "created": "2013-08-10T10:46:23", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.8408, 
       "x": -122.337, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-10T14:30:58", 
       "id": 16292474, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Henderson", 
@@ -30638,15 +30638,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:42:20", 
       "state_votes": 185, 
-      "votes": 1245, 
+      "votes": 1246, 
       "district_votes": 57, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3699, 
       "x": -71.2368, 
-      "latest_vote": "2013-08-10T14:16:06", 
+      "latest_vote": "2013-08-10T14:30:08", 
       "id": 16172281, 
-      "trending_score": 9.25
+      "trending_score": 10.25
     }, 
     {
       "city": "Arlington", 

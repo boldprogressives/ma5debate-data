@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Cheryl", 
       "last_name": "Meyer", 
       "user_id": 795081, 
-      "submission": "will you pledge to oppose Any cuts to social Security or Medicare?", 
+      "submission": "Will you pledge to initiate or support Congressional action to reverse the gerrymandering of legislative districts, and return them to their Constitutionally-mandated structure?", 
       "district": "WA_08", 
-      "created": "2013-08-10T14:29:59", 
+      "created": "2013-08-10T14:30:58", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 47.4752, 
       "x": -121.757, 
-      "id": 16293410, 
-      "question_id": "16185364"
+      "id": 16293416, 
+      "question_id": "16292474"
+    }, 
+    {
+      "city": "Duvall", 
+      "first_name": "Elizabeth", 
+      "last_name": "Totten", 
+      "user_id": 366023, 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "district": "WA_01", 
+      "created": "2013-08-10T14:30:08", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 47.7378, 
+      "x": -121.848, 
+      "id": 16293411, 
+      "question_id": "16172281"
     }, 
     {
       "city": "Austin", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -88.9241, 
       "id": 16292696, 
       "question_id": "16172913"
-    }, 
-    {
-      "city": "Helena", 
-      "first_name": "Rebecca", 
-      "last_name": "Conner", 
-      "user_id": 58638, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "AL_06", 
-      "created": "2013-08-10T13:35:28", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 33.3053, 
-      "x": -86.8183, 
-      "id": 16292687, 
-      "question_id": "16172266"
     }
   ]
 });
