@@ -4559,7 +4559,7 @@ opendebate.processFetchedQuestions({
       "x": -80.8051, 
       "latest_vote": "2013-08-10T04:47:57", 
       "id": 16244527, 
-      "trending_score": 4.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Riverbank", 
@@ -4882,7 +4882,7 @@ opendebate.processFetchedQuestions({
       "x": -116.294, 
       "latest_vote": "2013-08-10T03:23:30", 
       "id": 16242348, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Albuquerque", 
@@ -14401,7 +14401,7 @@ opendebate.processFetchedQuestions({
       "x": -70.2918, 
       "latest_vote": "2013-08-10T07:15:58", 
       "id": 16206983, 
-      "trending_score": 5.166666666666667
+      "trending_score": 5.25
     }, 
     {
       "city": "San Francisco", 
@@ -25934,7 +25934,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9643, 
       "latest_vote": "2013-08-10T06:12:03", 
       "id": 16175740, 
-      "trending_score": 2.5357142857142856
+      "trending_score": 1.9571428571428573
     }, 
     {
       "city": "Buffalo Grove", 
@@ -27986,7 +27986,7 @@ opendebate.processFetchedQuestions({
       "x": -122.859, 
       "latest_vote": "2013-08-10T05:54:11", 
       "id": 16173438, 
-      "trending_score": 5.25
+      "trending_score": 2.5
     }, 
     {
       "city": "Eugene", 
@@ -28499,7 +28499,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T07:12:51", 
       "id": 16173264, 
-      "trending_score": 2.5571428571428574
+      "trending_score": 2.0952380952380953
     }, 
     {
       "city": "Prosper", 
@@ -29259,7 +29259,7 @@ opendebate.processFetchedQuestions({
       "x": -114.294, 
       "latest_vote": "2013-08-10T05:52:56", 
       "id": 16172913, 
-      "trending_score": 2.216666666666667
+      "trending_score": 2.3
     }, 
     {
       "city": "Montegut", 
@@ -29943,7 +29943,7 @@ opendebate.processFetchedQuestions({
       "x": -87.7386, 
       "latest_vote": "2013-08-10T05:12:35", 
       "id": 16172648, 
-      "trending_score": 4.1
+      "trending_score": 4.125
     }, 
     {
       "city": "Great Neck", 
