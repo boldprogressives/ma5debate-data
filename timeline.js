@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Amy", 
       "last_name": "Fradon", 
       "user_id": 1201769, 
-      "submission": "Would you support Medicare paying for dental care?", 
+      "submission": "What, specifically, would you do to protect the right to vote for all? Please address specifically a new Voting Rights Act and the concept of a paper ballot that can be verified by the voter.", 
       "district": "NY_19", 
-      "created": "2013-08-10T11:09:02", 
+      "created": "2013-08-10T11:09:14", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 41.9456, 
       "x": -74.2919, 
-      "id": 16292514, 
-      "question_id": "16174466"
+      "id": 16292515, 
+      "question_id": "16207107"
     }, 
     {
       "city": "Henderson", 

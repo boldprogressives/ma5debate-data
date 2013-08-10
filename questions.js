@@ -14545,15 +14545,15 @@ opendebate.processFetchedQuestions({
       "district": "VA_06", 
       "created": "2013-08-06T21:59:48", 
       "state_votes": 13, 
-      "votes": 127, 
+      "votes": 128, 
       "district_votes": 3, 
       "state": "VA", 
       "iface": "question", 
       "y": 37.2549, 
       "x": -79.9806, 
-      "latest_vote": "2013-08-10T07:18:55", 
+      "latest_vote": "2013-08-10T11:09:14", 
       "id": 16207107, 
-      "trending_score": 1.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Asheville", 
@@ -18277,7 +18277,7 @@ opendebate.processFetchedQuestions({
       "x": -122.078, 
       "latest_vote": "2013-08-10T06:09:17", 
       "id": 16192159, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Somerset", 
@@ -18809,7 +18809,7 @@ opendebate.processFetchedQuestions({
       "x": -71.8195, 
       "latest_vote": "2013-08-10T06:09:38", 
       "id": 16190183, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Wilmington", 
@@ -21032,7 +21032,7 @@ opendebate.processFetchedQuestions({
       "x": -93.48, 
       "latest_vote": "2013-08-10T05:10:13", 
       "id": 16184218, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Lake Orion", 
@@ -21108,7 +21108,7 @@ opendebate.processFetchedQuestions({
       "x": -72.0321, 
       "latest_vote": "2013-08-10T05:09:34", 
       "id": 16184056, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Oak Park", 
