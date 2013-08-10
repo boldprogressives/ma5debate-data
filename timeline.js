@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Philadelphia", 
+      "first_name": "Wanda", 
+      "last_name": "Seidle", 
+      "user_id": 1689376, 
+      "submission": "Would you support ending ALL corporate welfare.The taxpayers should not have to finance our own destruction.Our tax's are used to ship jobs overseas, destroy small farms + business's, pollute our air + water, deny our children access to quality education, ect.", 
+      "district": "PA_02", 
+      "created": "2013-08-10T00:45:01", 
+      "state": "PA", 
+      "iface": "timeline_vote", 
+      "y": 39.9789, 
+      "x": -75.2206, 
+      "id": 16289196, 
+      "question_id": "16217791"
+    }, 
+    {
       "city": "El Prado", 
       "first_name": "Sally", 
       "last_name": "Phelps", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -105.575, 
       "id": 16289184, 
       "question_id": "16207977"
-    }, 
-    {
-      "city": "Philadelphia", 
-      "first_name": "Wanda", 
-      "last_name": "Seidle", 
-      "user_id": 1689376, 
-      "submission": "It is time we stop rewarding companies that outsource American jobs.  Would you propose a new tax on these companies, an import tax on products produced by these companies or some other form of incentive to keep jobs in this country?  Please be specific.", 
-      "district": "PA_02", 
-      "created": "2013-08-10T00:43:48", 
-      "state": "PA", 
-      "iface": "timeline_vote", 
-      "y": 39.9789, 
-      "x": -75.2206, 
-      "id": 16289185, 
-      "question_id": "16175276"
     }, 
     {
       "city": "", 
