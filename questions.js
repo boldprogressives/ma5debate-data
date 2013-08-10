@@ -9670,7 +9670,7 @@ opendebate.processFetchedQuestions({
       "x": -70.9726, 
       "latest_vote": "2013-08-10T05:44:18", 
       "id": 16221788, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Billerica", 
@@ -11038,7 +11038,7 @@ opendebate.processFetchedQuestions({
       "x": -71.5185, 
       "latest_vote": "2013-08-10T05:44:57", 
       "id": 16217229, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Somerville", 
@@ -14021,7 +14021,7 @@ opendebate.processFetchedQuestions({
       "x": -99.16, 
       "latest_vote": "2013-08-10T07:15:03", 
       "id": 16209412, 
-      "trending_score": 1.25
+      "trending_score": 0.5
     }, 
     {
       "city": "El Cajon", 
@@ -16282,7 +16282,7 @@ opendebate.processFetchedQuestions({
       "x": -72.7291, 
       "latest_vote": "2013-08-10T07:14:33", 
       "id": 16201159, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Saint Cloud", 
@@ -20215,7 +20215,7 @@ opendebate.processFetchedQuestions({
       "x": -82.5085, 
       "latest_vote": "2013-08-10T07:14:16", 
       "id": 16186103, 
-      "trending_score": 1.1666666666666667
+      "trending_score": 0.3333333333333333
     }, 
     {
       "city": "Bronx", 
@@ -20633,7 +20633,7 @@ opendebate.processFetchedQuestions({
       "x": -108.465, 
       "latest_vote": "2013-08-10T08:40:05", 
       "id": 16185364, 
-      "trending_score": 1.125
+      "trending_score": 1.1666666666666667
     }, 
     {
       "city": "Boca Raton", 
@@ -28784,7 +28784,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T11:07:12", 
       "id": 16173259, 
-      "trending_score": 4.25
+      "trending_score": 4.5
     }, 
     {
       "city": "Manitowoc", 
@@ -29639,7 +29639,7 @@ opendebate.processFetchedQuestions({
       "x": -91.087, 
       "latest_vote": "2013-08-10T07:12:20", 
       "id": 16172866, 
-      "trending_score": 0.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Austin", 
@@ -30266,7 +30266,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T07:14:47", 
       "id": 16172583, 
-      "trending_score": 1.125
+      "trending_score": 0.25
     }, 
     {
       "city": "ARLINGTON", 
