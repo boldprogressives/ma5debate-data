@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "El Prado", 
+      "first_name": "Sally", 
+      "last_name": "Phelps", 
+      "user_id": 1567108, 
+      "submission": "What is your plan to reduce human population growth?", 
+      "district": "NM_03", 
+      "created": "2013-08-10T00:53:57", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 36.4486, 
+      "x": -105.575, 
+      "id": 16289290, 
+      "question_id": "16188211"
+    }, 
+    {
       "city": "Watertown", 
       "first_name": "", 
       "last_name": "", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -71.1804, 
       "id": 16289286, 
       "question_id": "16175230"
-    }, 
-    {
-      "city": "El Prado", 
-      "first_name": "Sally", 
-      "last_name": "Phelps", 
-      "user_id": 1567108, 
-      "submission": "What do you intend to do ,if elected to office to end guns violence in out communities?do you promised to vote as One person with fellow democrat to stand their ground when provoque by Rep\u00fablicans or you will be a disguide Republican in a demogratic ship?", 
-      "district": "NM_03", 
-      "created": "2013-08-10T00:52:55", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16289285, 
-      "question_id": "16188671"
     }, 
     {
       "city": "San Angelo", 
