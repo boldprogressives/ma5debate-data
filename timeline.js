@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "christa", 
       "last_name": "spillane", 
       "user_id": 1736644, 
-      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
       "district": "SD_01", 
-      "created": "2013-08-10T17:20:36", 
+      "created": "2013-08-10T17:21:46", 
       "state": "SD", 
       "iface": "timeline_vote", 
       "y": 43.4338, 
       "x": -103.476, 
-      "id": 16294702, 
-      "question_id": "16173335"
+      "id": 16294709, 
+      "question_id": "16172777"
     }, 
     {
       "city": "Hobart", 
