@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Since I am on SSI, haven't had a raise in pay for the last 20 years, what's wrong with the Congress and Senate, repaying our SSI fund all the money they have appropriated over the last 20 years and pay the interest on it also.  That would fix it for all time.  Raise the SSI on the rich.  Don't treat the rich folks different from the rest of us Americans.  Self paid health care for the politicians.  No benefits for them unless they pay for them out of their own pocket.", 
+      "submission": "Will you sponsor and support an 8 year term limit for the House and Senate?", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:56:48", 
+      "created": "2013-08-10T05:58:41", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292037, 
-      "question_id": "16207794"
+      "id": 16292039, 
+      "question_id": "16206388"
     }, 
     {
       "city": "Las Vegas", 
