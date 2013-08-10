@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Would you pledge to take no gifts or money from special interest groups in exchange for your votes favoring them?", 
+      "submission": "What are you doing to improve employment and a living wage?", 
       "district": "AL_07", 
-      "created": "2013-08-10T06:01:45", 
+      "created": "2013-08-10T06:02:46", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292043, 
-      "question_id": "16205451"
+      "id": 16292048, 
+      "question_id": "16204609"
     }, 
     {
       "city": "Las Vegas", 
