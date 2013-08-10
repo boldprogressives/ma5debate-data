@@ -16567,7 +16567,7 @@ opendebate.processFetchedQuestions({
       "x": -121.079, 
       "latest_vote": "2013-08-10T06:34:53", 
       "id": 16199852, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Shelbyville", 
@@ -17023,7 +17023,7 @@ opendebate.processFetchedQuestions({
       "x": -90.1219, 
       "latest_vote": "2013-08-10T06:35:08", 
       "id": 16197127, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Ruther Glen", 
@@ -17308,7 +17308,7 @@ opendebate.processFetchedQuestions({
       "x": -86.4585, 
       "latest_vote": "2013-08-10T06:04:51", 
       "id": 16194645, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Okemos", 
@@ -17384,7 +17384,7 @@ opendebate.processFetchedQuestions({
       "x": -121.206, 
       "latest_vote": "2013-08-10T06:04:24", 
       "id": 16194324, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Portland", 
@@ -18011,7 +18011,7 @@ opendebate.processFetchedQuestions({
       "x": -82.5379, 
       "latest_vote": "2013-08-10T05:04:23", 
       "id": 16192769, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Dallas", 
@@ -19455,7 +19455,7 @@ opendebate.processFetchedQuestions({
       "x": -73.9992, 
       "latest_vote": "2013-08-10T06:20:45", 
       "id": 16188477, 
-      "trending_score": 0.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Somerville", 
@@ -19664,7 +19664,7 @@ opendebate.processFetchedQuestions({
       "x": -80.1738, 
       "latest_vote": "2013-08-10T05:04:45", 
       "id": 16188015, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Washington", 
@@ -19797,7 +19797,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7727, 
       "latest_vote": "2013-08-10T05:04:37", 
       "id": 16187290, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Orleans", 
