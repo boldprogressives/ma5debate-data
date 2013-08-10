@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Lynne", 
       "last_name": "Vestal", 
       "user_id": 1121128, 
-      "submission": "Why is the U.S. Congress,year after year,taking funds out of the Social Security fund.This is not legal,yet the U.S. Congress Continues this practice.Why ? Martin Boroian", 
+      "submission": "Climate change has many facets: CO2/CH4 emissions, permafrost melting, ocean warming/acidification, overpopulation, et al. Who among you has a plan to defeat this unprecedented hydra of challenges?", 
       "district": "AZ_09", 
-      "created": "2013-08-10T06:17:45", 
+      "created": "2013-08-10T06:18:52", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 33.559, 
       "x": -112.089, 
-      "id": 16292105, 
-      "question_id": "16201488"
+      "id": 16292107, 
+      "question_id": "16201745"
     }, 
     {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "What can we do to bring American jobs back to America with decent wages.", 
+      "submission": "Will you pledge your support and vote in favor of the President's jobs bill and any other legislation to rebuild the middle class?", 
       "district": "AL_07", 
-      "created": "2013-08-10T06:17:31", 
+      "created": "2013-08-10T06:18:25", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292104, 
-      "question_id": "16182857"
+      "id": 16292106, 
+      "question_id": "16181773"
     }, 
     {
       "city": "Santa Barbara", 
