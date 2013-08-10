@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Will you have te courage to stop/stand against the present obstruction in congress?", 
+      "submission": "Will support an increase in veterans benefits so that ALL veterans will have the mental and physical benefits they need and so richly deserve?", 
       "district": "AL_07", 
-      "created": "2013-08-10T06:06:36", 
+      "created": "2013-08-10T06:07:47", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292054, 
-      "question_id": "16200783"
+      "id": 16292057, 
+      "question_id": "16192378"
     }, 
     {
       "city": "Las Vegas", 
