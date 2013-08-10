@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Lynne", 
       "last_name": "Vestal", 
       "user_id": 1121128, 
-      "submission": "Are you now a member of ALEC, or plan on joining ALEC.", 
+      "submission": "Why is Monsanto allowed to destroy our agriculture and the small farmers?", 
       "district": "AZ_09", 
-      "created": "2013-08-10T06:37:35", 
+      "created": "2013-08-10T06:42:46", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 33.559, 
       "x": -112.089, 
-      "id": 16292190, 
-      "question_id": "16204636"
+      "id": 16292191, 
+      "question_id": "16244435"
     }, 
     {
       "city": "Birmingham", 
