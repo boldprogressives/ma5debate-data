@@ -16396,7 +16396,7 @@ opendebate.processFetchedQuestions({
       "x": -72.6301, 
       "latest_vote": "2013-08-10T16:45:52", 
       "id": 16203676, 
-      "trending_score": 1.5
+      "trending_score": 3.1
     }, 
     {
       "city": "Gloucester", 
@@ -16415,7 +16415,7 @@ opendebate.processFetchedQuestions({
       "x": -70.6862, 
       "latest_vote": "2013-08-10T16:46:40", 
       "id": 16203558, 
-      "trending_score": 4.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Holyoke", 
@@ -16643,7 +16643,7 @@ opendebate.processFetchedQuestions({
       "x": -122.459, 
       "latest_vote": "2013-08-10T16:45:58", 
       "id": 16202059, 
-      "trending_score": 4.166666666666667
+      "trending_score": 1.8333333333333333
     }, 
     {
       "city": "Richfield", 
@@ -24984,7 +24984,7 @@ opendebate.processFetchedQuestions({
       "x": -106.578, 
       "latest_vote": "2013-08-10T16:48:20", 
       "id": 16178177, 
-      "trending_score": 6.5
+      "trending_score": 3.5
     }, 
     {
       "city": "San Antonio", 
@@ -29202,7 +29202,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-10T18:20:08", 
       "id": 16173335, 
-      "trending_score": 2.375
+      "trending_score": 2.4285714285714284
     }, 
     {
       "city": "Evansville", 
@@ -29487,7 +29487,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T18:16:47", 
       "id": 16173264, 
-      "trending_score": 2.1488095238095237
+      "trending_score": 2.1753246753246755
     }, 
     {
       "city": "Prosper", 
@@ -29525,7 +29525,7 @@ opendebate.processFetchedQuestions({
       "x": -87.7111, 
       "latest_vote": "2013-08-10T16:47:25", 
       "id": 16173257, 
-      "trending_score": 6.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Corvallis", 
@@ -30247,7 +30247,7 @@ opendebate.processFetchedQuestions({
       "x": -114.294, 
       "latest_vote": "2013-08-10T18:17:33", 
       "id": 16172913, 
-      "trending_score": 2.7727272727272725
+      "trending_score": 2.8
     }, 
     {
       "city": "Montegut", 
