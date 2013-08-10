@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Why is the multinational corporations are running our country. This is as far from a democracy as it gets. It's a disgrace that our representatives belong to big oil and big drugs?", 
+      "submission": "What do you think are solutions to how money in politics has resulted in a very corrupt electoral and legislative system.", 
       "district": "AL_07", 
-      "created": "2013-08-10T06:27:36", 
+      "created": "2013-08-10T06:29:00", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292165, 
-      "question_id": "16173690"
+      "id": 16292167, 
+      "question_id": "16173172"
     }, 
     {
       "city": "Phoenix", 
