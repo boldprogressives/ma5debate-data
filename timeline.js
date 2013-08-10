@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Do you see the ever growing disparity between rich and poor & middle class, along with evidence of reduced opportunity to move up in earning status, as a problem?  And if you do, what role do you see for Congress in addressing it?", 
+      "submission": "How would you get Republicans on board with significant infrastructure investment?", 
       "district": "AL_07", 
-      "created": "2013-08-10T06:30:47", 
+      "created": "2013-08-10T06:31:43", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292169, 
-      "question_id": "16172581"
+      "id": 16292171, 
+      "question_id": "16172274"
     }, 
     {
       "city": "Brooklyn", 
