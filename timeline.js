@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Carlotta", 
       "last_name": "Hayes", 
       "user_id": 1806880, 
-      "submission": "Will you support the ERA and women's rights to make their own health care decisions without government interference, even if it includes abortion?  If not, why not? ", 
+      "submission": "How will you protect women's rights, especially reproductive rights, against the ongoing efforts to restrict them?", 
       "district": "MA_08", 
-      "created": "2013-08-10T11:20:58", 
+      "created": "2013-08-10T11:21:54", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2138, 
       "x": -70.9328, 
-      "id": 16292520, 
-      "question_id": "16176653"
+      "id": 16292525, 
+      "question_id": "16186923"
     }, 
     {
       "city": "West Shokan", 

@@ -7381,16 +7381,16 @@ opendebate.processFetchedQuestions({
       "submission": "Many people asked great questions. Mine is: Will you continue to work to keep abortion, not just legal, because it is still legal, but also make sure that facilities are easy to access, low cost and not expensive and hundreds of miles away, making abortion a hardship for poor or middle class women?Without low cost and easy access, you will find that women find charlatans like Gosnell risking their lives. ", 
       "district": "MA_01", 
       "created": "2013-08-08T16:17:51", 
-      "state_votes": 5, 
-      "votes": 97, 
+      "state_votes": 6, 
+      "votes": 98, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4555, 
       "x": -73.25, 
-      "latest_vote": "2013-08-10T06:26:35", 
+      "latest_vote": "2013-08-10T11:21:28", 
       "id": 16227025, 
-      "trending_score": 1.0
+      "trending_score": 1.5
     }, 
     {
       "city": "Lexington", 
@@ -14639,16 +14639,16 @@ opendebate.processFetchedQuestions({
       "submission": "What are your thoughts on Women's rights concerning, Healthcare, Planned Parent Hood including choice and equal pay?", 
       "district": "FL_08", 
       "created": "2013-08-06T21:51:58", 
-      "state_votes": 11, 
-      "votes": 84, 
+      "state_votes": 12, 
+      "votes": 85, 
       "district_votes": 3, 
       "state": "FL", 
       "iface": "question", 
       "y": 28.0247, 
       "x": -80.5392, 
-      "latest_vote": "2013-08-10T04:56:25", 
+      "latest_vote": "2013-08-10T11:21:36", 
       "id": 16206705, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Granada Hills", 
@@ -16073,7 +16073,7 @@ opendebate.processFetchedQuestions({
       "x": -122.074, 
       "latest_vote": "2013-08-10T07:16:50", 
       "id": 16201467, 
-      "trending_score": 1.3333333333333333
+      "trending_score": 2.125
     }, 
     {
       "city": "Needham Heights", 
@@ -16605,7 +16605,7 @@ opendebate.processFetchedQuestions({
       "x": -122.634, 
       "latest_vote": "2013-08-10T06:21:59", 
       "id": 16199816, 
-      "trending_score": 0.5
+      "trending_score": 0.16666666666666666
     }, 
     {
       "city": "Brookhaven", 
@@ -16928,7 +16928,7 @@ opendebate.processFetchedQuestions({
       "x": -78.9237, 
       "latest_vote": "2013-08-10T07:17:03", 
       "id": 16197620, 
-      "trending_score": 1.3333333333333333
+      "trending_score": 2.125
     }, 
     {
       "city": "Brevard", 
@@ -19902,16 +19902,16 @@ opendebate.processFetchedQuestions({
       "submission": "How will you protect women's rights, especially reproductive rights, against the ongoing efforts to restrict them?", 
       "district": "GA_04", 
       "created": "2013-08-06T15:23:35", 
-      "state_votes": 5, 
-      "votes": 53, 
+      "state_votes": 6, 
+      "votes": 54, 
       "district_votes": 2, 
       "state": "GA", 
       "iface": "question", 
       "y": 33.8171, 
       "x": -84.2819, 
-      "latest_vote": "2013-08-10T04:28:00", 
+      "latest_vote": "2013-08-10T11:21:54", 
       "id": 16186923, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Boca Raton", 
@@ -20576,7 +20576,7 @@ opendebate.processFetchedQuestions({
       "x": -108.465, 
       "latest_vote": "2013-08-10T08:40:05", 
       "id": 16185364, 
-      "trending_score": 0.8333333333333333
+      "trending_score": 1.125
     }, 
     {
       "city": "Boca Raton", 
@@ -24186,7 +24186,7 @@ opendebate.processFetchedQuestions({
       "x": -106.578, 
       "latest_vote": "2013-08-10T07:16:28", 
       "id": 16178177, 
-      "trending_score": 1.25
+      "trending_score": 2.1
     }, 
     {
       "city": "San Antonio", 
@@ -24481,16 +24481,16 @@ opendebate.processFetchedQuestions({
       "submission": "Republicans have shifted much of their strategy for reducing reproductive rights to the state level.  How will you ensure women have access to the safe and legal abortions Roe v. Wade promised us?", 
       "district": "AZ_02", 
       "created": "2013-08-05T15:32:20", 
-      "state_votes": 3, 
-      "votes": 104, 
+      "state_votes": 4, 
+      "votes": 105, 
       "district_votes": 0, 
       "state": "AZ", 
       "iface": "question", 
       "y": 32.3574, 
       "x": -111.045, 
-      "latest_vote": "2013-08-10T04:31:30", 
+      "latest_vote": "2013-08-10T11:21:15", 
       "id": 16177825, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Franklin", 
@@ -24519,16 +24519,16 @@ opendebate.processFetchedQuestions({
       "submission": "Would you support the reintroduction of the Equal Rights Amendment to establish that, in America, women are recognized as full human beings with full human rights? This would rectify and block all future attempts to reduce women once more to chattel.", 
       "district": "OR_04", 
       "created": "2013-08-05T15:17:58", 
-      "state_votes": 4, 
-      "votes": 70, 
+      "state_votes": 5, 
+      "votes": 71, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "question", 
       "y": 44.0574, 
       "x": -123.188, 
-      "latest_vote": "2013-08-10T05:13:48", 
+      "latest_vote": "2013-08-10T11:21:49", 
       "id": 16177784, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Littleton", 
@@ -29867,7 +29867,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7109, 
       "latest_vote": "2013-08-10T07:18:17", 
       "id": 16172722, 
-      "trending_score": 1.25
+      "trending_score": 2.1
     }, 
     {
       "city": "Albuquerque", 
@@ -29962,7 +29962,7 @@ opendebate.processFetchedQuestions({
       "x": -92.1163, 
       "latest_vote": "2013-08-10T05:22:13", 
       "id": 16172696, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Marana", 
@@ -30114,7 +30114,7 @@ opendebate.processFetchedQuestions({
       "x": -105.135, 
       "latest_vote": "2013-08-10T05:21:37", 
       "id": 16172661, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Albert Lea", 
