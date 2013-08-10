@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Margaret", 
       "last_name": "Chapman", 
       "user_id": 1061818, 
-      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
+      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
       "district": "CA_24", 
-      "created": "2013-08-10T06:10:36", 
+      "created": "2013-08-10T06:12:03", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 34.4413, 
       "x": -119.8, 
-      "id": 16292066, 
-      "question_id": "16172697"
+      "id": 16292075, 
+      "question_id": "16175740"
     }, 
     {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Do you believe in term limits? Congress today is a Geriatric Oligarchy with 6000 years of old men and women sitting and sitting in the House and Senate attending fund raisers for the next election.  This is causing a disaster in our country not having a healthy turn over of Candidatees.", 
+      "submission": "Why do you think government no longer represents working class Americans, and what are the necessary changes needed to remedy that situation?", 
       "district": "AL_07", 
-      "created": "2013-08-10T06:10:20", 
+      "created": "2013-08-10T06:11:47", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292064, 
-      "question_id": "16189599"
+      "id": 16292073, 
+      "question_id": "16185937"
     }, 
     {
       "city": "Las Vegas", 
