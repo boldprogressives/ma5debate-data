@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Paul", 
       "last_name": "cadogan", 
       "user_id": 1525378, 
-      "submission": "Will you protect Social Security And Medicare by not cutting it with the chained CPI for Social Security that has been mentioned.  Also, no cuts to Medicare but closing the donute hole 100% so seniors aren't left fending for themselves to pay full price for their drugs.", 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "FL_13", 
-      "created": "2013-08-10T17:37:58", 
+      "created": "2013-08-10T17:38:54", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 28.002, 
       "x": -82.7465, 
-      "id": 16294752, 
-      "question_id": "16175570"
+      "id": 16294761, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Hobart", 
