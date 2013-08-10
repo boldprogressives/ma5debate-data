@@ -588,7 +588,7 @@ opendebate.processFetchedQuestions({
       "x": -90.624, 
       "latest_vote": "2013-08-10T05:26:24", 
       "id": 16290698, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Corona", 
@@ -14097,7 +14097,7 @@ opendebate.processFetchedQuestions({
       "x": -77.0166, 
       "latest_vote": "2013-08-10T06:22:43", 
       "id": 16208638, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Uxbridge", 
@@ -14116,7 +14116,7 @@ opendebate.processFetchedQuestions({
       "x": -71.6341, 
       "latest_vote": "2013-08-10T06:16:10", 
       "id": 16208488, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Bronx", 
@@ -14287,7 +14287,7 @@ opendebate.processFetchedQuestions({
       "x": -122.431, 
       "latest_vote": "2013-08-10T05:56:48", 
       "id": 16207794, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "New York", 
@@ -15541,7 +15541,7 @@ opendebate.processFetchedQuestions({
       "x": -72.6301, 
       "latest_vote": "2013-08-10T07:16:46", 
       "id": 16203676, 
-      "trending_score": 1.0
+      "trending_score": 1.1666666666666667
     }, 
     {
       "city": "Gloucester", 
@@ -16776,7 +16776,7 @@ opendebate.processFetchedQuestions({
       "x": -93.7407, 
       "latest_vote": "2013-08-10T04:26:26", 
       "id": 16198297, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Arlington", 
@@ -16814,7 +16814,7 @@ opendebate.processFetchedQuestions({
       "x": -75.3545, 
       "latest_vote": "2013-08-10T04:26:44", 
       "id": 16197666, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "New Orleans", 
@@ -16871,7 +16871,7 @@ opendebate.processFetchedQuestions({
       "x": -78.9237, 
       "latest_vote": "2013-08-10T07:17:03", 
       "id": 16197620, 
-      "trending_score": 2.5
+      "trending_score": 3.0
     }, 
     {
       "city": "Brevard", 
@@ -28670,7 +28670,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T08:38:05", 
       "id": 16173259, 
-      "trending_score": 1.5
+      "trending_score": 1.1666666666666665
     }, 
     {
       "city": "Manitowoc", 
@@ -29696,7 +29696,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5959, 
       "latest_vote": "2013-08-10T10:22:33", 
       "id": 16172755, 
-      "trending_score": 2.75
+      "trending_score": 1.75
     }, 
     {
       "city": "Richardson", 
