@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "tigard", 
+      "first_name": "David", 
+      "last_name": "Otto", 
+      "user_id": 64925, 
+      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
+      "district": "OR_01", 
+      "created": "2013-08-10T02:00:35", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 45.4087, 
+      "x": -122.789, 
+      "id": 16290362, 
+      "question_id": "16175637"
+    }, 
+    {
       "city": "Cumming", 
       "first_name": "R. Gwen", 
       "last_name": "Smith Minniti", 
       "user_id": 697062, 
-      "submission": "Will you oppose current efforts by House Republicans to slash the Food Stamp program as part of the current agriculture bill.", 
+      "submission": "How do you feel about supporting a constitutional amendment to overturn Citizens United?", 
       "district": "GA_07", 
-      "created": "2013-08-10T01:59:50", 
+      "created": "2013-08-10T02:00:30", 
       "state": "GA", 
       "iface": "timeline_vote", 
       "y": 34.2031, 
       "x": -84.0743, 
-      "id": 16290328, 
-      "question_id": "16193997"
+      "id": 16290358, 
+      "question_id": "16205331"
     }, 
     {
       "city": "Madison", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -105.575, 
       "id": 16289627, 
       "question_id": "16225156"
-    }, 
-    {
-      "city": "Prescott", 
-      "first_name": "Natalie", 
-      "last_name": "Houghton", 
-      "user_id": 956, 
-      "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
-      "district": "AZ_04", 
-      "created": "2013-08-10T01:22:11", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 34.5429, 
-      "x": -112.468, 
-      "id": 16289611, 
-      "question_id": "16175500"
     }
   ]
 });
