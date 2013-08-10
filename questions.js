@@ -2442,15 +2442,15 @@ opendebate.processFetchedQuestions({
       "district": "NJ_06", 
       "created": "2013-08-09T14:11:14", 
       "state_votes": 0, 
-      "votes": 2, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "NJ", 
       "iface": "question", 
       "y": 40.418, 
       "x": -74.0881, 
-      "latest_vote": "2013-08-10T14:45:03", 
+      "latest_vote": "2013-08-10T16:03:01", 
       "id": 16275298, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Belford", 
@@ -15324,15 +15324,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_08", 
       "created": "2013-08-06T21:46:34", 
       "state_votes": 25, 
-      "votes": 181, 
+      "votes": 182, 
       "district_votes": 8, 
       "state": "FL", 
       "iface": "question", 
       "y": 28.0247, 
       "x": -80.5392, 
-      "latest_vote": "2013-08-10T15:16:27", 
+      "latest_vote": "2013-08-10T16:02:36", 
       "id": 16206470, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Kerrville", 
@@ -15419,15 +15419,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_08", 
       "created": "2013-08-06T21:37:16", 
       "state_votes": 16, 
-      "votes": 362, 
+      "votes": 363, 
       "district_votes": 0, 
       "state": "FL", 
       "iface": "question", 
       "y": 28.0247, 
       "x": -80.5392, 
-      "latest_vote": "2013-08-10T14:40:26", 
+      "latest_vote": "2013-08-10T16:02:47", 
       "id": 16206139, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Saratoga Springs", 
@@ -30087,15 +30087,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T23:23:07", 
       "state_votes": 186, 
-      "votes": 1269, 
+      "votes": 1270, 
       "district_votes": 49, 
       "state": "MT", 
       "iface": "question", 
       "y": 48.2112, 
       "x": -114.294, 
-      "latest_vote": "2013-08-10T15:53:58", 
+      "latest_vote": "2013-08-10T16:02:07", 
       "id": 16172913, 
-      "trending_score": 22.5
+      "trending_score": 23.5
     }, 
     {
       "city": "Montegut", 

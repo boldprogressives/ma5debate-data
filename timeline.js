@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Margaret", 
       "last_name": "Goodwin", 
       "user_id": 1697661, 
-      "submission": "Will you support public financing for all elections?", 
+      "submission": "Will you support a bill requiring our goverment to repay ss the trillions of dollars that they have borrowed since 1934? ", 
       "district": "OR_05", 
-      "created": "2013-08-10T16:02:03", 
+      "created": "2013-08-10T16:03:01", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 44.8433, 
       "x": -123.186, 
-      "id": 16294291, 
-      "question_id": "16209328"
+      "id": 16294297, 
+      "question_id": "16275298"
+    }, 
+    {
+      "city": "Lynbrook", 
+      "first_name": "joseph", 
+      "last_name": "franco", 
+      "user_id": 599167, 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "district": "NY_04", 
+      "created": "2013-08-10T16:02:07", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.6597, 
+      "x": -73.6759, 
+      "id": 16294292, 
+      "question_id": "16172913"
     }, 
     {
       "city": "Jacksonville", 
@@ -312,25 +327,6 @@ opendebate.processTimeline({
       "x": -72.5065, 
       "latest_vote": null, 
       "id": 16293844, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Indian Orchard", 
-      "first_name": "Miguel", 
-      "last_name": "Soto", 
-      "user_id": 1716772, 
-      "submission": "\"Any candidate\" Will you continue to work with the president plan to bring our soldiers home from Ira k and Afghanistan and keep only training troops to restore order in these countries?", 
-      "district": "MA_01", 
-      "created": "2013-08-10T15:07:00", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.151, 
-      "x": -72.5065, 
-      "latest_vote": null, 
-      "id": 16293822, 
       "trending_score": 0.5
     }
   ]
