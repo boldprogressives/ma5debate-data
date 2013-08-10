@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Will you support a constitutional amendment stating that Social Security and Medicare cannot ever be cut?", 
+      "submission": "Why should the U.S.- representing only 5 % of the world's population- have to have a military budget equal to the other 95 % of the world's population (i.e. as it is now) ?  Isn't that out of balance and \"unsustainable\"?", 
       "district": "NM_03", 
-      "created": "2013-08-10T00:16:58", 
+      "created": "2013-08-10T00:18:01", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16288870, 
-      "question_id": "16280510"
+      "id": 16288876, 
+      "question_id": "16272211"
     }, 
     {
       "city": "Oakland", 
