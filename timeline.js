@@ -6,15 +6,45 @@ opendebate.processTimeline({
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Social Security can be fixed by, eliminating the income cap and forcing congress to pay back every cent that it borrowed.The deficit can be fixed by eliminating all foreign aid, especially to countries that don't like the US except for our money.The banking industry is a shambles. Banks need to be prosecuted to the fullest extent of the law and made accountable.All \"pork\" on legislation needs to be eliminated!The President needs line item veto power, just like many State governors have.The military budget can be fixed not by limiting promotions (a moral issue), but by stopping PCS moves every two years. By keeping pilots in the cockpit until they retire or leave the service. It makes no sense to spend millions training someone to fly and then when they are at their peck in experience pull them out of the cockpit to fly a desk. This is so true of Commissioned officers in all branches. The only pilots who get to fly their entire career are Army Warrants.What is your stance on these issues?", 
+      "submission": "Will you vote for a fair or flat tax?", 
       "district": "NM_03", 
-      "created": "2013-08-10T01:13:56", 
+      "created": "2013-08-10T01:14:42", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16289539, 
-      "question_id": "16174143"
+      "id": 16289543, 
+      "question_id": "16173329"
+    }, 
+    {
+      "city": "Port Townsend", 
+      "first_name": "Susan", 
+      "last_name": "Marett", 
+      "user_id": 188573, 
+      "submission": "What will you do to ensure that all Americans have access to the voting booth and what will you do to get money out of our elections so that we all have an equal voice?", 
+      "district": "WA_06", 
+      "created": "2013-08-10T01:14:38", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 48.1167, 
+      "x": -122.783, 
+      "id": 16289542, 
+      "question_id": "16205834"
+    }, 
+    {
+      "city": "Gering", 
+      "first_name": "Cody", 
+      "last_name": "Rudow", 
+      "user_id": 1806614, 
+      "submission": "Our elections system has been corrupted by the high cost of advertising and media coverage of candidates. Will you support legislation to nationalize all media coverage of elections, limiting airtime to discussion of actual issues for a fixed period prior to any election?  ", 
+      "district": "NE_03", 
+      "created": "2013-08-10T01:14:03", 
+      "state": "NE", 
+      "iface": "timeline_vote", 
+      "y": 41.8046, 
+      "x": -103.717, 
+      "id": 16289540, 
+      "question_id": "16287763"
     }, 
     {
       "city": "", 
@@ -30,21 +60,6 @@ opendebate.processTimeline({
       "x": 0.0, 
       "id": 16289531, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Gering", 
-      "first_name": "Cody", 
-      "last_name": "Rudow", 
-      "user_id": 1806614, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "NE_03", 
-      "created": "2013-08-10T01:12:31", 
-      "state": "NE", 
-      "iface": "timeline_vote", 
-      "y": 41.8046, 
-      "x": -103.717, 
-      "id": 16289528, 
-      "question_id": "16172777"
     }, 
     {
       "city": "Rocky Hill", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -118.093, 
       "id": 16289143, 
       "question_id": "16172777"
-    }, 
-    {
-      "city": "Port Arthur", 
-      "first_name": "Rebecca", 
-      "last_name": "Veazey", 
-      "user_id": 701880, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
-      "district": "TX_14", 
-      "created": "2013-08-10T00:38:04", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 29.9208, 
-      "x": -93.932, 
-      "id": 16289132, 
-      "question_id": "16175740"
     }
   ]
 });
