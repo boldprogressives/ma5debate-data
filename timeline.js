@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Would you support Medicare paying for dental care?", 
+      "submission": "The most important issue to address right now is the climate changes due to CO2 emissions. Do you or will  you accept funding from the Koch brothers or anyone with ties to the fossil fuel industry?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:30:58", 
+      "created": "2013-08-10T04:32:02", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291206, 
-      "question_id": "16174466"
+      "id": 16291209, 
+      "question_id": "16178283"
     }, 
     {
       "city": "San Antonio", 
