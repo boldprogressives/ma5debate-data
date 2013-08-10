@@ -10069,7 +10069,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1804, 
       "latest_vote": "2013-08-10T16:00:19", 
       "id": 16222728, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Louisville", 
@@ -15712,7 +15712,7 @@ opendebate.processFetchedQuestions({
       "x": -77.4268, 
       "latest_vote": "2013-08-10T15:49:00", 
       "id": 16205884, 
-      "trending_score": 2.1666666666666665
+      "trending_score": 1.5
     }, 
     {
       "city": "McKinleyville", 
@@ -20158,7 +20158,7 @@ opendebate.processFetchedQuestions({
       "x": -77.3338, 
       "latest_vote": "2013-08-10T12:39:24", 
       "id": 16188671, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Dumfries", 
