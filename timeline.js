@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Braintree", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810462, 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "district": "MA_08", 
+      "created": "2013-08-10T14:31:43", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2088, 
+      "x": -71.0007, 
+      "id": 16293423, 
+      "question_id": "16172281"
+    }, 
+    {
       "city": "North Bend", 
       "first_name": "Cheryl", 
       "last_name": "Meyer", 
       "user_id": 795081, 
-      "submission": "Will you pledge to initiate or support Congressional action to reverse the gerrymandering of legislative districts, and return them to their Constitutionally-mandated structure?", 
+      "submission": "Will you support a national bill to decriminalize marijuana?", 
       "district": "WA_08", 
-      "created": "2013-08-10T14:30:58", 
+      "created": "2013-08-10T14:31:38", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 47.4752, 
       "x": -121.757, 
-      "id": 16293416, 
-      "question_id": "16292474"
+      "id": 16293422, 
+      "question_id": "16290490"
     }, 
     {
       "city": "Duvall", 
       "first_name": "Elizabeth", 
       "last_name": "Totten", 
       "user_id": 366023, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
       "district": "WA_01", 
-      "created": "2013-08-10T14:30:08", 
+      "created": "2013-08-10T14:31:32", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 47.7378, 
       "x": -121.848, 
-      "id": 16293411, 
-      "question_id": "16172281"
+      "id": 16293420, 
+      "question_id": "16172777"
     }, 
     {
       "city": "Austin", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -97.1915, 
       "id": 16292713, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Decatur", 
-      "first_name": "Judith Meldahl", 
-      "last_name": "Meldahl", 
-      "user_id": 242274, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
-      "district": "IL_13", 
-      "created": "2013-08-10T13:38:59", 
-      "state": "IL", 
-      "iface": "timeline_vote", 
-      "y": 39.8271, 
-      "x": -88.9241, 
-      "id": 16292696, 
-      "question_id": "16172913"
     }
   ]
 });

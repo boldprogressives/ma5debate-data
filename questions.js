@@ -846,15 +846,15 @@ opendebate.processFetchedQuestions({
       "district": "HI_02", 
       "created": "2013-08-10T02:13:30", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "district_votes": 0, 
       "state": "HI", 
       "iface": "question", 
       "y": 19.6647, 
       "x": -155.981, 
-      "latest_vote": "2013-08-10T03:10:34", 
+      "latest_vote": "2013-08-10T14:31:38", 
       "id": 16290490, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "New York", 
@@ -29631,15 +29631,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T23:23:07", 
       "state_votes": 186, 
-      "votes": 1255, 
+      "votes": 1256, 
       "district_votes": 49, 
       "state": "MT", 
       "iface": "question", 
       "y": 48.2112, 
       "x": -114.294, 
-      "latest_vote": "2013-08-10T14:21:32", 
+      "latest_vote": "2013-08-10T14:31:26", 
       "id": 16172913, 
-      "trending_score": 8.25
+      "trending_score": 9.25
     }, 
     {
       "city": "Montegut", 
@@ -29859,15 +29859,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
       "state_votes": 269, 
-      "votes": 1828, 
+      "votes": 1829, 
       "district_votes": 73, 
       "state": "MT", 
       "iface": "question", 
       "y": 46.6453, 
       "x": -111.974, 
-      "latest_vote": "2013-08-10T14:24:59", 
+      "latest_vote": "2013-08-10T14:31:32", 
       "id": 16172777, 
-      "trending_score": 8.25
+      "trending_score": 9.25
     }, 
     {
       "city": "Gladstone", 
@@ -30637,16 +30637,16 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
       "district": "MA_05", 
       "created": "2013-08-03T17:42:20", 
-      "state_votes": 185, 
-      "votes": 1246, 
+      "state_votes": 186, 
+      "votes": 1247, 
       "district_votes": 57, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3699, 
       "x": -71.2368, 
-      "latest_vote": "2013-08-10T14:30:08", 
+      "latest_vote": "2013-08-10T14:31:43", 
       "id": 16172281, 
-      "trending_score": 10.25
+      "trending_score": 11.25
     }, 
     {
       "city": "Arlington", 
