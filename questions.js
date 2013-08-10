@@ -15598,7 +15598,7 @@ opendebate.processFetchedQuestions({
       "x": -80.5392, 
       "latest_vote": "2013-08-10T16:50:14", 
       "id": 16206139, 
-      "trending_score": 2.0
+      "trending_score": 2.25
     }, 
     {
       "city": "Saratoga Springs", 
@@ -16358,7 +16358,7 @@ opendebate.processFetchedQuestions({
       "x": -75.9005, 
       "latest_vote": "2013-08-10T16:52:22", 
       "id": 16203822, 
-      "trending_score": 2.0
+      "trending_score": 2.25
     }, 
     {
       "city": "Tampa", 
@@ -21374,7 +21374,7 @@ opendebate.processFetchedQuestions({
       "x": -108.465, 
       "latest_vote": "2013-08-10T16:46:03", 
       "id": 16185364, 
-      "trending_score": 5.25
+      "trending_score": 2.5
     }, 
     {
       "city": "Boca Raton", 
@@ -27226,7 +27226,7 @@ opendebate.processFetchedQuestions({
       "x": -81.5334, 
       "latest_vote": "2013-08-10T16:47:06", 
       "id": 16175500, 
-      "trending_score": 3.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Seattle", 
@@ -27454,7 +27454,7 @@ opendebate.processFetchedQuestions({
       "x": -104.954, 
       "latest_vote": "2013-08-10T15:56:30", 
       "id": 16175230, 
-      "trending_score": 2.0
+      "trending_score": 3.1666666666666665
     }, 
     {
       "city": "Seal Rock", 
@@ -28518,7 +28518,7 @@ opendebate.processFetchedQuestions({
       "x": -123.884, 
       "latest_vote": "2013-08-10T16:47:19", 
       "id": 16174072, 
-      "trending_score": 5.5
+      "trending_score": 3.0
     }, 
     {
       "city": "Cape Girardeau", 
@@ -30361,7 +30361,7 @@ opendebate.processFetchedQuestions({
       "x": -91.087, 
       "latest_vote": "2013-08-10T15:56:57", 
       "id": 16172866, 
-      "trending_score": 3.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Austin", 
@@ -30969,7 +30969,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T16:47:36", 
       "id": 16172583, 
-      "trending_score": 5.5
+      "trending_score": 3.0
     }, 
     {
       "city": "ARLINGTON", 
