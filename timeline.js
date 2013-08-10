@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "All email is read by the NSA. What limits should be placed on the NSA to preserve privacy?", 
+      "submission": "Will you support a constitutional amendment stating that Social Security and Medicare cannot ever be cut?", 
       "district": "NM_03", 
-      "created": "2013-08-10T00:15:57", 
+      "created": "2013-08-10T00:16:58", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16288859, 
-      "question_id": "16285357"
+      "id": 16288870, 
+      "question_id": "16280510"
     }, 
     {
       "city": "Oakland", 
       "first_name": "Avi & Clarence", 
       "last_name": "Klammer & Reese", 
       "user_id": 1778044, 
-      "submission": "Will you support immigration reform with a path to citizenship ?", 
+      "submission": "What will you do to ensure that all Americans have access to the voting booth and what will you do to get money out of our elections so that we all have an equal voice?", 
       "district": "CA_13", 
-      "created": "2013-08-10T00:15:56", 
+      "created": "2013-08-10T00:16:10", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 37.8129, 
       "x": -122.27, 
-      "id": 16288858, 
-      "question_id": "16172648"
+      "id": 16288860, 
+      "question_id": "16205834"
     }, 
     {
       "city": "Forest", 
