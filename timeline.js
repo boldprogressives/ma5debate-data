@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "What are you going to do to protect and enhance social security and medicare benefits?", 
+      "submission": "where is the accountability? we are lied into war, our lawmakers are obviously involved in insider trading on Wall Street ,the average American is working two jobs to barely survive ,while presidents and CEOs in corporate America make more than they ever have any history of man ,yet God forbid if you're walking down the street with a rock of crack cocaine in your pocket you go directly to jail what's up with that? ", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:20:54", 
+      "created": "2013-08-10T05:21:37", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291863, 
-      "question_id": "16172225"
+      "id": 16291865, 
+      "question_id": "16172661"
     }, 
     {
       "city": "Stevens Point", 
