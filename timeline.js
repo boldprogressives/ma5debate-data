@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Anthony", 
       "last_name": "Pascual", 
       "user_id": 1673880, 
-      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
+      "submission": "What do you see as the first steps to ensure food safety for all?", 
       "district": "CA_04", 
-      "created": "2013-08-10T13:56:57", 
+      "created": "2013-08-10T13:57:28", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 37.9578, 
       "x": -120.638, 
-      "id": 16292992, 
-      "question_id": "16180998"
+      "id": 16293015, 
+      "question_id": "16292560"
     }, 
     {
       "city": "Metairie", 
@@ -299,15 +299,15 @@ opendebate.processTimeline({
       "district": "MA_08", 
       "created": "2013-08-10T11:50:33", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "timeline_question", 
       "y": 42.2138, 
       "x": -70.9328, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-10T13:57:28", 
       "id": 16292560, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }
   ]
 });

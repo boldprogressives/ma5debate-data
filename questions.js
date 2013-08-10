@@ -29,15 +29,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_08", 
       "created": "2013-08-10T11:50:33", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.2138, 
       "x": -70.9328, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-10T13:57:28", 
       "id": 16292560, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Henderson", 
