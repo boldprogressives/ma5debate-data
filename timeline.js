@@ -6,45 +6,60 @@ opendebate.processTimeline({
       "first_name": "Tim", 
       "last_name": "Sanders", 
       "user_id": 974978, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "submission": "Will you fight to eliminate corporate influence (ALEC) from the legislative process?", 
       "district": "NV_02", 
-      "created": "2013-08-10T01:35:00", 
+      "created": "2013-08-10T01:35:59", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 39.7704, 
       "x": -119.617, 
-      "id": 16289709, 
-      "question_id": "16172913"
+      "id": 16289715, 
+      "question_id": "16260175"
     }, 
     {
       "city": "Jacksonville", 
       "first_name": "Gwendolyn", 
       "last_name": "Fleury", 
       "user_id": 1702817, 
-      "submission": "Will you support immigration reform with a path to citizenship ?", 
+      "submission": "What will do you do expand the solvency of Social Security and Medicare past their current deadlines? ", 
       "district": "FL_05", 
-      "created": "2013-08-10T01:34:48", 
+      "created": "2013-08-10T01:35:49", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 30.3908, 
       "x": -81.6842, 
-      "id": 16289707, 
-      "question_id": "16172648"
+      "id": 16289714, 
+      "question_id": "16174492"
     }, 
     {
       "city": "Cumming", 
       "first_name": "R. Gwen", 
       "last_name": "Smith Minniti", 
       "user_id": 697062, 
-      "submission": "In 2006, the lame-duck GOP congress enacted a bill forcing the U.S.Postal service to fully fund pensions for the next 75 years and do it in ten years. It's a bill that was designed to ruin the USPS so it could be privatized. Will you work to repeal this onerous bill and introduce legislation to allow the USPS to compete with private carriers?", 
+      "submission": "Will you fight to eliminate corporate influence (ALEC) from the legislative process?", 
       "district": "GA_07", 
-      "created": "2013-08-10T01:31:45", 
+      "created": "2013-08-10T01:35:32", 
       "state": "GA", 
       "iface": "timeline_vote", 
       "y": 34.2031, 
       "x": -84.0743, 
-      "id": 16289698, 
-      "question_id": "16206983"
+      "id": 16289712, 
+      "question_id": "16260175"
+    }, 
+    {
+      "city": "East Brunswick", 
+      "first_name": "Edward", 
+      "last_name": "Lang", 
+      "user_id": 1120929, 
+      "submission": "Why are you not speaking up about the police/surveillance state that's been developing in this country, and defending whistle blowers like Snowden and Manning as the heroic citizens they are? ", 
+      "district": "NJ_12", 
+      "created": "2013-08-10T01:35:23", 
+      "state": "NJ", 
+      "iface": "timeline_vote", 
+      "y": 40.4297, 
+      "x": -74.4073, 
+      "id": 16289710, 
+      "question_id": "16193888"
     }, 
     {
       "city": "Prosper", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -75.1446, 
       "id": 16289345, 
       "question_id": "16285260"
-    }, 
-    {
-      "city": "Watertown", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1810397, 
-      "submission": "What is your stand on full disclosure of all campaign contributions, including specifically identifiable individual and corporate donations to PACs.", 
-      "district": "MA_05", 
-      "created": "2013-08-10T00:55:59", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3713, 
-      "x": -71.1804, 
-      "id": 16289310, 
-      "question_id": "16199834"
     }
   ]
 });
