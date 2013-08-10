@@ -6,14 +6,29 @@ opendebate.processTimeline({
       "first_name": "Steven", 
       "last_name": "Born", 
       "user_id": 1699500, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "submission": "Do you support the legalization of marijuana (which should be taxed & regulated like alcohol or tobacco)? If so, would you allow the release of nonviolent offenders from prison?", 
       "district": "NV_03", 
-      "created": "2013-08-10T05:54:00", 
+      "created": "2013-08-10T05:54:59", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 36.1135, 
       "x": -115.273, 
-      "id": 16292013, 
+      "id": 16292023, 
+      "question_id": "16172722"
+    }, 
+    {
+      "city": "Ukiah", 
+      "first_name": "Susan", 
+      "last_name": "Anderson", 
+      "user_id": 45283, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "CA_02", 
+      "created": "2013-08-10T05:54:58", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 39.1527, 
+      "x": -123.202, 
+      "id": 16292022, 
       "question_id": "16172266"
     }, 
     {
@@ -21,15 +36,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Should profitable corporations socialize their labor costs onto the US safety net, by paying such low wages their employees qualify for food stamps and medicaid? What should be done about this back-door subsidy?", 
+      "submission": "How can we stop paying Congress for not doing their jobs and take away their healthcare benefits?", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:53:53", 
+      "created": "2013-08-10T05:54:55", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292011, 
-      "question_id": "16211614"
+      "id": 16292020, 
+      "question_id": "16210559"
     }, 
     {
       "city": "McMinnville", 
@@ -344,25 +359,6 @@ opendebate.processTimeline({
       "x": -71.146, 
       "latest_vote": null, 
       "id": 16291900, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Winchester", 
-      "first_name": "Jeff", 
-      "last_name": "Dearman", 
-      "user_id": 1810429, 
-      "submission": "Do you support stem cell research? Why or why not?", 
-      "district": "MA_05", 
-      "created": "2013-08-10T05:28:01", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.4529, 
-      "x": -71.146, 
-      "latest_vote": null, 
-      "id": 16291896, 
       "trending_score": 0.5
     }
   ]
