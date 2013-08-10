@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "", 
       "last_name": "", 
       "user_id": 1810418, 
-      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
+      "submission": "What will you do to get congress to work on a jobs bill instead of wasting taxpayers money trying to repeal The Affordable Healthcare Act?", 
       "district": "MA_07", 
-      "created": "2013-08-10T02:50:43", 
+      "created": "2013-08-10T02:51:34", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.399, 
       "x": -71.1231, 
-      "id": 16290566, 
-      "question_id": "16175230"
+      "id": 16290569, 
+      "question_id": "16203558"
     }, 
     {
       "city": "Corona", 

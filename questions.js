@@ -2051,7 +2051,7 @@ opendebate.processFetchedQuestions({
       "x": -117.717, 
       "latest_vote": "2013-08-10T02:17:00", 
       "id": 16265543, 
-      "trending_score": 13.25
+      "trending_score": 13.5
     }, 
     {
       "city": "Claremont", 
@@ -5072,7 +5072,7 @@ opendebate.processFetchedQuestions({
       "x": -109.946, 
       "latest_vote": "2013-08-09T20:51:29", 
       "id": 16238957, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Berea", 
@@ -5775,7 +5775,7 @@ opendebate.processFetchedQuestions({
       "x": -75.1731, 
       "latest_vote": "2013-08-09T23:32:14", 
       "id": 16234332, 
-      "trending_score": 1.1666666666666667
+      "trending_score": 1.25
     }, 
     {
       "city": "Phila", 
@@ -11038,7 +11038,7 @@ opendebate.processFetchedQuestions({
       "x": -122.827, 
       "latest_vote": "2013-08-09T21:51:42", 
       "id": 16215313, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Wapato", 
@@ -11095,7 +11095,7 @@ opendebate.processFetchedQuestions({
       "x": -122.692, 
       "latest_vote": "2013-08-09T21:52:06", 
       "id": 16214174, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Portland", 
@@ -13888,7 +13888,7 @@ opendebate.processFetchedQuestions({
       "x": -80.5392, 
       "latest_vote": "2013-08-09T21:51:49", 
       "id": 16207146, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Roanoke", 
@@ -14059,7 +14059,7 @@ opendebate.processFetchedQuestions({
       "x": -80.5392, 
       "latest_vote": "2013-08-10T02:14:46", 
       "id": 16206470, 
-      "trending_score": 11.166666666666666
+      "trending_score": 11.25
     }, 
     {
       "city": "Kerrville", 
@@ -14154,7 +14154,7 @@ opendebate.processFetchedQuestions({
       "x": -80.5392, 
       "latest_vote": "2013-08-10T02:13:21", 
       "id": 16206139, 
-      "trending_score": 3.0833333333333335
+      "trending_score": 3.8333333333333335
     }, 
     {
       "city": "Saratoga Springs", 
@@ -14962,16 +14962,16 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do to get congress to work on a jobs bill instead of wasting taxpayers money trying to repeal The Affordable Healthcare Act?", 
       "district": "MA_06", 
       "created": "2013-08-06T20:07:53", 
-      "state_votes": 26, 
-      "votes": 603, 
+      "state_votes": 27, 
+      "votes": 604, 
       "district_votes": 6, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.6285, 
       "x": -70.6862, 
-      "latest_vote": "2013-08-10T02:17:49", 
+      "latest_vote": "2013-08-10T02:51:34", 
       "id": 16203558, 
-      "trending_score": 4.5
+      "trending_score": 4.75
     }, 
     {
       "city": "Holyoke", 
@@ -15047,7 +15047,7 @@ opendebate.processFetchedQuestions({
       "x": -83.1201, 
       "latest_vote": "2013-08-10T01:46:06", 
       "id": 16203215, 
-      "trending_score": 5.75
+      "trending_score": 5.833333333333333
     }, 
     {
       "city": "Lake Worth", 
@@ -16187,7 +16187,7 @@ opendebate.processFetchedQuestions({
       "x": -93.7407, 
       "latest_vote": "2013-08-10T01:47:28", 
       "id": 16198297, 
-      "trending_score": 2.1666666666666665
+      "trending_score": 2.25
     }, 
     {
       "city": "Arlington", 
@@ -16966,7 +16966,7 @@ opendebate.processFetchedQuestions({
       "x": -71.5469, 
       "latest_vote": "2013-08-10T00:30:01", 
       "id": 16193930, 
-      "trending_score": 4.25
+      "trending_score": 4.5
     }, 
     {
       "city": "East Brunswick", 
@@ -22134,7 +22134,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1032, 
       "latest_vote": "2013-08-10T02:12:37", 
       "id": 16180998, 
-      "trending_score": 6.25
+      "trending_score": 9.142857142857142
     }, 
     {
       "city": "Irvine", 
@@ -23369,7 +23369,7 @@ opendebate.processFetchedQuestions({
       "x": -123.358, 
       "latest_vote": "2013-08-09T22:22:00", 
       "id": 16178438, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Seattle", 
@@ -24110,7 +24110,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7896, 
       "latest_vote": "2013-08-10T00:51:51", 
       "id": 16176855, 
-      "trending_score": 6.083333333333333
+      "trending_score": 2.6666666666666665
     }, 
     {
       "city": "Kula", 
@@ -25497,7 +25497,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9643, 
       "latest_vote": "2013-08-10T02:11:42", 
       "id": 16175740, 
-      "trending_score": 9.041666666666666
+      "trending_score": 13.2
     }, 
     {
       "city": "Buffalo Grove", 
@@ -25573,7 +25573,7 @@ opendebate.processFetchedQuestions({
       "x": -88.9093, 
       "latest_vote": "2013-08-10T02:13:26", 
       "id": 16175637, 
-      "trending_score": 4.966666666666667
+      "trending_score": 5.041666666666667
     }, 
     {
       "city": "Mount Vernon", 
@@ -25706,7 +25706,7 @@ opendebate.processFetchedQuestions({
       "x": -81.5334, 
       "latest_vote": "2013-08-09T23:41:11", 
       "id": 16175571, 
-      "trending_score": 3.25
+      "trending_score": 3.5
     }, 
     {
       "city": "Sidney", 
@@ -25782,7 +25782,7 @@ opendebate.processFetchedQuestions({
       "x": -81.5334, 
       "latest_vote": "2013-08-10T02:49:15", 
       "id": 16175500, 
-      "trending_score": 17.25
+      "trending_score": 9.0
     }, 
     {
       "city": "Seattle", 
@@ -26010,7 +26010,7 @@ opendebate.processFetchedQuestions({
       "x": -104.954, 
       "latest_vote": "2013-08-10T02:50:43", 
       "id": 16175230, 
-      "trending_score": 12.2
+      "trending_score": 7.966666666666667
     }, 
     {
       "city": "Seal Rock", 
@@ -26029,7 +26029,7 @@ opendebate.processFetchedQuestions({
       "x": -124.056, 
       "latest_vote": "2013-08-09T22:22:02", 
       "id": 16175192, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Houston", 
@@ -26590,16 +26590,16 @@ opendebate.processFetchedQuestions({
       "submission": "Would you support Medicare paying for dental care?", 
       "district": "WA_09", 
       "created": "2013-08-04T19:58:10", 
-      "state_votes": 26, 
-      "votes": 224, 
+      "state_votes": 27, 
+      "votes": 225, 
       "district_votes": 6, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.5869, 
       "x": -122.298, 
-      "latest_vote": "2013-08-09T21:18:02", 
+      "latest_vote": "2013-08-10T02:51:25", 
       "id": 16174466, 
-      "trending_score": 0.25
+      "trending_score": 1.25
     }, 
     {
       "city": "Albany", 
@@ -26922,7 +26922,7 @@ opendebate.processFetchedQuestions({
       "x": -112.112, 
       "latest_vote": "2013-08-10T00:07:58", 
       "id": 16174319, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Great Neck", 
@@ -27055,7 +27055,7 @@ opendebate.processFetchedQuestions({
       "x": -91.7189, 
       "latest_vote": "2013-08-10T01:29:31", 
       "id": 16174109, 
-      "trending_score": 2.5
+      "trending_score": 3.0
     }, 
     {
       "city": "Baraboo", 
@@ -27188,7 +27188,7 @@ opendebate.processFetchedQuestions({
       "x": -105.043, 
       "latest_vote": "2013-08-10T02:11:50", 
       "id": 16173921, 
-      "trending_score": 4.25
+      "trending_score": 6.142857142857143
     }, 
     {
       "city": "Fort Collins", 
@@ -28081,7 +28081,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T02:45:59", 
       "id": 16173259, 
-      "trending_score": 14.166666666666666
+      "trending_score": 14.2
     }, 
     {
       "city": "Manitowoc", 
@@ -29069,7 +29069,7 @@ opendebate.processFetchedQuestions({
       "x": -122.589, 
       "latest_vote": "2013-08-10T02:12:43", 
       "id": 16172765, 
-      "trending_score": 5.166666666666667
+      "trending_score": 7.25
     }, 
     {
       "city": "Egg Harbor", 
@@ -29107,7 +29107,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5959, 
       "latest_vote": "2013-08-10T02:44:06", 
       "id": 16172755, 
-      "trending_score": 15.125
+      "trending_score": 15.142857142857142
     }, 
     {
       "city": "Richardson", 
@@ -29297,7 +29297,7 @@ opendebate.processFetchedQuestions({
       "x": -116.297, 
       "latest_vote": "2013-08-10T02:16:24", 
       "id": 16172697, 
-      "trending_score": 7.25
+      "trending_score": 10.642857142857142
     }, 
     {
       "city": "Holts Summit", 
@@ -29335,7 +29335,7 @@ opendebate.processFetchedQuestions({
       "x": -111.295, 
       "latest_vote": "2013-08-10T02:11:58", 
       "id": 16172694, 
-      "trending_score": 12.166666666666666
+      "trending_score": 12.5
     }, 
     {
       "city": "Eldridge", 
@@ -29373,7 +29373,7 @@ opendebate.processFetchedQuestions({
       "x": -122.594, 
       "latest_vote": "2013-08-10T02:14:09", 
       "id": 16172690, 
-      "trending_score": 5.333333333333333
+      "trending_score": 10.166666666666666
     }, 
     {
       "city": "Gig Harbor", 
@@ -29677,7 +29677,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2368, 
       "latest_vote": "2013-08-10T02:13:05", 
       "id": 16172542, 
-      "trending_score": 4.5
+      "trending_score": 3.0833333333333335
     }, 
     {
       "city": "Cambridge", 
@@ -29782,16 +29782,16 @@ opendebate.processFetchedQuestions({
       "submission": "What can you do to improve public transit nationally, including building a good rail network, when the governors and legislatures of some key states are so resistant to it?", 
       "district": "MA_05", 
       "created": "2013-08-03T17:46:05", 
-      "state_votes": 30, 
-      "votes": 188, 
+      "state_votes": 31, 
+      "votes": 189, 
       "district_votes": 10, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.366, 
       "x": -71.1035, 
-      "latest_vote": "2013-08-10T02:17:31", 
+      "latest_vote": "2013-08-10T02:51:07", 
       "id": 16172286, 
-      "trending_score": 2.6666666666666665
+      "trending_score": 3.25
     }, 
     {
       "city": "Cambridge", 
