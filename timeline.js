@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Joe", 
       "last_name": "Verdoes", 
       "user_id": 503455, 
-      "submission": "Do you fully support Senator Warren's 21st century Glass-Steagall bill to separate investment banking from consumer banking?", 
+      "submission": "Do you support repealing the Patriot Act and please give us the reasons for your position.", 
       "district": "WA_02", 
-      "created": "2013-08-10T03:50:54", 
+      "created": "2013-08-10T03:51:34", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 48.4989, 
       "x": -122.607, 
-      "id": 16290943, 
-      "question_id": "16224940"
+      "id": 16290945, 
+      "question_id": "16230106"
     }, 
     {
       "city": "Greensboro", 
