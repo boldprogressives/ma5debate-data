@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "New York", 
+      "first_name": "Katie", 
+      "last_name": "Kingston", 
+      "user_id": 656169, 
+      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
+      "district": "NY_12", 
+      "created": "2013-08-10T00:20:55", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.7246, 
+      "x": -73.9803, 
+      "id": 16288888, 
+      "question_id": "16175230"
+    }, 
+    {
+      "city": "El Prado", 
+      "first_name": "Sally", 
+      "last_name": "Phelps", 
+      "user_id": 1567108, 
+      "submission": "What is your stance on the XL pipeline and how will you do to help bring climate awareness to those who don't believe it's a problem?", 
+      "district": "NM_03", 
+      "created": "2013-08-10T00:20:53", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 36.4486, 
+      "x": -105.575, 
+      "id": 16288887, 
+      "question_id": "16267518"
+    }, 
+    {
       "city": "Fort Myers", 
       "first_name": "Martha", 
       "last_name": "Milne", 
@@ -15,21 +45,6 @@ opendebate.processTimeline({
       "x": -81.8676, 
       "id": 16288883, 
       "question_id": "16199648"
-    }, 
-    {
-      "city": "El Prado", 
-      "first_name": "Sally", 
-      "last_name": "Phelps", 
-      "user_id": 1567108, 
-      "submission": "Will you support raising the minimum wage to at least $10.00 per hour?", 
-      "district": "NM_03", 
-      "created": "2013-08-10T00:19:13", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16288882, 
-      "question_id": "16260137"
     }, 
     {
       "city": "Oakland", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16288105, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Holland Patent", 
-      "first_name": "Bob", 
-      "last_name": "Prosser", 
-      "user_id": 699964, 
-      "submission": "How can we keep our post offices up and running?", 
-      "district": "NY_22", 
-      "created": "2013-08-09T23:44:30", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 43.2536, 
-      "x": -75.2845, 
-      "id": 16288103, 
-      "question_id": "16194365"
     }
   ]
 });
