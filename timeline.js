@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Beverly", 
+      "first_name": "David", 
+      "last_name": "Laverdiere", 
+      "user_id": 1664612, 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "district": "MA_06", 
+      "created": "2013-08-10T03:57:00", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.5665, 
+      "x": -70.8533, 
+      "id": 16290996, 
+      "question_id": "16172533"
+    }, 
+    {
+      "city": "Birmingham", 
+      "first_name": "Dot", 
+      "last_name": "Canup", 
+      "user_id": 1565077, 
+      "submission": "Will you introduce legislation or a rules change -- whichever it takes -- that will mean Congress and their families must be subject to the same laws it passes for other citizens?  If not, why not?", 
+      "district": "AL_07", 
+      "created": "2013-08-10T03:56:34", 
+      "state": "AL", 
+      "iface": "timeline_vote", 
+      "y": 33.6391, 
+      "x": -86.6919, 
+      "id": 16290992, 
+      "question_id": "16244527"
+    }, 
+    {
       "city": "Alameda", 
       "first_name": "Elizabeth", 
       "last_name": "White", 
@@ -15,36 +45,6 @@ opendebate.processTimeline({
       "x": -122.26, 
       "id": 16290987, 
       "question_id": "16174072"
-    }, 
-    {
-      "city": "Birmingham", 
-      "first_name": "Dot", 
-      "last_name": "Canup", 
-      "user_id": 1565077, 
-      "submission": "Will you vote to end tax loopholes for the rich, big business subsides, overseas corporate tax loopholes, wasteful wars, foreign country subsides, quality health care for all, good safe food for all, clean air, clean energy, clean safe drinking water, useful education and job opportunities for all hard working citizens that can achieve these levels and deserve it, gun control, to end wall street fraud and corruption.", 
-      "district": "AL_07", 
-      "created": "2013-08-10T03:55:53", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 33.6391, 
-      "x": -86.6919, 
-      "id": 16290986, 
-      "question_id": "16203215"
-    }, 
-    {
-      "city": "Beverly", 
-      "first_name": "David", 
-      "last_name": "Laverdiere", 
-      "user_id": 1664612, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "MA_06", 
-      "created": "2013-08-10T03:55:51", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.5665, 
-      "x": -70.8533, 
-      "id": 16290985, 
-      "question_id": "16172777"
     }, 
     {
       "city": "Anacortes", 
