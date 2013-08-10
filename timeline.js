@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "", 
       "last_name": "", 
       "user_id": 1810418, 
-      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
+      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
       "district": "MA_07", 
-      "created": "2013-08-10T02:49:56", 
+      "created": "2013-08-10T02:50:43", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.399, 
       "x": -71.1231, 
-      "id": 16290560, 
-      "question_id": "16172583"
+      "id": 16290566, 
+      "question_id": "16175230"
     }, 
     {
       "city": "Corona", 

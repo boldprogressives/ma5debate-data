@@ -1766,7 +1766,7 @@ opendebate.processFetchedQuestions({
       "x": -107.877, 
       "latest_vote": "2013-08-09T20:50:18", 
       "id": 16267533, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Durango", 
@@ -2735,7 +2735,7 @@ opendebate.processFetchedQuestions({
       "x": -82.4501, 
       "latest_vote": "2013-08-09T23:34:59", 
       "id": 16256690, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Jacksonville", 
@@ -3533,7 +3533,7 @@ opendebate.processFetchedQuestions({
       "x": -77.1197, 
       "latest_vote": "2013-08-09T22:21:02", 
       "id": 16249133, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Victorville", 
@@ -6744,7 +6744,7 @@ opendebate.processFetchedQuestions({
       "x": -73.25, 
       "latest_vote": "2013-08-09T23:31:48", 
       "id": 16227025, 
-      "trending_score": 1.1666666666666667
+      "trending_score": 1.25
     }, 
     {
       "city": "Lexington", 
@@ -10069,7 +10069,7 @@ opendebate.processFetchedQuestions({
       "x": -81.0578, 
       "latest_vote": "2013-08-10T01:48:21", 
       "id": 16217791, 
-      "trending_score": 12.25
+      "trending_score": 12.5
     }, 
     {
       "city": "Fairbanks", 
@@ -10278,7 +10278,7 @@ opendebate.processFetchedQuestions({
       "x": -73.4093, 
       "latest_vote": "2013-08-10T01:33:26", 
       "id": 16217343, 
-      "trending_score": 3.3333333333333335
+      "trending_score": 3.5
     }, 
     {
       "city": "Lloyd Harbor", 
@@ -10525,7 +10525,7 @@ opendebate.processFetchedQuestions({
       "x": -71.0253, 
       "latest_vote": "2013-08-09T21:50:49", 
       "id": 16216448, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Davidson", 
@@ -13318,7 +13318,7 @@ opendebate.processFetchedQuestions({
       "x": -99.16, 
       "latest_vote": "2013-08-10T01:48:54", 
       "id": 16209412, 
-      "trending_score": 5.75
+      "trending_score": 5.833333333333333
     }, 
     {
       "city": "El Cajon", 
@@ -14059,7 +14059,7 @@ opendebate.processFetchedQuestions({
       "x": -80.5392, 
       "latest_vote": "2013-08-10T02:14:46", 
       "id": 16206470, 
-      "trending_score": 11.125
+      "trending_score": 11.166666666666666
     }, 
     {
       "city": "Kerrville", 
@@ -14154,7 +14154,7 @@ opendebate.processFetchedQuestions({
       "x": -80.5392, 
       "latest_vote": "2013-08-10T02:13:21", 
       "id": 16206139, 
-      "trending_score": 4.5
+      "trending_score": 3.0833333333333335
     }, 
     {
       "city": "Saratoga Springs", 
@@ -14943,16 +14943,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
       "district": "MA_01", 
       "created": "2013-08-06T20:10:21", 
-      "state_votes": 37, 
-      "votes": 434, 
+      "state_votes": 38, 
+      "votes": 435, 
       "district_votes": 12, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.204, 
       "x": -72.6301, 
-      "latest_vote": "2013-08-10T02:13:57", 
+      "latest_vote": "2013-08-10T02:50:37", 
       "id": 16203676, 
-      "trending_score": 4.5125
+      "trending_score": 4.757142857142857
     }, 
     {
       "city": "Gloucester", 
@@ -15579,7 +15579,7 @@ opendebate.processFetchedQuestions({
       "x": -72.7291, 
       "latest_vote": "2013-08-10T01:54:34", 
       "id": 16201159, 
-      "trending_score": 2.6666666666666665
+      "trending_score": 2.7
     }, 
     {
       "city": "Saint Cloud", 
@@ -23531,16 +23531,16 @@ opendebate.processFetchedQuestions({
       "submission": "Would you support a ban on Congresspersons accepting jobs as corporate lobbyists for at least ten years after leaving Congress?", 
       "district": "NM_01", 
       "created": "2013-08-05T17:49:19", 
-      "state_votes": 40, 
-      "votes": 579, 
+      "state_votes": 41, 
+      "votes": 580, 
       "district_votes": 13, 
       "state": "NM", 
       "iface": "question", 
       "y": 35.0723, 
       "x": -106.578, 
-      "latest_vote": "2013-08-10T01:54:00", 
+      "latest_vote": "2013-08-10T02:50:26", 
       "id": 16178177, 
-      "trending_score": 6.611111111111111
+      "trending_score": 7.111111111111111
     }, 
     {
       "city": "San Antonio", 
@@ -24414,7 +24414,7 @@ opendebate.processFetchedQuestions({
       "x": -110.829, 
       "latest_vote": "2013-08-10T01:25:03", 
       "id": 16176673, 
-      "trending_score": 4.25
+      "trending_score": 4.5
     }, 
     {
       "city": "Idaho Falls", 
@@ -24528,7 +24528,7 @@ opendebate.processFetchedQuestions({
       "x": -111.75, 
       "latest_vote": "2013-08-10T02:14:23", 
       "id": 16176653, 
-      "trending_score": 3.5
+      "trending_score": 3.75
     }, 
     {
       "city": "Seattle", 
@@ -25725,7 +25725,7 @@ opendebate.processFetchedQuestions({
       "x": -103.032, 
       "latest_vote": "2013-08-10T00:38:53", 
       "id": 16175570, 
-      "trending_score": 3.111111111111111
+      "trending_score": 3.125
     }, 
     {
       "city": "Mountlake Terrace", 
@@ -25792,16 +25792,16 @@ opendebate.processFetchedQuestions({
       "submission": "Why is it that Halliburton only gets a $200K fine for destroying evidence concerning the Gulf oil spill when if you make a copy of a DVD you get a $250K fine and up to 5 years in prison?", 
       "district": "WA_07", 
       "created": "2013-08-05T00:11:21", 
-      "state_votes": 48, 
-      "votes": 374, 
+      "state_votes": 49, 
+      "votes": 375, 
       "district_votes": 9, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.6327, 
       "x": -122.322, 
-      "latest_vote": "2013-08-10T01:30:03", 
+      "latest_vote": "2013-08-10T02:50:18", 
       "id": 16175493, 
-      "trending_score": 5.25
+      "trending_score": 6.25
     }, 
     {
       "city": "Seattle", 
@@ -26001,16 +26001,16 @@ opendebate.processFetchedQuestions({
       "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
       "district": "CO_01", 
       "created": "2013-08-04T22:24:13", 
-      "state_votes": 37, 
-      "votes": 482, 
+      "state_votes": 38, 
+      "votes": 483, 
       "district_votes": 10, 
       "state": "CO", 
       "iface": "question", 
       "y": 39.7285, 
       "x": -104.954, 
-      "latest_vote": "2013-08-10T02:11:34", 
+      "latest_vote": "2013-08-10T02:50:43", 
       "id": 16175230, 
-      "trending_score": 11.7
+      "trending_score": 12.2
     }, 
     {
       "city": "Seal Rock", 
@@ -26542,7 +26542,7 @@ opendebate.processFetchedQuestions({
       "x": -112.176, 
       "latest_vote": "2013-08-10T01:47:37", 
       "id": 16174492, 
-      "trending_score": 5.833333333333333
+      "trending_score": 3.8333333333333335
     }, 
     {
       "city": "Federal Way", 
@@ -27055,7 +27055,7 @@ opendebate.processFetchedQuestions({
       "x": -91.7189, 
       "latest_vote": "2013-08-10T01:29:31", 
       "id": 16174109, 
-      "trending_score": 5.166666666666667
+      "trending_score": 2.5
     }, 
     {
       "city": "Baraboo", 
@@ -27084,16 +27084,16 @@ opendebate.processFetchedQuestions({
       "submission": "Why don't we change the lobbying rules so that we do not have a system that legalizes bribery, and why do we not reform the filibuster so congress does not have an excuse to continue doing nothing ?", 
       "district": "OR_05", 
       "created": "2013-08-04T15:18:55", 
-      "state_votes": 50, 
-      "votes": 438, 
+      "state_votes": 51, 
+      "votes": 439, 
       "district_votes": 8, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.6898, 
       "x": -123.884, 
-      "latest_vote": "2013-08-10T01:42:41", 
+      "latest_vote": "2013-08-10T02:50:09", 
       "id": 16174072, 
-      "trending_score": 1.5
+      "trending_score": 2.25
     }, 
     {
       "city": "Cape Girardeau", 
@@ -27188,7 +27188,7 @@ opendebate.processFetchedQuestions({
       "x": -105.043, 
       "latest_vote": "2013-08-10T02:11:50", 
       "id": 16173921, 
-      "trending_score": 4.214285714285714
+      "trending_score": 4.25
     }, 
     {
       "city": "Fort Collins", 
@@ -28822,7 +28822,7 @@ opendebate.processFetchedQuestions({
       "x": -114.294, 
       "latest_vote": "2013-08-10T02:44:57", 
       "id": 16172913, 
-      "trending_score": 14.125
+      "trending_score": 28.055555555555557
     }, 
     {
       "city": "Montegut", 
@@ -28993,7 +28993,7 @@ opendebate.processFetchedQuestions({
       "x": -89.7423, 
       "latest_vote": "2013-08-10T01:39:00", 
       "id": 16172823, 
-      "trending_score": 4.125
+      "trending_score": 1.75
     }, 
     {
       "city": "", 
@@ -29069,7 +29069,7 @@ opendebate.processFetchedQuestions({
       "x": -122.589, 
       "latest_vote": "2013-08-10T02:12:43", 
       "id": 16172765, 
-      "trending_score": 5.041666666666667
+      "trending_score": 5.166666666666667
     }, 
     {
       "city": "Egg Harbor", 
@@ -29164,7 +29164,7 @@ opendebate.processFetchedQuestions({
       "x": -122.811, 
       "latest_vote": "2013-08-10T02:45:07", 
       "id": 16172731, 
-      "trending_score": 26.055555555555557
+      "trending_score": 26.0625
     }, 
     {
       "city": "Chicago", 
@@ -29487,7 +29487,7 @@ opendebate.processFetchedQuestions({
       "x": -93.3713, 
       "latest_vote": "2013-08-10T02:14:58", 
       "id": 16172657, 
-      "trending_score": 3.0
+      "trending_score": 2.65
     }, 
     {
       "city": "Midlothian", 
@@ -29696,7 +29696,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T02:46:26", 
       "id": 16172533, 
-      "trending_score": 10.483333333333334
+      "trending_score": 15.6
     }, 
     {
       "city": "Medford", 
@@ -29753,7 +29753,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1582, 
       "latest_vote": "2013-08-10T02:10:28", 
       "id": 16172303, 
-      "trending_score": 5.854166666666667
+      "trending_score": 8.61111111111111
     }, 
     {
       "city": "Arlington", 
@@ -29829,7 +29829,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2368, 
       "latest_vote": "2013-08-10T02:46:35", 
       "id": 16172281, 
-      "trending_score": 8.520833333333334
+      "trending_score": 12.61111111111111
     }, 
     {
       "city": "Arlington", 
@@ -30285,7 +30285,7 @@ opendebate.processFetchedQuestions({
       "x": -88.4807, 
       "latest_vote": "2013-08-09T23:32:52", 
       "id": 16170105, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Cross Hill", 
