@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Will you protect Social Security And Medicare by not cutting it with the chained CPI for Social Security that has been mentioned.  Also, no cuts to Medicare but closing the donute hole 100% so seniors aren't left fending for themselves to pay full price for their drugs.", 
+      "submission": "Will you stand up to gun lobbyists to support strong measures about gun control or will you shy away from it because it is too hot?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:16:18", 
+      "created": "2013-08-10T04:18:45", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291151, 
-      "question_id": "16175570"
+      "id": 16291155, 
+      "question_id": "16187691"
     }, 
     {
       "city": "San Antonio", 
