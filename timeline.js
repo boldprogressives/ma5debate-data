@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Outlaw the use of \"Private Defense Contractors\". They a nothing more than mercenaries, and as such, are not beholden to the laws and restraints that keep the public safe from official law enforcement.", 
+      "submission": "WHERE DO YOU STAND IN THE FIGHT TO PRESERVE THE SS COLA AS IS AND EXPAND AND GROW SS AS TH HARKIN MEREKLEY PROPOSE", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:02:03", 
+      "created": "2013-08-10T05:03:55", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291782, 
-      "question_id": "16194273"
+      "id": 16291784, 
+      "question_id": "16191242"
     }, 
     {
       "city": "Arlington", 
