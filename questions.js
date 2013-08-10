@@ -30513,7 +30513,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5959, 
       "latest_vote": "2013-08-10T17:46:41", 
       "id": 16172755, 
-      "trending_score": 14.333333333333334
+      "trending_score": 28.125
     }, 
     {
       "city": "Richardson", 
