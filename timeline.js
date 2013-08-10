@@ -6,15 +6,53 @@ opendebate.processTimeline({
       "first_name": "karen", 
       "last_name": "hrenko", 
       "user_id": 1079825, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
       "district": "OH_14", 
-      "created": "2013-08-10T14:41:58", 
+      "created": "2013-08-10T14:43:00", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 41.75, 
       "x": -81.2833, 
-      "id": 16293533, 
-      "question_id": "16172913"
+      "id": 16293547, 
+      "question_id": "16172690"
+    }, 
+    {
+      "city": "Chicago", 
+      "first_name": "Peter", 
+      "last_name": "Moxon", 
+      "user_id": 128965, 
+      "submission": "Will you pledge to vote against the chained CPI", 
+      "district": "IL_07", 
+      "created": "2013-08-10T14:42:23", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "IL", 
+      "iface": "timeline_question", 
+      "y": 41.899, 
+      "x": -87.6365, 
+      "latest_vote": null, 
+      "id": 16293538, 
+      "trending_score": 0.5
+    }, 
+    {
+      "city": "Chicago", 
+      "first_name": "Peter", 
+      "last_name": "Moxon", 
+      "user_id": 128965, 
+      "submission": "Will you pledge to vote against the chained CPI", 
+      "district": "IL_07", 
+      "created": "2013-08-10T14:42:19", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "IL", 
+      "iface": "timeline_question", 
+      "y": 41.899, 
+      "x": -87.6365, 
+      "latest_vote": null, 
+      "id": 16293534, 
+      "trending_score": 0.5
     }, 
     {
       "city": "Bloomington", 
@@ -45,21 +83,6 @@ opendebate.processTimeline({
       "x": -87.7037, 
       "id": 16293520, 
       "question_id": "16175230"
-    }, 
-    {
-      "city": "Chicago", 
-      "first_name": "Peter", 
-      "last_name": "Moxon", 
-      "user_id": 128965, 
-      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
-      "district": "IL_07", 
-      "created": "2013-08-10T14:38:29", 
-      "state": "IL", 
-      "iface": "timeline_vote", 
-      "y": 41.899, 
-      "x": -87.6365, 
-      "id": 16293502, 
-      "question_id": "16203676"
     }, 
     {
       "city": "Wilmington", 
@@ -293,21 +316,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16293289, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Belmont", 
-      "first_name": "Georges", 
-      "last_name": "Brun-Cottan", 
-      "user_id": 401599, 
-      "submission": "Would you support public financing of all political campaigns?", 
-      "district": "MA_05", 
-      "created": "2013-08-10T14:09:46", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3942, 
-      "x": -71.1802, 
-      "id": 16293283, 
-      "question_id": "16200039"
     }
   ]
 });
