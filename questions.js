@@ -5205,7 +5205,7 @@ opendebate.processFetchedQuestions({
       "x": -110.888, 
       "latest_vote": "2013-08-10T12:30:40", 
       "id": 16247083, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Loudon", 
@@ -30513,7 +30513,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5959, 
       "latest_vote": "2013-08-10T17:19:46", 
       "id": 16172755, 
-      "trending_score": 10.5
+      "trending_score": 8.5
     }, 
     {
       "city": "Richardson", 
