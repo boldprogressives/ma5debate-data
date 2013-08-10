@@ -2,19 +2,53 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Indian Orchard", 
+      "first_name": "Miguel", 
+      "last_name": "Soto", 
+      "user_id": 1716772, 
+      "submission": "To Katherine , where do you stand with representing Americans being fired with no cause, violating every right established with the law of the land such as due process? Are you going to protect, and advocate for the citizens being violated, in our Commonwealth?", 
+      "district": "MA_01", 
+      "created": "2013-08-10T15:36:57", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.151, 
+      "x": -72.5065, 
+      "latest_vote": null, 
+      "id": 16294061, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Boynton Beach", 
       "first_name": "Denise", 
       "last_name": "Black", 
       "user_id": 61674, 
-      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
+      "submission": "Would you support a ban on Congresspersons accepting jobs as corporate lobbyists for at least ten years after leaving Congress?", 
       "district": "FL_22", 
-      "created": "2013-08-10T15:35:53", 
+      "created": "2013-08-10T15:36:53", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 26.5242, 
       "x": -80.1073, 
-      "id": 16294051, 
-      "question_id": "16175634"
+      "id": 16294060, 
+      "question_id": "16178177"
+    }, 
+    {
+      "city": "Dayton", 
+      "first_name": "Betty L.", 
+      "last_name": "Williams", 
+      "user_id": 299113, 
+      "submission": "Serving in Congress is not a career.  Will you vote for term limits?", 
+      "district": "OH_10", 
+      "created": "2013-08-10T15:36:29", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 39.7876, 
+      "x": -84.2106, 
+      "id": 16294055, 
+      "question_id": "16173323"
     }, 
     {
       "city": "Boynton Beach", 
@@ -30,21 +64,6 @@ opendebate.processTimeline({
       "x": -80.1768, 
       "id": 16294047, 
       "question_id": "16175740"
-    }, 
-    {
-      "city": "Dayton", 
-      "first_name": "Betty L.", 
-      "last_name": "Williams", 
-      "user_id": 299113, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "OH_10", 
-      "created": "2013-08-10T15:31:15", 
-      "state": "OH", 
-      "iface": "timeline_vote", 
-      "y": 39.7876, 
-      "x": -84.2106, 
-      "id": 16293963, 
-      "question_id": "16172777"
     }, 
     {
       "city": "Arlington", 
@@ -305,21 +324,6 @@ opendebate.processTimeline({
       "x": -122.041, 
       "id": 16293762, 
       "question_id": "16172777"
-    }, 
-    {
-      "city": "Bristol", 
-      "first_name": "Marcia", 
-      "last_name": "Miller", 
-      "user_id": 1733720, 
-      "submission": "What will you do to overturn Citizen's United?", 
-      "district": "RI_01", 
-      "created": "2013-08-10T14:59:54", 
-      "state": "RI", 
-      "iface": "timeline_vote", 
-      "y": 41.6875, 
-      "x": -71.2701, 
-      "id": 16293760, 
-      "question_id": "16172765"
     }
   ]
 });

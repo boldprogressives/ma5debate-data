@@ -6,6 +6,25 @@ opendebate.processFetchedQuestions({
       "first_name": "Miguel", 
       "last_name": "Soto", 
       "user_id": 1716772, 
+      "submission": "To Katherine , where do you stand with representing Americans being fired with no cause, violating every right established with the law of the land such as due process? Are you going to protect, and advocate for the citizens being violated, in our Commonwealth?", 
+      "district": "MA_01", 
+      "created": "2013-08-10T15:36:57", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.151, 
+      "x": -72.5065, 
+      "latest_vote": null, 
+      "id": 16294061, 
+      "trending_score": 0.5
+    }, 
+    {
+      "city": "Indian Orchard", 
+      "first_name": "Miguel", 
+      "last_name": "Soto", 
+      "user_id": 1716772, 
       "submission": "What are you all going to do with the systemic problem we have today with the foreclosure problem that are displacing every families that is the make up of every communities? Furthermore, are being forced out of their homes because of this economical problem and the bad practices of banks, \"Which they started\" to not give them a modification and keep them as tenants to keep their families together? \"Additionally not evict!!", 
       "district": "MA_01", 
       "created": "2013-08-10T15:15:30", 
@@ -14336,15 +14355,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_46", 
       "created": "2013-08-07T00:12:33", 
       "state_votes": 32, 
-      "votes": 553, 
+      "votes": 554, 
       "district_votes": 10, 
       "state": "CA", 
       "iface": "question", 
       "y": 33.8428, 
       "x": -117.955, 
-      "latest_vote": "2013-08-10T15:09:36", 
+      "latest_vote": "2013-08-10T15:36:22", 
       "id": 16210264, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Hemet", 
@@ -15476,15 +15495,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_02", 
       "created": "2013-08-06T21:20:24", 
       "state_votes": 23, 
-      "votes": 588, 
+      "votes": 589, 
       "district_votes": 7, 
       "state": "CA", 
       "iface": "question", 
       "y": 40.8726, 
       "x": -124.071, 
-      "latest_vote": "2013-08-10T15:09:24", 
+      "latest_vote": "2013-08-10T15:36:38", 
       "id": 16205834, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Addison", 
@@ -24710,15 +24729,15 @@ opendebate.processFetchedQuestions({
       "district": "NM_01", 
       "created": "2013-08-05T17:49:19", 
       "state_votes": 42, 
-      "votes": 597, 
+      "votes": 598, 
       "district_votes": 13, 
       "state": "NM", 
       "iface": "question", 
       "y": 35.0723, 
       "x": -106.578, 
-      "latest_vote": "2013-08-10T15:09:05", 
+      "latest_vote": "2013-08-10T15:36:53", 
       "id": 16178177, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "San Antonio", 
@@ -26979,7 +26998,7 @@ opendebate.processFetchedQuestions({
       "x": -122.322, 
       "latest_vote": "2013-08-10T14:35:30", 
       "id": 16175493, 
-      "trending_score": 4.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Seattle", 
@@ -28955,7 +28974,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-10T15:19:57", 
       "id": 16173335, 
-      "trending_score": 8.5
+      "trending_score": 6.166666666666667
     }, 
     {
       "city": "Evansville", 
@@ -29023,15 +29042,15 @@ opendebate.processFetchedQuestions({
       "district": "TN_02", 
       "created": "2013-08-04T02:02:46", 
       "state_votes": 23, 
-      "votes": 331, 
+      "votes": 332, 
       "district_votes": 3, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.8311, 
       "x": -84.0482, 
-      "latest_vote": "2013-08-10T15:13:34", 
+      "latest_vote": "2013-08-10T15:36:29", 
       "id": 16173323, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Bensenville", 
@@ -29042,15 +29061,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_08", 
       "created": "2013-08-04T02:02:13", 
       "state_votes": 61, 
-      "votes": 512, 
+      "votes": 513, 
       "district_votes": 14, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.9553, 
       "x": -87.9488, 
-      "latest_vote": "2013-08-10T06:12:59", 
+      "latest_vote": "2013-08-10T15:36:01", 
       "id": 16173320, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Bensenville", 
@@ -29259,7 +29278,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T15:33:04", 
       "id": 16173259, 
-      "trending_score": 10.5
+      "trending_score": 7.5
     }, 
     {
       "city": "Manitowoc", 
@@ -30361,7 +30380,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5544, 
       "latest_vote": "2013-08-10T15:34:52", 
       "id": 16172727, 
-      "trending_score": 7.0
+      "trending_score": 4.75
     }, 
     {
       "city": "Waldport", 
@@ -31007,7 +31026,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2368, 
       "latest_vote": "2013-08-10T15:01:38", 
       "id": 16172281, 
-      "trending_score": 8.5
+      "trending_score": 5.75
     }, 
     {
       "city": "Arlington", 
@@ -31178,7 +31197,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1035, 
       "latest_vote": "2013-08-10T15:34:23", 
       "id": 16172207, 
-      "trending_score": 6.5
+      "trending_score": 4.833333333333334
     }, 
     {
       "city": "Arlington", 
