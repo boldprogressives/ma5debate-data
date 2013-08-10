@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "We all know Social Security is more than solvent. Why is a Democratic administration trying to cut back on benefits when it should be raising them? ", 
+      "submission": "Would you support the reintroduction of the Equal Rights Amendment to establish that, in America, women are recognized as full human beings with full human rights? This would rectify and block all future attempts to reduce women once more to chattel.", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:12:52", 
+      "created": "2013-08-10T05:13:48", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291821, 
-      "question_id": "16176614"
+      "id": 16291824, 
+      "question_id": "16177784"
     }, 
     {
       "city": "Phoenix", 
