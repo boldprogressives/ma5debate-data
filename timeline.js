@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Margaret", 
       "last_name": "Goodwin", 
       "user_id": 1697661, 
-      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
       "district": "OR_05", 
-      "created": "2013-08-10T15:52:01", 
+      "created": "2013-08-10T15:52:13", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 44.8433, 
       "x": -123.186, 
-      "id": 16294182, 
-      "question_id": "16172727"
+      "id": 16294185, 
+      "question_id": "16173210"
     }, 
     {
       "city": "Spokane", 
