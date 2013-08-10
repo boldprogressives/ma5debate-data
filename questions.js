@@ -294,16 +294,16 @@ opendebate.processFetchedQuestions({
       "submission": "Where do you all stand on the Immigration status for the dreamers and those families that are not violators of any law to be able to stay in America, and earn a citizenship, since they have been working and are part of every communities as we speak.", 
       "district": "MA_01", 
       "created": "2013-08-10T14:57:33", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
+      "state_votes": 1, 
+      "votes": 1, 
+      "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.151, 
       "x": -72.5065, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-10T15:25:09", 
       "id": 16293718, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Portland", 
@@ -26979,7 +26979,7 @@ opendebate.processFetchedQuestions({
       "x": -122.322, 
       "latest_vote": "2013-08-10T14:35:30", 
       "id": 16175493, 
-      "trending_score": 8.5
+      "trending_score": 4.5
     }, 
     {
       "city": "Seattle", 
@@ -27777,7 +27777,7 @@ opendebate.processFetchedQuestions({
       "x": -122.298, 
       "latest_vote": "2013-08-10T15:20:28", 
       "id": 16174466, 
-      "trending_score": 10.5
+      "trending_score": 5.5
     }, 
     {
       "city": "Albany", 
@@ -28955,7 +28955,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-10T15:19:57", 
       "id": 16173335, 
-      "trending_score": 16.5
+      "trending_score": 8.5
     }, 
     {
       "city": "Evansville", 
@@ -30361,7 +30361,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5544, 
       "latest_vote": "2013-08-10T15:05:18", 
       "id": 16172727, 
-      "trending_score": 13.25
+      "trending_score": 6.5
     }, 
     {
       "city": "Waldport", 
@@ -31007,7 +31007,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2368, 
       "latest_vote": "2013-08-10T15:01:38", 
       "id": 16172281, 
-      "trending_score": 17.25
+      "trending_score": 8.5
     }, 
     {
       "city": "Arlington", 

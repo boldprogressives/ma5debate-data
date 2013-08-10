@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Colleen", 
       "last_name": "Kirby", 
       "user_id": 188866, 
-      "submission": "Why won't Obama sign the land mine ban?  Every NATO country has signed it.", 
+      "submission": "Where do you all stand on the Immigration status for the dreamers and those families that are not violators of any law to be able to stay in America, and earn a citizenship, since they have been working and are part of every communities as we speak.", 
       "district": "MA_05", 
-      "created": "2013-08-10T15:24:51", 
+      "created": "2013-08-10T15:25:09", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.4207, 
       "x": -71.1582, 
-      "id": 16293934, 
-      "question_id": "16293701"
+      "id": 16293937, 
+      "question_id": "16293718"
     }, 
     {
       "city": "Weston", 
