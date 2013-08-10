@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Gerard Hettinger", 
       "last_name": "", 
       "user_id": 1771618, 
-      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
+      "submission": "Solar would bring in new jobs and the factorys built in this country you could even run street lights, stop and go lights i know it would help with the citys tax base, becouse i build solar heat exchangers for the low income folks and it works becouse my heating bills run 16.00 dollars a month 2 years ago last year 48 dollars a month why would not want that ?", 
       "district": "FL_04", 
-      "created": "2013-08-10T15:56:00", 
+      "created": "2013-08-10T15:56:57", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 30.3629, 
       "x": -81.5819, 
-      "id": 16294238, 
-      "question_id": "16203866"
+      "id": 16294257, 
+      "question_id": "16172866"
     }, 
     {
       "city": "Independence", 
       "first_name": "Margaret", 
       "last_name": "Goodwin", 
       "user_id": 1697661, 
-      "submission": "What are you doing to ensure that all residents have access to a living wage and to help create jobs for those still looking for work, five years after the Great Recession and the weak recovery?", 
+      "submission": "Would you support the reintroduction of the Equal Rights Amendment to establish that, in America, women are recognized as full human beings with full human rights? This would rectify and block all future attempts to reduce women once more to chattel.", 
       "district": "OR_05", 
-      "created": "2013-08-10T15:54:58", 
+      "created": "2013-08-10T15:56:50", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 44.8433, 
       "x": -123.186, 
-      "id": 16294223, 
-      "question_id": "16201159"
+      "id": 16294256, 
+      "question_id": "16177784"
     }, 
     {
       "city": "Spokane", 
