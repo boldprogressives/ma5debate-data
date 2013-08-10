@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "What will you do about gun control and the scare tactics/bullying by the NRA and gun lobbyists?  How will you approach the Right's program of 'divisiveness and culture of fear' that now rips us apart?", 
+      "submission": "Why are so many of our politicians, from top to bottom, allowing themselves to be manipulated by Monsanto. Why can't we get GMO labeling? Why is there no scientific study on the affects of GMO's on the public? Why will none of THESE questions come up?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:20:46", 
+      "created": "2013-08-10T04:21:44", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291164, 
-      "question_id": "16176673"
+      "id": 16291167, 
+      "question_id": "16213508"
     }, 
     {
       "city": "San Antonio", 
