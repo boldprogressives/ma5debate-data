@@ -14762,7 +14762,7 @@ opendebate.processFetchedQuestions({
       "x": -99.16, 
       "latest_vote": "2013-08-10T20:14:55", 
       "id": 16209412, 
-      "trending_score": 1.1666666666666667
+      "trending_score": 1.25
     }, 
     {
       "city": "El Cajon", 
@@ -14781,7 +14781,7 @@ opendebate.processFetchedQuestions({
       "x": -116.908, 
       "latest_vote": "2013-08-10T16:02:03", 
       "id": 16209328, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Pittsburgh", 
@@ -22153,7 +22153,7 @@ opendebate.processFetchedQuestions({
       "x": -71.6172, 
       "latest_vote": "2013-08-10T16:01:36", 
       "id": 16183546, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Long Island City", 
@@ -30247,7 +30247,7 @@ opendebate.processFetchedQuestions({
       "x": -114.294, 
       "latest_vote": "2013-08-10T18:17:33", 
       "id": 16172913, 
-      "trending_score": 2.142857142857143
+      "trending_score": 2.1666666666666665
     }, 
     {
       "city": "Montegut", 
