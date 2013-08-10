@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Would you support the reintroduction of the Equal Rights Amendment to establish that, in America, women are recognized as full human beings with full human rights? This would rectify and block all future attempts to reduce women once more to chattel.", 
+      "submission": "Will you protect and strengthen Social Security?", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:13:48", 
+      "created": "2013-08-10T05:14:55", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291824, 
-      "question_id": "16177784"
+      "id": 16291828, 
+      "question_id": "16175852"
     }, 
     {
       "city": "Phoenix", 
