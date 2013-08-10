@@ -4312,7 +4312,7 @@ opendebate.processFetchedQuestions({
       "x": -122.811, 
       "latest_vote": "2013-08-10T05:25:38", 
       "id": 16248600, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Bremerton", 
@@ -15617,7 +15617,7 @@ opendebate.processFetchedQuestions({
       "x": -70.6862, 
       "latest_vote": "2013-08-10T06:11:33", 
       "id": 16203558, 
-      "trending_score": 0.16666666666666666
+      "trending_score": 0.25
     }, 
     {
       "city": "Holyoke", 
@@ -21469,7 +21469,7 @@ opendebate.processFetchedQuestions({
       "x": -75.7463, 
       "latest_vote": "2013-08-10T11:20:36", 
       "id": 16183415, 
-      "trending_score": 2.1
+      "trending_score": 2.125
     }, 
     {
       "city": "UNIO PIER", 
@@ -22742,7 +22742,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1032, 
       "latest_vote": "2013-08-10T06:26:18", 
       "id": 16181013, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Cathedral City", 
@@ -24186,7 +24186,7 @@ opendebate.processFetchedQuestions({
       "x": -106.578, 
       "latest_vote": "2013-08-10T07:16:28", 
       "id": 16178177, 
-      "trending_score": 2.1
+      "trending_score": 2.125
     }, 
     {
       "city": "San Antonio", 
@@ -26219,7 +26219,7 @@ opendebate.processFetchedQuestions({
       "x": -88.9093, 
       "latest_vote": "2013-08-10T05:55:29", 
       "id": 16175637, 
-      "trending_score": 0.16666666666666666
+      "trending_score": 0.25
     }, 
     {
       "city": "Mount Vernon", 
@@ -26238,7 +26238,7 @@ opendebate.processFetchedQuestions({
       "x": -88.9093, 
       "latest_vote": "2013-08-10T05:25:48", 
       "id": 16175636, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Naples", 
@@ -26542,7 +26542,7 @@ opendebate.processFetchedQuestions({
       "x": -97.281, 
       "latest_vote": "2013-08-10T06:25:18", 
       "id": 16175389, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Llano", 
@@ -26694,7 +26694,7 @@ opendebate.processFetchedQuestions({
       "x": -95.4739, 
       "latest_vote": "2013-08-10T06:25:54", 
       "id": 16175177, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Phoenix", 
@@ -26846,7 +26846,7 @@ opendebate.processFetchedQuestions({
       "x": -124.454, 
       "latest_vote": "2013-08-10T05:25:57", 
       "id": 16174951, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Fort Worth", 
@@ -26884,7 +26884,7 @@ opendebate.processFetchedQuestions({
       "x": -115.141, 
       "latest_vote": "2013-08-10T06:26:13", 
       "id": 16174911, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Gypsum", 
@@ -28727,7 +28727,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T11:07:12", 
       "id": 16173259, 
-      "trending_score": 4.125
+      "trending_score": 4.166666666666667
     }, 
     {
       "city": "Manitowoc", 
@@ -30323,7 +30323,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2368, 
       "latest_vote": "2013-08-10T05:56:16", 
       "id": 16172542, 
-      "trending_score": 0.16666666666666666
+      "trending_score": 0.25
     }, 
     {
       "city": "Cambridge", 
@@ -30361,7 +30361,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1134, 
       "latest_vote": "2013-08-10T05:25:26", 
       "id": 16172530, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Cambridge", 
