@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Indianapolis", 
+      "first_name": "John", 
+      "last_name": "Grady", 
+      "user_id": 1742213, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "IN_07", 
+      "created": "2013-08-10T03:15:44", 
+      "state": "IN", 
+      "iface": "timeline_vote", 
+      "y": 39.8408, 
+      "x": -86.2651, 
+      "id": 16290708, 
+      "question_id": "16173264"
+    }, 
+    {
       "city": "Akron", 
       "first_name": "V J", 
       "last_name": "Armstrong", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -82.3991, 
       "id": 16290520, 
       "question_id": "16203558"
-    }, 
-    {
-      "city": "Mentor", 
-      "first_name": "Susan", 
-      "last_name": "Tercek", 
-      "user_id": 1775716, 
-      "submission": "Will you work to support Elizabeth Warren's efforts to revise Glass-Steagall", 
-      "district": "OH_14", 
-      "created": "2013-08-10T02:17:00", 
-      "state": "OH", 
-      "iface": "timeline_vote", 
-      "y": 41.7226, 
-      "x": -81.3565, 
-      "id": 16290514, 
-      "question_id": "16265543"
     }
   ]
 });
