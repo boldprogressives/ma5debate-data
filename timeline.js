@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "North Bend", 
+      "first_name": "Cheryl", 
+      "last_name": "Meyer", 
+      "user_id": 795081, 
+      "submission": "What will you do to overturn Citizen's United?", 
+      "district": "WA_08", 
+      "created": "2013-08-10T14:22:59", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 47.4752, 
+      "x": -121.757, 
+      "id": 16293371, 
+      "question_id": "16172765"
+    }, 
+    {
+      "city": "Belton", 
+      "first_name": "Rt Rev John T", 
+      "last_name": "Stone, D. D (Ret.)", 
+      "user_id": 1776973, 
+      "submission": "What, specifically, would you do to protect the right to vote for all? Please address specifically a new Voting Rights Act and the concept of a paper ballot that can be verified by the voter.", 
+      "district": "SC_03", 
+      "created": "2013-08-10T14:22:36", 
+      "state": "SC", 
+      "iface": "timeline_vote", 
+      "y": 34.5172, 
+      "x": -82.5016, 
+      "id": 16293368, 
+      "question_id": "16207107"
+    }, 
+    {
       "city": "Wakefield", 
       "first_name": "Carol and Robert", 
       "last_name": "Caverly-Paxton", 
@@ -15,36 +45,6 @@ opendebate.processTimeline({
       "x": -71.0697, 
       "id": 16293360, 
       "question_id": "16182122"
-    }, 
-    {
-      "city": "North Bend", 
-      "first_name": "Cheryl", 
-      "last_name": "Meyer", 
-      "user_id": 795081, 
-      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
-      "district": "WA_08", 
-      "created": "2013-08-10T14:21:57", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 47.4752, 
-      "x": -121.757, 
-      "id": 16293359, 
-      "question_id": "16173210"
-    }, 
-    {
-      "city": "Belton", 
-      "first_name": "Rt Rev John T", 
-      "last_name": "Stone, D. D (Ret.)", 
-      "user_id": 1776973, 
-      "submission": "Would you support Medicare paying for dental care?", 
-      "district": "SC_03", 
-      "created": "2013-08-10T14:21:50", 
-      "state": "SC", 
-      "iface": "timeline_vote", 
-      "y": 34.5172, 
-      "x": -82.5016, 
-      "id": 16293356, 
-      "question_id": "16174466"
     }, 
     {
       "city": "San Antonio", 
