@@ -1044,7 +1044,7 @@ opendebate.processFetchedQuestions({
       "x": -80.7233, 
       "latest_vote": "2013-08-10T05:55:33", 
       "id": 16287162, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Winchester", 
@@ -14097,7 +14097,7 @@ opendebate.processFetchedQuestions({
       "x": -79.9232, 
       "latest_vote": "2013-08-10T05:55:49", 
       "id": 16209148, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Litchfield", 
@@ -14211,7 +14211,7 @@ opendebate.processFetchedQuestions({
       "x": -122.906, 
       "latest_vote": "2013-08-10T05:56:06", 
       "id": 16208766, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Lewis Run", 
@@ -18543,7 +18543,7 @@ opendebate.processFetchedQuestions({
       "x": -81.4184, 
       "latest_vote": "2013-08-10T06:22:15", 
       "id": 16191114, 
-      "trending_score": 0.16666666666666666
+      "trending_score": 0.25
     }, 
     {
       "city": "Somerset", 
@@ -20082,7 +20082,7 @@ opendebate.processFetchedQuestions({
       "x": -73.9808, 
       "latest_vote": "2013-08-10T05:55:47", 
       "id": 16186709, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Upper Marlboro", 
@@ -20253,7 +20253,7 @@ opendebate.processFetchedQuestions({
       "x": -82.5085, 
       "latest_vote": "2013-08-10T07:14:16", 
       "id": 16186103, 
-      "trending_score": 0.3333333333333333
+      "trending_score": 0.5
     }, 
     {
       "city": "Bronx", 
@@ -25706,7 +25706,7 @@ opendebate.processFetchedQuestions({
       "x": -104.946, 
       "latest_vote": "2013-08-10T07:15:51", 
       "id": 16176201, 
-      "trending_score": 0.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Albuquerque", 
@@ -26314,7 +26314,7 @@ opendebate.processFetchedQuestions({
       "x": -88.9093, 
       "latest_vote": "2013-08-10T05:55:29", 
       "id": 16175637, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Mount Vernon", 
@@ -26523,7 +26523,7 @@ opendebate.processFetchedQuestions({
       "x": -81.5334, 
       "latest_vote": "2013-08-10T08:40:13", 
       "id": 16175500, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Seattle", 
