@@ -19683,7 +19683,7 @@ opendebate.processFetchedQuestions({
       "x": -73.9199, 
       "latest_vote": "2013-08-10T11:27:12", 
       "id": 16190043, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Dallas", 
@@ -20671,7 +20671,7 @@ opendebate.processFetchedQuestions({
       "x": -93.2245, 
       "latest_vote": "2013-08-10T11:27:23", 
       "id": 16186954, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Decatur", 
