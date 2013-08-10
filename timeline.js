@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Denise", 
       "last_name": "Black", 
       "user_id": 61674, 
-      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
+      "submission": "How do you propose stopping the GOPs continued assault on women's reproductive rights?", 
       "district": "FL_22", 
-      "created": "2013-08-10T15:37:45", 
+      "created": "2013-08-10T15:38:56", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 26.5242, 
       "x": -80.1073, 
-      "id": 16294068, 
-      "question_id": "16173257"
+      "id": 16294084, 
+      "question_id": "16205884"
     }, 
     {
       "city": "Indian Orchard", 
