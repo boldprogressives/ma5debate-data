@@ -6,45 +6,64 @@ opendebate.processTimeline({
       "first_name": "dave", 
       "last_name": "keene", 
       "user_id": 281083, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
       "district": "NY_04", 
-      "created": "2013-08-10T01:02:02", 
+      "created": "2013-08-10T01:03:01", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.652, 
       "x": -73.5882, 
-      "id": 16289388, 
-      "question_id": "16172913"
+      "id": 16289403, 
+      "question_id": "16173320"
     }, 
     {
       "city": "Natick", 
       "first_name": "", 
       "last_name": "", 
       "user_id": 1810399, 
-      "submission": "What are you doing to ensure that all residents have access to a living wage and to help create jobs for those still looking for work, five years after the Great Recession and the weak recovery?", 
+      "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
       "district": "MA_05", 
-      "created": "2013-08-10T01:01:56", 
+      "created": "2013-08-10T01:02:49", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2872, 
       "x": -71.3523, 
-      "id": 16289386, 
-      "question_id": "16201159"
+      "id": 16289400, 
+      "question_id": "16172542"
     }, 
     {
       "city": "El Prado", 
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Do you oppose the NSA spying or the Patriot Act?  How do you feel about Ed Snowden and Bradley Manning?", 
+      "submission": "Do you support legislation to reinstate Section 4 of the Voting Rights Act with an updated coverage formula? ", 
       "district": "NM_03", 
-      "created": "2013-08-10T01:01:46", 
+      "created": "2013-08-10T01:02:43", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16289385, 
-      "question_id": "16182142"
+      "id": 16289397, 
+      "question_id": "16181014"
+    }, 
+    {
+      "city": "Benicia", 
+      "first_name": "John", 
+      "last_name": "O'Hern", 
+      "user_id": 135099, 
+      "submission": "Will you support a draft Elizabeth Warren for President in 2016?", 
+      "district": "CA_05", 
+      "created": "2013-08-10T01:02:13", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "CA", 
+      "iface": "timeline_question", 
+      "y": 38.0692, 
+      "x": -122.164, 
+      "latest_vote": null, 
+      "id": 16289392, 
+      "trending_score": 0.5
     }, 
     {
       "city": "Manassas", 
@@ -289,21 +308,6 @@ opendebate.processTimeline({
       "x": -73.9803, 
       "id": 16288952, 
       "question_id": "16201159"
-    }, 
-    {
-      "city": "Norfolk", 
-      "first_name": "Kasey", 
-      "last_name": "Oliver", 
-      "user_id": 1644731, 
-      "submission": "Would you support reforming the Bankruptcy laws to allow for student loans to be able to be discharged?", 
-      "district": "VA_02", 
-      "created": "2013-08-10T00:24:09", 
-      "state": "VA", 
-      "iface": "timeline_vote", 
-      "y": 36.9459, 
-      "x": -76.2535, 
-      "id": 16288921, 
-      "question_id": "16241391"
     }
   ]
 });
