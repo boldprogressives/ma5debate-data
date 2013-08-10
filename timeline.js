@@ -2,6 +2,40 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Reno", 
+      "first_name": "Tim", 
+      "last_name": "Sanders", 
+      "user_id": 974978, 
+      "submission": "will you pledge to oppose Any cuts to social Security or Medicare?", 
+      "district": "NV_02", 
+      "created": "2013-08-10T01:51:47", 
+      "state": "NV", 
+      "iface": "timeline_vote", 
+      "y": 39.7704, 
+      "x": -119.617, 
+      "id": 16289944, 
+      "question_id": "16185364"
+    }, 
+    {
+      "city": "El Paso", 
+      "first_name": "GAry", 
+      "last_name": "Petz", 
+      "user_id": 603382, 
+      "submission": "will help to bring Majeruana down from schedule 1to something lower,even legalize it?", 
+      "district": "TX_16", 
+      "created": "2013-08-10T01:51:39", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "TX", 
+      "iface": "timeline_question", 
+      "y": 31.8576, 
+      "x": -106.438, 
+      "latest_vote": null, 
+      "id": 16289937, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Cumming", 
       "first_name": "R. Gwen", 
       "last_name": "Smith Minniti", 
@@ -45,21 +79,6 @@ opendebate.processTimeline({
       "x": -73.9703, 
       "id": 16289880, 
       "question_id": "16206983"
-    }, 
-    {
-      "city": "Reno", 
-      "first_name": "Tim", 
-      "last_name": "Sanders", 
-      "user_id": 974978, 
-      "submission": "Will you make it your highest priority to prosecute the bankers who brought about the financial crisis and force them to pay back the billions they stole from us as well as confining them to long prison terms?", 
-      "district": "NV_02", 
-      "created": "2013-08-10T01:49:58", 
-      "state": "NV", 
-      "iface": "timeline_vote", 
-      "y": 39.7704, 
-      "x": -119.617, 
-      "id": 16289877, 
-      "question_id": "16176917"
     }, 
     {
       "city": "Marathon", 
@@ -285,21 +304,6 @@ opendebate.processTimeline({
       "x": -103.717, 
       "id": 16289546, 
       "question_id": "16258323"
-    }, 
-    {
-      "city": "Port Townsend", 
-      "first_name": "Susan", 
-      "last_name": "Marett", 
-      "user_id": 188573, 
-      "submission": "What will you do to ensure that all Americans have access to the voting booth and what will you do to get money out of our elections so that we all have an equal voice?", 
-      "district": "WA_06", 
-      "created": "2013-08-10T01:14:38", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 48.1167, 
-      "x": -122.783, 
-      "id": 16289542, 
-      "question_id": "16205834"
     }
   ]
 });
