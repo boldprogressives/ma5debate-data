@@ -2,6 +2,25 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Palm Bay", 
+      "first_name": "WALTER", 
+      "last_name": "CONNELLY", 
+      "user_id": 1101023, 
+      "submission": "YOU YOU BE WILLING TO INTRODUCE A BILL THAT PREVENTS ANY SITTING POLITICIAN ANY TYPE OF SUBSIDIES FOR HOLDINGS THEY MAY HAVE ?", 
+      "district": "FL_08", 
+      "created": "2013-08-10T14:44:47", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "FL", 
+      "iface": "question", 
+      "y": 28.0155, 
+      "x": -80.6691, 
+      "latest_vote": null, 
+      "id": 16293565, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Chicago", 
       "first_name": "Peter", 
       "last_name": "Moxon", 
@@ -1853,15 +1872,15 @@ opendebate.processFetchedQuestions({
       "district": "NJ_06", 
       "created": "2013-08-09T14:07:00", 
       "state_votes": 0, 
-      "votes": 5, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "NJ", 
       "iface": "question", 
       "y": 40.418, 
       "x": -74.0881, 
-      "latest_vote": "2013-08-10T14:21:52", 
+      "latest_vote": "2013-08-10T14:44:20", 
       "id": 16275222, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Folcroft", 
@@ -22620,15 +22639,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-06T13:36:44", 
       "state_votes": 14, 
-      "votes": 151, 
+      "votes": 152, 
       "district_votes": 3, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4213, 
       "x": -71.1134, 
-      "latest_vote": "2013-08-10T14:36:29", 
+      "latest_vote": "2013-08-10T14:44:50", 
       "id": 16181276, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Arlington", 
