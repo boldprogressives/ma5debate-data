@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Will you support responsible reform among the big banks - never too big to FAIL, never too big to JAIL, and always too big to BAIL?", 
+      "submission": "Are you willing to Repeal the Patriot Act and revamp the NDAA to protect our right to privacy?", 
       "district": "NM_03", 
-      "created": "2013-08-10T00:25:00", 
+      "created": "2013-08-10T00:26:01", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16288928, 
-      "question_id": "16248409"
+      "id": 16288946, 
+      "question_id": "16245281"
     }, 
     {
       "city": "New York", 
       "first_name": "Katie", 
       "last_name": "Kingston", 
       "user_id": 656169, 
-      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
+      "submission": "Would you support a living wage law that would force corporations, like Wal-Mart, whose Walton family owns more wealth than 40% of all Americans, to pay  living wages to all of their workers?", 
       "district": "NY_12", 
-      "created": "2013-08-10T00:24:48", 
+      "created": "2013-08-10T00:26:00", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7246, 
       "x": -73.9803, 
-      "id": 16288925, 
-      "question_id": "16173210"
+      "id": 16288945, 
+      "question_id": "16210264"
     }, 
     {
       "city": "Norfolk", 
