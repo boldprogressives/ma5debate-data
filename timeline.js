@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Sandra", 
       "last_name": "Van Schaack", 
       "user_id": 553291, 
-      "submission": "Would you support a ban on Congresspersons accepting jobs as corporate lobbyists for at least ten years after leaving Congress?", 
+      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
       "district": "NY_24", 
-      "created": "2013-08-10T01:40:58", 
+      "created": "2013-08-10T01:41:58", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 43.4515, 
       "x": -76.5017, 
-      "id": 16289766, 
-      "question_id": "16178177"
+      "id": 16289772, 
+      "question_id": "16172583"
+    }, 
+    {
+      "city": "Cumming", 
+      "first_name": "R. Gwen", 
+      "last_name": "Smith Minniti", 
+      "user_id": 697062, 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "district": "GA_07", 
+      "created": "2013-08-10T01:41:28", 
+      "state": "GA", 
+      "iface": "timeline_vote", 
+      "y": 34.2031, 
+      "x": -84.0743, 
+      "id": 16289770, 
+      "question_id": "16172533"
     }, 
     {
       "city": "Reno", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -119.617, 
       "id": 16289765, 
       "question_id": "16226967"
-    }, 
-    {
-      "city": "Cumming", 
-      "first_name": "R. Gwen", 
-      "last_name": "Smith Minniti", 
-      "user_id": 697062, 
-      "submission": "What will you do to ensure that all Americans have access to the voting booth and what will you do to get money out of our elections so that we all have an equal voice?", 
-      "district": "GA_07", 
-      "created": "2013-08-10T01:40:50", 
-      "state": "GA", 
-      "iface": "timeline_vote", 
-      "y": 34.2031, 
-      "x": -84.0743, 
-      "id": 16289764, 
-      "question_id": "16205834"
     }, 
     {
       "city": "Washington", 
