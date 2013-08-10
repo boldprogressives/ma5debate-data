@@ -29145,7 +29145,7 @@ opendebate.processFetchedQuestions({
       "x": -122.797, 
       "latest_vote": "2013-08-10T06:29:00", 
       "id": 16173172, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "San Antonio", 
@@ -29316,7 +29316,7 @@ opendebate.processFetchedQuestions({
       "x": -93.7569, 
       "latest_vote": "2013-08-10T06:28:43", 
       "id": 16173118, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "West Des Moines", 
