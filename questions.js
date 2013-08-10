@@ -6,6 +6,25 @@ opendebate.processFetchedQuestions({
       "first_name": "Nicholas", 
       "last_name": "Martino", 
       "user_id": 1810196, 
+      "submission": "When are the insane Nazi war criminals in the CIA going to strike again and how many will they kill this time?  Will they kill every single intelligent American who has a conscience and who has looked at the mountain of evidence they left at the WTC crime scene.  Earth to insane Nazi war criminals.  WE KNOW.  We aren't theorizing or guessing.  You didn't get away with it, and if you think you're going to shove it down our throats without bloodshed, you ARE insane.  ", 
+      "district": "NV_03", 
+      "created": "2013-08-10T11:45:12", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NV", 
+      "iface": "question", 
+      "y": 36.0401, 
+      "x": -115.077, 
+      "latest_vote": null, 
+      "id": 16292557, 
+      "trending_score": 0.5
+    }, 
+    {
+      "city": "Henderson", 
+      "first_name": "Nicholas", 
+      "last_name": "Martino", 
+      "user_id": 1810196, 
       "submission": "Is there a timetable for when the Fourth Reich nazi war criminals who have hijacked our government will finally come out from behind the curtains and proudly start goose-stepping to the tune of Deutchland Detchland Uber Alles?  Seriously, how much longer do you assholes think this charade can continue?  You killed 3000 innocent people in cold blood and did it in a manner that anyone with an IQ over 50 could see it and since, you've been spying on everyone just to make sure we won't just hunt you down and kill you, as we should.  Do you think THIS lie is sustainable?  Are you THAT criminally insane?", 
       "district": "NV_03", 
       "created": "2013-08-10T11:40:34", 
@@ -11532,7 +11551,7 @@ opendebate.processFetchedQuestions({
       "x": -71.9954, 
       "latest_vote": "2013-08-10T05:45:40", 
       "id": 16215494, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Merrimack", 
@@ -11551,7 +11570,7 @@ opendebate.processFetchedQuestions({
       "x": -71.517, 
       "latest_vote": "2013-08-10T05:45:18", 
       "id": 16215482, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Merrimack", 
@@ -14667,7 +14686,7 @@ opendebate.processFetchedQuestions({
       "x": -70.2918, 
       "latest_vote": "2013-08-10T07:15:58", 
       "id": 16206983, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "San Francisco", 
@@ -15522,7 +15541,7 @@ opendebate.processFetchedQuestions({
       "x": -80.1743, 
       "latest_vote": "2013-08-10T05:45:38", 
       "id": 16204423, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Peabody", 
@@ -25668,7 +25687,7 @@ opendebate.processFetchedQuestions({
       "x": -104.946, 
       "latest_vote": "2013-08-10T07:15:51", 
       "id": 16176201, 
-      "trending_score": 1.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Albuquerque", 
@@ -26333,7 +26352,7 @@ opendebate.processFetchedQuestions({
       "x": -88.9093, 
       "latest_vote": "2013-08-10T07:15:15", 
       "id": 16175634, 
-      "trending_score": 1.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Mount Vernon", 
@@ -26827,7 +26846,7 @@ opendebate.processFetchedQuestions({
       "x": -89.7297, 
       "latest_vote": "2013-08-10T07:16:10", 
       "id": 16175078, 
-      "trending_score": 1.1666666666666667
+      "trending_score": 0.3333333333333333
     }, 
     {
       "city": "Iuka", 
@@ -28993,7 +29012,7 @@ opendebate.processFetchedQuestions({
       "x": -97.7518, 
       "latest_vote": "2013-08-10T11:08:02", 
       "id": 16173210, 
-      "trending_score": 5.166666666666667
+      "trending_score": 5.25
     }, 
     {
       "city": "Cottonwood", 
@@ -29810,7 +29829,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5959, 
       "latest_vote": "2013-08-10T11:08:49", 
       "id": 16172755, 
-      "trending_score": 4.166666666666667
+      "trending_score": 4.25
     }, 
     {
       "city": "Richardson", 
@@ -30000,7 +30019,7 @@ opendebate.processFetchedQuestions({
       "x": -116.297, 
       "latest_vote": "2013-08-10T11:07:44", 
       "id": 16172697, 
-      "trending_score": 6.125
+      "trending_score": 6.166666666666667
     }, 
     {
       "city": "Holts Summit", 
