@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "How would you reform the minimum wage to make it liveable for employees and sustainable for businesses?", 
+      "submission": "Will you have te courage to stop/stand against the present obstruction in congress?", 
       "district": "AL_07", 
-      "created": "2013-08-10T06:05:51", 
+      "created": "2013-08-10T06:06:36", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292052, 
-      "question_id": "16199816"
+      "id": 16292054, 
+      "question_id": "16200783"
     }, 
     {
       "city": "Las Vegas", 
