@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Will u work towards stopping jobs leaving the USA and stop SS, medicaid cu ts", 
+      "submission": "Will you stop the attack on workers rights to collective bargaining and help support strengthening labor law ", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:08:54", 
+      "created": "2013-08-10T05:09:34", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291802, 
-      "question_id": "16183368"
+      "id": 16291803, 
+      "question_id": "16184056"
     }, 
     {
       "city": "Arlington", 
