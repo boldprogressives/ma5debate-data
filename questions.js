@@ -6,6 +6,25 @@ opendebate.processFetchedQuestions({
       "first_name": "Nicholas", 
       "last_name": "Martino", 
       "user_id": 1810196, 
+      "submission": "Is there a timetable for when the Fourth Reich nazi war criminals who have hijacked our government will finally come out from behind the curtains and proudly start goose-stepping to the tune of Deutchland Detchland Uber Alles?  Seriously, how much longer do you assholes think this charade can continue?  You killed 3000 innocent people in cold blood and did it in a manner that anyone with an IQ over 50 could see it and since, you've been spying on everyone just to make sure we won't just hunt you down and kill you, as we should.  Do you think THIS lie is sustainable?  Are you THAT criminally insane?", 
+      "district": "NV_03", 
+      "created": "2013-08-10T11:40:34", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NV", 
+      "iface": "question", 
+      "y": 36.0401, 
+      "x": -115.077, 
+      "latest_vote": null, 
+      "id": 16292553, 
+      "trending_score": 0.5
+    }, 
+    {
+      "city": "Henderson", 
+      "first_name": "Nicholas", 
+      "last_name": "Martino", 
+      "user_id": 1810196, 
       "submission": "More on the sad state of math and science in this country.  How many liters of cyanide would be needed to execute all 535 members of Congress once they are exposed as Fourth reich Nazi war criminals for their role in perpetuating the coverup of 9/11 and allowing thousands of other young men and women to be duped into enlisting on the basis of the false flag operation.  All told, close to 20,000 Americans have died horrible deaths due to nazi insanity.  Estimates of innocent deaths abroad are about 1 million.  You pices of Nazi filth should be tortured and then killed, but we'll settle for seeing every last one of you executed.", 
       "district": "NV_03", 
       "created": "2013-08-10T11:35:26", 
@@ -5965,7 +5984,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1134, 
       "latest_vote": "2013-08-10T05:40:27", 
       "id": 16237309, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Ridgewood", 
@@ -6307,7 +6326,7 @@ opendebate.processFetchedQuestions({
       "x": -85.2376, 
       "latest_vote": "2013-08-10T05:40:48", 
       "id": 16234792, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "College Park", 
@@ -13850,7 +13869,7 @@ opendebate.processFetchedQuestions({
       "x": -117.955, 
       "latest_vote": "2013-08-10T07:10:58", 
       "id": 16210264, 
-      "trending_score": 1.125
+      "trending_score": 0.25
     }, 
     {
       "city": "Hemet", 
@@ -16966,7 +16985,7 @@ opendebate.processFetchedQuestions({
       "x": -78.9237, 
       "latest_vote": "2013-08-10T07:17:03", 
       "id": 16197620, 
-      "trending_score": 2.125
+      "trending_score": 0.75
     }, 
     {
       "city": "Brevard", 
@@ -26485,7 +26504,7 @@ opendebate.processFetchedQuestions({
       "x": -122.322, 
       "latest_vote": "2013-08-10T11:37:34", 
       "id": 16175493, 
-      "trending_score": 5.25
+      "trending_score": 2.5
     }, 
     {
       "city": "Seattle", 
@@ -29734,7 +29753,7 @@ opendebate.processFetchedQuestions({
       "x": -111.974, 
       "latest_vote": "2013-08-10T11:07:40", 
       "id": 16172777, 
-      "trending_score": 6.125
+      "trending_score": 2.75
     }, 
     {
       "city": "Gladstone", 
@@ -29905,7 +29924,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7109, 
       "latest_vote": "2013-08-10T07:18:17", 
       "id": 16172722, 
-      "trending_score": 2.125
+      "trending_score": 0.75
     }, 
     {
       "city": "Albuquerque", 
