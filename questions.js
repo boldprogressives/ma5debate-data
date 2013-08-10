@@ -15180,7 +15180,7 @@ opendebate.processFetchedQuestions({
       "x": -73.9703, 
       "latest_vote": "2013-08-10T13:45:28", 
       "id": 16207584, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Westland", 
@@ -17441,7 +17441,7 @@ opendebate.processFetchedQuestions({
       "x": -85.8619, 
       "latest_vote": "2013-08-10T16:05:10", 
       "id": 16199725, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Fort Myers", 
@@ -29202,7 +29202,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-10T18:20:08", 
       "id": 16173335, 
-      "trending_score": 7.5
+      "trending_score": 5.666666666666667
     }, 
     {
       "city": "Evansville", 
@@ -29715,7 +29715,7 @@ opendebate.processFetchedQuestions({
       "x": -97.7518, 
       "latest_vote": "2013-08-10T18:21:54", 
       "id": 16173210, 
-      "trending_score": 9.5
+      "trending_score": 7.75
     }, 
     {
       "city": "Cottonwood", 
@@ -30247,7 +30247,7 @@ opendebate.processFetchedQuestions({
       "x": -114.294, 
       "latest_vote": "2013-08-10T18:17:33", 
       "id": 16172913, 
-      "trending_score": 9.375
+      "trending_score": 7.0
     }, 
     {
       "city": "Montegut", 
@@ -30532,7 +30532,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5959, 
       "latest_vote": "2013-08-10T18:20:34", 
       "id": 16172755, 
-      "trending_score": 5.083333333333333
+      "trending_score": 5.7
     }, 
     {
       "city": "Richardson", 
@@ -31159,7 +31159,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1582, 
       "latest_vote": "2013-08-10T18:20:28", 
       "id": 16172303, 
-      "trending_score": 6.233333333333333
+      "trending_score": 5.333333333333333
     }, 
     {
       "city": "Arlington", 
@@ -31235,7 +31235,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2368, 
       "latest_vote": "2013-08-10T18:17:25", 
       "id": 16172281, 
-      "trending_score": 6.833333333333333
+      "trending_score": 5.166666666666667
     }, 
     {
       "city": "Arlington", 
