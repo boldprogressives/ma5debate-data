@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "", 
       "last_name": "", 
       "user_id": 1810448, 
-      "submission": "Please tell us where you stand on protecting the integrity of the Voting Rights Act of 1965. State ways to accomplish this while protecting against voter fraud.", 
+      "submission": "This district contains a lot of NIH and NSF supported research that directly affects our economy. The budgets for these agencies are at their lowest levels in years, and sequestration has made the situation desperate. How will you change that situation?", 
       "district": "MA_05", 
-      "created": "2013-08-10T13:18:48", 
+      "created": "2013-08-10T13:19:51", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.398, 
       "x": -71.2203, 
-      "id": 16292670, 
-      "question_id": "16190891"
+      "id": 16292672, 
+      "question_id": "16172188"
     }, 
     {
       "city": "Clermont", 

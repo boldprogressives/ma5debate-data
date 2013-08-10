@@ -29810,7 +29810,7 @@ opendebate.processFetchedQuestions({
       "x": -111.974, 
       "latest_vote": "2013-08-10T12:37:39", 
       "id": 16172777, 
-      "trending_score": 2.833333333333333
+      "trending_score": 2.5
     }, 
     {
       "city": "Gladstone", 
@@ -30770,16 +30770,16 @@ opendebate.processFetchedQuestions({
       "submission": "This district contains a lot of NIH and NSF supported research that directly affects our economy. The budgets for these agencies are at their lowest levels in years, and sequestration has made the situation desperate. How will you change that situation?", 
       "district": "MA_05", 
       "created": "2013-08-03T16:40:52", 
-      "state_votes": 4, 
-      "votes": 12, 
-      "district_votes": 3, 
+      "state_votes": 5, 
+      "votes": 13, 
+      "district_votes": 4, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4119, 
       "x": -71.1765, 
-      "latest_vote": "2013-08-09T14:23:02", 
+      "latest_vote": "2013-08-10T13:19:51", 
       "id": 16172188, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Revere", 
