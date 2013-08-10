@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Donna", 
       "last_name": "Freeman", 
       "user_id": 1578049, 
-      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
       "district": "MI_10", 
-      "created": "2013-08-10T10:55:45", 
+      "created": "2013-08-10T10:56:55", 
       "state": "MI", 
       "iface": "timeline_vote", 
       "y": 42.6094, 
       "x": -82.8357, 
-      "id": 16292484, 
-      "question_id": "16172727"
+      "id": 16292492, 
+      "question_id": "16172207"
     }, 
     {
       "city": "Killeen", 
