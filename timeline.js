@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Joe", 
       "last_name": "Verdoes", 
       "user_id": 503455, 
-      "submission": "Why are you not speaking up about the police/surveillance state that's been developing in this country, and defending whistle blowers like Snowden and Manning as the heroic citizens they are? ", 
+      "submission": "Will you stand up to gun lobbyists to support strong measures about gun control or will you shy away from it because it is too hot?", 
       "district": "WA_02", 
-      "created": "2013-08-10T03:48:02", 
+      "created": "2013-08-10T03:49:50", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 48.4989, 
       "x": -122.607, 
-      "id": 16290935, 
-      "question_id": "16193888"
+      "id": 16290939, 
+      "question_id": "16187691"
     }, 
     {
       "city": "Greensboro", 
