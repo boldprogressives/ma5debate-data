@@ -17403,7 +17403,7 @@ opendebate.processFetchedQuestions({
       "x": -86.4585, 
       "latest_vote": "2013-08-10T06:04:51", 
       "id": 16194645, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Okemos", 
@@ -17479,7 +17479,7 @@ opendebate.processFetchedQuestions({
       "x": -121.206, 
       "latest_vote": "2013-08-10T06:04:24", 
       "id": 16194324, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Portland", 
