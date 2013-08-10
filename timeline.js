@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Denise", 
       "last_name": "Black", 
       "user_id": 61674, 
-      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "submission": "What will you do to overturn Citizen's United?", 
       "district": "FL_22", 
-      "created": "2013-08-10T15:32:40", 
+      "created": "2013-08-10T15:33:50", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 26.5242, 
       "x": -80.1073, 
-      "id": 16294018, 
-      "question_id": "16172303"
+      "id": 16294028, 
+      "question_id": "16172765"
     }, 
     {
       "city": "Dayton", 

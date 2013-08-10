@@ -29251,15 +29251,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:22:04", 
       "state_votes": 154, 
-      "votes": 1120, 
+      "votes": 1121, 
       "district_votes": 38, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-10T15:23:03", 
+      "latest_vote": "2013-08-10T15:33:04", 
       "id": 16173259, 
-      "trending_score": 10.0
+      "trending_score": 10.5
     }, 
     {
       "city": "Manitowoc", 
@@ -30239,15 +30239,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_05", 
       "created": "2013-08-03T22:30:45", 
       "state_votes": 112, 
-      "votes": 812, 
+      "votes": 813, 
       "district_votes": 31, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.3898, 
       "x": -122.589, 
-      "latest_vote": "2013-08-10T15:20:07", 
+      "latest_vote": "2013-08-10T15:33:50", 
       "id": 16172765, 
-      "trending_score": 11.5
+      "trending_score": 12.5
     }, 
     {
       "city": "Egg Harbor", 
@@ -30334,15 +30334,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:21:20", 
       "state_votes": 123, 
-      "votes": 1070, 
+      "votes": 1071, 
       "district_votes": 25, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.5746, 
       "x": -122.811, 
-      "latest_vote": "2013-08-10T15:20:31", 
+      "latest_vote": "2013-08-10T15:33:12", 
       "id": 16172731, 
-      "trending_score": 10.5
+      "trending_score": 11.5
     }, 
     {
       "city": "Chicago", 
@@ -30467,15 +30467,15 @@ opendebate.processFetchedQuestions({
       "district": "ID_02", 
       "created": "2013-08-03T22:11:15", 
       "state_votes": 102, 
-      "votes": 855, 
+      "votes": 856, 
       "district_votes": 25, 
       "state": "ID", 
       "iface": "question", 
       "y": 43.6302, 
       "x": -116.297, 
-      "latest_vote": "2013-08-10T15:07:30", 
+      "latest_vote": "2013-08-10T15:33:47", 
       "id": 16172697, 
-      "trending_score": 5.833333333333333
+      "trending_score": 6.333333333333333
     }, 
     {
       "city": "Holts Summit", 
@@ -30543,15 +30543,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:09:55", 
       "state_votes": 131, 
-      "votes": 883, 
+      "votes": 884, 
       "district_votes": 35, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.3581, 
       "x": -122.594, 
-      "latest_vote": "2013-08-10T15:07:22", 
+      "latest_vote": "2013-08-10T15:33:40", 
       "id": 16172690, 
-      "trending_score": 6.5
+      "trending_score": 7.5
     }, 
     {
       "city": "Gig Harbor", 
