@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Copperopolis", 
+      "first_name": "Anthony", 
+      "last_name": "Pascual", 
+      "user_id": 1673880, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "CA_04", 
+      "created": "2013-08-10T13:55:01", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 37.9578, 
+      "x": -120.638, 
+      "id": 16292899, 
+      "question_id": "16173264"
+    }, 
+    {
       "city": "Metairie", 
       "first_name": "", 
       "last_name": "", 
@@ -292,25 +307,6 @@ opendebate.processTimeline({
       "x": -70.9328, 
       "latest_vote": null, 
       "id": 16292560, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Henderson", 
-      "first_name": "Nicholas", 
-      "last_name": "Martino", 
-      "user_id": 1810196, 
-      "submission": "When are the insane Nazi war criminals in the CIA going to strike again and how many will they kill this time?  Will they kill every single intelligent American who has a conscience and who has looked at the mountain of evidence they left at the WTC crime scene.  Earth to insane Nazi war criminals.  WE KNOW.  We aren't theorizing or guessing.  You didn't get away with it, and if you think you're going to shove it down our throats without bloodshed, you ARE insane.  ", 
-      "district": "NV_03", 
-      "created": "2013-08-10T11:45:12", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "NV", 
-      "iface": "timeline_question", 
-      "y": 36.0401, 
-      "x": -115.077, 
-      "latest_vote": null, 
-      "id": 16292557, 
       "trending_score": 0.5
     }
   ]

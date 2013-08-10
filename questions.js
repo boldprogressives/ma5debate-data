@@ -28814,15 +28814,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:25:59", 
       "state_votes": 247, 
-      "votes": 1669, 
+      "votes": 1670, 
       "district_votes": 78, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-10T13:38:26", 
+      "latest_vote": "2013-08-10T13:55:01", 
       "id": 16173264, 
-      "trending_score": 4.25
+      "trending_score": 5.25
     }, 
     {
       "city": "Prosper", 
@@ -29802,15 +29802,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
       "state_votes": 269, 
-      "votes": 1824, 
+      "votes": 1825, 
       "district_votes": 73, 
       "state": "MT", 
       "iface": "question", 
       "y": 46.6453, 
       "x": -111.974, 
-      "latest_vote": "2013-08-10T12:37:39", 
+      "latest_vote": "2013-08-10T13:54:45", 
       "id": 16172777, 
-      "trending_score": 4.166666666666667
+      "trending_score": 5.166666666666667
     }, 
     {
       "city": "Gladstone", 
@@ -30638,15 +30638,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:33:11", 
       "state_votes": 267, 
-      "votes": 1723, 
+      "votes": 1724, 
       "district_votes": 73, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-10T13:47:31", 
+      "latest_vote": "2013-08-10T13:54:51", 
       "id": 16172266, 
-      "trending_score": 5.25
+      "trending_score": 6.25
     }, 
     {
       "city": "Cambridge", 
