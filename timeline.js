@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Birmingham", 
+      "first_name": "Dot", 
+      "last_name": "Canup", 
+      "user_id": 1565077, 
+      "submission": "Will you protect the rights of all citizens by immediately reauthorizing the 1965 Voter Rights through up-dating section 3, 4, and 5 to include all states?", 
+      "district": "AL_07", 
+      "created": "2013-08-10T03:54:58", 
+      "state": "AL", 
+      "iface": "timeline_vote", 
+      "y": 33.6391, 
+      "x": -86.6919, 
+      "id": 16290983, 
+      "question_id": "16287162"
+    }, 
+    {
       "city": "Alameda", 
       "first_name": "Elizabeth", 
       "last_name": "White", 
       "user_id": 1691274, 
-      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
       "district": "CA_13", 
-      "created": "2013-08-10T03:54:01", 
+      "created": "2013-08-10T03:54:23", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 37.7606, 
       "x": -122.26, 
-      "id": 16290978, 
-      "question_id": "16172727"
+      "id": 16290981, 
+      "question_id": "16172777"
     }, 
     {
       "city": "Anacortes", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -119.765, 
       "id": 16290618, 
       "question_id": "16172207"
-    }, 
-    {
-      "city": "Middletown", 
-      "first_name": "Matthew Lesser", 
-      "last_name": "Lesser", 
-      "user_id": 617279, 
-      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
-      "district": "CT_03", 
-      "created": "2013-08-10T02:58:50", 
-      "state": "CT", 
-      "iface": "timeline_vote", 
-      "y": 41.549, 
-      "x": -72.6635, 
-      "id": 16290617, 
-      "question_id": "16172690"
     }
   ]
 });
