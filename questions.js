@@ -2,6 +2,25 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Watertown", 
+      "first_name": "Honorable Melvin C.", 
+      "last_name": "Poindexter", 
+      "user_id": 165355, 
+      "submission": "Please give your opinion on the recent 5-4 decision, the Supreme Court of the United States in Shelby County v. Holder delivered a devastating setback to civil rights in America.  The Court ruled today that the coverage formula in Section 4 of the Voting Rights Act is unconstitutional, which essentially halts the federal government\u2019s ability to review or \u201cpre-clear\u201c voting changes under Section 5 unless and until Congress enacts a new coverage formula?", 
+      "district": "MA_05", 
+      "created": "2013-08-10T06:32:17", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.3713, 
+      "x": -71.1804, 
+      "latest_vote": null, 
+      "id": 16292173, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Brooklyn", 
       "first_name": "veronica", 
       "last_name": "stein", 
@@ -702,7 +721,7 @@ opendebate.processFetchedQuestions({
       "x": -80.7233, 
       "latest_vote": "2013-08-10T05:55:33", 
       "id": 16287162, 
-      "trending_score": 2.9666666666666663
+      "trending_score": 4.166666666666667
     }, 
     {
       "city": "Winchester", 
@@ -3924,15 +3943,15 @@ opendebate.processFetchedQuestions({
       "district": "MD_08", 
       "created": "2013-08-09T00:09:28", 
       "state_votes": 1, 
-      "votes": 19, 
+      "votes": 20, 
       "district_votes": 0, 
       "state": "MD", 
       "iface": "question", 
       "y": 39.0468, 
       "x": -77.1197, 
-      "latest_vote": "2013-08-09T22:21:02", 
+      "latest_vote": "2013-08-10T06:32:41", 
       "id": 16249133, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Victorville", 
@@ -8549,7 +8568,7 @@ opendebate.processFetchedQuestions({
       "x": -81.514, 
       "latest_vote": "2013-08-10T00:33:16", 
       "id": 16224262, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Tewksbury", 
@@ -8758,7 +8777,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1582, 
       "latest_vote": "2013-08-10T00:32:46", 
       "id": 16223515, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Lansdale", 
@@ -9567,15 +9586,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_09", 
       "created": "2013-08-07T20:09:00", 
       "state_votes": 1, 
-      "votes": 15, 
+      "votes": 16, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 41.7818, 
       "x": -69.9805, 
-      "latest_vote": "2013-08-09T21:59:32", 
+      "latest_vote": "2013-08-10T06:33:01", 
       "id": 16220936, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Williamstown", 
@@ -14135,7 +14154,7 @@ opendebate.processFetchedQuestions({
       "x": -73.9703, 
       "latest_vote": "2013-08-10T04:07:04", 
       "id": 16207584, 
-      "trending_score": 3.25
+      "trending_score": 3.3333333333333335
     }, 
     {
       "city": "Westland", 
@@ -15218,7 +15237,7 @@ opendebate.processFetchedQuestions({
       "x": -80.1743, 
       "latest_vote": "2013-08-10T05:45:38", 
       "id": 16204423, 
-      "trending_score": 3.3333333333333335
+      "trending_score": 3.5
     }, 
     {
       "city": "Peabody", 
@@ -15826,7 +15845,7 @@ opendebate.processFetchedQuestions({
       "x": -122.074, 
       "latest_vote": "2013-08-10T06:21:16", 
       "id": 16201467, 
-      "trending_score": 6.2
+      "trending_score": 6.25
     }, 
     {
       "city": "Needham Heights", 
@@ -20329,7 +20348,7 @@ opendebate.processFetchedQuestions({
       "x": -108.465, 
       "latest_vote": "2013-08-10T06:21:35", 
       "id": 16185364, 
-      "trending_score": 3.5
+      "trending_score": 3.75
     }, 
     {
       "city": "Boca Raton", 
@@ -24015,7 +24034,7 @@ opendebate.processFetchedQuestions({
       "x": -112.052, 
       "latest_vote": "2013-08-10T04:20:12", 
       "id": 16178048, 
-      "trending_score": 2.125
+      "trending_score": 2.1666666666666665
     }, 
     {
       "city": "Rathdrum", 
@@ -25516,7 +25535,7 @@ opendebate.processFetchedQuestions({
       "x": -84.8666, 
       "latest_vote": "2013-08-10T03:59:31", 
       "id": 16176001, 
-      "trending_score": 1.5
+      "trending_score": 1.5208333333333333
     }, 
     {
       "city": "Little Rock", 
@@ -26409,7 +26428,7 @@ opendebate.processFetchedQuestions({
       "x": -104.954, 
       "latest_vote": "2013-08-10T04:01:02", 
       "id": 16175230, 
-      "trending_score": 3.1666666666666665
+      "trending_score": 3.1875
     }, 
     {
       "city": "Seal Rock", 
@@ -28271,7 +28290,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9488, 
       "latest_vote": "2013-08-10T06:12:59", 
       "id": 16173320, 
-      "trending_score": 2.25
+      "trending_score": 2.3
     }, 
     {
       "city": "Bensenville", 
@@ -28461,7 +28480,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T06:24:52", 
       "id": 16173264, 
-      "trending_score": 3.6166666666666667
+      "trending_score": 3.7
     }, 
     {
       "city": "Prosper", 
@@ -28499,7 +28518,7 @@ opendebate.processFetchedQuestions({
       "x": -87.7111, 
       "latest_vote": "2013-08-10T06:21:12", 
       "id": 16173257, 
-      "trending_score": 5.7
+      "trending_score": 5.75
     }, 
     {
       "city": "Corvallis", 
@@ -29335,7 +29354,7 @@ opendebate.processFetchedQuestions({
       "x": -91.087, 
       "latest_vote": "2013-08-10T05:44:55", 
       "id": 16172866, 
-      "trending_score": 3.8333333333333335
+      "trending_score": 7.125
     }, 
     {
       "city": "Austin", 
@@ -30011,15 +30030,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T21:07:20", 
       "state_votes": 0, 
-      "votes": 2, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4558, 
       "x": -71.215, 
-      "latest_vote": "2013-08-06T20:04:32", 
+      "latest_vote": "2013-08-10T06:32:12", 
       "id": 16172566, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Belmont", 
