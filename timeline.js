@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Carlotta", 
       "last_name": "Hayes", 
       "user_id": 1806880, 
-      "submission": "How will you protect women's rights, especially reproductive rights, against the ongoing efforts to restrict them?", 
+      "submission": "Women's reproduction rights have been eroded by the republican right wing, will you fight for women everywhere to keep their reproduction rights and for women to be treated with dignity and respect?", 
       "district": "MA_08", 
-      "created": "2013-08-10T11:21:54", 
+      "created": "2013-08-10T11:22:48", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2138, 
       "x": -70.9328, 
-      "id": 16292525, 
-      "question_id": "16186923"
+      "id": 16292529, 
+      "question_id": "16178792"
     }, 
     {
       "city": "West Shokan", 

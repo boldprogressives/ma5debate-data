@@ -14154,7 +14154,7 @@ opendebate.processFetchedQuestions({
       "x": -77.0166, 
       "latest_vote": "2013-08-10T06:22:43", 
       "id": 16208638, 
-      "trending_score": 0.5
+      "trending_score": 0.16666666666666666
     }, 
     {
       "city": "Uxbridge", 
@@ -14686,7 +14686,7 @@ opendebate.processFetchedQuestions({
       "x": -70.9045, 
       "latest_vote": "2013-08-10T06:22:54", 
       "id": 16206519, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Melbourne Beach", 
@@ -18448,7 +18448,7 @@ opendebate.processFetchedQuestions({
       "x": -81.4184, 
       "latest_vote": "2013-08-10T06:22:15", 
       "id": 16191114, 
-      "trending_score": 0.5
+      "trending_score": 0.16666666666666666
     }, 
     {
       "city": "Somerset", 
@@ -23816,16 +23816,16 @@ opendebate.processFetchedQuestions({
       "submission": "Women's reproduction rights have been eroded by the republican right wing, will you fight for women everywhere to keep their reproduction rights and for women to be treated with dignity and respect?", 
       "district": "CO_07", 
       "created": "2013-08-05T21:16:01", 
-      "state_votes": 2, 
-      "votes": 21, 
+      "state_votes": 3, 
+      "votes": 22, 
       "district_votes": 0, 
       "state": "CO", 
       "iface": "question", 
       "y": 39.8289, 
       "x": -105.037, 
-      "latest_vote": "2013-08-10T00:06:04", 
+      "latest_vote": "2013-08-10T11:22:48", 
       "id": 16178792, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Westminster", 
@@ -24690,16 +24690,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you declare that you are pro-choice and will fight to keep laws off of womens' bodies?", 
       "district": "OK_05", 
       "created": "2013-08-05T11:00:54", 
-      "state_votes": 5, 
-      "votes": 47, 
+      "state_votes": 6, 
+      "votes": 48, 
       "district_votes": 2, 
       "state": "OK", 
       "iface": "question", 
       "y": 35.4338, 
       "x": -97.5184, 
-      "latest_vote": "2013-08-09T23:28:34", 
+      "latest_vote": "2013-08-10T11:22:13", 
       "id": 16176968, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Mondovi", 
@@ -24870,7 +24870,7 @@ opendebate.processFetchedQuestions({
       "x": -110.829, 
       "latest_vote": "2013-08-10T06:22:16", 
       "id": 16176743, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Portland", 
@@ -25516,7 +25516,7 @@ opendebate.processFetchedQuestions({
       "x": -104.946, 
       "latest_vote": "2013-08-10T06:22:37", 
       "id": 16176283, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Thornton", 
@@ -26381,16 +26381,16 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do SPECIFICALLY about women's issues: reproductive rights, equal pay, violence against women, military violence against women, family caregiving, etc. etc. etc.?", 
       "district": "WA_02", 
       "created": "2013-08-05T00:30:33", 
-      "state_votes": 7, 
-      "votes": 47, 
+      "state_votes": 8, 
+      "votes": 48, 
       "district_votes": 2, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.7918, 
       "x": -122.304, 
-      "latest_vote": "2013-08-10T05:17:51", 
+      "latest_vote": "2013-08-10T11:22:06", 
       "id": 16175552, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Fort Atkinson", 
@@ -27245,7 +27245,7 @@ opendebate.processFetchedQuestions({
       "x": -122.298, 
       "latest_vote": "2013-08-10T11:09:02", 
       "id": 16174466, 
-      "trending_score": 2.0
+      "trending_score": 3.1666666666666665
     }, 
     {
       "city": "Albany", 
@@ -28480,7 +28480,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-10T07:13:32", 
       "id": 16173327, 
-      "trending_score": 0.8333333333333333
+      "trending_score": 1.125
     }, 
     {
       "city": "Louisville", 
@@ -29772,7 +29772,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7109, 
       "latest_vote": "2013-08-10T05:22:53", 
       "id": 16172752, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Vancouver", 
@@ -29943,7 +29943,7 @@ opendebate.processFetchedQuestions({
       "x": -116.297, 
       "latest_vote": "2013-08-10T11:07:44", 
       "id": 16172697, 
-      "trending_score": 3.3333333333333335
+      "trending_score": 6.125
     }, 
     {
       "city": "Holts Summit", 
