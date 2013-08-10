@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Reno", 
+      "first_name": "James", 
+      "last_name": "Watts", 
+      "user_id": 1780795, 
+      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "district": "NV_02", 
+      "created": "2013-08-10T02:58:00", 
+      "state": "NV", 
+      "iface": "timeline_vote", 
+      "y": 39.5007, 
+      "x": -119.765, 
+      "id": 16290590, 
+      "question_id": "16172727"
+    }, 
+    {
       "city": "LOS OSOS", 
       "first_name": "TIM", 
       "last_name": "LYTSELL", 
       "user_id": 1093890, 
-      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
       "district": "CA_24", 
-      "created": "2013-08-10T02:56:55", 
+      "created": "2013-08-10T02:57:54", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 35.3014, 
       "x": -120.825, 
-      "id": 16290579, 
-      "question_id": "16172727"
+      "id": 16290588, 
+      "question_id": "16172777"
     }, 
     {
       "city": "Ashland", 
@@ -297,25 +312,6 @@ opendebate.processTimeline({
       "x": -119.617, 
       "id": 16290090, 
       "question_id": "16287756"
-    }, 
-    {
-      "city": "Arlington", 
-      "first_name": "Jean", 
-      "last_name": "Glassman", 
-      "user_id": 398249, 
-      "submission": "What are your views on the National Security Agency and its sweeping search through and storage of virtually limitless amounts of Americans' e-mail, phone, and text communications?", 
-      "district": "MA_05", 
-      "created": "2013-08-10T01:52:08", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.4119, 
-      "x": -71.1765, 
-      "latest_vote": null, 
-      "id": 16289961, 
-      "trending_score": 0.5
     }
   ]
 });
