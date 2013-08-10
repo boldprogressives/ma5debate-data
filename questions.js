@@ -1044,7 +1044,7 @@ opendebate.processFetchedQuestions({
       "x": -71.0097, 
       "latest_vote": "2013-08-10T04:40:00", 
       "id": 16285357, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Saugus", 
@@ -4787,7 +4787,7 @@ opendebate.processFetchedQuestions({
       "x": -74.4327, 
       "latest_vote": "2013-08-10T04:40:04", 
       "id": 16244119, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Fremont", 
@@ -4958,7 +4958,7 @@ opendebate.processFetchedQuestions({
       "x": -122.046, 
       "latest_vote": "2013-08-10T04:39:35", 
       "id": 16243005, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Lakewood", 
@@ -5338,7 +5338,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7109, 
       "latest_vote": "2013-08-10T04:39:25", 
       "id": 16240772, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Hugo", 
@@ -20975,7 +20975,7 @@ opendebate.processFetchedQuestions({
       "x": -93.48, 
       "latest_vote": "2013-08-10T05:10:13", 
       "id": 16184218, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Lake Orion", 
@@ -21051,7 +21051,7 @@ opendebate.processFetchedQuestions({
       "x": -72.0321, 
       "latest_vote": "2013-08-10T05:09:34", 
       "id": 16184056, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Oak Park", 
@@ -25402,7 +25402,7 @@ opendebate.processFetchedQuestions({
       "x": -89.4981, 
       "latest_vote": "2013-08-10T05:28:00", 
       "id": 16176313, 
-      "trending_score": 1.125
+      "trending_score": 1.1666666666666667
     }, 
     {
       "city": "Denver", 
@@ -28727,7 +28727,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T06:12:18", 
       "id": 16173244, 
-      "trending_score": 4.166666666666667
+      "trending_score": 1.8333333333333333
     }, 
     {
       "city": "Saint Peters", 
@@ -30589,7 +30589,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1035, 
       "latest_vote": "2013-08-10T08:39:53", 
       "id": 16172207, 
-      "trending_score": 1.75
+      "trending_score": 1.8333333333333333
     }, 
     {
       "city": "Arlington", 
