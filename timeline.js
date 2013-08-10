@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Steven", 
       "last_name": "Born", 
       "user_id": 1699500, 
-      "submission": "What will you do to overturn Citizen's United?", 
+      "submission": "Climate change is moving us towards a planet that may not support human life.  Will you make addressing climate change one of your highest priorities?", 
       "district": "NV_03", 
-      "created": "2013-08-10T05:47:50", 
+      "created": "2013-08-10T05:48:57", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 36.1135, 
       "x": -115.273, 
-      "id": 16291978, 
-      "question_id": "16172765"
+      "id": 16291984, 
+      "question_id": "16175078"
     }, 
     {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "How can we have Democracy when corporations pay for political campaigns?", 
+      "submission": "Do you agree that we need to get the corrupting influence of money and fundraising out of politics and out of the electoral process?  How do you plan to address this problem through legislation?", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:46:47", 
+      "created": "2013-08-10T05:48:37", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291973, 
-      "question_id": "16215635"
+      "id": 16291981, 
+      "question_id": "16215377"
     }, 
     {
       "city": "McMinnville", 
