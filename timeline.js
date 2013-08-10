@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Birmingham", 
+      "first_name": "Dot", 
+      "last_name": "Canup", 
+      "user_id": 1565077, 
+      "submission": "Why are we spending BILLIONS in foreign aid at a time when we can't pay our own bills?", 
+      "district": "AL_07", 
+      "created": "2013-08-10T06:25:54", 
+      "state": "AL", 
+      "iface": "timeline_vote", 
+      "y": 33.6391, 
+      "x": -86.6919, 
+      "id": 16292157, 
+      "question_id": "16175177"
+    }, 
+    {
+      "city": "Watertown", 
+      "first_name": "Honorable Melvin C.", 
+      "last_name": "Poindexter", 
+      "user_id": 165355, 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "district": "MA_05", 
+      "created": "2013-08-10T06:25:08", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3713, 
+      "x": -71.1804, 
+      "id": 16292155, 
+      "question_id": "16172755"
+    }, 
+    {
       "city": "Phoenix", 
       "first_name": "Lynne", 
       "last_name": "Vestal", 
@@ -15,36 +45,6 @@ opendebate.processTimeline({
       "x": -112.089, 
       "id": 16292154, 
       "question_id": "16208291"
-    }, 
-    {
-      "city": "Watertown", 
-      "first_name": "Honorable Melvin C.", 
-      "last_name": "Poindexter", 
-      "user_id": 165355, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
-      "district": "MA_05", 
-      "created": "2013-08-10T06:24:52", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3713, 
-      "x": -71.1804, 
-      "id": 16292153, 
-      "question_id": "16173264"
-    }, 
-    {
-      "city": "Birmingham", 
-      "first_name": "Dot", 
-      "last_name": "Canup", 
-      "user_id": 1565077, 
-      "submission": "Obama has caved on so many issues that are important to liberals, how do we hold him accountable/push him to the left?", 
-      "district": "AL_07", 
-      "created": "2013-08-10T06:24:44", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 33.6391, 
-      "x": -86.6919, 
-      "id": 16292152, 
-      "question_id": "16175465"
     }, 
     {
       "city": "Rochester", 
