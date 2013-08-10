@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Birmingham", 
-      "first_name": "Dot", 
-      "last_name": "Canup", 
-      "user_id": 1565077, 
-      "submission": "What can you do to stop the redefining of facts by Republicans?  They use false definitions to make points.  Democrats often sit there with gaping mouths.", 
-      "district": "AL_07", 
-      "created": "2013-08-10T06:16:48", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 33.6391, 
-      "x": -86.6919, 
-      "id": 16292101, 
-      "question_id": "16181904"
-    }, 
-    {
       "city": "Phoenix", 
       "first_name": "Lynne", 
       "last_name": "Vestal", 
       "user_id": 1121128, 
-      "submission": "Will you work to remove the billions of dollars of subsidies and incentives currently going to the fossil fuel industry \u2013 the most profitable industry in the world? ", 
+      "submission": "Why is the U.S. Congress,year after year,taking funds out of the Social Security fund.This is not legal,yet the U.S. Congress Continues this practice.Why ? Martin Boroian", 
       "district": "AZ_09", 
-      "created": "2013-08-10T06:16:43", 
+      "created": "2013-08-10T06:17:45", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 33.559, 
       "x": -112.089, 
-      "id": 16292100, 
-      "question_id": "16226967"
+      "id": 16292105, 
+      "question_id": "16201488"
+    }, 
+    {
+      "city": "Birmingham", 
+      "first_name": "Dot", 
+      "last_name": "Canup", 
+      "user_id": 1565077, 
+      "submission": "What can we do to bring American jobs back to America with decent wages.", 
+      "district": "AL_07", 
+      "created": "2013-08-10T06:17:31", 
+      "state": "AL", 
+      "iface": "timeline_vote", 
+      "y": 33.6391, 
+      "x": -86.6919, 
+      "id": 16292104, 
+      "question_id": "16182857"
     }, 
     {
       "city": "Santa Barbara", 
