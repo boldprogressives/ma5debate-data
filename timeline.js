@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Watertown", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810397, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "MA_05", 
+      "created": "2013-08-10T00:49:57", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3713, 
+      "x": -71.1804, 
+      "id": 16289251, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "El Prado", 
+      "first_name": "Sally", 
+      "last_name": "Phelps", 
+      "user_id": 1567108, 
+      "submission": "Many people are concerned about environmental degradation. At the root of it all is overpopulation, about which few dare talk. What can be done about controlling or reducing population????", 
+      "district": "NM_03", 
+      "created": "2013-08-10T00:49:55", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 36.4486, 
+      "x": -105.575, 
+      "id": 16289250, 
+      "question_id": "16192815"
+    }, 
+    {
+      "city": "San Angelo", 
+      "first_name": "Janna", 
+      "last_name": "Simms", 
+      "user_id": 521772, 
+      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
+      "district": "TX_11", 
+      "created": "2013-08-10T00:49:50", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 31.4678, 
+      "x": -100.436, 
+      "id": 16289249, 
+      "question_id": "16175740"
+    }, 
+    {
       "city": "Philadelphia", 
       "first_name": "Wanda", 
       "last_name": "Seidle", 
@@ -30,36 +75,6 @@ opendebate.processTimeline({
       "x": -122.124, 
       "id": 16289241, 
       "question_id": "16197636"
-    }, 
-    {
-      "city": "El Prado", 
-      "first_name": "Sally", 
-      "last_name": "Phelps", 
-      "user_id": 1567108, 
-      "submission": "Will you support much greater funding for our National Parks?", 
-      "district": "NM_03", 
-      "created": "2013-08-10T00:48:57", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16289240, 
-      "question_id": "16191336"
-    }, 
-    {
-      "city": "San Angelo", 
-      "first_name": "Janna", 
-      "last_name": "Simms", 
-      "user_id": 521772, 
-      "submission": "Would you support a new millennial version of the Civilian Conservation Corps to provide a broad sector of the general public with fulltime employment in municipal, state, and federal parks?", 
-      "district": "TX_11", 
-      "created": "2013-08-10T00:48:40", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 31.4678, 
-      "x": -100.436, 
-      "id": 16289238, 
-      "question_id": "16272358"
     }, 
     {
       "city": "", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -79.2831, 
       "id": 16288849, 
       "question_id": "16172777"
-    }, 
-    {
-      "city": "El Prado", 
-      "first_name": "Janet", 
-      "last_name": "Anderson", 
-      "user_id": 1725594, 
-      "submission": "Will you commit to expanding Social Security & welfare programs  & stop calling it charity? Will you commit to stopping Fravking & commit to true clean energy-air,wind & water? ", 
-      "district": "NM_03", 
-      "created": "2013-08-10T00:13:50", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16288835, 
-      "question_id": "16265947"
     }
   ]
 });
