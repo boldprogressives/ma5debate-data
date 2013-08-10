@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Colleen", 
       "last_name": "Sattelmaier", 
       "user_id": 1691702, 
-      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
+      "submission": "What will you do to get congress to work on a jobs bill instead of wasting taxpayers money trying to repeal The Affordable Healthcare Act?", 
       "district": "OH_14", 
-      "created": "2013-08-10T15:08:02", 
+      "created": "2013-08-10T15:08:39", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 41.5975, 
       "x": -81.0504, 
-      "id": 16293831, 
-      "question_id": "16180998"
+      "id": 16293837, 
+      "question_id": "16203558"
     }, 
     {
       "city": "Indian Orchard", 
