@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "John", 
       "last_name": "Grady", 
       "user_id": 1742213, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
       "district": "IN_07", 
-      "created": "2013-08-10T03:15:44", 
+      "created": "2013-08-10T03:16:58", 
       "state": "IN", 
       "iface": "timeline_vote", 
       "y": 39.8408, 
       "x": -86.2651, 
-      "id": 16290708, 
-      "question_id": "16173264"
+      "id": 16290714, 
+      "question_id": "16173259"
     }, 
     {
       "city": "Akron", 
