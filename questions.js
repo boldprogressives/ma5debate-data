@@ -2659,7 +2659,7 @@ opendebate.processFetchedQuestions({
       "x": -117.717, 
       "latest_vote": "2013-08-10T04:12:35", 
       "id": 16264837, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Claremont", 
@@ -2887,7 +2887,7 @@ opendebate.processFetchedQuestions({
       "x": -88.3469, 
       "latest_vote": "2013-08-10T04:36:11", 
       "id": 16260391, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Columbus", 
@@ -2944,7 +2944,7 @@ opendebate.processFetchedQuestions({
       "x": -122.643, 
       "latest_vote": "2013-08-10T05:36:22", 
       "id": 16259955, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Bellingham", 
@@ -3020,7 +3020,7 @@ opendebate.processFetchedQuestions({
       "x": -70.8985, 
       "latest_vote": "2013-08-10T04:12:26", 
       "id": 16259504, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Waltham", 
@@ -7010,7 +7010,7 @@ opendebate.processFetchedQuestions({
       "x": -122.243, 
       "latest_vote": "2013-08-10T04:12:50", 
       "id": 16229765, 
-      "trending_score": 1.1666666666666667
+      "trending_score": 0.3333333333333333
     }, 
     {
       "city": "Brea", 
@@ -7789,7 +7789,7 @@ opendebate.processFetchedQuestions({
       "x": -71.4467, 
       "latest_vote": "2013-08-10T04:13:12", 
       "id": 16225595, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Watertown", 
@@ -10810,7 +10810,7 @@ opendebate.processFetchedQuestions({
       "x": -73.4093, 
       "latest_vote": "2013-08-10T04:29:12", 
       "id": 16217343, 
-      "trending_score": 1.5
+      "trending_score": 1.25
     }, 
     {
       "city": "Lloyd Harbor", 
@@ -24946,7 +24946,7 @@ opendebate.processFetchedQuestions({
       "x": -110.829, 
       "latest_vote": "2013-08-10T07:13:51", 
       "id": 16176673, 
-      "trending_score": 2.083333333333333
+      "trending_score": 2.3333333333333335
     }, 
     {
       "city": "Idaho Falls", 
@@ -27625,7 +27625,7 @@ opendebate.processFetchedQuestions({
       "x": -123.884, 
       "latest_vote": "2013-08-10T07:12:00", 
       "id": 16174072, 
-      "trending_score": 1.4166666666666665
+      "trending_score": 1.375
     }, 
     {
       "city": "Cape Girardeau", 
@@ -29639,7 +29639,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5959, 
       "latest_vote": "2013-08-10T08:36:33", 
       "id": 16172755, 
-      "trending_score": 1.3571428571428572
+      "trending_score": 1.5
     }, 
     {
       "city": "Richardson", 
