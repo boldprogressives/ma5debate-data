@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Spencer", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810521, 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "district": "MA_02", 
+      "created": "2013-08-10T17:41:48", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2486, 
+      "x": -71.9952, 
+      "id": 16294763, 
+      "question_id": "16172533"
+    }, 
+    {
       "city": "Clearwater", 
       "first_name": "Paul", 
       "last_name": "cadogan", 
@@ -309,21 +324,6 @@ opendebate.processTimeline({
       "x": -105.575, 
       "id": 16294370, 
       "question_id": "16173259"
-    }, 
-    {
-      "city": "Minneapolis", 
-      "first_name": "Jonathan", 
-      "last_name": "Stark", 
-      "user_id": 926443, 
-      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
-      "district": "MN_05", 
-      "created": "2013-08-10T16:17:01", 
-      "state": "MN", 
-      "iface": "timeline_vote", 
-      "y": 44.9033, 
-      "x": -93.2894, 
-      "id": 16294362, 
-      "question_id": "16172303"
     }
   ]
 });

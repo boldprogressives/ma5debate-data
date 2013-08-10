@@ -29487,7 +29487,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T17:38:10", 
       "id": 16173259, 
-      "trending_score": 13.5
+      "trending_score": 9.5
     }, 
     {
       "city": "Manitowoc", 
@@ -30228,7 +30228,7 @@ opendebate.processFetchedQuestions({
       "x": -114.294, 
       "latest_vote": "2013-08-10T17:38:39", 
       "id": 16172913, 
-      "trending_score": 29.25
+      "trending_score": 14.5
     }, 
     {
       "city": "Montegut", 
@@ -31074,16 +31074,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
       "district": "MA_05", 
       "created": "2013-08-03T20:45:26", 
-      "state_votes": 210, 
-      "votes": 1364, 
+      "state_votes": 211, 
+      "votes": 1365, 
       "district_votes": 58, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-10T17:20:09", 
+      "latest_vote": "2013-08-10T17:41:48", 
       "id": 16172533, 
-      "trending_score": 12.5
+      "trending_score": 13.0
     }, 
     {
       "city": "Medford", 
@@ -31140,7 +31140,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1582, 
       "latest_vote": "2013-08-10T17:38:30", 
       "id": 16172303, 
-      "trending_score": 30.166666666666668
+      "trending_score": 14.833333333333334
     }, 
     {
       "city": "Arlington", 
