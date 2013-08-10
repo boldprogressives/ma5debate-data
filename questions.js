@@ -18410,7 +18410,7 @@ opendebate.processFetchedQuestions({
       "x": -86.9261, 
       "latest_vote": "2013-08-10T06:09:01", 
       "id": 16191973, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Middleboro", 
@@ -18790,7 +18790,7 @@ opendebate.processFetchedQuestions({
       "x": -75.2541, 
       "latest_vote": "2013-08-10T06:08:26", 
       "id": 16190319, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Bennington", 
