@@ -911,7 +911,7 @@ opendebate.processFetchedQuestions({
       "x": -70.9328, 
       "latest_vote": "2013-08-10T14:24:17", 
       "id": 16292560, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "East Weymouth", 
