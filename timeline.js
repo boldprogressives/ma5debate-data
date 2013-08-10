@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Will you support responsible reform among the big banks - never too big to FAIL, never too big to JAIL, and always too big to BAIL?", 
+      "submission": "Will you vote to reinstate the FDR Glass Steagall Act?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:40:44", 
+      "created": "2013-08-10T04:41:56", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291416, 
-      "question_id": "16248409"
+      "id": 16291419, 
+      "question_id": "16236353"
     }, 
     {
       "city": "Arlington", 
       "first_name": "", 
       "last_name": "", 
       "user_id": 1809582, 
-      "submission": "All email is read by the NSA. What limits should be placed on the NSA to preserve privacy?", 
+      "submission": "What specific results have you achieved as a legislator that prove: 1. your commitment to social and econ. justice; 2. protection of citizens from harm (name it); 3. sustainable econ./environ./edu?", 
       "district": "MA_05", 
-      "created": "2013-08-10T04:40:00", 
+      "created": "2013-08-10T04:41:42", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.4119, 
       "x": -71.1765, 
-      "id": 16291412, 
-      "question_id": "16285357"
+      "id": 16291417, 
+      "question_id": "16287756"
     }, 
     {
       "city": "Yakima", 
