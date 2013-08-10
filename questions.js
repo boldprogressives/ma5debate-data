@@ -16434,7 +16434,7 @@ opendebate.processFetchedQuestions({
       "x": -80.1836, 
       "latest_vote": "2013-08-10T06:06:07", 
       "id": 16200703, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Chesapeake", 
@@ -16700,7 +16700,7 @@ opendebate.processFetchedQuestions({
       "x": -122.634, 
       "latest_vote": "2013-08-10T06:21:59", 
       "id": 16199816, 
-      "trending_score": 0.16666666666666666
+      "trending_score": 0.25
     }, 
     {
       "city": "Brookhaven", 
