@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Donna", 
       "last_name": "Gleaves", 
       "user_id": 1635501, 
-      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
+      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
       "district": "CA_20", 
-      "created": "2013-08-10T03:21:56", 
+      "created": "2013-08-10T03:22:55", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 36.6757, 
       "x": -121.628, 
-      "id": 16290746, 
-      "question_id": "16175230"
+      "id": 16290757, 
+      "question_id": "16172727"
     }, 
     {
       "city": "Indianapolis", 
       "first_name": "John", 
       "last_name": "Grady", 
       "user_id": 1742213, 
-      "submission": "Would you support replacing \"Obamacare\" with single-payer coverage (Medicare for All)?", 
+      "submission": "What will you do about gun control and the scare tactics/bullying by the NRA and gun lobbyists?  How will you approach the Right's program of 'divisiveness and culture of fear' that now rips us apart?", 
       "district": "IN_07", 
-      "created": "2013-08-10T03:21:43", 
+      "created": "2013-08-10T03:22:50", 
       "state": "IN", 
       "iface": "timeline_vote", 
       "y": 39.8408, 
       "x": -86.2651, 
-      "id": 16290744, 
-      "question_id": "16175729"
+      "id": 16290755, 
+      "question_id": "16176673"
     }, 
     {
       "city": "Winter Park", 
