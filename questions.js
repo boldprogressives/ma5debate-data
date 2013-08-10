@@ -6212,7 +6212,7 @@ opendebate.processFetchedQuestions({
       "x": -80.0109, 
       "latest_vote": "2013-08-10T05:24:19", 
       "id": 16235193, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "San Antonio", 
@@ -8502,16 +8502,16 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do to reduce domestic violence and protect women (and men) who are abused by their spouses or partners?", 
       "district": "CT_04", 
       "created": "2013-08-08T01:59:45", 
-      "state_votes": 1, 
-      "votes": 7, 
+      "state_votes": 2, 
+      "votes": 8, 
       "district_votes": 0, 
       "state": "CT", 
       "iface": "question", 
       "y": 41.2556, 
       "x": -73.2088, 
-      "latest_vote": "2013-08-09T21:31:51", 
+      "latest_vote": "2013-08-10T11:24:34", 
       "id": 16224920, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Trumbull", 
@@ -8692,16 +8692,16 @@ opendebate.processFetchedQuestions({
       "submission": "The republicans have been systematically attacking women's reproductive health care rights. What will you do to fight this unconstitutional rollback of women's privacy that will hurt our poorest women the most?", 
       "district": "MA_04", 
       "created": "2013-08-08T00:28:13", 
-      "state_votes": 3, 
-      "votes": 9, 
+      "state_votes": 4, 
+      "votes": 10, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 41.977, 
       "x": -71.3248, 
-      "latest_vote": "2013-08-10T00:13:50", 
+      "latest_vote": "2013-08-10T11:24:24", 
       "id": 16224538, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Lenox", 
@@ -14211,7 +14211,7 @@ opendebate.processFetchedQuestions({
       "x": -121.081, 
       "latest_vote": "2013-08-10T06:25:03", 
       "id": 16208291, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Olympia", 
@@ -16035,7 +16035,7 @@ opendebate.processFetchedQuestions({
       "x": -82.7314, 
       "latest_vote": "2013-08-10T07:12:40", 
       "id": 16201559, 
-      "trending_score": 1.1666666666666667
+      "trending_score": 1.25
     }, 
     {
       "city": "North Andover", 
@@ -16643,7 +16643,7 @@ opendebate.processFetchedQuestions({
       "x": -85.8619, 
       "latest_vote": "2013-08-10T05:24:59", 
       "id": 16199725, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Fort Myers", 
@@ -17441,7 +17441,7 @@ opendebate.processFetchedQuestions({
       "x": -82.5379, 
       "latest_vote": "2013-08-10T05:25:12", 
       "id": 16194250, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Pequot Lakes", 
@@ -20842,7 +20842,7 @@ opendebate.processFetchedQuestions({
       "x": -92.5211, 
       "latest_vote": "2013-08-10T06:24:16", 
       "id": 16184803, 
-      "trending_score": 0.5
+      "trending_score": 0.16666666666666666
     }, 
     {
       "city": "Saint Louis", 
@@ -24538,16 +24538,16 @@ opendebate.processFetchedQuestions({
       "submission": "How will you fight for women's access to equal, high quality health care? ", 
       "district": "CO_01", 
       "created": "2013-08-05T15:10:38", 
-      "state_votes": 0, 
-      "votes": 10, 
+      "state_votes": 1, 
+      "votes": 11, 
       "district_votes": 0, 
       "state": "CO", 
       "iface": "question", 
       "y": 39.5993, 
       "x": -105.107, 
-      "latest_vote": "2013-08-10T00:06:46", 
+      "latest_vote": "2013-08-10T11:24:13", 
       "id": 16177768, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Lehi", 
@@ -25041,7 +25041,7 @@ opendebate.processFetchedQuestions({
       "x": -110.829, 
       "latest_vote": "2013-08-10T06:24:24", 
       "id": 16176690, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Tucson", 
@@ -26276,7 +26276,7 @@ opendebate.processFetchedQuestions({
       "x": -88.9093, 
       "latest_vote": "2013-08-10T07:15:15", 
       "id": 16175634, 
-      "trending_score": 1.1666666666666667
+      "trending_score": 1.25
     }, 
     {
       "city": "Mount Vernon", 
@@ -26447,7 +26447,7 @@ opendebate.processFetchedQuestions({
       "x": -122.322, 
       "latest_vote": "2013-08-10T11:07:24", 
       "id": 16175493, 
-      "trending_score": 4.166666666666667
+      "trending_score": 4.25
     }, 
     {
       "city": "Seattle", 
@@ -26504,7 +26504,7 @@ opendebate.processFetchedQuestions({
       "x": -97.281, 
       "latest_vote": "2013-08-10T06:24:44", 
       "id": 16175465, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Wichita", 
@@ -26770,7 +26770,7 @@ opendebate.processFetchedQuestions({
       "x": -89.7297, 
       "latest_vote": "2013-08-10T07:16:10", 
       "id": 16175078, 
-      "trending_score": 1.125
+      "trending_score": 1.1666666666666667
     }, 
     {
       "city": "Iuka", 
@@ -28024,7 +28024,7 @@ opendebate.processFetchedQuestions({
       "x": -90.0296, 
       "latest_vote": "2013-08-10T07:13:40", 
       "id": 16173625, 
-      "trending_score": 1.125
+      "trending_score": 1.1666666666666667
     }, 
     {
       "city": "Lubbock", 
@@ -28499,7 +28499,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-10T05:25:06", 
       "id": 16173323, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Bensenville", 
@@ -28708,7 +28708,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T11:08:42", 
       "id": 16173264, 
-      "trending_score": 2.3333333333333335
+      "trending_score": 4.125
     }, 
     {
       "city": "Prosper", 
@@ -28784,7 +28784,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T06:12:18", 
       "id": 16173244, 
-      "trending_score": 0.125
+      "trending_score": 0.16666666666666666
     }, 
     {
       "city": "Saint Peters", 
@@ -29696,7 +29696,7 @@ opendebate.processFetchedQuestions({
       "x": -111.974, 
       "latest_vote": "2013-08-10T11:07:40", 
       "id": 16172777, 
-      "trending_score": 3.3333333333333335
+      "trending_score": 6.125
     }, 
     {
       "city": "Gladstone", 
@@ -29753,7 +29753,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5959, 
       "latest_vote": "2013-08-10T11:08:49", 
       "id": 16172755, 
-      "trending_score": 2.25
+      "trending_score": 4.1
     }, 
     {
       "city": "Richardson", 
@@ -30532,7 +30532,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T11:07:54", 
       "id": 16172266, 
-      "trending_score": 2.8333333333333335
+      "trending_score": 5.125
     }, 
     {
       "city": "Cambridge", 

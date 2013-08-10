@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Carlotta", 
       "last_name": "Hayes", 
       "user_id": 1806880, 
-      "submission": "What will you do to stop the attack on women, & their health? Will you enforce equal pay?", 
+      "submission": "What will you do to reduce domestic violence and protect women (and men) who are abused by their spouses or partners?", 
       "district": "MA_08", 
-      "created": "2013-08-10T11:23:57", 
+      "created": "2013-08-10T11:24:34", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2138, 
       "x": -70.9328, 
-      "id": 16292533, 
-      "question_id": "16177906"
+      "id": 16292537, 
+      "question_id": "16224920"
     }, 
     {
       "city": "West Shokan", 
