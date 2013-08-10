@@ -5566,7 +5566,7 @@ opendebate.processFetchedQuestions({
       "x": -80.8051, 
       "latest_vote": "2013-08-10T14:25:25", 
       "id": 16244527, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Riverbank", 
@@ -27226,7 +27226,7 @@ opendebate.processFetchedQuestions({
       "x": -81.5334, 
       "latest_vote": "2013-08-10T16:47:06", 
       "id": 16175500, 
-      "trending_score": 4.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Seattle", 
