@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Marti", 
       "last_name": "Cockrell", 
       "user_id": 1770371, 
-      "submission": "What is your position on the Keystone XL pipeline and on fracking? Specifically what would you do to stop climate change and move to renewable energy?", 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
       "district": "TX_06", 
-      "created": "2013-08-10T13:45:28", 
+      "created": "2013-08-10T13:46:57", 
       "state": "TX", 
       "iface": "timeline_vote", 
       "y": 32.69, 
       "x": -97.1915, 
-      "id": 16292705, 
-      "question_id": "16207584"
+      "id": 16292710, 
+      "question_id": "16173259"
     }, 
     {
       "city": "Decatur", 

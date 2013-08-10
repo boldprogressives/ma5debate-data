@@ -28833,15 +28833,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:22:04", 
       "state_votes": 154, 
-      "votes": 1106, 
+      "votes": 1107, 
       "district_votes": 38, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-10T13:37:27", 
+      "latest_vote": "2013-08-10T13:46:57", 
       "id": 16173259, 
-      "trending_score": 5.25
+      "trending_score": 6.25
     }, 
     {
       "city": "Manitowoc", 
@@ -29859,15 +29859,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:27:03", 
       "state_votes": 198, 
-      "votes": 1491, 
+      "votes": 1492, 
       "district_votes": 51, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.6267, 
       "x": -87.5959, 
-      "latest_vote": "2013-08-10T13:37:02", 
+      "latest_vote": "2013-08-10T13:46:17", 
       "id": 16172755, 
-      "trending_score": 7.25
+      "trending_score": 8.25
     }, 
     {
       "city": "Richardson", 
@@ -30505,15 +30505,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:52:54", 
       "state_votes": 178, 
-      "votes": 1131, 
+      "votes": 1132, 
       "district_votes": 49, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4207, 
       "x": -71.1582, 
-      "latest_vote": "2013-08-10T13:37:57", 
+      "latest_vote": "2013-08-10T13:46:44", 
       "id": 16172303, 
-      "trending_score": 5.25
+      "trending_score": 6.25
     }, 
     {
       "city": "Arlington", 
@@ -30581,15 +30581,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:42:20", 
       "state_votes": 185, 
-      "votes": 1242, 
+      "votes": 1243, 
       "district_votes": 57, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3699, 
       "x": -71.2368, 
-      "latest_vote": "2013-08-10T13:37:25", 
+      "latest_vote": "2013-08-10T13:46:25", 
       "id": 16172281, 
-      "trending_score": 6.25
+      "trending_score": 7.25
     }, 
     {
       "city": "Arlington", 
