@@ -30475,7 +30475,7 @@ opendebate.processFetchedQuestions({
       "x": -111.974, 
       "latest_vote": "2013-08-10T18:22:08", 
       "id": 16172777, 
-      "trending_score": 16.833333333333332
+      "trending_score": 17.0
     }, 
     {
       "city": "Gladstone", 
