@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Denise", 
       "last_name": "Black", 
       "user_id": 61674, 
-      "submission": "What will you do to overturn Citizen's United?", 
+      "submission": "why are the democrats so afraid to stand up to the republicans..? you stand up to a bully they usually back down.", 
       "district": "FL_22", 
-      "created": "2013-08-10T15:33:50", 
+      "created": "2013-08-10T15:35:01", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 26.5242, 
       "x": -80.1073, 
-      "id": 16294028, 
-      "question_id": "16172765"
+      "id": 16294041, 
+      "question_id": "16172823"
+    }, 
+    {
+      "city": "Boynton Beach", 
+      "first_name": "Ron", 
+      "last_name": "Metcoff", 
+      "user_id": 1680715, 
+      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "district": "FL_21", 
+      "created": "2013-08-10T15:34:52", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 26.5248, 
+      "x": -80.1768, 
+      "id": 16294039, 
+      "question_id": "16172727"
     }, 
     {
       "city": "Dayton", 
@@ -305,25 +320,6 @@ opendebate.processTimeline({
       "x": -71.2701, 
       "id": 16293760, 
       "question_id": "16172765"
-    }, 
-    {
-      "city": "Chicago", 
-      "first_name": "Peter", 
-      "last_name": "Moxon", 
-      "user_id": 128965, 
-      "submission": "Where you pledge to vote against the chained CPI when applied to Social Security, Medicare, Medicaid funding", 
-      "district": "IL_07", 
-      "created": "2013-08-10T14:59:47", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "IL", 
-      "iface": "timeline_question", 
-      "y": 41.899, 
-      "x": -87.6365, 
-      "latest_vote": null, 
-      "id": 16293757, 
-      "trending_score": 0.5
     }
   ]
 });
