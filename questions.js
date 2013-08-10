@@ -14610,7 +14610,7 @@ opendebate.processFetchedQuestions({
       "x": -71.3601, 
       "latest_vote": "2013-08-10T05:59:56", 
       "id": 16207233, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Melbourne Beach", 
@@ -14667,7 +14667,7 @@ opendebate.processFetchedQuestions({
       "x": -82.5584, 
       "latest_vote": "2013-08-10T05:59:17", 
       "id": 16207073, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Hollywood", 
