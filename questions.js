@@ -25915,7 +25915,7 @@ opendebate.processFetchedQuestions({
       "x": -124.036, 
       "latest_vote": "2013-08-10T13:04:19", 
       "id": 16176660, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Washington", 
