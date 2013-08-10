@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Minneapolis", 
+      "first_name": "Jonathan", 
+      "last_name": "Stark", 
+      "user_id": 926443, 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "district": "MN_05", 
+      "created": "2013-08-10T16:17:01", 
+      "state": "MN", 
+      "iface": "timeline_vote", 
+      "y": 44.9033, 
+      "x": -93.2894, 
+      "id": 16294362, 
+      "question_id": "16172303"
+    }, 
+    {
       "city": "Mountain View", 
       "first_name": "Leon", 
       "last_name": "Yang", 
@@ -313,21 +328,6 @@ opendebate.processTimeline({
       "x": -71.1582, 
       "id": 16293937, 
       "question_id": "16293718"
-    }, 
-    {
-      "city": "Weston", 
-      "first_name": "Nathaniel", 
-      "last_name": "Stutterheim", 
-      "user_id": 1700339, 
-      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
-      "district": "MO_06", 
-      "created": "2013-08-10T15:23:03", 
-      "state": "MO", 
-      "iface": "timeline_vote", 
-      "y": 39.4619, 
-      "x": -94.9114, 
-      "id": 16293926, 
-      "question_id": "16173259"
     }
   ]
 });

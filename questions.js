@@ -31056,15 +31056,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:52:54", 
       "state_votes": 179, 
-      "votes": 1151, 
+      "votes": 1152, 
       "district_votes": 49, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4207, 
       "x": -71.1582, 
-      "latest_vote": "2013-08-10T15:54:05", 
+      "latest_vote": "2013-08-10T16:17:01", 
       "id": 16172303, 
-      "trending_score": 24.25
+      "trending_score": 25.25
     }, 
     {
       "city": "Arlington", 
