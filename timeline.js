@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "North Bend", 
+      "first_name": "Cheryl", 
+      "last_name": "Meyer", 
+      "user_id": 795081, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "WA_08", 
+      "created": "2013-08-10T14:20:59", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 47.4752, 
+      "x": -121.757, 
+      "id": 16293342, 
+      "question_id": "16173264"
+    }, 
+    {
       "city": "Wakefield", 
       "first_name": "Carol and Robert", 
       "last_name": "Caverly-Paxton", 
       "user_id": 1671069, 
-      "submission": "Will you introduce legislation or a rules change -- whichever it takes -- that will mean Congress and their families must be subject to the same laws it passes for other citizens?  If not, why not?", 
+      "submission": "Will you support public financing for all elections?", 
       "district": "MA_06", 
-      "created": "2013-08-10T14:18:27", 
+      "created": "2013-08-10T14:20:48", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.5021, 
       "x": -71.0697, 
-      "id": 16293334, 
-      "question_id": "16244527"
+      "id": 16293340, 
+      "question_id": "16209328"
     }, 
     {
       "city": "Belton", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -77.2402, 
       "id": 16292676, 
       "question_id": "16205617"
-    }, 
-    {
-      "city": "Waltham", 
-      "first_name": "Michael", 
-      "last_name": "Rich", 
-      "user_id": 1810448, 
-      "submission": "Should the police be used to keep the people from protesting about the ongoing illegal activities of the financial institutions on Wall Street?", 
-      "district": "MA_05", 
-      "created": "2013-08-10T13:21:40", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.398, 
-      "x": -71.2203, 
-      "id": 16292675, 
-      "question_id": "16257701"
     }
   ]
 });

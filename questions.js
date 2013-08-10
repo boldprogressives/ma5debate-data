@@ -14145,16 +14145,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you support public financing for all elections?", 
       "district": "CA_50", 
       "created": "2013-08-06T23:22:02", 
-      "state_votes": 6, 
-      "votes": 46, 
+      "state_votes": 7, 
+      "votes": 47, 
       "district_votes": 2, 
       "state": "CA", 
       "iface": "question", 
       "y": 32.7822, 
       "x": -116.908, 
-      "latest_vote": "2013-08-09T21:40:24", 
+      "latest_vote": "2013-08-10T14:20:48", 
       "id": 16209328, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Pittsburgh", 
@@ -28871,15 +28871,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:25:59", 
       "state_votes": 248, 
-      "votes": 1673, 
+      "votes": 1674, 
       "district_votes": 78, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-10T14:14:11", 
+      "latest_vote": "2013-08-10T14:20:59", 
       "id": 16173264, 
-      "trending_score": 8.25
+      "trending_score": 9.25
     }, 
     {
       "city": "Prosper", 
@@ -29916,15 +29916,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:27:03", 
       "state_votes": 199, 
-      "votes": 1496, 
+      "votes": 1497, 
       "district_votes": 51, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.6267, 
       "x": -87.5959, 
-      "latest_vote": "2013-08-10T14:14:37", 
+      "latest_vote": "2013-08-10T14:20:52", 
       "id": 16172755, 
-      "trending_score": 12.25
+      "trending_score": 13.25
     }, 
     {
       "city": "Richardson", 
@@ -29981,7 +29981,7 @@ opendebate.processFetchedQuestions({
       "x": -122.811, 
       "latest_vote": "2013-08-10T13:56:26", 
       "id": 16172731, 
-      "trending_score": 4.166666666666667
+      "trending_score": 4.25
     }, 
     {
       "city": "Chicago", 
