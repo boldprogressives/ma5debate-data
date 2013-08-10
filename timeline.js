@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Barbara", 
       "last_name": "Macek", 
       "user_id": 1678230, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
       "district": "NY_09", 
-      "created": "2013-08-10T08:36:54", 
+      "created": "2013-08-10T08:37:49", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.6497, 
       "x": -73.9377, 
-      "id": 16292428, 
-      "question_id": "16172533"
+      "id": 16292433, 
+      "question_id": "16173335"
     }, 
     {
       "city": "Los Angeles", 
