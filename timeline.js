@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Will you protect and strengthen Social Security?", 
+      "submission": "what will you do to bring jobs back to America and stop out sourcing everything?", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:14:55", 
+      "created": "2013-08-10T05:15:52", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291828, 
-      "question_id": "16175852"
+      "id": 16291833, 
+      "question_id": "16175641"
     }, 
     {
       "city": "Phoenix", 
