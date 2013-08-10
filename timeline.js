@@ -2,19 +2,38 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Seattle", 
+      "first_name": "Carmen", 
+      "last_name": "c", 
+      "user_id": 1810456, 
+      "submission": "I would like to know what these candidates think about Stop&Frisk and will they try to push for an end to it. Thank You", 
+      "district": "WA_07", 
+      "created": "2013-08-10T14:05:32", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WA", 
+      "iface": "timeline_question", 
+      "y": 47.6834, 
+      "x": -122.292, 
+      "latest_vote": null, 
+      "id": 16293261, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Boston", 
       "first_name": "Aimee", 
       "last_name": "Coolidge", 
       "user_id": 1657685, 
-      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
       "district": "MA_07", 
-      "created": "2013-08-10T14:04:40", 
+      "created": "2013-08-10T14:05:23", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.337, 
       "x": -71.0638, 
-      "id": 16293259, 
-      "question_id": "16172303"
+      "id": 16293260, 
+      "question_id": "16172697"
     }, 
     {
       "city": "Shelbyville", 
@@ -289,21 +308,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16292579, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "northridge", 
-      "first_name": "Zhila", 
-      "last_name": "Sajadi", 
-      "user_id": 1129774, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "CA_30", 
-      "created": "2013-08-10T12:32:03", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 34.2398, 
-      "x": -118.516, 
-      "id": 16292578, 
-      "question_id": "16172777"
     }
   ]
 });

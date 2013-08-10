@@ -2,6 +2,25 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Seattle", 
+      "first_name": "Carmen", 
+      "last_name": "c", 
+      "user_id": 1810456, 
+      "submission": "I would like to know what these candidates think about Stop&Frisk and will they try to push for an end to it. Thank You", 
+      "district": "WA_07", 
+      "created": "2013-08-10T14:05:32", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WA", 
+      "iface": "question", 
+      "y": 47.6834, 
+      "x": -122.292, 
+      "latest_vote": null, 
+      "id": 16293261, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Henderson", 
       "first_name": "Nicholas", 
       "last_name": "Martino", 
@@ -30048,16 +30067,16 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
       "district": "ID_02", 
       "created": "2013-08-03T22:11:15", 
-      "state_votes": 101, 
-      "votes": 847, 
+      "state_votes": 102, 
+      "votes": 848, 
       "district_votes": 25, 
       "state": "ID", 
       "iface": "question", 
       "y": 43.6302, 
       "x": -116.297, 
-      "latest_vote": "2013-08-10T13:47:09", 
+      "latest_vote": "2013-08-10T14:05:23", 
       "id": 16172697, 
-      "trending_score": 6.25
+      "trending_score": 7.25
     }, 
     {
       "city": "Holts Summit", 
