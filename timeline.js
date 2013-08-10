@@ -6,15 +6,34 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Will you be the first representative in congress to submit legislation to overturn the 2006 Postal accountability act which put an unfair burden on the uSPS, guaranteeing it would NEVER make a profit..?", 
+      "submission": "Will you work to protect Planned Parenthood and affordable health care for all women", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:36:58", 
+      "created": "2013-08-10T05:37:52", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291931, 
-      "question_id": "16261042"
+      "id": 16291934, 
+      "question_id": "16263952"
+    }, 
+    {
+      "city": "Winchester", 
+      "first_name": "Jeff", 
+      "last_name": "Dearman", 
+      "user_id": 1810429, 
+      "submission": "How would you improve Us relations with Putin and Russia over the snowden case? Would you use the Winter olympic games as a chance to improve relations? ", 
+      "district": "MA_05", 
+      "created": "2013-08-10T05:37:33", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.4529, 
+      "x": -71.146, 
+      "latest_vote": null, 
+      "id": 16291933, 
+      "trending_score": 0.5
     }, 
     {
       "city": "Winchester", 
@@ -345,21 +364,6 @@ opendebate.processTimeline({
       "x": -112.089, 
       "id": 16291856, 
       "question_id": "16201951"
-    }, 
-    {
-      "city": "Wenatchee", 
-      "first_name": "James", 
-      "last_name": "Davis", 
-      "user_id": 1677736, 
-      "submission": "Will congress ever address a jobs/infrastructure bill?  We needs jobs, jobs training and massive infrastructure repair.  I am sick of the GOP obstruction.", 
-      "district": "WA_08", 
-      "created": "2013-08-10T05:19:47", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 47.4275, 
-      "x": -120.333, 
-      "id": 16291855, 
-      "question_id": "16256688"
     }
   ]
 });
