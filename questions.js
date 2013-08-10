@@ -16377,7 +16377,7 @@ opendebate.processFetchedQuestions({
       "x": -82.7314, 
       "latest_vote": "2013-08-10T06:06:36", 
       "id": 16200783, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Arkport", 
