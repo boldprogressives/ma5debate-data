@@ -1272,7 +1272,7 @@ opendebate.processFetchedQuestions({
       "x": -74.0487, 
       "latest_vote": "2013-08-10T04:15:51", 
       "id": 16280510, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "San Francisco", 
@@ -2241,7 +2241,7 @@ opendebate.processFetchedQuestions({
       "x": -123.327, 
       "latest_vote": "2013-08-10T04:47:33", 
       "id": 16269540, 
-      "trending_score": 1.5
+      "trending_score": 1.25
     }, 
     {
       "city": "Henderson", 
@@ -14268,7 +14268,7 @@ opendebate.processFetchedQuestions({
       "x": -73.9703, 
       "latest_vote": "2013-08-10T04:07:04", 
       "id": 16207584, 
-      "trending_score": 0.2
+      "trending_score": 0.25
     }, 
     {
       "city": "Westland", 
@@ -15218,7 +15218,7 @@ opendebate.processFetchedQuestions({
       "x": -111.03, 
       "latest_vote": "2013-08-10T04:34:23", 
       "id": 16205046, 
-      "trending_score": 1.5
+      "trending_score": 1.25
     }, 
     {
       "city": "Daly City", 
@@ -15351,7 +15351,7 @@ opendebate.processFetchedQuestions({
       "x": -80.1743, 
       "latest_vote": "2013-08-10T05:45:38", 
       "id": 16204423, 
-      "trending_score": 1.25
+      "trending_score": 1.3333333333333333
     }, 
     {
       "city": "Peabody", 
@@ -25250,7 +25250,7 @@ opendebate.processFetchedQuestions({
       "x": -106.576, 
       "latest_vote": "2013-08-10T04:10:36", 
       "id": 16176481, 
-      "trending_score": 0.75
+      "trending_score": 0.3333333333333333
     }, 
     {
       "city": "Copperas Cove", 
@@ -28613,7 +28613,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T08:38:05", 
       "id": 16173259, 
-      "trending_score": 1.3333333333333333
+      "trending_score": 1.375
     }, 
     {
       "city": "Manitowoc", 
@@ -29525,7 +29525,7 @@ opendebate.processFetchedQuestions({
       "x": -89.7423, 
       "latest_vote": "2013-08-10T04:10:16", 
       "id": 16172823, 
-      "trending_score": 1.5
+      "trending_score": 0.5
     }, 
     {
       "city": "", 
@@ -29715,7 +29715,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5544, 
       "latest_vote": "2013-08-10T08:36:41", 
       "id": 16172727, 
-      "trending_score": 0.5833333333333333
+      "trending_score": 0.65
     }, 
     {
       "city": "Waldport", 
