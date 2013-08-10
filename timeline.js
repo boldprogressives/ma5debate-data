@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Sarasota", 
+      "first_name": "jim", 
+      "last_name": "miller", 
+      "user_id": 1724173, 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "district": "FL_16", 
+      "created": "2013-08-10T14:47:56", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 27.2717, 
+      "x": -82.5168, 
+      "id": 16293599, 
+      "question_id": "16172533"
+    }, 
+    {
       "city": "Hillsboro", 
       "first_name": "CJ", 
       "last_name": "Brennan", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "x": -106.708, 
       "id": 16293383, 
       "question_id": "16172777"
-    }, 
-    {
-      "city": "Belmont", 
-      "first_name": "Georges", 
-      "last_name": "Brun-Cottan", 
-      "user_id": 162984, 
-      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
-      "district": "MA_05", 
-      "created": "2013-08-10T14:23:14", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3942, 
-      "x": -71.1802, 
-      "id": 16293375, 
-      "question_id": "16172690"
     }
   ]
 });
