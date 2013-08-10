@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Joe", 
       "last_name": "Verdoes", 
       "user_id": 503455, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and if not why not?", 
+      "submission": "Would you support a new millennial version of the Civilian Conservation Corps to provide a broad sector of the general public with fulltime employment in municipal, state, and federal parks?", 
       "district": "WA_02", 
-      "created": "2013-08-10T03:43:40", 
+      "created": "2013-08-10T03:44:36", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 48.4989, 
       "x": -122.607, 
-      "id": 16290917, 
-      "question_id": "16186709"
+      "id": 16290920, 
+      "question_id": "16272358"
     }, 
     {
       "city": "Greensboro", 
