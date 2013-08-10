@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Phoenix", 
-      "first_name": "Lynne", 
-      "last_name": "Vestal", 
-      "user_id": 1121128, 
-      "submission": "Many people asked great questions. Mine is: Will you continue to work to keep abortion, not just legal, because it is still legal, but also make sure that facilities are easy to access, low cost and not expensive and hundreds of miles away, making abortion a hardship for poor or middle class women?Without low cost and easy access, you will find that women find charlatans like Gosnell risking their lives. ", 
-      "district": "AZ_09", 
-      "created": "2013-08-10T06:26:35", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 33.559, 
-      "x": -112.089, 
-      "id": 16292161, 
-      "question_id": "16227025"
-    }, 
-    {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Do you think that there should be reasonable term limits for members of Congress?", 
+      "submission": "Why is the multinational corporations are running our country. This is as far from a democracy as it gets. It's a disgrace that our representatives belong to big oil and big drugs?", 
       "district": "AL_07", 
-      "created": "2013-08-10T06:26:27", 
+      "created": "2013-08-10T06:27:36", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292160, 
-      "question_id": "16173906"
+      "id": 16292165, 
+      "question_id": "16173690"
+    }, 
+    {
+      "city": "Phoenix", 
+      "first_name": "Lynne", 
+      "last_name": "Vestal", 
+      "user_id": 1121128, 
+      "submission": "Will you actively support and promote the proposal for a Constitution Amendment protecting the right to vote?  (see freetovote.org)", 
+      "district": "AZ_09", 
+      "created": "2013-08-10T06:27:02", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 33.559, 
+      "x": -112.089, 
+      "id": 16292162, 
+      "question_id": "16185403"
     }, 
     {
       "city": "Watertown", 
