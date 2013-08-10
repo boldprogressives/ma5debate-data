@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "", 
       "last_name": "", 
       "user_id": 1810448, 
-      "submission": "Will you protect Social Security And Medicare by not cutting it with the chained CPI for Social Security that has been mentioned.  Also, no cuts to Medicare but closing the donute hole 100% so seniors aren't left fending for themselves to pay full price for their drugs.", 
+      "submission": "Please tell us where you stand on protecting the integrity of the Voting Rights Act of 1965. State ways to accomplish this while protecting against voter fraud.", 
       "district": "MA_05", 
-      "created": "2013-08-10T13:15:22", 
+      "created": "2013-08-10T13:18:48", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.398, 
       "x": -71.2203, 
-      "id": 16292669, 
-      "question_id": "16175570"
+      "id": 16292670, 
+      "question_id": "16190891"
     }, 
     {
       "city": "Clermont", 

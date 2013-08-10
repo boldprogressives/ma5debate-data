@@ -14667,7 +14667,7 @@ opendebate.processFetchedQuestions({
       "x": -79.9806, 
       "latest_vote": "2013-08-10T12:52:51", 
       "id": 16207107, 
-      "trending_score": 4.25
+      "trending_score": 4.5
     }, 
     {
       "city": "Asheville", 
@@ -15978,7 +15978,7 @@ opendebate.processFetchedQuestions({
       "x": -93.2868, 
       "latest_vote": "2013-08-10T11:38:47", 
       "id": 16201979, 
-      "trending_score": 2.25
+      "trending_score": 2.5
     }, 
     {
       "city": "Ashland", 
@@ -18610,16 +18610,16 @@ opendebate.processFetchedQuestions({
       "submission": "Please tell us where you stand on protecting the integrity of the Voting Rights Act of 1965. State ways to accomplish this while protecting against voter fraud.", 
       "district": "NC_10", 
       "created": "2013-08-06T16:26:04", 
-      "state_votes": 2, 
-      "votes": 18, 
-      "district_votes": 0, 
+      "state_votes": 3, 
+      "votes": 19, 
+      "district_votes": 1, 
       "state": "NC", 
       "iface": "question", 
       "y": 35.6374, 
       "x": -82.5584, 
-      "latest_vote": "2013-08-09T23:58:53", 
+      "latest_vote": "2013-08-10T13:18:48", 
       "id": 16190891, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Eddington", 
@@ -27872,7 +27872,7 @@ opendebate.processFetchedQuestions({
       "x": -89.5406, 
       "latest_vote": "2013-08-10T07:18:40", 
       "id": 16174044, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Forest Grove", 
@@ -28537,7 +28537,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-10T12:52:41", 
       "id": 16173335, 
-      "trending_score": 2.0
+      "trending_score": 2.5
     }, 
     {
       "city": "Evansville", 
