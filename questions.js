@@ -1595,7 +1595,7 @@ opendebate.processFetchedQuestions({
       "x": -123.327, 
       "latest_vote": "2013-08-10T00:36:26", 
       "id": 16269540, 
-      "trending_score": 4.833333333333334
+      "trending_score": 4.25
     }, 
     {
       "city": "Henderson", 
@@ -1690,7 +1690,7 @@ opendebate.processFetchedQuestions({
       "x": -83.7165, 
       "latest_vote": "2013-08-09T21:23:06", 
       "id": 16267512, 
-      "trending_score": 1.5
+      "trending_score": 1.25
     }, 
     {
       "city": "Henderson", 
@@ -1929,15 +1929,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_27", 
       "created": "2013-08-09T05:22:24", 
       "state_votes": 1, 
-      "votes": 63, 
+      "votes": 64, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 34.113, 
       "x": -117.717, 
-      "latest_vote": "2013-08-10T00:49:03", 
+      "latest_vote": "2013-08-10T00:52:10", 
       "id": 16265543, 
-      "trending_score": 4.5
+      "trending_score": 5.0
     }, 
     {
       "city": "Claremont", 
@@ -6497,7 +6497,7 @@ opendebate.processFetchedQuestions({
       "x": -83.2842, 
       "latest_vote": "2013-08-09T19:52:44", 
       "id": 16228615, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Bellingham", 
@@ -13052,7 +13052,7 @@ opendebate.processFetchedQuestions({
       "x": -117.955, 
       "latest_vote": "2013-08-10T00:26:00", 
       "id": 16210264, 
-      "trending_score": 3.0416666666666665
+      "trending_score": 3.095238095238095
     }, 
     {
       "city": "Hemet", 
@@ -13641,7 +13641,7 @@ opendebate.processFetchedQuestions({
       "x": -83.3971, 
       "latest_vote": "2013-08-09T21:36:20", 
       "id": 16207550, 
-      "trending_score": 1.5
+      "trending_score": 1.25
     }, 
     {
       "city": "Painesville", 
@@ -14183,16 +14183,16 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do to ensure that all Americans have access to the voting booth and what will you do to get money out of our elections so that we all have an equal voice?", 
       "district": "CA_02", 
       "created": "2013-08-06T21:20:24", 
-      "state_votes": 20, 
-      "votes": 570, 
-      "district_votes": 5, 
+      "state_votes": 21, 
+      "votes": 572, 
+      "district_votes": 6, 
       "state": "CA", 
       "iface": "question", 
       "y": 40.8726, 
       "x": -124.071, 
-      "latest_vote": "2013-08-10T00:37:36", 
+      "latest_vote": "2013-08-10T00:52:39", 
       "id": 16205834, 
-      "trending_score": 6.166666666666667
+      "trending_score": 6.666666666666667
     }, 
     {
       "city": "Addison", 
@@ -15076,16 +15076,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
       "district": "CA_12", 
       "created": "2013-08-06T19:37:02", 
-      "state_votes": 69, 
-      "votes": 635, 
-      "district_votes": 23, 
+      "state_votes": 70, 
+      "votes": 636, 
+      "district_votes": 24, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.7802, 
       "x": -122.459, 
-      "latest_vote": "2013-08-10T00:31:50", 
+      "latest_vote": "2013-08-10T00:52:11", 
       "id": 16202059, 
-      "trending_score": 5.5
+      "trending_score": 5.666666666666667
     }, 
     {
       "city": "Richfield", 
@@ -15123,7 +15123,7 @@ opendebate.processFetchedQuestions({
       "x": -122.634, 
       "latest_vote": "2013-08-10T00:34:42", 
       "id": 16201951, 
-      "trending_score": 5.75
+      "trending_score": 5.833333333333333
     }, 
     {
       "city": "Rye", 
@@ -15465,7 +15465,7 @@ opendebate.processFetchedQuestions({
       "x": -72.7291, 
       "latest_vote": "2013-08-10T00:26:44", 
       "id": 16201159, 
-      "trending_score": 3.3333333333333335
+      "trending_score": 3.4
     }, 
     {
       "city": "Saint Cloud", 
@@ -18611,15 +18611,15 @@ opendebate.processFetchedQuestions({
       "district": "VA_11", 
       "created": "2013-08-06T15:48:27", 
       "state_votes": 0, 
-      "votes": 4, 
+      "votes": 5, 
       "district_votes": 0, 
       "state": "VA", 
       "iface": "question", 
       "y": 38.5831, 
       "x": -77.3338, 
-      "latest_vote": "2013-08-07T09:00:30", 
+      "latest_vote": "2013-08-10T00:52:55", 
       "id": 16188671, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Dumfries", 
@@ -18630,15 +18630,15 @@ opendebate.processFetchedQuestions({
       "district": "VA_11", 
       "created": "2013-08-06T15:48:24", 
       "state_votes": 0, 
-      "votes": 2, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "VA", 
       "iface": "question", 
       "y": 38.5831, 
       "x": -77.3338, 
-      "latest_vote": "2013-08-07T00:28:25", 
+      "latest_vote": "2013-08-10T00:52:49", 
       "id": 16188666, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Ellijay", 
@@ -18763,15 +18763,15 @@ opendebate.processFetchedQuestions({
       "district": "MD_07", 
       "created": "2013-08-06T15:40:35", 
       "state_votes": 2, 
-      "votes": 11, 
+      "votes": 12, 
       "district_votes": 0, 
       "state": "MD", 
       "iface": "question", 
       "y": 39.3279, 
       "x": -76.744, 
-      "latest_vote": "2013-08-08T22:30:01", 
+      "latest_vote": "2013-08-10T00:52:16", 
       "id": 16188245, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Santa Rosa", 
@@ -18782,15 +18782,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_05", 
       "created": "2013-08-06T15:40:22", 
       "state_votes": 3, 
-      "votes": 25, 
+      "votes": 26, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 38.4584, 
       "x": -122.685, 
-      "latest_vote": "2013-08-09T08:14:48", 
+      "latest_vote": "2013-08-10T00:52:08", 
       "id": 16188228, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "San Francisco", 
@@ -21659,7 +21659,7 @@ opendebate.processFetchedQuestions({
       "x": -99.2939, 
       "latest_vote": "2013-08-09T21:09:58", 
       "id": 16181773, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Malden", 
@@ -22020,7 +22020,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1032, 
       "latest_vote": "2013-08-10T00:51:31", 
       "id": 16180998, 
-      "trending_score": 2.5583333333333336
+      "trending_score": 2.654761904761905
     }, 
     {
       "city": "Irvine", 
@@ -23417,16 +23417,16 @@ opendebate.processFetchedQuestions({
       "submission": "Would you support a ban on Congresspersons accepting jobs as corporate lobbyists for at least ten years after leaving Congress?", 
       "district": "NM_01", 
       "created": "2013-08-05T17:49:19", 
-      "state_votes": 38, 
-      "votes": 574, 
-      "district_votes": 11, 
+      "state_votes": 39, 
+      "votes": 575, 
+      "district_votes": 12, 
       "state": "NM", 
       "iface": "question", 
       "y": 35.0723, 
       "x": -106.578, 
-      "latest_vote": "2013-08-10T00:48:21", 
+      "latest_vote": "2013-08-10T00:52:31", 
       "id": 16178177, 
-      "trending_score": 3.9603174603174605
+      "trending_score": 3.5694444444444446
     }, 
     {
       "city": "San Antonio", 
@@ -25383,7 +25383,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9643, 
       "latest_vote": "2013-08-10T00:49:50", 
       "id": 16175740, 
-      "trending_score": 6.7
+      "trending_score": 6.825
     }, 
     {
       "city": "Buffalo Grove", 
@@ -25887,16 +25887,16 @@ opendebate.processFetchedQuestions({
       "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
       "district": "CO_01", 
       "created": "2013-08-04T22:24:13", 
-      "state_votes": 35, 
-      "votes": 472, 
-      "district_votes": 9, 
+      "state_votes": 36, 
+      "votes": 473, 
+      "district_votes": 10, 
       "state": "CO", 
       "iface": "question", 
       "y": 39.7285, 
       "x": -104.954, 
-      "latest_vote": "2013-08-10T00:44:37", 
+      "latest_vote": "2013-08-10T00:53:01", 
       "id": 16175230, 
-      "trending_score": 7.833333333333333
+      "trending_score": 8.166666666666668
     }, 
     {
       "city": "Seal Rock", 
@@ -26010,7 +26010,7 @@ opendebate.processFetchedQuestions({
       "x": -89.7297, 
       "latest_vote": "2013-08-09T23:34:24", 
       "id": 16175078, 
-      "trending_score": 3.6333333333333333
+      "trending_score": 3.7083333333333335
     }, 
     {
       "city": "Iuka", 
@@ -26314,7 +26314,7 @@ opendebate.processFetchedQuestions({
       "x": -123.911, 
       "latest_vote": "2013-08-09T23:27:34", 
       "id": 16174618, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Siletz", 
@@ -27749,16 +27749,16 @@ opendebate.processFetchedQuestions({
       "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
       "district": "IL_08", 
       "created": "2013-08-04T02:02:13", 
-      "state_votes": 58, 
-      "votes": 502, 
-      "district_votes": 13, 
+      "state_votes": 59, 
+      "votes": 503, 
+      "district_votes": 14, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.9553, 
       "x": -87.9488, 
-      "latest_vote": "2013-08-10T00:43:14", 
+      "latest_vote": "2013-08-10T00:52:49", 
       "id": 16173320, 
-      "trending_score": 9.5
+      "trending_score": 10.0
     }, 
     {
       "city": "Bensenville", 
@@ -27948,7 +27948,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T00:50:10", 
       "id": 16173264, 
-      "trending_score": 3.3461538461538463
+      "trending_score": 3.154761904761905
     }, 
     {
       "city": "Prosper", 
@@ -27967,7 +27967,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T00:51:00", 
       "id": 16173259, 
-      "trending_score": 6.5
+      "trending_score": 5.433333333333333
     }, 
     {
       "city": "Manitowoc", 
@@ -28176,7 +28176,7 @@ opendebate.processFetchedQuestions({
       "x": -97.7518, 
       "latest_vote": "2013-08-10T00:47:07", 
       "id": 16173210, 
-      "trending_score": 4.554945054945055
+      "trending_score": 3.9326923076923075
     }, 
     {
       "city": "Cottonwood", 
@@ -28708,7 +28708,7 @@ opendebate.processFetchedQuestions({
       "x": -114.294, 
       "latest_vote": "2013-08-10T00:50:40", 
       "id": 16172913, 
-      "trending_score": 6.666666666666667
+      "trending_score": 5.880952380952381
     }, 
     {
       "city": "Montegut", 
@@ -28936,7 +28936,7 @@ opendebate.processFetchedQuestions({
       "x": -111.974, 
       "latest_vote": "2013-08-10T00:49:43", 
       "id": 16172777, 
-      "trending_score": 4.3125
+      "trending_score": 3.912121212121212
     }, 
     {
       "city": "Gladstone", 
@@ -29069,7 +29069,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5544, 
       "latest_vote": "2013-08-10T00:50:19", 
       "id": 16172727, 
-      "trending_score": 6.583333333333333
+      "trending_score": 5.216666666666667
     }, 
     {
       "city": "Waldport", 
@@ -29449,7 +29449,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T00:35:32", 
       "id": 16172583, 
-      "trending_score": 3.0694444444444446
+      "trending_score": 3.35
     }, 
     {
       "city": "ARLINGTON", 
@@ -29563,7 +29563,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2368, 
       "latest_vote": "2013-08-09T23:51:53", 
       "id": 16172542, 
-      "trending_score": 6.166666666666667
+      "trending_score": 6.25
     }, 
     {
       "city": "Cambridge", 
@@ -29582,7 +29582,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T00:50:34", 
       "id": 16172533, 
-      "trending_score": 6.564102564102564
+      "trending_score": 6.583333333333333
     }, 
     {
       "city": "Medford", 
@@ -29639,7 +29639,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1582, 
       "latest_vote": "2013-08-10T00:50:52", 
       "id": 16172303, 
-      "trending_score": 3.853535353535354
+      "trending_score": 3.7083333333333335
     }, 
     {
       "city": "Arlington", 
@@ -29772,7 +29772,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T00:49:57", 
       "id": 16172266, 
-      "trending_score": 4.785714285714286
+      "trending_score": 4.916666666666667
     }, 
     {
       "city": "Cambridge", 
