@@ -29251,15 +29251,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:22:04", 
       "state_votes": 154, 
-      "votes": 1119, 
+      "votes": 1120, 
       "district_votes": 38, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-10T15:06:31", 
+      "latest_vote": "2013-08-10T15:23:03", 
       "id": 16173259, 
-      "trending_score": 18.5
+      "trending_score": 19.5
     }, 
     {
       "city": "Manitowoc", 
@@ -30475,7 +30475,7 @@ opendebate.processFetchedQuestions({
       "x": -116.297, 
       "latest_vote": "2013-08-10T15:07:30", 
       "id": 16172697, 
-      "trending_score": 6.5
+      "trending_score": 12.166666666666666
     }, 
     {
       "city": "Holts Summit", 
