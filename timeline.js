@@ -2,19 +2,79 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Watertown", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810405, 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
+      "district": "MA_05", 
+      "created": "2013-08-10T01:25:03", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3713, 
+      "x": -71.1804, 
+      "id": 16289641, 
+      "question_id": "16202059"
+    }, 
+    {
+      "city": "freeport", 
+      "first_name": "dave", 
+      "last_name": "keene", 
+      "user_id": 281083, 
+      "submission": "What will you do about gun control and the scare tactics/bullying by the NRA and gun lobbyists?  How will you approach the Right's program of 'divisiveness and culture of fear' that now rips us apart?", 
+      "district": "NY_04", 
+      "created": "2013-08-10T01:25:03", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.652, 
+      "x": -73.5882, 
+      "id": 16289643, 
+      "question_id": "16176673"
+    }, 
+    {
       "city": "Cumming", 
       "first_name": "R. Gwen", 
       "last_name": "Smith Minniti", 
       "user_id": 697062, 
-      "submission": "The sequester just slashed Meals on Wheels, food stamps, Section 8 vouchers for housing for the needy.  Since we all have to \"tighten our belts\" how come Congress gets a pay RAISE this year?", 
+      "submission": "To all Candidates...Will you support Elizabeth Warren's bill to allow college students to borrow under 1% interest of college loans? ", 
       "district": "GA_07", 
-      "created": "2013-08-10T01:23:59", 
+      "created": "2013-08-10T01:25:02", 
       "state": "GA", 
       "iface": "timeline_vote", 
       "y": 34.2031, 
       "x": -84.0743, 
-      "id": 16289633, 
-      "question_id": "16209412"
+      "id": 16289642, 
+      "question_id": "16200733"
+    }, 
+    {
+      "city": "Reno", 
+      "first_name": "Tim", 
+      "last_name": "Sanders", 
+      "user_id": 974978, 
+      "submission": "Why is there not even ONE mention about possibly repealing the \"Patriot Act\", even though that one law has completely obliterated all of our civil rights that were guaranteed in the Constitution??? All USA laws have become invalid, especially for protecting against oppressive governmental organizations, by simply declaring ANYONE an \"Enemy Combatant\" with no real justification for that declaration. The Constitution was specifically created to design precautions against an oppressive government that already had gone too far (Britain). ", 
+      "district": "NV_02", 
+      "created": "2013-08-10T01:24:35", 
+      "state": "NV", 
+      "iface": "timeline_vote", 
+      "y": 39.7704, 
+      "x": -119.617, 
+      "id": 16289637, 
+      "question_id": "16176201"
+    }, 
+    {
+      "city": "Allston", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810404, 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "district": "MA_07", 
+      "created": "2013-08-10T01:24:28", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3581, 
+      "x": -71.1306, 
+      "id": 16289636, 
+      "question_id": "16172755"
     }, 
     {
       "city": "El Prado", 
@@ -30,36 +90,6 @@ opendebate.processTimeline({
       "x": -105.575, 
       "id": 16289627, 
       "question_id": "16225156"
-    }, 
-    {
-      "city": "Watertown", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1810405, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
-      "district": "MA_05", 
-      "created": "2013-08-10T01:22:58", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3713, 
-      "x": -71.1804, 
-      "id": 16289623, 
-      "question_id": "16172533"
-    }, 
-    {
-      "city": "Allston", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1810404, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
-      "district": "MA_07", 
-      "created": "2013-08-10T01:22:47", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3581, 
-      "x": -71.1306, 
-      "id": 16289621, 
-      "question_id": "16172281"
     }, 
     {
       "city": "Prescott", 
@@ -182,21 +212,6 @@ opendebate.processTimeline({
       "question_id": "16280049"
     }, 
     {
-      "city": "freeport", 
-      "first_name": "dave", 
-      "last_name": "keene", 
-      "user_id": 281083, 
-      "submission": "Public education is being privatized all over the U.S., with even Obama supporting school \"reform\" which turns education over to private corporations. These companies get rid of experienced teachers, hire in kids just out of college, give them 5 weeks of \"training\" and then put them in schools at low wages. Our children are being short-changed, particularly those with learning problems - \"reform\" schools \"cook the books\" by denying places in schools to those with problems, then saying, \"look, scores up!\" Will you seriously take a hard look at school \"reform?\"", 
-      "district": "NY_04", 
-      "created": "2013-08-10T01:07:59", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.652, 
-      "x": -73.5882, 
-      "id": 16289461, 
-      "question_id": "16197636"
-    }, 
-    {
       "city": "Benicia", 
       "first_name": "John", 
       "last_name": "O'Hern", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -75.2206, 
       "id": 16289243, 
       "question_id": "16265543"
-    }, 
-    {
-      "city": "San Leandro", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1810396, 
-      "submission": "Public education is being privatized all over the U.S., with even Obama supporting school \"reform\" which turns education over to private corporations. These companies get rid of experienced teachers, hire in kids just out of college, give them 5 weeks of \"training\" and then put them in schools at low wages. Our children are being short-changed, particularly those with learning problems - \"reform\" schools \"cook the books\" by denying places in schools to those with problems, then saying, \"look, scores up!\" Will you seriously take a hard look at school \"reform?\"", 
-      "district": "CA_13", 
-      "created": "2013-08-10T00:49:02", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 37.7029, 
-      "x": -122.124, 
-      "id": 16289241, 
-      "question_id": "16197636"
     }
   ]
 });
