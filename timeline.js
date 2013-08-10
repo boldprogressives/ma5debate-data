@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Saint Petersburg", 
+      "first_name": "JAN", 
+      "last_name": "NORBERG", 
+      "user_id": 1682829, 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "district": "FL_13", 
+      "created": "2013-08-10T12:51:50", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 27.8443, 
+      "x": -82.6437, 
+      "id": 16292610, 
+      "question_id": "16172533"
+    }, 
+    {
       "city": "West Warwick", 
       "first_name": "Richard", 
       "last_name": "Cook", 
@@ -321,21 +336,6 @@ opendebate.processTimeline({
       "x": -122.431, 
       "id": 16292473, 
       "question_id": "16172697"
-    }, 
-    {
-      "city": "Monson", 
-      "first_name": "Kathleen", 
-      "last_name": "Conley", 
-      "user_id": 1809996, 
-      "submission": "What in your perspective and experience what is/are the essential role(s) of government?And, what skills have you used to effectively promote the(se) essential role(s)?", 
-      "district": "MA_01", 
-      "created": "2013-08-10T09:51:39", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.094, 
-      "x": -72.324, 
-      "id": 16292462, 
-      "question_id": "16287786"
     }
   ]
 });
