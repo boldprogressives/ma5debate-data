@@ -2355,7 +2355,7 @@ opendebate.processFetchedQuestions({
       "x": -107.877, 
       "latest_vote": "2013-08-10T05:34:42", 
       "id": 16267533, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Durango", 
@@ -2621,7 +2621,7 @@ opendebate.processFetchedQuestions({
       "x": -117.717, 
       "latest_vote": "2013-08-10T05:34:57", 
       "id": 16265573, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Claremont", 
@@ -15275,7 +15275,7 @@ opendebate.processFetchedQuestions({
       "x": -111.03, 
       "latest_vote": "2013-08-10T04:34:23", 
       "id": 16205046, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Daly City", 
@@ -15997,7 +15997,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1057, 
       "latest_vote": "2013-08-10T06:17:45", 
       "id": 16201488, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Pleasant Hill", 
@@ -17251,7 +17251,7 @@ opendebate.processFetchedQuestions({
       "x": -86.4585, 
       "latest_vote": "2013-08-10T06:04:51", 
       "id": 16194645, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Okemos", 
@@ -17327,7 +17327,7 @@ opendebate.processFetchedQuestions({
       "x": -121.206, 
       "latest_vote": "2013-08-10T06:04:24", 
       "id": 16194324, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Portland", 
@@ -25117,7 +25117,7 @@ opendebate.processFetchedQuestions({
       "x": -111.75, 
       "latest_vote": "2013-08-10T04:34:54", 
       "id": 16176653, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Seattle", 
@@ -28651,7 +28651,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T08:36:15", 
       "id": 16173264, 
-      "trending_score": 1.75
+      "trending_score": 1.8333333333333333
     }, 
     {
       "city": "Prosper", 
@@ -30475,7 +30475,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T08:35:55", 
       "id": 16172266, 
-      "trending_score": 1.8333333333333333
+      "trending_score": 2.083333333333333
     }, 
     {
       "city": "Cambridge", 
