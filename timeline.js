@@ -6,15 +6,60 @@ opendebate.processTimeline({
       "first_name": "David", 
       "last_name": "Marshall", 
       "user_id": 395800, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
       "district": "FL_12", 
-      "created": "2013-08-10T02:08:45", 
+      "created": "2013-08-10T02:10:00", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 28.2385, 
       "x": -82.7307, 
-      "id": 16290430, 
-      "question_id": "16172777"
+      "id": 16290443, 
+      "question_id": "16173210"
+    }, 
+    {
+      "city": "Kailua Kona", 
+      "first_name": "charles", 
+      "last_name": "webb", 
+      "user_id": 243487, 
+      "submission": "What will you do to ensure that all Americans have access to the voting booth and what will you do to get money out of our elections so that we all have an equal voice?", 
+      "district": "HI_02", 
+      "created": "2013-08-10T02:09:57", 
+      "state": "HI", 
+      "iface": "timeline_vote", 
+      "y": 19.6647, 
+      "x": -155.981, 
+      "id": 16290441, 
+      "question_id": "16205834"
+    }, 
+    {
+      "city": "Gainesville", 
+      "first_name": "Pat", 
+      "last_name": "Lucoff", 
+      "user_id": 541305, 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
+      "district": "FL_03", 
+      "created": "2013-08-10T02:09:52", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 29.6023, 
+      "x": -82.3991, 
+      "id": 16290440, 
+      "question_id": "16202059"
+    }, 
+    {
+      "city": "Prosper", 
+      "first_name": "Jeffrey", 
+      "last_name": "Wallace", 
+      "user_id": 1653140, 
+      "submission": "What can you do to stop this sickness of MONSANTO paying off Congressmen,FDA,EPA,USDA and many others to sicken poison and degrade a system which was put in place to preserve our Health and Safty?", 
+      "district": "TX_03", 
+      "created": "2013-08-10T02:09:49", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 33.2476, 
+      "x": -96.8112, 
+      "id": 16290439, 
+      "question_id": "16215471"
     }, 
     {
       "city": "tigard", 
@@ -254,21 +299,6 @@ opendebate.processTimeline({
       "question_id": "16193888"
     }, 
     {
-      "city": "Prosper", 
-      "first_name": "Jeffrey", 
-      "last_name": "Wallace", 
-      "user_id": 1653140, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
-      "district": "TX_03", 
-      "created": "2013-08-10T01:28:56", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 33.2476, 
-      "x": -96.8112, 
-      "id": 16289680, 
-      "question_id": "16173264"
-    }, 
-    {
       "city": "Allston", 
       "first_name": "", 
       "last_name": "", 
@@ -282,36 +312,6 @@ opendebate.processTimeline({
       "x": -71.1306, 
       "id": 16289669, 
       "question_id": "16199482"
-    }, 
-    {
-      "city": "Watertown", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1810405, 
-      "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
-      "district": "MA_05", 
-      "created": "2013-08-10T01:26:18", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3713, 
-      "x": -71.1804, 
-      "id": 16289660, 
-      "question_id": "16172542"
-    }, 
-    {
-      "city": "freeport", 
-      "first_name": "dave", 
-      "last_name": "keene", 
-      "user_id": 281083, 
-      "submission": "Do you favor legislation to protect our water, land, and communities from the negative environmental and social impacts of fracking for natural gas?", 
-      "district": "NY_04", 
-      "created": "2013-08-10T01:25:40", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.652, 
-      "x": -73.5882, 
-      "id": 16289650, 
-      "question_id": "16204423"
     }
   ]
 });
