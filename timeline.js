@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Will you vote for a fair or flat tax?", 
+      "submission": "How long do you think it will take this country to rid ourselves of the influence and presence petroleum based energy and change to alternatives such as hydrogen? Or is this simply a vote getting talking point?", 
       "district": "NM_03", 
-      "created": "2013-08-10T01:14:42", 
+      "created": "2013-08-10T01:16:00", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16289543, 
-      "question_id": "16173329"
+      "id": 16289551, 
+      "question_id": "16173224"
+    }, 
+    {
+      "city": "Gering", 
+      "first_name": "Cody", 
+      "last_name": "Rudow", 
+      "user_id": 1806614, 
+      "submission": "Will you commit to forcing in person Filibusters so America and the world can hear the reasons someone wants to hold democracy hostage and prevent votes on legislation.", 
+      "district": "NE_03", 
+      "created": "2013-08-10T01:15:19", 
+      "state": "NE", 
+      "iface": "timeline_vote", 
+      "y": 41.8046, 
+      "x": -103.717, 
+      "id": 16289546, 
+      "question_id": "16258323"
     }, 
     {
       "city": "Port Townsend", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -122.783, 
       "id": 16289542, 
       "question_id": "16205834"
-    }, 
-    {
-      "city": "Gering", 
-      "first_name": "Cody", 
-      "last_name": "Rudow", 
-      "user_id": 1806614, 
-      "submission": "Our elections system has been corrupted by the high cost of advertising and media coverage of candidates. Will you support legislation to nationalize all media coverage of elections, limiting airtime to discussion of actual issues for a fixed period prior to any election?  ", 
-      "district": "NE_03", 
-      "created": "2013-08-10T01:14:03", 
-      "state": "NE", 
-      "iface": "timeline_vote", 
-      "y": 41.8046, 
-      "x": -103.717, 
-      "id": 16289540, 
-      "question_id": "16287763"
     }, 
     {
       "city": "", 
