@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Santa Barbara", 
+      "first_name": "Margaret", 
+      "last_name": "Chapman", 
+      "user_id": 1061818, 
+      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
+      "district": "CA_24", 
+      "created": "2013-08-10T06:10:36", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 34.4413, 
+      "x": -119.8, 
+      "id": 16292066, 
+      "question_id": "16172697"
+    }, 
+    {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Given that 10s of billions of dollars have been lost to the Massachusetts economy because of foreclosures and banks are continuing with hundreds of illegal foreclosures, what will you do to outlaw illegal bank actions and undo the damage already done?", 
+      "submission": "Do you believe in term limits? Congress today is a Geriatric Oligarchy with 6000 years of old men and women sitting and sitting in the House and Senate attending fund raisers for the next election.  This is causing a disaster in our country not having a healthy turn over of Candidatees.", 
       "district": "AL_07", 
-      "created": "2013-08-10T06:09:38", 
+      "created": "2013-08-10T06:10:20", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292063, 
-      "question_id": "16190183"
+      "id": 16292064, 
+      "question_id": "16189599"
     }, 
     {
       "city": "Las Vegas", 
@@ -340,25 +355,6 @@ opendebate.processTimeline({
       "x": -71.146, 
       "latest_vote": null, 
       "id": 16291904, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Winchester", 
-      "first_name": "Jeff", 
-      "last_name": "Dearman", 
-      "user_id": 1810429, 
-      "submission": "What would you do to fix our nation's crumbling highway infrastructure? (bridges /roads, tunnels etc.) ", 
-      "district": "MA_05", 
-      "created": "2013-08-10T05:28:52", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.4529, 
-      "x": -71.146, 
-      "latest_vote": null, 
-      "id": 16291900, 
       "trending_score": 0.5
     }
   ]
