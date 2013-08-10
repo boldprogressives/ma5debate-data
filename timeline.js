@@ -3,33 +3,48 @@ opendebate.processTimeline({
   "entries": [
     {
       "city": "El Prado", 
-      "first_name": "Sally", 
-      "last_name": "Phelps", 
-      "user_id": 1567108, 
-      "submission": "Will you propose returning to REPUBLICAN top tax rates for the ultra-rich to reduce our deficit - either Eisenhower's 91% or Nixon's 70% - since neither of these created a depression or recession?", 
-      "district": "NM_03", 
-      "created": "2013-08-10T00:07:00", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16288704, 
-      "question_id": "16177435"
-    }, 
-    {
-      "city": "El Prado", 
       "first_name": "Janet", 
       "last_name": "Anderson", 
       "user_id": 1725594, 
-      "submission": "How would you reform the process of drawing congressional districts so that it represents the interests of the people and does not favor any one party?", 
+      "submission": "Will you vote YES to extending Medicare to everybody?", 
       "district": "NM_03", 
-      "created": "2013-08-10T00:06:36", 
+      "created": "2013-08-10T00:07:58", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16288699, 
-      "question_id": "16201951"
+      "id": 16288723, 
+      "question_id": "16174319"
+    }, 
+    {
+      "city": "El Prado", 
+      "first_name": "Sally", 
+      "last_name": "Phelps", 
+      "user_id": 1567108, 
+      "submission": "Will you vote to subsidize renewable, clean energy and eliminate subsidies for nonrenewable energy sources?", 
+      "district": "NM_03", 
+      "created": "2013-08-10T00:07:47", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 36.4486, 
+      "x": -105.575, 
+      "id": 16288713, 
+      "question_id": "16176491"
+    }, 
+    {
+      "city": "Quincy", 
+      "first_name": "Thomas", 
+      "last_name": "OKeefe II", 
+      "user_id": 39, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "MA_08", 
+      "created": "2013-08-10T00:07:20", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.2852, 
+      "x": -71.0253, 
+      "id": 16288707, 
+      "question_id": "16172777"
     }, 
     {
       "city": "Charleston", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -96.9548, 
       "id": 16287905, 
       "question_id": "16172207"
-    }, 
-    {
-      "city": "Roanoke Rapids", 
-      "first_name": "Brian", 
-      "last_name": "Bills", 
-      "user_id": 214956, 
-      "submission": "What can you do to improve public transit nationally, including building a good rail network, when the governors and legislatures of some key states are so resistant to it?", 
-      "district": "NC_01", 
-      "created": "2013-08-09T23:32:47", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 36.4514, 
-      "x": -77.6551, 
-      "id": 16287898, 
-      "question_id": "16172286"
     }
   ]
 });
