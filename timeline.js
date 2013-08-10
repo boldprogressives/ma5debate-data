@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Martha", 
       "last_name": "Milne", 
       "user_id": 128469, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "submission": "Why is this administration (and the last one!) working so hard to attack and weaken our Endangered Species Act, and make America's gray wolves go extinct?  Why are there national \"poisoning programs\" paid for by us  taxpayers that are wiping out important animal populations, as well as pets, and poisoning water sources and plant life? Will there ever be any politician who stands up for our very perishable environment? Do any elected representatives of the people understand the need for the balance of nature? Without a living earth, we are going to be dead ducks.  Hello? Anybody there?", 
       "district": "FL_19", 
-      "created": "2013-08-10T00:18:51", 
+      "created": "2013-08-10T00:19:22", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 26.6284, 
       "x": -81.8676, 
-      "id": 16288881, 
-      "question_id": "16172913"
+      "id": 16288883, 
+      "question_id": "16199648"
     }, 
     {
       "city": "El Prado", 
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "What wil you do about the gross take over of the communication business we need true diversity  not considerations that have noe real interest in serving the public in the way it was ment to do there should be one station per coverage area It is a terrible thing to see one company with 3 or more stations in one town how can that be truly in the public interest it is time to go back to the original owner system of the 60s & 70s repeal the communication act of 1996.   ", 
+      "submission": "Will you support raising the minimum wage to at least $10.00 per hour?", 
       "district": "NM_03", 
-      "created": "2013-08-10T00:18:47", 
+      "created": "2013-08-10T00:19:13", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16288880, 
-      "question_id": "16259199"
+      "id": 16288882, 
+      "question_id": "16260137"
     }, 
     {
       "city": "Oakland", 
