@@ -11228,7 +11228,7 @@ opendebate.processFetchedQuestions({
       "x": -84.5041, 
       "latest_vote": "2013-08-10T07:53:38", 
       "id": 16216792, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Jasper", 
