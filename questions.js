@@ -16149,7 +16149,7 @@ opendebate.processFetchedQuestions({
       "x": -122.074, 
       "latest_vote": "2013-08-10T06:14:50", 
       "id": 16201353, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Cincinnati", 
@@ -20158,7 +20158,7 @@ opendebate.processFetchedQuestions({
       "x": -82.5085, 
       "latest_vote": "2013-08-10T07:14:16", 
       "id": 16186103, 
-      "trending_score": 1.0
+      "trending_score": 1.1666666666666667
     }, 
     {
       "city": "Bronx", 
@@ -21165,7 +21165,7 @@ opendebate.processFetchedQuestions({
       "x": -73.9703, 
       "latest_vote": "2013-08-10T06:15:11", 
       "id": 16183913, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Venice", 
@@ -21374,7 +21374,7 @@ opendebate.processFetchedQuestions({
       "x": -73.9491, 
       "latest_vote": "2013-08-10T06:14:41", 
       "id": 16183533, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Sudbury", 
@@ -21450,7 +21450,7 @@ opendebate.processFetchedQuestions({
       "x": -73.7091, 
       "latest_vote": "2013-08-10T06:14:19", 
       "id": 16183435, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Newark", 
@@ -25345,7 +25345,7 @@ opendebate.processFetchedQuestions({
       "x": -97.9342, 
       "latest_vote": "2013-08-10T05:14:22", 
       "id": 16176482, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Albuquerque", 
@@ -25668,7 +25668,7 @@ opendebate.processFetchedQuestions({
       "x": -112.109, 
       "latest_vote": "2013-08-10T05:14:38", 
       "id": 16176088, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Salt Lake City", 
@@ -26029,7 +26029,7 @@ opendebate.processFetchedQuestions({
       "x": -90.6197, 
       "latest_vote": "2013-08-10T05:14:55", 
       "id": 16175852, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Davenport", 
