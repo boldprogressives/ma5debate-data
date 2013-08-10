@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Jane", 
       "last_name": "Bruce-Munro", 
       "user_id": 1644313, 
-      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
+      "submission": "In 2006, the lame-duck GOP congress enacted a bill forcing the U.S.Postal service to fully fund pensions for the next 75 years and do it in ten years. It's a bill that was designed to ruin the USPS so it could be privatized. Will you work to repeal this onerous bill and introduce legislation to allow the USPS to compete with private carriers?", 
       "district": "CA_20", 
-      "created": "2013-08-10T07:14:47", 
+      "created": "2013-08-10T07:15:58", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 36.9715, 
       "x": -121.985, 
-      "id": 16292217, 
-      "question_id": "16172583"
+      "id": 16292222, 
+      "question_id": "16206983"
     }, 
     {
       "city": "Grand Terrace", 
