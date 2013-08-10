@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Steven", 
       "last_name": "Born", 
       "user_id": 1699500, 
-      "submission": "Do you support the legalization of marijuana (which should be taxed & regulated like alcohol or tobacco)? If so, would you allow the release of nonviolent offenders from prison?", 
+      "submission": "Will you support a Constitutional Amendment to guarantee the existence of Labor Unions, the right to organize and negotiate, to strike without the loss of employment, and extend those rights to all private and public sector workers?", 
       "district": "NV_03", 
-      "created": "2013-08-10T05:54:59", 
+      "created": "2013-08-10T05:55:58", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 36.1135, 
       "x": -115.273, 
-      "id": 16292023, 
-      "question_id": "16172722"
+      "id": 16292032, 
+      "question_id": "16186103"
+    }, 
+    {
+      "city": "Birmingham", 
+      "first_name": "Dot", 
+      "last_name": "Canup", 
+      "user_id": 1565077, 
+      "submission": "will you support taxing companies for shipping jobs overseas instead of giving them tax rebates and refunds", 
+      "district": "AL_07", 
+      "created": "2013-08-10T05:55:49", 
+      "state": "AL", 
+      "iface": "timeline_vote", 
+      "y": 33.6391, 
+      "x": -86.6919, 
+      "id": 16292031, 
+      "question_id": "16209148"
     }, 
     {
       "city": "Ukiah", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -123.202, 
       "id": 16292022, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Birmingham", 
-      "first_name": "Dot", 
-      "last_name": "Canup", 
-      "user_id": 1565077, 
-      "submission": "How can we stop paying Congress for not doing their jobs and take away their healthcare benefits?", 
-      "district": "AL_07", 
-      "created": "2013-08-10T05:54:55", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 33.6391, 
-      "x": -86.6919, 
-      "id": 16292020, 
-      "question_id": "16210559"
     }, 
     {
       "city": "McMinnville", 
