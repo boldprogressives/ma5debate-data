@@ -21488,7 +21488,7 @@ opendebate.processFetchedQuestions({
       "x": -72.8957, 
       "latest_vote": "2013-08-10T15:58:38", 
       "id": 16185056, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "acme", 
