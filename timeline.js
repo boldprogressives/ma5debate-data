@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Las Cruces", 
+      "first_name": "leland", 
+      "last_name": "tyler", 
+      "user_id": 1768087, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "NM_02", 
+      "created": "2013-08-10T14:24:59", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 32.4081, 
+      "x": -106.708, 
+      "id": 16293383, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "North Bend", 
       "first_name": "Cheryl", 
       "last_name": "Meyer", 
       "user_id": 795081, 
-      "submission": "Can you explain why the people responsible for the failure of Wall Street and the banking industry have not been held accountable for the destruction of our economy.", 
+      "submission": "What do you see as the first steps to ensure food safety for all?", 
       "district": "WA_08", 
-      "created": "2013-08-10T14:23:17", 
+      "created": "2013-08-10T14:24:17", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 47.4752, 
       "x": -121.757, 
-      "id": 16293376, 
-      "question_id": "16201979"
+      "id": 16293380, 
+      "question_id": "16292560"
     }, 
     {
       "city": "Belmont", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -82.7307, 
       "id": 16292683, 
       "question_id": "16172731"
-    }, 
-    {
-      "city": "Gaithersburg", 
-      "first_name": "Arlene", 
-      "last_name": "Pater-Rov", 
-      "user_id": 1778721, 
-      "submission": "What are you doing to improve the Mental Health Treatment Program in Maryland?  The food in the mental health facilities should be fresh. ", 
-      "district": "MD_06", 
-      "created": "2013-08-10T13:22:51", 
-      "state": "MD", 
-      "iface": "timeline_vote", 
-      "y": 39.1055, 
-      "x": -77.2402, 
-      "id": 16292676, 
-      "question_id": "16205617"
     }
   ]
 });

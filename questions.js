@@ -86,15 +86,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_08", 
       "created": "2013-08-10T11:50:33", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.2138, 
       "x": -70.9328, 
-      "latest_vote": "2013-08-10T13:57:28", 
+      "latest_vote": "2013-08-10T14:24:17", 
       "id": 16292560, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Henderson", 
@@ -29859,15 +29859,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
       "state_votes": 269, 
-      "votes": 1827, 
+      "votes": 1828, 
       "district_votes": 73, 
       "state": "MT", 
       "iface": "question", 
       "y": 46.6453, 
       "x": -111.974, 
-      "latest_vote": "2013-08-10T14:22:07", 
+      "latest_vote": "2013-08-10T14:24:59", 
       "id": 16172777, 
-      "trending_score": 7.25
+      "trending_score": 8.25
     }, 
     {
       "city": "Gladstone", 
@@ -30448,15 +30448,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T21:04:54", 
       "state_votes": 3, 
-      "votes": 20, 
+      "votes": 21, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3942, 
       "x": -71.1802, 
-      "latest_vote": "2013-08-10T01:17:29", 
+      "latest_vote": "2013-08-10T14:24:54", 
       "id": 16172560, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Cambridge", 
