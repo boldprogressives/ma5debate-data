@@ -13917,16 +13917,16 @@ opendebate.processFetchedQuestions({
       "submission": "Would you support a living wage law that would force corporations, like Wal-Mart, whose Walton family owns more wealth than 40% of all Americans, to pay  living wages to all of their workers?", 
       "district": "CA_46", 
       "created": "2013-08-07T00:12:33", 
-      "state_votes": 31, 
-      "votes": 551, 
-      "district_votes": 9, 
+      "state_votes": 32, 
+      "votes": 552, 
+      "district_votes": 10, 
       "state": "CA", 
       "iface": "question", 
       "y": 33.8428, 
       "x": -117.955, 
-      "latest_vote": "2013-08-10T07:10:58", 
+      "latest_vote": "2013-08-10T13:14:29", 
       "id": 16210264, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Hemet", 
@@ -14078,7 +14078,7 @@ opendebate.processFetchedQuestions({
       "x": -99.16, 
       "latest_vote": "2013-08-10T07:15:03", 
       "id": 16209412, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "El Cajon", 
@@ -15057,16 +15057,16 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do to ensure that all Americans have access to the voting booth and what will you do to get money out of our elections so that we all have an equal voice?", 
       "district": "CA_02", 
       "created": "2013-08-06T21:20:24", 
-      "state_votes": 22, 
-      "votes": 586, 
-      "district_votes": 6, 
+      "state_votes": 23, 
+      "votes": 587, 
+      "district_votes": 7, 
       "state": "CA", 
       "iface": "question", 
       "y": 40.8726, 
       "x": -124.071, 
-      "latest_vote": "2013-08-10T04:00:30", 
+      "latest_vote": "2013-08-10T13:14:19", 
       "id": 16205834, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Addison", 
@@ -15798,16 +15798,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you vote to end tax loopholes for the rich, big business subsides, overseas corporate tax loopholes, wasteful wars, foreign country subsides, quality health care for all, good safe food for all, clean air, clean energy, clean safe drinking water, useful education and job opportunities for all hard working citizens that can achieve these levels and deserve it, gun control, to end wall street fraud and corruption.", 
       "district": "MI_11", 
       "created": "2013-08-06T19:59:23", 
-      "state_votes": 19, 
-      "votes": 597, 
-      "district_votes": 4, 
+      "state_votes": 20, 
+      "votes": 598, 
+      "district_votes": 5, 
       "state": "MI", 
       "iface": "question", 
       "y": 42.5952, 
       "x": -83.1201, 
-      "latest_vote": "2013-08-10T07:11:30", 
+      "latest_vote": "2013-08-10T13:14:02", 
       "id": 16203215, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Lake Worth", 
@@ -16339,7 +16339,7 @@ opendebate.processFetchedQuestions({
       "x": -72.7291, 
       "latest_vote": "2013-08-10T07:14:33", 
       "id": 16201159, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Saint Cloud", 
@@ -26381,16 +26381,16 @@ opendebate.processFetchedQuestions({
       "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
       "district": "IL_12", 
       "created": "2013-08-05T01:05:31", 
-      "state_votes": 54, 
-      "votes": 490, 
-      "district_votes": 10, 
+      "state_votes": 55, 
+      "votes": 491, 
+      "district_votes": 11, 
       "state": "IL", 
       "iface": "question", 
       "y": 38.3176, 
       "x": -88.9093, 
-      "latest_vote": "2013-08-10T07:15:15", 
+      "latest_vote": "2013-08-10T13:14:41", 
       "id": 16175634, 
-      "trending_score": 0.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Mount Vernon", 
@@ -30323,7 +30323,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T07:14:47", 
       "id": 16172583, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "ARLINGTON", 
