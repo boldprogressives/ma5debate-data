@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Edmonds", 
+      "first_name": "Edward Anthony", 
+      "last_name": "Aldridge", 
+      "user_id": 1758854, 
+      "submission": "Do you support National standards for how federal elections should be run, to reduce long wait times at polls, limit unexplained removal of voter registrations and challenges to voters at the pole,  uneven eligibility of voting rights for federal elections,  making it a crime to send of false and misleading info to voters via mail, email or phone call, and how districts must be drawn to ensure that gerrymandering is minimized?", 
+      "district": "WA_07", 
+      "created": "2013-08-10T07:20:37", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 47.8408, 
+      "x": -122.337, 
+      "id": 16292251, 
+      "question_id": "16222728"
+    }, 
+    {
       "city": "Santa Cruz", 
       "first_name": "Jane", 
       "last_name": "Bruce-Munro", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -121.985, 
       "id": 16292248, 
       "question_id": "16201979"
-    }, 
-    {
-      "city": "Edmonds", 
-      "first_name": "Edward Anthony", 
-      "last_name": "Aldridge", 
-      "user_id": 1758854, 
-      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
-      "district": "WA_07", 
-      "created": "2013-08-10T07:18:28", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 47.8408, 
-      "x": -122.337, 
-      "id": 16292245, 
-      "question_id": "16173335"
     }, 
     {
       "city": "Grand Terrace", 
