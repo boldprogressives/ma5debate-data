@@ -13907,7 +13907,7 @@ opendebate.processFetchedQuestions({
       "x": -117.955, 
       "latest_vote": "2013-08-10T07:10:58", 
       "id": 16210264, 
-      "trending_score": 0.5
+      "trending_score": 0.16666666666666666
     }, 
     {
       "city": "Hemet", 
@@ -17023,7 +17023,7 @@ opendebate.processFetchedQuestions({
       "x": -78.9237, 
       "latest_vote": "2013-08-10T07:17:03", 
       "id": 16197620, 
-      "trending_score": 0.5
+      "trending_score": 0.25
     }, 
     {
       "city": "Brevard", 
@@ -19265,7 +19265,7 @@ opendebate.processFetchedQuestions({
       "x": -86.4577, 
       "latest_vote": "2013-08-10T06:10:20", 
       "id": 16189599, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "McKinney", 
@@ -24281,7 +24281,7 @@ opendebate.processFetchedQuestions({
       "x": -106.578, 
       "latest_vote": "2013-08-10T07:16:28", 
       "id": 16178177, 
-      "trending_score": 0.5
+      "trending_score": 0.3333333333333333
     }, 
     {
       "city": "San Antonio", 
@@ -29791,7 +29791,7 @@ opendebate.processFetchedQuestions({
       "x": -111.974, 
       "latest_vote": "2013-08-10T11:07:40", 
       "id": 16172777, 
-      "trending_score": 2.083333333333333
+      "trending_score": 2.3333333333333335
     }, 
     {
       "city": "Gladstone", 
@@ -29810,7 +29810,7 @@ opendebate.processFetchedQuestions({
       "x": -122.589, 
       "latest_vote": "2013-08-10T11:42:45", 
       "id": 16172765, 
-      "trending_score": 1.3333333333333333
+      "trending_score": 1.5
     }, 
     {
       "city": "Egg Harbor", 
@@ -29962,7 +29962,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7109, 
       "latest_vote": "2013-08-10T07:18:17", 
       "id": 16172722, 
-      "trending_score": 0.5
+      "trending_score": 0.25
     }, 
     {
       "city": "Albuquerque", 
@@ -30038,7 +30038,7 @@ opendebate.processFetchedQuestions({
       "x": -116.297, 
       "latest_vote": "2013-08-10T11:58:35", 
       "id": 16172697, 
-      "trending_score": 3.3333333333333335
+      "trending_score": 3.5
     }, 
     {
       "city": "Holts Summit", 
