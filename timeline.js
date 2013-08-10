@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Allston", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810404, 
+      "submission": "Will you support immigration reform with a path to citizenship ?", 
+      "district": "MA_07", 
+      "created": "2013-08-10T01:26:36", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3581, 
+      "x": -71.1306, 
+      "id": 16289661, 
+      "question_id": "16172648"
+    }, 
+    {
       "city": "Reno", 
       "first_name": "Tim", 
       "last_name": "Sanders", 
       "user_id": 974978, 
-      "submission": "Will you support immigration reform with a path to citizenship ?", 
+      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
       "district": "NV_02", 
-      "created": "2013-08-10T01:26:00", 
+      "created": "2013-08-10T01:26:36", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 39.7704, 
       "x": -119.617, 
-      "id": 16289657, 
-      "question_id": "16172648"
+      "id": 16289662, 
+      "question_id": "16175230"
     }, 
     {
       "city": "Watertown", 
       "first_name": "", 
       "last_name": "", 
       "user_id": 1810405, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
       "district": "MA_05", 
-      "created": "2013-08-10T01:25:52", 
+      "created": "2013-08-10T01:26:18", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3713, 
       "x": -71.1804, 
-      "id": 16289654, 
-      "question_id": "16172281"
+      "id": 16289660, 
+      "question_id": "16172542"
     }, 
     {
       "city": "Cumming", 
@@ -60,21 +75,6 @@ opendebate.processTimeline({
       "x": -73.5882, 
       "id": 16289650, 
       "question_id": "16204423"
-    }, 
-    {
-      "city": "Allston", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1810404, 
-      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
-      "district": "MA_07", 
-      "created": "2013-08-10T01:24:28", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3581, 
-      "x": -71.1306, 
-      "id": 16289636, 
-      "question_id": "16172755"
     }, 
     {
       "city": "El Prado", 
