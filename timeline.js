@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Margaret", 
       "last_name": "Goodwin", 
       "user_id": 1697661, 
-      "submission": "The republicans have been systematically attacking women's reproductive health care rights. What will you do to fight this unconstitutional rollback of women's privacy that will hurt our poorest women the most?", 
+      "submission": "Will you support public financing for all elections?", 
       "district": "OR_05", 
-      "created": "2013-08-10T16:00:54", 
+      "created": "2013-08-10T16:02:03", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 44.8433, 
       "x": -123.186, 
-      "id": 16294284, 
-      "question_id": "16224538"
+      "id": 16294291, 
+      "question_id": "16209328"
     }, 
     {
       "city": "Jacksonville", 
