@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Steven", 
       "last_name": "Born", 
       "user_id": 1699500, 
-      "submission": "Climate change is moving us towards a planet that may not support human life.  Will you make addressing climate change one of your highest priorities?", 
+      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
       "district": "NV_03", 
-      "created": "2013-08-10T05:48:57", 
+      "created": "2013-08-10T05:49:38", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 36.1135, 
       "x": -115.273, 
-      "id": 16291984, 
-      "question_id": "16175078"
+      "id": 16291986, 
+      "question_id": "16175634"
     }, 
     {
       "city": "Birmingham", 
