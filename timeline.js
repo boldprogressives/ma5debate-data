@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Las Vegas", 
-      "first_name": "Steven", 
-      "last_name": "Born", 
-      "user_id": 1699500, 
-      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
-      "district": "NV_03", 
-      "created": "2013-08-10T05:50:57", 
-      "state": "NV", 
-      "iface": "timeline_vote", 
-      "y": 36.1135, 
-      "x": -115.273, 
-      "id": 16291992, 
-      "question_id": "16172583"
-    }, 
-    {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Do you support the American Anti-Corruption Act?  This proposed legislation would overhaul campaign finance laws, impose strict lobbying and conflict-of-interest laws, and end secret political money.", 
+      "submission": "When is Washington going to realize they aren't on the payroll of the rich?", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:50:00", 
+      "created": "2013-08-10T05:51:35", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291988, 
-      "question_id": "16213342"
+      "id": 16291995, 
+      "question_id": "16213485"
+    }, 
+    {
+      "city": "Las Vegas", 
+      "first_name": "Steven", 
+      "last_name": "Born", 
+      "user_id": 1699500, 
+      "submission": "Who are your corporate sponsors? Would you be in favor of all politicians wearing patches on their cloths with the corporate logo's of their sponsors just like athletes do. This way we know where the money comes from before we vote.", 
+      "district": "NV_03", 
+      "created": "2013-08-10T05:51:27", 
+      "state": "NV", 
+      "iface": "timeline_vote", 
+      "y": 36.1135, 
+      "x": -115.273, 
+      "id": 16291994, 
+      "question_id": "16175691"
     }, 
     {
       "city": "McMinnville", 
