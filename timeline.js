@@ -6,15 +6,34 @@ opendebate.processTimeline({
       "first_name": "Margaret", 
       "last_name": "Goodwin", 
       "user_id": 1697661, 
-      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
       "district": "OR_05", 
-      "created": "2013-08-10T15:50:00", 
+      "created": "2013-08-10T15:50:55", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 44.8433, 
       "x": -123.186, 
-      "id": 16294161, 
-      "question_id": "16172303"
+      "id": 16294171, 
+      "question_id": "16172690"
+    }, 
+    {
+      "city": "Spokane", 
+      "first_name": "David", 
+      "last_name": "Lindsey", 
+      "user_id": 1563295, 
+      "submission": "The gross inequity in the distribution of personal wealth is distorting our economy and society.What can we do to reduce the distortion of personal wealth and make our society more equitable?", 
+      "district": "WA_05", 
+      "created": "2013-08-10T15:50:24", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WA", 
+      "iface": "timeline_question", 
+      "y": 47.6394, 
+      "x": -117.478, 
+      "latest_vote": null, 
+      "id": 16294164, 
+      "trending_score": 0.5
     }, 
     {
       "city": "Indian Orchard", 
@@ -317,21 +336,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16293808, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Bend", 
-      "first_name": "Robert", 
-      "last_name": "Marvos", 
-      "user_id": 1081036, 
-      "submission": "Would you vote to relieve the onerous burden that Congress imposed on the Post Office?", 
-      "district": "OR_02", 
-      "created": "2013-08-10T15:04:51", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 44.0221, 
-      "x": -121.297, 
-      "id": 16293797, 
-      "question_id": "16185056"
     }
   ]
 });

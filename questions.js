@@ -2,6 +2,25 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Spokane", 
+      "first_name": "David", 
+      "last_name": "Lindsey", 
+      "user_id": 1563295, 
+      "submission": "The gross inequity in the distribution of personal wealth is distorting our economy and society.What can we do to reduce the distortion of personal wealth and make our society more equitable?", 
+      "district": "WA_05", 
+      "created": "2013-08-10T15:50:24", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WA", 
+      "iface": "question", 
+      "y": 47.6394, 
+      "x": -117.478, 
+      "latest_vote": null, 
+      "id": 16294164, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Indian Orchard", 
       "first_name": "Miguel", 
       "last_name": "Soto", 
@@ -7998,7 +8017,7 @@ opendebate.processFetchedQuestions({
       "x": -73.25, 
       "latest_vote": "2013-08-10T11:21:28", 
       "id": 16227025, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Lexington", 
@@ -15541,7 +15560,7 @@ opendebate.processFetchedQuestions({
       "x": -77.4268, 
       "latest_vote": "2013-08-10T15:49:00", 
       "id": 16205884, 
-      "trending_score": 5.5
+      "trending_score": 3.0
     }, 
     {
       "city": "McKinleyville", 
@@ -22077,7 +22096,7 @@ opendebate.processFetchedQuestions({
       "x": -75.7463, 
       "latest_vote": "2013-08-10T12:41:01", 
       "id": 16183415, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "UNIO PIER", 
@@ -25098,7 +25117,7 @@ opendebate.processFetchedQuestions({
       "x": -111.045, 
       "latest_vote": "2013-08-10T14:28:38", 
       "id": 16177825, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Franklin", 
@@ -25782,7 +25801,7 @@ opendebate.processFetchedQuestions({
       "x": -111.75, 
       "latest_vote": "2013-08-10T12:40:28", 
       "id": 16176653, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Seattle", 
@@ -28434,15 +28453,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_02", 
       "created": "2013-08-04T14:21:20", 
       "state_votes": 135, 
-      "votes": 1011, 
+      "votes": 1012, 
       "district_votes": 35, 
       "state": "CO", 
       "iface": "question", 
       "y": 40.5342, 
       "x": -105.043, 
-      "latest_vote": "2013-08-10T15:34:30", 
+      "latest_vote": "2013-08-10T15:50:27", 
       "id": 16173921, 
-      "trending_score": 9.5
+      "trending_score": 10.0
     }, 
     {
       "city": "Fort Collins", 
@@ -29308,15 +29327,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:25:59", 
       "state_votes": 248, 
-      "votes": 1687, 
+      "votes": 1688, 
       "district_votes": 78, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-10T15:44:09", 
+      "latest_vote": "2013-08-10T15:50:46", 
       "id": 16173264, 
-      "trending_score": 8.166666666666668
+      "trending_score": 8.5
     }, 
     {
       "city": "Prosper", 
@@ -30296,15 +30315,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
       "state_votes": 269, 
-      "votes": 1843, 
+      "votes": 1844, 
       "district_votes": 73, 
       "state": "MT", 
       "iface": "question", 
       "y": 46.6453, 
       "x": -111.974, 
-      "latest_vote": "2013-08-10T15:44:00", 
+      "latest_vote": "2013-08-10T15:50:32", 
       "id": 16172777, 
-      "trending_score": 8.5
+      "trending_score": 8.833333333333332
     }, 
     {
       "city": "Gladstone", 
@@ -30410,15 +30429,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:21:20", 
       "state_votes": 123, 
-      "votes": 1072, 
+      "votes": 1073, 
       "district_votes": 25, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.5746, 
       "x": -122.811, 
-      "latest_vote": "2013-08-10T15:44:56", 
+      "latest_vote": "2013-08-10T15:50:10", 
       "id": 16172731, 
-      "trending_score": 12.5
+      "trending_score": 13.5
     }, 
     {
       "city": "Chicago", 
@@ -30619,15 +30638,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:09:55", 
       "state_votes": 131, 
-      "votes": 884, 
+      "votes": 885, 
       "district_votes": 35, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.3581, 
       "x": -122.594, 
-      "latest_vote": "2013-08-10T15:33:40", 
+      "latest_vote": "2013-08-10T15:50:55", 
       "id": 16172690, 
-      "trending_score": 7.5
+      "trending_score": 8.5
     }, 
     {
       "city": "Gig Harbor", 
@@ -30942,15 +30961,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T20:45:26", 
       "state_votes": 209, 
-      "votes": 1357, 
+      "votes": 1358, 
       "district_votes": 58, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-10T15:32:01", 
+      "latest_vote": "2013-08-10T15:50:20", 
       "id": 16172533, 
-      "trending_score": 10.0
+      "trending_score": 10.5
     }, 
     {
       "city": "Medford", 
@@ -31132,15 +31151,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:33:11", 
       "state_votes": 267, 
-      "votes": 1740, 
+      "votes": 1741, 
       "district_votes": 73, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-10T15:34:04", 
+      "latest_vote": "2013-08-10T15:50:37", 
       "id": 16172266, 
-      "trending_score": 8.166666666666668
+      "trending_score": 8.5
     }, 
     {
       "city": "Cambridge", 
