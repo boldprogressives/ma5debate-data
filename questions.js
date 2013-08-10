@@ -23266,15 +23266,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_07", 
       "created": "2013-08-06T12:32:01", 
       "state_votes": 29, 
-      "votes": 775, 
+      "votes": 776, 
       "district_votes": 9, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3818, 
       "x": -71.1032, 
-      "latest_vote": "2013-08-10T14:56:30", 
+      "latest_vote": "2013-08-10T15:08:02", 
       "id": 16180998, 
-      "trending_score": 5.5
+      "trending_score": 6.5
     }, 
     {
       "city": "Irvine", 
@@ -28320,15 +28320,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_02", 
       "created": "2013-08-04T14:21:20", 
       "state_votes": 135, 
-      "votes": 1008, 
+      "votes": 1009, 
       "district_votes": 35, 
       "state": "CO", 
       "iface": "question", 
       "y": 40.5342, 
       "x": -105.043, 
-      "latest_vote": "2013-08-10T14:52:23", 
+      "latest_vote": "2013-08-10T15:07:06", 
       "id": 16173921, 
-      "trending_score": 15.5
+      "trending_score": 16.5
     }, 
     {
       "city": "Fort Collins", 
@@ -30429,15 +30429,15 @@ opendebate.processFetchedQuestions({
       "district": "ID_02", 
       "created": "2013-08-03T22:11:15", 
       "state_votes": 102, 
-      "votes": 854, 
+      "votes": 855, 
       "district_votes": 25, 
       "state": "ID", 
       "iface": "question", 
       "y": 43.6302, 
       "x": -116.297, 
-      "latest_vote": "2013-08-10T14:59:44", 
+      "latest_vote": "2013-08-10T15:07:30", 
       "id": 16172697, 
-      "trending_score": 6.0
+      "trending_score": 6.5
     }, 
     {
       "city": "Holts Summit", 
@@ -30505,15 +30505,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:09:55", 
       "state_votes": 131, 
-      "votes": 882, 
+      "votes": 883, 
       "district_votes": 35, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.3581, 
       "x": -122.594, 
-      "latest_vote": "2013-08-10T14:52:30", 
+      "latest_vote": "2013-08-10T15:07:22", 
       "id": 16172690, 
-      "trending_score": 5.5
+      "trending_score": 6.5
     }, 
     {
       "city": "Gig Harbor", 

@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Montville", 
+      "first_name": "Colleen", 
+      "last_name": "Sattelmaier", 
+      "user_id": 1691702, 
+      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
+      "district": "OH_14", 
+      "created": "2013-08-10T15:08:02", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 41.5975, 
+      "x": -81.0504, 
+      "id": 16293831, 
+      "question_id": "16180998"
+    }, 
+    {
       "city": "Indian Orchard", 
       "first_name": "Miguel", 
       "last_name": "Soto", 
@@ -19,21 +34,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16293822, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Montville", 
-      "first_name": "Colleen", 
-      "last_name": "Sattelmaier", 
-      "user_id": 1691702, 
-      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
-      "district": "OH_14", 
-      "created": "2013-08-10T15:06:59", 
-      "state": "OH", 
-      "iface": "timeline_vote", 
-      "y": 41.5975, 
-      "x": -81.0504, 
-      "id": 16293821, 
-      "question_id": "16175740"
     }, 
     {
       "city": "New York", 
