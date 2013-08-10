@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Edward Anthony", 
       "last_name": "Aldridge", 
       "user_id": 1758854, 
-      "submission": "Will you pledge to change the current filibuster rule to what it had been in the past where a Senator had to stand and speak for the duration his/her filibuster? If not, why not?", 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
       "district": "WA_07", 
-      "created": "2013-08-10T07:17:03", 
+      "created": "2013-08-10T07:17:42", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 47.8408, 
       "x": -122.337, 
-      "id": 16292234, 
-      "question_id": "16197620"
+      "id": 16292240, 
+      "question_id": "16172533"
     }, 
     {
       "city": "Santa Cruz", 
       "first_name": "Jane", 
       "last_name": "Bruce-Munro", 
       "user_id": 1644313, 
-      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
+      "submission": "Do you support the concept of keeping church and state separate?", 
       "district": "CA_20", 
-      "created": "2013-08-10T07:16:55", 
+      "created": "2013-08-10T07:17:21", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 36.9715, 
       "x": -121.985, 
-      "id": 16292233, 
-      "question_id": "16172697"
+      "id": 16292237, 
+      "question_id": "16173921"
     }, 
     {
       "city": "Grand Terrace", 
