@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "San Diego", 
+      "first_name": "Bonnie", 
+      "last_name": "Breckenridge", 
+      "user_id": 107950, 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "district": "CA_51", 
+      "created": "2013-08-10T02:44:57", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 32.7403, 
+      "x": -117.092, 
+      "id": 16290542, 
+      "question_id": "16172913"
+    }, 
+    {
       "city": "Belmont", 
       "first_name": "Dianna", 
       "last_name": "Arens", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "x": -80.3226, 
       "id": 16289817, 
       "question_id": "16202059"
-    }, 
-    {
-      "city": "Oswego", 
-      "first_name": "Sandra", 
-      "last_name": "Van Schaack", 
-      "user_id": 553291, 
-      "submission": "Serving in Congress is not a career.  Will you vote for term limits?", 
-      "district": "NY_24", 
-      "created": "2013-08-10T01:45:52", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 43.4515, 
-      "x": -76.5017, 
-      "id": 16289806, 
-      "question_id": "16173323"
     }
   ]
 });
