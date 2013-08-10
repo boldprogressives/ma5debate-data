@@ -14249,7 +14249,7 @@ opendebate.processFetchedQuestions({
       "x": -77.0166, 
       "latest_vote": "2013-08-10T06:22:43", 
       "id": 16208638, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Uxbridge", 
@@ -14781,7 +14781,7 @@ opendebate.processFetchedQuestions({
       "x": -70.9045, 
       "latest_vote": "2013-08-10T06:22:54", 
       "id": 16206519, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Melbourne Beach", 
@@ -24965,7 +24965,7 @@ opendebate.processFetchedQuestions({
       "x": -110.829, 
       "latest_vote": "2013-08-10T06:22:16", 
       "id": 16176743, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Portland", 
@@ -25345,7 +25345,7 @@ opendebate.processFetchedQuestions({
       "x": -122.192, 
       "latest_vote": "2013-08-10T06:23:15", 
       "id": 16176565, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Kihei", 
@@ -25611,7 +25611,7 @@ opendebate.processFetchedQuestions({
       "x": -104.946, 
       "latest_vote": "2013-08-10T06:22:37", 
       "id": 16176283, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Thornton", 
@@ -27340,7 +27340,7 @@ opendebate.processFetchedQuestions({
       "x": -122.298, 
       "latest_vote": "2013-08-10T11:38:27", 
       "id": 16174466, 
-      "trending_score": 3.1666666666666665
+      "trending_score": 3.25
     }, 
     {
       "city": "Albany", 
@@ -27625,7 +27625,7 @@ opendebate.processFetchedQuestions({
       "x": -112.112, 
       "latest_vote": "2013-08-10T06:23:14", 
       "id": 16174323, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Phoenix", 
@@ -28575,7 +28575,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-10T07:13:32", 
       "id": 16173327, 
-      "trending_score": 0.16666666666666666
+      "trending_score": 0.25
     }, 
     {
       "city": "Louisville", 
