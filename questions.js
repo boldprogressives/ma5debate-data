@@ -2,6 +2,25 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Indian Orchard", 
+      "first_name": "Miguel", 
+      "last_name": "Soto", 
+      "user_id": 1716772, 
+      "submission": "\"Any candidate\" Will you continue to work with the president plan to bring our soldiers home from Ira k and Afghanistan and keep only training troops to restore order in these countries?", 
+      "district": "MA_01", 
+      "created": "2013-08-10T15:07:00", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.151, 
+      "x": -72.5065, 
+      "latest_vote": null, 
+      "id": 16293822, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "New York", 
       "first_name": "Jake", 
       "last_name": "Jacobs", 
@@ -26610,15 +26629,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_08", 
       "created": "2013-08-05T01:44:45", 
       "state_votes": 98, 
-      "votes": 1066, 
+      "votes": 1067, 
       "district_votes": 34, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.174, 
       "x": -87.9643, 
-      "latest_vote": "2013-08-10T14:59:11", 
+      "latest_vote": "2013-08-10T15:06:59", 
       "id": 16175740, 
-      "trending_score": 11.5
+      "trending_score": 12.5
     }, 
     {
       "city": "Buffalo Grove", 
@@ -28890,15 +28909,15 @@ opendebate.processFetchedQuestions({
       "district": "TN_02", 
       "created": "2013-08-04T02:07:32", 
       "state_votes": 140, 
-      "votes": 1131, 
+      "votes": 1132, 
       "district_votes": 32, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.8311, 
       "x": -84.0482, 
-      "latest_vote": "2013-08-10T14:55:16", 
+      "latest_vote": "2013-08-10T15:06:23", 
       "id": 16173335, 
-      "trending_score": 14.5
+      "trending_score": 15.5
     }, 
     {
       "city": "Evansville", 
@@ -29194,15 +29213,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:22:04", 
       "state_votes": 154, 
-      "votes": 1118, 
+      "votes": 1119, 
       "district_votes": 38, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-10T14:58:19", 
+      "latest_vote": "2013-08-10T15:06:31", 
       "id": 16173259, 
-      "trending_score": 17.5
+      "trending_score": 18.5
     }, 
     {
       "city": "Manitowoc", 
@@ -30277,15 +30296,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:21:20", 
       "state_votes": 123, 
-      "votes": 1068, 
+      "votes": 1069, 
       "district_votes": 25, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.5746, 
       "x": -122.811, 
-      "latest_vote": "2013-08-10T14:58:42", 
+      "latest_vote": "2013-08-10T15:06:45", 
       "id": 16172731, 
-      "trending_score": 8.5
+      "trending_score": 9.5
     }, 
     {
       "city": "Chicago", 
@@ -30866,15 +30885,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:52:54", 
       "state_votes": 179, 
-      "votes": 1146, 
+      "votes": 1147, 
       "district_votes": 49, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4207, 
       "x": -71.1582, 
-      "latest_vote": "2013-08-10T14:59:49", 
+      "latest_vote": "2013-08-10T15:06:16", 
       "id": 16172303, 
-      "trending_score": 20.5
+      "trending_score": 21.5
     }, 
     {
       "city": "Arlington", 

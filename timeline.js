@@ -2,19 +2,38 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Indian Orchard", 
+      "first_name": "Miguel", 
+      "last_name": "Soto", 
+      "user_id": 1716772, 
+      "submission": "\"Any candidate\" Will you continue to work with the president plan to bring our soldiers home from Ira k and Afghanistan and keep only training troops to restore order in these countries?", 
+      "district": "MA_01", 
+      "created": "2013-08-10T15:07:00", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.151, 
+      "x": -72.5065, 
+      "latest_vote": null, 
+      "id": 16293822, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Montville", 
       "first_name": "Colleen", 
       "last_name": "Sattelmaier", 
       "user_id": 1691702, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
       "district": "OH_14", 
-      "created": "2013-08-10T15:06:00", 
+      "created": "2013-08-10T15:06:59", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 41.5975, 
       "x": -81.0504, 
-      "id": 16293811, 
-      "question_id": "16172913"
+      "id": 16293821, 
+      "question_id": "16175740"
     }, 
     {
       "city": "New York", 
@@ -328,25 +347,6 @@ opendebate.processTimeline({
       "x": -87.6365, 
       "latest_vote": null, 
       "id": 16293750, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Chicago", 
-      "first_name": "Peter", 
-      "last_name": "Moxon", 
-      "user_id": 128965, 
-      "submission": "Where you pledge to vote against the chained CPI when applied to Social Security, Medicare, Medicaid funding", 
-      "district": "IL_07", 
-      "created": "2013-08-10T14:59:33", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "IL", 
-      "iface": "timeline_question", 
-      "y": 41.899, 
-      "x": -87.6365, 
-      "latest_vote": null, 
-      "id": 16293748, 
       "trending_score": 0.5
     }
   ]
