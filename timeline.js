@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Birmingham", 
-      "first_name": "Dot", 
-      "last_name": "Canup", 
-      "user_id": 1565077, 
-      "submission": "Will you work to make fillibustering serve its original purpose - to ensure debate, rather than stopping the possibility of voting on a bill?  There should be only talk about the bill in question during a fillibuster.", 
-      "district": "AL_07", 
-      "created": "2013-08-10T04:47:00", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 33.6391, 
-      "x": -86.6919, 
-      "id": 16291444, 
-      "question_id": "16224965"
-    }, 
-    {
       "city": "Cleveland", 
       "first_name": "Ernest", 
       "last_name": "Montoro", 
       "user_id": 1686159, 
-      "submission": "How will you support the dignity and freedom of women to make medical decisions with their health care providers without interference of federal and state laws?", 
+      "submission": "Will you introduce legislation or a rules change -- whichever it takes -- that will mean Congress and their families must be subject to the same laws it passes for other citizens?  If not, why not?", 
       "district": "OH_09", 
-      "created": "2013-08-10T04:46:56", 
+      "created": "2013-08-10T04:47:57", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 41.3872, 
       "x": -81.7022, 
-      "id": 16291443, 
-      "question_id": "16183415"
+      "id": 16291454, 
+      "question_id": "16244527"
+    }, 
+    {
+      "city": "Birmingham", 
+      "first_name": "Dot", 
+      "last_name": "Canup", 
+      "user_id": 1565077, 
+      "submission": "Will you go on record to oppose chained CPI?", 
+      "district": "AL_07", 
+      "created": "2013-08-10T04:47:41", 
+      "state": "AL", 
+      "iface": "timeline_vote", 
+      "y": 33.6391, 
+      "x": -86.6919, 
+      "id": 16291452, 
+      "question_id": "16225266"
     }, 
     {
       "city": "Phoenix", 
