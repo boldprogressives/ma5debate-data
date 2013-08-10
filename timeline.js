@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Steven", 
       "last_name": "Born", 
       "user_id": 1699500, 
-      "submission": "Would you support a ban on Congresspersons accepting jobs as corporate lobbyists for at least ten years after leaving Congress?", 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "NV_03", 
-      "created": "2013-08-10T05:53:02", 
+      "created": "2013-08-10T05:54:00", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 36.1135, 
       "x": -115.273, 
-      "id": 16292005, 
-      "question_id": "16178177"
+      "id": 16292013, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "We have an unemployment crisis in this country - a crisis so big this question requires two parts.  First, if you could pass absolutely anything into law, what would you do to address this crisis?  Second, given the constraints of the current Do-Nothing Congress, what would you do to address this crisis?", 
+      "submission": "Should profitable corporations socialize their labor costs onto the US safety net, by paying such low wages their employees qualify for food stamps and medicaid? What should be done about this back-door subsidy?", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:53:01", 
+      "created": "2013-08-10T05:53:53", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292004, 
-      "question_id": "16211042"
+      "id": 16292011, 
+      "question_id": "16211614"
     }, 
     {
       "city": "McMinnville", 
