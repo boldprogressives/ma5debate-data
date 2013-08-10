@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Mount Vernon", 
+      "first_name": "Laura", 
+      "last_name": "Mays", 
+      "user_id": 1740783, 
+      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
+      "district": "IL_12", 
+      "created": "2013-08-10T03:11:05", 
+      "state": "IL", 
+      "iface": "timeline_vote", 
+      "y": 38.3176, 
+      "x": -88.9093, 
+      "id": 16290685, 
+      "question_id": "16180998"
+    }, 
+    {
       "city": "Bisbee", 
       "first_name": "Bridget", 
       "last_name": "Burke", 
       "user_id": 1592935, 
-      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "submission": "Will you support a national bill to decriminalize marijuana?", 
       "district": "AZ_02", 
-      "created": "2013-08-10T03:09:52", 
+      "created": "2013-08-10T03:10:34", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 31.4588, 
       "x": -109.946, 
-      "id": 16290671, 
-      "question_id": "16172727"
+      "id": 16290680, 
+      "question_id": "16290490"
     }, 
     {
       "city": "Mansfield", 
@@ -284,30 +299,15 @@ opendebate.processTimeline({
       "district": "HI_02", 
       "created": "2013-08-10T02:13:30", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "HI", 
       "iface": "timeline_question", 
       "y": 19.6647, 
       "x": -155.981, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-10T03:10:34", 
       "id": 16290490, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Prosper", 
-      "first_name": "Jeffrey", 
-      "last_name": "Wallace", 
-      "user_id": 1653140, 
-      "submission": "What can you do to stop this sickness of MONSANTO paying off Congressmen,FDA,EPA,USDA and many others to sicken poison and degrade a system which was put in place to preserve our Health and Safty?", 
-      "district": "TX_03", 
-      "created": "2013-08-10T02:09:49", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 33.2476, 
-      "x": -96.8112, 
-      "id": 16290439, 
-      "question_id": "16215471"
+      "trending_score": 1.5
     }
   ]
 });
