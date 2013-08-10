@@ -6,15 +6,45 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "What, specifically, would you do to protect the right to vote for all? Please address specifically a new Voting Rights Act and the concept of a paper ballot that can be verified by the voter.", 
+      "submission": "Do you think there should be a separation of corporations and state similar to the separation of church and state? If so, what specific actions would you take to get money out of politics?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:55:54", 
+      "created": "2013-08-10T04:56:42", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291766, 
-      "question_id": "16207107"
+      "id": 16291771, 
+      "question_id": "16206519"
+    }, 
+    {
+      "city": "Arlington", 
+      "first_name": "william", 
+      "last_name": "pagan", 
+      "user_id": 1631843, 
+      "submission": "Re Gun Control:  Will you fight the NRA to achieve basic reforms that most Americans agree on?:* Some people should never own any type of weapon.* Some weapons should never be owned by anyone.* Background checks should be universal and enforced.* Basic defense of self and home requires only a simple rifle and/or pistol, not assault weapons.* The Second Amendment refers to a \"well-regulated militia\"; this clause cannot be ignored, everything that follows relates to that.  It does not mean that any and all Americans may own any and all forms of weaponry. Would you support an amendment to the U.S. Constitution clarifying the Second Amendment as suggested above?", 
+      "district": "TX_06", 
+      "created": "2013-08-10T04:56:30", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 32.7561, 
+      "x": -97.1358, 
+      "id": 16291770, 
+      "question_id": "16232223"
+    }, 
+    {
+      "city": "Phoenix", 
+      "first_name": "Lynne", 
+      "last_name": "Vestal", 
+      "user_id": 1121128, 
+      "submission": "What is your stand on full disclosure of all campaign contributions, including specifically identifiable individual and corporate donations to PACs.", 
+      "district": "AZ_09", 
+      "created": "2013-08-10T04:56:16", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 33.559, 
+      "x": -112.089, 
+      "id": 16291768, 
+      "question_id": "16199834"
     }, 
     {
       "city": "San Antonio", 
@@ -30,21 +60,6 @@ opendebate.processTimeline({
       "x": -98.53, 
       "id": 16291761, 
       "question_id": "16178120"
-    }, 
-    {
-      "city": "Phoenix", 
-      "first_name": "Lynne", 
-      "last_name": "Vestal", 
-      "user_id": 1121128, 
-      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
-      "district": "AZ_09", 
-      "created": "2013-08-10T04:54:42", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 33.559, 
-      "x": -112.089, 
-      "id": 16291760, 
-      "question_id": "16203676"
     }, 
     {
       "city": "Tucson", 
@@ -293,25 +308,6 @@ opendebate.processTimeline({
       "x": -81.5145, 
       "id": 16290704, 
       "question_id": "16178177"
-    }, 
-    {
-      "city": "St  Peters", 
-      "first_name": "Don", 
-      "last_name": "Webb", 
-      "user_id": 147756, 
-      "submission": "The Tax Payers cost for Incentives for outsourcing jobs overseas is 58 billion dollars a year. And this does not include the cost of lost jobs. Will you work to stop giving tax breaks to send jobs overseas.", 
-      "district": "MO_02", 
-      "created": "2013-08-10T03:13:38", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MO", 
-      "iface": "timeline_question", 
-      "y": 38.7803, 
-      "x": -90.624, 
-      "latest_vote": null, 
-      "id": 16290698, 
-      "trending_score": 0.5
     }
   ]
 });
