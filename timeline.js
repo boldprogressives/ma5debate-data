@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "How will you encourage spending for public transportation?", 
+      "submission": "All email is read by the NSA. What limits should be placed on the NSA to preserve privacy?", 
       "district": "NM_03", 
-      "created": "2013-08-10T00:14:56", 
+      "created": "2013-08-10T00:15:57", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16288853, 
-      "question_id": "16280997"
+      "id": 16288859, 
+      "question_id": "16285357"
     }, 
     {
       "city": "Oakland", 
       "first_name": "Avi & Clarence", 
       "last_name": "Klammer & Reese", 
       "user_id": 1778044, 
-      "submission": "Will you introduce legislation or a rules change -- whichever it takes -- that will mean Congress and their families must be subject to the same laws it passes for other citizens?  If not, why not?", 
+      "submission": "Will you support immigration reform with a path to citizenship ?", 
       "district": "CA_13", 
-      "created": "2013-08-10T00:14:40", 
+      "created": "2013-08-10T00:15:56", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 37.8129, 
       "x": -122.27, 
-      "id": 16288852, 
-      "question_id": "16244527"
+      "id": 16288858, 
+      "question_id": "16172648"
     }, 
     {
       "city": "Forest", 
