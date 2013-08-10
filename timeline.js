@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Amy", 
       "last_name": "Fradon", 
       "user_id": 1201769, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
       "district": "NY_19", 
-      "created": "2013-08-10T11:07:00", 
+      "created": "2013-08-10T11:08:02", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 41.9456, 
       "x": -74.2919, 
-      "id": 16292500, 
-      "question_id": "16172281"
+      "id": 16292506, 
+      "question_id": "16173210"
     }, 
     {
       "city": "Henderson", 
