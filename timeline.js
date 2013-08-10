@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Ricki", 
       "last_name": "Franklin", 
       "user_id": 1703274, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
       "district": "CA_37", 
-      "created": "2013-08-10T18:16:03", 
+      "created": "2013-08-10T18:17:01", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 34.0677, 
       "x": -118.351, 
-      "id": 16294872, 
-      "question_id": "16172266"
+      "id": 16294889, 
+      "question_id": "16173259"
     }, 
     {
       "city": "Pontotoc", 
       "first_name": "WADIE", 
       "last_name": "WALLACE", 
       "user_id": 1682996, 
-      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
       "district": "MS_01", 
-      "created": "2013-08-10T18:16:01", 
+      "created": "2013-08-10T18:17:00", 
       "state": "MS", 
       "iface": "timeline_vote", 
       "y": 34.2257, 
       "x": -88.9745, 
-      "id": 16294871, 
-      "question_id": "16172727"
+      "id": 16294888, 
+      "question_id": "16172690"
     }, 
     {
       "city": "Arcata", 
