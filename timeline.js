@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "", 
       "last_name": "", 
       "user_id": 1810418, 
-      "submission": "How realistic is it that Wall Street/Banks will ever be held criminally accountable for the destruction it did to Americans and the ecomony?", 
+      "submission": "Will you pledge to change the current filibuster rule to what it had been in the past where a Senator had to stand and speak for the duration his/her filibuster? If not, why not?", 
       "district": "MA_07", 
-      "created": "2013-08-10T02:53:00", 
+      "created": "2013-08-10T02:53:50", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.399, 
       "x": -71.1231, 
-      "id": 16290573, 
-      "question_id": "16173397"
+      "id": 16290575, 
+      "question_id": "16197620"
     }, 
     {
       "city": "Corona", 
