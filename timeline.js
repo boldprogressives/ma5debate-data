@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Oklahoma City", 
+      "first_name": "Sheila", 
+      "last_name": "Nance", 
+      "user_id": 875989, 
+      "submission": "Why doesn't anyone know about the final NIST report acknowledgement that the THIRD tower demolished on 9-11-01 DID free fall (proving demolition), and why haven't you demanded a criminal investigation?", 
+      "district": "OK_04", 
+      "created": "2013-08-10T02:22:55", 
+      "state": "OK", 
+      "iface": "timeline_vote", 
+      "y": 35.3812, 
+      "x": -97.4759, 
+      "id": 16290523, 
+      "question_id": "16213330"
+    }, 
+    {
       "city": "Manitowoc", 
       "first_name": "R", 
       "last_name": "Kubsh", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "x": -77.031, 
       "id": 16289744, 
       "question_id": "16176001"
-    }, 
-    {
-      "city": "Jacksonville", 
-      "first_name": "Gwendolyn", 
-      "last_name": "Fleury", 
-      "user_id": 1702817, 
-      "submission": "What will do you do expand the solvency of Social Security and Medicare past their current deadlines? ", 
-      "district": "FL_05", 
-      "created": "2013-08-10T01:35:49", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 30.3908, 
-      "x": -81.6842, 
-      "id": 16289714, 
-      "question_id": "16174492"
     }
   ]
 });
