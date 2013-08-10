@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Sugar Hill", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810480, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "NH_02", 
+      "created": "2013-08-10T15:44:00", 
+      "state": "NH", 
+      "iface": "timeline_vote", 
+      "y": 44.2214, 
+      "x": -71.8191, 
+      "id": 16294124, 
+      "question_id": "16172777"
+    }, 
+    {
       "city": "Spokane", 
       "first_name": "David", 
       "last_name": "Lindsey", 
@@ -313,21 +328,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16293781, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "West Nyack", 
-      "first_name": "Jake", 
-      "last_name": "Jacobs", 
-      "user_id": 300932, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
-      "district": "NY_17", 
-      "created": "2013-08-10T15:01:38", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 41.0991, 
-      "x": -73.9738, 
-      "id": 16293779, 
-      "question_id": "16172281"
     }
   ]
 });
