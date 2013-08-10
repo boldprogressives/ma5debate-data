@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Idaho Falls", 
-      "first_name": "Claire", 
-      "last_name": "Ashton-Heckathorn", 
-      "user_id": 1807090, 
-      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
-      "district": "ID_02", 
-      "created": "2013-08-10T04:04:00", 
-      "state": "ID", 
-      "iface": "timeline_vote", 
-      "y": 43.4746, 
-      "x": -112.013, 
-      "id": 16291064, 
-      "question_id": "16172697"
-    }, 
-    {
       "city": "Beverly", 
       "first_name": "David", 
       "last_name": "Laverdiere", 
       "user_id": 1664612, 
-      "submission": "Do you support the legalization of marijuana (which should be taxed & regulated like alcohol or tobacco)? If so, would you allow the release of nonviolent offenders from prison?", 
+      "submission": "Will you support immigration reform with a path to citizenship ?", 
       "district": "MA_06", 
-      "created": "2013-08-10T04:03:56", 
+      "created": "2013-08-10T04:05:00", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.5665, 
       "x": -70.8533, 
-      "id": 16291062, 
-      "question_id": "16172722"
+      "id": 16291077, 
+      "question_id": "16172648"
+    }, 
+    {
+      "city": "San Antonio", 
+      "first_name": "Damon", 
+      "last_name": "Mason", 
+      "user_id": 1783359, 
+      "submission": "Will you stop supporting the ultra conservative neozionist Likud party in Israel?", 
+      "district": "TX_20", 
+      "created": "2013-08-10T04:04:57", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 29.4672, 
+      "x": -98.53, 
+      "id": 16291076, 
+      "question_id": "16212530"
     }, 
     {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
+      "submission": "Why don't we change the lobbying rules so that we do not have a system that legalizes bribery, and why do we not reform the filibuster so congress does not have an excuse to continue doing nothing ?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:03:56", 
+      "created": "2013-08-10T04:04:46", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291063, 
-      "question_id": "16203676"
+      "id": 16291073, 
+      "question_id": "16174072"
+    }, 
+    {
+      "city": "Idaho Falls", 
+      "first_name": "Claire", 
+      "last_name": "Ashton-Heckathorn", 
+      "user_id": 1807090, 
+      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
+      "district": "ID_02", 
+      "created": "2013-08-10T04:04:35", 
+      "state": "ID", 
+      "iface": "timeline_vote", 
+      "y": 43.4746, 
+      "x": -112.013, 
+      "id": 16291070, 
+      "question_id": "16172207"
     }, 
     {
       "city": "Alameda", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -74.0036, 
       "id": 16290629, 
       "question_id": "16202059"
-    }, 
-    {
-      "city": "Ashland", 
-      "first_name": "Kenneth", 
-      "last_name": "Deveney", 
-      "user_id": 506233, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
-      "district": "OR_02", 
-      "created": "2013-08-10T03:00:17", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 42.1583, 
-      "x": -122.634, 
-      "id": 16290628, 
-      "question_id": "16173264"
     }
   ]
 });
