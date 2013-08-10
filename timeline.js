@@ -2,6 +2,40 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Harrison Township", 
+      "first_name": "Donna", 
+      "last_name": "Freeman", 
+      "user_id": 1578049, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "MI_10", 
+      "created": "2013-08-10T10:54:54", 
+      "state": "MI", 
+      "iface": "timeline_vote", 
+      "y": 42.6094, 
+      "x": -82.8357, 
+      "id": 16292477, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Killeen", 
+      "first_name": "George", 
+      "last_name": "Dare", 
+      "user_id": 1771655, 
+      "submission": "When are we going to have the 266 million voters bribed by lobbyists rather than just the 535 Congressional representatives??", 
+      "district": "TX_31", 
+      "created": "2013-08-10T10:54:37", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "TX", 
+      "iface": "timeline_question", 
+      "y": 31.1198, 
+      "x": -97.7297, 
+      "latest_vote": null, 
+      "id": 16292476, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Edmonds", 
       "first_name": "Edward Anthony", 
       "last_name": "Aldridge", 
@@ -310,40 +344,6 @@ opendebate.processTimeline({
       "x": -112.089, 
       "id": 16292191, 
       "question_id": "16244435"
-    }, 
-    {
-      "city": "Birmingham", 
-      "first_name": "Dot", 
-      "last_name": "Canup", 
-      "user_id": 1565077, 
-      "submission": "How do you address how veterans continue to not get their healthcare , social needs met as they are returning home? We are celebrating and supporting them with bumper stickers , at ball games, but the backlong of claims grow every day, the denial of benefits are atrocious , and we made a promise that we would not treat them like vets were treated after returning from Vietnam and we have not kept that promise- how do we expeditiously remedy these problems?", 
-      "district": "AL_07", 
-      "created": "2013-08-10T06:36:27", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 33.6391, 
-      "x": -86.6919, 
-      "id": 16292187, 
-      "question_id": "16192621"
-    }, 
-    {
-      "city": "Watertown", 
-      "first_name": "Honorable Melvin C.", 
-      "last_name": "Poindexter", 
-      "user_id": 165355, 
-      "submission": "Please give your opinion on the recent 5-4 decision, the Supreme Court of the United States in Shelby County v. Holder delivered a devastating setback to civil rights in America.  The Court ruled today that the coverage formula in Section 4 of the Voting Rights Act is unconstitutional, which essentially halts the federal government\u2019s ability to review or \u201cpre-clear\u201c voting changes under Section 5 unless and until Congress enacts a new coverage formula?", 
-      "district": "MA_05", 
-      "created": "2013-08-10T06:32:17", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.3713, 
-      "x": -71.1804, 
-      "latest_vote": null, 
-      "id": 16292173, 
-      "trending_score": 0.5
     }
   ]
 });
