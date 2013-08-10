@@ -15731,7 +15731,7 @@ opendebate.processFetchedQuestions({
       "x": -77.4268, 
       "latest_vote": "2013-08-10T15:49:00", 
       "id": 16205884, 
-      "trending_score": 2.1666666666666665
+      "trending_score": 2.25
     }, 
     {
       "city": "McKinleyville", 
@@ -17327,7 +17327,7 @@ opendebate.processFetchedQuestions({
       "x": -119.905, 
       "latest_vote": "2013-08-10T14:09:46", 
       "id": 16200039, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Vestal", 
@@ -20177,7 +20177,7 @@ opendebate.processFetchedQuestions({
       "x": -77.3338, 
       "latest_vote": "2013-08-10T12:39:24", 
       "id": 16188671, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Dumfries", 
@@ -30798,7 +30798,7 @@ opendebate.processFetchedQuestions({
       "x": -122.594, 
       "latest_vote": "2013-08-10T18:17:07", 
       "id": 16172690, 
-      "trending_score": 14.5
+      "trending_score": 7.5
     }, 
     {
       "city": "Gig Harbor", 
