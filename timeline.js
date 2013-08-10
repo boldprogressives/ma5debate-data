@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Phoenix", 
-      "first_name": "Lynne", 
-      "last_name": "Vestal", 
-      "user_id": 1121128, 
-      "submission": "Do you support the legalization of marijuana (which should be taxed & regulated like alcohol or tobacco)? If so, would you allow the release of nonviolent offenders from prison?", 
-      "district": "AZ_09", 
-      "created": "2013-08-10T05:10:48", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 33.559, 
-      "x": -112.089, 
-      "id": 16291810, 
-      "question_id": "16172722"
-    }, 
-    {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Will you take action to overturn Citizens United with an effective Constitutional Amendment?", 
+      "submission": "Do we really need 800 overseas military bases? Does it make sense to invest in peaceful coexistence and greening the planet", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:10:32", 
+      "created": "2013-08-10T05:11:56", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291808, 
-      "question_id": "16182966"
+      "id": 16291814, 
+      "question_id": "16180989"
+    }, 
+    {
+      "city": "Phoenix", 
+      "first_name": "Lynne", 
+      "last_name": "Vestal", 
+      "user_id": 1121128, 
+      "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
+      "district": "AZ_09", 
+      "created": "2013-08-10T05:11:44", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 33.559, 
+      "x": -112.089, 
+      "id": 16291813, 
+      "question_id": "16172542"
     }, 
     {
       "city": "Arlington", 
