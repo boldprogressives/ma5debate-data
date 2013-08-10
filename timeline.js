@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Salinas", 
-      "first_name": "Donna", 
-      "last_name": "Gleaves", 
-      "user_id": 1635501, 
-      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
-      "district": "CA_20", 
-      "created": "2013-08-10T03:31:02", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 36.6757, 
-      "x": -121.628, 
-      "id": 16290841, 
-      "question_id": "16173335"
-    }, 
-    {
       "city": "Indianapolis", 
       "first_name": "John", 
       "last_name": "Grady", 
       "user_id": 1742213, 
-      "submission": "Would you be in favor of Congress and the Senate payingfor heath care like the rest of us,and no pension for life unless you put in 25 years like almost every other American. ", 
+      "submission": "Will you support carbon taxes?", 
       "district": "IN_07", 
-      "created": "2013-08-10T03:30:55", 
+      "created": "2013-08-10T03:32:03", 
       "state": "IN", 
       "iface": "timeline_vote", 
       "y": 39.8408, 
       "x": -86.2651, 
-      "id": 16290840, 
-      "question_id": "16188477"
+      "id": 16290849, 
+      "question_id": "16174323"
+    }, 
+    {
+      "city": "Salinas", 
+      "first_name": "Donna", 
+      "last_name": "Gleaves", 
+      "user_id": 1635501, 
+      "submission": "How will you support the dignity and freedom of women to make medical decisions with their health care providers without interference of federal and state laws?", 
+      "district": "CA_20", 
+      "created": "2013-08-10T03:31:54", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 36.6757, 
+      "x": -121.628, 
+      "id": 16290847, 
+      "question_id": "16183415"
     }, 
     {
       "city": "Winter Park", 
