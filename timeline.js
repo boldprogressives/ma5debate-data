@@ -2,6 +2,25 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Santa Paula", 
+      "first_name": "shody", 
+      "last_name": "ryon", 
+      "user_id": 492634, 
+      "submission": "Dick Durbin's statement; frankly \"banks own the place\" was acknowledgment of the illegal quid pro quo of legislation for campaign finance. politicians ignore that this is a pattern of illegal immoral activity calming a majority will never pass reform. why will no one discuss this failure of the US attorneys and what can be done to establish a government for the people as opposed to one that represents paid lobbyists representing multinational business interests?", 
+      "district": "CA_26", 
+      "created": "2013-08-10T18:19:09", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "CA", 
+      "iface": "timeline_question", 
+      "y": 34.3584, 
+      "x": -119.071, 
+      "latest_vote": null, 
+      "id": 16294905, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Los Angeles", 
       "first_name": "Ricki", 
       "last_name": "Franklin", 
@@ -297,21 +316,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16294488, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "San Ramon", 
-      "first_name": "Susan", 
-      "last_name": "Fior", 
-      "user_id": 1563932, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "CA_15", 
-      "created": "2013-08-10T16:37:19", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 37.6725, 
-      "x": -121.889, 
-      "id": 16294482, 
-      "question_id": "16172777"
     }
   ]
 });

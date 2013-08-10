@@ -2,6 +2,25 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Santa Paula", 
+      "first_name": "shody", 
+      "last_name": "ryon", 
+      "user_id": 492634, 
+      "submission": "Dick Durbin's statement; frankly \"banks own the place\" was acknowledgment of the illegal quid pro quo of legislation for campaign finance. politicians ignore that this is a pattern of illegal immoral activity calming a majority will never pass reform. why will no one discuss this failure of the US attorneys and what can be done to establish a government for the people as opposed to one that represents paid lobbyists representing multinational business interests?", 
+      "district": "CA_26", 
+      "created": "2013-08-10T18:19:09", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "CA", 
+      "iface": "question", 
+      "y": 34.3584, 
+      "x": -119.071, 
+      "latest_vote": null, 
+      "id": 16294905, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Hobart", 
       "first_name": "Karon", 
       "last_name": "Vance", 
@@ -19037,7 +19056,7 @@ opendebate.processFetchedQuestions({
       "x": -73.0744, 
       "latest_vote": "2013-08-10T13:20:13", 
       "id": 16192164, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Mountain View", 
@@ -31330,7 +31349,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1765, 
       "latest_vote": "2013-08-10T13:19:51", 
       "id": 16172188, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Revere", 
