@@ -6,30 +6,45 @@ opendebate.processTimeline({
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "What would you do to decrease the amount of testing in education and support the teachers in actually teaching content and not teaching for the test.", 
+      "submission": "Science has proven again and again that many herbicides and pesticides initially approved for agricultural and residential use are highly toxic to the environment.  Would you propose, endorse, and/or support, legislation that imposes statutory time limits on regulatory approvals for all pesticides and herbicides, which triggers a  mandatory environmental impact reassessment every 8 to 10 years without exception and does not allow \"grandfathering\" of any such products that have already approved for use?     ", 
       "district": "NM_03", 
-      "created": "2013-08-10T01:21:02", 
+      "created": "2013-08-10T01:22:06", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16289595, 
-      "question_id": "16234265"
+      "id": 16289610, 
+      "question_id": "16226498"
+    }, 
+    {
+      "city": "Cumming", 
+      "first_name": "R. Gwen", 
+      "last_name": "Smith Minniti", 
+      "user_id": 697062, 
+      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
+      "district": "GA_07", 
+      "created": "2013-08-10T01:21:58", 
+      "state": "GA", 
+      "iface": "timeline_vote", 
+      "y": 34.2031, 
+      "x": -84.0743, 
+      "id": 16289608, 
+      "question_id": "16175637"
     }, 
     {
       "city": "Allston", 
       "first_name": "", 
       "last_name": "", 
       "user_id": 1810404, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
       "district": "MA_07", 
-      "created": "2013-08-10T01:20:44", 
+      "created": "2013-08-10T01:21:57", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3581, 
       "x": -71.1306, 
-      "id": 16289593, 
-      "question_id": "16172266"
+      "id": 16289607, 
+      "question_id": "16172533"
     }, 
     {
       "city": "Miami", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -121.13, 
       "id": 16289165, 
       "question_id": "16176313"
-    }, 
-    {
-      "city": "Rockville", 
-      "first_name": "Gary", 
-      "last_name": "Brown", 
-      "user_id": 1809156, 
-      "submission": "Would you support a new millennial version of the Civilian Conservation Corps to provide a broad sector of the general public with fulltime employment in municipal, state, and federal parks?", 
-      "district": "MD_06", 
-      "created": "2013-08-10T00:39:21", 
-      "state": "MD", 
-      "iface": "timeline_vote", 
-      "y": 39.0962, 
-      "x": -77.0955, 
-      "id": 16289150, 
-      "question_id": "16272358"
     }
   ]
 });
