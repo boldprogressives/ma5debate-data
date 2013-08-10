@@ -6,15 +6,45 @@ opendebate.processTimeline({
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Do you think SCOTUS and their family should be involved in campaigns like GROUNDSWELL to promote misinformation when other US Judges are not?", 
+      "submission": "What is your view on implementing the Affordable Care Act?", 
       "district": "NM_03", 
-      "created": "2013-08-10T00:42:55", 
+      "created": "2013-08-10T00:43:49", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16289175, 
-      "question_id": "16209714"
+      "id": 16289184, 
+      "question_id": "16207977"
+    }, 
+    {
+      "city": "Philadelphia", 
+      "first_name": "Wanda", 
+      "last_name": "Seidle", 
+      "user_id": 1689376, 
+      "submission": "It is time we stop rewarding companies that outsource American jobs.  Would you propose a new tax on these companies, an import tax on products produced by these companies or some other form of incentive to keep jobs in this country?  Please be specific.", 
+      "district": "PA_02", 
+      "created": "2013-08-10T00:43:48", 
+      "state": "PA", 
+      "iface": "timeline_vote", 
+      "y": 39.9789, 
+      "x": -75.2206, 
+      "id": 16289185, 
+      "question_id": "16175276"
+    }, 
+    {
+      "city": "", 
+      "first_name": "Juluie M", 
+      "last_name": "Lacinak", 
+      "user_id": 1548415, 
+      "submission": "Would you support a moratorium on all natural gas exploration in particular \u2018fracking\u2019 until a thorough and unbiased examination and study on the over 10,000 existing gas wells is completed to determine the actual safety of the extraction techniques and materials including an environmental impact study of long term effects?", 
+      "district": "", 
+      "created": "2013-08-10T00:43:12", 
+      "state": "", 
+      "iface": "timeline_vote", 
+      "y": 0.0, 
+      "x": 0.0, 
+      "id": 16289176, 
+      "question_id": "16223490"
     }, 
     {
       "city": "Patterson", 
@@ -30,21 +60,6 @@ opendebate.processTimeline({
       "x": -121.13, 
       "id": 16289165, 
       "question_id": "16176313"
-    }, 
-    {
-      "city": "", 
-      "first_name": "Juluie M", 
-      "last_name": "Lacinak", 
-      "user_id": 1548415, 
-      "submission": "Will you support a \"Clean Up Congress\" campaign to promote term limits and cease the eternal 'full pay' for lifetime after serving only one term?", 
-      "district": "", 
-      "created": "2013-08-10T00:39:52", 
-      "state": "", 
-      "iface": "timeline_vote", 
-      "y": 0.0, 
-      "x": 0.0, 
-      "id": 16289156, 
-      "question_id": "16184803"
     }, 
     {
       "city": "Rockville", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -83.5003, 
       "id": 16288749, 
       "question_id": "16181276"
-    }, 
-    {
-      "city": "Quincy", 
-      "first_name": "Thomas", 
-      "last_name": "OKeefe II", 
-      "user_id": 39, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
-      "district": "MA_08", 
-      "created": "2013-08-10T00:08:07", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.2852, 
-      "x": -71.0253, 
-      "id": 16288742, 
-      "question_id": "16172913"
     }
   ]
 });
