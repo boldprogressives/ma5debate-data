@@ -26713,7 +26713,7 @@ opendebate.processFetchedQuestions({
       "x": -110.947, 
       "latest_vote": "2013-08-10T10:56:48", 
       "id": 16175691, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Mount Vernon", 
@@ -29259,7 +29259,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T15:23:03", 
       "id": 16173259, 
-      "trending_score": 19.5
+      "trending_score": 10.0
     }, 
     {
       "city": "Manitowoc", 
@@ -29468,7 +29468,7 @@ opendebate.processFetchedQuestions({
       "x": -97.7518, 
       "latest_vote": "2013-08-10T15:05:50", 
       "id": 16173210, 
-      "trending_score": 13.25
+      "trending_score": 6.5
     }, 
     {
       "city": "Cottonwood", 
@@ -31178,7 +31178,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1035, 
       "latest_vote": "2013-08-10T15:20:18", 
       "id": 16172207, 
-      "trending_score": 11.5
+      "trending_score": 6.0
     }, 
     {
       "city": "Arlington", 
