@@ -12634,7 +12634,7 @@ opendebate.processFetchedQuestions({
       "x": -84.3168, 
       "latest_vote": "2013-08-10T04:24:19", 
       "id": 16212639, 
-      "trending_score": 2.0
+      "trending_score": 2.25
     }, 
     {
       "city": "Jonesboro", 
@@ -13508,7 +13508,7 @@ opendebate.processFetchedQuestions({
       "x": -93.1815, 
       "latest_vote": "2013-08-10T03:53:23", 
       "id": 16210738, 
-      "trending_score": 1.5
+      "trending_score": 1.25
     }, 
     {
       "city": "Torrington", 
@@ -16358,7 +16358,7 @@ opendebate.processFetchedQuestions({
       "x": -86.4672, 
       "latest_vote": "2013-08-10T04:56:16", 
       "id": 16199834, 
-      "trending_score": 2.0714285714285716
+      "trending_score": 2.0833333333333335
     }, 
     {
       "city": "Ashland", 
@@ -19835,7 +19835,7 @@ opendebate.processFetchedQuestions({
       "x": -74.0309, 
       "latest_vote": "2013-08-10T00:55:15", 
       "id": 16186390, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Miami", 
@@ -19873,7 +19873,7 @@ opendebate.processFetchedQuestions({
       "x": -123.092, 
       "latest_vote": "2013-08-10T00:55:26", 
       "id": 16186242, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Brooklyn", 
@@ -20215,7 +20215,7 @@ opendebate.processFetchedQuestions({
       "x": -81.5252, 
       "latest_vote": "2013-08-10T00:56:17", 
       "id": 16185594, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Hollywood", 
@@ -20329,7 +20329,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1035, 
       "latest_vote": "2013-08-10T06:27:02", 
       "id": 16185403, 
-      "trending_score": 2.25
+      "trending_score": 2.5
     }, 
     {
       "city": "billings", 
@@ -20481,7 +20481,7 @@ opendebate.processFetchedQuestions({
       "x": -79.4609, 
       "latest_vote": "2013-08-10T05:08:19", 
       "id": 16185019, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Columbus", 
@@ -24832,7 +24832,7 @@ opendebate.processFetchedQuestions({
       "x": -110.829, 
       "latest_vote": "2013-08-10T05:54:44", 
       "id": 16176673, 
-      "trending_score": 6.166666666666667
+      "trending_score": 6.25
     }, 
     {
       "city": "Idaho Falls", 
@@ -26371,7 +26371,7 @@ opendebate.processFetchedQuestions({
       "x": -90.1072, 
       "latest_vote": "2013-08-10T04:08:32", 
       "id": 16175276, 
-      "trending_score": 1.6666666666666667
+      "trending_score": 1.7
     }, 
     {
       "city": "Bainbridge Island", 
