@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "", 
       "last_name": "", 
       "user_id": 1810418, 
-      "submission": "What will you do to get congress to work on a jobs bill instead of wasting taxpayers money trying to repeal The Affordable Healthcare Act?", 
+      "submission": "How realistic is it that Wall Street/Banks will ever be held criminally accountable for the destruction it did to Americans and the ecomony?", 
       "district": "MA_07", 
-      "created": "2013-08-10T02:51:34", 
+      "created": "2013-08-10T02:53:00", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.399, 
       "x": -71.1231, 
-      "id": 16290569, 
-      "question_id": "16203558"
+      "id": 16290573, 
+      "question_id": "16173397"
     }, 
     {
       "city": "Corona", 
