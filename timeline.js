@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "West Shokan", 
+      "first_name": "Amy", 
+      "last_name": "Fradon", 
+      "user_id": 1201769, 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "district": "NY_19", 
+      "created": "2013-08-10T11:07:00", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 41.9456, 
+      "x": -74.2919, 
+      "id": 16292500, 
+      "question_id": "16172281"
+    }, 
+    {
       "city": "Henderson", 
       "first_name": "Nicholas", 
       "last_name": "Martino", 
@@ -333,21 +348,6 @@ opendebate.processTimeline({
       "x": -121.985, 
       "id": 16292248, 
       "question_id": "16201979"
-    }, 
-    {
-      "city": "Grand Terrace", 
-      "first_name": "Janet", 
-      "last_name": "Moran", 
-      "user_id": 899677, 
-      "submission": "Where do you stand on trade agreements such as the Trans Pacific Partnership, and the secrecy surrounding it?", 
-      "district": "CA_31", 
-      "created": "2013-08-10T06:43:41", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 34.061, 
-      "x": -117.324, 
-      "id": 16292192, 
-      "question_id": "16203477"
     }
   ]
 });
