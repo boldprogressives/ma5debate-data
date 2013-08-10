@@ -1994,7 +1994,7 @@ opendebate.processFetchedQuestions({
       "x": -81.7638, 
       "latest_vote": "2013-08-10T13:06:17", 
       "id": 16282376, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Philadelphia", 
