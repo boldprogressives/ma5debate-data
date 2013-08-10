@@ -30228,7 +30228,7 @@ opendebate.processFetchedQuestions({
       "x": -114.294, 
       "latest_vote": "2013-08-10T17:38:39", 
       "id": 16172913, 
-      "trending_score": 14.5
+      "trending_score": 9.75
     }, 
     {
       "city": "Montegut", 
