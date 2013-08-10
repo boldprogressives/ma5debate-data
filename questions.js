@@ -4474,16 +4474,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you support separation of commercial and investment banking by returning to a current version of Glass-Steagall Act?", 
       "district": "WA_06", 
       "created": "2013-08-09T00:04:43", 
-      "state_votes": 1, 
-      "votes": 68, 
+      "state_votes": 2, 
+      "votes": 69, 
       "district_votes": 0, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.5746, 
       "x": -122.811, 
-      "latest_vote": "2013-08-10T05:25:38", 
+      "latest_vote": "2013-08-10T14:17:16", 
       "id": 16248600, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Bremerton", 
@@ -20567,16 +20567,16 @@ opendebate.processFetchedQuestions({
       "submission": "are you aware that the social security trust fund is owed about 18% of the national debt because of borrowing by previous congresses? should there be a repayment plan set up by congress to make the fund even more solvent?", 
       "district": "MI_03", 
       "created": "2013-08-06T15:06:35", 
-      "state_votes": 1, 
-      "votes": 69, 
+      "state_votes": 2, 
+      "votes": 70, 
       "district_votes": 0, 
       "state": "MI", 
       "iface": "question", 
       "y": 42.2682, 
       "x": -84.943, 
-      "latest_vote": "2013-08-10T03:30:29", 
+      "latest_vote": "2013-08-10T14:17:34", 
       "id": 16185653, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Los Angeles", 
@@ -26306,15 +26306,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_08", 
       "created": "2013-08-05T01:44:45", 
       "state_votes": 98, 
-      "votes": 1059, 
+      "votes": 1060, 
       "district_votes": 34, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.174, 
       "x": -87.9643, 
-      "latest_vote": "2013-08-10T14:16:40", 
+      "latest_vote": "2013-08-10T14:17:22", 
       "id": 16175740, 
-      "trending_score": 4.25
+      "trending_score": 5.25
     }, 
     {
       "city": "Buffalo Grove", 
@@ -27997,15 +27997,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_02", 
       "created": "2013-08-04T14:21:20", 
       "state_votes": 134, 
-      "votes": 999, 
+      "votes": 1000, 
       "district_votes": 34, 
       "state": "CO", 
       "iface": "question", 
       "y": 40.5342, 
       "x": -105.043, 
-      "latest_vote": "2013-08-10T14:16:35", 
+      "latest_vote": "2013-08-10T14:17:33", 
       "id": 16173921, 
-      "trending_score": 6.25
+      "trending_score": 7.25
     }, 
     {
       "city": "Fort Collins", 
@@ -29878,15 +29878,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_05", 
       "created": "2013-08-03T22:30:45", 
       "state_votes": 112, 
-      "votes": 803, 
+      "votes": 804, 
       "district_votes": 31, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.3898, 
       "x": -122.589, 
-      "latest_vote": "2013-08-10T13:12:30", 
+      "latest_vote": "2013-08-10T14:17:18", 
       "id": 16172765, 
-      "trending_score": 2.25
+      "trending_score": 3.25
     }, 
     {
       "city": "Egg Harbor", 
@@ -30182,15 +30182,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:09:55", 
       "state_votes": 130, 
-      "votes": 878, 
+      "votes": 879, 
       "district_votes": 34, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.3581, 
       "x": -122.594, 
-      "latest_vote": "2013-08-10T14:09:45", 
+      "latest_vote": "2013-08-10T14:17:51", 
       "id": 16172690, 
-      "trending_score": 1.25
+      "trending_score": 2.25
     }, 
     {
       "city": "Gig Harbor", 
