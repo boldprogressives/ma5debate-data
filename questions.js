@@ -26561,7 +26561,7 @@ opendebate.processFetchedQuestions({
       "x": -84.8666, 
       "latest_vote": "2013-08-10T20:15:38", 
       "id": 16176001, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Little Rock", 
@@ -29563,7 +29563,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T16:06:45", 
       "id": 16173244, 
-      "trending_score": 0.16666666666666666
+      "trending_score": 0.25
     }, 
     {
       "city": "Saint Peters", 
