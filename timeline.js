@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Joe", 
       "last_name": "Verdoes", 
       "user_id": 503455, 
-      "submission": "When is Congress going to reinstate Glass-Steagall Act and hold CEO's of \"too big to fail\" banks accountable for their criminal behavior?", 
+      "submission": "Why are you not speaking up about the police/surveillance state that's been developing in this country, and defending whistle blowers like Snowden and Manning as the heroic citizens they are? ", 
       "district": "WA_02", 
-      "created": "2013-08-10T03:46:51", 
+      "created": "2013-08-10T03:48:02", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 48.4989, 
       "x": -122.607, 
-      "id": 16290930, 
-      "question_id": "16242609"
+      "id": 16290935, 
+      "question_id": "16193888"
     }, 
     {
       "city": "Greensboro", 
