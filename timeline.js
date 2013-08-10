@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "R. Gwen", 
       "last_name": "Smith Minniti", 
       "user_id": 697062, 
-      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
+      "submission": "Where do you stand on a constitutional admendment that declares that corporations are NOT, in fact, people and do not have the legal rights of people.", 
       "district": "GA_07", 
-      "created": "2013-08-10T01:30:00", 
+      "created": "2013-08-10T01:30:58", 
       "state": "GA", 
       "iface": "timeline_vote", 
       "y": 34.2031, 
       "x": -84.0743, 
-      "id": 16289686, 
-      "question_id": "16203676"
+      "id": 16289694, 
+      "question_id": "16176313"
     }, 
     {
       "city": "Reno", 
       "first_name": "Tim", 
       "last_name": "Sanders", 
       "user_id": 974978, 
-      "submission": "Serving in Congress is not a career.  Will you vote for term limits?", 
+      "submission": "What are you going to do about the revolving door of regulators and private industry? The corruption taking place here is unbelievable. Example FCC Comcast takeover of NBC scandal. ", 
       "district": "NV_02", 
-      "created": "2013-08-10T01:29:36", 
+      "created": "2013-08-10T01:30:47", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 39.7704, 
       "x": -119.617, 
-      "id": 16289685, 
-      "question_id": "16173323"
+      "id": 16289693, 
+      "question_id": "16199756"
     }, 
     {
       "city": "Prosper", 
