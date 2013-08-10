@@ -7694,7 +7694,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1277, 
       "latest_vote": "2013-08-10T04:12:57", 
       "id": 16226158, 
-      "trending_score": 1.5
+      "trending_score": 0.5
     }, 
     {
       "city": "West Islip", 
@@ -15161,7 +15161,7 @@ opendebate.processFetchedQuestions({
       "x": -85.379, 
       "latest_vote": "2013-08-10T04:14:33", 
       "id": 16205331, 
-      "trending_score": 1.5
+      "trending_score": 0.5
     }, 
     {
       "city": "Weaverville", 
@@ -19607,7 +19607,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7727, 
       "latest_vote": "2013-08-10T04:18:45", 
       "id": 16187691, 
-      "trending_score": 1.5
+      "trending_score": 0.5
     }, 
     {
       "city": "Cocoa", 
@@ -20500,7 +20500,7 @@ opendebate.processFetchedQuestions({
       "x": -72.8957, 
       "latest_vote": "2013-08-10T04:20:01", 
       "id": 16185125, 
-      "trending_score": 1.25
+      "trending_score": 0.5
     }, 
     {
       "city": "New York", 
@@ -24148,7 +24148,7 @@ opendebate.processFetchedQuestions({
       "x": -112.052, 
       "latest_vote": "2013-08-10T04:20:12", 
       "id": 16178048, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Rathdrum", 
@@ -24623,7 +24623,7 @@ opendebate.processFetchedQuestions({
       "x": -122.017, 
       "latest_vote": "2013-08-10T06:23:44", 
       "id": 16176917, 
-      "trending_score": 2.0
+      "trending_score": 1.4166666666666665
     }, 
     {
       "city": "Sioux Falls", 
@@ -27625,7 +27625,7 @@ opendebate.processFetchedQuestions({
       "x": -123.884, 
       "latest_vote": "2013-08-10T07:12:00", 
       "id": 16174072, 
-      "trending_score": 1.375
+      "trending_score": 1.5
     }, 
     {
       "city": "Cape Girardeau", 
@@ -27644,7 +27644,7 @@ opendebate.processFetchedQuestions({
       "x": -89.5406, 
       "latest_vote": "2013-08-10T07:18:40", 
       "id": 16174044, 
-      "trending_score": 1.0833333333333333
+      "trending_score": 0.8333333333333333
     }, 
     {
       "city": "Forest Grove", 
@@ -28404,7 +28404,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9488, 
       "latest_vote": "2013-08-10T06:12:59", 
       "id": 16173320, 
-      "trending_score": 2.0
+      "trending_score": 2.1666666666666665
     }, 
     {
       "city": "Bensenville", 
@@ -29126,7 +29126,7 @@ opendebate.processFetchedQuestions({
       "x": -93.7569, 
       "latest_vote": "2013-08-10T04:19:26", 
       "id": 16173111, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Fox River Grove", 
@@ -30095,7 +30095,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T07:14:47", 
       "id": 16172583, 
-      "trending_score": 2.166666666666667
+      "trending_score": 2.416666666666667
     }, 
     {
       "city": "ARLINGTON", 
