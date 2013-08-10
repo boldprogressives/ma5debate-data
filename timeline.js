@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "John", 
       "last_name": "Grady", 
       "user_id": 1742213, 
-      "submission": "Would you support a living wage law that would force corporations, like Wal-Mart, whose Walton family owns more wealth than 40% of all Americans, to pay  living wages to all of their workers?", 
+      "submission": "Solar would bring in new jobs and the factorys built in this country you could even run street lights, stop and go lights i know it would help with the citys tax base, becouse i build solar heat exchangers for the low income folks and it works becouse my heating bills run 16.00 dollars a month 2 years ago last year 48 dollars a month why would not want that ?", 
       "district": "IN_07", 
-      "created": "2013-08-10T03:19:01", 
+      "created": "2013-08-10T03:20:01", 
       "state": "IN", 
       "iface": "timeline_vote", 
       "y": 39.8408, 
       "x": -86.2651, 
-      "id": 16290721, 
-      "question_id": "16210264"
+      "id": 16290729, 
+      "question_id": "16172866"
+    }, 
+    {
+      "city": "Loyalton", 
+      "first_name": "Michael", 
+      "last_name": "Moore", 
+      "user_id": 1736586, 
+      "submission": "Will you protect the rights of all citizens by immediately reauthorizing the 1965 Voter Rights through up-dating section 3, 4, and 5 to include all states?", 
+      "district": "CA_01", 
+      "created": "2013-08-10T03:19:55", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 39.67, 
+      "x": -120.237, 
+      "id": 16290728, 
+      "question_id": "16287162"
     }, 
     {
       "city": "Akron", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -87.7111, 
       "id": 16290522, 
       "question_id": "16173257"
-    }, 
-    {
-      "city": "Gainesville", 
-      "first_name": "Pat", 
-      "last_name": "Lucoff", 
-      "user_id": 541305, 
-      "submission": "What will you do to get congress to work on a jobs bill instead of wasting taxpayers money trying to repeal The Affordable Healthcare Act?", 
-      "district": "FL_03", 
-      "created": "2013-08-10T02:17:49", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 29.6023, 
-      "x": -82.3991, 
-      "id": 16290520, 
-      "question_id": "16203558"
     }
   ]
 });
