@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Cumming", 
+      "first_name": "R. Gwen", 
+      "last_name": "Smith Minniti", 
+      "user_id": 697062, 
+      "submission": "Will you protect the rights of all citizens by immediately reauthorizing the 1965 Voter Rights through up-dating section 3, 4, and 5 to include all states?", 
+      "district": "GA_07", 
+      "created": "2013-08-10T01:27:59", 
+      "state": "GA", 
+      "iface": "timeline_vote", 
+      "y": 34.2031, 
+      "x": -84.0743, 
+      "id": 16289670, 
+      "question_id": "16287162"
+    }, 
+    {
       "city": "Allston", 
       "first_name": "", 
       "last_name": "", 
       "user_id": 1810404, 
-      "submission": "Will you support immigration reform with a path to citizenship ?", 
+      "submission": "What would you be willing to do to insure that every working American receives a living wage?", 
       "district": "MA_07", 
-      "created": "2013-08-10T01:26:36", 
+      "created": "2013-08-10T01:27:56", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.3581, 
       "x": -71.1306, 
-      "id": 16289661, 
-      "question_id": "16172648"
+      "id": 16289669, 
+      "question_id": "16199482"
     }, 
     {
       "city": "Reno", 
       "first_name": "Tim", 
       "last_name": "Sanders", 
       "user_id": 974978, 
-      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
+      "submission": "To all Candidates...Will you support Elizabeth Warren's bill to allow college students to borrow under 1% interest of college loans? ", 
       "district": "NV_02", 
-      "created": "2013-08-10T01:26:36", 
+      "created": "2013-08-10T01:27:39", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 39.7704, 
       "x": -119.617, 
-      "id": 16289662, 
-      "question_id": "16175230"
+      "id": 16289668, 
+      "question_id": "16200733"
     }, 
     {
       "city": "Watertown", 
@@ -45,21 +60,6 @@ opendebate.processTimeline({
       "x": -71.1804, 
       "id": 16289660, 
       "question_id": "16172542"
-    }, 
-    {
-      "city": "Cumming", 
-      "first_name": "R. Gwen", 
-      "last_name": "Smith Minniti", 
-      "user_id": 697062, 
-      "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
-      "district": "GA_07", 
-      "created": "2013-08-10T01:25:52", 
-      "state": "GA", 
-      "iface": "timeline_vote", 
-      "y": 34.2031, 
-      "x": -84.0743, 
-      "id": 16289655, 
-      "question_id": "16175500"
     }, 
     {
       "city": "freeport", 
