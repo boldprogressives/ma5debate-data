@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Mentor", 
+      "first_name": "Susan", 
+      "last_name": "Tercek", 
+      "user_id": 1775716, 
+      "submission": "Will you work to support Elizabeth Warren's efforts to revise Glass-Steagall", 
+      "district": "OH_14", 
+      "created": "2013-08-10T02:17:00", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 41.7226, 
+      "x": -81.3565, 
+      "id": 16290514, 
+      "question_id": "16265543"
+    }, 
+    {
       "city": "Gainesville", 
       "first_name": "Pat", 
       "last_name": "Lucoff", 
       "user_id": 541305, 
-      "submission": "Climate change is moving us towards a planet that may not support human life.  Will you make addressing climate change one of your highest priorities?", 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
       "district": "FL_03", 
-      "created": "2013-08-10T02:15:35", 
+      "created": "2013-08-10T02:16:57", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 29.6023, 
       "x": -82.3991, 
-      "id": 16290505, 
-      "question_id": "16175078"
+      "id": 16290513, 
+      "question_id": "16172913"
     }, 
     {
       "city": "New Port Richey", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "x": -74.4073, 
       "id": 16289710, 
       "question_id": "16193888"
-    }, 
-    {
-      "city": "Allston", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1810404, 
-      "submission": "What would you be willing to do to insure that every working American receives a living wage?", 
-      "district": "MA_07", 
-      "created": "2013-08-10T01:27:56", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3581, 
-      "x": -71.1306, 
-      "id": 16289669, 
-      "question_id": "16199482"
     }
   ]
 });
