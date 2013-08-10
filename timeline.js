@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Joe", 
       "last_name": "Verdoes", 
       "user_id": 503455, 
-      "submission": "Will you work to support Elizabeth Warren's efforts to revise Glass-Steagall", 
+      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
       "district": "WA_02", 
-      "created": "2013-08-10T03:34:53", 
+      "created": "2013-08-10T03:35:49", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 48.4989, 
       "x": -122.607, 
-      "id": 16290864, 
-      "question_id": "16265543"
+      "id": 16290870, 
+      "question_id": "16203676"
     }, 
     {
       "city": "Indianapolis", 
