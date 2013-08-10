@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Sierra Vista", 
+      "first_name": "Peggy", 
+      "last_name": "Szymeczek", 
+      "user_id": 1236028, 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "district": "AZ_02", 
+      "created": "2013-08-10T18:05:58", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 31.47, 
+      "x": -110.187, 
+      "id": 16294839, 
+      "question_id": "16173259"
+    }, 
+    {
       "city": "Los Angeles", 
       "first_name": "RANDY", 
       "last_name": "Woodard", 
@@ -309,21 +324,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16294381, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Fort Worth", 
-      "first_name": "john and karan", 
-      "last_name": "quincy", 
-      "user_id": 904995, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "TX_12", 
-      "created": "2013-08-10T16:20:33", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 32.7815, 
-      "x": -97.5038, 
-      "id": 16294379, 
-      "question_id": "16172266"
     }
   ]
 });
