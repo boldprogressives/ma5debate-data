@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Do we really need 800 overseas military bases? Does it make sense to invest in peaceful coexistence and greening the planet", 
+      "submission": "We all know Social Security is more than solvent. Why is a Democratic administration trying to cut back on benefits when it should be raising them? ", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:11:56", 
+      "created": "2013-08-10T05:12:52", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291814, 
-      "question_id": "16180989"
+      "id": 16291821, 
+      "question_id": "16176614"
     }, 
     {
       "city": "Phoenix", 
       "first_name": "Lynne", 
       "last_name": "Vestal", 
       "user_id": 1121128, 
-      "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
+      "submission": "To all Candidates...Will you support Elizabeth Warren's bill to allow college students to borrow under 1% interest of college loans? ", 
       "district": "AZ_09", 
-      "created": "2013-08-10T05:11:44", 
+      "created": "2013-08-10T05:12:43", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 33.559, 
       "x": -112.089, 
-      "id": 16291813, 
-      "question_id": "16172542"
+      "id": 16291820, 
+      "question_id": "16200733"
     }, 
     {
       "city": "Arlington", 
