@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Birmingham", 
+      "first_name": "Dot", 
+      "last_name": "Canup", 
+      "user_id": 1565077, 
+      "submission": "Will you pledge to change the current filibuster rule to what it had been in the past where a Senator had to stand and speak for the duration his/her filibuster? If not, why not?", 
+      "district": "AL_07", 
+      "created": "2013-08-10T04:26:59", 
+      "state": "AL", 
+      "iface": "timeline_vote", 
+      "y": 33.6391, 
+      "x": -86.6919, 
+      "id": 16291182, 
+      "question_id": "16197620"
+    }, 
+    {
       "city": "San Antonio", 
       "first_name": "Damon", 
       "last_name": "Mason", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -98.53, 
       "id": 16291179, 
       "question_id": "16173271"
-    }, 
-    {
-      "city": "Birmingham", 
-      "first_name": "Dot", 
-      "last_name": "Canup", 
-      "user_id": 1565077, 
-      "submission": "What is your position on INCREASING Social Security benefits?", 
-      "district": "AL_07", 
-      "created": "2013-08-10T04:25:25", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 33.6391, 
-      "x": -86.6919, 
-      "id": 16291177, 
-      "question_id": "16207967"
     }, 
     {
       "city": "Beverly", 
