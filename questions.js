@@ -30220,15 +30220,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
       "state_votes": 269, 
-      "votes": 1839, 
+      "votes": 1841, 
       "district_votes": 73, 
       "state": "MT", 
       "iface": "question", 
       "y": 46.6453, 
       "x": -111.974, 
-      "latest_vote": "2013-08-10T15:00:24", 
+      "latest_vote": "2013-08-10T15:31:26", 
       "id": 16172777, 
-      "trending_score": 10.0
+      "trending_score": 11.0
     }, 
     {
       "city": "Gladstone", 
@@ -30277,15 +30277,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:27:03", 
       "state_votes": 199, 
-      "votes": 1505, 
+      "votes": 1506, 
       "district_votes": 51, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.6267, 
       "x": -87.5959, 
-      "latest_vote": "2013-08-10T15:20:12", 
+      "latest_vote": "2013-08-10T15:31:48", 
       "id": 16172755, 
-      "trending_score": 10.0
+      "trending_score": 10.5
     }, 
     {
       "city": "Richardson", 
@@ -30866,15 +30866,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T20:45:26", 
       "state_votes": 209, 
-      "votes": 1356, 
+      "votes": 1357, 
       "district_votes": 58, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-10T15:20:20", 
+      "latest_vote": "2013-08-10T15:32:01", 
       "id": 16172533, 
-      "trending_score": 9.5
+      "trending_score": 10.0
     }, 
     {
       "city": "Medford", 
@@ -31056,15 +31056,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:33:11", 
       "state_votes": 267, 
-      "votes": 1738, 
+      "votes": 1739, 
       "district_votes": 73, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-10T15:22:47", 
+      "latest_vote": "2013-08-10T15:31:33", 
       "id": 16172266, 
-      "trending_score": 10.5
+      "trending_score": 11.0
     }, 
     {
       "city": "Cambridge", 
