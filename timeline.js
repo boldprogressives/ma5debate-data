@@ -6,30 +6,45 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Why do the most wealthy people & companies pay little or no taxes? As the US middle class has been wiped out since those tax policies were enacted & resulting in our failing national infrastructure ..", 
+      "submission": "What will you do SPECIFICALLY about women's issues: reproductive rights, equal pay, violence against women, military violence against women, family caregiving, etc. etc. etc.?", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:16:43", 
+      "created": "2013-08-10T05:17:51", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291836, 
-      "question_id": "16174554"
+      "id": 16291841, 
+      "question_id": "16175552"
+    }, 
+    {
+      "city": "Wenatchee", 
+      "first_name": "James", 
+      "last_name": "Davis", 
+      "user_id": 1677736, 
+      "submission": "Would you support replacing \"Obamacare\" with single-payer coverage (Medicare for All)?", 
+      "district": "WA_08", 
+      "created": "2013-08-10T05:17:46", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 47.4275, 
+      "x": -120.333, 
+      "id": 16291840, 
+      "question_id": "16175729"
     }, 
     {
       "city": "Phoenix", 
       "first_name": "Lynne", 
       "last_name": "Vestal", 
       "user_id": 1121128, 
-      "submission": "To all Candidates...Will you support Elizabeth Warren's bill to allow college students to borrow under 1% interest of college loans? ", 
+      "submission": "Climate change is moving us towards a planet that may not support human life.  Will you make addressing climate change one of your highest priorities?", 
       "district": "AZ_09", 
-      "created": "2013-08-10T05:12:43", 
+      "created": "2013-08-10T05:17:22", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 33.559, 
       "x": -112.089, 
-      "id": 16291820, 
-      "question_id": "16200733"
+      "id": 16291838, 
+      "question_id": "16175078"
     }, 
     {
       "city": "Arlington", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -120.237, 
       "id": 16290730, 
       "question_id": "16217791"
-    }, 
-    {
-      "city": "Akron", 
-      "first_name": "V J", 
-      "last_name": "Armstrong", 
-      "user_id": 792108, 
-      "submission": "Would you support a ban on Congresspersons accepting jobs as corporate lobbyists for at least ten years after leaving Congress?", 
-      "district": "OH_11", 
-      "created": "2013-08-10T03:14:43", 
-      "state": "OH", 
-      "iface": "timeline_vote", 
-      "y": 41.0995, 
-      "x": -81.5145, 
-      "id": 16290704, 
-      "question_id": "16178177"
     }
   ]
 });
