@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Brooklyn", 
+      "first_name": "Barbara", 
+      "last_name": "Macek", 
+      "user_id": 1678230, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "NY_09", 
+      "created": "2013-08-10T08:35:55", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.6497, 
+      "x": -73.9377, 
+      "id": 16292423, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "Los Angeles", 
       "first_name": "Hadassa", 
       "last_name": "Gilbert", 
@@ -317,21 +332,6 @@ opendebate.processTimeline({
       "x": -123.202, 
       "id": 16292022, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "McMinnville", 
-      "first_name": "Glenna", 
-      "last_name": "Green", 
-      "user_id": 775525, 
-      "submission": "Would you support a living wage law that would force corporations, like Wal-Mart, whose Walton family owns more wealth than 40% of all Americans, to pay  living wages to all of their workers?", 
-      "district": "OR_01", 
-      "created": "2013-08-10T05:43:05", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 45.2096, 
-      "x": -123.218, 
-      "id": 16291955, 
-      "question_id": "16210264"
     }
   ]
 });
