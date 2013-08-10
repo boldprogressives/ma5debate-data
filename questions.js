@@ -13793,7 +13793,7 @@ opendebate.processFetchedQuestions({
       "x": -82.822, 
       "latest_vote": "2013-08-10T05:54:30", 
       "id": 16210777, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Watertown", 
@@ -13869,7 +13869,7 @@ opendebate.processFetchedQuestions({
       "x": -83.9611, 
       "latest_vote": "2013-08-10T05:54:55", 
       "id": 16210559, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Clovis", 
@@ -25155,7 +25155,7 @@ opendebate.processFetchedQuestions({
       "x": -110.829, 
       "latest_vote": "2013-08-10T07:13:51", 
       "id": 16176673, 
-      "trending_score": 0.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Idaho Falls", 
@@ -27283,7 +27283,7 @@ opendebate.processFetchedQuestions({
       "x": -112.176, 
       "latest_vote": "2013-08-10T05:55:07", 
       "id": 16174492, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Federal Way", 
@@ -28841,7 +28841,7 @@ opendebate.processFetchedQuestions({
       "x": -87.7111, 
       "latest_vote": "2013-08-10T06:21:12", 
       "id": 16173257, 
-      "trending_score": 0.16666666666666666
+      "trending_score": 0.25
     }, 
     {
       "city": "Corvallis", 
@@ -29962,7 +29962,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7109, 
       "latest_vote": "2013-08-10T07:18:17", 
       "id": 16172722, 
-      "trending_score": 0.375
+      "trending_score": 0.5
     }, 
     {
       "city": "Albuquerque", 
@@ -30437,7 +30437,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T10:55:26", 
       "id": 16172533, 
-      "trending_score": 1.75
+      "trending_score": 2.5
     }, 
     {
       "city": "Medford", 
@@ -30627,7 +30627,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T11:07:54", 
       "id": 16172266, 
-      "trending_score": 1.5
+      "trending_score": 1.75
     }, 
     {
       "city": "Cambridge", 
