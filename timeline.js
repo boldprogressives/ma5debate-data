@@ -2,19 +2,38 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Greensboro", 
+      "first_name": "Sherry", 
+      "last_name": "Tow", 
+      "user_id": 1095543, 
+      "submission": "Will you support a ban on gerrymandering in all state and national elections?  If no, why not?  If yes, why?", 
+      "district": "NC_06", 
+      "created": "2013-08-10T03:41:56", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NC", 
+      "iface": "timeline_question", 
+      "y": 36.1551, 
+      "x": -79.8142, 
+      "latest_vote": null, 
+      "id": 16290908, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Anacortes", 
       "first_name": "Joe", 
       "last_name": "Verdoes", 
       "user_id": 503455, 
-      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "submission": "What will you do to overturn Citizen's United?", 
       "district": "WA_02", 
-      "created": "2013-08-10T03:40:45", 
+      "created": "2013-08-10T03:41:46", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 48.4989, 
       "x": -122.607, 
-      "id": 16290904, 
-      "question_id": "16173335"
+      "id": 16290907, 
+      "question_id": "16172765"
     }, 
     {
       "city": "Indianapolis", 
@@ -293,21 +312,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16290556, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "San Diego", 
-      "first_name": "Bonnie", 
-      "last_name": "Breckenridge", 
-      "user_id": 107950, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
-      "district": "CA_51", 
-      "created": "2013-08-10T02:46:45", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 32.7403, 
-      "x": -117.092, 
-      "id": 16290552, 
-      "question_id": "16173264"
     }
   ]
 });
