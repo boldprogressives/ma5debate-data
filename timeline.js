@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Steven", 
       "last_name": "Born", 
       "user_id": 1699500, 
-      "submission": "Why don't we change the lobbying rules so that we do not have a system that legalizes bribery, and why do we not reform the filibuster so congress does not have an excuse to continue doing nothing ?", 
+      "submission": "What will you do to overturn Citizen's United?", 
       "district": "NV_03", 
-      "created": "2013-08-10T05:47:01", 
+      "created": "2013-08-10T05:47:50", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 36.1135, 
       "x": -115.273, 
-      "id": 16291974, 
-      "question_id": "16174072"
+      "id": 16291978, 
+      "question_id": "16172765"
     }, 
     {
       "city": "Birmingham", 
