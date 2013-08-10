@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Joe", 
       "last_name": "Verdoes", 
       "user_id": 503455, 
-      "submission": "What are you going to do about the revolving door of regulators and private industry? The corruption taking place here is unbelievable. Example FCC Comcast takeover of NBC scandal. ", 
+      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
       "district": "WA_02", 
-      "created": "2013-08-10T03:39:00", 
+      "created": "2013-08-10T03:39:55", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 48.4989, 
       "x": -122.607, 
-      "id": 16290899, 
-      "question_id": "16199756"
+      "id": 16290902, 
+      "question_id": "16172207"
     }, 
     {
       "city": "Indianapolis", 
