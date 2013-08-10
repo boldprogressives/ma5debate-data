@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Congress was warned about the repercussions of deriviatives. Retirees lost millions in IRAs, stock market,etc., someone needs to be held accountable and the loss replaced. The people responsible should get jail time and their assets should go toward replenishing their savings. Why was this swept under the rug and these financial expert have not answered for causing many retirees to loose their life savings?", 
+      "submission": "Given that 10s of billions of dollars have been lost to the Massachusetts economy because of foreclosures and banks are continuing with hundreds of illegal foreclosures, what will you do to outlaw illegal bank actions and undo the damage already done?", 
       "district": "AL_07", 
-      "created": "2013-08-10T06:09:01", 
+      "created": "2013-08-10T06:09:38", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292061, 
-      "question_id": "16191973"
+      "id": 16292063, 
+      "question_id": "16190183"
     }, 
     {
       "city": "Las Vegas", 
