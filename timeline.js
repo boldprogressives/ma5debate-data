@@ -6,6 +6,25 @@ opendebate.processTimeline({
       "first_name": "Nicholas", 
       "last_name": "Martino", 
       "user_id": 1810196, 
+      "submission": "The answer to that question is, who knows and who cares, but one less Nazi war criminal walking around pretending to be a patriotic American is a start.  We have to start somewhere, and it appears that I'm the only one willing.  ", 
+      "district": "NV_03", 
+      "created": "2013-08-10T09:19:16", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NV", 
+      "iface": "timeline_question", 
+      "y": 36.0401, 
+      "x": -115.077, 
+      "latest_vote": null, 
+      "id": 16292451, 
+      "trending_score": 0.5
+    }, 
+    {
+      "city": "Henderson", 
+      "first_name": "Nicholas", 
+      "last_name": "Martino", 
+      "user_id": 1810196, 
       "submission": "What are you going to do to improve math and science skills in this country. How many of you can answer this?  If one Ivy League educated rocket scientist who has been terrorized for 5 years by the NSA hunts down and executes one US Congressman, how many Nazi war criminals will be left in Washington?", 
       "district": "NV_03", 
       "created": "2013-08-10T09:07:48", 
@@ -321,21 +340,6 @@ opendebate.processTimeline({
       "x": -119.8, 
       "id": 16292087, 
       "question_id": "16197620"
-    }, 
-    {
-      "city": "Las Vegas", 
-      "first_name": "Steven", 
-      "last_name": "Born", 
-      "user_id": 1699500, 
-      "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
-      "district": "NV_03", 
-      "created": "2013-08-10T05:56:16", 
-      "state": "NV", 
-      "iface": "timeline_vote", 
-      "y": 36.1135, 
-      "x": -115.273, 
-      "id": 16292034, 
-      "question_id": "16172542"
     }
   ]
 });
