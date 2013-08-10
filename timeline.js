@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Birmingham", 
+      "first_name": "Dot", 
+      "last_name": "Canup", 
+      "user_id": 1565077, 
+      "submission": "Will you finally call out the GOP's travesties in politics and denounce Fox 'News' support of same?", 
+      "district": "AL_07", 
+      "created": "2013-08-10T06:34:53", 
+      "state": "AL", 
+      "iface": "timeline_vote", 
+      "y": 33.6391, 
+      "x": -86.6919, 
+      "id": 16292182, 
+      "question_id": "16199852"
+    }, 
+    {
       "city": "Phoenix", 
       "first_name": "Lynne", 
       "last_name": "Vestal", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -112.089, 
       "id": 16292180, 
       "question_id": "16207548"
-    }, 
-    {
-      "city": "Birmingham", 
-      "first_name": "Dot", 
-      "last_name": "Canup", 
-      "user_id": 1565077, 
-      "submission": "Can you explain why the people responsible for the failure of Wall Street and the banking industry have not been held accountable for the destruction of our economy.", 
-      "district": "AL_07", 
-      "created": "2013-08-10T06:33:51", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 33.6391, 
-      "x": -86.6919, 
-      "id": 16292179, 
-      "question_id": "16201979"
     }, 
     {
       "city": "Watertown", 
