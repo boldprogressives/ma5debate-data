@@ -2,6 +2,25 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Indian Orchard", 
+      "first_name": "Miguel", 
+      "last_name": "Soto", 
+      "user_id": 1716772, 
+      "submission": "For any candidate!! Are you going to fight to continue with the work at hand with the implementation of the president plan to keep social security working for every American that should benefit, and should have a sound social security package when they retired? ", 
+      "district": "MA_01", 
+      "created": "2013-08-10T15:01:49", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.151, 
+      "x": -72.5065, 
+      "latest_vote": null, 
+      "id": 16293781, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Chicago", 
       "first_name": "Peter", 
       "last_name": "Moxon", 
@@ -12075,15 +12094,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-07T09:46:47", 
       "state_votes": 4, 
-      "votes": 14, 
+      "votes": 15, 
       "district_votes": 3, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3612, 
       "x": -71.3639, 
-      "latest_vote": "2013-08-10T14:26:14", 
+      "latest_vote": "2013-08-10T15:02:03", 
       "id": 16215369, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Wayland", 
@@ -14222,15 +14241,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_22", 
       "created": "2013-08-07T00:25:04", 
       "state_votes": 4, 
-      "votes": 32, 
+      "votes": 33, 
       "district_votes": 1, 
       "state": "CA", 
       "iface": "question", 
       "y": 36.829, 
       "x": -119.666, 
-      "latest_vote": "2013-08-09T19:02:41", 
+      "latest_vote": "2013-08-10T15:01:31", 
       "id": 16210488, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Anaheim", 
@@ -14982,15 +15001,15 @@ opendebate.processFetchedQuestions({
       "district": "VA_06", 
       "created": "2013-08-06T21:59:48", 
       "state_votes": 14, 
-      "votes": 134, 
+      "votes": 135, 
       "district_votes": 3, 
       "state": "VA", 
       "iface": "question", 
       "y": 37.2549, 
       "x": -79.9806, 
-      "latest_vote": "2013-08-10T14:35:40", 
+      "latest_vote": "2013-08-10T15:01:46", 
       "id": 16207107, 
-      "trending_score": 7.5
+      "trending_score": 8.5
     }, 
     {
       "city": "Asheville", 
@@ -30771,15 +30790,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T20:45:26", 
       "state_votes": 209, 
-      "votes": 1353, 
+      "votes": 1354, 
       "district_votes": 58, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-10T14:56:48", 
+      "latest_vote": "2013-08-10T15:01:06", 
       "id": 16172533, 
-      "trending_score": 9.0
+      "trending_score": 9.5
     }, 
     {
       "city": "Medford", 
@@ -30904,15 +30923,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:42:20", 
       "state_votes": 186, 
-      "votes": 1252, 
+      "votes": 1254, 
       "district_votes": 57, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3699, 
       "x": -71.2368, 
-      "latest_vote": "2013-08-10T14:57:47", 
+      "latest_vote": "2013-08-10T15:01:38", 
       "id": 16172281, 
-      "trending_score": 8.5
+      "trending_score": 9.5
     }, 
     {
       "city": "Arlington", 
@@ -31075,15 +31094,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:00:17", 
       "state_votes": 130, 
-      "votes": 737, 
+      "votes": 738, 
       "district_votes": 43, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.366, 
       "x": -71.1035, 
-      "latest_vote": "2013-08-10T14:43:32", 
+      "latest_vote": "2013-08-10T15:01:34", 
       "id": 16172207, 
-      "trending_score": 8.5
+      "trending_score": 9.5
     }, 
     {
       "city": "Arlington", 
