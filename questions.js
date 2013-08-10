@@ -16833,7 +16833,7 @@ opendebate.processFetchedQuestions({
       "x": -82.7314, 
       "latest_vote": "2013-08-10T16:06:22", 
       "id": 16201559, 
-      "trending_score": 0.5
+      "trending_score": 1.0
     }, 
     {
       "city": "North Andover", 
@@ -26960,7 +26960,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9643, 
       "latest_vote": "2013-08-10T15:12:54", 
       "id": 16175729, 
-      "trending_score": 0.16666666666666666
+      "trending_score": 0.25
     }, 
     {
       "city": "Tucson", 
@@ -30912,7 +30912,7 @@ opendebate.processFetchedQuestions({
       "x": -93.3713, 
       "latest_vote": "2013-08-10T15:57:08", 
       "id": 16172657, 
-      "trending_score": 0.3333333333333333
+      "trending_score": 0.5
     }, 
     {
       "city": "Midlothian", 
