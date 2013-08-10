@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Akron", 
+      "first_name": "V J", 
+      "last_name": "Armstrong", 
+      "user_id": 792108, 
+      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
+      "district": "OH_11", 
+      "created": "2013-08-10T03:13:02", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 41.0995, 
+      "x": -81.5145, 
+      "id": 16290695, 
+      "question_id": "16173210"
+    }, 
+    {
       "city": "Bisbee", 
       "first_name": "Bridget", 
       "last_name": "Burke", 
       "user_id": 1592935, 
-      "submission": "Do you support the legalization of marijuana (which should be taxed & regulated like alcohol or tobacco)? If so, would you allow the release of nonviolent offenders from prison?", 
+      "submission": "Would you support the pardoning of all victimless crime marijuana (Cannabis) offenders? Depopulating our For Profit Prisons?", 
       "district": "AZ_02", 
-      "created": "2013-08-10T03:11:59", 
+      "created": "2013-08-10T03:12:09", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 31.4588, 
       "x": -109.946, 
-      "id": 16290687, 
-      "question_id": "16172722"
+      "id": 16290690, 
+      "question_id": "16208291"
     }, 
     {
       "city": "Mount Vernon", 
@@ -289,25 +304,6 @@ opendebate.processTimeline({
       "x": -82.7307, 
       "id": 16290492, 
       "question_id": "16203676"
-    }, 
-    {
-      "city": "Kailua Kona", 
-      "first_name": "Charles", 
-      "last_name": "Webb", 
-      "user_id": 243487, 
-      "submission": "Will you support a national bill to decriminalize marijuana?", 
-      "district": "HI_02", 
-      "created": "2013-08-10T02:13:30", 
-      "state_votes": 0, 
-      "votes": 1, 
-      "district_votes": 0, 
-      "state": "HI", 
-      "iface": "timeline_question", 
-      "y": 19.6647, 
-      "x": -155.981, 
-      "latest_vote": "2013-08-10T03:10:34", 
-      "id": 16290490, 
-      "trending_score": 1.5
     }
   ]
 });
