@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "", 
       "last_name": "", 
       "user_id": 1810448, 
-      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
+      "submission": "Will you protect Social Security And Medicare by not cutting it with the chained CPI for Social Security that has been mentioned.  Also, no cuts to Medicare but closing the donute hole 100% so seniors aren't left fending for themselves to pay full price for their drugs.", 
       "district": "MA_05", 
-      "created": "2013-08-10T13:14:41", 
+      "created": "2013-08-10T13:15:22", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.398, 
       "x": -71.2203, 
-      "id": 16292667, 
-      "question_id": "16175634"
+      "id": 16292669, 
+      "question_id": "16175570"
     }, 
     {
       "city": "Clermont", 

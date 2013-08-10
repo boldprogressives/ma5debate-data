@@ -14724,7 +14724,7 @@ opendebate.processFetchedQuestions({
       "x": -70.2918, 
       "latest_vote": "2013-08-10T07:15:58", 
       "id": 16206983, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "San Francisco", 
@@ -25725,7 +25725,7 @@ opendebate.processFetchedQuestions({
       "x": -104.946, 
       "latest_vote": "2013-08-10T07:15:51", 
       "id": 16176201, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Albuquerque", 
@@ -26476,16 +26476,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you protect Social Security And Medicare by not cutting it with the chained CPI for Social Security that has been mentioned.  Also, no cuts to Medicare but closing the donute hole 100% so seniors aren't left fending for themselves to pay full price for their drugs.", 
       "district": "NE_03", 
       "created": "2013-08-05T00:36:55", 
-      "state_votes": 18, 
-      "votes": 484, 
-      "district_votes": 3, 
+      "state_votes": 19, 
+      "votes": 485, 
+      "district_votes": 4, 
       "state": "NE", 
       "iface": "question", 
       "y": 41.1313, 
       "x": -103.032, 
-      "latest_vote": "2013-08-10T07:18:17", 
+      "latest_vote": "2013-08-10T13:15:22", 
       "id": 16175570, 
-      "trending_score": 0.25
+      "trending_score": 1.25
     }, 
     {
       "city": "Mountlake Terrace", 
@@ -26884,7 +26884,7 @@ opendebate.processFetchedQuestions({
       "x": -89.7297, 
       "latest_vote": "2013-08-10T07:16:10", 
       "id": 16175078, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Iuka", 
@@ -29810,7 +29810,7 @@ opendebate.processFetchedQuestions({
       "x": -111.974, 
       "latest_vote": "2013-08-10T12:37:39", 
       "id": 16172777, 
-      "trending_score": 2.083333333333333
+      "trending_score": 2.833333333333333
     }, 
     {
       "city": "Gladstone", 
@@ -30646,7 +30646,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T12:38:32", 
       "id": 16172266, 
-      "trending_score": 2.0
+      "trending_score": 2.5
     }, 
     {
       "city": "Cambridge", 
