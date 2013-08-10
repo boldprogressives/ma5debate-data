@@ -28594,7 +28594,7 @@ opendebate.processFetchedQuestions({
       "x": -105.043, 
       "latest_vote": "2013-08-10T18:05:28", 
       "id": 16173921, 
-      "trending_score": 22.166666666666668
+      "trending_score": 10.833333333333334
     }, 
     {
       "city": "Fort Collins", 
@@ -29487,7 +29487,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T18:05:58", 
       "id": 16173259, 
-      "trending_score": 13.5
+      "trending_score": 9.083333333333334
     }, 
     {
       "city": "Manitowoc", 
@@ -31140,7 +31140,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1582, 
       "latest_vote": "2013-08-10T17:38:30", 
       "id": 16172303, 
-      "trending_score": 15.0
+      "trending_score": 10.083333333333334
     }, 
     {
       "city": "Arlington", 
@@ -31216,7 +31216,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2368, 
       "latest_vote": "2013-08-10T18:05:38", 
       "id": 16172281, 
-      "trending_score": 20.25
+      "trending_score": 10.0
     }, 
     {
       "city": "Arlington", 
