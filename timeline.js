@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Who is financing your campaign and what have you promised in return for this support?", 
+      "submission": "The practice of bill bundling isn't expediency, it's deception.  What will you do to change it?", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:24:59", 
+      "created": "2013-08-10T05:25:57", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291875, 
-      "question_id": "16199725"
+      "id": 16291886, 
+      "question_id": "16174951"
     }, 
     {
       "city": "Disney", 
       "first_name": "Pam", 
       "last_name": "Johnson", 
       "user_id": 1754508, 
-      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
+      "submission": "Would you support a ban on Congresspersons accepting jobs as corporate lobbyists for at least ten years after leaving Congress?", 
       "district": "OK_02", 
-      "created": "2013-08-10T05:24:56", 
+      "created": "2013-08-10T05:25:50", 
       "state": "OK", 
       "iface": "timeline_vote", 
       "y": 36.481, 
       "x": -95.0171, 
-      "id": 16291874, 
-      "question_id": "16175634"
+      "id": 16291885, 
+      "question_id": "16178177"
     }, 
     {
       "city": "Stevens Point", 
