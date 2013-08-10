@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "How will Social Security & Medicare be strengthened with additional benefits for Senior Citizens?", 
+      "submission": "Where do you stand on getting rid of derivitives in the banking industry?", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:04:45", 
+      "created": "2013-08-10T05:05:39", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291787, 
-      "question_id": "16188015"
+      "id": 16291790, 
+      "question_id": "16190280"
     }, 
     {
       "city": "Arlington", 
