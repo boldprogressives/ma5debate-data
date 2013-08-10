@@ -15807,7 +15807,7 @@ opendebate.processFetchedQuestions({
       "x": -83.1201, 
       "latest_vote": "2013-08-10T07:11:30", 
       "id": 16203215, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Lake Worth", 
@@ -27853,7 +27853,7 @@ opendebate.processFetchedQuestions({
       "x": -123.884, 
       "latest_vote": "2013-08-10T07:12:00", 
       "id": 16174072, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Cape Girardeau", 
@@ -28832,16 +28832,16 @@ opendebate.processFetchedQuestions({
       "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
       "district": "TX_03", 
       "created": "2013-08-04T01:22:04", 
-      "state_votes": 153, 
-      "votes": 1104, 
-      "district_votes": 37, 
+      "state_votes": 154, 
+      "votes": 1105, 
+      "district_votes": 38, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-10T12:52:34", 
+      "latest_vote": "2013-08-10T13:11:52", 
       "id": 16173259, 
-      "trending_score": 2.0
+      "trending_score": 2.5
     }, 
     {
       "city": "Manitowoc", 
@@ -29573,16 +29573,16 @@ opendebate.processFetchedQuestions({
       "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
       "district": "MT_01", 
       "created": "2013-08-03T23:23:07", 
-      "state_votes": 184, 
-      "votes": 1248, 
-      "district_votes": 48, 
+      "state_votes": 185, 
+      "votes": 1249, 
+      "district_votes": 49, 
       "state": "MT", 
       "iface": "question", 
       "y": 48.2112, 
       "x": -114.294, 
-      "latest_vote": "2013-08-10T12:40:47", 
+      "latest_vote": "2013-08-10T13:11:21", 
       "id": 16172913, 
-      "trending_score": 1.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Montegut", 
@@ -29696,7 +29696,7 @@ opendebate.processFetchedQuestions({
       "x": -91.087, 
       "latest_vote": "2013-08-10T07:12:20", 
       "id": 16172866, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Austin", 
@@ -30456,7 +30456,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T12:51:50", 
       "id": 16172533, 
-      "trending_score": 2.3333333333333335
+      "trending_score": 2.5
     }, 
     {
       "city": "Medford", 
@@ -30504,16 +30504,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
       "district": "MA_05", 
       "created": "2013-08-03T17:52:54", 
-      "state_votes": 177, 
-      "votes": 1129, 
-      "district_votes": 48, 
+      "state_votes": 178, 
+      "votes": 1130, 
+      "district_votes": 49, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4207, 
       "x": -71.1582, 
-      "latest_vote": "2013-08-10T12:38:13", 
+      "latest_vote": "2013-08-10T13:11:38", 
       "id": 16172303, 
-      "trending_score": 2.0
+      "trending_score": 2.5
     }, 
     {
       "city": "Arlington", 

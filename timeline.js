@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Waltham", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810448, 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "district": "MA_05", 
+      "created": "2013-08-10T13:11:52", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.398, 
+      "x": -71.2203, 
+      "id": 16292640, 
+      "question_id": "16173259"
+    }, 
+    {
       "city": "Clermont", 
       "first_name": "eileen", 
       "last_name": "fleming", 
@@ -313,21 +328,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16292495, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Harrison Township", 
-      "first_name": "Donna", 
-      "last_name": "Freeman", 
-      "user_id": 1578049, 
-      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
-      "district": "MI_10", 
-      "created": "2013-08-10T10:57:30", 
-      "state": "MI", 
-      "iface": "timeline_vote", 
-      "y": 42.6094, 
-      "x": -82.8357, 
-      "id": 16292494, 
-      "question_id": "16173210"
     }
   ]
 });
