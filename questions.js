@@ -30570,7 +30570,7 @@ opendebate.processFetchedQuestions({
       "x": -122.811, 
       "latest_vote": "2013-08-10T17:11:47", 
       "id": 16172731, 
-      "trending_score": 6.833333333333333
+      "trending_score": 8.5
     }, 
     {
       "city": "Chicago", 
