@@ -2,49 +2,64 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Philadelphia", 
+      "first_name": "Wanda", 
+      "last_name": "Seidle", 
+      "user_id": 1689376, 
+      "submission": "Will you work to support Elizabeth Warren's efforts to revise Glass-Steagall", 
+      "district": "PA_02", 
+      "created": "2013-08-10T00:49:03", 
+      "state": "PA", 
+      "iface": "timeline_vote", 
+      "y": 39.9789, 
+      "x": -75.2206, 
+      "id": 16289243, 
+      "question_id": "16265543"
+    }, 
+    {
+      "city": "San Leandro", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810396, 
+      "submission": "Public education is being privatized all over the U.S., with even Obama supporting school \"reform\" which turns education over to private corporations. These companies get rid of experienced teachers, hire in kids just out of college, give them 5 weeks of \"training\" and then put them in schools at low wages. Our children are being short-changed, particularly those with learning problems - \"reform\" schools \"cook the books\" by denying places in schools to those with problems, then saying, \"look, scores up!\" Will you seriously take a hard look at school \"reform?\"", 
+      "district": "CA_13", 
+      "created": "2013-08-10T00:49:02", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 37.7029, 
+      "x": -122.124, 
+      "id": 16289241, 
+      "question_id": "16197636"
+    }, 
+    {
       "city": "El Prado", 
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "What are the main areas that we need to focus in on so that we can improve education in America?", 
+      "submission": "Will you support much greater funding for our National Parks?", 
       "district": "NM_03", 
-      "created": "2013-08-10T00:47:57", 
+      "created": "2013-08-10T00:48:57", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16289230, 
-      "question_id": "16194024"
+      "id": 16289240, 
+      "question_id": "16191336"
     }, 
     {
       "city": "San Angelo", 
       "first_name": "Janna", 
       "last_name": "Simms", 
       "user_id": 521772, 
-      "submission": "Where do you stand on a constitutional admendment that declares that corporations are NOT, in fact, people and do not have the legal rights of people.", 
+      "submission": "Would you support a new millennial version of the Civilian Conservation Corps to provide a broad sector of the general public with fulltime employment in municipal, state, and federal parks?", 
       "district": "TX_11", 
-      "created": "2013-08-10T00:47:55", 
+      "created": "2013-08-10T00:48:40", 
       "state": "TX", 
       "iface": "timeline_vote", 
       "y": 31.4678, 
       "x": -100.436, 
-      "id": 16289229, 
-      "question_id": "16176313"
-    }, 
-    {
-      "city": "Philadelphia", 
-      "first_name": "Wanda", 
-      "last_name": "Seidle", 
-      "user_id": 1689376, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "PA_02", 
-      "created": "2013-08-10T00:47:48", 
-      "state": "PA", 
-      "iface": "timeline_vote", 
-      "y": 39.9789, 
-      "x": -75.2206, 
-      "id": 16289227, 
-      "question_id": "16172266"
+      "id": 16289238, 
+      "question_id": "16272358"
     }, 
     {
       "city": "", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -105.575, 
       "id": 16288835, 
       "question_id": "16265947"
-    }, 
-    {
-      "city": "Tucson", 
-      "first_name": "Adam", 
-      "last_name": "Jacobs", 
-      "user_id": 186458, 
-      "submission": "Do you support the legalization of marijuana (which should be taxed & regulated like alcohol or tobacco)? If so, would you allow the release of nonviolent offenders from prison?", 
-      "district": "AZ_02", 
-      "created": "2013-08-10T00:10:36", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 32.2449, 
-      "x": -110.921, 
-      "id": 16288772, 
-      "question_id": "16172722"
     }
   ]
 });
