@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Joe", 
       "last_name": "Verdoes", 
       "user_id": 503455, 
-      "submission": "Will you stand up to gun lobbyists to support strong measures about gun control or will you shy away from it because it is too hot?", 
+      "submission": "Do you fully support Senator Warren's 21st century Glass-Steagall bill to separate investment banking from consumer banking?", 
       "district": "WA_02", 
-      "created": "2013-08-10T03:49:50", 
+      "created": "2013-08-10T03:50:54", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 48.4989, 
       "x": -122.607, 
-      "id": 16290939, 
-      "question_id": "16187691"
+      "id": 16290943, 
+      "question_id": "16224940"
     }, 
     {
       "city": "Greensboro", 
