@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Fort Myers", 
+      "first_name": "Martha", 
+      "last_name": "Milne", 
+      "user_id": 128469, 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "district": "FL_19", 
+      "created": "2013-08-10T00:18:51", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 26.6284, 
+      "x": -81.8676, 
+      "id": 16288881, 
+      "question_id": "16172913"
+    }, 
+    {
       "city": "El Prado", 
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Why should the U.S.- representing only 5 % of the world's population- have to have a military budget equal to the other 95 % of the world's population (i.e. as it is now) ?  Isn't that out of balance and \"unsustainable\"?", 
+      "submission": "What wil you do about the gross take over of the communication business we need true diversity  not considerations that have noe real interest in serving the public in the way it was ment to do there should be one station per coverage area It is a terrible thing to see one company with 3 or more stations in one town how can that be truly in the public interest it is time to go back to the original owner system of the 60s & 70s repeal the communication act of 1996.   ", 
       "district": "NM_03", 
-      "created": "2013-08-10T00:18:01", 
+      "created": "2013-08-10T00:18:47", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16288876, 
-      "question_id": "16272211"
+      "id": 16288880, 
+      "question_id": "16259199"
     }, 
     {
       "city": "Oakland", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -75.2845, 
       "id": 16288103, 
       "question_id": "16194365"
-    }, 
-    {
-      "city": "Tucson", 
-      "first_name": "glenn", 
-      "last_name": "martin", 
-      "user_id": 1773873, 
-      "submission": "When will you force Eric Holder and the DOJ to start prosecuting the criminal elements in the Wall Street firms that attributed to the great economic crash of 2008?", 
-      "district": "AZ_02", 
-      "created": "2013-08-09T23:39:07", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 32.2449, 
-      "x": -110.921, 
-      "id": 16288001, 
-      "question_id": "16209667"
     }
   ]
 });
