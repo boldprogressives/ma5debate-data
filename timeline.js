@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Manassas", 
+      "first_name": "Eileen L. P. Davis", 
+      "last_name": "", 
+      "user_id": 1778238, 
+      "submission": "Will you support immigration reform with a path to citizenship ?", 
+      "district": "VA_01", 
+      "created": "2013-08-10T00:58:04", 
+      "state": "VA", 
+      "iface": "timeline_vote", 
+      "y": 38.6736, 
+      "x": -77.4268, 
+      "id": 16289320, 
+      "question_id": "16172648"
+    }, 
+    {
+      "city": "freeport", 
+      "first_name": "dave", 
+      "last_name": "keene", 
+      "user_id": 281083, 
+      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
+      "district": "NY_04", 
+      "created": "2013-08-10T00:58:02", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.652, 
+      "x": -73.5882, 
+      "id": 16289319, 
+      "question_id": "16203676"
+    }, 
+    {
       "city": "El Prado", 
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "When will you move to stop voter suppression.", 
+      "submission": "How will you implement clean, green energy programs? How quickly? Where do you stand on a mix of green energy technology and the continued use of fossil fuels including fracking?", 
       "district": "NM_03", 
-      "created": "2013-08-10T00:56:37", 
+      "created": "2013-08-10T00:58:01", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16289312, 
-      "question_id": "16185717"
+      "id": 16289318, 
+      "question_id": "16184465"
     }, 
     {
       "city": "Watertown", 
@@ -274,36 +304,6 @@ opendebate.processTimeline({
       "x": -81.8676, 
       "id": 16288883, 
       "question_id": "16199648"
-    }, 
-    {
-      "city": "Oakland", 
-      "first_name": "Avi & Clarence", 
-      "last_name": "Klammer & Reese", 
-      "user_id": 1778044, 
-      "submission": "What will you do to ensure that all Americans have access to the voting booth and what will you do to get money out of our elections so that we all have an equal voice?", 
-      "district": "CA_13", 
-      "created": "2013-08-10T00:16:10", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 37.8129, 
-      "x": -122.27, 
-      "id": 16288860, 
-      "question_id": "16205834"
-    }, 
-    {
-      "city": "Forest", 
-      "first_name": "Jean", 
-      "last_name": "Gibson", 
-      "user_id": 573159, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "VA_06", 
-      "created": "2013-08-10T00:14:26", 
-      "state": "VA", 
-      "iface": "timeline_vote", 
-      "y": 37.3547, 
-      "x": -79.2831, 
-      "id": 16288849, 
-      "question_id": "16172777"
     }
   ]
 });
