@@ -14857,7 +14857,7 @@ opendebate.processFetchedQuestions({
       "x": -117.307, 
       "latest_vote": "2013-08-10T05:58:08", 
       "id": 16205966, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Saratoga Springs", 
@@ -15085,7 +15085,7 @@ opendebate.processFetchedQuestions({
       "x": -78.6896, 
       "latest_vote": "2013-08-10T04:57:36", 
       "id": 16205646, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Gaithersburg", 
@@ -27207,7 +27207,7 @@ opendebate.processFetchedQuestions({
       "x": -87.706, 
       "latest_vote": "2013-08-10T06:27:21", 
       "id": 16174483, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Seattle", 
@@ -27929,7 +27929,7 @@ opendebate.processFetchedQuestions({
       "x": -109.425, 
       "latest_vote": "2013-08-10T06:27:36", 
       "id": 16173690, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Salina", 
@@ -28909,15 +28909,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_10", 
       "created": "2013-08-04T00:59:23", 
       "state_votes": 187, 
-      "votes": 1334, 
+      "votes": 1335, 
       "district_votes": 46, 
       "state": "TX", 
       "iface": "question", 
       "y": 30.3972, 
       "x": -97.7518, 
-      "latest_vote": "2013-08-10T10:22:54", 
+      "latest_vote": "2013-08-10T10:57:30", 
       "id": 16173210, 
-      "trending_score": 1.8333333333333333
+      "trending_score": 2.3333333333333335
     }, 
     {
       "city": "Cottonwood", 

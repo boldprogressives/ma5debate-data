@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Donna", 
       "last_name": "Freeman", 
       "user_id": 1578049, 
-      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
+      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
       "district": "MI_10", 
-      "created": "2013-08-10T10:56:55", 
+      "created": "2013-08-10T10:57:30", 
       "state": "MI", 
       "iface": "timeline_vote", 
       "y": 42.6094, 
       "x": -82.8357, 
-      "id": 16292492, 
-      "question_id": "16172207"
+      "id": 16292494, 
+      "question_id": "16173210"
     }, 
     {
       "city": "Killeen", 
