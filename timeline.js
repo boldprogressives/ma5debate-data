@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Salinas", 
+      "first_name": "Donna", 
+      "last_name": "Gleaves", 
+      "user_id": 1635501, 
+      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
+      "district": "CA_20", 
+      "created": "2013-08-10T03:21:56", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 36.6757, 
+      "x": -121.628, 
+      "id": 16290746, 
+      "question_id": "16175230"
+    }, 
+    {
       "city": "Indianapolis", 
       "first_name": "John", 
       "last_name": "Grady", 
       "user_id": 1742213, 
-      "submission": "Do you support the legalization of marijuana (which should be taxed & regulated like alcohol or tobacco)? If so, would you allow the release of nonviolent offenders from prison?", 
+      "submission": "Would you support replacing \"Obamacare\" with single-payer coverage (Medicare for All)?", 
       "district": "IN_07", 
-      "created": "2013-08-10T03:20:52", 
+      "created": "2013-08-10T03:21:43", 
       "state": "IN", 
       "iface": "timeline_vote", 
       "y": 39.8408, 
       "x": -86.2651, 
-      "id": 16290734, 
-      "question_id": "16172722"
+      "id": 16290744, 
+      "question_id": "16175729"
+    }, 
+    {
+      "city": "Winter Park", 
+      "first_name": "Carol", 
+      "last_name": "Sidofsky", 
+      "user_id": 255818, 
+      "submission": "How quickly would you say that the Keystone Pipeline must NEVER BE BUILT, since it would be an ecological disaster?", 
+      "district": "CO_02", 
+      "created": "2013-08-10T03:21:02", 
+      "state": "CO", 
+      "iface": "timeline_vote", 
+      "y": 39.9389, 
+      "x": -105.796, 
+      "id": 16290737, 
+      "question_id": "16172941"
     }, 
     {
       "city": "Berkeley Heights", 
@@ -278,36 +308,6 @@ opendebate.processTimeline({
       "x": -81.2646, 
       "id": 16290537, 
       "question_id": "16199482"
-    }, 
-    {
-      "city": "Kapaa", 
-      "first_name": "Susan", 
-      "last_name": "Oakley", 
-      "user_id": 227763, 
-      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
-      "district": "HI_02", 
-      "created": "2013-08-10T02:28:47", 
-      "state": "HI", 
-      "iface": "timeline_vote", 
-      "y": 22.0788, 
-      "x": -159.35, 
-      "id": 16290527, 
-      "question_id": "16172731"
-    }, 
-    {
-      "city": "Oklahoma City", 
-      "first_name": "Sheila", 
-      "last_name": "Nance", 
-      "user_id": 875989, 
-      "submission": "Why doesn't anyone know about the final NIST report acknowledgement that the THIRD tower demolished on 9-11-01 DID free fall (proving demolition), and why haven't you demanded a criminal investigation?", 
-      "district": "OK_04", 
-      "created": "2013-08-10T02:22:55", 
-      "state": "OK", 
-      "iface": "timeline_vote", 
-      "y": 35.3812, 
-      "x": -97.4759, 
-      "id": 16290523, 
-      "question_id": "16213330"
     }
   ]
 });
