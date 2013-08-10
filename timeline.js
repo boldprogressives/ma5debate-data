@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "where is the accountability? we are lied into war, our lawmakers are obviously involved in insider trading on Wall Street ,the average American is working two jobs to barely survive ,while presidents and CEOs in corporate America make more than they ever have any history of man ,yet God forbid if you're walking down the street with a rock of crack cocaine in your pocket you go directly to jail what's up with that? ", 
+      "submission": "What do you think the top tax rate should be for the 1%? ", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:21:37", 
+      "created": "2013-08-10T05:22:53", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291865, 
-      "question_id": "16172661"
+      "id": 16291867, 
+      "question_id": "16172752"
     }, 
     {
       "city": "Stevens Point", 
