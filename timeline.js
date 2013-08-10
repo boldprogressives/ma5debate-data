@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Cumming", 
+      "first_name": "R. Gwen", 
+      "last_name": "Smith Minniti", 
+      "user_id": 697062, 
+      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
+      "district": "GA_07", 
+      "created": "2013-08-10T01:50:59", 
+      "state": "GA", 
+      "iface": "timeline_vote", 
+      "y": 34.2031, 
+      "x": -84.0743, 
+      "id": 16289906, 
+      "question_id": "16173257"
+    }, 
+    {
+      "city": "Panama City", 
+      "first_name": "eugene", 
+      "last_name": "mcclure", 
+      "user_id": 1567750, 
+      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
+      "district": "FL_02", 
+      "created": "2013-08-10T01:50:23", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 30.2034, 
+      "x": -85.6606, 
+      "id": 16289883, 
+      "question_id": "16172207"
+    }, 
+    {
       "city": "New York", 
       "first_name": "Brett", 
       "last_name": "Greisen", 
       "user_id": 35998, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "submission": "In 2006, the lame-duck GOP congress enacted a bill forcing the U.S.Postal service to fully fund pensions for the next 75 years and do it in ten years. It's a bill that was designed to ruin the USPS so it could be privatized. Will you work to repeal this onerous bill and introduce legislation to allow the USPS to compete with private carriers?", 
       "district": "NY_13", 
-      "created": "2013-08-10T01:49:58", 
+      "created": "2013-08-10T01:50:15", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7996, 
       "x": -73.9703, 
-      "id": 16289876, 
-      "question_id": "16172266"
+      "id": 16289880, 
+      "question_id": "16206983"
     }, 
     {
       "city": "Reno", 
@@ -32,21 +62,6 @@ opendebate.processTimeline({
       "question_id": "16176917"
     }, 
     {
-      "city": "Panama City", 
-      "first_name": "eugene", 
-      "last_name": "mcclure", 
-      "user_id": 1567750, 
-      "submission": "What will you do to overturn Citizen's United?", 
-      "district": "FL_02", 
-      "created": "2013-08-10T01:49:55", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 30.2034, 
-      "x": -85.6606, 
-      "id": 16289875, 
-      "question_id": "16172765"
-    }, 
-    {
       "city": "Marathon", 
       "first_name": "Anna", 
       "last_name": "Davis", 
@@ -60,21 +75,6 @@ opendebate.processTimeline({
       "x": -81.0469, 
       "id": 16289872, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "Cumming", 
-      "first_name": "R. Gwen", 
-      "last_name": "Smith Minniti", 
-      "user_id": 697062, 
-      "submission": "ALEC is taking over state legislation in republican states.  Will you keep constituents informed as to members of ALEC in the state governments?", 
-      "district": "GA_07", 
-      "created": "2013-08-10T01:48:11", 
-      "state": "GA", 
-      "iface": "timeline_vote", 
-      "y": 34.2031, 
-      "x": -84.0743, 
-      "id": 16289841, 
-      "question_id": "16173111"
     }, 
     {
       "city": "Winston Salem", 
