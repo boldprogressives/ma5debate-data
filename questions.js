@@ -3248,7 +3248,7 @@ opendebate.processFetchedQuestions({
       "x": -123.05, 
       "latest_vote": "2013-08-10T03:47:53", 
       "id": 16255209, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "La Jolla", 
@@ -4445,7 +4445,7 @@ opendebate.processFetchedQuestions({
       "x": -157.821, 
       "latest_vote": "2013-08-10T00:26:17", 
       "id": 16245167, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Bainbridge Island", 
@@ -5034,7 +5034,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7109, 
       "latest_vote": "2013-08-10T00:27:04", 
       "id": 16241045, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Redondo Beach", 
@@ -5091,7 +5091,7 @@ opendebate.processFetchedQuestions({
       "x": -112.052, 
       "latest_vote": "2013-08-10T00:26:59", 
       "id": 16240922, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Portland", 
@@ -5129,7 +5129,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7109, 
       "latest_vote": "2013-08-10T04:39:25", 
       "id": 16240772, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Hugo", 
@@ -5186,7 +5186,7 @@ opendebate.processFetchedQuestions({
       "x": -84.314, 
       "latest_vote": "2013-08-10T00:26:48", 
       "id": 16239568, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Schaumburg", 
@@ -7116,15 +7116,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_01", 
       "created": "2013-08-08T16:17:51", 
       "state_votes": 5, 
-      "votes": 96, 
+      "votes": 97, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4555, 
       "x": -73.25, 
-      "latest_vote": "2013-08-09T23:31:48", 
+      "latest_vote": "2013-08-10T06:26:35", 
       "id": 16227025, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Lexington", 
@@ -15959,7 +15959,7 @@ opendebate.processFetchedQuestions({
       "x": -72.7291, 
       "latest_vote": "2013-08-10T04:45:45", 
       "id": 16201159, 
-      "trending_score": 2.3333333333333335
+      "trending_score": 2.5
     }, 
     {
       "city": "Saint Cloud", 
@@ -19455,7 +19455,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7727, 
       "latest_vote": "2013-08-10T04:18:45", 
       "id": 16187691, 
-      "trending_score": 3.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Cocoa", 
@@ -22468,15 +22468,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_07", 
       "created": "2013-08-06T12:44:32", 
       "state_votes": 5, 
-      "votes": 96, 
+      "votes": 97, 
       "district_votes": 3, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3818, 
       "x": -71.1032, 
-      "latest_vote": "2013-08-10T04:32:19", 
+      "latest_vote": "2013-08-10T06:26:18", 
       "id": 16181013, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Cathedral City", 
@@ -26162,7 +26162,7 @@ opendebate.processFetchedQuestions({
       "x": -81.5334, 
       "latest_vote": "2013-08-10T05:55:13", 
       "id": 16175500, 
-      "trending_score": 2.2142857142857144
+      "trending_score": 2.25
     }, 
     {
       "city": "Seattle", 
@@ -26333,7 +26333,7 @@ opendebate.processFetchedQuestions({
       "x": -90.1072, 
       "latest_vote": "2013-08-10T04:08:32", 
       "id": 16175276, 
-      "trending_score": 1.6333333333333333
+      "trending_score": 2.1666666666666665
     }, 
     {
       "city": "Bainbridge Island", 
@@ -26390,7 +26390,7 @@ opendebate.processFetchedQuestions({
       "x": -104.954, 
       "latest_vote": "2013-08-10T04:01:02", 
       "id": 16175230, 
-      "trending_score": 2.4722222222222223
+      "trending_score": 3.15
     }, 
     {
       "city": "Seal Rock", 
@@ -26610,15 +26610,15 @@ opendebate.processFetchedQuestions({
       "district": "NV_04", 
       "created": "2013-08-04T21:08:59", 
       "state_votes": 1, 
-      "votes": 18, 
+      "votes": 19, 
       "district_votes": 0, 
       "state": "NV", 
       "iface": "question", 
       "y": 36.256, 
       "x": -115.141, 
-      "latest_vote": "2013-08-08T21:10:42", 
+      "latest_vote": "2013-08-10T06:26:13", 
       "id": 16174911, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Gypsum", 
@@ -27473,7 +27473,7 @@ opendebate.processFetchedQuestions({
       "x": -123.884, 
       "latest_vote": "2013-08-10T06:12:38", 
       "id": 16174072, 
-      "trending_score": 4.0
+      "trending_score": 4.5
     }, 
     {
       "city": "Cape Girardeau", 
@@ -27598,15 +27598,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_02", 
       "created": "2013-08-04T14:13:09", 
       "state_votes": 3, 
-      "votes": 17, 
+      "votes": 18, 
       "district_votes": 0, 
       "state": "CO", 
       "iface": "question", 
       "y": 40.5342, 
       "x": -105.043, 
-      "latest_vote": "2013-08-09T01:44:05", 
+      "latest_vote": "2013-08-10T06:26:27", 
       "id": 16173906, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Fort Collins", 
@@ -28613,7 +28613,7 @@ opendebate.processFetchedQuestions({
       "x": -87.6207, 
       "latest_vote": "2013-08-10T06:23:22", 
       "id": 16173222, 
-      "trending_score": 3.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Tucson", 
@@ -29886,7 +29886,7 @@ opendebate.processFetchedQuestions({
       "x": -87.7386, 
       "latest_vote": "2013-08-10T05:12:35", 
       "id": 16172648, 
-      "trending_score": 1.75
+      "trending_score": 2.1666666666666665
     }, 
     {
       "city": "Great Neck", 
@@ -30057,7 +30057,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2368, 
       "latest_vote": "2013-08-10T05:56:16", 
       "id": 16172542, 
-      "trending_score": 1.8333333333333333
+      "trending_score": 2.25
     }, 
     {
       "city": "Cambridge", 
