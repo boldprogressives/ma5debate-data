@@ -6,15 +6,34 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Will you work to protect Planned Parenthood and affordable health care for all women", 
+      "submission": "An educated population is essential for a modern nation,  yet the United States has fallen to pathetic levels when compared to other nations.  Why has this happened and what needs to be done to correct the problem?", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:37:52", 
+      "created": "2013-08-10T05:38:55", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291934, 
-      "question_id": "16263952"
+      "id": 16291937, 
+      "question_id": "16246835"
+    }, 
+    {
+      "city": "Winchester", 
+      "first_name": "Jeff", 
+      "last_name": "Dearman", 
+      "user_id": 1810429, 
+      "submission": "Which will be the biggest threat to the United States in the next 10 to 20 years? Al queda, Taliban, Lone wolves like the marathon bomber, Iran, China, Russia? Oil rich nations? ", 
+      "district": "MA_05", 
+      "created": "2013-08-10T05:38:30", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.4529, 
+      "x": -71.146, 
+      "latest_vote": null, 
+      "id": 16291936, 
+      "trending_score": 0.5
     }, 
     {
       "city": "Winchester", 
@@ -349,21 +368,6 @@ opendebate.processTimeline({
       "x": -89.5645, 
       "id": 16291861, 
       "question_id": "16175637"
-    }, 
-    {
-      "city": "Phoenix", 
-      "first_name": "Lynne", 
-      "last_name": "Vestal", 
-      "user_id": 1121128, 
-      "submission": "How would you reform the process of drawing congressional districts so that it represents the interests of the people and does not favor any one party?", 
-      "district": "AZ_09", 
-      "created": "2013-08-10T05:19:48", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 33.559, 
-      "x": -112.089, 
-      "id": 16291856, 
-      "question_id": "16201951"
     }
   ]
 });
