@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "John", 
       "last_name": "Grady", 
       "user_id": 1742213, 
-      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
+      "submission": "Will you support a Whistleblowers Act that will allow for transparency  in our Government and the NSA with immunity to prosecution?", 
       "district": "IN_07", 
-      "created": "2013-08-10T03:23:54", 
+      "created": "2013-08-10T03:24:47", 
       "state": "IN", 
       "iface": "timeline_vote", 
       "y": 39.8408, 
       "x": -86.2651, 
-      "id": 16290771, 
-      "question_id": "16175637"
+      "id": 16290781, 
+      "question_id": "16203822"
     }, 
     {
       "city": "Salinas", 
       "first_name": "Donna", 
       "last_name": "Gleaves", 
       "user_id": 1635501, 
-      "submission": "Why is Social Security referred to by many elected Representatives and Senators in Washington as an \"entitlement\" when, first, we all pay or paid into it during all of our working years, and second, by law, normal tax revenue can not be used to fund It?  Is it because the government has used up all the money paid into Social Security over the years, and so that now the government has to raise more money to pay Social Security's current obligations?", 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "CA_20", 
-      "created": "2013-08-10T03:23:50", 
+      "created": "2013-08-10T03:24:43", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 36.6757, 
       "x": -121.628, 
-      "id": 16290770, 
-      "question_id": "16180456"
+      "id": 16290780, 
+      "question_id": "16172266"
     }, 
     {
       "city": "Winter Park", 
