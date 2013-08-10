@@ -2,6 +2,25 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Edmonds", 
+      "first_name": "Edward Anthony", 
+      "last_name": "Aldridge", 
+      "user_id": 1758854, 
+      "submission": "Will you pledge to initiate or support Congressional action to reverse the gerrymandering of legislative districts, and return them to their Constitutionally-mandated structure?", 
+      "district": "WA_07", 
+      "created": "2013-08-10T10:46:23", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WA", 
+      "iface": "timeline_question", 
+      "y": 47.8408, 
+      "x": -122.337, 
+      "latest_vote": null, 
+      "id": 16292474, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "South San Francisco", 
       "first_name": "Noelia", 
       "last_name": "Corzo", 
@@ -246,21 +265,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16292254, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Edmonds", 
-      "first_name": "Edward Anthony", 
-      "last_name": "Aldridge", 
-      "user_id": 1758854, 
-      "submission": "Do you support National standards for how federal elections should be run, to reduce long wait times at polls, limit unexplained removal of voter registrations and challenges to voters at the pole,  uneven eligibility of voting rights for federal elections,  making it a crime to send of false and misleading info to voters via mail, email or phone call, and how districts must be drawn to ensure that gerrymandering is minimized?", 
-      "district": "WA_07", 
-      "created": "2013-08-10T07:20:37", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 47.8408, 
-      "x": -122.337, 
-      "id": 16292251, 
-      "question_id": "16222728"
     }, 
     {
       "city": "Santa Cruz", 

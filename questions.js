@@ -2,6 +2,25 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Edmonds", 
+      "first_name": "Edward Anthony", 
+      "last_name": "Aldridge", 
+      "user_id": 1758854, 
+      "submission": "Will you pledge to initiate or support Congressional action to reverse the gerrymandering of legislative districts, and return them to their Constitutionally-mandated structure?", 
+      "district": "WA_07", 
+      "created": "2013-08-10T10:46:23", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WA", 
+      "iface": "question", 
+      "y": 47.8408, 
+      "x": -122.337, 
+      "latest_vote": null, 
+      "id": 16292474, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Henderson", 
       "first_name": "Nicholas", 
       "last_name": "Martino", 
@@ -7428,7 +7447,7 @@ opendebate.processFetchedQuestions({
       "x": -71.215, 
       "latest_vote": "2013-08-10T06:16:43", 
       "id": 16226967, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Lexington", 
@@ -8264,7 +8283,7 @@ opendebate.processFetchedQuestions({
       "x": -73.2088, 
       "latest_vote": "2013-08-10T04:47:00", 
       "id": 16224965, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Trumbull", 
@@ -11323,7 +11342,7 @@ opendebate.processFetchedQuestions({
       "x": -73.8226, 
       "latest_vote": "2013-08-10T05:46:47", 
       "id": 16215635, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Erving", 
@@ -14002,7 +14021,7 @@ opendebate.processFetchedQuestions({
       "x": -79.9232, 
       "latest_vote": "2013-08-10T05:46:30", 
       "id": 16208816, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Sarasota", 
@@ -15636,7 +15655,7 @@ opendebate.processFetchedQuestions({
       "x": -83.1201, 
       "latest_vote": "2013-08-10T07:11:30", 
       "id": 16203215, 
-      "trending_score": 1.125
+      "trending_score": 1.1666666666666667
     }, 
     {
       "city": "Lake Worth", 
@@ -17555,7 +17574,7 @@ opendebate.processFetchedQuestions({
       "x": -71.5469, 
       "latest_vote": "2013-08-10T06:35:55", 
       "id": 16193930, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "East Brunswick", 
@@ -21412,7 +21431,7 @@ opendebate.processFetchedQuestions({
       "x": -75.7463, 
       "latest_vote": "2013-08-10T07:16:35", 
       "id": 16183415, 
-      "trending_score": 1.25
+      "trending_score": 1.3333333333333333
     }, 
     {
       "city": "UNIO PIER", 
@@ -22077,7 +22096,7 @@ opendebate.processFetchedQuestions({
       "x": -85.6649, 
       "latest_vote": "2013-08-10T06:17:13", 
       "id": 16182448, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Hancock", 
@@ -22324,7 +22343,7 @@ opendebate.processFetchedQuestions({
       "x": -84.6176, 
       "latest_vote": "2013-08-10T06:16:48", 
       "id": 16181904, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Florham Park", 
@@ -27682,7 +27701,7 @@ opendebate.processFetchedQuestions({
       "x": -123.884, 
       "latest_vote": "2013-08-10T07:12:00", 
       "id": 16174072, 
-      "trending_score": 1.8333333333333333
+      "trending_score": 1.0
     }, 
     {
       "city": "Cape Girardeau", 
@@ -27777,7 +27796,7 @@ opendebate.processFetchedQuestions({
       "x": -105.043, 
       "latest_vote": "2013-08-10T08:38:50", 
       "id": 16173921, 
-      "trending_score": 3.25
+      "trending_score": 3.5
     }, 
     {
       "city": "Fort Collins", 
@@ -28670,7 +28689,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T08:38:05", 
       "id": 16173259, 
-      "trending_score": 2.1
+      "trending_score": 2.125
     }, 
     {
       "city": "Manitowoc", 
@@ -29639,7 +29658,7 @@ opendebate.processFetchedQuestions({
       "x": -111.974, 
       "latest_vote": "2013-08-10T08:36:05", 
       "id": 16172777, 
-      "trending_score": 3.0
+      "trending_score": 5.166666666666667
     }, 
     {
       "city": "Gladstone", 
