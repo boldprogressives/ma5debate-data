@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "How will you protect women's rights, especially reproductive rights, against the ongoing efforts to restrict them?", 
+      "submission": "Are you willing to fight for womens rights to determine their own healthcare?  Or do you think that \"you\" know what is best for every woman? Healthcare is not a religious  decision, it is a health decision to be made by woman of all faiths.", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:28:00", 
+      "created": "2013-08-10T04:29:01", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291185, 
-      "question_id": "16186923"
+      "id": 16291192, 
+      "question_id": "16199305"
     }, 
     {
       "city": "San Antonio", 
       "first_name": "Damon", 
       "last_name": "Mason", 
       "user_id": 1783359, 
-      "submission": "Having lived 66 years in border states and live now in a community of 85% Hispanics, please tell us what you and we can do to integrate these people, some with roots 400 years and others newer into our nation.", 
+      "submission": "can we expect any wall street arrests any time soon?", 
       "district": "TX_20", 
-      "created": "2013-08-10T04:25:54", 
+      "created": "2013-08-10T04:28:36", 
       "state": "TX", 
       "iface": "timeline_vote", 
       "y": 29.4672, 
       "x": -98.53, 
-      "id": 16291179, 
-      "question_id": "16173271"
+      "id": 16291190, 
+      "question_id": "16176007"
     }, 
     {
       "city": "Beverly", 
