@@ -2,6 +2,25 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Indian Orchard", 
+      "first_name": "Miguel", 
+      "last_name": "Soto", 
+      "user_id": 1716772, 
+      "submission": "When one of you become the rep to fill Ed Markey's seat, what are you going to do to make sure that the cities and towns are well represented with more cops, that reflets the outcome of the make up with minorities that will understand the the new migrations of the ethnic back grown that should be supervised with understanding of the culture and race such as Latinos & blacks. In other words hiring.", 
+      "district": "MA_01", 
+      "created": "2013-08-10T14:54:03", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.151, 
+      "x": -72.5065, 
+      "latest_vote": null, 
+      "id": 16293659, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Wakefield", 
       "first_name": "Fred Rich", 
       "last_name": "LaRiccia", 
@@ -8826,15 +8845,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_03", 
       "created": "2013-08-08T00:17:59", 
       "state_votes": 3, 
-      "votes": 12, 
+      "votes": 13, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.7814, 
       "x": -71.0842, 
-      "latest_vote": "2013-08-10T05:43:05", 
+      "latest_vote": "2013-08-10T14:54:36", 
       "id": 16224467, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Framingham", 
@@ -17433,15 +17452,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_14", 
       "created": "2013-08-06T17:24:32", 
       "state_votes": 10, 
-      "votes": 47, 
+      "votes": 48, 
       "district_votes": 4, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.6524, 
       "x": -122.431, 
-      "latest_vote": "2013-08-09T15:25:55", 
+      "latest_vote": "2013-08-10T14:54:15", 
       "id": 16194500, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Provincetown", 
@@ -29783,15 +29802,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
       "state_votes": 269, 
-      "votes": 1834, 
+      "votes": 1836, 
       "district_votes": 73, 
       "state": "MT", 
       "iface": "question", 
       "y": 46.6453, 
       "x": -111.974, 
-      "latest_vote": "2013-08-10T14:48:49", 
+      "latest_vote": "2013-08-10T14:55:01", 
       "id": 16172777, 
-      "trending_score": 14.5
+      "trending_score": 16.5
     }, 
     {
       "city": "Gladstone", 
@@ -30619,15 +30638,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:33:11", 
       "state_votes": 267, 
-      "votes": 1732, 
+      "votes": 1733, 
       "district_votes": 73, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-10T14:47:04", 
+      "latest_vote": "2013-08-10T14:54:18", 
       "id": 16172266, 
-      "trending_score": 14.5
+      "trending_score": 15.5
     }, 
     {
       "city": "Cambridge", 
