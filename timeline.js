@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Will you make repairing and updating the infrastructure, not just roads but bridges and the electrical grid, a priority?", 
+      "submission": "Will you support the ERA and women's rights to make their own health care decisions without government interference, even if it includes abortion?  If not, why not? ", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:33:55", 
+      "created": "2013-08-10T04:34:54", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291216, 
-      "question_id": "16191114"
+      "id": 16291347, 
+      "question_id": "16176653"
+    }, 
+    {
+      "city": "Yakima", 
+      "first_name": "Aaron", 
+      "last_name": "Poukkula", 
+      "user_id": 1234323, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "WA_04", 
+      "created": "2013-08-10T04:34:31", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 46.5952, 
+      "x": -120.537, 
+      "id": 16291239, 
+      "question_id": "16173264"
     }, 
     {
       "city": "San Antonio", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -92.9427, 
       "id": 16290644, 
       "question_id": "16172913"
-    }, 
-    {
-      "city": "New York", 
-      "first_name": "Marcus", 
-      "last_name": "Gustafsson", 
-      "user_id": 1638867, 
-      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
-      "district": "NY_10", 
-      "created": "2013-08-10T03:01:03", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.72, 
-      "x": -74.0036, 
-      "id": 16290629, 
-      "question_id": "16202059"
     }
   ]
 });
