@@ -26667,15 +26667,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_08", 
       "created": "2013-08-05T01:42:38", 
       "state_votes": 50, 
-      "votes": 361, 
+      "votes": 362, 
       "district_votes": 14, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.174, 
       "x": -87.9643, 
-      "latest_vote": "2013-08-10T14:40:15", 
+      "latest_vote": "2013-08-10T15:12:54", 
       "id": 16175729, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Tucson", 
@@ -29289,15 +29289,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:15:12", 
       "state_votes": 40, 
-      "votes": 391, 
+      "votes": 392, 
       "district_votes": 4, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-10T06:12:18", 
+      "latest_vote": "2013-08-10T15:12:06", 
       "id": 16173244, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Saint Peters", 

@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Colleen", 
       "last_name": "Sattelmaier", 
       "user_id": 1691702, 
-      "submission": "Do you support the labeling of GMOs and if so, what do you intend to do to promote people's right to know what is in their food?", 
+      "submission": "Would you support replacing \"Obamacare\" with single-payer coverage (Medicare for All)?", 
       "district": "OH_14", 
-      "created": "2013-08-10T15:11:38", 
+      "created": "2013-08-10T15:12:54", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 41.5975, 
       "x": -81.0504, 
-      "id": 16293860, 
-      "question_id": "16176001"
+      "id": 16293866, 
+      "question_id": "16175729"
     }, 
     {
       "city": "Indian Orchard", 
