@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Salinas", 
-      "first_name": "Donna", 
-      "last_name": "Gleaves", 
-      "user_id": 1635501, 
-      "submission": "Will congress ever address a jobs/infrastructure bill?  We needs jobs, jobs training and massive infrastructure repair.  I am sick of the GOP obstruction.", 
-      "district": "CA_20", 
-      "created": "2013-08-10T03:27:00", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 36.6757, 
-      "x": -121.628, 
-      "id": 16290801, 
-      "question_id": "16256688"
-    }, 
-    {
       "city": "Indianapolis", 
       "first_name": "John", 
       "last_name": "Grady", 
       "user_id": 1742213, 
-      "submission": "Given that America is engaged in perpetual war, significantly draining our economy, and in my opinion, not significantly protecting our freedom, what are your thoughts on the perpetual warfare state?", 
+      "submission": "The sequester just slashed Meals on Wheels, food stamps, Section 8 vouchers for housing for the needy.  Since we all have to \"tighten our belts\" how come Congress gets a pay RAISE this year?", 
       "district": "IN_07", 
-      "created": "2013-08-10T03:26:50", 
+      "created": "2013-08-10T03:28:00", 
       "state": "IN", 
       "iface": "timeline_vote", 
       "y": 39.8408, 
       "x": -86.2651, 
-      "id": 16290800, 
-      "question_id": "16173193"
+      "id": 16290807, 
+      "question_id": "16209412"
+    }, 
+    {
+      "city": "Salinas", 
+      "first_name": "Donna", 
+      "last_name": "Gleaves", 
+      "user_id": 1635501, 
+      "submission": "Will you protect Social Security And Medicare by not cutting it with the chained CPI for Social Security that has been mentioned.  Also, no cuts to Medicare but closing the donute hole 100% so seniors aren't left fending for themselves to pay full price for their drugs.", 
+      "district": "CA_20", 
+      "created": "2013-08-10T03:27:49", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 36.6757, 
+      "x": -121.628, 
+      "id": 16290805, 
+      "question_id": "16175570"
     }, 
     {
       "city": "Winter Park", 
