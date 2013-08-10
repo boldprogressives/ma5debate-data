@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Bend", 
+      "first_name": "Robert", 
+      "last_name": "Marvos", 
+      "user_id": 1081036, 
+      "submission": "Do you support repealing the Patriot Act and please give us the reasons for your position.", 
+      "district": "OR_02", 
+      "created": "2013-08-10T14:52:50", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 44.0221, 
+      "x": -121.297, 
+      "id": 16293648, 
+      "question_id": "16230106"
+    }, 
+    {
       "city": "Point Richmond", 
       "first_name": "Kit", 
       "last_name": "Eakle", 
       "user_id": 322518, 
-      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
       "district": "CA_11", 
-      "created": "2013-08-10T14:51:59", 
+      "created": "2013-08-10T14:52:37", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 37.9423, 
       "x": -122.355, 
-      "id": 16293637, 
-      "question_id": "16172303"
+      "id": 16293643, 
+      "question_id": "16172697"
     }, 
     {
       "city": "Wakefield", 
@@ -34,21 +49,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16293632, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Bend", 
-      "first_name": "Robert", 
-      "last_name": "Marvos", 
-      "user_id": 1081036, 
-      "submission": "When is Congress going to reinstate Glass-Steagall Act and hold CEO's of \"too big to fail\" banks accountable for their criminal behavior?", 
-      "district": "OR_02", 
-      "created": "2013-08-10T14:51:15", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 44.0221, 
-      "x": -121.297, 
-      "id": 16293633, 
-      "question_id": "16242609"
     }, 
     {
       "city": "Sarasota", 
