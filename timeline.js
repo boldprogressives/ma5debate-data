@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Margaret", 
       "last_name": "Goodwin", 
       "user_id": 1697661, 
-      "submission": "Congress persons have voted to put themselves in the driver's seat when it comes to their salaries. They vote themselves raises and we as citizens cannot over turn. What will you do to stop this practice?", 
+      "submission": "What will you do about food stamps and increasing them will you protect the program to make sure it doesn't get depleted?", 
       "district": "OR_05", 
-      "created": "2013-08-10T16:06:45", 
+      "created": "2013-08-10T16:07:10", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 44.8433, 
       "x": -123.186, 
-      "id": 16294322, 
-      "question_id": "16173244"
+      "id": 16294323, 
+      "question_id": "16259933"
     }, 
     {
       "city": "North Attleboro", 
