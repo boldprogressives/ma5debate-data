@@ -26268,15 +26268,15 @@ opendebate.processFetchedQuestions({
       "district": "TN_03", 
       "created": "2013-08-05T02:57:27", 
       "state_votes": 56, 
-      "votes": 400, 
+      "votes": 401, 
       "district_votes": 13, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.1253, 
       "x": -84.8666, 
-      "latest_vote": "2013-08-10T03:59:31", 
+      "latest_vote": "2013-08-10T15:11:38", 
       "id": 16176001, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Little Rock", 
@@ -28244,15 +28244,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_05", 
       "created": "2013-08-04T15:18:55", 
       "state_votes": 51, 
-      "votes": 446, 
+      "votes": 447, 
       "district_votes": 8, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.6898, 
       "x": -123.884, 
-      "latest_vote": "2013-08-10T07:12:00", 
+      "latest_vote": "2013-08-10T15:11:07", 
       "id": 16174072, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Cape Girardeau", 
