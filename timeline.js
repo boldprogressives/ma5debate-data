@@ -3,33 +3,33 @@ opendebate.processTimeline({
   "entries": [
     {
       "city": "El Prado", 
-      "first_name": "Sally", 
-      "last_name": "Phelps", 
-      "user_id": 1567108, 
-      "submission": "Would you favor a law excluding unlimited contributions in political campaigns from groups such as Citizens United?", 
-      "district": "NM_03", 
-      "created": "2013-08-10T00:09:01", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16288752, 
-      "question_id": "16173913"
-    }, 
-    {
-      "city": "El Prado", 
       "first_name": "Janet", 
       "last_name": "Anderson", 
       "user_id": 1725594, 
-      "submission": "What would you do to stop the unbridled takeover of American resources by Corporate America.", 
+      "submission": "What will you do to guard OUR SOCIAL SECURITY ACCOUNTS we own and prevent from them being a.  reduced or denied to us and b. our social security funds being funneled into other purposes?", 
       "district": "NM_03", 
-      "created": "2013-08-10T00:08:51", 
+      "created": "2013-08-10T00:09:55", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16288750, 
-      "question_id": "16174109"
+      "id": 16288765, 
+      "question_id": "16233077"
+    }, 
+    {
+      "city": "El Prado", 
+      "first_name": "Sally", 
+      "last_name": "Phelps", 
+      "user_id": 1567108, 
+      "submission": "Will you support Senate Bill 1311 to allow those who are terminally ill to be exempt from Social Securitys Five Month Waiting Rule?", 
+      "district": "NM_03", 
+      "created": "2013-08-10T00:09:51", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 36.4486, 
+      "x": -105.575, 
+      "id": 16288764, 
+      "question_id": "16175895"
     }, 
     {
       "city": "Commerce Township", 
