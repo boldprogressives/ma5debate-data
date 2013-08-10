@@ -6,30 +6,60 @@ opendebate.processTimeline({
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "What is your position on the validity of the Citizens United decision that corporations have the same rights as citizens?", 
+      "submission": "Will you support a constitutional amendment requiring the federal Government to provide universal health care to all U.S. citizens?", 
       "district": "NM_03", 
-      "created": "2013-08-10T00:11:06", 
+      "created": "2013-08-10T00:12:00", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16288781, 
-      "question_id": "16172265"
+      "id": 16288801, 
+      "question_id": "16232327"
     }, 
     {
       "city": "Forest", 
       "first_name": "Jean", 
       "last_name": "Gibson", 
       "user_id": 573159, 
-      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
       "district": "VA_06", 
-      "created": "2013-08-10T00:11:00", 
+      "created": "2013-08-10T00:11:59", 
       "state": "VA", 
       "iface": "timeline_vote", 
       "y": 37.3547, 
       "x": -79.2831, 
-      "id": 16288780, 
-      "question_id": "16172697"
+      "id": 16288799, 
+      "question_id": "16202059"
+    }, 
+    {
+      "city": "El Prado", 
+      "first_name": "Janet", 
+      "last_name": "Anderson", 
+      "user_id": 1725594, 
+      "submission": "Would you support an investigation of our military contractors by setting up a task force commission?", 
+      "district": "NM_03", 
+      "created": "2013-08-10T00:11:59", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 36.4486, 
+      "x": -105.575, 
+      "id": 16288800, 
+      "question_id": "16226158"
+    }, 
+    {
+      "city": "Oakland", 
+      "first_name": "Avi & Clarence", 
+      "last_name": "Klammer & Reese", 
+      "user_id": 1778044, 
+      "submission": "Would you fight to repeal Citizens United and stop the legal bribery that is destroying our democratic process and allowing corporate interests to run our country?", 
+      "district": "CA_13", 
+      "created": "2013-08-10T00:11:52", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 37.8129, 
+      "x": -122.27, 
+      "id": 16288796, 
+      "question_id": "16203866"
     }, 
     {
       "city": "Tucson", 
@@ -45,21 +75,6 @@ opendebate.processTimeline({
       "x": -110.921, 
       "id": 16288772, 
       "question_id": "16172722"
-    }, 
-    {
-      "city": "El Prado", 
-      "first_name": "Janet", 
-      "last_name": "Anderson", 
-      "user_id": 1725594, 
-      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
-      "district": "NM_03", 
-      "created": "2013-08-10T00:10:22", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16288769, 
-      "question_id": "16173335"
     }, 
     {
       "city": "Commerce Township", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -110.921, 
       "id": 16288001, 
       "question_id": "16209667"
-    }, 
-    {
-      "city": "Lynn", 
-      "first_name": "Traly", 
-      "last_name": "Rodr\u00edguez", 
-      "user_id": 1810388, 
-      "submission": "I am a 26 yr old College student who will be majoring From Political Science in 2014. I am a convicted felon and have had a great amount of difficulty getting companies to hire me because of my CORI. What will you do for me and others whom have the same issues as i have even after changing my life around. ", 
-      "district": "MA_06", 
-      "created": "2013-08-09T23:36:06", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4647, 
-      "x": -70.9739, 
-      "id": 16287952, 
-      "question_id": "16209749"
     }
   ]
 });
