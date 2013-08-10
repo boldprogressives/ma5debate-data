@@ -2621,7 +2621,7 @@ opendebate.processFetchedQuestions({
       "x": -74.0881, 
       "latest_vote": "2013-08-10T16:03:01", 
       "id": 16275298, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Belford", 
@@ -15503,7 +15503,7 @@ opendebate.processFetchedQuestions({
       "x": -80.5392, 
       "latest_vote": "2013-08-10T20:16:24", 
       "id": 16206470, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Kerrville", 
@@ -15598,7 +15598,7 @@ opendebate.processFetchedQuestions({
       "x": -80.5392, 
       "latest_vote": "2013-08-10T20:16:08", 
       "id": 16206139, 
-      "trending_score": 1.1666666666666667
+      "trending_score": 1.25
     }, 
     {
       "city": "Saratoga Springs", 
