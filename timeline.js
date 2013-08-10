@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Los Angeles", 
+      "first_name": "RANDY", 
+      "last_name": "Woodard", 
+      "user_id": 1246384, 
+      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
+      "district": "CA_37", 
+      "created": "2013-08-10T17:46:49", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 34.0009, 
+      "x": -118.288, 
+      "id": 16294784, 
+      "question_id": "16180998"
+    }, 
+    {
       "city": "Spencer", 
       "first_name": "", 
       "last_name": "", 
@@ -309,21 +324,6 @@ opendebate.processTimeline({
       "x": -97.5038, 
       "id": 16294379, 
       "question_id": "16172266"
-    }, 
-    {
-      "city": "El Prado", 
-      "first_name": "D'Lynn", 
-      "last_name": "McCarthy", 
-      "user_id": 594093, 
-      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
-      "district": "NM_03", 
-      "created": "2013-08-10T16:18:38", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16294370, 
-      "question_id": "16173259"
     }
   ]
 });

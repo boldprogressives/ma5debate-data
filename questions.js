@@ -23551,15 +23551,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_07", 
       "created": "2013-08-06T12:32:01", 
       "state_votes": 30, 
-      "votes": 781, 
+      "votes": 782, 
       "district_votes": 9, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3818, 
       "x": -71.1032, 
-      "latest_vote": "2013-08-10T17:43:51", 
+      "latest_vote": "2013-08-10T17:46:49", 
       "id": 16180998, 
-      "trending_score": 10.25
+      "trending_score": 11.25
     }, 
     {
       "city": "Irvine", 
@@ -30505,15 +30505,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:27:03", 
       "state_votes": 201, 
-      "votes": 1517, 
+      "votes": 1518, 
       "district_votes": 51, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.6267, 
       "x": -87.5959, 
-      "latest_vote": "2013-08-10T17:44:26", 
+      "latest_vote": "2013-08-10T17:46:41", 
       "id": 16172755, 
-      "trending_score": 9.75
+      "trending_score": 10.083333333333334
     }, 
     {
       "city": "Richardson", 
@@ -30581,15 +30581,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:20:39", 
       "state_votes": 175, 
-      "votes": 1479, 
+      "votes": 1480, 
       "district_votes": 45, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.7162, 
       "x": -87.5544, 
-      "latest_vote": "2013-08-10T17:11:54", 
+      "latest_vote": "2013-08-10T17:46:27", 
       "id": 16172727, 
-      "trending_score": 10.0
+      "trending_score": 10.5
     }, 
     {
       "city": "Waldport", 
