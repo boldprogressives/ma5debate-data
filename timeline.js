@@ -2,19 +2,38 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "St  Peters", 
+      "first_name": "Don", 
+      "last_name": "Webb", 
+      "user_id": 147756, 
+      "submission": "The Tax Payers cost for Incentives for outsourcing jobs overseas is 58 billion dollars a year. And this does not include the cost of lost jobs. Will you work to stop giving tax breaks to send jobs overseas.", 
+      "district": "MO_02", 
+      "created": "2013-08-10T03:13:38", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MO", 
+      "iface": "timeline_question", 
+      "y": 38.7803, 
+      "x": -90.624, 
+      "latest_vote": null, 
+      "id": 16290698, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Akron", 
       "first_name": "V J", 
       "last_name": "Armstrong", 
       "user_id": 792108, 
-      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
       "district": "OH_11", 
-      "created": "2013-08-10T03:13:02", 
+      "created": "2013-08-10T03:13:04", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 41.0995, 
       "x": -81.5145, 
-      "id": 16290695, 
-      "question_id": "16173210"
+      "id": 16290696, 
+      "question_id": "16172281"
     }, 
     {
       "city": "Bisbee", 
@@ -289,21 +308,6 @@ opendebate.processTimeline({
       "x": -81.3565, 
       "id": 16290514, 
       "question_id": "16265543"
-    }, 
-    {
-      "city": "New Port Richey", 
-      "first_name": "David", 
-      "last_name": "Marshall", 
-      "user_id": 395800, 
-      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
-      "district": "FL_12", 
-      "created": "2013-08-10T02:13:57", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 28.2385, 
-      "x": -82.7307, 
-      "id": 16290492, 
-      "question_id": "16203676"
     }
   ]
 });

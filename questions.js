@@ -2,6 +2,25 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "St  Peters", 
+      "first_name": "Don", 
+      "last_name": "Webb", 
+      "user_id": 147756, 
+      "submission": "The Tax Payers cost for Incentives for outsourcing jobs overseas is 58 billion dollars a year. And this does not include the cost of lost jobs. Will you work to stop giving tax breaks to send jobs overseas.", 
+      "district": "MO_02", 
+      "created": "2013-08-10T03:13:38", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MO", 
+      "iface": "question", 
+      "y": 38.7803, 
+      "x": -90.624, 
+      "latest_vote": null, 
+      "id": 16290698, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Corona", 
       "first_name": "Letitia", 
       "last_name": "Mason", 
@@ -11532,7 +11551,7 @@ opendebate.processFetchedQuestions({
       "x": -90.5289, 
       "latest_vote": "2013-08-10T01:58:38", 
       "id": 16213399, 
-      "trending_score": 2.25
+      "trending_score": 2.5
     }, 
     {
       "city": "Gibsonton", 
@@ -14572,7 +14591,7 @@ opendebate.processFetchedQuestions({
       "x": -89.2143, 
       "latest_vote": "2013-08-09T21:14:21", 
       "id": 16205451, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Seattle", 
@@ -18391,7 +18410,7 @@ opendebate.processFetchedQuestions({
       "x": -83.8953, 
       "latest_vote": "2013-08-10T01:07:45", 
       "id": 16189767, 
-      "trending_score": 3.5
+      "trending_score": 2.0
     }, 
     {
       "city": "New York", 
@@ -19930,7 +19949,7 @@ opendebate.processFetchedQuestions({
       "x": -108.465, 
       "latest_vote": "2013-08-10T03:03:45", 
       "id": 16185364, 
-      "trending_score": 11.5
+      "trending_score": 6.0
     }, 
     {
       "city": "Boca Raton", 
@@ -19968,7 +19987,7 @@ opendebate.processFetchedQuestions({
       "x": -72.8957, 
       "latest_vote": "2013-08-10T02:17:26", 
       "id": 16185125, 
-      "trending_score": 6.5
+      "trending_score": 3.5
     }, 
     {
       "city": "New York", 
@@ -23768,7 +23787,7 @@ opendebate.processFetchedQuestions({
       "x": -88.1102, 
       "latest_vote": "2013-08-10T00:04:29", 
       "id": 16177906, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Sierra Vista", 
@@ -25497,7 +25516,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9643, 
       "latest_vote": "2013-08-10T03:10:30", 
       "id": 16175740, 
-      "trending_score": 10.041666666666666
+      "trending_score": 7.5
     }, 
     {
       "city": "Buffalo Grove", 
@@ -25630,7 +25649,7 @@ opendebate.processFetchedQuestions({
       "x": -88.9093, 
       "latest_vote": "2013-08-10T03:08:48", 
       "id": 16175634, 
-      "trending_score": 6.166666666666667
+      "trending_score": 8.75
     }, 
     {
       "city": "Mount Vernon", 
@@ -27188,7 +27207,7 @@ opendebate.processFetchedQuestions({
       "x": -105.043, 
       "latest_vote": "2013-08-10T02:58:36", 
       "id": 16173921, 
-      "trending_score": 6.166666666666667
+      "trending_score": 3.9166666666666665
     }, 
     {
       "city": "Fort Collins", 
@@ -29563,7 +29582,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T02:49:56", 
       "id": 16172583, 
-      "trending_score": 3.65
+      "trending_score": 4.583333333333333
     }, 
     {
       "city": "ARLINGTON", 
@@ -29791,7 +29810,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1035, 
       "latest_vote": "2013-08-10T02:51:07", 
       "id": 16172286, 
-      "trending_score": 3.5
+      "trending_score": 4.75
     }, 
     {
       "city": "Cambridge", 
@@ -29821,15 +29840,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:42:20", 
       "state_votes": 185, 
-      "votes": 1225, 
+      "votes": 1226, 
       "district_votes": 57, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3699, 
       "x": -71.2368, 
-      "latest_vote": "2013-08-10T03:02:58", 
+      "latest_vote": "2013-08-10T03:13:04", 
       "id": 16172281, 
-      "trending_score": 28.1
+      "trending_score": 29.1
     }, 
     {
       "city": "Arlington", 
