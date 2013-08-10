@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "What can we do to limit gun violence in this country ?", 
+      "submission": "Will you work to reinstate the Glass-Steagall Act to insure that the Wall Street banks behave in a more responsible manner?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:36:25", 
+      "created": "2013-08-10T04:37:49", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291404, 
-      "question_id": "16265405"
+      "id": 16291405, 
+      "question_id": "16256690"
     }, 
     {
       "city": "Yakima", 
