@@ -1063,7 +1063,7 @@ opendebate.processFetchedQuestions({
       "x": -71.0097, 
       "latest_vote": "2013-08-10T03:37:14", 
       "id": 16285318, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Portland", 
@@ -3324,7 +3324,7 @@ opendebate.processFetchedQuestions({
       "x": -82.4501, 
       "latest_vote": "2013-08-10T04:37:49", 
       "id": 16256690, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Jacksonville", 
@@ -15484,7 +15484,7 @@ opendebate.processFetchedQuestions({
       "x": -74.1907, 
       "latest_vote": "2013-08-10T04:00:10", 
       "id": 16203866, 
-      "trending_score": 0.16666666666666666
+      "trending_score": 0.25
     }, 
     {
       "city": "Watertown", 
@@ -20101,7 +20101,7 @@ opendebate.processFetchedQuestions({
       "x": -82.5085, 
       "latest_vote": "2013-08-10T07:14:16", 
       "id": 16186103, 
-      "trending_score": 4.25
+      "trending_score": 2.0
     }, 
     {
       "city": "Bronx", 
@@ -20500,7 +20500,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1035, 
       "latest_vote": "2013-08-10T06:27:02", 
       "id": 16185403, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "billings", 
@@ -20633,7 +20633,7 @@ opendebate.processFetchedQuestions({
       "x": -72.8957, 
       "latest_vote": "2013-08-10T05:08:09", 
       "id": 16185056, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "acme", 
@@ -25554,7 +25554,7 @@ opendebate.processFetchedQuestions({
       "x": -104.946, 
       "latest_vote": "2013-08-10T07:15:51", 
       "id": 16176201, 
-      "trending_score": 2.25
+      "trending_score": 2.5
     }, 
     {
       "city": "Albuquerque", 
@@ -28195,7 +28195,7 @@ opendebate.processFetchedQuestions({
       "x": -93.291, 
       "latest_vote": "2013-08-10T05:18:53", 
       "id": 16173412, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Grand Coulee", 
