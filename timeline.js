@@ -2,6 +2,25 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "billings", 
+      "first_name": "george", 
+      "last_name": "jivelekas", 
+      "user_id": 1756173, 
+      "submission": "Wil you Support Raising Social Security And Keeping Medicare whole?   I.E. NO CUTS to either One.", 
+      "district": "MT_01", 
+      "created": "2013-08-10T07:29:49", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MT", 
+      "iface": "timeline_question", 
+      "y": 45.8404, 
+      "x": -108.465, 
+      "latest_vote": null, 
+      "id": 16292254, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Edmonds", 
       "first_name": "Edward Anthony", 
       "last_name": "Aldridge", 
@@ -320,25 +339,6 @@ opendebate.processTimeline({
       "x": -71.146, 
       "latest_vote": null, 
       "id": 16291921, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Winchester", 
-      "first_name": "Jeff", 
-      "last_name": "Dearman", 
-      "user_id": 1810429, 
-      "submission": "When not working, what is your favorite thing to do ?", 
-      "district": "MA_05", 
-      "created": "2013-08-10T05:33:36", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.4529, 
-      "x": -71.146, 
-      "latest_vote": null, 
-      "id": 16291919, 
       "trending_score": 0.5
     }
   ]

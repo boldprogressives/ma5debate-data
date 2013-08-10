@@ -2,6 +2,25 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "billings", 
+      "first_name": "george", 
+      "last_name": "jivelekas", 
+      "user_id": 1756173, 
+      "submission": "Wil you Support Raising Social Security And Keeping Medicare whole?   I.E. NO CUTS to either One.", 
+      "district": "MT_01", 
+      "created": "2013-08-10T07:29:49", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MT", 
+      "iface": "question", 
+      "y": 45.8404, 
+      "x": -108.465, 
+      "latest_vote": null, 
+      "id": 16292254, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Watertown", 
       "first_name": "Honorable Melvin C.", 
       "last_name": "Poindexter", 
@@ -14477,7 +14496,7 @@ opendebate.processFetchedQuestions({
       "x": -80.5392, 
       "latest_vote": "2013-08-10T05:30:35", 
       "id": 16206470, 
-      "trending_score": 4.25
+      "trending_score": 2.0
     }, 
     {
       "city": "Kerrville", 
@@ -14572,7 +14591,7 @@ opendebate.processFetchedQuestions({
       "x": -80.5392, 
       "latest_vote": "2013-08-10T05:49:12", 
       "id": 16206139, 
-      "trending_score": 2.1
+      "trending_score": 2.125
     }, 
     {
       "city": "Saratoga Springs", 
@@ -15370,7 +15389,7 @@ opendebate.processFetchedQuestions({
       "x": -72.6301, 
       "latest_vote": "2013-08-10T07:16:46", 
       "id": 16203676, 
-      "trending_score": 3.6666666666666665
+      "trending_score": 3.75
     }, 
     {
       "city": "Gloucester", 
@@ -16073,7 +16092,7 @@ opendebate.processFetchedQuestions({
       "x": -77.6687, 
       "latest_vote": "2013-08-10T05:12:43", 
       "id": 16200733, 
-      "trending_score": 5.25
+      "trending_score": 2.5
     }, 
     {
       "city": "Spring", 
@@ -25915,7 +25934,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9643, 
       "latest_vote": "2013-08-10T06:12:03", 
       "id": 16175740, 
-      "trending_score": 3.547619047619048
+      "trending_score": 2.5357142857142856
     }, 
     {
       "city": "Buffalo Grove", 
@@ -26219,7 +26238,7 @@ opendebate.processFetchedQuestions({
       "x": -122.322, 
       "latest_vote": "2013-08-10T07:17:17", 
       "id": 16175493, 
-      "trending_score": 5.0
+      "trending_score": 5.5
     }, 
     {
       "city": "Seattle", 
@@ -27473,7 +27492,7 @@ opendebate.processFetchedQuestions({
       "x": -91.7189, 
       "latest_vote": "2013-08-10T03:23:22", 
       "id": 16174109, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Baraboo", 
@@ -28271,7 +28290,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-10T05:25:06", 
       "id": 16173323, 
-      "trending_score": 4.166666666666667
+      "trending_score": 4.25
     }, 
     {
       "city": "Bensenville", 
@@ -28708,7 +28727,7 @@ opendebate.processFetchedQuestions({
       "x": -97.7518, 
       "latest_vote": "2013-08-10T07:18:16", 
       "id": 16173210, 
-      "trending_score": 5.666666666666667
+      "trending_score": 3.5833333333333335
     }, 
     {
       "city": "Cottonwood", 
@@ -29715,7 +29734,7 @@ opendebate.processFetchedQuestions({
       "x": -116.297, 
       "latest_vote": "2013-08-10T07:16:55", 
       "id": 16172697, 
-      "trending_score": 5.142857142857143
+      "trending_score": 3.2142857142857144
     }, 
     {
       "city": "Holts Summit", 
@@ -30304,7 +30323,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T07:16:23", 
       "id": 16172266, 
-      "trending_score": 4.15
+      "trending_score": 4.25
     }, 
     {
       "city": "Cambridge", 
