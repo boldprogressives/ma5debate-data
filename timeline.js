@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Belmont", 
+      "first_name": "Georges", 
+      "last_name": "Brun-Cottan", 
+      "user_id": 401599, 
+      "submission": "Would you support public financing of all political campaigns?", 
+      "district": "MA_05", 
+      "created": "2013-08-10T14:09:46", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3942, 
+      "x": -71.1802, 
+      "id": 16293283, 
+      "question_id": "16200039"
+    }, 
+    {
       "city": "Portland", 
       "first_name": "Marc", 
       "last_name": "Schluper", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -82.6437, 
       "id": 16292618, 
       "question_id": "16205884"
-    }, 
-    {
-      "city": "West Warwick", 
-      "first_name": "Richard", 
-      "last_name": "Cook", 
-      "user_id": 125300, 
-      "submission": "Will you favor the declassifying of all papers surrounding 9/11? And if not why not? Also would you back an independent investigation into 9/11 and the surrounding occurances before and after this event, and bring charges to all those responsible parties no matter who they are?", 
-      "district": "RI_02", 
-      "created": "2013-08-10T12:43:38", 
-      "state": "RI", 
-      "iface": "timeline_vote", 
-      "y": 41.692, 
-      "x": -71.5163, 
-      "id": 16292605, 
-      "question_id": "16269954"
     }
   ]
 });
