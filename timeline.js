@@ -2,6 +2,40 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Phoenix", 
+      "first_name": "Lynne", 
+      "last_name": "Vestal", 
+      "user_id": 1121128, 
+      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
+      "district": "AZ_09", 
+      "created": "2013-08-10T04:54:42", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 33.559, 
+      "x": -112.089, 
+      "id": 16291760, 
+      "question_id": "16203676"
+    }, 
+    {
+      "city": "Tucson", 
+      "first_name": "Bob", 
+      "last_name": "Wilson", 
+      "user_id": 1714318, 
+      "submission": "Private prison owners pay our reps to pass bad laws which create more criminals in order to keep the private prisons full. Do you think that a financial incentive to create more criminals is a good idea.", 
+      "district": "AZ_02", 
+      "created": "2013-08-10T04:54:27", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "AZ", 
+      "iface": "timeline_question", 
+      "y": 32.2418, 
+      "x": -110.947, 
+      "latest_vote": null, 
+      "id": 16291700, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
@@ -15,21 +49,6 @@ opendebate.processTimeline({
       "x": -86.6919, 
       "id": 16291685, 
       "question_id": "16209598"
-    }, 
-    {
-      "city": "Phoenix", 
-      "first_name": "Lynne", 
-      "last_name": "Vestal", 
-      "user_id": 1121128, 
-      "submission": "What can and will you do to restore voting rights to persons around the country who have been disenfranchised by Republicans?", 
-      "district": "AZ_09", 
-      "created": "2013-08-10T04:50:38", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 33.559, 
-      "x": -112.089, 
-      "id": 16291468, 
-      "question_id": "16173320"
     }, 
     {
       "city": "Cleveland", 
@@ -293,21 +312,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16290698, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Bisbee", 
-      "first_name": "Bridget", 
-      "last_name": "Burke", 
-      "user_id": 1592935, 
-      "submission": "Would you support the pardoning of all victimless crime marijuana (Cannabis) offenders? Depopulating our For Profit Prisons?", 
-      "district": "AZ_02", 
-      "created": "2013-08-10T03:12:09", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 31.4588, 
-      "x": -109.946, 
-      "id": 16290690, 
-      "question_id": "16208291"
     }
   ]
 });
