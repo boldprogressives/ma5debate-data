@@ -4483,7 +4483,7 @@ opendebate.processFetchedQuestions({
       "x": -84.2978, 
       "latest_vote": "2013-08-10T05:38:55", 
       "id": 16246835, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Darby", 
@@ -4521,7 +4521,7 @@ opendebate.processFetchedQuestions({
       "x": -117.908, 
       "latest_vote": "2013-08-10T05:39:04", 
       "id": 16246657, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Loudon", 
@@ -4540,7 +4540,7 @@ opendebate.processFetchedQuestions({
       "x": -84.2978, 
       "latest_vote": "2013-08-10T05:39:09", 
       "id": 16246613, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Swannanoa", 
@@ -14582,16 +14582,16 @@ opendebate.processFetchedQuestions({
       "submission": "What, specifically, would you do to protect the right to vote for all? Please address specifically a new Voting Rights Act and the concept of a paper ballot that can be verified by the voter.", 
       "district": "VA_06", 
       "created": "2013-08-06T21:59:48", 
-      "state_votes": 13, 
-      "votes": 128, 
+      "state_votes": 14, 
+      "votes": 129, 
       "district_votes": 3, 
       "state": "VA", 
       "iface": "question", 
       "y": 37.2549, 
       "x": -79.9806, 
-      "latest_vote": "2013-08-10T11:09:14", 
+      "latest_vote": "2013-08-10T11:38:38", 
       "id": 16207107, 
-      "trending_score": 2.25
+      "trending_score": 3.25
     }, 
     {
       "city": "Asheville", 
@@ -15893,16 +15893,16 @@ opendebate.processFetchedQuestions({
       "submission": "Can you explain why the people responsible for the failure of Wall Street and the banking industry have not been held accountable for the destruction of our economy.", 
       "district": "MN_05", 
       "created": "2013-08-06T19:35:33", 
-      "state_votes": 20, 
-      "votes": 154, 
+      "state_votes": 21, 
+      "votes": 155, 
       "district_votes": 5, 
       "state": "MN", 
       "iface": "question", 
       "y": 44.8764, 
       "x": -93.2868, 
-      "latest_vote": "2013-08-10T11:08:29", 
+      "latest_vote": "2013-08-10T11:38:47", 
       "id": 16201979, 
-      "trending_score": 2.1666666666666665
+      "trending_score": 3.1666666666666665
     }, 
     {
       "city": "Ashland", 
@@ -27274,16 +27274,16 @@ opendebate.processFetchedQuestions({
       "submission": "Would you support Medicare paying for dental care?", 
       "district": "WA_09", 
       "created": "2013-08-04T19:58:10", 
-      "state_votes": 28, 
-      "votes": 233, 
+      "state_votes": 29, 
+      "votes": 234, 
       "district_votes": 6, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.5869, 
       "x": -122.298, 
-      "latest_vote": "2013-08-10T11:09:02", 
+      "latest_vote": "2013-08-10T11:38:27", 
       "id": 16174466, 
-      "trending_score": 3.1666666666666665
+      "trending_score": 4.166666666666667
     }, 
     {
       "city": "Albany", 
