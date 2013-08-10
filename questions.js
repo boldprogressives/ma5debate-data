@@ -16149,7 +16149,7 @@ opendebate.processFetchedQuestions({
       "x": -82.7314, 
       "latest_vote": "2013-08-10T07:12:40", 
       "id": 16201559, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "North Andover", 
@@ -16738,7 +16738,7 @@ opendebate.processFetchedQuestions({
       "x": -75.3857, 
       "latest_vote": "2013-08-10T07:13:07", 
       "id": 16199756, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Elizabethtown", 
@@ -26295,7 +26295,7 @@ opendebate.processFetchedQuestions({
       "x": -110.947, 
       "latest_vote": "2013-08-10T10:56:48", 
       "id": 16175691, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Mount Vernon", 
@@ -28822,7 +28822,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T12:38:06", 
       "id": 16173264, 
-      "trending_score": 2.0
+      "trending_score": 2.5
     }, 
     {
       "city": "Prosper", 
@@ -29820,16 +29820,16 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do to overturn Citizen's United?", 
       "district": "OR_05", 
       "created": "2013-08-03T22:30:45", 
-      "state_votes": 111, 
-      "votes": 802, 
-      "district_votes": 30, 
+      "state_votes": 112, 
+      "votes": 803, 
+      "district_votes": 31, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.3898, 
       "x": -122.589, 
-      "latest_vote": "2013-08-10T11:42:45", 
+      "latest_vote": "2013-08-10T13:12:30", 
       "id": 16172765, 
-      "trending_score": 1.0
+      "trending_score": 1.5
     }, 
     {
       "city": "Egg Harbor", 
@@ -30760,7 +30760,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1035, 
       "latest_vote": "2013-08-10T11:06:46", 
       "id": 16172207, 
-      "trending_score": 1.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Arlington", 

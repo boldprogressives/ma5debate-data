@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "", 
       "last_name": "", 
       "user_id": 1810448, 
-      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "submission": "What will you do to overturn Citizen's United?", 
       "district": "MA_05", 
-      "created": "2013-08-10T13:11:52", 
+      "created": "2013-08-10T13:12:30", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.398, 
       "x": -71.2203, 
-      "id": 16292640, 
-      "question_id": "16173259"
+      "id": 16292656, 
+      "question_id": "16172765"
     }, 
     {
       "city": "Clermont", 
