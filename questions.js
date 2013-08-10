@@ -2944,7 +2944,7 @@ opendebate.processFetchedQuestions({
       "x": -88.3469, 
       "latest_vote": "2013-08-10T04:36:11", 
       "id": 16260391, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Columbus", 
@@ -16282,7 +16282,7 @@ opendebate.processFetchedQuestions({
       "x": -80.1836, 
       "latest_vote": "2013-08-10T06:06:07", 
       "id": 16200703, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Chesapeake", 
@@ -16548,7 +16548,7 @@ opendebate.processFetchedQuestions({
       "x": -122.634, 
       "latest_vote": "2013-08-10T06:21:59", 
       "id": 16199816, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Brookhaven", 
