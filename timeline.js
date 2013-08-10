@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "El Prado", 
+      "first_name": "Sally", 
+      "last_name": "Phelps", 
+      "user_id": 1567108, 
+      "submission": "We want reasonable and accountable banking - will you support the requirement for FIDUCIARY responsibility to customers  among all banks?", 
+      "district": "NM_03", 
+      "created": "2013-08-10T00:23:02", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 36.4486, 
+      "x": -105.575, 
+      "id": 16288903, 
+      "question_id": "16248929"
+    }, 
+    {
+      "city": "Santa Ana", 
+      "first_name": "Jimmy", 
+      "last_name": "McGraw", 
+      "user_id": 1051379, 
+      "submission": "What would you do to eliminate congressional pensions so congress has a stake in social security retirement benifits.", 
+      "district": "CA_46", 
+      "created": "2013-08-10T00:22:14", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 33.7691, 
+      "x": -117.886, 
+      "id": 16288901, 
+      "question_id": "16176855"
+    }, 
+    {
       "city": "New York", 
       "first_name": "Katie", 
       "last_name": "Kingston", 
@@ -15,36 +45,6 @@ opendebate.processTimeline({
       "x": -73.9803, 
       "id": 16288898, 
       "question_id": "16269540"
-    }, 
-    {
-      "city": "Santa Ana", 
-      "first_name": "Jimmy", 
-      "last_name": "McGraw", 
-      "user_id": 1051379, 
-      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
-      "district": "CA_46", 
-      "created": "2013-08-10T00:21:49", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 33.7691, 
-      "x": -117.886, 
-      "id": 16288897, 
-      "question_id": "16175230"
-    }, 
-    {
-      "city": "El Prado", 
-      "first_name": "Sally", 
-      "last_name": "Phelps", 
-      "user_id": 1567108, 
-      "submission": "Will you sponsor an amendment to allow medicare to negotiate to lower the cost of prescription drugs? This would reduce costs, lower the deficit; therefore, eliminate the need to cut benefits ", 
-      "district": "NM_03", 
-      "created": "2013-08-10T00:21:42", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16288896, 
-      "question_id": "16256803"
     }, 
     {
       "city": "Norfolk", 
