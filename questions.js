@@ -15636,7 +15636,7 @@ opendebate.processFetchedQuestions({
       "x": -72.6301, 
       "latest_vote": "2013-08-10T06:43:41", 
       "id": 16203477, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Elmira", 
@@ -15864,7 +15864,7 @@ opendebate.processFetchedQuestions({
       "x": -93.2868, 
       "latest_vote": "2013-08-10T11:08:29", 
       "id": 16201979, 
-      "trending_score": 2.1666666666666665
+      "trending_score": 1.5
     }, 
     {
       "city": "Ashland", 
@@ -16928,7 +16928,7 @@ opendebate.processFetchedQuestions({
       "x": -78.9237, 
       "latest_vote": "2013-08-10T07:17:03", 
       "id": 16197620, 
-      "trending_score": 1.4166666666666665
+      "trending_score": 1.3333333333333333
     }, 
     {
       "city": "Brevard", 
@@ -20595,7 +20595,7 @@ opendebate.processFetchedQuestions({
       "x": -80.1632, 
       "latest_vote": "2013-08-10T06:13:36", 
       "id": 16185194, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Patchogue", 
@@ -21659,7 +21659,7 @@ opendebate.processFetchedQuestions({
       "x": -82.0171, 
       "latest_vote": "2013-08-10T06:14:05", 
       "id": 16183194, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Syracuse", 
@@ -24528,7 +24528,7 @@ opendebate.processFetchedQuestions({
       "x": -123.188, 
       "latest_vote": "2013-08-10T05:13:48", 
       "id": 16177784, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Littleton", 
@@ -24642,7 +24642,7 @@ opendebate.processFetchedQuestions({
       "x": -105.967, 
       "latest_vote": "2013-08-10T06:36:28", 
       "id": 16177435, 
-      "trending_score": 0.5
+      "trending_score": 1.0
     }, 
     {
       "city": "West Plains", 
