@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Belmont", 
+      "first_name": "Dianna", 
+      "last_name": "Arens", 
+      "user_id": 1726338, 
+      "submission": "What would you be willing to do to insure that every working American receives a living wage?", 
+      "district": "WV_01", 
+      "created": "2013-08-10T02:38:30", 
+      "state": "WV", 
+      "iface": "timeline_vote", 
+      "y": 39.3791, 
+      "x": -81.2646, 
+      "id": 16290537, 
+      "question_id": "16199482"
+    }, 
+    {
       "city": "Kapaa", 
       "first_name": "Susan", 
       "last_name": "Oakley", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "x": -76.5017, 
       "id": 16289806, 
       "question_id": "16173323"
-    }, 
-    {
-      "city": "", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1810410, 
-      "submission": "I am a 26 yr old College student who will be majoring From Political Science in 2014. I am a convicted felon and have had a great amount of difficulty getting companies to hire me because of my CORI. What will you do for me and others whom have the same issues as i have even after changing my life around. ", 
-      "district": "", 
-      "created": "2013-08-10T01:43:44", 
-      "state": "", 
-      "iface": "timeline_vote", 
-      "y": 0.0, 
-      "x": 0.0, 
-      "id": 16289784, 
-      "question_id": "16209749"
     }
   ]
 });
