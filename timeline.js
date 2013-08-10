@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "what will you do to bring jobs back to America and stop out sourcing everything?", 
+      "submission": "Why do the most wealthy people & companies pay little or no taxes? As the US middle class has been wiped out since those tax policies were enacted & resulting in our failing national infrastructure ..", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:15:52", 
+      "created": "2013-08-10T05:16:43", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291833, 
-      "question_id": "16175641"
+      "id": 16291836, 
+      "question_id": "16174554"
     }, 
     {
       "city": "Phoenix", 
@@ -70,15 +70,15 @@ opendebate.processTimeline({
       "district": "AZ_02", 
       "created": "2013-08-10T04:54:27", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "AZ", 
       "iface": "timeline_question", 
       "y": 32.2418, 
       "x": -110.947, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-10T05:16:27", 
       "id": 16291700, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Cleveland", 
