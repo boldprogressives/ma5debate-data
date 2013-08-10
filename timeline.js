@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "The most important issue to address right now is the climate changes due to CO2 emissions. Do you or will  you accept funding from the Koch brothers or anyone with ties to the fossil fuel industry?", 
+      "submission": "When is Congress going to reinstate Glass-Steagall Act and hold CEO's of \"too big to fail\" banks accountable for their criminal behavior?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:32:02", 
+      "created": "2013-08-10T04:32:57", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291209, 
-      "question_id": "16178283"
+      "id": 16291212, 
+      "question_id": "16242609"
     }, 
     {
       "city": "San Antonio", 
