@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Anacortes", 
+      "first_name": "Joe", 
+      "last_name": "Verdoes", 
+      "user_id": 503455, 
+      "submission": "Will you work to support Elizabeth Warren's efforts to revise Glass-Steagall", 
+      "district": "WA_02", 
+      "created": "2013-08-10T03:34:53", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 48.4989, 
+      "x": -122.607, 
+      "id": 16290864, 
+      "question_id": "16265543"
+    }, 
+    {
       "city": "Indianapolis", 
       "first_name": "John", 
       "last_name": "Grady", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -117.092, 
       "id": 16290552, 
       "question_id": "16173264"
-    }, 
-    {
-      "city": "Belmont", 
-      "first_name": "Dianna", 
-      "last_name": "Arens", 
-      "user_id": 1726338, 
-      "submission": "What would you be willing to do to insure that every working American receives a living wage?", 
-      "district": "WV_01", 
-      "created": "2013-08-10T02:38:30", 
-      "state": "WV", 
-      "iface": "timeline_vote", 
-      "y": 39.3791, 
-      "x": -81.2646, 
-      "id": 16290537, 
-      "question_id": "16199482"
     }
   ]
 });
