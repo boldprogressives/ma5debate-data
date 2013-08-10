@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "El Prado", 
+      "first_name": "Sally", 
+      "last_name": "Phelps", 
+      "user_id": 1567108, 
+      "submission": "When will you move to stop voter suppression.", 
+      "district": "NM_03", 
+      "created": "2013-08-10T00:56:37", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 36.4486, 
+      "x": -105.575, 
+      "id": 16289312, 
+      "question_id": "16185717"
+    }, 
+    {
       "city": "Watertown", 
       "first_name": "", 
       "last_name": "", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -71.1804, 
       "id": 16289310, 
       "question_id": "16199834"
-    }, 
-    {
-      "city": "El Prado", 
-      "first_name": "Sally", 
-      "last_name": "Phelps", 
-      "user_id": 1567108, 
-      "submission": "Will you actively support and promote the proposal for a Constitution Amendment protecting the right to vote?  (see freetovote.org)", 
-      "district": "NM_03", 
-      "created": "2013-08-10T00:55:44", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16289308, 
-      "question_id": "16185403"
     }, 
     {
       "city": "San Angelo", 
