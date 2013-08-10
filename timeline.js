@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Birmingham", 
-      "first_name": "Dot", 
-      "last_name": "Canup", 
-      "user_id": 1565077, 
-      "submission": "What will you do personally to stop the outflow of jobs for middle and low income Americans?", 
-      "district": "AL_07", 
-      "created": "2013-08-10T04:44:58", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 33.6391, 
-      "x": -86.6919, 
-      "id": 16291430, 
-      "question_id": "16226899"
-    }, 
-    {
       "city": "Phoenix", 
       "first_name": "Lynne", 
       "last_name": "Vestal", 
       "user_id": 1121128, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
       "district": "AZ_09", 
-      "created": "2013-08-10T04:43:32", 
+      "created": "2013-08-10T04:45:48", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 33.559, 
       "x": -112.089, 
-      "id": 16291428, 
-      "question_id": "16172533"
+      "id": 16291436, 
+      "question_id": "16172303"
+    }, 
+    {
+      "city": "Birmingham", 
+      "first_name": "Dot", 
+      "last_name": "Canup", 
+      "user_id": 1565077, 
+      "submission": "Will you aggressively prosecute those at Goldman Sachs and other banks/financial institutions for their continued illegal activities which have resulted in the serious and continuing economic disaster in this country?", 
+      "district": "AL_07", 
+      "created": "2013-08-10T04:45:47", 
+      "state": "AL", 
+      "iface": "timeline_vote", 
+      "y": 33.6391, 
+      "x": -86.6919, 
+      "id": 16291435, 
+      "question_id": "16225925"
+    }, 
+    {
+      "city": "Cleveland", 
+      "first_name": "Ernest", 
+      "last_name": "Montoro", 
+      "user_id": 1686159, 
+      "submission": "What are you doing to ensure that all residents have access to a living wage and to help create jobs for those still looking for work, five years after the Great Recession and the weak recovery?", 
+      "district": "OH_09", 
+      "created": "2013-08-10T04:45:45", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 41.3872, 
+      "x": -81.7022, 
+      "id": 16291434, 
+      "question_id": "16201159"
     }, 
     {
       "city": "Arlington", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -109.946, 
       "id": 16290690, 
       "question_id": "16208291"
-    }, 
-    {
-      "city": "Mount Vernon", 
-      "first_name": "Laura", 
-      "last_name": "Mays", 
-      "user_id": 1740783, 
-      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
-      "district": "IL_12", 
-      "created": "2013-08-10T03:11:05", 
-      "state": "IL", 
-      "iface": "timeline_vote", 
-      "y": 38.3176, 
-      "x": -88.9093, 
-      "id": 16290685, 
-      "question_id": "16180998"
     }
   ]
 });
