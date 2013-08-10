@@ -2583,7 +2583,7 @@ opendebate.processFetchedQuestions({
       "x": -117.717, 
       "latest_vote": "2013-08-10T04:09:49", 
       "id": 16265543, 
-      "trending_score": 3.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Claremont", 
@@ -16111,7 +16111,7 @@ opendebate.processFetchedQuestions({
       "x": -72.7291, 
       "latest_vote": "2013-08-10T07:14:33", 
       "id": 16201159, 
-      "trending_score": 5.5
+      "trending_score": 3.0
     }, 
     {
       "city": "Saint Cloud", 
@@ -18334,7 +18334,7 @@ opendebate.processFetchedQuestions({
       "x": -81.4184, 
       "latest_vote": "2013-08-10T06:22:15", 
       "id": 16191114, 
-      "trending_score": 5.5
+      "trending_score": 3.0
     }, 
     {
       "city": "Somerset", 
@@ -21355,7 +21355,7 @@ opendebate.processFetchedQuestions({
       "x": -75.7463, 
       "latest_vote": "2013-08-10T07:16:35", 
       "id": 16183415, 
-      "trending_score": 8.25
+      "trending_score": 4.0
     }, 
     {
       "city": "UNIO PIER", 
@@ -27416,7 +27416,7 @@ opendebate.processFetchedQuestions({
       "x": -112.112, 
       "latest_vote": "2013-08-10T06:23:14", 
       "id": 16174323, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Phoenix", 
@@ -27644,7 +27644,7 @@ opendebate.processFetchedQuestions({
       "x": -89.5406, 
       "latest_vote": "2013-08-10T07:18:40", 
       "id": 16174044, 
-      "trending_score": 4.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Forest Grove", 
@@ -28765,7 +28765,7 @@ opendebate.processFetchedQuestions({
       "x": -87.6207, 
       "latest_vote": "2013-08-10T06:23:22", 
       "id": 16173222, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Tucson", 
@@ -29639,7 +29639,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5959, 
       "latest_vote": "2013-08-10T06:25:08", 
       "id": 16172755, 
-      "trending_score": 2.880952380952381
+      "trending_score": 4.125
     }, 
     {
       "city": "Richardson", 
@@ -29867,7 +29867,7 @@ opendebate.processFetchedQuestions({
       "x": -111.295, 
       "latest_vote": "2013-08-10T03:56:09", 
       "id": 16172694, 
-      "trending_score": 3.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Eldridge", 
@@ -29905,7 +29905,7 @@ opendebate.processFetchedQuestions({
       "x": -122.594, 
       "latest_vote": "2013-08-10T06:11:18", 
       "id": 16172690, 
-      "trending_score": 2.041666666666667
+      "trending_score": 2.7
     }, 
     {
       "city": "Gig Harbor", 
