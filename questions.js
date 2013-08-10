@@ -2,6 +2,25 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Henderson", 
+      "first_name": "Nicholas", 
+      "last_name": "Martino", 
+      "user_id": 1810196, 
+      "submission": "I'm hung up on the lack of math skills in this country.  here's an easy one.  If a patriot who had rightly concluded that our government has been hijacked by Nazi terrorists who killed 3000 of their own in cold blood on 9/11 and entered the Capitol with an AK-47, how many 30-round clips would he need to execute the entire lot of traitors pretending to be decent Americans?", 
+      "district": "NV_03", 
+      "created": "2013-08-10T12:32:08", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NV", 
+      "iface": "question", 
+      "y": 36.0401, 
+      "x": -115.077, 
+      "latest_vote": null, 
+      "id": 16292579, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "East Weymouth", 
       "first_name": "Carlotta", 
       "last_name": "Hayes", 
@@ -4274,7 +4293,7 @@ opendebate.processFetchedQuestions({
       "x": -77.1197, 
       "latest_vote": "2013-08-10T06:32:41", 
       "id": 16249133, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Victorville", 
@@ -9917,7 +9936,7 @@ opendebate.processFetchedQuestions({
       "x": -69.9805, 
       "latest_vote": "2013-08-10T06:33:01", 
       "id": 16220936, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Williamstown", 
@@ -15769,7 +15788,7 @@ opendebate.processFetchedQuestions({
       "x": -124.06, 
       "latest_vote": "2013-08-10T06:33:21", 
       "id": 16203315, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Troy", 
@@ -15807,7 +15826,7 @@ opendebate.processFetchedQuestions({
       "x": -80.1777, 
       "latest_vote": "2013-08-10T06:33:15", 
       "id": 16203194, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Forsyth", 
@@ -29783,15 +29802,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T22:33:11", 
       "state_votes": 269, 
-      "votes": 1822, 
+      "votes": 1823, 
       "district_votes": 73, 
       "state": "MT", 
       "iface": "question", 
       "y": 46.6453, 
       "x": -111.974, 
-      "latest_vote": "2013-08-10T11:07:40", 
+      "latest_vote": "2013-08-10T12:32:03", 
       "id": 16172777, 
-      "trending_score": 4.166666666666667
+      "trending_score": 5.166666666666667
     }, 
     {
       "city": "Gladstone", 
@@ -29896,16 +29915,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
       "district": "WA_06", 
       "created": "2013-08-03T22:21:20", 
-      "state_votes": 122, 
-      "votes": 1060, 
+      "state_votes": 123, 
+      "votes": 1061, 
       "district_votes": 25, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.5746, 
       "x": -122.811, 
-      "latest_vote": "2013-08-10T08:38:28", 
+      "latest_vote": "2013-08-10T12:32:30", 
       "id": 16172731, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Chicago", 
