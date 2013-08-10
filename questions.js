@@ -4844,7 +4844,7 @@ opendebate.processFetchedQuestions({
       "x": -120.941, 
       "latest_vote": "2013-08-10T06:42:46", 
       "id": 16244435, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Charlotte", 
@@ -8796,7 +8796,7 @@ opendebate.processFetchedQuestions({
       "x": -71.0842, 
       "latest_vote": "2013-08-10T05:43:05", 
       "id": 16224467, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Framingham", 
@@ -13869,7 +13869,7 @@ opendebate.processFetchedQuestions({
       "x": -117.955, 
       "latest_vote": "2013-08-10T07:10:58", 
       "id": 16210264, 
-      "trending_score": 0.25
+      "trending_score": 0.3333333333333333
     }, 
     {
       "city": "Hemet", 
@@ -15750,7 +15750,7 @@ opendebate.processFetchedQuestions({
       "x": -83.1201, 
       "latest_vote": "2013-08-10T07:11:30", 
       "id": 16203215, 
-      "trending_score": 0.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Lake Worth", 
@@ -16092,7 +16092,7 @@ opendebate.processFetchedQuestions({
       "x": -82.7314, 
       "latest_vote": "2013-08-10T07:12:40", 
       "id": 16201559, 
-      "trending_score": 1.25
+      "trending_score": 0.5
     }, 
     {
       "city": "North Andover", 
@@ -16681,7 +16681,7 @@ opendebate.processFetchedQuestions({
       "x": -75.3857, 
       "latest_vote": "2013-08-10T07:13:07", 
       "id": 16199756, 
-      "trending_score": 1.1666666666666667
+      "trending_score": 0.3333333333333333
     }, 
     {
       "city": "Elizabethtown", 
@@ -26238,7 +26238,7 @@ opendebate.processFetchedQuestions({
       "x": -110.947, 
       "latest_vote": "2013-08-10T10:56:48", 
       "id": 16175691, 
-      "trending_score": 2.1666666666666665
+      "trending_score": 0.8333333333333333
     }, 
     {
       "city": "Mount Vernon", 
@@ -27302,7 +27302,7 @@ opendebate.processFetchedQuestions({
       "x": -122.298, 
       "latest_vote": "2013-08-10T11:38:27", 
       "id": 16174466, 
-      "trending_score": 4.166666666666667
+      "trending_score": 1.8333333333333333
     }, 
     {
       "city": "Albany", 
@@ -28765,7 +28765,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T11:08:42", 
       "id": 16173264, 
-      "trending_score": 4.166666666666667
+      "trending_score": 2.0
     }, 
     {
       "city": "Prosper", 
@@ -29639,7 +29639,7 @@ opendebate.processFetchedQuestions({
       "x": -91.087, 
       "latest_vote": "2013-08-10T07:12:20", 
       "id": 16172866, 
-      "trending_score": 1.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Austin", 
@@ -29753,7 +29753,7 @@ opendebate.processFetchedQuestions({
       "x": -111.974, 
       "latest_vote": "2013-08-10T11:07:40", 
       "id": 16172777, 
-      "trending_score": 2.75
+      "trending_score": 2.8333333333333335
     }, 
     {
       "city": "Gladstone", 
@@ -29763,16 +29763,16 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do to overturn Citizen's United?", 
       "district": "OR_05", 
       "created": "2013-08-03T22:30:45", 
-      "state_votes": 110, 
-      "votes": 801, 
+      "state_votes": 111, 
+      "votes": 802, 
       "district_votes": 30, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.3898, 
       "x": -122.589, 
-      "latest_vote": "2013-08-10T08:39:29", 
+      "latest_vote": "2013-08-10T11:42:45", 
       "id": 16172765, 
-      "trending_score": 2.125
+      "trending_score": 3.125
     }, 
     {
       "city": "Egg Harbor", 
@@ -29810,7 +29810,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5959, 
       "latest_vote": "2013-08-10T11:08:49", 
       "id": 16172755, 
-      "trending_score": 4.125
+      "trending_score": 4.166666666666667
     }, 
     {
       "city": "Richardson", 
@@ -30076,7 +30076,7 @@ opendebate.processFetchedQuestions({
       "x": -122.594, 
       "latest_vote": "2013-08-10T08:39:18", 
       "id": 16172690, 
-      "trending_score": 1.1666666666666667
+      "trending_score": 1.25
     }, 
     {
       "city": "Gig Harbor", 
@@ -30456,7 +30456,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1582, 
       "latest_vote": "2013-08-10T11:08:09", 
       "id": 16172303, 
-      "trending_score": 3.1666666666666665
+      "trending_score": 3.25
     }, 
     {
       "city": "Arlington", 
@@ -30703,7 +30703,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1035, 
       "latest_vote": "2013-08-10T11:06:46", 
       "id": 16172207, 
-      "trending_score": 4.25
+      "trending_score": 2.0
     }, 
     {
       "city": "Arlington", 
