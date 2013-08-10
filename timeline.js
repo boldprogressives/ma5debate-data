@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Margaret", 
       "last_name": "Goodwin", 
       "user_id": 1697661, 
-      "submission": "Will you vote to end tax loopholes for the rich, big business subsides, overseas corporate tax loopholes, wasteful wars, foreign country subsides, quality health care for all, good safe food for all, clean air, clean energy, clean safe drinking water, useful education and job opportunities for all hard working citizens that can achieve these levels and deserve it, gun control, to end wall street fraud and corruption.", 
+      "submission": "Would you vote to relieve the onerous burden that Congress imposed on the Post Office?", 
       "district": "OR_05", 
-      "created": "2013-08-10T15:57:39", 
+      "created": "2013-08-10T15:58:38", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 44.8433, 
       "x": -123.186, 
-      "id": 16294266, 
-      "question_id": "16203215"
+      "id": 16294269, 
+      "question_id": "16185056"
     }, 
     {
       "city": "Jacksonville", 

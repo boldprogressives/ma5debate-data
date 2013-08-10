@@ -21309,15 +21309,15 @@ opendebate.processFetchedQuestions({
       "district": "NY_01", 
       "created": "2013-08-06T14:59:29", 
       "state_votes": 3, 
-      "votes": 30, 
+      "votes": 31, 
       "district_votes": 0, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.775, 
       "x": -72.8957, 
-      "latest_vote": "2013-08-10T15:04:51", 
+      "latest_vote": "2013-08-10T15:58:38", 
       "id": 16185056, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "acme", 
