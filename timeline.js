@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Bonnie", 
       "last_name": "Breckenridge", 
       "user_id": 107950, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
       "district": "CA_51", 
-      "created": "2013-08-10T02:44:57", 
+      "created": "2013-08-10T02:46:00", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 32.7403, 
       "x": -117.092, 
-      "id": 16290542, 
-      "question_id": "16172913"
+      "id": 16290547, 
+      "question_id": "16172727"
     }, 
     {
       "city": "Belmont", 
