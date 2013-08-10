@@ -2,6 +2,40 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Boston", 
+      "first_name": "Aimee", 
+      "last_name": "Coolidge", 
+      "user_id": 1657685, 
+      "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
+      "district": "MA_07", 
+      "created": "2013-08-10T14:06:52", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.337, 
+      "x": -71.0638, 
+      "id": 16293269, 
+      "question_id": "16175230"
+    }, 
+    {
+      "city": "Muskego", 
+      "first_name": "Cindy", 
+      "last_name": "Bennett", 
+      "user_id": 1056117, 
+      "submission": "Do you believe in the concept of \"too big too fail\" and if so shouldn't that be addressed so that no company can hold the US hostage?", 
+      "district": "WI_01", 
+      "created": "2013-08-10T14:06:50", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WI", 
+      "iface": "timeline_question", 
+      "y": 42.892, 
+      "x": -88.125, 
+      "latest_vote": null, 
+      "id": 16293268, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Seattle", 
       "first_name": "Carmen", 
       "last_name": "c", 
@@ -19,21 +53,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16293261, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Boston", 
-      "first_name": "Aimee", 
-      "last_name": "Coolidge", 
-      "user_id": 1657685, 
-      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
-      "district": "MA_07", 
-      "created": "2013-08-10T14:05:23", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.337, 
-      "x": -71.0638, 
-      "id": 16293260, 
-      "question_id": "16172697"
     }, 
     {
       "city": "Shelbyville", 
@@ -289,25 +308,6 @@ opendebate.processTimeline({
       "x": -71.3601, 
       "id": 16292580, 
       "question_id": "16172731"
-    }, 
-    {
-      "city": "Henderson", 
-      "first_name": "Nicholas", 
-      "last_name": "Martino", 
-      "user_id": 1810196, 
-      "submission": "I'm hung up on the lack of math skills in this country.  here's an easy one.  If a patriot who had rightly concluded that our government has been hijacked by Nazi terrorists who killed 3000 of their own in cold blood on 9/11 and entered the Capitol with an AK-47, how many 30-round clips would he need to execute the entire lot of traitors pretending to be decent Americans?", 
-      "district": "NV_03", 
-      "created": "2013-08-10T12:32:08", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "NV", 
-      "iface": "timeline_question", 
-      "y": 36.0401, 
-      "x": -115.077, 
-      "latest_vote": null, 
-      "id": 16292579, 
-      "trending_score": 0.5
     }
   ]
 });

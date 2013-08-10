@@ -2,6 +2,25 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Muskego", 
+      "first_name": "Cindy", 
+      "last_name": "Bennett", 
+      "user_id": 1056117, 
+      "submission": "Do you believe in the concept of \"too big too fail\" and if so shouldn't that be addressed so that no company can hold the US hostage?", 
+      "district": "WI_01", 
+      "created": "2013-08-10T14:06:50", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WI", 
+      "iface": "question", 
+      "y": 42.892, 
+      "x": -88.125, 
+      "latest_vote": null, 
+      "id": 16293268, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Seattle", 
       "first_name": "Carmen", 
       "last_name": "c", 
@@ -15969,16 +15988,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
       "district": "CA_12", 
       "created": "2013-08-06T19:37:02", 
-      "state_votes": 73, 
-      "votes": 651, 
+      "state_votes": 74, 
+      "votes": 652, 
       "district_votes": 26, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.7802, 
       "x": -122.459, 
-      "latest_vote": "2013-08-10T13:13:43", 
+      "latest_vote": "2013-08-10T14:06:12", 
       "id": 16202059, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Richfield", 
@@ -26780,16 +26799,16 @@ opendebate.processFetchedQuestions({
       "submission": "What would you do to help assure that women's health issues, including the right to birth control and abortion, are not undermined for any American woman?", 
       "district": "CO_01", 
       "created": "2013-08-04T22:24:13", 
-      "state_votes": 40, 
-      "votes": 490, 
+      "state_votes": 41, 
+      "votes": 491, 
       "district_votes": 10, 
       "state": "CO", 
       "iface": "question", 
       "y": 39.7285, 
       "x": -104.954, 
-      "latest_vote": "2013-08-10T11:20:27", 
+      "latest_vote": "2013-08-10T14:06:52", 
       "id": 16175230, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Seal Rock", 
