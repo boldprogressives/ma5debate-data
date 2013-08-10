@@ -31159,7 +31159,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1582, 
       "latest_vote": "2013-08-10T18:20:28", 
       "id": 16172303, 
-      "trending_score": 7.916666666666667
+      "trending_score": 6.433333333333333
     }, 
     {
       "city": "Arlington", 
