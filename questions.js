@@ -664,7 +664,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1765, 
       "latest_vote": "2013-08-10T04:39:01", 
       "id": 16289961, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "El Paso", 
@@ -3514,7 +3514,7 @@ opendebate.processFetchedQuestions({
       "x": -93.8297, 
       "latest_vote": "2013-08-10T04:38:25", 
       "id": 16254871, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Staten Island", 
@@ -3704,7 +3704,7 @@ opendebate.processFetchedQuestions({
       "x": -118.436, 
       "latest_vote": "2013-08-10T04:38:29", 
       "id": 16253899, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Tempe", 
@@ -3856,7 +3856,7 @@ opendebate.processFetchedQuestions({
       "x": -118.399, 
       "latest_vote": "2013-08-10T04:38:46", 
       "id": 16250174, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Las Vegas", 
@@ -13755,7 +13755,7 @@ opendebate.processFetchedQuestions({
       "x": -117.955, 
       "latest_vote": "2013-08-10T07:10:58", 
       "id": 16210264, 
-      "trending_score": 4.125
+      "trending_score": 4.166666666666667
     }, 
     {
       "city": "Hemet", 
@@ -16567,7 +16567,7 @@ opendebate.processFetchedQuestions({
       "x": -75.3857, 
       "latest_vote": "2013-08-10T07:13:07", 
       "id": 16199756, 
-      "trending_score": 5.25
+      "trending_score": 5.5
     }, 
     {
       "city": "Elizabethtown", 
@@ -20652,7 +20652,7 @@ opendebate.processFetchedQuestions({
       "x": -79.4609, 
       "latest_vote": "2013-08-10T05:08:19", 
       "id": 16185019, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Columbus", 
@@ -21469,7 +21469,7 @@ opendebate.processFetchedQuestions({
       "x": -82.8645, 
       "latest_vote": "2013-08-10T05:08:54", 
       "id": 16183368, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Black Mountain", 
@@ -21640,7 +21640,7 @@ opendebate.processFetchedQuestions({
       "x": -95.5108, 
       "latest_vote": "2013-08-10T05:08:33", 
       "id": 16183137, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Homosassa", 
@@ -24129,7 +24129,7 @@ opendebate.processFetchedQuestions({
       "x": -106.578, 
       "latest_vote": "2013-08-10T07:16:28", 
       "id": 16178177, 
-      "trending_score": 7.125
+      "trending_score": 7.166666666666667
     }, 
     {
       "city": "San Antonio", 
@@ -25706,7 +25706,7 @@ opendebate.processFetchedQuestions({
       "x": -84.8666, 
       "latest_vote": "2013-08-10T03:59:31", 
       "id": 16176001, 
-      "trending_score": 0.16666666666666666
+      "trending_score": 0.25
     }, 
     {
       "city": "Little Rock", 
@@ -26390,7 +26390,7 @@ opendebate.processFetchedQuestions({
       "x": -122.322, 
       "latest_vote": "2013-08-10T07:17:17", 
       "id": 16175493, 
-      "trending_score": 5.166666666666667
+      "trending_score": 5.25
     }, 
     {
       "city": "Seattle", 
@@ -28689,7 +28689,7 @@ opendebate.processFetchedQuestions({
       "x": -87.7111, 
       "latest_vote": "2013-08-10T06:21:12", 
       "id": 16173257, 
-      "trending_score": 1.3333333333333333
+      "trending_score": 1.5
     }, 
     {
       "city": "Corvallis", 
