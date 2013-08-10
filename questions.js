@@ -14173,7 +14173,7 @@ opendebate.processFetchedQuestions({
       "x": -71.6341, 
       "latest_vote": "2013-08-10T06:16:10", 
       "id": 16208488, 
-      "trending_score": 0.5
+      "trending_score": 0.16666666666666666
     }, 
     {
       "city": "Bronx", 
@@ -20975,7 +20975,7 @@ opendebate.processFetchedQuestions({
       "x": -120.654, 
       "latest_vote": "2013-08-10T06:15:57", 
       "id": 16184415, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Springfield", 
@@ -21051,7 +21051,7 @@ opendebate.processFetchedQuestions({
       "x": -83.278, 
       "latest_vote": "2013-08-10T06:15:21", 
       "id": 16184213, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Brooklyn", 
@@ -26067,7 +26067,7 @@ opendebate.processFetchedQuestions({
       "x": -90.6197, 
       "latest_vote": "2013-08-10T05:15:19", 
       "id": 16175815, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Rathdrum", 
@@ -26181,7 +26181,7 @@ opendebate.processFetchedQuestions({
       "x": -110.947, 
       "latest_vote": "2013-08-10T10:56:48", 
       "id": 16175691, 
-      "trending_score": 1.2
+      "trending_score": 1.3333333333333333
     }, 
     {
       "city": "Mount Vernon", 
@@ -26200,7 +26200,7 @@ opendebate.processFetchedQuestions({
       "x": -88.9093, 
       "latest_vote": "2013-08-10T05:15:52", 
       "id": 16175641, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Mount Vernon", 
@@ -26352,7 +26352,7 @@ opendebate.processFetchedQuestions({
       "x": -81.5334, 
       "latest_vote": "2013-08-10T07:18:21", 
       "id": 16175571, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Sidney", 
@@ -27853,7 +27853,7 @@ opendebate.processFetchedQuestions({
       "x": -105.043, 
       "latest_vote": "2013-08-10T06:15:57", 
       "id": 16173913, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Fort Collins", 
