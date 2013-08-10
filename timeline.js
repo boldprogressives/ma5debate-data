@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Indianapolis", 
-      "first_name": "John", 
-      "last_name": "Grady", 
-      "user_id": 1742213, 
-      "submission": "Would you favor a law excluding unlimited contributions in political campaigns from groups such as Citizens United?", 
-      "district": "IN_07", 
-      "created": "2013-08-10T03:29:00", 
-      "state": "IN", 
-      "iface": "timeline_vote", 
-      "y": 39.8408, 
-      "x": -86.2651, 
-      "id": 16290816, 
-      "question_id": "16173913"
-    }, 
-    {
       "city": "Salinas", 
       "first_name": "Donna", 
       "last_name": "Gleaves", 
       "user_id": 1635501, 
-      "submission": "Public education is being privatized all over the U.S., with even Obama supporting school \"reform\" which turns education over to private corporations. These companies get rid of experienced teachers, hire in kids just out of college, give them 5 weeks of \"training\" and then put them in schools at low wages. Our children are being short-changed, particularly those with learning problems - \"reform\" schools \"cook the books\" by denying places in schools to those with problems, then saying, \"look, scores up!\" Will you seriously take a hard look at school \"reform?\"", 
+      "submission": "Do you support the legalization of marijuana (which should be taxed & regulated like alcohol or tobacco)? If so, would you allow the release of nonviolent offenders from prison?", 
       "district": "CA_20", 
-      "created": "2013-08-10T03:28:59", 
+      "created": "2013-08-10T03:29:55", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 36.6757, 
       "x": -121.628, 
-      "id": 16290815, 
-      "question_id": "16197636"
+      "id": 16290826, 
+      "question_id": "16172722"
+    }, 
+    {
+      "city": "Indianapolis", 
+      "first_name": "John", 
+      "last_name": "Grady", 
+      "user_id": 1742213, 
+      "submission": "Will you work to eliminate the Income Cap on SS \"Contributions\"?", 
+      "district": "IN_07", 
+      "created": "2013-08-10T03:29:47", 
+      "state": "IN", 
+      "iface": "timeline_vote", 
+      "y": 39.8408, 
+      "x": -86.2651, 
+      "id": 16290824, 
+      "question_id": "16175571"
     }, 
     {
       "city": "Winter Park", 
