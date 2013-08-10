@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Jacksonville", 
-      "first_name": "Gerard Hettinger", 
-      "last_name": "", 
-      "user_id": 1771618, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
-      "district": "FL_04", 
-      "created": "2013-08-10T15:54:00", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 30.3629, 
-      "x": -81.5819, 
-      "id": 16294206, 
-      "question_id": "16172281"
-    }, 
-    {
       "city": "Independence", 
       "first_name": "Margaret", 
       "last_name": "Goodwin", 
       "user_id": 1697661, 
-      "submission": "Why don't we change the lobbying rules so that we do not have a system that legalizes bribery, and why do we not reform the filibuster so congress does not have an excuse to continue doing nothing ?", 
+      "submission": "What are you doing to ensure that all residents have access to a living wage and to help create jobs for those still looking for work, five years after the Great Recession and the weak recovery?", 
       "district": "OR_05", 
-      "created": "2013-08-10T15:53:42", 
+      "created": "2013-08-10T15:54:58", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 44.8433, 
       "x": -123.186, 
-      "id": 16294203, 
-      "question_id": "16174072"
+      "id": 16294223, 
+      "question_id": "16201159"
+    }, 
+    {
+      "city": "Jacksonville", 
+      "first_name": "Gerard Hettinger", 
+      "last_name": "", 
+      "user_id": 1771618, 
+      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
+      "district": "FL_04", 
+      "created": "2013-08-10T15:54:57", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 30.3629, 
+      "x": -81.5819, 
+      "id": 16294224, 
+      "question_id": "16172690"
     }, 
     {
       "city": "Spokane", 
