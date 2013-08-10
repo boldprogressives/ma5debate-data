@@ -16692,15 +16692,15 @@ opendebate.processFetchedQuestions({
       "district": "OH_09", 
       "created": "2013-08-06T19:27:12", 
       "state_votes": 22, 
-      "votes": 353, 
+      "votes": 354, 
       "district_votes": 5, 
       "state": "OH", 
       "iface": "question", 
       "y": 41.405, 
       "x": -82.7314, 
-      "latest_vote": "2013-08-10T14:40:10", 
+      "latest_vote": "2013-08-10T16:06:22", 
       "id": 16201559, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "North Andover", 
@@ -29088,7 +29088,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-10T15:54:14", 
       "id": 16173335, 
-      "trending_score": 8.5
+      "trending_score": 16.166666666666668
     }, 
     {
       "city": "Evansville", 
@@ -29392,7 +29392,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T15:54:21", 
       "id": 16173259, 
-      "trending_score": 10.5
+      "trending_score": 20.166666666666668
     }, 
     {
       "city": "Manitowoc", 
@@ -29441,15 +29441,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:15:12", 
       "state_votes": 40, 
-      "votes": 392, 
+      "votes": 393, 
       "district_votes": 4, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-10T15:12:06", 
+      "latest_vote": "2013-08-10T16:06:45", 
       "id": 16173244, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Saint Peters", 
@@ -29498,15 +29498,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_02", 
       "created": "2013-08-04T01:08:19", 
       "state_votes": 41, 
-      "votes": 336, 
+      "votes": 337, 
       "district_votes": 8, 
       "state": "WA", 
       "iface": "question", 
       "y": 48.4989, 
       "x": -122.607, 
-      "latest_vote": "2013-08-10T15:38:27", 
+      "latest_vote": "2013-08-10T16:06:34", 
       "id": 16173225, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Saint Peters", 
@@ -29650,15 +29650,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_01", 
       "created": "2013-08-04T00:46:08", 
       "state_votes": 7, 
-      "votes": 59, 
+      "votes": 60, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.4583, 
       "x": -122.797, 
-      "latest_vote": "2013-08-10T14:51:08", 
+      "latest_vote": "2013-08-10T16:06:17", 
       "id": 16173184, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Mililani", 
@@ -30494,7 +30494,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5544, 
       "latest_vote": "2013-08-10T15:53:38", 
       "id": 16172727, 
-      "trending_score": 7.333333333333333
+      "trending_score": 14.125
     }, 
     {
       "city": "Waldport", 
@@ -31140,7 +31140,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2368, 
       "latest_vote": "2013-08-10T15:54:00", 
       "id": 16172281, 
-      "trending_score": 5.833333333333333
+      "trending_score": 8.25
     }, 
     {
       "city": "Arlington", 
@@ -31302,16 +31302,16 @@ opendebate.processFetchedQuestions({
       "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
       "district": "MA_05", 
       "created": "2013-08-03T17:00:17", 
-      "state_votes": 130, 
-      "votes": 743, 
+      "state_votes": 131, 
+      "votes": 744, 
       "district_votes": 43, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.366, 
       "x": -71.1035, 
-      "latest_vote": "2013-08-10T15:55:19", 
+      "latest_vote": "2013-08-10T16:06:25", 
       "id": 16172207, 
-      "trending_score": 6.5
+      "trending_score": 13.166666666666666
     }, 
     {
       "city": "Arlington", 

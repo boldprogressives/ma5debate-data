@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Independence", 
+      "first_name": "Margaret", 
+      "last_name": "Goodwin", 
+      "user_id": 1697661, 
+      "submission": "Congress persons have voted to put themselves in the driver's seat when it comes to their salaries. They vote themselves raises and we as citizens cannot over turn. What will you do to stop this practice?", 
+      "district": "OR_05", 
+      "created": "2013-08-10T16:06:45", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 44.8433, 
+      "x": -123.186, 
+      "id": 16294322, 
+      "question_id": "16173244"
+    }, 
+    {
+      "city": "North Attleboro", 
+      "first_name": "Sam", 
+      "last_name": "Kline", 
+      "user_id": 791575, 
+      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
+      "district": "MA_04", 
+      "created": "2013-08-10T16:06:25", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 41.977, 
+      "x": -71.3248, 
+      "id": 16294318, 
+      "question_id": "16172207"
+    }, 
+    {
       "city": "Scarborough", 
       "first_name": "Melanie", 
       "last_name": "FENGLER", 
@@ -19,21 +49,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16294313, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Independence", 
-      "first_name": "Margaret", 
-      "last_name": "Goodwin", 
-      "user_id": 1697661, 
-      "submission": "Do you think that anyone running  for public service should have psychological screenings...", 
-      "district": "OR_05", 
-      "created": "2013-08-10T16:05:46", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 44.8433, 
-      "x": -123.186, 
-      "id": 16294311, 
-      "question_id": "16172804"
     }, 
     {
       "city": "Westwood", 
@@ -313,25 +328,6 @@ opendebate.processTimeline({
       "x": -81.0504, 
       "id": 16293889, 
       "question_id": "16206470"
-    }, 
-    {
-      "city": "Indian Orchard", 
-      "first_name": "Miguel", 
-      "last_name": "Soto", 
-      "user_id": 1716772, 
-      "submission": "What are you all going to do with the systemic problem we have today with the foreclosure problem that are displacing every families that is the make up of every communities? Furthermore, are being forced out of their homes because of this economical problem and the bad practices of banks, \"Which they started\" to not give them a modification and keep them as tenants to keep their families together? \"Additionally not evict!!", 
-      "district": "MA_01", 
-      "created": "2013-08-10T15:15:30", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.151, 
-      "x": -72.5065, 
-      "latest_vote": null, 
-      "id": 16293883, 
-      "trending_score": 0.5
     }
   ]
 });
