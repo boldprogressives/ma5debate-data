@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Decatur", 
+      "first_name": "Judith Meldahl", 
+      "last_name": "Meldahl", 
+      "user_id": 242274, 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "district": "IL_13", 
+      "created": "2013-08-10T13:37:57", 
+      "state": "IL", 
+      "iface": "timeline_vote", 
+      "y": 39.8271, 
+      "x": -88.9241, 
+      "id": 16292692, 
+      "question_id": "16172303"
+    }, 
+    {
       "city": "Helena", 
       "first_name": "Rebecca", 
       "last_name": "Conner", 
@@ -304,25 +319,6 @@ opendebate.processTimeline({
       "x": -115.077, 
       "latest_vote": null, 
       "id": 16292546, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "East Weymouth", 
-      "first_name": "Carlotta", 
-      "last_name": "Hayes", 
-      "user_id": 1806880, 
-      "submission": "What specific measures would you initiate to turn around the epidemic of gun violence in Massachusetts cities ?", 
-      "district": "MA_08", 
-      "created": "2013-08-10T11:35:16", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.2138, 
-      "x": -70.9328, 
-      "latest_vote": null, 
-      "id": 16292545, 
       "trending_score": 0.5
     }
   ]
