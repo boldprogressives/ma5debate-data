@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Tim", 
       "last_name": "Sanders", 
       "user_id": 974978, 
-      "submission": "Solar would bring in new jobs and the factorys built in this country you could even run street lights, stop and go lights i know it would help with the citys tax base, becouse i build solar heat exchangers for the low income folks and it works becouse my heating bills run 16.00 dollars a month 2 years ago last year 48 dollars a month why would not want that ?", 
+      "submission": "Do/would you support an investigation of any/all Representative\u2019s that signed the Norquist pledge as having a conflict of interest with their pledge to uphold the Constitution and make government work?", 
       "district": "NV_02", 
-      "created": "2013-08-10T01:33:01", 
+      "created": "2013-08-10T01:34:01", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 39.7704, 
       "x": -119.617, 
-      "id": 16289702, 
-      "question_id": "16172866"
+      "id": 16289704, 
+      "question_id": "16206139"
     }, 
     {
       "city": "Cumming", 
