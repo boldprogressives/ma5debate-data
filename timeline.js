@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "What specific results have you achieved as a legislator that prove: 1. your commitment to social and econ. justice; 2. protection of citizens from harm (name it); 3. sustainable econ./environ./edu?", 
+      "submission": "Would you support an investigation of our military contractors by setting up a task force commission?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:11:30", 
+      "created": "2013-08-10T04:12:57", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291133, 
-      "question_id": "16287756"
+      "id": 16291140, 
+      "question_id": "16226158"
+    }, 
+    {
+      "city": "San Antonio", 
+      "first_name": "Damon", 
+      "last_name": "Mason", 
+      "user_id": 1783359, 
+      "submission": "Will you pledge to work to repeal free trade globalization efforts such as NAFTA in order to help restore our country's manufacturing base?", 
+      "district": "TX_20", 
+      "created": "2013-08-10T04:12:54", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 29.4672, 
+      "x": -98.53, 
+      "id": 16291139, 
+      "question_id": "16260391"
     }, 
     {
       "city": "Beverly", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -70.8533, 
       "id": 16291130, 
       "question_id": "16175636"
-    }, 
-    {
-      "city": "San Antonio", 
-      "first_name": "Damon", 
-      "last_name": "Mason", 
-      "user_id": 1783359, 
-      "submission": "RFC: Why do we have food stamps? Because food costs too much, and wages are low. Why does food cost so much? Because it has to be shipped crazy distances from the megafarms to the supermarkets; instead of supporting megafarms and Monsanto, the local farmers should get a boost. Why are wages low? Because education is overpriced and second rate, (most) taxes are illogical, and the wealthy  would rather have a huge pool of servants than share their good fortune with a struggling middle and lower class. How about this for starters: $50M is the most money ANY individual on the planet can accrue, anything more than that MUST be donated. Could you live on $50M? I damn sure could.", 
-      "district": "TX_20", 
-      "created": "2013-08-10T04:06:22", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 29.4672, 
-      "x": -98.53, 
-      "id": 16291090, 
-      "question_id": "16213394"
     }, 
     {
       "city": "Idaho Falls", 
