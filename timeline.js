@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Will you pledge to change the current filibuster rule to what it had been in the past where a Senator had to stand and speak for the duration his/her filibuster? If not, why not?", 
+      "submission": "How will you protect women's rights, especially reproductive rights, against the ongoing efforts to restrict them?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:26:59", 
+      "created": "2013-08-10T04:28:00", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291182, 
-      "question_id": "16197620"
+      "id": 16291185, 
+      "question_id": "16186923"
     }, 
     {
       "city": "San Antonio", 
