@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Laurel", 
+      "first_name": "Gary", 
+      "last_name": "Osland", 
+      "user_id": 148343, 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "district": "IA_01", 
+      "created": "2013-08-10T03:03:55", 
+      "state": "IA", 
+      "iface": "timeline_vote", 
+      "y": 41.8882, 
+      "x": -92.9427, 
+      "id": 16290644, 
+      "question_id": "16172913"
+    }, 
+    {
       "city": "Bisbee", 
       "first_name": "Bridget", 
       "last_name": "Burke", 
       "user_id": 1592935, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "submission": "will you pledge to oppose Any cuts to social Security or Medicare?", 
       "district": "AZ_02", 
-      "created": "2013-08-10T03:02:58", 
+      "created": "2013-08-10T03:03:45", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 31.4588, 
       "x": -109.946, 
-      "id": 16290639, 
-      "question_id": "16172281"
+      "id": 16290643, 
+      "question_id": "16185364"
     }, 
     {
       "city": "New York", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -122.789, 
       "id": 16290362, 
       "question_id": "16175637"
-    }, 
-    {
-      "city": "Cumming", 
-      "first_name": "R. Gwen", 
-      "last_name": "Smith Minniti", 
-      "user_id": 697062, 
-      "submission": "How do you feel about supporting a constitutional amendment to overturn Citizens United?", 
-      "district": "GA_07", 
-      "created": "2013-08-10T02:00:30", 
-      "state": "GA", 
-      "iface": "timeline_vote", 
-      "y": 34.2031, 
-      "x": -84.0743, 
-      "id": 16290358, 
-      "question_id": "16205331"
     }
   ]
 });
