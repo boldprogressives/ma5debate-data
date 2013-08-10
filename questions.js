@@ -14382,7 +14382,7 @@ opendebate.processFetchedQuestions({
       "x": -70.2918, 
       "latest_vote": "2013-08-10T04:09:42", 
       "id": 16206983, 
-      "trending_score": 4.1
+      "trending_score": 4.125
     }, 
     {
       "city": "San Francisco", 
@@ -18391,7 +18391,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7727, 
       "latest_vote": "2013-08-10T01:53:17", 
       "id": 16190583, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Stuart", 
@@ -18980,7 +18980,7 @@ opendebate.processFetchedQuestions({
       "x": -107.754, 
       "latest_vote": "2013-08-10T00:53:36", 
       "id": 16189361, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "St  Peters", 
@@ -19360,7 +19360,7 @@ opendebate.processFetchedQuestions({
       "x": -97.6382, 
       "latest_vote": "2013-08-10T00:53:57", 
       "id": 16188211, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "San Leandro", 
@@ -19436,7 +19436,7 @@ opendebate.processFetchedQuestions({
       "x": -80.1738, 
       "latest_vote": "2013-08-10T05:04:45", 
       "id": 16188015, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Washington", 
@@ -20348,7 +20348,7 @@ opendebate.processFetchedQuestions({
       "x": -108.465, 
       "latest_vote": "2013-08-10T06:21:35", 
       "id": 16185364, 
-      "trending_score": 2.75
+      "trending_score": 2.8333333333333335
     }, 
     {
       "city": "Boca Raton", 
@@ -21241,7 +21241,7 @@ opendebate.processFetchedQuestions({
       "x": -75.7463, 
       "latest_vote": "2013-08-10T06:23:21", 
       "id": 16183415, 
-      "trending_score": 2.8333333333333335
+      "trending_score": 3.75
     }, 
     {
       "city": "UNIO PIER", 
@@ -23958,7 +23958,7 @@ opendebate.processFetchedQuestions({
       "x": -106.578, 
       "latest_vote": "2013-08-10T06:21:59", 
       "id": 16178177, 
-      "trending_score": 5.5
+      "trending_score": 15.1
     }, 
     {
       "city": "San Antonio", 
@@ -28480,7 +28480,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T06:24:52", 
       "id": 16173264, 
-      "trending_score": 3.9
+      "trending_score": 4.916666666666667
     }, 
     {
       "city": "Prosper", 
