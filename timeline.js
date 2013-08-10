@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Will you actively support and promote the proposal for a Constitution Amendment protecting the right to vote?  (see freetovote.org)", 
+      "submission": "Will u work towards stopping jobs leaving the USA and stop SS, medicaid cu ts", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:07:53", 
+      "created": "2013-08-10T05:08:54", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291798, 
-      "question_id": "16185403"
+      "id": 16291802, 
+      "question_id": "16183368"
     }, 
     {
       "city": "Arlington", 
