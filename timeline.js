@@ -2,6 +2,25 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Muskego", 
+      "first_name": "Cindy", 
+      "last_name": "Bennett", 
+      "user_id": 1056117, 
+      "submission": "Do you believe in requiring GMO food labels?", 
+      "district": "WI_01", 
+      "created": "2013-08-10T14:11:39", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WI", 
+      "iface": "timeline_question", 
+      "y": 42.892, 
+      "x": -88.125, 
+      "latest_vote": null, 
+      "id": 16293289, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Belmont", 
       "first_name": "Georges", 
       "last_name": "Brun-Cottan", 
@@ -293,21 +312,6 @@ opendebate.processTimeline({
       "x": -118.544, 
       "id": 16292622, 
       "question_id": "16172755"
-    }, 
-    {
-      "city": "Saint Petersburg", 
-      "first_name": "JAN", 
-      "last_name": "NORBERG", 
-      "user_id": 1682829, 
-      "submission": "How do you propose stopping the GOPs continued assault on women's reproductive rights?", 
-      "district": "FL_13", 
-      "created": "2013-08-10T12:52:52", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 27.8443, 
-      "x": -82.6437, 
-      "id": 16292618, 
-      "question_id": "16205884"
     }
   ]
 });
