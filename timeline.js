@@ -2,6 +2,59 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Birmingham", 
+      "first_name": "Dot", 
+      "last_name": "Canup", 
+      "user_id": 1565077, 
+      "submission": "Do you support Unions and their work on behalf of  American workers ", 
+      "district": "AL_07", 
+      "created": "2013-08-10T05:34:57", 
+      "state": "AL", 
+      "iface": "timeline_vote", 
+      "y": 33.6391, 
+      "x": -86.6919, 
+      "id": 16291924, 
+      "question_id": "16265573"
+    }, 
+    {
+      "city": "Winchester", 
+      "first_name": "Jeff", 
+      "last_name": "Dearman", 
+      "user_id": 1810429, 
+      "submission": "Would you support Maglev elevated train network transportation system? ", 
+      "district": "MA_05", 
+      "created": "2013-08-10T05:34:44", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.4529, 
+      "x": -71.146, 
+      "latest_vote": null, 
+      "id": 16291923, 
+      "trending_score": 0.5
+    }, 
+    {
+      "city": "Winchester", 
+      "first_name": "Jeff", 
+      "last_name": "Dearman", 
+      "user_id": 1810429, 
+      "submission": "Do you feel we should eventually have a national vote on gay marriage? Or keep it within the states? Do you support gay marriage? Why or why not?", 
+      "district": "MA_05", 
+      "created": "2013-08-10T05:34:22", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.4529, 
+      "x": -71.146, 
+      "latest_vote": null, 
+      "id": 16291921, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Winchester", 
       "first_name": "Jeff", 
       "last_name": "Dearman", 
@@ -38,21 +91,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16291918, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Birmingham", 
-      "first_name": "Dot", 
-      "last_name": "Canup", 
-      "user_id": 1565077, 
-      "submission": "The promise of America is upward mobility.  Will you work to defend the middle-class and put government on the side of the common man?", 
-      "district": "AL_07", 
-      "created": "2013-08-10T05:33:10", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 33.6391, 
-      "x": -86.6919, 
-      "id": 16291917, 
-      "question_id": "16274440"
     }, 
     {
       "city": "Winchester", 
@@ -314,36 +352,6 @@ opendebate.processTimeline({
       "latest_vote": "2013-08-10T05:16:27", 
       "id": 16291700, 
       "trending_score": 1.5
-    }, 
-    {
-      "city": "Cleveland", 
-      "first_name": "Ernest", 
-      "last_name": "Montoro", 
-      "user_id": 1686159, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
-      "district": "OH_09", 
-      "created": "2013-08-10T04:48:40", 
-      "state": "OH", 
-      "iface": "timeline_vote", 
-      "y": 41.3872, 
-      "x": -81.7022, 
-      "id": 16291462, 
-      "question_id": "16172281"
-    }, 
-    {
-      "city": "Arlington", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1809582, 
-      "submission": "What specific results have you achieved as a legislator that prove: 1. your commitment to social and econ. justice; 2. protection of citizens from harm (name it); 3. sustainable econ./environ./edu?", 
-      "district": "MA_05", 
-      "created": "2013-08-10T04:41:42", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4119, 
-      "x": -71.1765, 
-      "id": 16291417, 
-      "question_id": "16287756"
     }
   ]
 });
