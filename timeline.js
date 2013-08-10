@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Are you willing to Repeal the Patriot Act and revamp the NDAA to protect our right to privacy?", 
+      "submission": "What will you do for rooftop solar in this state to encourage it's growth?", 
       "district": "NM_03", 
-      "created": "2013-08-10T00:26:01", 
+      "created": "2013-08-10T00:26:59", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16288946, 
-      "question_id": "16245281"
+      "id": 16288956, 
+      "question_id": "16240922"
     }, 
     {
       "city": "New York", 
       "first_name": "Katie", 
       "last_name": "Kingston", 
       "user_id": 656169, 
-      "submission": "Would you support a living wage law that would force corporations, like Wal-Mart, whose Walton family owns more wealth than 40% of all Americans, to pay  living wages to all of their workers?", 
+      "submission": "What are you doing to ensure that all residents have access to a living wage and to help create jobs for those still looking for work, five years after the Great Recession and the weak recovery?", 
       "district": "NY_12", 
-      "created": "2013-08-10T00:26:00", 
+      "created": "2013-08-10T00:26:44", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.7246, 
       "x": -73.9803, 
-      "id": 16288945, 
-      "question_id": "16210264"
+      "id": 16288952, 
+      "question_id": "16201159"
     }, 
     {
       "city": "Norfolk", 
