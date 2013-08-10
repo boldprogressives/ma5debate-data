@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Las Vegas", 
-      "first_name": "Steven", 
-      "last_name": "Born", 
-      "user_id": 1699500, 
-      "submission": "Will you support a Constitutional Amendment to guarantee the existence of Labor Unions, the right to organize and negotiate, to strike without the loss of employment, and extend those rights to all private and public sector workers?", 
-      "district": "NV_03", 
-      "created": "2013-08-10T05:55:58", 
-      "state": "NV", 
-      "iface": "timeline_vote", 
-      "y": 36.1135, 
-      "x": -115.273, 
-      "id": 16292032, 
-      "question_id": "16186103"
-    }, 
-    {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "will you support taxing companies for shipping jobs overseas instead of giving them tax rebates and refunds", 
+      "submission": "Since I am on SSI, haven't had a raise in pay for the last 20 years, what's wrong with the Congress and Senate, repaying our SSI fund all the money they have appropriated over the last 20 years and pay the interest on it also.  That would fix it for all time.  Raise the SSI on the rich.  Don't treat the rich folks different from the rest of us Americans.  Self paid health care for the politicians.  No benefits for them unless they pay for them out of their own pocket.", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:55:49", 
+      "created": "2013-08-10T05:56:48", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292031, 
-      "question_id": "16209148"
+      "id": 16292037, 
+      "question_id": "16207794"
+    }, 
+    {
+      "city": "Las Vegas", 
+      "first_name": "Steven", 
+      "last_name": "Born", 
+      "user_id": 1699500, 
+      "submission": "What Is Your Motivation for running for this office? What experience(s) have you had to qualify you for this honorable position? Please list what you think your qualifications should be?", 
+      "district": "NV_03", 
+      "created": "2013-08-10T05:56:16", 
+      "state": "NV", 
+      "iface": "timeline_vote", 
+      "y": 36.1135, 
+      "x": -115.273, 
+      "id": 16292034, 
+      "question_id": "16172542"
     }, 
     {
       "city": "Ukiah", 
