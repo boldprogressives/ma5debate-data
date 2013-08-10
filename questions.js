@@ -14971,7 +14971,7 @@ opendebate.processFetchedQuestions({
       "x": -117.307, 
       "latest_vote": "2013-08-10T05:58:08", 
       "id": 16205966, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Saratoga Springs", 
@@ -30485,16 +30485,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
       "district": "MA_05", 
       "created": "2013-08-03T17:52:54", 
-      "state_votes": 176, 
-      "votes": 1127, 
+      "state_votes": 177, 
+      "votes": 1128, 
       "district_votes": 48, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4207, 
       "x": -71.1582, 
-      "latest_vote": "2013-08-10T11:08:09", 
+      "latest_vote": "2013-08-10T11:57:52", 
       "id": 16172303, 
-      "trending_score": 2.0
+      "trending_score": 2.5
     }, 
     {
       "city": "Arlington", 

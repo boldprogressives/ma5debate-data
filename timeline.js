@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Greenfield", 
+      "first_name": "Jacqueline", 
+      "last_name": "Young", 
+      "user_id": 1170659, 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "district": "MA_02", 
+      "created": "2013-08-10T11:57:52", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.6029, 
+      "x": -72.5986, 
+      "id": 16292561, 
+      "question_id": "16172303"
+    }, 
+    {
       "city": "East Weymouth", 
       "first_name": "Carlotta", 
       "last_name": "Hayes", 
@@ -329,25 +344,6 @@ opendebate.processTimeline({
       "x": -82.6348, 
       "id": 16292281, 
       "question_id": "16172777"
-    }, 
-    {
-      "city": "Inkster", 
-      "first_name": "UNITED NATIONS", 
-      "last_name": "FOR ANIMALS", 
-      "user_id": 1777492, 
-      "submission": "WOULD PRESIDENT OBAMA BE WILLING TO SIGN AN EXECUTIVE ORDER TO STOP ALL BLM WILD HORSE ROUND-UPS, STOP BLM'S WILD HORSE EXPORTS AND HORSE SLAUGHTER, AND ORDER BLM TO FREE THE 50,000 PENNED UP WILD HORSES SUFFERING TO NO KILL HORSE ECO-SANCTUARIES ", 
-      "district": "MI_13", 
-      "created": "2013-08-10T07:51:02", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MI", 
-      "iface": "timeline_question", 
-      "y": 42.2924, 
-      "x": -83.317, 
-      "latest_vote": null, 
-      "id": 16292262, 
-      "trending_score": 0.5
     }
   ]
 });
