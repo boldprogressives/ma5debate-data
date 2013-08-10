@@ -29183,7 +29183,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-10T18:05:34", 
       "id": 16173335, 
-      "trending_score": 21.25
+      "trending_score": 10.5
     }, 
     {
       "city": "Evansville", 
@@ -29468,7 +29468,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T18:05:17", 
       "id": 16173264, 
-      "trending_score": 28.25
+      "trending_score": 14.0
     }, 
     {
       "city": "Prosper", 
@@ -30228,7 +30228,7 @@ opendebate.processFetchedQuestions({
       "x": -114.294, 
       "latest_vote": "2013-08-10T18:06:06", 
       "id": 16172913, 
-      "trending_score": 10.083333333333334
+      "trending_score": 7.75
     }, 
     {
       "city": "Montegut", 
