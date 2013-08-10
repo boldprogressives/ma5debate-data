@@ -4475,15 +4475,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-09T00:04:43", 
       "state_votes": 2, 
-      "votes": 69, 
+      "votes": 70, 
       "district_votes": 0, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.5746, 
       "x": -122.811, 
-      "latest_vote": "2013-08-10T14:17:16", 
+      "latest_vote": "2013-08-10T14:25:06", 
       "id": 16248600, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Bremerton", 
@@ -4931,15 +4931,15 @@ opendebate.processFetchedQuestions({
       "district": "NC_09", 
       "created": "2013-08-08T23:20:20", 
       "state_votes": 2, 
-      "votes": 64, 
+      "votes": 65, 
       "district_votes": 0, 
       "state": "NC", 
       "iface": "question", 
       "y": 35.3144, 
       "x": -80.8051, 
-      "latest_vote": "2013-08-10T14:18:27", 
+      "latest_vote": "2013-08-10T14:25:25", 
       "id": 16244527, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Riverbank", 

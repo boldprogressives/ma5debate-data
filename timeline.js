@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "North Bend", 
+      "first_name": "Cheryl", 
+      "last_name": "Meyer", 
+      "user_id": 795081, 
+      "submission": "Will you introduce legislation or a rules change -- whichever it takes -- that will mean Congress and their families must be subject to the same laws it passes for other citizens?  If not, why not?", 
+      "district": "WA_08", 
+      "created": "2013-08-10T14:25:25", 
+      "state": "WA", 
+      "iface": "timeline_vote", 
+      "y": 47.4752, 
+      "x": -121.757, 
+      "id": 16293386, 
+      "question_id": "16244527"
+    }, 
+    {
       "city": "Las Cruces", 
       "first_name": "leland", 
       "last_name": "tyler", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -106.708, 
       "id": 16293383, 
       "question_id": "16172777"
-    }, 
-    {
-      "city": "North Bend", 
-      "first_name": "Cheryl", 
-      "last_name": "Meyer", 
-      "user_id": 795081, 
-      "submission": "What do you see as the first steps to ensure food safety for all?", 
-      "district": "WA_08", 
-      "created": "2013-08-10T14:24:17", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 47.4752, 
-      "x": -121.757, 
-      "id": 16293380, 
-      "question_id": "16292560"
     }, 
     {
       "city": "Belmont", 
