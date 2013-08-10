@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Bridget", 
       "last_name": "Burke", 
       "user_id": 1592935, 
-      "submission": "Would you support the proposition that Big Oil should help to fund the veterans rehab issues, and their benefits since they were sent to fight for their safe access to oil.", 
+      "submission": "Will you support a 0.01% (one hundredth of one percent) tax on the gross value of all stock market purchases? It would only add $1 to a $10,000 stock purchase, but such a tax could help reduce our national debt due to the millions traded each day.", 
       "district": "AZ_02", 
-      "created": "2013-08-10T03:04:59", 
+      "created": "2013-08-10T03:05:18", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 31.4588, 
       "x": -109.946, 
-      "id": 16290648, 
-      "question_id": "16173438"
+      "id": 16290650, 
+      "question_id": "16285260"
     }, 
     {
       "city": "Laurel", 
