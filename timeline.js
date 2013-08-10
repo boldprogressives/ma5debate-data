@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "West Warwick", 
+      "first_name": "Richard", 
+      "last_name": "Cook", 
+      "user_id": 125300, 
+      "submission": "Will you favor the declassifying of all papers surrounding 9/11? And if not why not? Also would you back an independent investigation into 9/11 and the surrounding occurances before and after this event, and bring charges to all those responsible parties no matter who they are?", 
+      "district": "RI_02", 
+      "created": "2013-08-10T12:43:38", 
+      "state": "RI", 
+      "iface": "timeline_vote", 
+      "y": 41.692, 
+      "x": -71.5163, 
+      "id": 16292605, 
+      "question_id": "16269954"
+    }, 
+    {
       "city": "Houston", 
       "first_name": "Katherine", 
       "last_name": "Fernandez", 
@@ -321,25 +336,6 @@ opendebate.processTimeline({
       "x": -72.324, 
       "id": 16292462, 
       "question_id": "16287786"
-    }, 
-    {
-      "city": "Henderson", 
-      "first_name": "Nicholas", 
-      "last_name": "Martino", 
-      "user_id": 1810196, 
-      "submission": "I repeat an earlier question -- rephrased.  When the truth about 9/11 is known to all and it's apparent that every motherfucking one of you have been acting as accessories after the fact to mass murder while duping the children of the poor to fight, kill and die, where are you going to hide when the shooting starts?", 
-      "district": "NV_03", 
-      "created": "2013-08-10T09:23:16", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "NV", 
-      "iface": "timeline_question", 
-      "y": 36.0401, 
-      "x": -115.077, 
-      "latest_vote": null, 
-      "id": 16292454, 
-      "trending_score": 0.5
     }
   ]
 });

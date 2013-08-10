@@ -2347,15 +2347,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_14", 
       "created": "2013-08-09T09:36:45", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "district_votes": 0, 
       "state": "FL", 
       "iface": "question", 
       "y": 27.8889, 
       "x": -82.5076, 
-      "latest_vote": "2013-08-09T09:43:24", 
+      "latest_vote": "2013-08-10T12:43:11", 
       "id": 16270349, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Eugene", 
@@ -2404,15 +2404,15 @@ opendebate.processFetchedQuestions({
       "district": "VA_05", 
       "created": "2013-08-09T08:35:35", 
       "state_votes": 1, 
-      "votes": 3, 
+      "votes": 4, 
       "district_votes": 0, 
       "state": "VA", 
       "iface": "question", 
       "y": 37.0001, 
       "x": -79.8958, 
-      "latest_vote": "2013-08-09T15:12:47", 
+      "latest_vote": "2013-08-10T12:43:38", 
       "id": 16269954, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "East Calais", 
@@ -15750,7 +15750,7 @@ opendebate.processFetchedQuestions({
       "x": -72.6301, 
       "latest_vote": "2013-08-10T06:43:41", 
       "id": 16203477, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Elmira", 
