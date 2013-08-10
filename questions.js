@@ -27321,7 +27321,7 @@ opendebate.processFetchedQuestions({
       "x": -87.706, 
       "latest_vote": "2013-08-10T06:27:21", 
       "id": 16174483, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Seattle", 
@@ -28043,7 +28043,7 @@ opendebate.processFetchedQuestions({
       "x": -109.425, 
       "latest_vote": "2013-08-10T06:27:36", 
       "id": 16173690, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Salina", 
