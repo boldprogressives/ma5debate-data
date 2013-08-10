@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Anthony", 
       "last_name": "Pascual", 
       "user_id": 1673880, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
       "district": "CA_04", 
-      "created": "2013-08-10T13:55:01", 
+      "created": "2013-08-10T13:55:57", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 37.9578, 
       "x": -120.638, 
-      "id": 16292899, 
-      "question_id": "16173264"
+      "id": 16292944, 
+      "question_id": "16172303"
     }, 
     {
       "city": "Metairie", 
