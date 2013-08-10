@@ -28594,7 +28594,7 @@ opendebate.processFetchedQuestions({
       "x": -105.043, 
       "latest_vote": "2013-08-10T17:43:03", 
       "id": 16173921, 
-      "trending_score": 21.125
+      "trending_score": 21.166666666666668
     }, 
     {
       "city": "Fort Collins", 
@@ -30703,7 +30703,7 @@ opendebate.processFetchedQuestions({
       "x": -116.297, 
       "latest_vote": "2013-08-10T16:52:07", 
       "id": 16172697, 
-      "trending_score": 14.25
+      "trending_score": 14.5
     }, 
     {
       "city": "Holts Summit", 
