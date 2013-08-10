@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Would you support an investigation of our military contractors by setting up a task force commission?", 
+      "submission": "Do you fully support Senator Warren's 21st century Glass-Steagall bill to separate investment banking from consumer banking?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:12:57", 
+      "created": "2013-08-10T04:13:44", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291140, 
-      "question_id": "16226158"
+      "id": 16291143, 
+      "question_id": "16224940"
     }, 
     {
       "city": "San Antonio", 
