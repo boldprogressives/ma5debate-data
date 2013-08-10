@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Currently campaign finance laws allow money to dictate elections & future decisions by the elected. Would you suppor a bill that publicly funds campaigns w/ free advertising for all candidates", 
+      "submission": "Who is financing your campaign and what have you promised in return for this support?", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:23:59", 
+      "created": "2013-08-10T05:24:59", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291868, 
-      "question_id": "16213319"
+      "id": 16291875, 
+      "question_id": "16199725"
+    }, 
+    {
+      "city": "Disney", 
+      "first_name": "Pam", 
+      "last_name": "Johnson", 
+      "user_id": 1754508, 
+      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
+      "district": "OK_02", 
+      "created": "2013-08-10T05:24:56", 
+      "state": "OK", 
+      "iface": "timeline_vote", 
+      "y": 36.481, 
+      "x": -95.0171, 
+      "id": 16291874, 
+      "question_id": "16175634"
     }, 
     {
       "city": "Stevens Point", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -105.796, 
       "id": 16290737, 
       "question_id": "16172941"
-    }, 
-    {
-      "city": "Berkeley Heights", 
-      "first_name": "K.", 
-      "last_name": "Searle", 
-      "user_id": 664536, 
-      "submission": "Will you sign on to Rep. Rush Holt's bill, or one similar to it, that protects American citizens from the Unconstitutional, blanket NSA spying of our government?", 
-      "district": "NJ_07", 
-      "created": "2013-08-10T03:20:52", 
-      "state": "NJ", 
-      "iface": "timeline_vote", 
-      "y": 40.679, 
-      "x": -74.4327, 
-      "id": 16290735, 
-      "question_id": "16243019"
     }
   ]
 });
