@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Jacksonville", 
+      "first_name": "Gerard Hettinger", 
+      "last_name": "", 
+      "user_id": 1771618, 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "district": "FL_04", 
+      "created": "2013-08-10T15:54:00", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 30.3629, 
+      "x": -81.5819, 
+      "id": 16294206, 
+      "question_id": "16172281"
+    }, 
+    {
       "city": "Independence", 
       "first_name": "Margaret", 
       "last_name": "Goodwin", 
       "user_id": 1697661, 
-      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
+      "submission": "Why don't we change the lobbying rules so that we do not have a system that legalizes bribery, and why do we not reform the filibuster so congress does not have an excuse to continue doing nothing ?", 
       "district": "OR_05", 
-      "created": "2013-08-10T15:52:13", 
+      "created": "2013-08-10T15:53:42", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 44.8433, 
       "x": -123.186, 
-      "id": 16294185, 
-      "question_id": "16173210"
+      "id": 16294203, 
+      "question_id": "16174072"
     }, 
     {
       "city": "Spokane", 
@@ -316,25 +331,6 @@ opendebate.processTimeline({
       "x": -72.5065, 
       "latest_vote": null, 
       "id": 16293822, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "New York", 
-      "first_name": "Jake", 
-      "last_name": "Jacobs", 
-      "user_id": 453227, 
-      "submission": "In future years, who will pay to repair the hundreds of thousands of compromised, eroded concrete linings used in fracking?", 
-      "district": "NY_10", 
-      "created": "2013-08-10T15:05:38", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "NY", 
-      "iface": "timeline_question", 
-      "y": 40.7865, 
-      "x": -73.9786, 
-      "latest_vote": null, 
-      "id": 16293808, 
       "trending_score": 0.5
     }
   ]
