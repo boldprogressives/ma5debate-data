@@ -2,6 +2,25 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Hobart", 
+      "first_name": "Karon", 
+      "last_name": "Vance", 
+      "user_id": 1810510, 
+      "submission": "SS was set up for \"we the people\",  once these greedy rich fat cats see a surplus of any kind,  they try their best to steal,  and store millions that Do Not belong too them. , frankly these crooks don't care it's \" our savings\",  they'll take whatever they can TT", 
+      "district": "IN_01", 
+      "created": "2013-08-10T17:25:36", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "IN", 
+      "iface": "timeline_question", 
+      "y": 41.5193, 
+      "x": -87.25, 
+      "latest_vote": null, 
+      "id": 16294717, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Hot Springs", 
       "first_name": "christa", 
       "last_name": "spillane", 
@@ -305,21 +324,6 @@ opendebate.processTimeline({
       "x": -122.078, 
       "id": 16294353, 
       "question_id": "16172731"
-    }, 
-    {
-      "city": "Idyllwild", 
-      "first_name": "lucy", 
-      "last_name": "mccampbell", 
-      "user_id": 1735723, 
-      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
-      "district": "CA_36", 
-      "created": "2013-08-10T16:14:03", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 33.7359, 
-      "x": -116.694, 
-      "id": 16294344, 
-      "question_id": "16173210"
     }
   ]
 });
