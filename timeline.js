@@ -2,19 +2,38 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Winchester", 
+      "first_name": "Jeff", 
+      "last_name": "Dearman", 
+      "user_id": 1810429, 
+      "submission": "Would you support a national electric car program and work to integrate electric vehicles into the highway infrastructure network?", 
+      "district": "MA_05", 
+      "created": "2013-08-10T05:32:01", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.4529, 
+      "x": -71.146, 
+      "latest_vote": null, 
+      "id": 16291912, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Disney", 
       "first_name": "Pam", 
       "last_name": "Johnson", 
       "user_id": 1754508, 
-      "submission": "Why does Congress get a fat retirement and the rest of America gets a 401K?", 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
       "district": "OK_02", 
-      "created": "2013-08-10T05:30:56", 
+      "created": "2013-08-10T05:31:45", 
       "state": "OK", 
       "iface": "timeline_vote", 
       "y": 36.481, 
       "x": -95.0171, 
-      "id": 16291910, 
-      "question_id": "16173327"
+      "id": 16291911, 
+      "question_id": "16202059"
     }, 
     {
       "city": "Winchester", 
@@ -309,21 +328,6 @@ opendebate.processTimeline({
       "x": -122.26, 
       "id": 16290987, 
       "question_id": "16174072"
-    }, 
-    {
-      "city": "Anacortes", 
-      "first_name": "Joe", 
-      "last_name": "Verdoes", 
-      "user_id": 503455, 
-      "submission": "Introduce legislation to make Presidential elections day a national holiday", 
-      "district": "WA_02", 
-      "created": "2013-08-10T03:53:59", 
-      "state": "WA", 
-      "iface": "timeline_vote", 
-      "y": 48.4989, 
-      "x": -122.607, 
-      "id": 16290977, 
-      "question_id": "16182786"
     }
   ]
 });
