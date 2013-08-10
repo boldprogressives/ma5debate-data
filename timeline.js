@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Will support an increase in veterans benefits so that ALL veterans will have the mental and physical benefits they need and so richly deserve?", 
+      "submission": "Congress was warned about the repercussions of deriviatives. Retirees lost millions in IRAs, stock market,etc., someone needs to be held accountable and the loss replaced. The people responsible should get jail time and their assets should go toward replenishing their savings. Why was this swept under the rug and these financial expert have not answered for causing many retirees to loose their life savings?", 
       "district": "AL_07", 
-      "created": "2013-08-10T06:07:47", 
+      "created": "2013-08-10T06:09:01", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292057, 
-      "question_id": "16192378"
+      "id": 16292061, 
+      "question_id": "16191973"
     }, 
     {
       "city": "Las Vegas", 
