@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Joe", 
       "last_name": "Verdoes", 
       "user_id": 503455, 
-      "submission": "Will you support a 0.01% (one hundredth of one percent) tax on the gross value of all stock market purchases? It would only add $1 to a $10,000 stock purchase, but such a tax could help reduce our national debt due to the millions traded each day.", 
+      "submission": "Why is there not even ONE mention about possibly repealing the \"Patriot Act\", even though that one law has completely obliterated all of our civil rights that were guaranteed in the Constitution??? All USA laws have become invalid, especially for protecting against oppressive governmental organizations, by simply declaring ANYONE an \"Enemy Combatant\" with no real justification for that declaration. The Constitution was specifically created to design precautions against an oppressive government that already had gone too far (Britain). ", 
       "district": "WA_02", 
-      "created": "2013-08-10T03:36:47", 
+      "created": "2013-08-10T03:37:58", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 48.4989, 
       "x": -122.607, 
-      "id": 16290879, 
-      "question_id": "16285260"
+      "id": 16290893, 
+      "question_id": "16176201"
     }, 
     {
       "city": "Indianapolis", 
