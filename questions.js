@@ -30532,7 +30532,7 @@ opendebate.processFetchedQuestions({
       "x": -116.297, 
       "latest_vote": "2013-08-10T15:33:47", 
       "id": 16172697, 
-      "trending_score": 4.166666666666666
+      "trending_score": 4.416666666666666
     }, 
     {
       "city": "Holts Summit", 
