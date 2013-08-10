@@ -3,33 +3,48 @@ opendebate.processTimeline({
   "entries": [
     {
       "city": "El Prado", 
-      "first_name": "Janet", 
-      "last_name": "Anderson", 
-      "user_id": 1725594, 
-      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
-      "district": "NM_03", 
-      "created": "2013-08-09T23:59:59", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16288596, 
-      "question_id": "16172755"
-    }, 
-    {
-      "city": "El Prado", 
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Will you fight for a  revival of Glass/Steagall Act and the Monopoly and Merger legislation which are essential for restoring liquidity throughout the economy, genuine competition, and the revival of a healthy form of Capitalism?", 
+      "submission": "Will you stop the attack on workers rights to collective bargaining and help support strengthening labor law ", 
       "district": "NM_03", 
-      "created": "2013-08-09T23:59:58", 
+      "created": "2013-08-10T00:01:00", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16288595, 
-      "question_id": "16189753"
+      "id": 16288610, 
+      "question_id": "16184056"
+    }, 
+    {
+      "city": "El Prado", 
+      "first_name": "Janet", 
+      "last_name": "Anderson", 
+      "user_id": 1725594, 
+      "submission": "When will the Congress return all the money of  our Social Security funds we paid for or retirement  return back to the Social Security fund?  We need a date and we need every penny which was  robbed from our people's  money Returned NOW! ", 
+      "district": "NM_03", 
+      "created": "2013-08-10T00:00:56", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 36.4486, 
+      "x": -105.575, 
+      "id": 16288609, 
+      "question_id": "16201865"
+    }, 
+    {
+      "city": "Portland", 
+      "first_name": "Gwendolyn", 
+      "last_name": "Gerald", 
+      "user_id": 1674613, 
+      "submission": "Will you pledge to uphold the Affordable Care Act and help states implement it -- not defund it?", 
+      "district": "OR_01", 
+      "created": "2013-08-10T00:00:28", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 45.5409, 
+      "x": -122.83, 
+      "id": 16288601, 
+      "question_id": "16181276"
     }, 
     {
       "city": "Cedartown", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -90.6282, 
       "id": 16287826, 
       "question_id": "16204423"
-    }, 
-    {
-      "city": "Union City", 
-      "first_name": "Paul", 
-      "last_name": "Hayes", 
-      "user_id": 1687983, 
-      "submission": "Will you support the Constitutin of the United States of America against all enemies foreign and domestic by protecting each of our bill of rights including the right of individual citizens to carry and bear arms to protect this country and their family against those enemies that currently est or may exist at any time in the future?", 
-      "district": "NJ_08", 
-      "created": "2013-08-09T23:27:45", 
-      "state": "NJ", 
-      "iface": "timeline_vote", 
-      "y": 40.7704, 
-      "x": -74.0309, 
-      "id": 16287812, 
-      "question_id": "16280049"
     }
   ]
 });
