@@ -2,6 +2,25 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "East Weymouth", 
+      "first_name": "Carlotta", 
+      "last_name": "Hayes", 
+      "user_id": 1806880, 
+      "submission": "What do you see as the first steps to ensure food safety for all?", 
+      "district": "MA_08", 
+      "created": "2013-08-10T11:50:33", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.2138, 
+      "x": -70.9328, 
+      "latest_vote": null, 
+      "id": 16292560, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Henderson", 
       "first_name": "Nicholas", 
       "last_name": "Martino", 
@@ -328,25 +347,6 @@ opendebate.processTimeline({
       "x": -83.317, 
       "latest_vote": null, 
       "id": 16292262, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Salem", 
-      "first_name": "Leon", 
-      "last_name": "Keefe", 
-      "user_id": 1771578, 
-      "submission": "Will you stop trying to rob our parents of their social security & retirement! It's their right & not a privilege for which they & we have already paid into! Will you increase it & not cut it!", 
-      "district": "MA_06", 
-      "created": "2013-08-10T07:47:22", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.5181, 
-      "x": -70.9045, 
-      "latest_vote": null, 
-      "id": 16292260, 
       "trending_score": 0.5
     }
   ]

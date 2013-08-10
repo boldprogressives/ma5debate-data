@@ -2,6 +2,25 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "East Weymouth", 
+      "first_name": "Carlotta", 
+      "last_name": "Hayes", 
+      "user_id": 1806880, 
+      "submission": "What do you see as the first steps to ensure food safety for all?", 
+      "district": "MA_08", 
+      "created": "2013-08-10T11:50:33", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.2138, 
+      "x": -70.9328, 
+      "latest_vote": null, 
+      "id": 16292560, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Henderson", 
       "first_name": "Nicholas", 
       "last_name": "Martino", 
@@ -9366,7 +9385,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1804, 
       "latest_vote": "2013-08-10T11:39:59", 
       "id": 16222728, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Louisville", 
@@ -26238,7 +26257,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9643, 
       "latest_vote": "2013-08-10T05:50:47", 
       "id": 16175729, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Tucson", 
@@ -26523,7 +26542,7 @@ opendebate.processFetchedQuestions({
       "x": -122.322, 
       "latest_vote": "2013-08-10T11:37:34", 
       "id": 16175493, 
-      "trending_score": 1.75
+      "trending_score": 2.5
     }, 
     {
       "city": "Seattle", 
@@ -27321,7 +27340,7 @@ opendebate.processFetchedQuestions({
       "x": -122.298, 
       "latest_vote": "2013-08-10T11:38:27", 
       "id": 16174466, 
-      "trending_score": 1.8333333333333333
+      "trending_score": 2.0
     }, 
     {
       "city": "Albany", 
@@ -29886,7 +29905,7 @@ opendebate.processFetchedQuestions({
       "x": -122.811, 
       "latest_vote": "2013-08-10T08:38:28", 
       "id": 16172731, 
-      "trending_score": 2.1666666666666665
+      "trending_score": 2.25
     }, 
     {
       "city": "Chicago", 
@@ -30285,7 +30304,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T07:14:47", 
       "id": 16172583, 
-      "trending_score": 0.25
+      "trending_score": 0.3333333333333333
     }, 
     {
       "city": "ARLINGTON", 
