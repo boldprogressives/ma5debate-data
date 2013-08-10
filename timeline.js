@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Would you support public financing of all political campaigns?", 
+      "submission": "Will you support a constitutional amendment stating that Social Security and Medicare cannot ever be cut?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:14:51", 
+      "created": "2013-08-10T04:15:51", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291148, 
-      "question_id": "16200039"
+      "id": 16291150, 
+      "question_id": "16280510"
     }, 
     {
       "city": "San Antonio", 
