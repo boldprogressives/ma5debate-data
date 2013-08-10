@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "CJ", 
       "last_name": "Brennan", 
       "user_id": 993088, 
-      "submission": "Will you pledge to uphold the Affordable Care Act and help states implement it -- not defund it?", 
+      "submission": "Will you pledge to vote against the chained CPI", 
       "district": "OR_01", 
-      "created": "2013-08-10T14:44:50", 
+      "created": "2013-08-10T14:45:31", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 45.5352, 
       "x": -122.956, 
-      "id": 16293567, 
-      "question_id": "16181276"
+      "id": 16293573, 
+      "question_id": "16293538"
+    }, 
+    {
+      "city": "Belford", 
+      "first_name": "Alan", 
+      "last_name": "Reid", 
+      "user_id": 1393075, 
+      "submission": "Will you support a bill requiring our goverment to repay ss the trillions of dollars that they have borrowed since 1934? ", 
+      "district": "NJ_06", 
+      "created": "2013-08-10T14:45:03", 
+      "state": "NJ", 
+      "iface": "timeline_vote", 
+      "y": 40.418, 
+      "x": -74.0881, 
+      "id": 16293568, 
+      "question_id": "16275298"
     }, 
     {
       "city": "Palm Bay", 
@@ -34,21 +49,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16293565, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Belford", 
-      "first_name": "Alan", 
-      "last_name": "Reid", 
-      "user_id": 1393075, 
-      "submission": "Would you support a bill to have our goverment  pay back the trillions of dollars that they have borrowed from ss since its begining in 1934?", 
-      "district": "NJ_06", 
-      "created": "2013-08-10T14:44:20", 
-      "state": "NJ", 
-      "iface": "timeline_vote", 
-      "y": 40.418, 
-      "x": -74.0881, 
-      "id": 16293561, 
-      "question_id": "16275222"
     }, 
     {
       "city": "Bend", 
@@ -89,15 +89,15 @@ opendebate.processTimeline({
       "district": "IL_07", 
       "created": "2013-08-10T14:42:23", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "IL", 
       "iface": "timeline_question", 
       "y": 41.899, 
       "x": -87.6365, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-10T14:45:31", 
       "id": 16293538, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Chicago", 

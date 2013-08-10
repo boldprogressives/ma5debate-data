@@ -29,15 +29,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_07", 
       "created": "2013-08-10T14:42:23", 
       "state_votes": 0, 
-      "votes": 0, 
+      "votes": 1, 
       "district_votes": 0, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.899, 
       "x": -87.6365, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-10T14:45:31", 
       "id": 16293538, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Chicago", 
@@ -1853,15 +1853,15 @@ opendebate.processFetchedQuestions({
       "district": "NJ_06", 
       "created": "2013-08-09T14:11:14", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "district_votes": 0, 
       "state": "NJ", 
       "iface": "question", 
       "y": 40.418, 
       "x": -74.0881, 
-      "latest_vote": "2013-08-09T19:15:52", 
+      "latest_vote": "2013-08-10T14:45:03", 
       "id": 16275298, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Belford", 
