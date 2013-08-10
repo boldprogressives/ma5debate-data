@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Carlotta", 
       "last_name": "Hayes", 
       "user_id": 1806880, 
-      "submission": "What will you do to reduce domestic violence and protect women (and men) who are abused by their spouses or partners?", 
+      "submission": "What do you intend to do ,if elected to office to end guns violence in out communities?do you promised to vote as One person with fellow democrat to stand their ground when provoque by Rep\u00fablicans or you will be a disguide Republican in a demogratic ship?", 
       "district": "MA_08", 
-      "created": "2013-08-10T11:24:34", 
+      "created": "2013-08-10T11:27:51", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2138, 
       "x": -70.9328, 
-      "id": 16292537, 
-      "question_id": "16224920"
+      "id": 16292542, 
+      "question_id": "16188671"
     }, 
     {
       "city": "West Shokan", 

@@ -18895,16 +18895,16 @@ opendebate.processFetchedQuestions({
       "submission": "Bring gun laws to the forefront and lets get something on the books now.  We want regulations to be clear and stop the daily violence with guns.", 
       "district": "NY_18", 
       "created": "2013-08-06T16:07:47", 
-      "state_votes": 2, 
-      "votes": 19, 
+      "state_votes": 3, 
+      "votes": 20, 
       "district_votes": 0, 
       "state": "NY", 
       "iface": "question", 
       "y": 41.3693, 
       "x": -73.9199, 
-      "latest_vote": "2013-08-10T05:05:31", 
+      "latest_vote": "2013-08-10T11:27:12", 
       "id": 16190043, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Dallas", 
@@ -19370,16 +19370,16 @@ opendebate.processFetchedQuestions({
       "submission": "What do you intend to do ,if elected to office to end guns violence in out communities?do you promised to vote as One person with fellow democrat to stand their ground when provoque by Rep\u00fablicans or you will be a disguide Republican in a demogratic ship?", 
       "district": "VA_11", 
       "created": "2013-08-06T15:48:27", 
-      "state_votes": 0, 
-      "votes": 5, 
+      "state_votes": 1, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "VA", 
       "iface": "question", 
       "y": 38.5831, 
       "x": -77.3338, 
-      "latest_vote": "2013-08-10T00:52:55", 
+      "latest_vote": "2013-08-10T11:27:51", 
       "id": 16188671, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Dumfries", 
@@ -19883,16 +19883,16 @@ opendebate.processFetchedQuestions({
       "submission": "What would you do to reduce gun violence in our country?", 
       "district": "MN_05", 
       "created": "2013-08-06T15:24:04", 
-      "state_votes": 1, 
-      "votes": 11, 
+      "state_votes": 2, 
+      "votes": 12, 
       "district_votes": 0, 
       "state": "MN", 
       "iface": "question", 
       "y": 44.9408, 
       "x": -93.2245, 
-      "latest_vote": "2013-08-10T00:54:49", 
+      "latest_vote": "2013-08-10T11:27:23", 
       "id": 16186954, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Decatur", 
@@ -23930,16 +23930,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you think Stand Your Ground laws inhibit or promote violence in society? If the latter, what are you going to do about it?", 
       "district": "IL_09", 
       "created": "2013-08-05T19:54:52", 
-      "state_votes": 1, 
-      "votes": 11, 
+      "state_votes": 2, 
+      "votes": 12, 
       "district_votes": 0, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.0305, 
       "x": -87.6918, 
-      "latest_vote": "2013-08-10T00:05:48", 
+      "latest_vote": "2013-08-10T11:27:31", 
       "id": 16178617, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "West Salem", 
@@ -25459,7 +25459,7 @@ opendebate.processFetchedQuestions({
       "x": -89.4981, 
       "latest_vote": "2013-08-10T05:28:00", 
       "id": 16176313, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Denver", 
@@ -27226,7 +27226,7 @@ opendebate.processFetchedQuestions({
       "x": -87.706, 
       "latest_vote": "2013-08-10T06:27:21", 
       "id": 16174483, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Seattle", 
@@ -27948,7 +27948,7 @@ opendebate.processFetchedQuestions({
       "x": -109.425, 
       "latest_vote": "2013-08-10T06:27:36", 
       "id": 16173690, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Salina", 
@@ -28708,7 +28708,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T11:08:42", 
       "id": 16173264, 
-      "trending_score": 4.125
+      "trending_score": 4.166666666666667
     }, 
     {
       "city": "Prosper", 
@@ -29867,7 +29867,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7109, 
       "latest_vote": "2013-08-10T07:18:17", 
       "id": 16172722, 
-      "trending_score": 2.1
+      "trending_score": 2.125
     }, 
     {
       "city": "Albuquerque", 
