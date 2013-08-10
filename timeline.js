@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "RANDY", 
       "last_name": "Woodard", 
       "user_id": 1246384, 
-      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
+      "submission": "Does the Patriot Act overrule the U.S. Constitution? (NSA Spying)", 
       "district": "CA_37", 
-      "created": "2013-08-10T17:46:49", 
+      "created": "2013-08-10T17:49:01", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 34.0009, 
       "x": -118.288, 
-      "id": 16294784, 
-      "question_id": "16180998"
+      "id": 16294797, 
+      "question_id": "16182985"
     }, 
     {
       "city": "Spencer", 
