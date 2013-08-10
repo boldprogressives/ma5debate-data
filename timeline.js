@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "How long do you think it will take this country to rid ourselves of the influence and presence petroleum based energy and change to alternatives such as hydrogen? Or is this simply a vote getting talking point?", 
+      "submission": "Will you work to reduce national security spending to the level of 2000?", 
       "district": "NM_03", 
-      "created": "2013-08-10T01:16:00", 
+      "created": "2013-08-10T01:16:08", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16289551, 
-      "question_id": "16173224"
+      "id": 16289552, 
+      "question_id": "16173216"
     }, 
     {
       "city": "Gering", 
