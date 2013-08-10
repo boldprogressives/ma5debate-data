@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Lynne", 
       "last_name": "Vestal", 
       "user_id": 1121128, 
-      "submission": "Can you explain why the people responsible for the failure of Wall Street and the banking industry have not been held accountable for the destruction of our economy.", 
+      "submission": "Will you vote to end all fossil-fuel subsidies?", 
       "district": "AZ_09", 
-      "created": "2013-08-10T06:13:56", 
+      "created": "2013-08-10T06:14:50", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 33.559, 
       "x": -112.089, 
-      "id": 16292089, 
-      "question_id": "16201979"
+      "id": 16292094, 
+      "question_id": "16201353"
     }, 
     {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "In support of the democratic process, would you favor an election law that requires candidates (including incumbents) to participate in debates with their challengers?", 
+      "submission": "Income inequality in U.S. is at a modern day high, and social mobility at a modern day low, placing us way behind most countries in the world in both categories. What policies do you favor to address this?", 
       "district": "AL_07", 
-      "created": "2013-08-10T06:13:36", 
+      "created": "2013-08-10T06:14:41", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292088, 
-      "question_id": "16185194"
+      "id": 16292093, 
+      "question_id": "16183533"
     }, 
     {
       "city": "Santa Barbara", 
