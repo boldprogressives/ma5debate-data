@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Would you vote to overturn Citizens United?", 
+      "submission": "What will you do about gun control and the scare tactics/bullying by the NRA and gun lobbyists?  How will you approach the Right's program of 'divisiveness and culture of fear' that now rips us apart?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:20:01", 
+      "created": "2013-08-10T04:20:46", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291161, 
-      "question_id": "16185125"
+      "id": 16291164, 
+      "question_id": "16176673"
     }, 
     {
       "city": "San Antonio", 
