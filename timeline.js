@@ -2,19 +2,53 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Cumming", 
+      "first_name": "R. Gwen", 
+      "last_name": "Smith Minniti", 
+      "user_id": 697062, 
+      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
+      "district": "GA_07", 
+      "created": "2013-08-10T01:53:01", 
+      "state": "GA", 
+      "iface": "timeline_vote", 
+      "y": 34.2031, 
+      "x": -84.0743, 
+      "id": 16290008, 
+      "question_id": "16172583"
+    }, 
+    {
       "city": "Reno", 
       "first_name": "Tim", 
       "last_name": "Sanders", 
       "user_id": 974978, 
-      "submission": "will you pledge to oppose Any cuts to social Security or Medicare?", 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
       "district": "NV_02", 
-      "created": "2013-08-10T01:51:47", 
+      "created": "2013-08-10T01:52:59", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 39.7704, 
       "x": -119.617, 
-      "id": 16289944, 
-      "question_id": "16185364"
+      "id": 16290006, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Arlington", 
+      "first_name": "Jean", 
+      "last_name": "Glassman", 
+      "user_id": 398249, 
+      "submission": "What are your views on the National Security Agency and its sweeping search through and storage of virtually limitless amounts of Americans' e-mail, phone, and text communications?", 
+      "district": "MA_05", 
+      "created": "2013-08-10T01:52:08", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.4119, 
+      "x": -71.1765, 
+      "latest_vote": null, 
+      "id": 16289961, 
+      "trending_score": 0.5
     }, 
     {
       "city": "El Paso", 
@@ -34,21 +68,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16289937, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Cumming", 
-      "first_name": "R. Gwen", 
-      "last_name": "Smith Minniti", 
-      "user_id": 697062, 
-      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
-      "district": "GA_07", 
-      "created": "2013-08-10T01:50:59", 
-      "state": "GA", 
-      "iface": "timeline_vote", 
-      "y": 34.2031, 
-      "x": -84.0743, 
-      "id": 16289906, 
-      "question_id": "16173257"
     }, 
     {
       "city": "Panama City", 
@@ -289,21 +308,6 @@ opendebate.processTimeline({
       "x": -80.1406, 
       "id": 16289590, 
       "question_id": "16175634"
-    }, 
-    {
-      "city": "Gering", 
-      "first_name": "Cody", 
-      "last_name": "Rudow", 
-      "user_id": 1806614, 
-      "submission": "Will you commit to forcing in person Filibusters so America and the world can hear the reasons someone wants to hold democracy hostage and prevent votes on legislation.", 
-      "district": "NE_03", 
-      "created": "2013-08-10T01:15:19", 
-      "state": "NE", 
-      "iface": "timeline_vote", 
-      "y": 41.8046, 
-      "x": -103.717, 
-      "id": 16289546, 
-      "question_id": "16258323"
     }
   ]
 });
