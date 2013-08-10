@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Katherine", 
       "last_name": "Fernandez", 
       "user_id": 333705, 
-      "submission": "What will you do to stop the attack on women, & their health? Will you enforce equal pay?", 
+      "submission": "How do you propose stopping the GOPs continued assault on women's reproductive rights?", 
       "district": "TX_18", 
-      "created": "2013-08-10T12:38:54", 
+      "created": "2013-08-10T12:39:41", 
       "state": "TX", 
       "iface": "timeline_vote", 
       "y": 29.7963, 
       "x": -95.4172, 
-      "id": 16292592, 
-      "question_id": "16177906"
+      "id": 16292596, 
+      "question_id": "16205884"
     }, 
     {
       "city": "Millis", 

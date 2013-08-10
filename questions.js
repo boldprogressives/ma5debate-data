@@ -15039,15 +15039,15 @@ opendebate.processFetchedQuestions({
       "district": "VA_01", 
       "created": "2013-08-06T21:24:53", 
       "state_votes": 22, 
-      "votes": 348, 
+      "votes": 349, 
       "district_votes": 7, 
       "state": "VA", 
       "iface": "question", 
       "y": 38.6736, 
       "x": -77.4268, 
-      "latest_vote": "2013-08-10T11:20:42", 
+      "latest_vote": "2013-08-10T12:39:41", 
       "id": 16205884, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "McKinleyville", 
@@ -19485,15 +19485,15 @@ opendebate.processFetchedQuestions({
       "district": "VA_11", 
       "created": "2013-08-06T15:48:27", 
       "state_votes": 1, 
-      "votes": 6, 
+      "votes": 7, 
       "district_votes": 0, 
       "state": "VA", 
       "iface": "question", 
       "y": 38.5831, 
       "x": -77.3338, 
-      "latest_vote": "2013-08-10T11:27:51", 
+      "latest_vote": "2013-08-10T12:39:24", 
       "id": 16188671, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Dumfries", 
@@ -20682,15 +20682,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-06T15:02:39", 
       "state_votes": 9, 
-      "votes": 470, 
+      "votes": 471, 
       "district_votes": 0, 
       "state": "MT", 
       "iface": "question", 
       "y": 45.8404, 
       "x": -108.465, 
-      "latest_vote": "2013-08-10T08:40:05", 
+      "latest_vote": "2013-08-10T12:39:15", 
       "id": 16185364, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Boca Raton", 
@@ -23931,15 +23931,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_07", 
       "created": "2013-08-05T21:16:01", 
       "state_votes": 3, 
-      "votes": 22, 
+      "votes": 23, 
       "district_votes": 0, 
       "state": "CO", 
       "iface": "question", 
       "y": 39.8289, 
       "x": -105.037, 
-      "latest_vote": "2013-08-10T11:22:48", 
+      "latest_vote": "2013-08-10T12:39:04", 
       "id": 16178792, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Westminster", 
