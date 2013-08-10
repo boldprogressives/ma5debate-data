@@ -16396,7 +16396,7 @@ opendebate.processFetchedQuestions({
       "x": -70.6862, 
       "latest_vote": "2013-08-10T16:46:40", 
       "id": 16203558, 
-      "trending_score": 3.0
+      "trending_score": 4.25
     }, 
     {
       "city": "Holyoke", 
@@ -16472,7 +16472,7 @@ opendebate.processFetchedQuestions({
       "x": -83.1201, 
       "latest_vote": "2013-08-10T16:46:49", 
       "id": 16203215, 
-      "trending_score": 3.0
+      "trending_score": 4.25
     }, 
     {
       "city": "Lake Worth", 
@@ -16624,7 +16624,7 @@ opendebate.processFetchedQuestions({
       "x": -122.459, 
       "latest_vote": "2013-08-10T16:45:58", 
       "id": 16202059, 
-      "trending_score": 4.0
+      "trending_score": 6.25
     }, 
     {
       "city": "Richfield", 
