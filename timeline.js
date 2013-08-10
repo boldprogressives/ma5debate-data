@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Will you support peace and transferring money spent on Military to Education, Food & Health Security, along with making sure we have Clean Air & the right to clean Water?", 
+      "submission": "Do you think Supreme Court Judges should sign/abide by a Code Of Ethics?", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:00:28", 
+      "created": "2013-08-10T05:01:45", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291780, 
-      "question_id": "16202732"
+      "id": 16291781, 
+      "question_id": "16194740"
     }, 
     {
       "city": "Arlington", 
