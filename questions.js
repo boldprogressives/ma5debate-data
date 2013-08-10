@@ -16787,15 +16787,15 @@ opendebate.processFetchedQuestions({
       "district": "PA_07", 
       "created": "2013-08-06T18:46:11", 
       "state_votes": 9, 
-      "votes": 110, 
+      "votes": 111, 
       "district_votes": 1, 
       "state": "PA", 
       "iface": "question", 
       "y": 39.8687, 
       "x": -75.3857, 
-      "latest_vote": "2013-08-10T14:15:20", 
+      "latest_vote": "2013-08-10T14:27:26", 
       "id": 16199756, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Elizabethtown", 
@@ -17053,15 +17053,15 @@ opendebate.processFetchedQuestions({
       "district": "LA_02", 
       "created": "2013-08-06T18:08:47", 
       "state_votes": 3, 
-      "votes": 32, 
+      "votes": 33, 
       "district_votes": 1, 
       "state": "LA", 
       "iface": "question", 
       "y": 29.9546, 
       "x": -90.1234, 
-      "latest_vote": "2013-08-10T13:47:46", 
+      "latest_vote": "2013-08-10T14:27:36", 
       "id": 16197636, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Hampton", 
