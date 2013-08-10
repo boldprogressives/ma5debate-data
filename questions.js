@@ -664,7 +664,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1765, 
       "latest_vote": "2013-08-10T04:39:01", 
       "id": 16289961, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "El Paso", 
@@ -3514,7 +3514,7 @@ opendebate.processFetchedQuestions({
       "x": -93.8297, 
       "latest_vote": "2013-08-10T04:38:25", 
       "id": 16254871, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Staten Island", 
@@ -3704,7 +3704,7 @@ opendebate.processFetchedQuestions({
       "x": -118.436, 
       "latest_vote": "2013-08-10T04:38:29", 
       "id": 16253899, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Tempe", 
@@ -3856,7 +3856,7 @@ opendebate.processFetchedQuestions({
       "x": -118.399, 
       "latest_vote": "2013-08-10T04:38:46", 
       "id": 16250174, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Las Vegas", 
@@ -4388,7 +4388,7 @@ opendebate.processFetchedQuestions({
       "x": -84.2978, 
       "latest_vote": "2013-08-10T05:38:55", 
       "id": 16246835, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Darby", 
@@ -4426,7 +4426,7 @@ opendebate.processFetchedQuestions({
       "x": -117.908, 
       "latest_vote": "2013-08-10T05:39:04", 
       "id": 16246657, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Loudon", 
@@ -4445,7 +4445,7 @@ opendebate.processFetchedQuestions({
       "x": -84.2978, 
       "latest_vote": "2013-08-10T05:39:09", 
       "id": 16246613, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Swannanoa", 
@@ -18220,7 +18220,7 @@ opendebate.processFetchedQuestions({
       "x": -122.078, 
       "latest_vote": "2013-08-10T06:09:17", 
       "id": 16192159, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Somerset", 
@@ -18258,7 +18258,7 @@ opendebate.processFetchedQuestions({
       "x": -86.9261, 
       "latest_vote": "2013-08-10T06:09:01", 
       "id": 16191973, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Middleboro", 
@@ -18638,7 +18638,7 @@ opendebate.processFetchedQuestions({
       "x": -75.2541, 
       "latest_vote": "2013-08-10T06:08:26", 
       "id": 16190319, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Bennington", 
