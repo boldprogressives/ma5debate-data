@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Barbara", 
       "last_name": "Macek", 
       "user_id": 1678230, 
-      "submission": "Do you support the concept of keeping church and state separate?", 
+      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
       "district": "NY_09", 
-      "created": "2013-08-10T08:38:50", 
+      "created": "2013-08-10T08:39:53", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.6497, 
       "x": -73.9377, 
-      "id": 16292438, 
-      "question_id": "16173921"
+      "id": 16292443, 
+      "question_id": "16172207"
     }, 
     {
       "city": "Los Angeles", 
