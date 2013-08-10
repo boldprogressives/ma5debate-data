@@ -26789,7 +26789,7 @@ opendebate.processFetchedQuestions({
       "x": -95.4739, 
       "latest_vote": "2013-08-10T06:25:54", 
       "id": 16175177, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Phoenix", 
@@ -26979,7 +26979,7 @@ opendebate.processFetchedQuestions({
       "x": -115.141, 
       "latest_vote": "2013-08-10T06:26:13", 
       "id": 16174911, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Gypsum", 
