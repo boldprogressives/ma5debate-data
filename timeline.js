@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "", 
       "last_name": "", 
       "user_id": 1810448, 
-      "submission": "Do you believe the NSA violated the Fourth Amendment by failing to obtain specific warrants detailing the probable cause it has to eavesdrop on the conversations of each individual it has surveilled?", 
+      "submission": "Should the police be used to keep the people from protesting about the ongoing illegal activities of the financial institutions on Wall Street?", 
       "district": "MA_05", 
-      "created": "2013-08-10T13:20:30", 
+      "created": "2013-08-10T13:21:40", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.398, 
       "x": -71.2203, 
-      "id": 16292674, 
-      "question_id": "16215369"
+      "id": 16292675, 
+      "question_id": "16257701"
     }, 
     {
       "city": "Clermont", 

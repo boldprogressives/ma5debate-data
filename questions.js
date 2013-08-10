@@ -3391,16 +3391,16 @@ opendebate.processFetchedQuestions({
       "submission": "Should the police be used to keep the people from protesting about the ongoing illegal activities of the financial institutions on Wall Street?", 
       "district": "WA_03", 
       "created": "2013-08-09T02:21:19", 
-      "state_votes": 0, 
-      "votes": 9, 
-      "district_votes": 0, 
+      "state_votes": 1, 
+      "votes": 10, 
+      "district_votes": 1, 
       "state": "WA", 
       "iface": "question", 
       "y": 46.7236, 
       "x": -122.958, 
-      "latest_vote": "2013-08-10T05:38:10", 
+      "latest_vote": "2013-08-10T13:21:40", 
       "id": 16257701, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Lexington", 
