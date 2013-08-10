@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Indianapolis", 
-      "first_name": "John", 
-      "last_name": "Grady", 
-      "user_id": 1742213, 
-      "submission": "The drug war and the prison industry has destroyed many lives -- especially of low income and minority citizens. As a first step, marijuana needs to be legalized nation-wide. What will you do toward that end?", 
-      "district": "IN_07", 
-      "created": "2013-08-10T03:26:05", 
-      "state": "IN", 
-      "iface": "timeline_vote", 
-      "y": 39.8408, 
-      "x": -86.2651, 
-      "id": 16290791, 
-      "question_id": "16173418"
-    }, 
-    {
       "city": "Salinas", 
       "first_name": "Donna", 
       "last_name": "Gleaves", 
       "user_id": 1635501, 
-      "submission": "Would you support a living wage law that would force corporations, like Wal-Mart, whose Walton family owns more wealth than 40% of all Americans, to pay  living wages to all of their workers?", 
+      "submission": "Will congress ever address a jobs/infrastructure bill?  We needs jobs, jobs training and massive infrastructure repair.  I am sick of the GOP obstruction.", 
       "district": "CA_20", 
-      "created": "2013-08-10T03:25:58", 
+      "created": "2013-08-10T03:27:00", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 36.6757, 
       "x": -121.628, 
-      "id": 16290790, 
-      "question_id": "16210264"
+      "id": 16290801, 
+      "question_id": "16256688"
+    }, 
+    {
+      "city": "Indianapolis", 
+      "first_name": "John", 
+      "last_name": "Grady", 
+      "user_id": 1742213, 
+      "submission": "Given that America is engaged in perpetual war, significantly draining our economy, and in my opinion, not significantly protecting our freedom, what are your thoughts on the perpetual warfare state?", 
+      "district": "IN_07", 
+      "created": "2013-08-10T03:26:50", 
+      "state": "IN", 
+      "iface": "timeline_vote", 
+      "y": 39.8408, 
+      "x": -86.2651, 
+      "id": 16290800, 
+      "question_id": "16173193"
     }, 
     {
       "city": "Winter Park", 
