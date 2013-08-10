@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Santa Cruz", 
+      "first_name": "Jane", 
+      "last_name": "Bruce-Munro", 
+      "user_id": 1644313, 
+      "submission": "Would you support a living wage law that would force corporations, like Wal-Mart, whose Walton family owns more wealth than 40% of all Americans, to pay  living wages to all of their workers?", 
+      "district": "CA_20", 
+      "created": "2013-08-10T07:10:58", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 36.9715, 
+      "x": -121.985, 
+      "id": 16292200, 
+      "question_id": "16210264"
+    }, 
+    {
       "city": "Grand Terrace", 
       "first_name": "Janet", 
       "last_name": "Moran", 
@@ -328,25 +343,6 @@ opendebate.processTimeline({
       "x": -71.146, 
       "latest_vote": null, 
       "id": 16291918, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Winchester", 
-      "first_name": "Jeff", 
-      "last_name": "Dearman", 
-      "user_id": 1810429, 
-      "submission": "Do you agree with a soda ban such as the one in New York City? Why or why not?", 
-      "district": "MA_05", 
-      "created": "2013-08-10T05:32:55", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.4529, 
-      "x": -71.146, 
-      "latest_vote": null, 
-      "id": 16291916, 
       "trending_score": 0.5
     }
   ]
