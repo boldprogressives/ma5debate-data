@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Birmingham", 
-      "first_name": "Dot", 
-      "last_name": "Canup", 
-      "user_id": 1565077, 
-      "submission": "Do you support ending Corporate Welfare that is feeding off of the taxpayers while making HUGE profits? If so, how would you go up against most of the politicians who turn a deaf ear on the subject.", 
-      "district": "AL_07", 
-      "created": "2013-08-10T04:24:42", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 33.6391, 
-      "x": -86.6919, 
-      "id": 16291176, 
-      "question_id": "16212057"
-    }, 
-    {
       "city": "San Antonio", 
       "first_name": "Damon", 
       "last_name": "Mason", 
       "user_id": 1783359, 
-      "submission": "Will you pledge to work to repeal free trade globalization efforts such as NAFTA in order to help restore our country's manufacturing base?", 
+      "submission": "Having lived 66 years in border states and live now in a community of 85% Hispanics, please tell us what you and we can do to integrate these people, some with roots 400 years and others newer into our nation.", 
       "district": "TX_20", 
-      "created": "2013-08-10T04:12:54", 
+      "created": "2013-08-10T04:25:54", 
       "state": "TX", 
       "iface": "timeline_vote", 
       "y": 29.4672, 
       "x": -98.53, 
-      "id": 16291139, 
-      "question_id": "16260391"
+      "id": 16291179, 
+      "question_id": "16173271"
+    }, 
+    {
+      "city": "Birmingham", 
+      "first_name": "Dot", 
+      "last_name": "Canup", 
+      "user_id": 1565077, 
+      "submission": "What is your position on INCREASING Social Security benefits?", 
+      "district": "AL_07", 
+      "created": "2013-08-10T04:25:25", 
+      "state": "AL", 
+      "iface": "timeline_vote", 
+      "y": 33.6391, 
+      "x": -86.6919, 
+      "id": 16291177, 
+      "question_id": "16207967"
     }, 
     {
       "city": "Beverly", 
