@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Fort Worth", 
+      "first_name": "Richard", 
+      "last_name": "Scaturro", 
+      "user_id": 1563490, 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "district": "TX_33", 
+      "created": "2013-08-10T15:19:57", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 32.7498, 
+      "x": -97.2115, 
+      "id": 16293900, 
+      "question_id": "16173335"
+    }, 
+    {
       "city": "Montville", 
       "first_name": "Colleen", 
       "last_name": "Sattelmaier", 
@@ -324,25 +339,6 @@ opendebate.processTimeline({
       "x": -87.6365, 
       "latest_vote": null, 
       "id": 16293752, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Chicago", 
-      "first_name": "Peter", 
-      "last_name": "Moxon", 
-      "user_id": 128965, 
-      "submission": "Where you pledge to vote against the chained CPI when applied to Social Security, Medicare, Medicaid funding", 
-      "district": "IL_07", 
-      "created": "2013-08-10T14:59:39", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "IL", 
-      "iface": "timeline_question", 
-      "y": 41.899, 
-      "x": -87.6365, 
-      "latest_vote": null, 
-      "id": 16293753, 
       "trending_score": 0.5
     }
   ]

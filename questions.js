@@ -28358,15 +28358,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_02", 
       "created": "2013-08-04T14:21:20", 
       "state_votes": 135, 
-      "votes": 1009, 
+      "votes": 1010, 
       "district_votes": 35, 
       "state": "CO", 
       "iface": "question", 
       "y": 40.5342, 
       "x": -105.043, 
-      "latest_vote": "2013-08-10T15:07:06", 
+      "latest_vote": "2013-08-10T15:19:54", 
       "id": 16173921, 
-      "trending_score": 16.5
+      "trending_score": 17.5
     }, 
     {
       "city": "Fort Collins", 
@@ -28947,15 +28947,15 @@ opendebate.processFetchedQuestions({
       "district": "TN_02", 
       "created": "2013-08-04T02:07:32", 
       "state_votes": 140, 
-      "votes": 1132, 
+      "votes": 1133, 
       "district_votes": 32, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.8311, 
       "x": -84.0482, 
-      "latest_vote": "2013-08-10T15:06:23", 
+      "latest_vote": "2013-08-10T15:19:57", 
       "id": 16173335, 
-      "trending_score": 15.5
+      "trending_score": 16.5
     }, 
     {
       "city": "Evansville", 
@@ -29992,15 +29992,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T23:23:07", 
       "state_votes": 186, 
-      "votes": 1265, 
+      "votes": 1266, 
       "district_votes": 49, 
       "state": "MT", 
       "iface": "question", 
       "y": 48.2112, 
       "x": -114.294, 
-      "latest_vote": "2013-08-10T15:06:00", 
+      "latest_vote": "2013-08-10T15:19:43", 
       "id": 16172913, 
-      "trending_score": 18.5
+      "trending_score": 19.5
     }, 
     {
       "city": "Montegut", 
@@ -31056,15 +31056,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:33:11", 
       "state_votes": 267, 
-      "votes": 1736, 
+      "votes": 1737, 
       "district_votes": 73, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-10T15:04:43", 
+      "latest_vote": "2013-08-10T15:19:47", 
       "id": 16172266, 
-      "trending_score": 18.5
+      "trending_score": 19.5
     }, 
     {
       "city": "Cambridge", 
