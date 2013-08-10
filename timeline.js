@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Gainesville", 
+      "first_name": "Pat", 
+      "last_name": "Lucoff", 
+      "user_id": 541305, 
+      "submission": "What will you do to get congress to work on a jobs bill instead of wasting taxpayers money trying to repeal The Affordable Healthcare Act?", 
+      "district": "FL_03", 
+      "created": "2013-08-10T02:17:49", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 29.6023, 
+      "x": -82.3991, 
+      "id": 16290520, 
+      "question_id": "16203558"
+    }, 
+    {
       "city": "Mentor", 
       "first_name": "Susan", 
       "last_name": "Tercek", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -81.3565, 
       "id": 16290514, 
       "question_id": "16265543"
-    }, 
-    {
-      "city": "Gainesville", 
-      "first_name": "Pat", 
-      "last_name": "Lucoff", 
-      "user_id": 541305, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
-      "district": "FL_03", 
-      "created": "2013-08-10T02:16:57", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 29.6023, 
-      "x": -82.3991, 
-      "id": 16290513, 
-      "question_id": "16172913"
     }, 
     {
       "city": "New Port Richey", 
