@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Arlington", 
+      "first_name": "Marti", 
+      "last_name": "Cockrell", 
+      "user_id": 1770371, 
+      "submission": "What is your position on the Keystone XL pipeline and on fracking? Specifically what would you do to stop climate change and move to renewable energy?", 
+      "district": "TX_06", 
+      "created": "2013-08-10T13:45:28", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 32.69, 
+      "x": -97.1915, 
+      "id": 16292705, 
+      "question_id": "16207584"
+    }, 
+    {
       "city": "Decatur", 
       "first_name": "Judith Meldahl", 
       "last_name": "Meldahl", 
@@ -300,25 +315,6 @@ opendebate.processTimeline({
       "x": -115.077, 
       "latest_vote": null, 
       "id": 16292553, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Henderson", 
-      "first_name": "Nicholas", 
-      "last_name": "Martino", 
-      "user_id": 1810196, 
-      "submission": "More on the sad state of math and science in this country.  How many liters of cyanide would be needed to execute all 535 members of Congress once they are exposed as Fourth reich Nazi war criminals for their role in perpetuating the coverup of 9/11 and allowing thousands of other young men and women to be duped into enlisting on the basis of the false flag operation.  All told, close to 20,000 Americans have died horrible deaths due to nazi insanity.  Estimates of innocent deaths abroad are about 1 million.  You pices of Nazi filth should be tortured and then killed, but we'll settle for seeing every last one of you executed.", 
-      "district": "NV_03", 
-      "created": "2013-08-10T11:35:26", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "NV", 
-      "iface": "timeline_question", 
-      "y": 36.0401, 
-      "x": -115.077, 
-      "latest_vote": null, 
-      "id": 16292546, 
       "trending_score": 0.5
     }
   ]

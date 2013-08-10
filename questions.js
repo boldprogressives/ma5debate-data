@@ -14488,15 +14488,15 @@ opendebate.processFetchedQuestions({
       "district": "NY_10", 
       "created": "2013-08-06T22:13:05", 
       "state_votes": 23, 
-      "votes": 179, 
+      "votes": 180, 
       "district_votes": 9, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.7996, 
       "x": -73.9703, 
-      "latest_vote": "2013-08-10T04:07:04", 
+      "latest_vote": "2013-08-10T13:45:28", 
       "id": 16207584, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Westland", 
@@ -26876,15 +26876,15 @@ opendebate.processFetchedQuestions({
       "district": "WI_02", 
       "created": "2013-08-04T21:54:34", 
       "state_votes": 28, 
-      "votes": 253, 
+      "votes": 254, 
       "district_votes": 12, 
       "state": "WI", 
       "iface": "question", 
       "y": 42.9812, 
       "x": -89.7297, 
-      "latest_vote": "2013-08-10T07:16:10", 
+      "latest_vote": "2013-08-10T13:45:18", 
       "id": 16175078, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Iuka", 
