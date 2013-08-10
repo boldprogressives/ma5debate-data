@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Tim", 
       "last_name": "Sanders", 
       "user_id": 974978, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "submission": "Solar would bring in new jobs and the factorys built in this country you could even run street lights, stop and go lights i know it would help with the citys tax base, becouse i build solar heat exchangers for the low income folks and it works becouse my heating bills run 16.00 dollars a month 2 years ago last year 48 dollars a month why would not want that ?", 
       "district": "NV_02", 
-      "created": "2013-08-10T01:31:49", 
+      "created": "2013-08-10T01:33:01", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 39.7704, 
       "x": -119.617, 
-      "id": 16289699, 
-      "question_id": "16172281"
+      "id": 16289702, 
+      "question_id": "16172866"
     }, 
     {
       "city": "Cumming", 
