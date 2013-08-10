@@ -22886,15 +22886,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_07", 
       "created": "2013-08-06T12:32:01", 
       "state_votes": 29, 
-      "votes": 770, 
+      "votes": 771, 
       "district_votes": 9, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3818, 
       "x": -71.1032, 
-      "latest_vote": "2013-08-10T08:39:45", 
+      "latest_vote": "2013-08-10T12:41:05", 
       "id": 16180998, 
-      "trending_score": 1.25
+      "trending_score": 2.25
     }, 
     {
       "city": "Irvine", 

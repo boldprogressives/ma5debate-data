@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Katherine", 
       "last_name": "Fernandez", 
       "user_id": 333705, 
-      "submission": "How will you support the dignity and freedom of women to make medical decisions with their health care providers without interference of federal and state laws?", 
+      "submission": "Would you sponsor a constitutional amendment affirming that constitutional rights are for people, not corporations, and that Congress and the states can limit political spending in elections?", 
       "district": "TX_18", 
-      "created": "2013-08-10T12:41:01", 
+      "created": "2013-08-10T12:41:05", 
       "state": "TX", 
       "iface": "timeline_vote", 
       "y": 29.7963, 
       "x": -95.4172, 
-      "id": 16292601, 
-      "question_id": "16183415"
+      "id": 16292602, 
+      "question_id": "16180998"
     }, 
     {
       "city": "Millis", 
