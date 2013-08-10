@@ -6,30 +6,45 @@ opendebate.processTimeline({
       "first_name": "John", 
       "last_name": "Grady", 
       "user_id": 1742213, 
-      "submission": "Solar would bring in new jobs and the factorys built in this country you could even run street lights, stop and go lights i know it would help with the citys tax base, becouse i build solar heat exchangers for the low income folks and it works becouse my heating bills run 16.00 dollars a month 2 years ago last year 48 dollars a month why would not want that ?", 
+      "submission": "Do you support the legalization of marijuana (which should be taxed & regulated like alcohol or tobacco)? If so, would you allow the release of nonviolent offenders from prison?", 
       "district": "IN_07", 
-      "created": "2013-08-10T03:20:01", 
+      "created": "2013-08-10T03:20:52", 
       "state": "IN", 
       "iface": "timeline_vote", 
       "y": 39.8408, 
       "x": -86.2651, 
-      "id": 16290729, 
-      "question_id": "16172866"
+      "id": 16290734, 
+      "question_id": "16172722"
+    }, 
+    {
+      "city": "Berkeley Heights", 
+      "first_name": "K.", 
+      "last_name": "Searle", 
+      "user_id": 664536, 
+      "submission": "Will you sign on to Rep. Rush Holt's bill, or one similar to it, that protects American citizens from the Unconstitutional, blanket NSA spying of our government?", 
+      "district": "NJ_07", 
+      "created": "2013-08-10T03:20:52", 
+      "state": "NJ", 
+      "iface": "timeline_vote", 
+      "y": 40.679, 
+      "x": -74.4327, 
+      "id": 16290735, 
+      "question_id": "16243019"
     }, 
     {
       "city": "Loyalton", 
       "first_name": "Michael", 
       "last_name": "Moore", 
       "user_id": 1736586, 
-      "submission": "Will you protect the rights of all citizens by immediately reauthorizing the 1965 Voter Rights through up-dating section 3, 4, and 5 to include all states?", 
+      "submission": "Would you support ending ALL corporate welfare.The taxpayers should not have to finance our own destruction.Our tax's are used to ship jobs overseas, destroy small farms + business's, pollute our air + water, deny our children access to quality education, ect.", 
       "district": "CA_01", 
-      "created": "2013-08-10T03:19:55", 
+      "created": "2013-08-10T03:20:05", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 39.67, 
       "x": -120.237, 
-      "id": 16290728, 
-      "question_id": "16287162"
+      "id": 16290730, 
+      "question_id": "16217791"
     }, 
     {
       "city": "Akron", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -97.4759, 
       "id": 16290523, 
       "question_id": "16213330"
-    }, 
-    {
-      "city": "Manitowoc", 
-      "first_name": "R", 
-      "last_name": "Kubsh", 
-      "user_id": 1685265, 
-      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
-      "district": "WI_06", 
-      "created": "2013-08-10T02:19:31", 
-      "state": "WI", 
-      "iface": "timeline_vote", 
-      "y": 44.0957, 
-      "x": -87.7111, 
-      "id": 16290522, 
-      "question_id": "16173257"
     }
   ]
 });
