@@ -911,7 +911,7 @@ opendebate.processFetchedQuestions({
       "x": -70.9328, 
       "latest_vote": "2013-08-10T14:24:17", 
       "id": 16292560, 
-      "trending_score": 1.5
+      "trending_score": 0.5
     }, 
     {
       "city": "East Weymouth", 
@@ -17688,7 +17688,7 @@ opendebate.processFetchedQuestions({
       "x": -90.1234, 
       "latest_vote": "2013-08-10T15:54:28", 
       "id": 16197636, 
-      "trending_score": 2.25
+      "trending_score": 1.0
     }, 
     {
       "city": "Hampton", 
@@ -20462,7 +20462,7 @@ opendebate.processFetchedQuestions({
       "x": -80.1738, 
       "latest_vote": "2013-08-10T15:53:26", 
       "id": 16188015, 
-      "trending_score": 2.0
+      "trending_score": 1.8333333333333333
     }, 
     {
       "city": "Washington", 
@@ -25497,7 +25497,7 @@ opendebate.processFetchedQuestions({
       "x": -97.5184, 
       "latest_vote": "2013-08-10T14:28:04", 
       "id": 16176968, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Mondovi", 
