@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Would you be willing to propose and work for legislation that would give Congress the same retirement and health insurance benefits as the 99 percent?", 
+      "submission": "What specific results have you achieved as a legislator that prove: 1. your commitment to social and econ. justice; 2. protection of citizens from harm (name it); 3. sustainable econ./environ./edu?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:11:00", 
+      "created": "2013-08-10T04:11:30", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291131, 
-      "question_id": "16172583"
+      "id": 16291133, 
+      "question_id": "16287756"
     }, 
     {
       "city": "Beverly", 
