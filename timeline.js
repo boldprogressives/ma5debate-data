@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Belton", 
+      "first_name": "Rt Rev John T", 
+      "last_name": "Stone, D. D (Ret.)", 
+      "user_id": 1776973, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "SC_03", 
+      "created": "2013-08-10T14:13:58", 
+      "state": "SC", 
+      "iface": "timeline_vote", 
+      "y": 34.5172, 
+      "x": -82.5016, 
+      "id": 16293299, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "San Antonio", 
       "first_name": "Don", 
       "last_name": "Freidkin", 
       "user_id": 1694474, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
       "district": "TX_35", 
-      "created": "2013-08-10T14:13:03", 
+      "created": "2013-08-10T14:13:41", 
       "state": "TX", 
       "iface": "timeline_vote", 
       "y": 29.5013, 
       "x": -98.3977, 
-      "id": 16293296, 
-      "question_id": "16172777"
+      "id": 16293298, 
+      "question_id": "16172533"
     }, 
     {
       "city": "Muskego", 
@@ -297,21 +312,6 @@ opendebate.processTimeline({
       "x": -81.7638, 
       "id": 16292628, 
       "question_id": "16282376"
-    }, 
-    {
-      "city": "Midlothian", 
-      "first_name": "thomas", 
-      "last_name": "deceault", 
-      "user_id": 1730186, 
-      "submission": "what law changes over the last 30 or so years have been poorly understood or recognized by the American public .How have they put us in the current economic state of affairs ?Were they intended to have these social changes?", 
-      "district": "IL_01", 
-      "created": "2013-08-10T13:04:19", 
-      "state": "IL", 
-      "iface": "timeline_vote", 
-      "y": 41.6357, 
-      "x": -87.7386, 
-      "id": 16292625, 
-      "question_id": "16176660"
     }
   ]
 });
