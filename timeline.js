@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "New York", 
+      "first_name": "Madeline", 
+      "last_name": "Moch", 
+      "user_id": 1681741, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "NY_13", 
+      "created": "2013-08-10T14:33:58", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.8476, 
+      "x": -73.936, 
+      "id": 16293441, 
+      "question_id": "16173264"
+    }, 
+    {
+      "city": "Bloomington", 
+      "first_name": "Jim", 
+      "last_name": "Young", 
+      "user_id": 1770393, 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
+      "district": "CA_35", 
+      "created": "2013-08-10T14:33:54", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 34.0699, 
+      "x": -117.397, 
+      "id": 16293440, 
+      "question_id": "16172777"
+    }, 
+    {
+      "city": "Berkeley", 
+      "first_name": "Wini", 
+      "last_name": "Williams", 
+      "user_id": 91864, 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "district": "CA_13", 
+      "created": "2013-08-10T14:33:20", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 37.8666, 
+      "x": -122.282, 
+      "id": 16293436, 
+      "question_id": "16172913"
+    }, 
+    {
       "city": "North Bend", 
       "first_name": "Cheryl", 
       "last_name": "Meyer", 
@@ -267,51 +312,6 @@ opendebate.processTimeline({
       "x": -71.2368, 
       "id": 16293148, 
       "question_id": "16188015"
-    }, 
-    {
-      "city": "Copperopolis", 
-      "first_name": "Anthony", 
-      "last_name": "Pascual", 
-      "user_id": 1673880, 
-      "submission": "What do you see as the first steps to ensure food safety for all?", 
-      "district": "CA_04", 
-      "created": "2013-08-10T13:57:28", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 37.9578, 
-      "x": -120.638, 
-      "id": 16293015, 
-      "question_id": "16292560"
-    }, 
-    {
-      "city": "Metairie", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1810452, 
-      "submission": "Public education is being privatized all over the U.S., with even Obama supporting school \"reform\" which turns education over to private corporations. These companies get rid of experienced teachers, hire in kids just out of college, give them 5 weeks of \"training\" and then put them in schools at low wages. Our children are being short-changed, particularly those with learning problems - \"reform\" schools \"cook the books\" by denying places in schools to those with problems, then saying, \"look, scores up!\" Will you seriously take a hard look at school \"reform?\"", 
-      "district": "LA_01", 
-      "created": "2013-08-10T13:47:46", 
-      "state": "LA", 
-      "iface": "timeline_vote", 
-      "y": 29.9868, 
-      "x": -90.1663, 
-      "id": 16292714, 
-      "question_id": "16197636"
-    }, 
-    {
-      "city": "Arlington", 
-      "first_name": "Marti", 
-      "last_name": "Cockrell", 
-      "user_id": 1770371, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "TX_06", 
-      "created": "2013-08-10T13:47:31", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 32.69, 
-      "x": -97.1915, 
-      "id": 16292713, 
-      "question_id": "16172266"
     }
   ]
 });
