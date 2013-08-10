@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "El Prado", 
-      "first_name": "Sally", 
-      "last_name": "Phelps", 
-      "user_id": 1567108, 
-      "submission": "Do you support Net Neutrality? Will you push the FCC to make true Net Neutrality the law of the land?", 
-      "district": "NM_03", 
-      "created": "2013-08-10T01:19:03", 
-      "state": "NM", 
-      "iface": "timeline_vote", 
-      "y": 36.4486, 
-      "x": -105.575, 
-      "id": 16289577, 
-      "question_id": "16170212"
-    }, 
-    {
       "city": "Miami", 
       "first_name": "Judy", 
       "last_name": "Seagal", 
       "user_id": 132179, 
-      "submission": "Why is there not even ONE mention about possibly repealing the \"Patriot Act\", even though that one law has completely obliterated all of our civil rights that were guaranteed in the Constitution??? All USA laws have become invalid, especially for protecting against oppressive governmental organizations, by simply declaring ANYONE an \"Enemy Combatant\" with no real justification for that declaration. The Constitution was specifically created to design precautions against an oppressive government that already had gone too far (Britain). ", 
+      "submission": "The threat that hangs over the country today is a GOP determined to destroy the middle class and the values that define it.  What specific steps will you recommend to confront, not appease, the GOP?", 
       "district": "FL_23", 
-      "created": "2013-08-10T01:18:49", 
+      "created": "2013-08-10T01:20:01", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 25.9619, 
       "x": -80.1406, 
-      "id": 16289570, 
-      "question_id": "16176201"
+      "id": 16289589, 
+      "question_id": "16172694"
+    }, 
+    {
+      "city": "El Prado", 
+      "first_name": "Sally", 
+      "last_name": "Phelps", 
+      "user_id": 1567108, 
+      "submission": "What is your plan to help make college affordable for ALL?", 
+      "district": "NM_03", 
+      "created": "2013-08-10T01:19:49", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 36.4486, 
+      "x": -105.575, 
+      "id": 16289587, 
+      "question_id": "16243369"
     }, 
     {
       "city": "Gering", 
