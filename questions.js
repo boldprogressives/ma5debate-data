@@ -15229,15 +15229,15 @@ opendebate.processFetchedQuestions({
       "district": "MD_06", 
       "created": "2013-08-06T21:08:45", 
       "state_votes": 2, 
-      "votes": 7, 
+      "votes": 8, 
       "district_votes": 0, 
       "state": "MD", 
       "iface": "question", 
       "y": 39.1055, 
       "x": -77.2402, 
-      "latest_vote": "2013-08-08T23:52:53", 
+      "latest_vote": "2013-08-10T13:22:51", 
       "id": 16205617, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Granite Falls", 

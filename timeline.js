@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Gaithersburg", 
+      "first_name": "Arlene", 
+      "last_name": "Pater-Rov", 
+      "user_id": 1778721, 
+      "submission": "What are you doing to improve the Mental Health Treatment Program in Maryland?  The food in the mental health facilities should be fresh. ", 
+      "district": "MD_06", 
+      "created": "2013-08-10T13:22:51", 
+      "state": "MD", 
+      "iface": "timeline_vote", 
+      "y": 39.1055, 
+      "x": -77.2402, 
+      "id": 16292676, 
+      "question_id": "16205617"
+    }, 
+    {
       "city": "Waltham", 
       "first_name": "", 
       "last_name": "", 
@@ -309,25 +324,6 @@ opendebate.processTimeline({
       "x": -74.2919, 
       "id": 16292515, 
       "question_id": "16207107"
-    }, 
-    {
-      "city": "Henderson", 
-      "first_name": "Nicholas", 
-      "last_name": "Martino", 
-      "user_id": 1810196, 
-      "submission": "If a patriot hunts down and executes one of your \"colleagues\", a 4th Reich Nazi war criminal posing as a \"public official\" who has committed treason, aided and abetted terrorists, acted as a an accessory after the fact to mass murder on 9/11 by perpetuating the cover-up and in so doing put the lives of every young man and women who has been or might be duped into enlisting at grave risk, would you... (a) pin an iron cross on him and attend the state funeral, (b) find a safe place to hide in South America, or (c) rejoice as the free people of the country throw his worthless Nazi carcass into a pit of fire? ", 
-      "district": "NV_03", 
-      "created": "2013-08-10T10:58:10", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "NV", 
-      "iface": "timeline_question", 
-      "y": 36.0401, 
-      "x": -115.077, 
-      "latest_vote": null, 
-      "id": 16292495, 
-      "trending_score": 0.5
     }
   ]
 });
