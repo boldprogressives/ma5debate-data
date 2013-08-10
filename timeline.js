@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Monson", 
+      "first_name": "Kathleen", 
+      "last_name": "Conley", 
+      "user_id": 1809996, 
+      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
+      "district": "MA_01", 
+      "created": "2013-08-10T09:47:28", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.094, 
+      "x": -72.324, 
+      "id": 16292459, 
+      "question_id": "16172697"
+    }, 
+    {
       "city": "Henderson", 
       "first_name": "Nicholas", 
       "last_name": "Martino", 
@@ -329,21 +344,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16292168, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Rochester", 
-      "first_name": "Stephen", 
-      "last_name": "Bellomo", 
-      "user_id": 1772514, 
-      "submission": "Will you support a \"Clean Up Congress\" campaign to promote term limits and cease the eternal 'full pay' for lifetime after serving only one term?", 
-      "district": "NY_25", 
-      "created": "2013-08-10T06:24:16", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 43.1745, 
-      "x": -77.5598, 
-      "id": 16292147, 
-      "question_id": "16184803"
     }
   ]
 });

@@ -2298,7 +2298,7 @@ opendebate.processFetchedQuestions({
       "x": -123.327, 
       "latest_vote": "2013-08-10T04:47:33", 
       "id": 16269540, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Henderson", 
@@ -3457,7 +3457,7 @@ opendebate.processFetchedQuestions({
       "x": -123.05, 
       "latest_vote": "2013-08-10T03:47:53", 
       "id": 16255209, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "La Jolla", 
@@ -4711,7 +4711,7 @@ opendebate.processFetchedQuestions({
       "x": -80.8051, 
       "latest_vote": "2013-08-10T04:47:57", 
       "id": 16244527, 
-      "trending_score": 0.5
+      "trending_score": 0.16666666666666666
     }, 
     {
       "city": "Riverbank", 
@@ -8017,7 +8017,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1804, 
       "latest_vote": "2013-08-10T04:47:41", 
       "id": 16225266, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Quincy", 
@@ -8131,7 +8131,7 @@ opendebate.processFetchedQuestions({
       "x": -124.06, 
       "latest_vote": "2013-08-10T04:47:34", 
       "id": 16225191, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Peoria", 
@@ -15408,7 +15408,7 @@ opendebate.processFetchedQuestions({
       "x": -80.1743, 
       "latest_vote": "2013-08-10T05:45:38", 
       "id": 16204423, 
-      "trending_score": 1.0
+      "trending_score": 1.1666666666666667
     }, 
     {
       "city": "Peabody", 
@@ -16320,7 +16320,7 @@ opendebate.processFetchedQuestions({
       "x": -76.2257, 
       "latest_vote": "2013-08-10T04:14:47", 
       "id": 16200693, 
-      "trending_score": 0.16666666666666666
+      "trending_score": 0.25
     }, 
     {
       "city": "Charlotte", 
@@ -17574,7 +17574,7 @@ opendebate.processFetchedQuestions({
       "x": -74.4073, 
       "latest_vote": "2013-08-10T03:48:02", 
       "id": 16193888, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Baltimore", 
@@ -20519,7 +20519,7 @@ opendebate.processFetchedQuestions({
       "x": -108.465, 
       "latest_vote": "2013-08-10T08:40:05", 
       "id": 16185364, 
-      "trending_score": 2.5
+      "trending_score": 4.166666666666667
     }, 
     {
       "city": "Boca Raton", 
@@ -26105,7 +26105,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9643, 
       "latest_vote": "2013-08-10T05:50:47", 
       "id": 16175729, 
-      "trending_score": 2.25
+      "trending_score": 1.0
     }, 
     {
       "city": "Tucson", 
@@ -26333,7 +26333,7 @@ opendebate.processFetchedQuestions({
       "x": -122.304, 
       "latest_vote": "2013-08-10T05:17:51", 
       "id": 16175552, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Fort Atkinson", 
@@ -26713,7 +26713,7 @@ opendebate.processFetchedQuestions({
       "x": -89.7297, 
       "latest_vote": "2013-08-10T07:16:10", 
       "id": 16175078, 
-      "trending_score": 5.25
+      "trending_score": 2.5
     }, 
     {
       "city": "Iuka", 
@@ -26884,7 +26884,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7896, 
       "latest_vote": "2013-08-10T05:17:24", 
       "id": 16174887, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Arlington", 
@@ -29877,16 +29877,16 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
       "district": "ID_02", 
       "created": "2013-08-03T22:11:15", 
-      "state_votes": 99, 
-      "votes": 841, 
+      "state_votes": 100, 
+      "votes": 842, 
       "district_votes": 25, 
       "state": "ID", 
       "iface": "question", 
       "y": 43.6302, 
       "x": -116.297, 
-      "latest_vote": "2013-08-10T08:39:24", 
+      "latest_vote": "2013-08-10T09:47:28", 
       "id": 16172697, 
-      "trending_score": 5.25
+      "trending_score": 6.25
     }, 
     {
       "city": "Holts Summit", 
@@ -30589,7 +30589,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1035, 
       "latest_vote": "2013-08-10T08:39:53", 
       "id": 16172207, 
-      "trending_score": 1.8333333333333333
+      "trending_score": 3.125
     }, 
     {
       "city": "Arlington", 
