@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Denise", 
       "last_name": "Black", 
       "user_id": 61674, 
-      "submission": "why are the democrats so afraid to stand up to the republicans..? you stand up to a bully they usually back down.", 
+      "submission": "Why are companies-- like Walmart --allowed to pay low wages, while they make incredible profits and WE ALL get to subsidize their hard working emplyees with Food stamps? Anyone that works full time should not have to live on food stamps! ", 
       "district": "FL_22", 
-      "created": "2013-08-10T15:35:01", 
+      "created": "2013-08-10T15:35:53", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 26.5242, 
       "x": -80.1073, 
-      "id": 16294041, 
-      "question_id": "16172823"
+      "id": 16294051, 
+      "question_id": "16175634"
     }, 
     {
       "city": "Boynton Beach", 
       "first_name": "Ron", 
       "last_name": "Metcoff", 
       "user_id": 1680715, 
-      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "submission": "Will you support increasing the contribution level for Social Security (i.e., remove the salary cap and tax ALL income for FICA)?", 
       "district": "FL_21", 
-      "created": "2013-08-10T15:34:52", 
+      "created": "2013-08-10T15:35:28", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 26.5248, 
       "x": -80.1768, 
-      "id": 16294039, 
-      "question_id": "16172727"
+      "id": 16294047, 
+      "question_id": "16175740"
     }, 
     {
       "city": "Dayton", 

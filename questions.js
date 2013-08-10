@@ -21100,15 +21100,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-06T15:02:39", 
       "state_votes": 9, 
-      "votes": 473, 
+      "votes": 474, 
       "district_votes": 0, 
       "state": "MT", 
       "iface": "question", 
       "y": 45.8404, 
       "x": -108.465, 
-      "latest_vote": "2013-08-10T15:10:25", 
+      "latest_vote": "2013-08-10T15:35:13", 
       "id": 16185364, 
-      "trending_score": 3.5
+      "trending_score": 4.5
     }, 
     {
       "city": "Boca Raton", 
@@ -26667,15 +26667,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_08", 
       "created": "2013-08-05T01:44:45", 
       "state_votes": 98, 
-      "votes": 1067, 
+      "votes": 1068, 
       "district_votes": 34, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.174, 
       "x": -87.9643, 
-      "latest_vote": "2013-08-10T15:06:59", 
+      "latest_vote": "2013-08-10T15:35:28", 
       "id": 16175740, 
-      "trending_score": 12.5
+      "trending_score": 13.5
     }, 
     {
       "city": "Buffalo Grove", 
@@ -26800,15 +26800,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_12", 
       "created": "2013-08-05T01:05:31", 
       "state_votes": 55, 
-      "votes": 493, 
+      "votes": 494, 
       "district_votes": 11, 
       "state": "IL", 
       "iface": "question", 
       "y": 38.3176, 
       "x": -88.9093, 
-      "latest_vote": "2013-08-10T15:09:53", 
+      "latest_vote": "2013-08-10T15:35:53", 
       "id": 16175634, 
-      "trending_score": 3.5
+      "trending_score": 4.5
     }, 
     {
       "city": "Mount Vernon", 
@@ -26895,15 +26895,15 @@ opendebate.processFetchedQuestions({
       "district": "NE_03", 
       "created": "2013-08-05T00:36:55", 
       "state_votes": 19, 
-      "votes": 488, 
+      "votes": 489, 
       "district_votes": 4, 
       "state": "NE", 
       "iface": "question", 
       "y": 41.1313, 
       "x": -103.032, 
-      "latest_vote": "2013-08-10T15:10:14", 
+      "latest_vote": "2013-08-10T15:35:34", 
       "id": 16175570, 
-      "trending_score": 4.5
+      "trending_score": 5.5
     }, 
     {
       "city": "Mountlake Terrace", 
@@ -27180,15 +27180,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_01", 
       "created": "2013-08-04T22:24:13", 
       "state_votes": 41, 
-      "votes": 492, 
+      "votes": 493, 
       "district_votes": 10, 
       "state": "CO", 
       "iface": "question", 
       "y": 39.7285, 
       "x": -104.954, 
-      "latest_vote": "2013-08-10T14:41:12", 
+      "latest_vote": "2013-08-10T15:35:41", 
       "id": 16175230, 
-      "trending_score": 3.5
+      "trending_score": 4.5
     }, 
     {
       "city": "Seal Rock", 
@@ -29992,15 +29992,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T23:23:07", 
       "state_votes": 186, 
-      "votes": 1266, 
+      "votes": 1267, 
       "district_votes": 49, 
       "state": "MT", 
       "iface": "question", 
       "y": 48.2112, 
       "x": -114.294, 
-      "latest_vote": "2013-08-10T15:19:43", 
+      "latest_vote": "2013-08-10T15:35:10", 
       "id": 16172913, 
-      "trending_score": 19.5
+      "trending_score": 20.5
     }, 
     {
       "city": "Montegut", 
@@ -30733,15 +30733,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T21:18:50", 
       "state_votes": 56, 
-      "votes": 484, 
+      "votes": 485, 
       "district_votes": 10, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-10T15:10:21", 
+      "latest_vote": "2013-08-10T15:35:25", 
       "id": 16172583, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "ARLINGTON", 
