@@ -2,6 +2,25 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Henderson", 
+      "first_name": "Nicholas", 
+      "last_name": "Martino", 
+      "user_id": 1810196, 
+      "submission": "What are you going to do to improve math and science skills in this country. How many of you can answer this?  If one Ivy League educated rocket scientist who has been terrorized for 5 years by the NSA hunts down and executes one US Congressman, how many Nazi war criminals will be left in Washington?", 
+      "district": "NV_03", 
+      "created": "2013-08-10T09:07:48", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NV", 
+      "iface": "timeline_question", 
+      "y": 36.0401, 
+      "x": -115.077, 
+      "latest_vote": null, 
+      "id": 16292449, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Brooklyn", 
       "first_name": "Barbara", 
       "last_name": "Macek", 
@@ -317,21 +336,6 @@ opendebate.processTimeline({
       "x": -115.273, 
       "id": 16292034, 
       "question_id": "16172542"
-    }, 
-    {
-      "city": "Ukiah", 
-      "first_name": "Susan", 
-      "last_name": "Anderson", 
-      "user_id": 45283, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
-      "district": "CA_02", 
-      "created": "2013-08-10T05:54:58", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 39.1527, 
-      "x": -123.202, 
-      "id": 16292022, 
-      "question_id": "16172266"
     }
   ]
 });
