@@ -7325,15 +7325,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_01", 
       "created": "2013-08-08T17:46:44", 
       "state_votes": 1, 
-      "votes": 12, 
+      "votes": 13, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.5166, 
       "x": -122.859, 
-      "latest_vote": "2013-08-10T11:23:47", 
+      "latest_vote": "2013-08-10T14:02:33", 
       "id": 16228678, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Pleasant Hill", 
@@ -26382,15 +26382,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_12", 
       "created": "2013-08-05T01:05:31", 
       "state_votes": 55, 
-      "votes": 491, 
+      "votes": 492, 
       "district_votes": 11, 
       "state": "IL", 
       "iface": "question", 
       "y": 38.3176, 
       "x": -88.9093, 
-      "latest_vote": "2013-08-10T13:14:41", 
+      "latest_vote": "2013-08-10T14:02:24", 
       "id": 16175634, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Mount Vernon", 
@@ -26553,15 +26553,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_07", 
       "created": "2013-08-05T00:11:21", 
       "state_votes": 50, 
-      "votes": 389, 
+      "votes": 390, 
       "district_votes": 9, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.6327, 
       "x": -122.322, 
-      "latest_vote": "2013-08-10T12:52:07", 
+      "latest_vote": "2013-08-10T14:02:51", 
       "id": 16175493, 
-      "trending_score": 5.5
+      "trending_score": 6.5
     }, 
     {
       "city": "Seattle", 

@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Shelbyville", 
+      "first_name": "Gerald", 
+      "last_name": "Jesch", 
+      "user_id": 1077147, 
+      "submission": "Why is it that Halliburton only gets a $200K fine for destroying evidence concerning the Gulf oil spill when if you make a copy of a DVD you get a $250K fine and up to 5 years in prison?", 
+      "district": "TN_04", 
+      "created": "2013-08-10T14:02:51", 
+      "state": "TN", 
+      "iface": "timeline_vote", 
+      "y": 35.476, 
+      "x": -86.4672, 
+      "id": 16293251, 
+      "question_id": "16175493"
+    }, 
+    {
       "city": "Waltham", 
       "first_name": "", 
       "last_name": "", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -111.063, 
       "id": 16292576, 
       "question_id": "16247083"
-    }, 
-    {
-      "city": "Greenfield", 
-      "first_name": "Jacqueline", 
-      "last_name": "Young", 
-      "user_id": 1170659, 
-      "submission": "Do you support the concept of keeping church and state separate?", 
-      "district": "MA_02", 
-      "created": "2013-08-10T11:58:57", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.6029, 
-      "x": -72.5986, 
-      "id": 16292563, 
-      "question_id": "16173921"
     }
   ]
 });
