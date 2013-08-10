@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Why did the US (and few others) ignore the world during the Kyoto Protocols? What are we doing to stop the impending doom of climate disaster. NASA says we're dead at 350 ppm CO2 in the atmosphere 400", 
+      "submission": "Do you think Bradley Manning, Julian Assange and Edward Snowden are whistleblowers or enemies of the state?", 
       "district": "NM_03", 
-      "created": "2013-08-10T00:41:00", 
+      "created": "2013-08-10T00:41:46", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16289166, 
-      "question_id": "16213131"
+      "id": 16289171, 
+      "question_id": "16212352"
     }, 
     {
       "city": "Patterson", 
