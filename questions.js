@@ -2,6 +2,25 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Spokane", 
+      "first_name": "David", 
+      "last_name": "Lindsey", 
+      "user_id": 1563295, 
+      "submission": "Individuals and institutions are corrupting the democratic process through the power of money. What will you do to reduce the unprecedented influence of money in politics?", 
+      "district": "WA_05", 
+      "created": "2013-08-10T15:43:03", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WA", 
+      "iface": "question", 
+      "y": 47.6394, 
+      "x": -117.478, 
+      "latest_vote": null, 
+      "id": 16294100, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Indian Orchard", 
       "first_name": "Miguel", 
       "last_name": "Soto", 
@@ -27560,15 +27579,15 @@ opendebate.processFetchedQuestions({
       "district": "", 
       "created": "2013-08-04T21:00:43", 
       "state_votes": 0, 
-      "votes": 3, 
+      "votes": 4, 
       "district_votes": 0, 
       "state": "", 
       "iface": "question", 
       "y": 0.0, 
       "x": 0.0, 
-      "latest_vote": "2013-08-10T01:10:17", 
+      "latest_vote": "2013-08-10T15:42:34", 
       "id": 16174850, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Sachse", 
@@ -30201,15 +30220,15 @@ opendebate.processFetchedQuestions({
       "district": "", 
       "created": "2013-08-03T22:41:18", 
       "state_votes": 0, 
-      "votes": 2, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "", 
       "iface": "question", 
       "y": 0.0, 
       "x": 0.0, 
-      "latest_vote": "2013-08-04T14:59:34", 
+      "latest_vote": "2013-08-10T15:42:26", 
       "id": 16172804, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Sequim", 

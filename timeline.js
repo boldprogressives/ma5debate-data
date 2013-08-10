@@ -2,6 +2,40 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Spokane", 
+      "first_name": "David", 
+      "last_name": "Lindsey", 
+      "user_id": 1563295, 
+      "submission": "Individuals and institutions are corrupting the democratic process through the power of money. What will you do to reduce the unprecedented influence of money in politics?", 
+      "district": "WA_05", 
+      "created": "2013-08-10T15:43:03", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "WA", 
+      "iface": "timeline_question", 
+      "y": 47.6394, 
+      "x": -117.478, 
+      "latest_vote": null, 
+      "id": 16294100, 
+      "trending_score": 0.5
+    }, 
+    {
+      "city": "San Juan", 
+      "first_name": "Miguel", 
+      "last_name": "Gimenez", 
+      "user_id": 904119, 
+      "submission": "State your position on the Trans-Pacific-Partnership.", 
+      "district": "PR_01", 
+      "created": "2013-08-10T15:42:34", 
+      "state": "PR", 
+      "iface": "timeline_vote", 
+      "y": 18.3852, 
+      "x": -66.0631, 
+      "id": 16294098, 
+      "question_id": "16174850"
+    }, 
+    {
       "city": "Boynton Beach", 
       "first_name": "Denise", 
       "last_name": "Black", 
@@ -294,36 +328,6 @@ opendebate.processTimeline({
       "x": -73.9738, 
       "id": 16293779, 
       "question_id": "16172281"
-    }, 
-    {
-      "city": "Portland", 
-      "first_name": "Marc", 
-      "last_name": "Schluper", 
-      "user_id": 1691083, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
-      "district": "OR_01", 
-      "created": "2013-08-10T15:00:16", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 45.5409, 
-      "x": -122.83, 
-      "id": 16293764, 
-      "question_id": "16172913"
-    }, 
-    {
-      "city": "Hayward", 
-      "first_name": "pat", 
-      "last_name": "turney", 
-      "user_id": 481153, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "CA_15", 
-      "created": "2013-08-10T15:00:12", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 37.6572, 
-      "x": -122.041, 
-      "id": 16293762, 
-      "question_id": "16172777"
     }
   ]
 });
