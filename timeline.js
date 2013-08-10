@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Denise", 
       "last_name": "Black", 
       "user_id": 61674, 
-      "submission": "How do you propose stopping the GOPs continued assault on women's reproductive rights?", 
+      "submission": "What steps will you take to restore livable wages to the shredded middle class, and to restore our voting rights?", 
       "district": "FL_22", 
-      "created": "2013-08-10T15:38:56", 
+      "created": "2013-08-10T15:39:04", 
       "state": "FL", 
       "iface": "timeline_vote", 
       "y": 26.5242, 
       "x": -80.1073, 
-      "id": 16294084, 
-      "question_id": "16205884"
+      "id": 16294085, 
+      "question_id": "16172657"
     }, 
     {
       "city": "Indian Orchard", 

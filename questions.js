@@ -30676,15 +30676,15 @@ opendebate.processFetchedQuestions({
       "district": "MN_01", 
       "created": "2013-08-03T21:58:57", 
       "state_votes": 59, 
-      "votes": 351, 
+      "votes": 352, 
       "district_votes": 13, 
       "state": "MN", 
       "iface": "question", 
       "y": 43.6508, 
       "x": -93.3713, 
-      "latest_vote": "2013-08-10T14:40:00", 
+      "latest_vote": "2013-08-10T15:39:04", 
       "id": 16172657, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Midlothian", 
