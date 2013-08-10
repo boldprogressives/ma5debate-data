@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Barbara", 
       "last_name": "Macek", 
       "user_id": 1678230, 
-      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
+      "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
       "district": "NY_09", 
-      "created": "2013-08-10T08:39:53", 
+      "created": "2013-08-10T08:40:13", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 40.6497, 
       "x": -73.9377, 
-      "id": 16292443, 
-      "question_id": "16172207"
+      "id": 16292445, 
+      "question_id": "16175500"
     }, 
     {
       "city": "Los Angeles", 
