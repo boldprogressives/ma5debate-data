@@ -740,7 +740,7 @@ opendebate.processFetchedQuestions({
       "x": -122.633, 
       "latest_vote": "2013-08-10T15:03:38", 
       "id": 16293625, 
-      "trending_score": 1.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Portland", 
@@ -26941,7 +26941,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9643, 
       "latest_vote": "2013-08-10T18:16:33", 
       "id": 16175740, 
-      "trending_score": 2.5952380952380953
+      "trending_score": 2.416666666666667
     }, 
     {
       "city": "Buffalo Grove", 
@@ -28613,7 +28613,7 @@ opendebate.processFetchedQuestions({
       "x": -105.043, 
       "latest_vote": "2013-08-10T18:21:05", 
       "id": 16173921, 
-      "trending_score": 2.5833333333333335
+      "trending_score": 2.761904761904762
     }, 
     {
       "city": "Fort Collins", 
@@ -29487,7 +29487,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T18:16:47", 
       "id": 16173264, 
-      "trending_score": 2.025
+      "trending_score": 2.0555555555555554
     }, 
     {
       "city": "Prosper", 
@@ -30475,7 +30475,7 @@ opendebate.processFetchedQuestions({
       "x": -111.974, 
       "latest_vote": "2013-08-10T18:22:08", 
       "id": 16172777, 
-      "trending_score": 2.643939393939394
+      "trending_score": 2.6142857142857143
     }, 
     {
       "city": "Gladstone", 
@@ -30532,7 +30532,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5959, 
       "latest_vote": "2013-08-10T18:20:34", 
       "id": 16172755, 
-      "trending_score": 3.1517857142857144
+      "trending_score": 3.5
     }, 
     {
       "city": "Richardson", 
@@ -31159,7 +31159,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1582, 
       "latest_vote": "2013-08-10T18:20:28", 
       "id": 16172303, 
-      "trending_score": 2.24025974025974
+      "trending_score": 2.225
     }, 
     {
       "city": "Arlington", 
@@ -31235,7 +31235,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2368, 
       "latest_vote": "2013-08-10T18:17:25", 
       "id": 16172281, 
-      "trending_score": 1.6964285714285714
+      "trending_score": 1.7232142857142858
     }, 
     {
       "city": "Arlington", 
