@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Sandra", 
       "last_name": "Van Schaack", 
       "user_id": 553291, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
       "district": "NY_24", 
-      "created": "2013-08-10T01:36:57", 
+      "created": "2013-08-10T01:38:04", 
       "state": "NY", 
       "iface": "timeline_vote", 
       "y": 43.4515, 
       "x": -76.5017, 
-      "id": 16289719, 
-      "question_id": "16172266"
+      "id": 16289730, 
+      "question_id": "16172281"
     }, 
     {
       "city": "Reno", 
       "first_name": "Tim", 
       "last_name": "Sanders", 
       "user_id": 974978, 
-      "submission": "Will congress ever address a jobs/infrastructure bill?  We needs jobs, jobs training and massive infrastructure repair.  I am sick of the GOP obstruction.", 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
       "district": "NV_02", 
-      "created": "2013-08-10T01:36:11", 
+      "created": "2013-08-10T01:38:02", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 39.7704, 
       "x": -119.617, 
-      "id": 16289717, 
-      "question_id": "16256688"
+      "id": 16289728, 
+      "question_id": "16173259"
     }, 
     {
       "city": "Cumming", 
