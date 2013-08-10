@@ -15921,7 +15921,7 @@ opendebate.processFetchedQuestions({
       "x": -77.2402, 
       "latest_vote": "2013-08-10T13:22:51", 
       "id": 16205617, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Granite Falls", 
