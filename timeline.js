@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Steven", 
       "last_name": "Born", 
       "user_id": 1699500, 
-      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
+      "submission": "Why don't we change the lobbying rules so that we do not have a system that legalizes bribery, and why do we not reform the filibuster so congress does not have an excuse to continue doing nothing ?", 
       "district": "NV_03", 
-      "created": "2013-08-10T05:45:52", 
+      "created": "2013-08-10T05:47:01", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 36.1135, 
       "x": -115.273, 
-      "id": 16291969, 
-      "question_id": "16172697"
+      "id": 16291974, 
+      "question_id": "16174072"
     }, 
     {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "The Congress needs an overseer committee.  Either you work for the good of the country and ALL of it people or get out.  No work, no pay.  Question:  Are rt wing conservatives on a suicide mission?", 
+      "submission": "How can we have Democracy when corporations pay for political campaigns?", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:45:40", 
+      "created": "2013-08-10T05:46:47", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291968, 
-      "question_id": "16215494"
+      "id": 16291973, 
+      "question_id": "16215635"
     }, 
     {
       "city": "McMinnville", 
