@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Los Angeles", 
+      "first_name": "Ricki", 
+      "last_name": "Franklin", 
+      "user_id": 1703274, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "CA_37", 
+      "created": "2013-08-10T18:16:03", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 34.0677, 
+      "x": -118.351, 
+      "id": 16294872, 
+      "question_id": "16172266"
+    }, 
+    {
+      "city": "Pontotoc", 
+      "first_name": "WADIE", 
+      "last_name": "WALLACE", 
+      "user_id": 1682996, 
+      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
+      "district": "MS_01", 
+      "created": "2013-08-10T18:16:01", 
+      "state": "MS", 
+      "iface": "timeline_vote", 
+      "y": 34.2257, 
+      "x": -88.9745, 
+      "id": 16294871, 
+      "question_id": "16172727"
+    }, 
+    {
       "city": "Arcata", 
       "first_name": "Linda", 
       "last_name": "Bernard", 
@@ -282,44 +312,6 @@ opendebate.processTimeline({
       "x": -121.889, 
       "id": 16294482, 
       "question_id": "16172777"
-    }, 
-    {
-      "city": "Indian Orchard", 
-      "first_name": "Miguel", 
-      "last_name": "Soto", 
-      "user_id": 1716772, 
-      "submission": "Do you think that the rich should pay more taxes than the average working class and the poor?", 
-      "district": "MA_01", 
-      "created": "2013-08-10T16:31:46", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.151, 
-      "x": -72.5065, 
-      "latest_vote": null, 
-      "id": 16294407, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Indian Orchard", 
-      "first_name": "Miguel", 
-      "last_name": "Soto", 
-      "user_id": 1716772, 
-      "submission": "Do you think that blacks Latinos, Asians, Italians, Portuguese, and others have provided a great unified fabric of growth to the American purpose that is and always have been part of the economical impact that we have enjoyed for many years. Further the reason why we are the super power of the world because our uniqueness as a resolved democratic people of the Americas?", 
-      "district": "MA_01", 
-      "created": "2013-08-10T16:27:26", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.151, 
-      "x": -72.5065, 
-      "latest_vote": null, 
-      "id": 16294392, 
-      "trending_score": 0.5
     }
   ]
 });
