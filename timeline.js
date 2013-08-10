@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "El Prado", 
+      "first_name": "D'Lynn", 
+      "last_name": "McCarthy", 
+      "user_id": 594093, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "NM_03", 
+      "created": "2013-08-10T16:18:01", 
+      "state": "NM", 
+      "iface": "timeline_vote", 
+      "y": 36.4486, 
+      "x": -105.575, 
+      "id": 16294369, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "Minneapolis", 
       "first_name": "Jonathan", 
       "last_name": "Stark", 
@@ -313,21 +328,6 @@ opendebate.processTimeline({
       "x": -80.1768, 
       "id": 16294047, 
       "question_id": "16175740"
-    }, 
-    {
-      "city": "Arlington", 
-      "first_name": "Colleen", 
-      "last_name": "Kirby", 
-      "user_id": 188866, 
-      "submission": "Where do you all stand on the Immigration status for the dreamers and those families that are not violators of any law to be able to stay in America, and earn a citizenship, since they have been working and are part of every communities as we speak.", 
-      "district": "MA_05", 
-      "created": "2013-08-10T15:25:09", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.4207, 
-      "x": -71.1582, 
-      "id": 16293937, 
-      "question_id": "16293718"
     }
   ]
 });
