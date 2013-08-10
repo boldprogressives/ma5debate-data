@@ -2,19 +2,38 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Westwood", 
+      "first_name": "Tom", 
+      "last_name": "Bengaff", 
+      "user_id": 655514, 
+      "submission": "How do you feel about a 1% Wall Street tax yo fund infrastructure?", 
+      "district": "NJ_05", 
+      "created": "2013-08-10T16:03:58", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NJ", 
+      "iface": "timeline_question", 
+      "y": 41.0006, 
+      "x": -74.0315, 
+      "latest_vote": null, 
+      "id": 16294301, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Independence", 
       "first_name": "Margaret", 
       "last_name": "Goodwin", 
       "user_id": 1697661, 
-      "submission": "Will you support a bill requiring our goverment to repay ss the trillions of dollars that they have borrowed since 1934? ", 
+      "submission": "Will you support a Whistleblowers Act that will allow for transparency  in our Government and the NSA with immunity to prosecution?", 
       "district": "OR_05", 
-      "created": "2013-08-10T16:03:01", 
+      "created": "2013-08-10T16:03:54", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 44.8433, 
       "x": -123.186, 
-      "id": 16294297, 
-      "question_id": "16275298"
+      "id": 16294300, 
+      "question_id": "16203822"
     }, 
     {
       "city": "Lynbrook", 
@@ -309,25 +328,6 @@ opendebate.processTimeline({
       "x": -71.7731, 
       "id": 16293867, 
       "question_id": "16201159"
-    }, 
-    {
-      "city": "Indian Orchard", 
-      "first_name": "Miguel", 
-      "last_name": "Soto", 
-      "user_id": 1716772, 
-      "submission": "Will you all continue to fight for woman equality in your districts, and also involve them in representing in many departments that they are kept from representing because of their gender?", 
-      "district": "MA_01", 
-      "created": "2013-08-10T15:09:31", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.151, 
-      "x": -72.5065, 
-      "latest_vote": null, 
-      "id": 16293844, 
-      "trending_score": 0.5
     }
   ]
 });

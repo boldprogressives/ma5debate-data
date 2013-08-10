@@ -2,6 +2,25 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Westwood", 
+      "first_name": "Tom", 
+      "last_name": "Bengaff", 
+      "user_id": 655514, 
+      "submission": "How do you feel about a 1% Wall Street tax yo fund infrastructure?", 
+      "district": "NJ_05", 
+      "created": "2013-08-10T16:03:58", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "NJ", 
+      "iface": "question", 
+      "y": 41.0006, 
+      "x": -74.0315, 
+      "latest_vote": null, 
+      "id": 16294301, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Spokane", 
       "first_name": "David", 
       "last_name": "Lindsey", 
@@ -15723,15 +15742,15 @@ opendebate.processFetchedQuestions({
       "district": "NC_13", 
       "created": "2013-08-06T21:10:00", 
       "state_votes": 15, 
-      "votes": 196, 
+      "votes": 197, 
       "district_votes": 1, 
       "state": "NC", 
       "iface": "question", 
       "y": 35.8569, 
       "x": -78.6896, 
-      "latest_vote": "2013-08-10T15:15:59", 
+      "latest_vote": "2013-08-10T16:03:27", 
       "id": 16205646, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Gaithersburg", 
@@ -16179,15 +16198,15 @@ opendebate.processFetchedQuestions({
       "district": "NY_21", 
       "created": "2013-08-06T20:13:59", 
       "state_votes": 17, 
-      "votes": 214, 
+      "votes": 215, 
       "district_votes": 5, 
       "state": "NY", 
       "iface": "question", 
       "y": 43.9844, 
       "x": -75.9005, 
-      "latest_vote": "2013-08-10T14:41:12", 
+      "latest_vote": "2013-08-10T16:03:54", 
       "id": 16203822, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Tampa", 
