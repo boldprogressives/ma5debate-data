@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Wanda", 
       "last_name": "Seidle", 
       "user_id": 1689376, 
-      "submission": "Would you support ending ALL corporate welfare.The taxpayers should not have to finance our own destruction.Our tax's are used to ship jobs overseas, destroy small farms + business's, pollute our air + water, deny our children access to quality education, ect.", 
+      "submission": "What are your thoughts on how to stop corporate welfare, tax loopholes and subsidies.", 
       "district": "PA_02", 
-      "created": "2013-08-10T00:45:01", 
+      "created": "2013-08-10T00:45:59", 
       "state": "PA", 
       "iface": "timeline_vote", 
       "y": 39.9789, 
       "x": -75.2206, 
-      "id": 16289196, 
-      "question_id": "16217791"
+      "id": 16289213, 
+      "question_id": "16206470"
     }, 
     {
       "city": "El Prado", 
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "What is your view on implementing the Affordable Care Act?", 
+      "submission": "Would you support the public's right to have GMO's labeled as such?", 
       "district": "NM_03", 
-      "created": "2013-08-10T00:43:49", 
+      "created": "2013-08-10T00:45:59", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16289184, 
-      "question_id": "16207977"
+      "id": 16289214, 
+      "question_id": "16200693"
     }, 
     {
       "city": "", 
