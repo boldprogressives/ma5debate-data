@@ -27454,7 +27454,7 @@ opendebate.processFetchedQuestions({
       "x": -104.954, 
       "latest_vote": "2013-08-10T15:56:30", 
       "id": 16175230, 
-      "trending_score": 5.5
+      "trending_score": 3.0
     }, 
     {
       "city": "Seal Rock", 
@@ -29487,7 +29487,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T18:16:47", 
       "id": 16173264, 
-      "trending_score": 10.083333333333334
+      "trending_score": 7.75
     }, 
     {
       "city": "Prosper", 
@@ -30532,7 +30532,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5959, 
       "latest_vote": "2013-08-10T18:20:34", 
       "id": 16172755, 
-      "trending_score": 7.75
+      "trending_score": 7.4
     }, 
     {
       "city": "Richardson", 
