@@ -19284,7 +19284,7 @@ opendebate.processFetchedQuestions({
       "x": -82.5584, 
       "latest_vote": "2013-08-10T13:18:48", 
       "id": 16190891, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Eddington", 
