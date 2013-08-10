@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Will you work to reduce national security spending to the level of 2000?", 
+      "submission": "Do you believe that corporations are people as decided by the Supreme Court?", 
       "district": "NM_03", 
-      "created": "2013-08-10T01:16:08", 
+      "created": "2013-08-10T01:17:50", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16289552, 
-      "question_id": "16173216"
+      "id": 16289560, 
+      "question_id": "16172696"
+    }, 
+    {
+      "city": "Miami", 
+      "first_name": "Judy", 
+      "last_name": "Seagal", 
+      "user_id": 132179, 
+      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
+      "district": "FL_23", 
+      "created": "2013-08-10T01:17:48", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 25.9619, 
+      "x": -80.1406, 
+      "id": 16289559, 
+      "question_id": "16175637"
     }, 
     {
       "city": "Gering", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -113.668, 
       "id": 16289147, 
       "question_id": "16175570"
-    }, 
-    {
-      "city": "Pasadena", 
-      "first_name": "Linda", 
-      "last_name": "Hubbard", 
-      "user_id": 1809380, 
-      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
-      "district": "CA_27", 
-      "created": "2013-08-10T00:38:45", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 34.147, 
-      "x": -118.093, 
-      "id": 16289143, 
-      "question_id": "16172777"
     }
   ]
 });
