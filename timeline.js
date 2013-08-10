@@ -6,15 +6,34 @@ opendebate.processTimeline({
       "first_name": "Margaret", 
       "last_name": "Goodwin", 
       "user_id": 1697661, 
-      "submission": "How do you propose stopping the GOPs continued assault on women's reproductive rights?", 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
       "district": "OR_05", 
-      "created": "2013-08-10T15:49:00", 
+      "created": "2013-08-10T15:50:00", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 44.8433, 
       "x": -123.186, 
-      "id": 16294149, 
-      "question_id": "16205884"
+      "id": 16294161, 
+      "question_id": "16172303"
+    }, 
+    {
+      "city": "Indian Orchard", 
+      "first_name": "Miguel", 
+      "last_name": "Soto", 
+      "user_id": 1716772, 
+      "submission": "Will you tell the truth about the progress in America because the re-investment act put in place by the president. Furthermore, to keep construction workers working and not on the unemployment role.? Also, further reduce the unemployment system that is lower today because of this Administration doing something to keep the average American working and not at home getting an unemployment check, without working but repairing our roads and bridges when they need repaired and kept safe for all to travel on it?", 
+      "district": "MA_01", 
+      "created": "2013-08-10T15:49:50", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.151, 
+      "x": -72.5065, 
+      "latest_vote": null, 
+      "id": 16294158, 
+      "trending_score": 0.5
     }, 
     {
       "city": "Washington", 
@@ -313,21 +332,6 @@ opendebate.processTimeline({
       "x": -121.297, 
       "id": 16293797, 
       "question_id": "16185056"
-    }, 
-    {
-      "city": "San Diego", 
-      "first_name": "Jason", 
-      "last_name": "Folkman", 
-      "user_id": 1098338, 
-      "submission": "Climate change has many facets: CO2/CH4 emissions, permafrost melting, ocean warming/acidification, overpopulation, et al. Who among you has a plan to defeat this unprecedented hydra of challenges?", 
-      "district": "CA_53", 
-      "created": "2013-08-10T15:03:07", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 32.74, 
-      "x": -117.13, 
-      "id": 16293790, 
-      "question_id": "16201745"
     }
   ]
 });

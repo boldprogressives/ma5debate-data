@@ -2,6 +2,25 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Indian Orchard", 
+      "first_name": "Miguel", 
+      "last_name": "Soto", 
+      "user_id": 1716772, 
+      "submission": "Will you tell the truth about the progress in America because the re-investment act put in place by the president. Furthermore, to keep construction workers working and not on the unemployment role.? Also, further reduce the unemployment system that is lower today because of this Administration doing something to keep the average American working and not at home getting an unemployment check, without working but repairing our roads and bridges when they need repaired and kept safe for all to travel on it?", 
+      "district": "MA_01", 
+      "created": "2013-08-10T15:49:50", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.151, 
+      "x": -72.5065, 
+      "latest_vote": null, 
+      "id": 16294158, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Washington", 
       "first_name": "Jessie", 
       "last_name": "Hackes", 
@@ -16179,15 +16198,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_01", 
       "created": "2013-08-06T20:10:21", 
       "state_votes": 40, 
-      "votes": 446, 
+      "votes": 447, 
       "district_votes": 12, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.204, 
       "x": -72.6301, 
-      "latest_vote": "2013-08-10T14:39:07", 
+      "latest_vote": "2013-08-10T15:49:05", 
       "id": 16203676, 
-      "trending_score": 4.5
+      "trending_score": 5.5
     }, 
     {
       "city": "Gloucester", 
@@ -16426,15 +16445,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_12", 
       "created": "2013-08-06T19:37:02", 
       "state_votes": 74, 
-      "votes": 654, 
+      "votes": 655, 
       "district_votes": 26, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.7802, 
       "x": -122.459, 
-      "latest_vote": "2013-08-10T15:08:30", 
+      "latest_vote": "2013-08-10T15:49:22", 
       "id": 16202059, 
-      "trending_score": 4.5
+      "trending_score": 5.5
     }, 
     {
       "city": "Richfield", 
@@ -26724,15 +26743,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_08", 
       "created": "2013-08-05T01:44:45", 
       "state_votes": 98, 
-      "votes": 1068, 
+      "votes": 1069, 
       "district_votes": 34, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.174, 
       "x": -87.9643, 
-      "latest_vote": "2013-08-10T15:35:28", 
+      "latest_vote": "2013-08-10T15:49:50", 
       "id": 16175740, 
-      "trending_score": 13.5
+      "trending_score": 14.5
     }, 
     {
       "city": "Buffalo Grove", 
@@ -26857,15 +26876,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_12", 
       "created": "2013-08-05T01:05:31", 
       "state_votes": 55, 
-      "votes": 494, 
+      "votes": 495, 
       "district_votes": 11, 
       "state": "IL", 
       "iface": "question", 
       "y": 38.3176, 
       "x": -88.9093, 
-      "latest_vote": "2013-08-10T15:35:53", 
+      "latest_vote": "2013-08-10T15:49:34", 
       "id": 16175634, 
-      "trending_score": 4.5
+      "trending_score": 5.5
     }, 
     {
       "city": "Mount Vernon", 
@@ -27237,15 +27256,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_01", 
       "created": "2013-08-04T22:24:13", 
       "state_votes": 41, 
-      "votes": 493, 
+      "votes": 494, 
       "district_votes": 10, 
       "state": "CO", 
       "iface": "question", 
       "y": 39.7285, 
       "x": -104.954, 
-      "latest_vote": "2013-08-10T15:35:41", 
+      "latest_vote": "2013-08-10T15:49:16", 
       "id": 16175230, 
-      "trending_score": 4.5
+      "trending_score": 3.0
     }, 
     {
       "city": "Seal Rock", 
@@ -30049,15 +30068,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T23:23:07", 
       "state_votes": 186, 
-      "votes": 1267, 
+      "votes": 1268, 
       "district_votes": 49, 
       "state": "MT", 
       "iface": "question", 
       "y": 48.2112, 
       "x": -114.294, 
-      "latest_vote": "2013-08-10T15:35:10", 
+      "latest_vote": "2013-08-10T15:49:48", 
       "id": 16172913, 
-      "trending_score": 20.5
+      "trending_score": 21.5
     }, 
     {
       "city": "Montegut", 
@@ -30296,15 +30315,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_05", 
       "created": "2013-08-03T22:30:45", 
       "state_votes": 112, 
-      "votes": 813, 
+      "votes": 814, 
       "district_votes": 31, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.3898, 
       "x": -122.589, 
-      "latest_vote": "2013-08-10T15:33:50", 
+      "latest_vote": "2013-08-10T15:49:56", 
       "id": 16172765, 
-      "trending_score": 12.5
+      "trending_score": 13.5
     }, 
     {
       "city": "Egg Harbor", 
@@ -30980,15 +30999,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:52:54", 
       "state_votes": 179, 
-      "votes": 1149, 
+      "votes": 1150, 
       "district_votes": 49, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4207, 
       "x": -71.1582, 
-      "latest_vote": "2013-08-10T15:32:40", 
+      "latest_vote": "2013-08-10T15:50:00", 
       "id": 16172303, 
-      "trending_score": 12.0
+      "trending_score": 12.5
     }, 
     {
       "city": "Arlington", 
