@@ -2,6 +2,59 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Birmingham", 
+      "first_name": "Dot", 
+      "last_name": "Canup", 
+      "user_id": 1565077, 
+      "submission": "Will you be the first representative in congress to submit legislation to overturn the 2006 Postal accountability act which put an unfair burden on the uSPS, guaranteeing it would NEVER make a profit..?", 
+      "district": "AL_07", 
+      "created": "2013-08-10T05:36:58", 
+      "state": "AL", 
+      "iface": "timeline_vote", 
+      "y": 33.6391, 
+      "x": -86.6919, 
+      "id": 16291931, 
+      "question_id": "16261042"
+    }, 
+    {
+      "city": "Winchester", 
+      "first_name": "Jeff", 
+      "last_name": "Dearman", 
+      "user_id": 1810429, 
+      "submission": "What would you do to prvent a war with Iran?", 
+      "district": "MA_05", 
+      "created": "2013-08-10T05:36:25", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.4529, 
+      "x": -71.146, 
+      "latest_vote": null, 
+      "id": 16291928, 
+      "trending_score": 0.5
+    }, 
+    {
+      "city": "Winchester", 
+      "first_name": "Jeff", 
+      "last_name": "Dearman", 
+      "user_id": 1810429, 
+      "submission": "Funding for our national parks has been cut severely.. What would you do to help our national parks and the department of interior?", 
+      "district": "MA_05", 
+      "created": "2013-08-10T05:36:03", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.4529, 
+      "x": -71.146, 
+      "latest_vote": null, 
+      "id": 16291926, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Winchester", 
       "first_name": "Jeff", 
       "last_name": "Dearman", 
@@ -19,21 +72,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16291925, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Birmingham", 
-      "first_name": "Dot", 
-      "last_name": "Canup", 
-      "user_id": 1565077, 
-      "submission": "Do you support Unions and their work on behalf of  American workers ", 
-      "district": "AL_07", 
-      "created": "2013-08-10T05:34:57", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 33.6391, 
-      "x": -86.6919, 
-      "id": 16291924, 
-      "question_id": "16265573"
     }, 
     {
       "city": "Winchester", 
@@ -322,36 +360,6 @@ opendebate.processTimeline({
       "x": -120.333, 
       "id": 16291855, 
       "question_id": "16256688"
-    }, 
-    {
-      "city": "Arlington", 
-      "first_name": "william", 
-      "last_name": "pagan", 
-      "user_id": 1631843, 
-      "submission": "Re Gun Control:  Will you fight the NRA to achieve basic reforms that most Americans agree on?:* Some people should never own any type of weapon.* Some weapons should never be owned by anyone.* Background checks should be universal and enforced.* Basic defense of self and home requires only a simple rifle and/or pistol, not assault weapons.* The Second Amendment refers to a \"well-regulated militia\"; this clause cannot be ignored, everything that follows relates to that.  It does not mean that any and all Americans may own any and all forms of weaponry. Would you support an amendment to the U.S. Constitution clarifying the Second Amendment as suggested above?", 
-      "district": "TX_06", 
-      "created": "2013-08-10T04:56:30", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 32.7561, 
-      "x": -97.1358, 
-      "id": 16291770, 
-      "question_id": "16232223"
-    }, 
-    {
-      "city": "San Antonio", 
-      "first_name": "Damon", 
-      "last_name": "Mason", 
-      "user_id": 1783359, 
-      "submission": "What will you do to emulate Amtrak's Auto-Train interurban rail service ALL OVER the United States with the emphatic blessing of both Union Pacific and \u00bbBurlington Northern-Santa Fe\u00ab?", 
-      "district": "TX_20", 
-      "created": "2013-08-10T04:55:07", 
-      "state": "TX", 
-      "iface": "timeline_vote", 
-      "y": 29.4672, 
-      "x": -98.53, 
-      "id": 16291761, 
-      "question_id": "16178120"
     }
   ]
 });
