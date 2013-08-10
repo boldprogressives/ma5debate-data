@@ -2,6 +2,36 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Las Vegas", 
+      "first_name": "Steven", 
+      "last_name": "Born", 
+      "user_id": 1699500, 
+      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "district": "NV_03", 
+      "created": "2013-08-10T05:42:02", 
+      "state": "NV", 
+      "iface": "timeline_vote", 
+      "y": 36.1135, 
+      "x": -115.273, 
+      "id": 16291947, 
+      "question_id": "16173335"
+    }, 
+    {
+      "city": "McMinnville", 
+      "first_name": "Glenna", 
+      "last_name": "Green", 
+      "user_id": 775525, 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "district": "OR_01", 
+      "created": "2013-08-10T05:41:54", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 45.2096, 
+      "x": -123.218, 
+      "id": 16291946, 
+      "question_id": "16173259"
+    }, 
+    {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
@@ -334,40 +364,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16291896, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Winchester", 
-      "first_name": "Jeff", 
-      "last_name": "Dearman", 
-      "user_id": 1810429, 
-      "submission": "What is your position on expanding Alternative fuels and Alternative Energy to lessen America's dependence on Foreign Oil and Domestic Oil? ", 
-      "district": "MA_05", 
-      "created": "2013-08-10T05:27:05", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.4529, 
-      "x": -71.146, 
-      "latest_vote": null, 
-      "id": 16291892, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Stevens Point", 
-      "first_name": "Bruce Hall", 
-      "last_name": "1600 Brawley, Apt 4", 
-      "user_id": 1066307, 
-      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
-      "district": "WI_03", 
-      "created": "2013-08-10T05:20:17", 
-      "state": "WI", 
-      "iface": "timeline_vote", 
-      "y": 44.543, 
-      "x": -89.5645, 
-      "id": 16291861, 
-      "question_id": "16175637"
     }
   ]
 });
