@@ -29859,15 +29859,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_02", 
       "created": "2013-08-03T22:27:03", 
       "state_votes": 198, 
-      "votes": 1489, 
+      "votes": 1490, 
       "district_votes": 51, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.6267, 
       "x": -87.5959, 
-      "latest_vote": "2013-08-10T12:51:10", 
+      "latest_vote": "2013-08-10T13:01:10", 
       "id": 16172755, 
-      "trending_score": 6.5
+      "trending_score": 7.5
     }, 
     {
       "city": "Richardson", 

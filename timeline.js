@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Porter Ranch", 
+      "first_name": "Gertrude", 
+      "last_name": "Barden", 
+      "user_id": 287968, 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "district": "CA_25", 
+      "created": "2013-08-10T13:01:10", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 34.2766, 
+      "x": -118.544, 
+      "id": 16292622, 
+      "question_id": "16172755"
+    }, 
+    {
       "city": "Saint Petersburg", 
       "first_name": "JAN", 
       "last_name": "NORBERG", 
@@ -321,21 +336,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16292474, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "South San Francisco", 
-      "first_name": "Noelia", 
-      "last_name": "Corzo", 
-      "user_id": 1470770, 
-      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
-      "district": "CA_14", 
-      "created": "2013-08-10T10:23:46", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 37.6524, 
-      "x": -122.431, 
-      "id": 16292473, 
-      "question_id": "16172697"
     }
   ]
 });
