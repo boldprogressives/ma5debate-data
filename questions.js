@@ -7210,16 +7210,16 @@ opendebate.processFetchedQuestions({
       "submission": "what will you do to stop the right-wing attacks on women and their lawful right to control their own bodies?", 
       "district": "OR_01", 
       "created": "2013-08-08T17:46:44", 
-      "state_votes": 0, 
-      "votes": 11, 
+      "state_votes": 1, 
+      "votes": 12, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.5166, 
       "x": -122.859, 
-      "latest_vote": "2013-08-09T23:31:34", 
+      "latest_vote": "2013-08-10T11:23:47", 
       "id": 16228678, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Pleasant Hill", 
@@ -12387,7 +12387,7 @@ opendebate.processFetchedQuestions({
       "x": -122.447, 
       "latest_vote": "2013-08-10T05:23:59", 
       "id": 16213319, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Sutton", 
@@ -16624,7 +16624,7 @@ opendebate.processFetchedQuestions({
       "x": -75.3857, 
       "latest_vote": "2013-08-10T07:13:07", 
       "id": 16199756, 
-      "trending_score": 1.0
+      "trending_score": 1.1666666666666667
     }, 
     {
       "city": "Elizabethtown", 
@@ -18952,16 +18952,16 @@ opendebate.processFetchedQuestions({
       "submission": "What are you going to do about women's health.  Planned Parenthood is there for women that do not have the money for healthcare, please do something to save their lives.  It was there for my daughter when she was a dancer with no insurance.", 
       "district": "OH_07", 
       "created": "2013-08-06T16:06:43", 
-      "state_votes": 2, 
-      "votes": 15, 
+      "state_votes": 3, 
+      "votes": 16, 
       "district_votes": 0, 
       "state": "OH", 
       "iface": "question", 
       "y": 41.392, 
       "x": -82.0194, 
-      "latest_vote": "2013-08-09T23:59:55", 
+      "latest_vote": "2013-08-10T11:23:30", 
       "id": 16189993, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Brooklyn", 
@@ -21270,16 +21270,16 @@ opendebate.processFetchedQuestions({
       "submission": "How will you support women's dignity and agency in a political climate where rape and violence are excused or minimized by many politicians?", 
       "district": "DE_01", 
       "created": "2013-08-06T14:42:14", 
-      "state_votes": 1, 
-      "votes": 14, 
+      "state_votes": 2, 
+      "votes": 15, 
       "district_votes": 0, 
       "state": "DE", 
       "iface": "question", 
       "y": 39.6046, 
       "x": -75.7463, 
-      "latest_vote": "2013-08-10T00:58:52", 
+      "latest_vote": "2013-08-10T11:23:37", 
       "id": 16183730, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Vallejo", 
@@ -21469,7 +21469,7 @@ opendebate.processFetchedQuestions({
       "x": -75.7463, 
       "latest_vote": "2013-08-10T11:20:36", 
       "id": 16183415, 
-      "trending_score": 1.25
+      "trending_score": 2.1
     }, 
     {
       "city": "UNIO PIER", 
@@ -24405,16 +24405,16 @@ opendebate.processFetchedQuestions({
       "submission": "What will you do to stop the attack on women, & their health? Will you enforce equal pay?", 
       "district": "IL_08", 
       "created": "2013-08-05T16:05:13", 
-      "state_votes": 0, 
-      "votes": 11, 
+      "state_votes": 1, 
+      "votes": 12, 
       "district_votes": 0, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.0442, 
       "x": -88.1102, 
-      "latest_vote": "2013-08-10T00:04:29", 
+      "latest_vote": "2013-08-10T11:23:57", 
       "id": 16177906, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Sierra Vista", 
@@ -24737,7 +24737,7 @@ opendebate.processFetchedQuestions({
       "x": -122.017, 
       "latest_vote": "2013-08-10T06:23:44", 
       "id": 16176917, 
-      "trending_score": 0.5
+      "trending_score": 0.16666666666666666
     }, 
     {
       "city": "Sioux Falls", 
@@ -25117,7 +25117,7 @@ opendebate.processFetchedQuestions({
       "x": -110.829, 
       "latest_vote": "2013-08-10T06:23:56", 
       "id": 16176666, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Midlothian", 
@@ -25212,7 +25212,7 @@ opendebate.processFetchedQuestions({
       "x": -93.0963, 
       "latest_vote": "2013-08-10T06:23:28", 
       "id": 16176613, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Portland", 
@@ -25250,7 +25250,7 @@ opendebate.processFetchedQuestions({
       "x": -122.192, 
       "latest_vote": "2013-08-10T06:23:15", 
       "id": 16176565, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Kihei", 
@@ -26181,7 +26181,7 @@ opendebate.processFetchedQuestions({
       "x": -110.947, 
       "latest_vote": "2013-08-10T10:56:48", 
       "id": 16175691, 
-      "trending_score": 1.3333333333333333
+      "trending_score": 2.125
     }, 
     {
       "city": "Mount Vernon", 
@@ -27530,7 +27530,7 @@ opendebate.processFetchedQuestions({
       "x": -112.112, 
       "latest_vote": "2013-08-10T06:23:14", 
       "id": 16174323, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Phoenix", 
@@ -27663,7 +27663,7 @@ opendebate.processFetchedQuestions({
       "x": -93.3782, 
       "latest_vote": "2013-08-10T11:08:15", 
       "id": 16174163, 
-      "trending_score": 2.5
+      "trending_score": 3.25
     }, 
     {
       "city": "Syracuse", 
@@ -28879,7 +28879,7 @@ opendebate.processFetchedQuestions({
       "x": -87.6207, 
       "latest_vote": "2013-08-10T06:23:22", 
       "id": 16173222, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Tucson", 
@@ -30209,7 +30209,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T07:14:47", 
       "id": 16172583, 
-      "trending_score": 0.75
+      "trending_score": 1.1
     }, 
     {
       "city": "ARLINGTON", 

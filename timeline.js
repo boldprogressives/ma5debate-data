@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Carlotta", 
       "last_name": "Hayes", 
       "user_id": 1806880, 
-      "submission": "Women's reproduction rights have been eroded by the republican right wing, will you fight for women everywhere to keep their reproduction rights and for women to be treated with dignity and respect?", 
+      "submission": "What will you do to stop the attack on women, & their health? Will you enforce equal pay?", 
       "district": "MA_08", 
-      "created": "2013-08-10T11:22:48", 
+      "created": "2013-08-10T11:23:57", 
       "state": "MA", 
       "iface": "timeline_vote", 
       "y": 42.2138, 
       "x": -70.9328, 
-      "id": 16292529, 
-      "question_id": "16178792"
+      "id": 16292533, 
+      "question_id": "16177906"
     }, 
     {
       "city": "West Shokan", 
