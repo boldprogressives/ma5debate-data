@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "why are corporations allowed to split, then one \"new\" corp makes money while the other half controls pensions and then steals workers pensions by claiming bankrupcy--all the while making huge profits and workers get yet screwed again. Why can't this practice be stopped - look at Detroit.", 
+      "submission": "What can you do to stop the redefining of facts by Republicans?  They use false definitions to make points.  Democrats often sit there with gaping mouths.", 
       "district": "AL_07", 
-      "created": "2013-08-10T06:15:57", 
+      "created": "2013-08-10T06:16:48", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16292097, 
-      "question_id": "16184415"
+      "id": 16292101, 
+      "question_id": "16181904"
     }, 
     {
       "city": "Phoenix", 
       "first_name": "Lynne", 
       "last_name": "Vestal", 
       "user_id": 1121128, 
-      "submission": "Would you favor a law excluding unlimited contributions in political campaigns from groups such as Citizens United?", 
+      "submission": "Will you work to remove the billions of dollars of subsidies and incentives currently going to the fossil fuel industry \u2013 the most profitable industry in the world? ", 
       "district": "AZ_09", 
-      "created": "2013-08-10T06:15:57", 
+      "created": "2013-08-10T06:16:43", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 33.559, 
       "x": -112.089, 
-      "id": 16292098, 
-      "question_id": "16173913"
+      "id": 16292100, 
+      "question_id": "16226967"
     }, 
     {
       "city": "Santa Barbara", 
