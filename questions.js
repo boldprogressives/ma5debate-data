@@ -12550,15 +12550,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_10", 
       "created": "2013-08-07T04:04:13", 
       "state_votes": 2, 
-      "votes": 18, 
+      "votes": 19, 
       "district_votes": 1, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.1507, 
       "x": -122.447, 
-      "latest_vote": "2013-08-10T05:23:59", 
+      "latest_vote": "2013-08-10T14:19:33", 
       "id": 16213319, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Sutton", 
@@ -26591,15 +26591,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_25", 
       "created": "2013-08-05T00:22:27", 
       "state_votes": 61, 
-      "votes": 470, 
+      "votes": 471, 
       "district_votes": 17, 
       "state": "FL", 
       "iface": "question", 
       "y": 25.99, 
       "x": -81.5334, 
-      "latest_vote": "2013-08-10T12:40:36", 
+      "latest_vote": "2013-08-10T14:19:09", 
       "id": 16175500, 
-      "trending_score": 1.25
+      "trending_score": 2.25
     }, 
     {
       "city": "Seattle", 
@@ -29867,7 +29867,7 @@ opendebate.processFetchedQuestions({
       "x": -111.974, 
       "latest_vote": "2013-08-10T14:13:03", 
       "id": 16172777, 
-      "trending_score": 6.166666666666667
+      "trending_score": 6.25
     }, 
     {
       "city": "Gladstone", 
