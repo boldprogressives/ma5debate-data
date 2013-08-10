@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Houston", 
+      "first_name": "Katherine", 
+      "last_name": "Fernandez", 
+      "user_id": 333705, 
+      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "district": "TX_18", 
+      "created": "2013-08-10T12:38:06", 
+      "state": "TX", 
+      "iface": "timeline_vote", 
+      "y": 29.7963, 
+      "x": -95.4172, 
+      "id": 16292585, 
+      "question_id": "16173264"
+    }, 
+    {
       "city": "Millis", 
       "first_name": "Carol", 
       "last_name": "Coakley", 
@@ -324,25 +339,6 @@ opendebate.processTimeline({
       "x": -115.077, 
       "latest_vote": null, 
       "id": 16292454, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Henderson", 
-      "first_name": "Nicholas", 
-      "last_name": "Martino", 
-      "user_id": 1810196, 
-      "submission": "The answer to that question is, who knows and who cares, but one less Nazi war criminal walking around pretending to be a patriotic American is a start.  We have to start somewhere, and it appears that I'm the only one willing.  ", 
-      "district": "NV_03", 
-      "created": "2013-08-10T09:19:16", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "NV", 
-      "iface": "timeline_question", 
-      "y": 36.0401, 
-      "x": -115.077, 
-      "latest_vote": null, 
-      "id": 16292451, 
       "trending_score": 0.5
     }
   ]
