@@ -14002,7 +14002,7 @@ opendebate.processFetchedQuestions({
       "x": -121.081, 
       "latest_vote": "2013-08-10T06:25:03", 
       "id": 16208291, 
-      "trending_score": 3.5
+      "trending_score": 2.0
     }, 
     {
       "city": "Olympia", 
@@ -26447,7 +26447,7 @@ opendebate.processFetchedQuestions({
       "x": -104.954, 
       "latest_vote": "2013-08-10T04:01:02", 
       "id": 16175230, 
-      "trending_score": 1.4
+      "trending_score": 1.225
     }, 
     {
       "city": "Seal Rock", 
@@ -28005,7 +28005,7 @@ opendebate.processFetchedQuestions({
       "x": -123.188, 
       "latest_vote": "2013-08-10T03:26:05", 
       "id": 16173418, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Eugene", 
@@ -28309,7 +28309,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9488, 
       "latest_vote": "2013-08-10T06:12:59", 
       "id": 16173320, 
-      "trending_score": 2.25
+      "trending_score": 2.3333333333333335
     }, 
     {
       "city": "Bensenville", 
@@ -29259,7 +29259,7 @@ opendebate.processFetchedQuestions({
       "x": -114.294, 
       "latest_vote": "2013-08-10T05:52:56", 
       "id": 16172913, 
-      "trending_score": 2.425
+      "trending_score": 2.6333333333333333
     }, 
     {
       "city": "Montegut", 
@@ -29658,7 +29658,7 @@ opendebate.processFetchedQuestions({
       "x": -96.7109, 
       "latest_vote": "2013-08-10T07:18:17", 
       "id": 16172722, 
-      "trending_score": 11.25
+      "trending_score": 5.5
     }, 
     {
       "city": "Albuquerque", 
@@ -30000,7 +30000,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T07:14:47", 
       "id": 16172583, 
-      "trending_score": 4.2
+      "trending_score": 4.25
     }, 
     {
       "city": "ARLINGTON", 
@@ -30133,7 +30133,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T07:17:42", 
       "id": 16172533, 
-      "trending_score": 2.25
+      "trending_score": 2.4166666666666665
     }, 
     {
       "city": "Medford", 
