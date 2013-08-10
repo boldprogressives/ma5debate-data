@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Akron", 
+      "first_name": "V J", 
+      "last_name": "Armstrong", 
+      "user_id": 792108, 
+      "submission": "Would you support a ban on Congresspersons accepting jobs as corporate lobbyists for at least ten years after leaving Congress?", 
+      "district": "OH_11", 
+      "created": "2013-08-10T03:14:43", 
+      "state": "OH", 
+      "iface": "timeline_vote", 
+      "y": 41.0995, 
+      "x": -81.5145, 
+      "id": 16290704, 
+      "question_id": "16178177"
+    }, 
+    {
       "city": "St  Peters", 
       "first_name": "Don", 
       "last_name": "Webb", 
@@ -19,21 +34,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16290698, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Akron", 
-      "first_name": "V J", 
-      "last_name": "Armstrong", 
-      "user_id": 792108, 
-      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
-      "district": "OH_11", 
-      "created": "2013-08-10T03:13:04", 
-      "state": "OH", 
-      "iface": "timeline_vote", 
-      "y": 41.0995, 
-      "x": -81.5145, 
-      "id": 16290696, 
-      "question_id": "16172281"
     }, 
     {
       "city": "Bisbee", 
