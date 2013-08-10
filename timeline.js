@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "WHERE DO YOU STAND IN THE FIGHT TO PRESERVE THE SS COLA AS IS AND EXPAND AND GROW SS AS TH HARKIN MEREKLEY PROPOSE", 
+      "submission": "How will Social Security & Medicare be strengthened with additional benefits for Senior Citizens?", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:03:55", 
+      "created": "2013-08-10T05:04:45", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291784, 
-      "question_id": "16191242"
+      "id": 16291787, 
+      "question_id": "16188015"
     }, 
     {
       "city": "Arlington", 
