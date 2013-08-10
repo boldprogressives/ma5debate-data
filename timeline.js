@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Cheryl", 
       "last_name": "Meyer", 
       "user_id": 795081, 
-      "submission": "Will you introduce legislation or a rules change -- whichever it takes -- that will mean Congress and their families must be subject to the same laws it passes for other citizens?  If not, why not?", 
+      "submission": "Will you vote for Elizabeth Warren's 21st Century Glass Steagall act if the bill is introduced in the House? If not, how would you end 'too big to fail?'", 
       "district": "WA_08", 
-      "created": "2013-08-10T14:25:25", 
+      "created": "2013-08-10T14:26:46", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 47.4752, 
       "x": -121.757, 
-      "id": 16293386, 
-      "question_id": "16244527"
+      "id": 16293391, 
+      "question_id": "16203676"
     }, 
     {
       "city": "Las Cruces", 
