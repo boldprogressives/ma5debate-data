@@ -27275,15 +27275,15 @@ opendebate.processFetchedQuestions({
       "district": "WI_02", 
       "created": "2013-08-04T21:54:34", 
       "state_votes": 28, 
-      "votes": 255, 
+      "votes": 256, 
       "district_votes": 12, 
       "state": "WI", 
       "iface": "question", 
       "y": 42.9812, 
       "x": -89.7297, 
-      "latest_vote": "2013-08-10T14:29:31", 
+      "latest_vote": "2013-08-10T15:14:40", 
       "id": 16175078, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Iuka", 

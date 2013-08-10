@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Colleen", 
       "last_name": "Sattelmaier", 
       "user_id": 1691702, 
-      "submission": "It is time we stop rewarding companies that outsource American jobs.  Would you propose a new tax on these companies, an import tax on products produced by these companies or some other form of incentive to keep jobs in this country?  Please be specific.", 
+      "submission": "Climate change is moving us towards a planet that may not support human life.  Will you make addressing climate change one of your highest priorities?", 
       "district": "OH_14", 
-      "created": "2013-08-10T15:13:53", 
+      "created": "2013-08-10T15:14:40", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 41.5975, 
       "x": -81.0504, 
-      "id": 16293872, 
-      "question_id": "16175276"
+      "id": 16293878, 
+      "question_id": "16175078"
     }, 
     {
       "city": "Worcester", 
