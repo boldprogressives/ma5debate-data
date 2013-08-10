@@ -30475,7 +30475,7 @@ opendebate.processFetchedQuestions({
       "x": -111.974, 
       "latest_vote": "2013-08-10T18:22:08", 
       "id": 16172777, 
-      "trending_score": 2.0357142857142856
+      "trending_score": 1.5571428571428572
     }, 
     {
       "city": "Gladstone", 
@@ -31292,7 +31292,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T18:21:10", 
       "id": 16172266, 
-      "trending_score": 2.157142857142857
+      "trending_score": 1.7619047619047619
     }, 
     {
       "city": "Cambridge", 
