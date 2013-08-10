@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "D'Lynn", 
       "last_name": "McCarthy", 
       "user_id": 594093, 
-      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
       "district": "NM_03", 
-      "created": "2013-08-10T16:18:01", 
+      "created": "2013-08-10T16:18:38", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16294369, 
-      "question_id": "16172266"
+      "id": 16294370, 
+      "question_id": "16173259"
     }, 
     {
       "city": "Minneapolis", 
