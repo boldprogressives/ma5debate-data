@@ -2,34 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "freeport", 
-      "first_name": "dave", 
-      "last_name": "keene", 
-      "user_id": 281083, 
-      "submission": "Why is the U.S. Congress,year after year,taking funds out of the Social Security fund.This is not legal,yet the U.S. Congress Continues this practice.Why ? Martin Boroian", 
-      "district": "NY_04", 
-      "created": "2013-08-10T01:06:02", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.652, 
-      "x": -73.5882, 
-      "id": 16289437, 
-      "question_id": "16201488"
-    }, 
-    {
       "city": "El Prado", 
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Would you support the KEYSTONE PIPE LINE when its been proven to tint the watter supply - deer and cows are dyeing off from frack sand oil and you know that gas prices will not go back to 1.50 a gal and the oil will be sent to the gulf put on ships and sold over seas to the hi bidder and wall street has there hand on the till ?", 
+      "submission": "What will you do to make medical costs more transparent and affordable as well as reduce the profits to corporate America?", 
       "district": "NM_03", 
-      "created": "2013-08-10T01:05:34", 
+      "created": "2013-08-10T01:06:44", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16289435, 
-      "question_id": "16178618"
+      "id": 16289445, 
+      "question_id": "16177499"
+    }, 
+    {
+      "city": "freeport", 
+      "first_name": "dave", 
+      "last_name": "keene", 
+      "user_id": 281083, 
+      "submission": "How should the federal government address the unfolding environmental catastrophe of anthropogenic (ie. 'man-made') climate change?  How would your election help us to make progress on this issue?", 
+      "district": "NY_04", 
+      "created": "2013-08-10T01:06:43", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.652, 
+      "x": -73.5882, 
+      "id": 16289444, 
+      "question_id": "16215420"
+    }, 
+    {
+      "city": "Cambridge", 
+      "first_name": "Sam", 
+      "last_name": "Geller", 
+      "user_id": 1808953, 
+      "submission": "Will you support immigration reform with a path to citizenship ?", 
+      "district": "MA_07", 
+      "created": "2013-08-10T01:06:09", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3683, 
+      "x": -71.0824, 
+      "id": 16289440, 
+      "question_id": "16172648"
     }, 
     {
       "city": "Natick", 
@@ -293,21 +308,6 @@ opendebate.processTimeline({
       "x": -90.1663, 
       "id": 16288966, 
       "question_id": "16197636"
-    }, 
-    {
-      "city": "New York", 
-      "first_name": "Katie", 
-      "last_name": "Kingston", 
-      "user_id": 656169, 
-      "submission": "What are you doing to ensure that all residents have access to a living wage and to help create jobs for those still looking for work, five years after the Great Recession and the weak recovery?", 
-      "district": "NY_12", 
-      "created": "2013-08-10T00:26:44", 
-      "state": "NY", 
-      "iface": "timeline_vote", 
-      "y": 40.7246, 
-      "x": -73.9803, 
-      "id": 16288952, 
-      "question_id": "16201159"
     }
   ]
 });
