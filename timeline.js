@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Boston", 
+      "first_name": "Aimee", 
+      "last_name": "Coolidge", 
+      "user_id": 1657685, 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "district": "MA_07", 
+      "created": "2013-08-10T14:04:40", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.337, 
+      "x": -71.0638, 
+      "id": 16293259, 
+      "question_id": "16172303"
+    }, 
+    {
       "city": "Shelbyville", 
       "first_name": "Gerald", 
       "last_name": "Jesch", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -118.516, 
       "id": 16292578, 
       "question_id": "16172777"
-    }, 
-    {
-      "city": "Tucson", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1810442, 
-      "submission": "Will you actively advocate, & educate the public re the only way to provide total coverage health care for every American while saving $400 Billion/yr.... a Single Payer Health Care System (HR-676) also known as Improved Expanded Medicare for All?", 
-      "district": "AZ_03", 
-      "created": "2013-08-10T12:30:40", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 32.1914, 
-      "x": -111.063, 
-      "id": 16292576, 
-      "question_id": "16247083"
     }
   ]
 });
