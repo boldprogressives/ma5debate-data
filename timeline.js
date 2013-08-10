@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Arthur", 
       "last_name": "Clark", 
       "user_id": 832652, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "submission": "Where do you stand on overturning Citizens United with a Constitutional Amendment such as the one proposed by MoveToAmend.org", 
       "district": "OK_05", 
-      "created": "2013-08-10T18:22:03", 
+      "created": "2013-08-10T18:22:08", 
       "state": "OK", 
       "iface": "timeline_vote", 
       "y": 35.545, 
       "x": -97.6353, 
-      "id": 16294926, 
-      "question_id": "16172533"
+      "id": 16294927, 
+      "question_id": "16172777"
     }, 
     {
       "city": "Santa Paula", 
