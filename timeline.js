@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Lynne", 
       "last_name": "Vestal", 
       "user_id": 1121128, 
-      "submission": "Will you propose returning to REPUBLICAN top tax rates for the ultra-rich to reduce our deficit - either Eisenhower's 91% or Nixon's 70% - since neither of these created a depression or recession?", 
+      "submission": "Are you now a member of ALEC, or plan on joining ALEC.", 
       "district": "AZ_09", 
-      "created": "2013-08-10T06:36:28", 
+      "created": "2013-08-10T06:37:35", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 33.559, 
       "x": -112.089, 
-      "id": 16292188, 
-      "question_id": "16177435"
+      "id": 16292190, 
+      "question_id": "16204636"
     }, 
     {
       "city": "Birmingham", 
