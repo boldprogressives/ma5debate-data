@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Margaret", 
       "last_name": "Goodwin", 
       "user_id": 1697661, 
-      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
+      "submission": "Why are BANKERS not prosecuted for their wrongdoings?", 
       "district": "OR_05", 
-      "created": "2013-08-10T15:50:55", 
+      "created": "2013-08-10T15:52:01", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 44.8433, 
       "x": -123.186, 
-      "id": 16294171, 
-      "question_id": "16172690"
+      "id": 16294182, 
+      "question_id": "16172727"
     }, 
     {
       "city": "Spokane", 
