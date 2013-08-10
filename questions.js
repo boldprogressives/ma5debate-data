@@ -18144,7 +18144,7 @@ opendebate.processFetchedQuestions({
       "x": -122.431, 
       "latest_vote": "2013-08-10T17:48:35", 
       "id": 16194500, 
-      "trending_score": 1.5
+      "trending_score": 1.25
     }, 
     {
       "city": "Provincetown", 
