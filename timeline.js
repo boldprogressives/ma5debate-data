@@ -2,6 +2,51 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Wilmington", 
+      "first_name": "BETTY", 
+      "last_name": "DUFF", 
+      "user_id": 1577224, 
+      "submission": "Would you be willing to vote for a Constitutional Amendment to define corporations as not being a legal person and therefore entitled to no Constitutional rights nor any privileges under the law?  ", 
+      "district": "DE_01", 
+      "created": "2013-08-10T14:36:52", 
+      "state": "DE", 
+      "iface": "timeline_vote", 
+      "y": 39.8206, 
+      "x": -75.5081, 
+      "id": 16293496, 
+      "question_id": "16172755"
+    }, 
+    {
+      "city": "Great Neck", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1768827, 
+      "submission": "Will you pledge to uphold the Affordable Care Act and help states implement it -- not defund it?", 
+      "district": "NY_03", 
+      "created": "2013-08-10T14:36:29", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 40.7867, 
+      "x": -73.7258, 
+      "id": 16293490, 
+      "question_id": "16181276"
+    }, 
+    {
+      "city": "Chicago", 
+      "first_name": "Peter", 
+      "last_name": "Moxon", 
+      "user_id": 128965, 
+      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
+      "district": "IL_07", 
+      "created": "2013-08-10T14:36:21", 
+      "state": "IL", 
+      "iface": "timeline_vote", 
+      "y": 41.899, 
+      "x": -87.6365, 
+      "id": 16293489, 
+      "question_id": "16172913"
+    }, 
+    {
       "city": "New York", 
       "first_name": "Madeline", 
       "last_name": "Moch", 
@@ -30,36 +75,6 @@ opendebate.processTimeline({
       "x": -121.757, 
       "id": 16293479, 
       "question_id": "16175276"
-    }, 
-    {
-      "city": "Wilmington", 
-      "first_name": "BETTY", 
-      "last_name": "DUFF", 
-      "user_id": 1577224, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
-      "district": "DE_01", 
-      "created": "2013-08-10T14:35:47", 
-      "state": "DE", 
-      "iface": "timeline_vote", 
-      "y": 39.8206, 
-      "x": -75.5081, 
-      "id": 16293477, 
-      "question_id": "16172533"
-    }, 
-    {
-      "city": "Chicago", 
-      "first_name": "Peter", 
-      "last_name": "Moxon", 
-      "user_id": 128965, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
-      "district": "IL_07", 
-      "created": "2013-08-10T14:35:43", 
-      "state": "IL", 
-      "iface": "timeline_vote", 
-      "y": 41.899, 
-      "x": -87.6365, 
-      "id": 16293475, 
-      "question_id": "16173264"
     }, 
     {
       "city": "Bloomington", 
@@ -293,25 +308,6 @@ opendebate.processTimeline({
       "x": -71.0638, 
       "id": 16293274, 
       "question_id": "16203676"
-    }, 
-    {
-      "city": "Muskego", 
-      "first_name": "Cindy", 
-      "last_name": "Bennett", 
-      "user_id": 1056117, 
-      "submission": "Do you believe in the concept of \"too big too fail\" and if so shouldn't that be addressed so that no company can hold the US hostage?", 
-      "district": "WI_01", 
-      "created": "2013-08-10T14:06:50", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "WI", 
-      "iface": "timeline_question", 
-      "y": 42.892, 
-      "x": -88.125, 
-      "latest_vote": null, 
-      "id": 16293268, 
-      "trending_score": 0.5
     }
   ]
 });
