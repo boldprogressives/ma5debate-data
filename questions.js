@@ -9320,15 +9320,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_04", 
       "created": "2013-08-08T00:28:13", 
       "state_votes": 4, 
-      "votes": 10, 
+      "votes": 11, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 41.977, 
       "x": -71.3248, 
-      "latest_vote": "2013-08-10T11:24:24", 
+      "latest_vote": "2013-08-10T16:00:54", 
       "id": 16224538, 
-      "trending_score": 1.0
+      "trending_score": 1.5
     }, 
     {
       "city": "Lenox", 
@@ -9909,15 +9909,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-07T21:48:30", 
       "state_votes": 2, 
-      "votes": 10, 
+      "votes": 11, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3713, 
       "x": -71.1804, 
-      "latest_vote": "2013-08-10T11:39:59", 
+      "latest_vote": "2013-08-10T16:00:19", 
       "id": 16222728, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Louisville", 
@@ -10821,15 +10821,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_02", 
       "created": "2013-08-07T18:37:57", 
       "state_votes": 3, 
-      "votes": 38, 
+      "votes": 39, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.2541, 
       "x": -71.7731, 
-      "latest_vote": "2013-08-10T14:58:42", 
+      "latest_vote": "2013-08-10T16:00:11", 
       "id": 16219940, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Worcester", 
@@ -24558,15 +24558,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_09", 
       "created": "2013-08-05T19:54:52", 
       "state_votes": 2, 
-      "votes": 12, 
+      "votes": 13, 
       "district_votes": 0, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.0305, 
       "x": -87.6918, 
-      "latest_vote": "2013-08-10T11:27:31", 
+      "latest_vote": "2013-08-10T16:00:28", 
       "id": 16178617, 
-      "trending_score": 1.0
+      "trending_score": 1.5
     }, 
     {
       "city": "West Salem", 
@@ -31102,7 +31102,7 @@ opendebate.processFetchedQuestions({
       "x": -71.2368, 
       "latest_vote": "2013-08-10T15:54:00", 
       "id": 16172281, 
-      "trending_score": 8.833333333333334
+      "trending_score": 5.833333333333333
     }, 
     {
       "city": "Arlington", 
