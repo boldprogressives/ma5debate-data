@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "People who apply for mission critical jobs like astronauts have to pass multiple psychological tests. Why not politicians? An IQ test might not be a bad place to start.", 
+      "submission": "Why should SCOTUS justices or their families be involved in such misinformation campaigns as Groundswell when other judges are forbidden to do this?  What do you think about efforts to suppress votes?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:52:58", 
+      "created": "2013-08-10T04:53:53", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291682, 
-      "question_id": "16213317"
+      "id": 16291685, 
+      "question_id": "16209598"
     }, 
     {
       "city": "Phoenix", 
