@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Independence", 
+      "first_name": "Margaret", 
+      "last_name": "Goodwin", 
+      "user_id": 1697661, 
+      "submission": "How do you propose stopping the GOPs continued assault on women's reproductive rights?", 
+      "district": "OR_05", 
+      "created": "2013-08-10T15:49:00", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 44.8433, 
+      "x": -123.186, 
+      "id": 16294149, 
+      "question_id": "16205884"
+    }, 
+    {
       "city": "Washington", 
       "first_name": "Jessie", 
       "last_name": "Hackes", 
@@ -313,21 +328,6 @@ opendebate.processTimeline({
       "x": -117.13, 
       "id": 16293790, 
       "question_id": "16201745"
-    }, 
-    {
-      "city": "Winston Salem", 
-      "first_name": "Kevin", 
-      "last_name": "Hill", 
-      "user_id": 1654154, 
-      "submission": "Why is there not even ONE mention about possibly repealing the \"Patriot Act\", even though that one law has completely obliterated all of our civil rights that were guaranteed in the Constitution??? All USA laws have become invalid, especially for protecting against oppressive governmental organizations, by simply declaring ANYONE an \"Enemy Combatant\" with no real justification for that declaration. The Constitution was specifically created to design precautions against an oppressive government that already had gone too far (Britain). ", 
-      "district": "NC_05", 
-      "created": "2013-08-10T15:02:24", 
-      "state": "NC", 
-      "iface": "timeline_vote", 
-      "y": 36.0963, 
-      "x": -80.3227, 
-      "id": 16293786, 
-      "question_id": "16176201"
     }
   ]
 });
