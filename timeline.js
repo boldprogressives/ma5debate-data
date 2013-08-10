@@ -6,30 +6,30 @@ opendebate.processTimeline({
       "first_name": "Ricki", 
       "last_name": "Franklin", 
       "user_id": 1703274, 
-      "submission": "Back in the 80s, the bell system was broken up into the baby bells because Ma Bell was too big.Will you support breaking up the \"Banks that are TOO BIG TO FAL\"?", 
+      "submission": "Would you support Medicare paying for dental care?", 
       "district": "CA_37", 
-      "created": "2013-08-10T18:17:01", 
+      "created": "2013-08-10T18:17:38", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 34.0677, 
       "x": -118.351, 
-      "id": 16294889, 
-      "question_id": "16173259"
+      "id": 16294900, 
+      "question_id": "16174466"
     }, 
     {
       "city": "Pontotoc", 
       "first_name": "WADIE", 
       "last_name": "WALLACE", 
       "user_id": 1682996, 
-      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
+      "submission": "Would you support Medicare paying for dental care?", 
       "district": "MS_01", 
-      "created": "2013-08-10T18:17:00", 
+      "created": "2013-08-10T18:17:31", 
       "state": "MS", 
       "iface": "timeline_vote", 
       "y": 34.2257, 
       "x": -88.9745, 
-      "id": 16294888, 
-      "question_id": "16172690"
+      "id": 16294898, 
+      "question_id": "16174466"
     }, 
     {
       "city": "Arcata", 
