@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "What will you do to restore the voters rights act?  ", 
+      "submission": "Do you support ending Corporate Welfare that is feeding off of the taxpayers while making HUGE profits? If so, how would you go up against most of the politicians who turn a deaf ear on the subject.", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:23:40", 
+      "created": "2013-08-10T04:24:42", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291173, 
-      "question_id": "16238835"
+      "id": 16291176, 
+      "question_id": "16212057"
     }, 
     {
       "city": "San Antonio", 
