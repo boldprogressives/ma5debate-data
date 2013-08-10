@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Birmingham", 
+      "first_name": "Dot", 
+      "last_name": "Canup", 
+      "user_id": 1565077, 
+      "submission": "Will you support responsible reform among the big banks - never too big to FAIL, never too big to JAIL, and always too big to BAIL?", 
+      "district": "AL_07", 
+      "created": "2013-08-10T04:40:44", 
+      "state": "AL", 
+      "iface": "timeline_vote", 
+      "y": 33.6391, 
+      "x": -86.6919, 
+      "id": 16291416, 
+      "question_id": "16248409"
+    }, 
+    {
       "city": "Arlington", 
       "first_name": "", 
       "last_name": "", 
@@ -15,21 +30,6 @@ opendebate.processTimeline({
       "x": -71.1765, 
       "id": 16291412, 
       "question_id": "16285357"
-    }, 
-    {
-      "city": "Birmingham", 
-      "first_name": "Dot", 
-      "last_name": "Canup", 
-      "user_id": 1565077, 
-      "submission": "Will support a constitutional amendment to overturn Citizen's United?", 
-      "district": "AL_07", 
-      "created": "2013-08-10T04:39:35", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 33.6391, 
-      "x": -86.6919, 
-      "id": 16291411, 
-      "question_id": "16243005"
     }, 
     {
       "city": "Yakima", 
