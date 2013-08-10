@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Jane", 
       "last_name": "Bruce-Munro", 
       "user_id": 1644313, 
-      "submission": "Because of the Financial disaster caused by deregulation during the Bush years, will you support a rebirth of the New 21st Century Glass/Steagall Act and why?", 
+      "submission": "What will you do about gun control and the scare tactics/bullying by the NRA and gun lobbyists?  How will you approach the Right's program of 'divisiveness and culture of fear' that now rips us apart?", 
       "district": "CA_20", 
-      "created": "2013-08-10T07:12:51", 
+      "created": "2013-08-10T07:13:51", 
       "state": "CA", 
       "iface": "timeline_vote", 
       "y": 36.9715, 
       "x": -121.985, 
-      "id": 16292208, 
-      "question_id": "16173264"
+      "id": 16292214, 
+      "question_id": "16176673"
     }, 
     {
       "city": "Grand Terrace", 
