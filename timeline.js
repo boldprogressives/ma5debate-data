@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "South San Francisco", 
+      "first_name": "Noelia", 
+      "last_name": "Corzo", 
+      "user_id": 1470770, 
+      "submission": "Citizens For Tax Justice reports that corporate taxes are at their lowest level since 1931 (the Hoover years).Will you fight against the unprecedented tax evasion of large American firms?", 
+      "district": "CA_14", 
+      "created": "2013-08-10T10:22:54", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 37.6524, 
+      "x": -122.431, 
+      "id": 16292471, 
+      "question_id": "16173210"
+    }, 
+    {
       "city": "Monson", 
       "first_name": "Kathleen", 
       "last_name": "Conley", 
@@ -324,25 +339,6 @@ opendebate.processTimeline({
       "x": -71.1804, 
       "latest_vote": null, 
       "id": 16292173, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Brooklyn", 
-      "first_name": "veronica", 
-      "last_name": "stein", 
-      "user_id": 1211833, 
-      "submission": "would you support more hands on learning and less test taking for all public schools?", 
-      "district": "", 
-      "created": "2013-08-10T06:30:11", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "NY", 
-      "iface": "timeline_question", 
-      "y": 40.5985, 
-      "x": -73.9969, 
-      "latest_vote": null, 
-      "id": 16292168, 
       "trending_score": 0.5
     }
   ]
