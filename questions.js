@@ -2,6 +2,25 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Wakefield", 
+      "first_name": "Fred Rich", 
+      "last_name": "LaRiccia", 
+      "user_id": 411902, 
+      "submission": "When will economic and social justice for all working Americans be permanently enshrined in the federal tax code ?", 
+      "district": "MA_06", 
+      "created": "2013-08-10T14:51:15", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "question", 
+      "y": 42.5021, 
+      "x": -71.0697, 
+      "latest_vote": null, 
+      "id": 16293632, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Portland", 
       "first_name": "Sian Barbara", 
       "last_name": "Allen", 
@@ -1006,7 +1025,7 @@ opendebate.processFetchedQuestions({
       "x": -72.324, 
       "latest_vote": "2013-08-10T09:51:39", 
       "id": 16287786, 
-      "trending_score": 1.0
+      "trending_score": 0.25
     }, 
     {
       "city": "Warren", 
@@ -5140,15 +5159,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_15", 
       "created": "2013-08-08T23:08:59", 
       "state_votes": 1, 
-      "votes": 60, 
+      "votes": 61, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.5746, 
       "x": -122.046, 
-      "latest_vote": "2013-08-10T04:32:57", 
+      "latest_vote": "2013-08-10T14:51:15", 
       "id": 16242609, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Garden City", 
@@ -29061,15 +29080,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_01", 
       "created": "2013-08-04T00:46:08", 
       "state_votes": 7, 
-      "votes": 58, 
+      "votes": 59, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.4583, 
       "x": -122.797, 
-      "latest_vote": "2013-08-10T05:20:21", 
+      "latest_vote": "2013-08-10T14:51:08", 
       "id": 16173184, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Mililani", 
@@ -30467,15 +30486,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:52:54", 
       "state_votes": 179, 
-      "votes": 1141, 
+      "votes": 1142, 
       "district_votes": 49, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4207, 
       "x": -71.1582, 
-      "latest_vote": "2013-08-10T14:48:42", 
+      "latest_vote": "2013-08-10T14:51:59", 
       "id": 16172303, 
-      "trending_score": 15.5
+      "trending_score": 16.5
     }, 
     {
       "city": "Arlington", 

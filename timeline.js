@@ -2,6 +2,55 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Point Richmond", 
+      "first_name": "Kit", 
+      "last_name": "Eakle", 
+      "user_id": 322518, 
+      "submission": "Do you understand the serious threat of climate disruption and will you work hard to fend off global warming?", 
+      "district": "CA_11", 
+      "created": "2013-08-10T14:51:59", 
+      "state": "CA", 
+      "iface": "timeline_vote", 
+      "y": 37.9423, 
+      "x": -122.355, 
+      "id": 16293637, 
+      "question_id": "16172303"
+    }, 
+    {
+      "city": "Wakefield", 
+      "first_name": "Fred Rich", 
+      "last_name": "LaRiccia", 
+      "user_id": 411902, 
+      "submission": "When will economic and social justice for all working Americans be permanently enshrined in the federal tax code ?", 
+      "district": "MA_06", 
+      "created": "2013-08-10T14:51:15", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MA", 
+      "iface": "timeline_question", 
+      "y": 42.5021, 
+      "x": -71.0697, 
+      "latest_vote": null, 
+      "id": 16293632, 
+      "trending_score": 0.5
+    }, 
+    {
+      "city": "Bend", 
+      "first_name": "Robert", 
+      "last_name": "Marvos", 
+      "user_id": 1081036, 
+      "submission": "When is Congress going to reinstate Glass-Steagall Act and hold CEO's of \"too big to fail\" banks accountable for their criminal behavior?", 
+      "district": "OR_02", 
+      "created": "2013-08-10T14:51:15", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 44.0221, 
+      "x": -121.297, 
+      "id": 16293633, 
+      "question_id": "16242609"
+    }, 
+    {
       "city": "Sarasota", 
       "first_name": "jim", 
       "last_name": "miller", 
@@ -34,21 +83,6 @@ opendebate.processTimeline({
       "latest_vote": null, 
       "id": 16293625, 
       "trending_score": 0.5
-    }, 
-    {
-      "city": "Bend", 
-      "first_name": "Robert", 
-      "last_name": "Marvos", 
-      "user_id": 1081036, 
-      "submission": "Will you support separation of commercial and investment banking by returning to a current version of Glass-Steagall Act?", 
-      "district": "OR_02", 
-      "created": "2013-08-10T14:49:24", 
-      "state": "OR", 
-      "iface": "timeline_vote", 
-      "y": 44.0221, 
-      "x": -121.297, 
-      "id": 16293619, 
-      "question_id": "16248600"
     }, 
     {
       "city": "Austin", 
@@ -290,40 +324,6 @@ opendebate.processTimeline({
       "x": -121.848, 
       "id": 16293466, 
       "question_id": "16172697"
-    }, 
-    {
-      "city": "Suffolk", 
-      "first_name": "Mario", 
-      "last_name": "Granger", 
-      "user_id": 277933, 
-      "submission": "If you were unable to continue, which of your peers would you support", 
-      "district": "VA_04", 
-      "created": "2013-08-10T14:34:34", 
-      "state_votes": 0, 
-      "votes": 1, 
-      "district_votes": 0, 
-      "state": "VA", 
-      "iface": "timeline_question", 
-      "y": 36.8497, 
-      "x": -76.4794, 
-      "latest_vote": "2013-08-10T14:41:36", 
-      "id": 16293451, 
-      "trending_score": 1.5
-    }, 
-    {
-      "city": "Berkeley", 
-      "first_name": "Wini", 
-      "last_name": "Williams", 
-      "user_id": 91864, 
-      "submission": "Are you willing to push for progressive Single Payer Health Care or continue to invite insurance companies to have a seat at the table?", 
-      "district": "CA_13", 
-      "created": "2013-08-10T14:33:20", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 37.8666, 
-      "x": -122.282, 
-      "id": 16293436, 
-      "question_id": "16172913"
     }
   ]
 });
