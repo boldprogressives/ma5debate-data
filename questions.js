@@ -2,6 +2,25 @@ opendebate.processFetchedQuestions({
   "iface": "list", 
   "entries": [
     {
+      "city": "Inkster", 
+      "first_name": "UNITED NATIONS", 
+      "last_name": "FOR ANIMALS", 
+      "user_id": 1777492, 
+      "submission": "WOULD PRESIDENT OBAMA BE WILLING TO SIGN AN EXECUTIVE ORDER TO STOP ALL BLM WILD HORSE ROUND-UPS, STOP BLM'S WILD HORSE EXPORTS AND HORSE SLAUGHTER, AND ORDER BLM TO FREE THE 50,000 PENNED UP WILD HORSES SUFFERING TO NO KILL HORSE ECO-SANCTUARIES ", 
+      "district": "MI_13", 
+      "created": "2013-08-10T07:51:02", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "MI", 
+      "iface": "question", 
+      "y": 42.2924, 
+      "x": -83.317, 
+      "latest_vote": null, 
+      "id": 16292262, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Salem", 
       "first_name": "Leon", 
       "last_name": "Keefe", 
@@ -14819,7 +14838,7 @@ opendebate.processFetchedQuestions({
       "x": -124.071, 
       "latest_vote": "2013-08-10T04:00:30", 
       "id": 16205834, 
-      "trending_score": 1.75
+      "trending_score": 1.0416666666666665
     }, 
     {
       "city": "Addison", 
@@ -15484,7 +15503,7 @@ opendebate.processFetchedQuestions({
       "x": -70.6862, 
       "latest_vote": "2013-08-10T06:11:33", 
       "id": 16203558, 
-      "trending_score": 2.05
+      "trending_score": 1.6666666666666665
     }, 
     {
       "city": "Holyoke", 
@@ -20443,7 +20462,7 @@ opendebate.processFetchedQuestions({
       "x": -108.465, 
       "latest_vote": "2013-08-10T06:21:35", 
       "id": 16185364, 
-      "trending_score": 3.2
+      "trending_score": 3.25
     }, 
     {
       "city": "Boca Raton", 
@@ -20709,7 +20728,7 @@ opendebate.processFetchedQuestions({
       "x": -92.5211, 
       "latest_vote": "2013-08-10T06:24:16", 
       "id": 16184803, 
-      "trending_score": 2.5
+      "trending_score": 3.0
     }, 
     {
       "city": "Saint Louis", 
@@ -26029,7 +26048,7 @@ opendebate.processFetchedQuestions({
       "x": -87.9643, 
       "latest_vote": "2013-08-10T05:50:47", 
       "id": 16175729, 
-      "trending_score": 2.8333333333333335
+      "trending_score": 1.8333333333333333
     }, 
     {
       "city": "Tucson", 
@@ -26523,7 +26542,7 @@ opendebate.processFetchedQuestions({
       "x": -104.954, 
       "latest_vote": "2013-08-10T04:01:02", 
       "id": 16175230, 
-      "trending_score": 1.25
+      "trending_score": 1.025
     }, 
     {
       "city": "Seal Rock", 
@@ -27112,7 +27131,7 @@ opendebate.processFetchedQuestions({
       "x": -122.298, 
       "latest_vote": "2013-08-10T07:13:26", 
       "id": 16174466, 
-      "trending_score": 4.0
+      "trending_score": 6.25
     }, 
     {
       "city": "Albany", 
@@ -27226,7 +27245,7 @@ opendebate.processFetchedQuestions({
       "x": -112.112, 
       "latest_vote": "2013-08-10T04:34:03", 
       "id": 16174342, 
-      "trending_score": 1.25
+      "trending_score": 1.5
     }, 
     {
       "city": "Phoenix", 
@@ -28290,7 +28309,7 @@ opendebate.processFetchedQuestions({
       "x": -84.0482, 
       "latest_vote": "2013-08-10T07:18:28", 
       "id": 16173335, 
-      "trending_score": 2.75
+      "trending_score": 2.9166666666666665
     }, 
     {
       "city": "Evansville", 
@@ -28708,7 +28727,7 @@ opendebate.processFetchedQuestions({
       "x": -122.607, 
       "latest_vote": "2013-08-10T05:19:32", 
       "id": 16173225, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Saint Peters", 
@@ -29810,7 +29829,7 @@ opendebate.processFetchedQuestions({
       "x": -116.297, 
       "latest_vote": "2013-08-10T07:16:55", 
       "id": 16172697, 
-      "trending_score": 1.6
+      "trending_score": 1.4142857142857141
     }, 
     {
       "city": "Holts Summit", 
