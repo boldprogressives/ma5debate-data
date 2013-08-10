@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Would you consider legislation that reduces tax breaks to multinational corporations that send manufacturing jobs outside of the USA.", 
+      "submission": "Will you support labeling of GMOs (genetically modified organisms) so the people can choose whether or not they want to eat them?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:48:45", 
+      "created": "2013-08-10T04:49:42", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291463, 
-      "question_id": "16223764"
+      "id": 16291466, 
+      "question_id": "16220874"
+    }, 
+    {
+      "city": "Phoenix", 
+      "first_name": "Lynne", 
+      "last_name": "Vestal", 
+      "user_id": 1121128, 
+      "submission": "Will you support closing tax loopholes for the very wealthiest and corporations, as well as eliminating corporate welfare, like subsidies for Oil Companies,and Factory Farming ?", 
+      "district": "AZ_09", 
+      "created": "2013-08-10T04:49:31", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 33.559, 
+      "x": -112.089, 
+      "id": 16291465, 
+      "question_id": "16202059"
     }, 
     {
       "city": "Cleveland", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -81.7022, 
       "id": 16291462, 
       "question_id": "16172281"
-    }, 
-    {
-      "city": "Phoenix", 
-      "first_name": "Lynne", 
-      "last_name": "Vestal", 
-      "user_id": 1121128, 
-      "submission": "Do you support the concept of keeping church and state separate?", 
-      "district": "AZ_09", 
-      "created": "2013-08-10T04:46:46", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 33.559, 
-      "x": -112.089, 
-      "id": 16291441, 
-      "question_id": "16173921"
     }, 
     {
       "city": "Arlington", 
