@@ -12406,7 +12406,7 @@ opendebate.processFetchedQuestions({
       "x": -73.9254, 
       "latest_vote": "2013-08-10T05:50:00", 
       "id": 16213342, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Gibsonton", 
@@ -26352,7 +26352,7 @@ opendebate.processFetchedQuestions({
       "x": -88.9093, 
       "latest_vote": "2013-08-10T07:15:15", 
       "id": 16175634, 
-      "trending_score": 0.5
+      "trending_score": 1.0
     }, 
     {
       "city": "Mount Vernon", 
@@ -28214,7 +28214,7 @@ opendebate.processFetchedQuestions({
       "x": -123.218, 
       "latest_vote": "2013-08-10T05:49:56", 
       "id": 16173512, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Las Vegas", 
