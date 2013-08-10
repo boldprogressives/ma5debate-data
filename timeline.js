@@ -2,6 +2,25 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Washington", 
+      "first_name": "Jessie", 
+      "last_name": "Hackes", 
+      "user_id": 115517, 
+      "submission": "5 from MA Would you be willing to re-shape the appalling and atrocious Congressional behavior, now referred to as \"refusal to govern,\" into a reframed issue around \"continued seditious behavior\" worthy of legal... ", 
+      "district": "DC_01", 
+      "created": "2013-08-10T15:45:06", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "DC", 
+      "iface": "timeline_question", 
+      "y": 38.9403, 
+      "x": -77.0886, 
+      "latest_vote": null, 
+      "id": 16294134, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Sugar Hill", 
       "first_name": "", 
       "last_name": "", 
@@ -309,25 +328,6 @@ opendebate.processTimeline({
       "x": -80.3227, 
       "id": 16293786, 
       "question_id": "16176201"
-    }, 
-    {
-      "city": "Indian Orchard", 
-      "first_name": "Miguel", 
-      "last_name": "Soto", 
-      "user_id": 1716772, 
-      "submission": "For any candidate!! Are you going to fight to continue with the work at hand with the implementation of the president plan to keep social security working for every American that should benefit, and should have a sound social security package when they retired? ", 
-      "district": "MA_01", 
-      "created": "2013-08-10T15:01:49", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.151, 
-      "x": -72.5065, 
-      "latest_vote": null, 
-      "id": 16293781, 
-      "trending_score": 0.5
     }
   ]
 });
