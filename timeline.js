@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Birmingham", 
+      "first_name": "Dot", 
+      "last_name": "Canup", 
+      "user_id": 1565077, 
+      "submission": "What are you going to do to protect and enhance social security and medicare benefits?", 
+      "district": "AL_07", 
+      "created": "2013-08-10T05:20:54", 
+      "state": "AL", 
+      "iface": "timeline_vote", 
+      "y": 33.6391, 
+      "x": -86.6919, 
+      "id": 16291863, 
+      "question_id": "16172225"
+    }, 
+    {
       "city": "Stevens Point", 
       "first_name": "Bruce Hall", 
       "last_name": "1600 Brawley, Apt 4", 
       "user_id": 1066307, 
-      "submission": "What are you going to do about the revolving door of regulators and private industry? The corruption taking place here is unbelievable. Example FCC Comcast takeover of NBC scandal. ", 
+      "submission": "What will you to protect unions that were the backbone of the middle class and have been destroyed the last 30 years?", 
       "district": "WI_03", 
-      "created": "2013-08-10T05:19:58", 
+      "created": "2013-08-10T05:20:17", 
       "state": "WI", 
       "iface": "timeline_vote", 
       "y": 44.543, 
       "x": -89.5645, 
-      "id": 16291858, 
-      "question_id": "16199756"
+      "id": 16291861, 
+      "question_id": "16175637"
     }, 
     {
       "city": "Phoenix", 
@@ -45,21 +60,6 @@ opendebate.processTimeline({
       "x": -120.333, 
       "id": 16291855, 
       "question_id": "16256688"
-    }, 
-    {
-      "city": "Birmingham", 
-      "first_name": "Dot", 
-      "last_name": "Canup", 
-      "user_id": 1565077, 
-      "submission": "Why  is social security only funded by the lowest earners in the country.", 
-      "district": "AL_07", 
-      "created": "2013-08-10T05:19:32", 
-      "state": "AL", 
-      "iface": "timeline_vote", 
-      "y": 33.6391, 
-      "x": -86.6919, 
-      "id": 16291853, 
-      "question_id": "16173225"
     }, 
     {
       "city": "Arlington", 
