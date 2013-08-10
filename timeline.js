@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Arlington", 
+      "first_name": "Colleen", 
+      "last_name": "Kirby", 
+      "user_id": 188866, 
+      "submission": "Why won't Obama sign the land mine ban?  Every NATO country has signed it.", 
+      "district": "MA_05", 
+      "created": "2013-08-10T15:24:51", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.4207, 
+      "x": -71.1582, 
+      "id": 16293934, 
+      "question_id": "16293701"
+    }, 
+    {
       "city": "Weston", 
       "first_name": "Nathaniel", 
       "last_name": "Stutterheim", 
@@ -316,25 +331,6 @@ opendebate.processTimeline({
       "x": -87.6365, 
       "latest_vote": null, 
       "id": 16293756, 
-      "trending_score": 0.5
-    }, 
-    {
-      "city": "Chicago", 
-      "first_name": "Peter", 
-      "last_name": "Moxon", 
-      "user_id": 128965, 
-      "submission": "Where you pledge to vote against the chained CPI when applied to Social Security, Medicare, Medicaid funding", 
-      "district": "IL_07", 
-      "created": "2013-08-10T14:59:40", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "IL", 
-      "iface": "timeline_question", 
-      "y": 41.899, 
-      "x": -87.6365, 
-      "latest_vote": null, 
-      "id": 16293754, 
       "trending_score": 0.5
     }
   ]

@@ -370,16 +370,16 @@ opendebate.processFetchedQuestions({
       "submission": "Why won't Obama sign the land mine ban?  Every NATO country has signed it.", 
       "district": "OR_03", 
       "created": "2013-08-10T14:56:39", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
+      "state_votes": 1, 
+      "votes": 1, 
+      "district_votes": 1, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.531, 
       "x": -122.633, 
-      "latest_vote": null, 
+      "latest_vote": "2013-08-10T15:24:51", 
       "id": 16293701, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Portland", 
@@ -28195,7 +28195,7 @@ opendebate.processFetchedQuestions({
       "x": -93.3782, 
       "latest_vote": "2013-08-10T11:08:15", 
       "id": 16174163, 
-      "trending_score": 2.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Syracuse", 
@@ -29240,7 +29240,7 @@ opendebate.processFetchedQuestions({
       "x": -96.8112, 
       "latest_vote": "2013-08-10T15:04:54", 
       "id": 16173264, 
-      "trending_score": 20.5
+      "trending_score": 10.5
     }, 
     {
       "city": "Prosper", 
@@ -30228,7 +30228,7 @@ opendebate.processFetchedQuestions({
       "x": -111.974, 
       "latest_vote": "2013-08-10T15:00:24", 
       "id": 16172777, 
-      "trending_score": 19.5
+      "trending_score": 10.0
     }, 
     {
       "city": "Gladstone", 
@@ -30285,7 +30285,7 @@ opendebate.processFetchedQuestions({
       "x": -87.5959, 
       "latest_vote": "2013-08-10T15:20:12", 
       "id": 16172755, 
-      "trending_score": 20.25
+      "trending_score": 10.0
     }, 
     {
       "city": "Richardson", 
@@ -30475,7 +30475,7 @@ opendebate.processFetchedQuestions({
       "x": -116.297, 
       "latest_vote": "2013-08-10T15:07:30", 
       "id": 16172697, 
-      "trending_score": 12.166666666666666
+      "trending_score": 5.833333333333333
     }, 
     {
       "city": "Holts Summit", 
@@ -30874,7 +30874,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T15:20:20", 
       "id": 16172533, 
-      "trending_score": 19.25
+      "trending_score": 9.5
     }, 
     {
       "city": "Medford", 
@@ -31064,7 +31064,7 @@ opendebate.processFetchedQuestions({
       "x": -71.1312, 
       "latest_vote": "2013-08-10T15:22:47", 
       "id": 16172266, 
-      "trending_score": 20.5
+      "trending_score": 10.5
     }, 
     {
       "city": "Cambridge", 
