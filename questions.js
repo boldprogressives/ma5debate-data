@@ -12083,7 +12083,7 @@ opendebate.processFetchedQuestions({
       "x": -122.413, 
       "latest_vote": "2013-08-10T05:51:35", 
       "id": 16213485, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Sutton", 
@@ -26276,7 +26276,7 @@ opendebate.processFetchedQuestions({
       "x": -110.947, 
       "latest_vote": "2013-08-10T10:56:48", 
       "id": 16175691, 
-      "trending_score": 0.8333333333333333
+      "trending_score": 1.0
     }, 
     {
       "city": "Mount Vernon", 
@@ -30228,7 +30228,7 @@ opendebate.processFetchedQuestions({
       "x": -93.3713, 
       "latest_vote": "2013-08-10T05:52:08", 
       "id": 16172657, 
-      "trending_score": 0.25
+      "trending_score": 0.5
     }, 
     {
       "city": "Midlothian", 
