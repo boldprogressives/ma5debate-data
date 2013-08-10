@@ -21575,15 +21575,15 @@ opendebate.processFetchedQuestions({
       "district": "DE_01", 
       "created": "2013-08-06T14:38:18", 
       "state_votes": 7, 
-      "votes": 398, 
+      "votes": 399, 
       "district_votes": 2, 
       "state": "DE", 
       "iface": "question", 
       "y": 39.6046, 
       "x": -75.7463, 
-      "latest_vote": "2013-08-10T11:20:36", 
+      "latest_vote": "2013-08-10T12:41:01", 
       "id": 16183415, 
-      "trending_score": 1.25
+      "trending_score": 2.25
     }, 
     {
       "city": "UNIO PIER", 
@@ -24634,15 +24634,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_04", 
       "created": "2013-08-05T15:17:58", 
       "state_votes": 5, 
-      "votes": 71, 
+      "votes": 72, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "question", 
       "y": 44.0574, 
       "x": -123.188, 
-      "latest_vote": "2013-08-10T11:21:49", 
+      "latest_vote": "2013-08-10T12:40:21", 
       "id": 16177784, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Littleton", 
@@ -25280,15 +25280,15 @@ opendebate.processFetchedQuestions({
       "district": "AZ_01", 
       "created": "2013-08-05T05:46:31", 
       "state_votes": 6, 
-      "votes": 157, 
+      "votes": 158, 
       "district_votes": 2, 
       "state": "AZ", 
       "iface": "question", 
       "y": 32.8795, 
       "x": -111.75, 
-      "latest_vote": "2013-08-10T11:20:58", 
+      "latest_vote": "2013-08-10T12:40:28", 
       "id": 16176653, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Seattle", 
@@ -26534,15 +26534,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_25", 
       "created": "2013-08-05T00:22:27", 
       "state_votes": 61, 
-      "votes": 469, 
+      "votes": 470, 
       "district_votes": 17, 
       "state": "FL", 
       "iface": "question", 
       "y": 25.99, 
       "x": -81.5334, 
-      "latest_vote": "2013-08-10T08:40:13", 
+      "latest_vote": "2013-08-10T12:40:36", 
       "id": 16175500, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Seattle", 
@@ -29574,15 +29574,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T23:23:07", 
       "state_votes": 184, 
-      "votes": 1247, 
+      "votes": 1248, 
       "district_votes": 48, 
       "state": "MT", 
       "iface": "question", 
       "y": 48.2112, 
       "x": -114.294, 
-      "latest_vote": "2013-08-10T08:37:22", 
+      "latest_vote": "2013-08-10T12:40:47", 
       "id": 16172913, 
-      "trending_score": 1.5
+      "trending_score": 2.5
     }, 
     {
       "city": "Montegut", 

@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Katherine", 
       "last_name": "Fernandez", 
       "user_id": 333705, 
-      "submission": "How do you propose stopping the GOPs continued assault on women's reproductive rights?", 
+      "submission": "How will you support the dignity and freedom of women to make medical decisions with their health care providers without interference of federal and state laws?", 
       "district": "TX_18", 
-      "created": "2013-08-10T12:39:41", 
+      "created": "2013-08-10T12:41:01", 
       "state": "TX", 
       "iface": "timeline_vote", 
       "y": 29.7963, 
       "x": -95.4172, 
-      "id": 16292596, 
-      "question_id": "16205884"
+      "id": 16292601, 
+      "question_id": "16183415"
     }, 
     {
       "city": "Millis", 
