@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Phoenix", 
+      "first_name": "Lynne", 
+      "last_name": "Vestal", 
+      "user_id": 1121128, 
+      "submission": "Do you support the legalization of marijuana (which should be taxed & regulated like alcohol or tobacco)? If so, would you allow the release of nonviolent offenders from prison?", 
+      "district": "AZ_09", 
+      "created": "2013-08-10T05:10:48", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 33.559, 
+      "x": -112.089, 
+      "id": 16291810, 
+      "question_id": "16172722"
+    }, 
+    {
       "city": "Birmingham", 
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Will you stop the attack on workers rights to collective bargaining and help support strengthening labor law ", 
+      "submission": "Will you take action to overturn Citizens United with an effective Constitutional Amendment?", 
       "district": "AL_07", 
-      "created": "2013-08-10T05:09:34", 
+      "created": "2013-08-10T05:10:32", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291803, 
-      "question_id": "16184056"
+      "id": 16291808, 
+      "question_id": "16182966"
     }, 
     {
       "city": "Arlington", 
@@ -30,21 +45,6 @@ opendebate.processTimeline({
       "x": -97.1358, 
       "id": 16291770, 
       "question_id": "16232223"
-    }, 
-    {
-      "city": "Phoenix", 
-      "first_name": "Lynne", 
-      "last_name": "Vestal", 
-      "user_id": 1121128, 
-      "submission": "What is your stand on full disclosure of all campaign contributions, including specifically identifiable individual and corporate donations to PACs.", 
-      "district": "AZ_09", 
-      "created": "2013-08-10T04:56:16", 
-      "state": "AZ", 
-      "iface": "timeline_vote", 
-      "y": 33.559, 
-      "x": -112.089, 
-      "id": 16291768, 
-      "question_id": "16199834"
     }, 
     {
       "city": "San Antonio", 
