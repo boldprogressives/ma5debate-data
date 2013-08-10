@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Manitowoc", 
+      "first_name": "R", 
+      "last_name": "Kubsh", 
+      "user_id": 1685265, 
+      "submission": "Where do stand with stopping companies like Monsanto's blatant attempt to control the food supply by pushing GMO'S in to our food supply and doing what ever they can to block attempts of labeling foods that contain or are gmo foods?", 
+      "district": "WI_06", 
+      "created": "2013-08-10T02:19:31", 
+      "state": "WI", 
+      "iface": "timeline_vote", 
+      "y": 44.0957, 
+      "x": -87.7111, 
+      "id": 16290522, 
+      "question_id": "16173257"
+    }, 
+    {
       "city": "Gainesville", 
       "first_name": "Pat", 
       "last_name": "Lucoff", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "x": -81.6842, 
       "id": 16289714, 
       "question_id": "16174492"
-    }, 
-    {
-      "city": "East Brunswick", 
-      "first_name": "Edward", 
-      "last_name": "Lang", 
-      "user_id": 1120929, 
-      "submission": "Why are you not speaking up about the police/surveillance state that's been developing in this country, and defending whistle blowers like Snowden and Manning as the heroic citizens they are? ", 
-      "district": "NJ_12", 
-      "created": "2013-08-10T01:35:23", 
-      "state": "NJ", 
-      "iface": "timeline_vote", 
-      "y": 40.4297, 
-      "x": -74.4073, 
-      "id": 16289710, 
-      "question_id": "16193888"
     }
   ]
 });
