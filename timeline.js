@@ -2,34 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
-      "city": "Jacksonville", 
-      "first_name": "Gerard Hettinger", 
-      "last_name": "", 
-      "user_id": 1771618, 
-      "submission": "Solar would bring in new jobs and the factorys built in this country you could even run street lights, stop and go lights i know it would help with the citys tax base, becouse i build solar heat exchangers for the low income folks and it works becouse my heating bills run 16.00 dollars a month 2 years ago last year 48 dollars a month why would not want that ?", 
-      "district": "FL_04", 
-      "created": "2013-08-10T15:56:57", 
-      "state": "FL", 
-      "iface": "timeline_vote", 
-      "y": 30.3629, 
-      "x": -81.5819, 
-      "id": 16294257, 
-      "question_id": "16172866"
-    }, 
-    {
       "city": "Independence", 
       "first_name": "Margaret", 
       "last_name": "Goodwin", 
       "user_id": 1697661, 
-      "submission": "Would you support the reintroduction of the Equal Rights Amendment to establish that, in America, women are recognized as full human beings with full human rights? This would rectify and block all future attempts to reduce women once more to chattel.", 
+      "submission": "Will you vote to end tax loopholes for the rich, big business subsides, overseas corporate tax loopholes, wasteful wars, foreign country subsides, quality health care for all, good safe food for all, clean air, clean energy, clean safe drinking water, useful education and job opportunities for all hard working citizens that can achieve these levels and deserve it, gun control, to end wall street fraud and corruption.", 
       "district": "OR_05", 
-      "created": "2013-08-10T15:56:50", 
+      "created": "2013-08-10T15:57:39", 
       "state": "OR", 
       "iface": "timeline_vote", 
       "y": 44.8433, 
       "x": -123.186, 
-      "id": 16294256, 
-      "question_id": "16177784"
+      "id": 16294266, 
+      "question_id": "16203215"
+    }, 
+    {
+      "city": "Jacksonville", 
+      "first_name": "Gerard Hettinger", 
+      "last_name": "", 
+      "user_id": 1771618, 
+      "submission": "What are you doing to ensure that all residents have access to a living wage and to help create jobs for those still looking for work, five years after the Great Recession and the weak recovery?", 
+      "district": "FL_04", 
+      "created": "2013-08-10T15:57:12", 
+      "state": "FL", 
+      "iface": "timeline_vote", 
+      "y": 30.3629, 
+      "x": -81.5819, 
+      "id": 16294262, 
+      "question_id": "16201159"
     }, 
     {
       "city": "Spokane", 
