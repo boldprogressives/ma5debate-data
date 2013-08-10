@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Bridget", 
       "last_name": "Burke", 
       "user_id": 1592935, 
-      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
       "district": "AZ_02", 
-      "created": "2013-08-10T03:02:01", 
+      "created": "2013-08-10T03:02:58", 
       "state": "AZ", 
       "iface": "timeline_vote", 
       "y": 31.4588, 
       "x": -109.946, 
-      "id": 16290632, 
-      "question_id": "16172690"
+      "id": 16290639, 
+      "question_id": "16172281"
     }, 
     {
       "city": "New York", 
