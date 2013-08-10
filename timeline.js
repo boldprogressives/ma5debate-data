@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Oklahoma City", 
+      "first_name": "Arthur", 
+      "last_name": "Clark", 
+      "user_id": 832652, 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "district": "OK_05", 
+      "created": "2013-08-10T18:22:03", 
+      "state": "OK", 
+      "iface": "timeline_vote", 
+      "y": 35.545, 
+      "x": -97.6353, 
+      "id": 16294926, 
+      "question_id": "16172533"
+    }, 
+    {
       "city": "Santa Paula", 
       "first_name": "shody", 
       "last_name": "ryon", 
@@ -297,25 +312,6 @@ opendebate.processTimeline({
       "x": -87.6555, 
       "id": 16294538, 
       "question_id": "16173257"
-    }, 
-    {
-      "city": "Indian Orchard", 
-      "first_name": "Miguel", 
-      "last_name": "Soto", 
-      "user_id": 1716772, 
-      "submission": "Mr. Green Span years ago, \"before these hard times\", said the local State and Federal government should protect and help small business which is the engine that keeps America striving economically to keep this economy going. \"Will you all support small business, \"This time which was ignored by many\" to keep in business in these hard economical times even though they owed taxes, and are trying to survive these turbulent times to provide jobs, goods, and pay as they continue to ignite the economy.", 
-      "district": "MA_01", 
-      "created": "2013-08-10T16:40:26", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "MA", 
-      "iface": "timeline_question", 
-      "y": 42.151, 
-      "x": -72.5065, 
-      "latest_vote": null, 
-      "id": 16294488, 
-      "trending_score": 0.5
     }
   ]
 });
