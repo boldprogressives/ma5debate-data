@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Dot", 
       "last_name": "Canup", 
       "user_id": 1565077, 
-      "submission": "Why are so many of our politicians, from top to bottom, allowing themselves to be manipulated by Monsanto. Why can't we get GMO labeling? Why is there no scientific study on the affects of GMO's on the public? Why will none of THESE questions come up?", 
+      "submission": "Re Gun Control:  Will you fight the NRA to achieve basic reforms that most Americans agree on?:* Some people should never own any type of weapon.* Some weapons should never be owned by anyone.* Background checks should be universal and enforced.* Basic defense of self and home requires only a simple rifle and/or pistol, not assault weapons.* The Second Amendment refers to a \"well-regulated militia\"; this clause cannot be ignored, everything that follows relates to that.  It does not mean that any and all Americans may own any and all forms of weaponry. Would you support an amendment to the U.S. Constitution clarifying the Second Amendment as suggested above?", 
       "district": "AL_07", 
-      "created": "2013-08-10T04:21:44", 
+      "created": "2013-08-10T04:22:55", 
       "state": "AL", 
       "iface": "timeline_vote", 
       "y": 33.6391, 
       "x": -86.6919, 
-      "id": 16291167, 
-      "question_id": "16213508"
+      "id": 16291170, 
+      "question_id": "16232223"
     }, 
     {
       "city": "San Antonio", 
