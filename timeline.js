@@ -2,19 +2,34 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Bend", 
+      "first_name": "Robert", 
+      "last_name": "Marvos", 
+      "user_id": 1081036, 
+      "submission": "Why is there not even ONE mention about possibly repealing the \"Patriot Act\", even though that one law has completely obliterated all of our civil rights that were guaranteed in the Constitution??? All USA laws have become invalid, especially for protecting against oppressive governmental organizations, by simply declaring ANYONE an \"Enemy Combatant\" with no real justification for that declaration. The Constitution was specifically created to design precautions against an oppressive government that already had gone too far (Britain). ", 
+      "district": "OR_02", 
+      "created": "2013-08-10T14:43:59", 
+      "state": "OR", 
+      "iface": "timeline_vote", 
+      "y": 44.0221, 
+      "x": -121.297, 
+      "id": 16293558, 
+      "question_id": "16176201"
+    }, 
+    {
       "city": "concord", 
       "first_name": "karen", 
       "last_name": "hrenko", 
       "user_id": 1079825, 
-      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
+      "submission": "What are you going to do to end NSA massive surveillance on all of us?", 
       "district": "OH_14", 
-      "created": "2013-08-10T14:43:00", 
+      "created": "2013-08-10T14:43:32", 
       "state": "OH", 
       "iface": "timeline_vote", 
       "y": 41.75, 
       "x": -81.2833, 
-      "id": 16293547, 
-      "question_id": "16172690"
+      "id": 16293554, 
+      "question_id": "16172207"
     }, 
     {
       "city": "Chicago", 
@@ -297,25 +312,6 @@ opendebate.processTimeline({
       "x": -98.3977, 
       "id": 16293328, 
       "question_id": "16172765"
-    }, 
-    {
-      "city": "Muskego", 
-      "first_name": "Cindy", 
-      "last_name": "Bennett", 
-      "user_id": 1056117, 
-      "submission": "Do you believe in requiring GMO food labels?", 
-      "district": "WI_01", 
-      "created": "2013-08-10T14:11:39", 
-      "state_votes": 0, 
-      "votes": 0, 
-      "district_votes": 0, 
-      "state": "WI", 
-      "iface": "timeline_question", 
-      "y": 42.892, 
-      "x": -88.125, 
-      "latest_vote": null, 
-      "id": 16293289, 
-      "trending_score": 0.5
     }
   ]
 });
