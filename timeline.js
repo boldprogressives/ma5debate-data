@@ -6,15 +6,60 @@ opendebate.processTimeline({
       "first_name": "Sally", 
       "last_name": "Phelps", 
       "user_id": 1567108, 
-      "submission": "Science has proven again and again that many herbicides and pesticides initially approved for agricultural and residential use are highly toxic to the environment.  Would you propose, endorse, and/or support, legislation that imposes statutory time limits on regulatory approvals for all pesticides and herbicides, which triggers a  mandatory environmental impact reassessment every 8 to 10 years without exception and does not allow \"grandfathering\" of any such products that have already approved for use?     ", 
+      "submission": "Will you vote for green energy, and stop fossil fuel subsidies?", 
       "district": "NM_03", 
-      "created": "2013-08-10T01:22:06", 
+      "created": "2013-08-10T01:22:58", 
       "state": "NM", 
       "iface": "timeline_vote", 
       "y": 36.4486, 
       "x": -105.575, 
-      "id": 16289610, 
-      "question_id": "16226498"
+      "id": 16289622, 
+      "question_id": "16224828"
+    }, 
+    {
+      "city": "Watertown", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810405, 
+      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
+      "district": "MA_05", 
+      "created": "2013-08-10T01:22:58", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3713, 
+      "x": -71.1804, 
+      "id": 16289623, 
+      "question_id": "16172533"
+    }, 
+    {
+      "city": "Allston", 
+      "first_name": "", 
+      "last_name": "", 
+      "user_id": 1810404, 
+      "submission": "What will you do to stop fracking for natural gas, and all fossil fuel drilling for that matter, and move us to a clean energy economy?", 
+      "district": "MA_07", 
+      "created": "2013-08-10T01:22:47", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3581, 
+      "x": -71.1306, 
+      "id": 16289621, 
+      "question_id": "16172281"
+    }, 
+    {
+      "city": "Prescott", 
+      "first_name": "Natalie", 
+      "last_name": "Houghton", 
+      "user_id": 956, 
+      "submission": "Plutocracy is Government by the Wealthy. What will you do to reduce or eliminate control of government by the wealthy?", 
+      "district": "AZ_04", 
+      "created": "2013-08-10T01:22:11", 
+      "state": "AZ", 
+      "iface": "timeline_vote", 
+      "y": 34.5429, 
+      "x": -112.468, 
+      "id": 16289611, 
+      "question_id": "16175500"
     }, 
     {
       "city": "Cumming", 
@@ -30,21 +75,6 @@ opendebate.processTimeline({
       "x": -84.0743, 
       "id": 16289608, 
       "question_id": "16175637"
-    }, 
-    {
-      "city": "Allston", 
-      "first_name": "", 
-      "last_name": "", 
-      "user_id": 1810404, 
-      "submission": "Do you support Senator Warren's approach to US govt loans to college students, including, among other things, the principle that the US govt should not be making money off of the college student loan program?", 
-      "district": "MA_07", 
-      "created": "2013-08-10T01:21:57", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3581, 
-      "x": -71.1306, 
-      "id": 16289607, 
-      "question_id": "16172533"
     }, 
     {
       "city": "Miami", 
@@ -274,36 +304,6 @@ opendebate.processTimeline({
       "x": -122.124, 
       "id": 16289241, 
       "question_id": "16197636"
-    }, 
-    {
-      "city": "", 
-      "first_name": "Juluie M", 
-      "last_name": "Lacinak", 
-      "user_id": 1548415, 
-      "submission": "Do you support the concept of keeping church and state separate?", 
-      "district": "", 
-      "created": "2013-08-10T00:46:25", 
-      "state": "", 
-      "iface": "timeline_vote", 
-      "y": 0.0, 
-      "x": 0.0, 
-      "id": 16289219, 
-      "question_id": "16173921"
-    }, 
-    {
-      "city": "Patterson", 
-      "first_name": "Enders", 
-      "last_name": "Family", 
-      "user_id": 715454, 
-      "submission": "Where do you stand on a constitutional admendment that declares that corporations are NOT, in fact, people and do not have the legal rights of people.", 
-      "district": "CA_10", 
-      "created": "2013-08-10T00:40:56", 
-      "state": "CA", 
-      "iface": "timeline_vote", 
-      "y": 37.4861, 
-      "x": -121.13, 
-      "id": 16289165, 
-      "question_id": "16176313"
     }
   ]
 });
