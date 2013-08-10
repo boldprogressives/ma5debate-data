@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Richard", 
       "last_name": "Scaturro", 
       "user_id": 1563490, 
-      "submission": "We believe that all Americans should have the same health care package.  Why do members of Congress have a health care package that the rest of us do not enjoy?", 
+      "submission": "Will you support reducing military industrial complex spending in an amount that will fund doubling SS benefits and increasing Medicare to 100%?", 
       "district": "TX_33", 
-      "created": "2013-08-10T15:19:57", 
+      "created": "2013-08-10T15:20:31", 
       "state": "TX", 
       "iface": "timeline_vote", 
       "y": 32.7498, 
       "x": -97.2115, 
-      "id": 16293900, 
-      "question_id": "16173335"
+      "id": 16293907, 
+      "question_id": "16172731"
     }, 
     {
       "city": "Montville", 
