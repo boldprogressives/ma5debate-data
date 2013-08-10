@@ -30125,15 +30125,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-03T23:23:07", 
       "state_votes": 186, 
-      "votes": 1270, 
+      "votes": 1271, 
       "district_votes": 49, 
       "state": "MT", 
       "iface": "question", 
       "y": 48.2112, 
       "x": -114.294, 
-      "latest_vote": "2013-08-10T16:02:07", 
+      "latest_vote": "2013-08-10T16:14:15", 
       "id": 16172913, 
-      "trending_score": 23.5
+      "trending_score": 24.5
     }, 
     {
       "city": "Montegut", 
@@ -31189,15 +31189,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:33:11", 
       "state_votes": 267, 
-      "votes": 1742, 
+      "votes": 1743, 
       "district_votes": 73, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-10T15:53:19", 
+      "latest_vote": "2013-08-10T16:14:52", 
       "id": 16172266, 
-      "trending_score": 22.166666666666668
+      "trending_score": 23.166666666666668
     }, 
     {
       "city": "Cambridge", 
