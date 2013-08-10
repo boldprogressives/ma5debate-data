@@ -7382,15 +7382,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_01", 
       "created": "2013-08-08T17:46:44", 
       "state_votes": 1, 
-      "votes": 13, 
+      "votes": 14, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.5166, 
       "x": -122.859, 
-      "latest_vote": "2013-08-10T14:02:33", 
+      "latest_vote": "2013-08-10T14:23:06", 
       "id": 16228678, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Pleasant Hill", 
@@ -16008,15 +16008,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_12", 
       "created": "2013-08-06T19:37:02", 
       "state_votes": 74, 
-      "votes": 652, 
+      "votes": 653, 
       "district_votes": 26, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.7802, 
       "x": -122.459, 
-      "latest_vote": "2013-08-10T14:06:12", 
+      "latest_vote": "2013-08-10T14:23:12", 
       "id": 16202059, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Richfield", 
@@ -16027,15 +16027,15 @@ opendebate.processFetchedQuestions({
       "district": "MN_05", 
       "created": "2013-08-06T19:35:33", 
       "state_votes": 21, 
-      "votes": 155, 
+      "votes": 156, 
       "district_votes": 5, 
       "state": "MN", 
       "iface": "question", 
       "y": 44.8764, 
       "x": -93.2868, 
-      "latest_vote": "2013-08-10T11:38:47", 
+      "latest_vote": "2013-08-10T14:23:17", 
       "id": 16201979, 
-      "trending_score": 2.5
+      "trending_score": 3.5
     }, 
     {
       "city": "Ashland", 
@@ -27996,16 +27996,16 @@ opendebate.processFetchedQuestions({
       "submission": "Do you support the concept of keeping church and state separate?", 
       "district": "CO_02", 
       "created": "2013-08-04T14:21:20", 
-      "state_votes": 134, 
-      "votes": 1001, 
-      "district_votes": 34, 
+      "state_votes": 135, 
+      "votes": 1002, 
+      "district_votes": 35, 
       "state": "CO", 
       "iface": "question", 
       "y": 40.5342, 
       "x": -105.043, 
-      "latest_vote": "2013-08-10T14:21:09", 
+      "latest_vote": "2013-08-10T14:23:07", 
       "id": 16173921, 
-      "trending_score": 8.25
+      "trending_score": 9.25
     }, 
     {
       "city": "Fort Collins", 
@@ -30181,16 +30181,16 @@ opendebate.processFetchedQuestions({
       "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
       "district": "WA_06", 
       "created": "2013-08-03T22:09:55", 
-      "state_votes": 130, 
-      "votes": 879, 
-      "district_votes": 34, 
+      "state_votes": 131, 
+      "votes": 880, 
+      "district_votes": 35, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.3581, 
       "x": -122.594, 
-      "latest_vote": "2013-08-10T14:17:51", 
+      "latest_vote": "2013-08-10T14:23:14", 
       "id": 16172690, 
-      "trending_score": 2.25
+      "trending_score": 3.25
     }, 
     {
       "city": "Gig Harbor", 

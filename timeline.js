@@ -6,15 +6,30 @@ opendebate.processTimeline({
       "first_name": "Cheryl", 
       "last_name": "Meyer", 
       "user_id": 795081, 
-      "submission": "What will you do to overturn Citizen's United?", 
+      "submission": "Can you explain why the people responsible for the failure of Wall Street and the banking industry have not been held accountable for the destruction of our economy.", 
       "district": "WA_08", 
-      "created": "2013-08-10T14:22:59", 
+      "created": "2013-08-10T14:23:17", 
       "state": "WA", 
       "iface": "timeline_vote", 
       "y": 47.4752, 
       "x": -121.757, 
-      "id": 16293371, 
-      "question_id": "16172765"
+      "id": 16293376, 
+      "question_id": "16201979"
+    }, 
+    {
+      "city": "Belmont", 
+      "first_name": "Georges", 
+      "last_name": "Brun-Cottan", 
+      "user_id": 162984, 
+      "submission": "Will you introduce and vote for an amendment to the constitution that creates mandatory public financing of all federal elections", 
+      "district": "MA_05", 
+      "created": "2013-08-10T14:23:14", 
+      "state": "MA", 
+      "iface": "timeline_vote", 
+      "y": 42.3942, 
+      "x": -71.1802, 
+      "id": 16293375, 
+      "question_id": "16172690"
     }, 
     {
       "city": "Belton", 
@@ -60,21 +75,6 @@ opendebate.processTimeline({
       "x": -98.3977, 
       "id": 16293328, 
       "question_id": "16172765"
-    }, 
-    {
-      "city": "Belmont", 
-      "first_name": "Georges", 
-      "last_name": "Brun-Cottan", 
-      "user_id": 162984, 
-      "submission": "What are you going to do about the revolving door of regulators and private industry? The corruption taking place here is unbelievable. Example FCC Comcast takeover of NBC scandal. ", 
-      "district": "MA_05", 
-      "created": "2013-08-10T14:15:20", 
-      "state": "MA", 
-      "iface": "timeline_vote", 
-      "y": 42.3942, 
-      "x": -71.1802, 
-      "id": 16293314, 
-      "question_id": "16199756"
     }, 
     {
       "city": "Muskego", 
