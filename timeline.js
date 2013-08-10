@@ -2,19 +2,49 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Oswego", 
+      "first_name": "Sandra", 
+      "last_name": "Van Schaack", 
+      "user_id": 553291, 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
+      "district": "NY_24", 
+      "created": "2013-08-10T01:36:57", 
+      "state": "NY", 
+      "iface": "timeline_vote", 
+      "y": 43.4515, 
+      "x": -76.5017, 
+      "id": 16289719, 
+      "question_id": "16172266"
+    }, 
+    {
       "city": "Reno", 
       "first_name": "Tim", 
       "last_name": "Sanders", 
       "user_id": 974978, 
-      "submission": "Will you fight to eliminate corporate influence (ALEC) from the legislative process?", 
+      "submission": "Will congress ever address a jobs/infrastructure bill?  We needs jobs, jobs training and massive infrastructure repair.  I am sick of the GOP obstruction.", 
       "district": "NV_02", 
-      "created": "2013-08-10T01:35:59", 
+      "created": "2013-08-10T01:36:11", 
       "state": "NV", 
       "iface": "timeline_vote", 
       "y": 39.7704, 
       "x": -119.617, 
-      "id": 16289715, 
-      "question_id": "16260175"
+      "id": 16289717, 
+      "question_id": "16256688"
+    }, 
+    {
+      "city": "Cumming", 
+      "first_name": "R. Gwen", 
+      "last_name": "Smith Minniti", 
+      "user_id": 697062, 
+      "submission": "Will you support a 0.01% (one hundredth of one percent) tax on the gross value of all stock market purchases? It would only add $1 to a $10,000 stock purchase, but such a tax could help reduce our national debt due to the millions traded each day.", 
+      "district": "GA_07", 
+      "created": "2013-08-10T01:36:05", 
+      "state": "GA", 
+      "iface": "timeline_vote", 
+      "y": 34.2031, 
+      "x": -84.0743, 
+      "id": 16289716, 
+      "question_id": "16285260"
     }, 
     {
       "city": "Jacksonville", 
@@ -30,21 +60,6 @@ opendebate.processTimeline({
       "x": -81.6842, 
       "id": 16289714, 
       "question_id": "16174492"
-    }, 
-    {
-      "city": "Cumming", 
-      "first_name": "R. Gwen", 
-      "last_name": "Smith Minniti", 
-      "user_id": 697062, 
-      "submission": "Will you fight to eliminate corporate influence (ALEC) from the legislative process?", 
-      "district": "GA_07", 
-      "created": "2013-08-10T01:35:32", 
-      "state": "GA", 
-      "iface": "timeline_vote", 
-      "y": 34.2031, 
-      "x": -84.0743, 
-      "id": 16289712, 
-      "question_id": "16260175"
     }, 
     {
       "city": "East Brunswick", 
@@ -289,21 +304,6 @@ opendebate.processTimeline({
       "x": -77.4268, 
       "id": 16289382, 
       "question_id": "16201865"
-    }, 
-    {
-      "city": "Philadelphia", 
-      "first_name": "A.", 
-      "last_name": "Waksman", 
-      "user_id": 517785, 
-      "submission": "Will you support a 0.01% (one hundredth of one percent) tax on the gross value of all stock market purchases? It would only add $1 to a $10,000 stock purchase, but such a tax could help reduce our national debt due to the millions traded each day.", 
-      "district": "PA_01", 
-      "created": "2013-08-10T00:59:35", 
-      "state": "PA", 
-      "iface": "timeline_vote", 
-      "y": 39.9517, 
-      "x": -75.1446, 
-      "id": 16289345, 
-      "question_id": "16285260"
     }
   ]
 });
