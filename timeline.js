@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Would you make it possible for the millions in retirement funds now held by the Postal System and not available to be made available to the present system so that operations would not be cut and employees fired.", 
+      "submission": "Would you support strictly public  election financing for all U.S. elections?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:39:57", 
+      "created": "2013-08-11T12:40:55", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296474, 
-      "question_id": "16182643"
+      "id": 16296481, 
+      "question_id": "16184852"
     }, 
     {
       "city": "Saint Petersburg", 
