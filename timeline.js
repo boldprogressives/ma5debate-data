@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "What will you do to restore the voters rights act?  ", 
+      "submission": "Will you fight to ban GMOs from the face of the earth before they poison our whole food supply ?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:27:27", 
+      "created": "2013-08-11T12:28:48", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296423, 
-      "question_id": "16238835"
+      "id": 16296428, 
+      "question_id": "16212772"
     }, 
     {
       "city": "Saint Petersburg", 
