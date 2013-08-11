@@ -5045,15 +5045,15 @@ opendebate.processFetchedQuestions({
       "district": "MD_08", 
       "created": "2013-08-09T00:08:36", 
       "state_votes": 0, 
-      "votes": 5, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "MD", 
       "iface": "question", 
       "y": 39.0468, 
       "x": -77.1197, 
-      "latest_vote": "2013-08-10T00:23:10", 
+      "latest_vote": "2013-08-11T12:52:48", 
       "id": 16249016, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Bremerton", 
@@ -14146,15 +14146,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_15", 
       "created": "2013-08-07T01:43:37", 
       "state_votes": 2, 
-      "votes": 13, 
+      "votes": 14, 
       "district_votes": 0, 
       "state": "FL", 
       "iface": "question", 
       "y": 27.9164, 
       "x": -82.2491, 
-      "latest_vote": "2013-08-10T03:34:59", 
+      "latest_vote": "2013-08-11T12:52:13", 
       "id": 16211946, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Eagle", 
@@ -14165,15 +14165,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_03", 
       "created": "2013-08-07T01:43:28", 
       "state_votes": 3, 
-      "votes": 19, 
+      "votes": 20, 
       "district_votes": 0, 
       "state": "CO", 
       "iface": "question", 
       "y": 39.6466, 
       "x": -106.837, 
-      "latest_vote": "2013-08-10T04:51:30", 
+      "latest_vote": "2013-08-11T12:52:21", 
       "id": 16211942, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Takoma Park", 

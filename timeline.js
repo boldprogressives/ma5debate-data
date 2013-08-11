@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "would you support a 95% tax for any company that does business in the U.S.  and does not manufactures good in the U.S,?  This most definitely bring jobs back to U.S.  ", 
+      "submission": "According to a recent study (http://www.pnhp.org/sites/default/files/Funding%20HR%20676_Friedman_final_7.31.13.pdf), a single-payer system would cover everybody, eliminate copays and deductibles, and cost substantially less money than the system with or without the Affordable Care Act. Would you support and work for a single-payer system such as the one proposed in HR-676?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:51:48", 
+      "created": "2013-08-11T12:52:48", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296520, 
-      "question_id": "16212028"
+      "id": 16296523, 
+      "question_id": "16249016"
     }, 
     {
       "city": "Saint Petersburg", 
