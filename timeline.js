@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "To all candidates.... What is your plan to cut college tuition so people don't pull out loans they can't pay back?  ", 
+      "submission": "For all five candidates:  How did the Wealthiest; and, leading Creditor Nation, in the World, in 1977; become the Poorest; and Major Debtor Nation  in the World - - all within a period of just 35 years?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:29:57", 
+      "created": "2013-08-11T13:31:54", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296614, 
-      "question_id": "16200586"
+      "id": 16296620, 
+      "question_id": "16173341"
     }, 
     {
       "city": "Saint Petersburg", 

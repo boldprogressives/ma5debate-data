@@ -6109,15 +6109,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_32", 
       "created": "2013-08-08T22:59:03", 
       "state_votes": 0, 
-      "votes": 5, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "TX", 
       "iface": "question", 
       "y": 32.9502, 
       "x": -96.7109, 
-      "latest_vote": "2013-08-10T00:27:04", 
+      "latest_vote": "2013-08-11T13:31:04", 
       "id": 16241045, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Redondo Beach", 
@@ -20777,15 +20777,15 @@ opendebate.processFetchedQuestions({
       "district": "SC_01", 
       "created": "2013-08-06T15:21:32", 
       "state_votes": 1, 
-      "votes": 20, 
+      "votes": 21, 
       "district_votes": 0, 
       "state": "SC", 
       "iface": "question", 
       "y": 33.0178, 
       "x": -80.2113, 
-      "latest_vote": "2013-08-09T21:00:32", 
+      "latest_vote": "2013-08-11T13:31:28", 
       "id": 16186792, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "New York", 
@@ -23722,15 +23722,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_53", 
       "created": "2013-08-06T08:01:45", 
       "state_votes": 1, 
-      "votes": 28, 
+      "votes": 29, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 32.7843, 
       "x": -117.018, 
-      "latest_vote": "2013-08-10T00:03:27", 
+      "latest_vote": "2013-08-11T13:31:36", 
       "id": 16180573, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Terrebonne", 
@@ -29175,15 +29175,15 @@ opendebate.processFetchedQuestions({
       "district": "SD_01", 
       "created": "2013-08-04T02:13:52", 
       "state_votes": 1, 
-      "votes": 8, 
+      "votes": 9, 
       "district_votes": 0, 
       "state": "SD", 
       "iface": "question", 
       "y": 42.5281, 
       "x": -96.5033, 
-      "latest_vote": "2013-08-09T04:57:39", 
+      "latest_vote": "2013-08-11T13:31:54", 
       "id": 16173341, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Albuquerque", 
