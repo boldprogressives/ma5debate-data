@@ -15134,15 +15134,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_20", 
       "created": "2013-08-06T22:24:43", 
       "state_votes": 9, 
-      "votes": 107, 
+      "votes": 108, 
       "district_votes": 4, 
       "state": "FL", 
       "iface": "question", 
       "y": 26.2336, 
       "x": -80.1568, 
-      "latest_vote": "2013-08-10T20:13:39", 
+      "latest_vote": "2013-08-11T12:11:11", 
       "id": 16207967, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "South San Francisco", 
@@ -16749,15 +16749,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_32", 
       "created": "2013-08-06T19:28:40", 
       "state_votes": 25, 
-      "votes": 208, 
+      "votes": 209, 
       "district_votes": 6, 
       "state": "TX", 
       "iface": "question", 
       "y": 32.9633, 
       "x": -96.7452, 
-      "latest_vote": "2013-08-10T16:53:31", 
+      "latest_vote": "2013-08-11T12:11:29", 
       "id": 16201620, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Cambridge", 
@@ -19979,15 +19979,15 @@ opendebate.processFetchedQuestions({
       "district": "IN_09", 
       "created": "2013-08-06T16:00:12", 
       "state_votes": 1, 
-      "votes": 21, 
+      "votes": 22, 
       "district_votes": 0, 
       "state": "IN", 
       "iface": "question", 
       "y": 39.0953, 
       "x": -86.4577, 
-      "latest_vote": "2013-08-10T06:10:20", 
+      "latest_vote": "2013-08-11T12:10:59", 
       "id": 16189599, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "McKinney", 
@@ -26496,15 +26496,15 @@ opendebate.processFetchedQuestions({
       "district": "UT_04", 
       "created": "2013-08-05T03:02:44", 
       "state_votes": 2, 
-      "votes": 23, 
+      "votes": 24, 
       "district_votes": 0, 
       "state": "UT", 
       "iface": "question", 
       "y": 40.7134, 
       "x": -111.889, 
-      "latest_vote": "2013-08-09T21:02:09", 
+      "latest_vote": "2013-08-11T12:11:19", 
       "id": 16176054, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Colorado Springs", 
@@ -30011,15 +30011,15 @@ opendebate.processFetchedQuestions({
       "district": "IA_03", 
       "created": "2013-08-04T00:07:32", 
       "state_votes": 3, 
-      "votes": 81, 
+      "votes": 82, 
       "district_votes": 1, 
       "state": "IA", 
       "iface": "question", 
       "y": 41.5832, 
       "x": -93.7569, 
-      "latest_vote": "2013-08-10T06:28:43", 
+      "latest_vote": "2013-08-11T12:11:07", 
       "id": 16173118, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "West Des Moines", 

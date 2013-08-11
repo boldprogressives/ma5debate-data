@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "What do you feel about the Republican's relentless push to eliminate or seriously curtail abortion rights in most states, and what can be done about it?", 
+      "submission": "How can Manning and Snowden be in trouble and Dick Chaney isn't in trouble for outing Valerie Plame?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:10:46", 
+      "created": "2013-08-11T12:11:29", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296362, 
-      "question_id": "16172892"
+      "id": 16296367, 
+      "question_id": "16201620"
     }, 
     {
       "city": "Saint Petersburg", 
