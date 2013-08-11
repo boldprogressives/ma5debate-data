@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Will you do everything humanly possible to  stop all mining of fossil fuels, and to outlaw the shipping or piping of fossil fuels to or from other countries?", 
+      "submission": "What is your analysis and potential solutions to the current crisis of our state's and country's criminal justice system, with taxpayers bearing the burden of increasing costs for incarceration and recidivism to support an inequitable system particularly for poor and minority citizens?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:43:58", 
+      "created": "2013-08-11T12:44:32", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296495, 
-      "question_id": "16178322"
+      "id": 16296499, 
+      "question_id": "16172556"
     }, 
     {
       "city": "Saint Petersburg", 

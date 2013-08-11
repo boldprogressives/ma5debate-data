@@ -23076,15 +23076,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_21", 
       "created": "2013-08-06T14:20:46", 
       "state_votes": 3, 
-      "votes": 26, 
+      "votes": 27, 
       "district_votes": 0, 
       "state": "FL", 
       "iface": "question", 
       "y": 26.5248, 
       "x": -80.1768, 
-      "latest_vote": "2013-08-09T06:44:11", 
+      "latest_vote": "2013-08-11T12:44:23", 
       "id": 16182073, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Wake Forest", 
@@ -23095,15 +23095,15 @@ opendebate.processFetchedQuestions({
       "district": "NC_13", 
       "created": "2013-08-06T14:19:49", 
       "state_votes": 2, 
-      "votes": 8, 
+      "votes": 9, 
       "district_votes": 1, 
       "state": "NC", 
       "iface": "question", 
       "y": 35.9634, 
       "x": -78.5166, 
-      "latest_vote": "2013-08-08T23:30:35", 
+      "latest_vote": "2013-08-11T12:44:08", 
       "id": 16182012, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Candler", 
@@ -31075,15 +31075,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T21:01:00", 
       "state_votes": 2, 
-      "votes": 10, 
+      "votes": 11, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3923, 
       "x": -71.1313, 
-      "latest_vote": "2013-08-08T23:06:01", 
+      "latest_vote": "2013-08-11T12:44:32", 
       "id": 16172556, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Waltham", 
