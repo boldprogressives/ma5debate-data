@@ -10479,15 +10479,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_02", 
       "created": "2013-08-07T20:36:01", 
       "state_votes": 0, 
-      "votes": 5, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.5367, 
       "x": -72.5301, 
-      "latest_vote": "2013-08-09T23:39:54", 
+      "latest_vote": "2013-08-11T13:09:14", 
       "id": 16221486, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Quincy", 
@@ -26610,15 +26610,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_02", 
       "created": "2013-08-05T02:50:49", 
       "state_votes": 2, 
-      "votes": 15, 
+      "votes": 16, 
       "district_votes": 1, 
       "state": "CO", 
       "iface": "question", 
       "y": 40.4415, 
       "x": -105.369, 
-      "latest_vote": "2013-08-10T01:07:51", 
+      "latest_vote": "2013-08-11T13:09:01", 
       "id": 16175981, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Mesa", 

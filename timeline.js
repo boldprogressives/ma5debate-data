@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Why are we the only nation with over a 1000, mostly unwanted, foreign military bases? Russia has 1, China not much more. Considering our health & edu rankings, isn't there a better place for those $? ", 
+      "submission": "Will you pledge to oppose cuts to Social Security and Medicare benefits (and sign on to expand these programs)?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:08:38", 
+      "created": "2013-08-11T13:09:14", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296545, 
-      "question_id": "16221818"
+      "id": 16296547, 
+      "question_id": "16221486"
     }, 
     {
       "city": "Saint Petersburg", 
