@@ -9624,15 +9624,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_06", 
       "created": "2013-08-07T23:38:21", 
       "state_votes": 2, 
-      "votes": 9, 
+      "votes": 10, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.5998, 
       "x": -71.2229, 
-      "latest_vote": "2013-08-10T00:14:04", 
+      "latest_vote": "2013-08-11T12:34:33", 
       "id": 16223981, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Angola", 
@@ -24159,15 +24159,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_45", 
       "created": "2013-08-06T05:16:34", 
       "state_votes": 1, 
-      "votes": 14, 
+      "votes": 15, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 33.6512, 
       "x": -117.594, 
-      "latest_vote": "2013-08-10T03:52:43", 
+      "latest_vote": "2013-08-11T12:34:54", 
       "id": 16179812, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Torrance", 
@@ -24235,15 +24235,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_45", 
       "created": "2013-08-06T05:14:37", 
       "state_votes": 2, 
-      "votes": 47, 
+      "votes": 48, 
       "district_votes": 1, 
       "state": "CA", 
       "iface": "question", 
       "y": 33.6512, 
       "x": -117.594, 
-      "latest_vote": "2013-08-10T20:13:51", 
+      "latest_vote": "2013-08-11T12:34:08", 
       "id": 16179800, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Rancho Santa Margarita", 
