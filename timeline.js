@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Will you support an amendment to improve Obamacare so that every one will be able to get healthcare they want it and improve the quality of health services ", 
+      "submission": "Cities and towns struggle every year to pass school budgets, in part bec. the fed gov't isn't fully funding programs such as IDEA. What will you do get more federal money for education?  ", 
       "district": "MN_02", 
-      "created": "2013-08-11T14:28:59", 
+      "created": "2013-08-11T14:29:57", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297295, 
-      "question_id": "16243026"
+      "id": 16297298, 
+      "question_id": "16217850"
     }, 
     {
       "city": "Saint Petersburg", 

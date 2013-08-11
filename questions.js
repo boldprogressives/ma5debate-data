@@ -11467,15 +11467,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-07T16:32:05", 
       "state_votes": 1, 
-      "votes": 3, 
+      "votes": 4, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.295, 
       "x": -71.5323, 
-      "latest_vote": "2013-08-07T18:27:25", 
+      "latest_vote": "2013-08-11T14:29:57", 
       "id": 16217850, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "North Billerica", 
@@ -11600,15 +11600,15 @@ opendebate.processFetchedQuestions({
       "district": "KY_06", 
       "created": "2013-08-07T16:12:53", 
       "state_votes": 1, 
-      "votes": 5, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "KY", 
       "iface": "question", 
       "y": 38.0632, 
       "x": -84.4495, 
-      "latest_vote": "2013-08-09T21:53:12", 
+      "latest_vote": "2013-08-11T14:29:21", 
       "id": 16217691, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "San Anselmo", 
@@ -11657,15 +11657,15 @@ opendebate.processFetchedQuestions({
       "district": "NY_20", 
       "created": "2013-08-07T15:43:11", 
       "state_votes": 1, 
-      "votes": 6, 
+      "votes": 7, 
       "district_votes": 0, 
       "state": "NY", 
       "iface": "question", 
       "y": 42.9139, 
       "x": -73.708, 
-      "latest_vote": "2013-08-09T21:52:57", 
+      "latest_vote": "2013-08-11T14:29:09", 
       "id": 16217405, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Lexington", 
