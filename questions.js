@@ -5254,15 +5254,15 @@ opendebate.processFetchedQuestions({
       "district": "TN_02", 
       "created": "2013-08-08T23:42:14", 
       "state_votes": 0, 
-      "votes": 2, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.7071, 
       "x": -84.2978, 
-      "latest_vote": "2013-08-10T05:38:55", 
+      "latest_vote": "2013-08-11T14:30:14", 
       "id": 16246835, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Darby", 
@@ -11391,15 +11391,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_01", 
       "created": "2013-08-07T16:47:20", 
       "state_votes": 1, 
-      "votes": 5, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.2458, 
       "x": -123.114, 
-      "latest_vote": "2013-08-09T22:22:55", 
+      "latest_vote": "2013-08-11T14:30:59", 
       "id": 16217969, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Watertown", 
@@ -25223,15 +25223,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_08", 
       "created": "2013-08-05T16:05:13", 
       "state_votes": 1, 
-      "votes": 14, 
+      "votes": 15, 
       "district_votes": 0, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.0442, 
       "x": -88.1102, 
-      "latest_vote": "2013-08-10T15:56:21", 
+      "latest_vote": "2013-08-11T14:30:51", 
       "id": 16177906, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Sierra Vista", 
