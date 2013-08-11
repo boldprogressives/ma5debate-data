@@ -16939,15 +16939,15 @@ opendebate.processFetchedQuestions({
       "district": "IN_05", 
       "created": "2013-08-06T19:23:49", 
       "state_votes": 3, 
-      "votes": 10, 
+      "votes": 11, 
       "district_votes": 1, 
       "state": "IN", 
       "iface": "question", 
       "y": 39.8632, 
       "x": -85.9674, 
-      "latest_vote": "2013-08-08T22:57:13", 
+      "latest_vote": "2013-08-11T13:27:13", 
       "id": 16201404, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Pleasant Hill", 
@@ -16996,15 +16996,15 @@ opendebate.processFetchedQuestions({
       "district": "NY_04", 
       "created": "2013-08-06T19:21:42", 
       "state_votes": 3, 
-      "votes": 17, 
+      "votes": 18, 
       "district_votes": 0, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.7157, 
       "x": -73.5562, 
-      "latest_vote": "2013-08-09T21:58:45", 
+      "latest_vote": "2013-08-11T13:27:43", 
       "id": 16201321, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Pleasant Hill", 
