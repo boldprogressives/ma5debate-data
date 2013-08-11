@@ -14640,15 +14640,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_36", 
       "created": "2013-08-07T00:06:58", 
       "state_votes": 4, 
-      "votes": 11, 
+      "votes": 12, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 33.6522, 
       "x": -116.899, 
-      "latest_vote": "2013-08-08T18:15:12", 
+      "latest_vote": "2013-08-11T14:14:24", 
       "id": 16210153, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Lynn", 
@@ -17851,15 +17851,15 @@ opendebate.processFetchedQuestions({
       "district": "VA_01", 
       "created": "2013-08-06T17:54:59", 
       "state_votes": 7, 
-      "votes": 47, 
+      "votes": 48, 
       "district_votes": 4, 
       "state": "VA", 
       "iface": "question", 
       "y": 38.0078, 
       "x": -77.5456, 
-      "latest_vote": "2013-08-10T04:33:48", 
+      "latest_vote": "2013-08-11T14:14:31", 
       "id": 16196880, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Jamaica Plain", 
