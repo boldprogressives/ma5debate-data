@@ -11144,15 +11144,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_07", 
       "created": "2013-08-07T18:18:51", 
       "state_votes": 0, 
-      "votes": 2, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.2882, 
       "x": -71.0474, 
-      "latest_vote": "2013-08-09T23:45:18", 
+      "latest_vote": "2013-08-11T14:34:32", 
       "id": 16219710, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Sarasota", 
@@ -11163,15 +11163,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_16", 
       "created": "2013-08-07T18:18:05", 
       "state_votes": 1, 
-      "votes": 2, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "FL", 
       "iface": "question", 
       "y": 27.4087, 
       "x": -82.5233, 
-      "latest_vote": "2013-08-09T21:54:51", 
+      "latest_vote": "2013-08-11T14:34:24", 
       "id": 16219704, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Roxbury", 
@@ -11220,15 +11220,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_16", 
       "created": "2013-08-07T18:09:25", 
       "state_votes": 2, 
-      "votes": 4, 
+      "votes": 5, 
       "district_votes": 0, 
       "state": "FL", 
       "iface": "question", 
       "y": 27.4087, 
       "x": -82.5233, 
-      "latest_vote": "2013-08-09T21:55:17", 
+      "latest_vote": "2013-08-11T14:34:09", 
       "id": 16219630, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "San Antonio", 
@@ -25603,15 +25603,15 @@ opendebate.processFetchedQuestions({
       "district": "AZ_02", 
       "created": "2013-08-05T07:22:00", 
       "state_votes": 0, 
-      "votes": 2, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "AZ", 
       "iface": "question", 
       "y": 32.2744, 
       "x": -110.829, 
-      "latest_vote": "2013-08-06T19:01:33", 
+      "latest_vote": "2013-08-11T14:34:55", 
       "id": 16176749, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Tucson", 

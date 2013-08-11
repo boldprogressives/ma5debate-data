@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "When are Democrats going to stand UNITED and finally expose all the Republican Tea Party LIES about everything from Obamacare to our US Economy and let the American People learn the TRUTH?   ", 
+      "submission": "We need an fearless and principled FDR, Jimmy Carter, Bobby Kenedy, and Elizabeth Warren all rolled into one.  Are you up to it?  The next four years are the point of no return.  Are you strong enough?", 
       "district": "MN_02", 
-      "created": "2013-08-11T14:33:56", 
+      "created": "2013-08-11T14:34:55", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297311, 
-      "question_id": "16219526"
+      "id": 16297315, 
+      "question_id": "16176749"
     }, 
     {
       "city": "Saint Petersburg", 
