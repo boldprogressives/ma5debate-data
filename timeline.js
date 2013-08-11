@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "What will you do to promote background checks for potential gun owners?", 
+      "submission": "Dear candidates: how can we keep the progress we've made in  getting health care for all people, not just those who can afford it?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:58:57", 
+      "created": "2013-08-11T13:59:52", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297001, 
-      "question_id": "16211475"
+      "id": 16297046, 
+      "question_id": "16173412"
     }, 
     {
       "city": "Saint Petersburg", 
