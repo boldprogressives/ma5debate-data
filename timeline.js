@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "How can Congress vote on Social Security when it has no bearing on our economy, and is not government money? ", 
+      "submission": "Would you recommend thatBush, Cheney, Rice et al. beprosecuted as war criminalsunder the Nuremburg principles?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:08:36", 
+      "created": "2013-08-11T12:09:58", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296354, 
-      "question_id": "16173607"
+      "id": 16296359, 
+      "question_id": "16184956"
     }, 
     {
       "city": "Saint Petersburg", 

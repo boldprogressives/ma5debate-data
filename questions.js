@@ -19276,15 +19276,15 @@ opendebate.processFetchedQuestions({
       "district": "PA_12", 
       "created": "2013-08-06T16:29:02", 
       "state_votes": 4, 
-      "votes": 34, 
+      "votes": 35, 
       "district_votes": 0, 
       "state": "PA", 
       "iface": "question", 
       "y": 40.0121, 
       "x": -79.125, 
-      "latest_vote": "2013-08-10T04:27:21", 
+      "latest_vote": "2013-08-11T12:09:52", 
       "id": 16191095, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Decatur", 
@@ -21556,15 +21556,15 @@ opendebate.processFetchedQuestions({
       "district": "MI_11", 
       "created": "2013-08-06T14:58:31", 
       "state_votes": 1, 
-      "votes": 26, 
+      "votes": 27, 
       "district_votes": 0, 
       "state": "MI", 
       "iface": "question", 
       "y": 42.5446, 
       "x": -83.2139, 
-      "latest_vote": "2013-08-10T00:01:22", 
+      "latest_vote": "2013-08-11T12:09:58", 
       "id": 16184956, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Orlando", 
@@ -22259,15 +22259,15 @@ opendebate.processFetchedQuestions({
       "district": "NY_05", 
       "created": "2013-08-06T14:38:26", 
       "state_votes": 3, 
-      "votes": 25, 
+      "votes": 26, 
       "district_votes": 1, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.6742, 
       "x": -73.7091, 
-      "latest_vote": "2013-08-10T06:14:19", 
+      "latest_vote": "2013-08-11T12:09:13", 
       "id": 16183435, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Newark", 
@@ -27237,15 +27237,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_25", 
       "created": "2013-08-05T00:22:27", 
       "state_votes": 61, 
-      "votes": 474, 
+      "votes": 475, 
       "district_votes": 17, 
       "state": "FL", 
       "iface": "question", 
       "y": 25.99, 
       "x": -81.5334, 
-      "latest_vote": "2013-08-10T16:47:06", 
+      "latest_vote": "2013-08-11T12:09:22", 
       "id": 16175500, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Seattle", 
