@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "What will you do to ensure people with disabilities and mental health issues get appropriate medical care, support services, housing and food?", 
+      "submission": "1.Would you be willing to remove banking from Wall street.And stop taxing our saving in the bank.2.Will you fight for the American people. ", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:18:50", 
+      "created": "2013-08-11T13:19:49", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296572, 
-      "question_id": "16224922"
+      "id": 16296575, 
+      "question_id": "16185487"
     }, 
     {
       "city": "Saint Petersburg", 

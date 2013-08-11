@@ -5691,15 +5691,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_10", 
       "created": "2013-08-08T23:17:24", 
       "state_votes": 0, 
-      "votes": 2, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.7331, 
       "x": -120.941, 
-      "latest_vote": "2013-08-09T04:47:07", 
+      "latest_vote": "2013-08-11T13:19:40", 
       "id": 16243952, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Laughlin", 
@@ -9282,15 +9282,15 @@ opendebate.processFetchedQuestions({
       "district": "CT_04", 
       "created": "2013-08-08T02:05:35", 
       "state_votes": 1, 
-      "votes": 5, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "CT", 
       "iface": "question", 
       "y": 41.2556, 
       "x": -73.2088, 
-      "latest_vote": "2013-08-09T21:32:02", 
+      "latest_vote": "2013-08-11T13:19:01", 
       "id": 16224934, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Trumbull", 
@@ -21309,15 +21309,15 @@ opendebate.processFetchedQuestions({
       "district": "MD_04", 
       "created": "2013-08-06T15:04:20", 
       "state_votes": 2, 
-      "votes": 8, 
+      "votes": 9, 
       "district_votes": 0, 
       "state": "MD", 
       "iface": "question", 
       "y": 38.8837, 
       "x": -76.7663, 
-      "latest_vote": "2013-08-09T08:38:41", 
+      "latest_vote": "2013-08-11T13:19:49", 
       "id": 16185487, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Plantsville", 
