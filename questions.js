@@ -19903,15 +19903,15 @@ opendebate.processFetchedQuestions({
       "district": "NC_04", 
       "created": "2013-08-06T16:01:59", 
       "state_votes": 0, 
-      "votes": 7, 
+      "votes": 8, 
       "district_votes": 0, 
       "state": "NC", 
       "iface": "question", 
       "y": 35.7728, 
       "x": -78.6351, 
-      "latest_vote": "2013-08-09T08:25:24", 
+      "latest_vote": "2013-08-11T14:27:38", 
       "id": 16189711, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Marion", 
