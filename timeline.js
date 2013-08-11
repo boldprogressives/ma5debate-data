@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Why hasn't Dodd Frank been utilized?", 
+      "submission": "What can you do to stop this sickness of MONSANTO paying off Congressmen,FDA,EPA,USDA and many others to sicken poison and degrade a system which was put in place to preserve our Health and Safty?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:52:29", 
+      "created": "2013-08-11T13:53:50", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296693, 
-      "question_id": "16190074"
+      "id": 16296757, 
+      "question_id": "16215471"
     }, 
     {
       "city": "Saint Petersburg", 

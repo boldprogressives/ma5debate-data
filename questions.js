@@ -12341,15 +12341,15 @@ opendebate.processFetchedQuestions({
       "district": "NV_04", 
       "created": "2013-08-07T10:50:15", 
       "state_votes": 2, 
-      "votes": 19, 
+      "votes": 20, 
       "district_votes": 0, 
       "state": "NV", 
       "iface": "question", 
       "y": 36.3006, 
       "x": -115.238, 
-      "latest_vote": "2013-08-10T04:06:55", 
+      "latest_vote": "2013-08-11T13:53:50", 
       "id": 16215471, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Wayland", 
@@ -12512,15 +12512,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_04", 
       "created": "2013-08-07T08:26:26", 
       "state_votes": 1, 
-      "votes": 7, 
+      "votes": 8, 
       "district_votes": 0, 
       "state": "WA", 
       "iface": "question", 
       "y": 46.4569, 
       "x": -120.41, 
-      "latest_vote": "2013-08-08T23:44:05", 
+      "latest_vote": "2013-08-11T13:53:40", 
       "id": 16214660, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Collegeville", 
@@ -19409,15 +19409,15 @@ opendebate.processFetchedQuestions({
       "district": "NC_09", 
       "created": "2013-08-06T16:19:12", 
       "state_votes": 1, 
-      "votes": 12, 
+      "votes": 13, 
       "district_votes": 0, 
       "state": "NC", 
       "iface": "question", 
       "y": 35.1143, 
       "x": -80.6939, 
-      "latest_vote": "2013-08-08T22:28:09", 
+      "latest_vote": "2013-08-11T13:53:28", 
       "id": 16190598, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Dallas", 
@@ -19618,15 +19618,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_02", 
       "created": "2013-08-06T16:10:25", 
       "state_votes": 1, 
-      "votes": 12, 
+      "votes": 13, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.2764, 
       "x": -71.8195, 
-      "latest_vote": "2013-08-10T06:09:38", 
+      "latest_vote": "2013-08-11T13:53:15", 
       "id": 16190183, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Wilmington", 
@@ -30752,15 +30752,15 @@ opendebate.processFetchedQuestions({
       "district": "MO_03", 
       "created": "2013-08-03T22:10:40", 
       "state_votes": 4, 
-      "votes": 39, 
+      "votes": 40, 
       "district_votes": 2, 
       "state": "MO", 
       "iface": "question", 
       "y": 38.6391, 
       "x": -92.1163, 
-      "latest_vote": "2013-08-10T05:22:13", 
+      "latest_vote": "2013-08-11T13:53:20", 
       "id": 16172696, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Marana", 
