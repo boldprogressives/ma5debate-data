@@ -9852,15 +9852,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_01", 
       "created": "2013-08-07T22:54:03", 
       "state_votes": 1, 
-      "votes": 5, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3013, 
       "x": -73.232, 
-      "latest_vote": "2013-08-09T15:23:18", 
+      "latest_vote": "2013-08-11T13:14:52", 
       "id": 16223461, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Westfield", 

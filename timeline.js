@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "What will you do SPECIFICALLY about women's issues: reproductive rights, equal pay, violence against women, military violence against women, family caregiving, etc. etc. etc.?", 
+      "submission": "The role of the EPA is more important than ever in both combating climate change and in protecting against the human health effects of many industrial toxins including radioactive toxins. Our health care costs have soared as a result of epidemics from hidden environmental  pollutants effects on human life. Will you stand up for increased funding for these vital functions of the EPA?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:13:56", 
+      "created": "2013-08-11T13:14:52", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296556, 
-      "question_id": "16175552"
+      "id": 16296557, 
+      "question_id": "16223461"
     }, 
     {
       "city": "Saint Petersburg", 
