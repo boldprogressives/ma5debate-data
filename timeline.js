@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "How will Social Security & Medicare be strengthened with additional benefits for Senior Citizens?", 
+      "submission": "When are you going to get rid of the former Monsanto exec. the Secretary of Agriculture who's allowing our bee population to be killed off by his former company's pesticides? Are we going to have our food source destroyed just so a handful of robber barons can line their pockets?  ", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:37:49", 
+      "created": "2013-08-11T12:38:06", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296469, 
-      "question_id": "16188015"
+      "id": 16296470, 
+      "question_id": "16234686"
     }, 
     {
       "city": "Saint Petersburg", 

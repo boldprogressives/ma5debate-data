@@ -7116,15 +7116,15 @@ opendebate.processFetchedQuestions({
       "district": "NC_05", 
       "created": "2013-08-08T21:12:20", 
       "state_votes": 0, 
-      "votes": 35, 
+      "votes": 36, 
       "district_votes": 0, 
       "state": "NC", 
       "iface": "question", 
       "y": 36.3521, 
       "x": -81.4724, 
-      "latest_vote": "2013-08-10T04:42:45", 
+      "latest_vote": "2013-08-11T12:38:06", 
       "id": 16234686, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Rome", 
