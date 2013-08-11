@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "What will you do to help Native American indigenous peoples have decent lives the most of us do or did?  ", 
+      "submission": "Big banks today are able to issue loans and not offer any assistance when the borrower needs help, yet they are allowed all kinds of Federal kickbacks and help. What will you do to protect taxpayers?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:50:37", 
+      "created": "2013-08-11T13:51:48", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296678, 
-      "question_id": "16179970"
+      "id": 16296682, 
+      "question_id": "16191182"
     }, 
     {
       "city": "Saint Petersburg", 

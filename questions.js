@@ -19200,15 +19200,15 @@ opendebate.processFetchedQuestions({
       "district": "OH_03", 
       "created": "2013-08-06T16:30:56", 
       "state_votes": 2, 
-      "votes": 13, 
+      "votes": 14, 
       "district_votes": 0, 
       "state": "OH", 
       "iface": "question", 
       "y": 39.9407, 
       "x": -82.9786, 
-      "latest_vote": "2013-08-10T05:03:55", 
+      "latest_vote": "2013-08-11T13:51:34", 
       "id": 16191242, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Wallkill", 
@@ -19219,15 +19219,15 @@ opendebate.processFetchedQuestions({
       "district": "NY_19", 
       "created": "2013-08-06T16:30:08", 
       "state_votes": 3, 
-      "votes": 31, 
+      "votes": 32, 
       "district_votes": 0, 
       "state": "NY", 
       "iface": "question", 
       "y": 41.6178, 
       "x": -74.1495, 
-      "latest_vote": "2013-08-10T06:35:45", 
+      "latest_vote": "2013-08-11T13:51:48", 
       "id": 16191182, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Dallas", 
@@ -19713,15 +19713,15 @@ opendebate.processFetchedQuestions({
       "district": "NY_18", 
       "created": "2013-08-06T16:07:47", 
       "state_votes": 3, 
-      "votes": 20, 
+      "votes": 21, 
       "district_votes": 0, 
       "state": "NY", 
       "iface": "question", 
       "y": 41.3693, 
       "x": -73.9199, 
-      "latest_vote": "2013-08-10T11:27:12", 
+      "latest_vote": "2013-08-11T13:51:24", 
       "id": 16190043, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Dallas", 
