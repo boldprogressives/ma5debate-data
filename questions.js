@@ -29365,15 +29365,15 @@ opendebate.processFetchedQuestions({
       "district": "TN_01", 
       "created": "2013-08-04T01:54:52", 
       "state_votes": 1, 
-      "votes": 7, 
+      "votes": 8, 
       "district_votes": 0, 
       "state": "TN", 
       "iface": "question", 
       "y": 36.3096, 
       "x": -82.3812, 
-      "latest_vote": "2013-08-09T15:17:09", 
+      "latest_vote": "2013-08-11T12:20:18", 
       "id": 16173305, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Henderson", 

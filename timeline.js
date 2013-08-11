@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Do you truly have the guts to stand up to the GOP, Greedy Obstructionist Party, and really fight for the  health, happiness, and well-being of We The People, and our precious environment???", 
+      "submission": "What is the Democratic Party doing to gain back the house and implement President Obama fiscal policies of improving U.S. infrastructures to create jobs?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:19:53", 
+      "created": "2013-08-11T12:20:18", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296397, 
-      "question_id": "16187551"
+      "id": 16296398, 
+      "question_id": "16173305"
     }, 
     {
       "city": "Saint Petersburg", 
