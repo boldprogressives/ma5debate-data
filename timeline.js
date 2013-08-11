@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Would you support the public's right to have GMO's labeled as such?", 
+      "submission": "Should Supreme Court Justices have term limits.. say 12 years maximum?", 
       "district": "MN_02", 
-      "created": "2013-08-11T14:06:50", 
+      "created": "2013-08-11T14:07:35", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297238, 
-      "question_id": "16200693"
+      "id": 16297240, 
+      "question_id": "16240928"
     }, 
     {
       "city": "Saint Petersburg", 

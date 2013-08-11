@@ -6147,15 +6147,15 @@ opendebate.processFetchedQuestions({
       "district": "NV_01", 
       "created": "2013-08-08T22:58:15", 
       "state_votes": 0, 
-      "votes": 5, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "NV", 
       "iface": "question", 
       "y": 36.1465, 
       "x": -115.19, 
-      "latest_vote": "2013-08-09T21:16:43", 
+      "latest_vote": "2013-08-11T14:07:35", 
       "id": 16240928, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Phoenix", 
