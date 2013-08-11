@@ -17794,15 +17794,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_30", 
       "created": "2013-08-06T18:04:23", 
       "state_votes": 2, 
-      "votes": 30, 
+      "votes": 31, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 34.1709, 
       "x": -118.343, 
-      "latest_vote": "2013-08-09T22:01:59", 
+      "latest_vote": "2013-08-11T12:20:59", 
       "id": 16197463, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "North Smithfield", 
@@ -20435,15 +20435,15 @@ opendebate.processFetchedQuestions({
       "district": "OH_11", 
       "created": "2013-08-06T15:37:22", 
       "state_votes": 3, 
-      "votes": 13, 
+      "votes": 14, 
       "district_votes": 0, 
       "state": "OH", 
       "iface": "question", 
       "y": 41.4682, 
       "x": -81.514, 
-      "latest_vote": "2013-08-09T01:59:38", 
+      "latest_vote": "2013-08-11T12:21:31", 
       "id": 16188059, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "San Francisco", 
@@ -20530,15 +20530,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_32", 
       "created": "2013-08-06T15:32:29", 
       "state_votes": 5, 
-      "votes": 21, 
+      "votes": 22, 
       "district_votes": 2, 
       "state": "TX", 
       "iface": "question", 
       "y": 32.8305, 
       "x": -96.7727, 
-      "latest_vote": "2013-08-10T04:18:45", 
+      "latest_vote": "2013-08-11T12:21:12", 
       "id": 16187691, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Cocoa", 
@@ -22126,15 +22126,15 @@ opendebate.processFetchedQuestions({
       "district": "NY_04", 
       "created": "2013-08-06T14:41:32", 
       "state_votes": 1, 
-      "votes": 13, 
+      "votes": 14, 
       "district_votes": 0, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.5858, 
       "x": -73.6575, 
-      "latest_vote": "2013-08-10T01:00:40", 
+      "latest_vote": "2013-08-11T12:21:47", 
       "id": 16183683, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Washington", 

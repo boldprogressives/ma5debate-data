@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "What is the Democratic Party doing to gain back the house and implement President Obama fiscal policies of improving U.S. infrastructures to create jobs?", 
+      "submission": "Will you take action to reinstate Part 4 of the Voting Rights Act and to further protect the VRA by Congressional Re-affirmation?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:20:18", 
+      "created": "2013-08-11T12:21:47", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296398, 
-      "question_id": "16173305"
+      "id": 16296402, 
+      "question_id": "16183683"
     }, 
     {
       "city": "Saint Petersburg", 
