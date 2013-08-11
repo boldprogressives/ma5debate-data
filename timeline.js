@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "How can we keep our post offices up and running?", 
+      "submission": "Would you support a moratorium on all natural gas exploration in particular \u2018fracking\u2019 until a thorough and unbiased examination and study on the over 10,000 existing gas wells is completed to determine the actual safety of the extraction techniques and materials including an environmental impact study of long term effects?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:40:46", 
+      "created": "2013-08-11T13:43:43", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296646, 
-      "question_id": "16194365"
+      "id": 16296657, 
+      "question_id": "16223490"
     }, 
     {
       "city": "Saint Petersburg", 
