@@ -24254,15 +24254,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_45", 
       "created": "2013-08-06T05:12:57", 
       "state_votes": 2, 
-      "votes": 15, 
+      "votes": 16, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 33.6512, 
       "x": -117.594, 
-      "latest_vote": "2013-08-10T01:04:24", 
+      "latest_vote": "2013-08-11T13:47:30", 
       "id": 16179784, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Culver City", 
@@ -30144,15 +30144,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_02", 
       "created": "2013-08-03T23:39:38", 
       "state_votes": 1, 
-      "votes": 14, 
+      "votes": 15, 
       "district_votes": 0, 
       "state": "CO", 
       "iface": "question", 
       "y": 39.9389, 
       "x": -105.796, 
-      "latest_vote": "2013-08-10T01:17:10", 
+      "latest_vote": "2013-08-11T13:47:45", 
       "id": 16172952, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Winter Park", 
@@ -30201,15 +30201,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_02", 
       "created": "2013-08-03T23:31:54", 
       "state_votes": 2, 
-      "votes": 11, 
+      "votes": 12, 
       "district_votes": 1, 
       "state": "CO", 
       "iface": "question", 
       "y": 39.9389, 
       "x": -105.796, 
-      "latest_vote": "2013-08-10T01:15:45", 
+      "latest_vote": "2013-08-11T13:47:59", 
       "id": 16172934, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "West Salem", 

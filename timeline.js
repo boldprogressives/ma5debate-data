@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "where do you stand on the completion of the Keystone XL pipeline, and what , if anything, will you do to stop it?", 
+      "submission": "How quickly would you institute SINGLE PAYER, and, how quickly would you make the following becovered by Medicare, etc. : holistic treatments, such as chiropractic, acupuncture, supplements (vitamins, minerals, etc.), massage therapy, organic foods, etc.?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:46:59", 
+      "created": "2013-08-11T13:47:59", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296664, 
-      "question_id": "16189361"
+      "id": 16296667, 
+      "question_id": "16172934"
     }, 
     {
       "city": "Saint Petersburg", 
