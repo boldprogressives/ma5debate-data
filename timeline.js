@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Would you recommend thatBush, Cheney, Rice et al. beprosecuted as war criminalsunder the Nuremburg principles?", 
+      "submission": "What do you feel about the Republican's relentless push to eliminate or seriously curtail abortion rights in most states, and what can be done about it?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:09:58", 
+      "created": "2013-08-11T12:10:46", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296359, 
-      "question_id": "16184956"
+      "id": 16296362, 
+      "question_id": "16172892"
     }, 
     {
       "city": "Saint Petersburg", 
