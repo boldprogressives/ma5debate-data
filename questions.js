@@ -8579,15 +8579,15 @@ opendebate.processFetchedQuestions({
       "district": "MI_02", 
       "created": "2013-08-08T14:24:55", 
       "state_votes": 2, 
-      "votes": 8, 
+      "votes": 9, 
       "district_votes": 0, 
       "state": "MI", 
       "iface": "question", 
       "y": 43.1684, 
       "x": -86.1845, 
-      "latest_vote": "2013-08-09T19:47:29", 
+      "latest_vote": "2013-08-11T12:17:44", 
       "id": 16226345, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Sterling", 
@@ -8655,15 +8655,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_03", 
       "created": "2013-08-08T12:46:43", 
       "state_votes": 2, 
-      "votes": 6, 
+      "votes": 7, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.5763, 
       "x": -71.8021, 
-      "latest_vote": "2013-08-10T00:32:08", 
+      "latest_vote": "2013-08-11T12:17:31", 
       "id": 16225839, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Westfield", 

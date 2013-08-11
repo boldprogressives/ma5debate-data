@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "What jobs bills have you worked on and which ones are you working on now.", 
+      "submission": "Why are we subsidizing farmers to not grow crops or sending our food overseas to feed others when so many Americans in our country our going hungry!", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:16:49", 
+      "created": "2013-08-11T12:17:44", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296387, 
-      "question_id": "16240836"
+      "id": 16296389, 
+      "question_id": "16226345"
     }, 
     {
       "city": "Saint Petersburg", 
