@@ -6964,15 +6964,15 @@ opendebate.processFetchedQuestions({
       "district": "SC_01", 
       "created": "2013-08-08T21:23:11", 
       "state_votes": 0, 
-      "votes": 5, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "SC", 
       "iface": "question", 
       "y": 32.8001, 
       "x": -80.0109, 
-      "latest_vote": "2013-08-09T21:27:02", 
+      "latest_vote": "2013-08-11T12:47:56", 
       "id": 16235365, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Newton Upper Falls", 
@@ -25052,15 +25052,15 @@ opendebate.processFetchedQuestions({
       "district": "NM_03", 
       "created": "2013-08-05T17:28:21", 
       "state_votes": 1, 
-      "votes": 11, 
+      "votes": 12, 
       "district_votes": 0, 
       "state": "NM", 
       "iface": "question", 
       "y": 35.6184, 
       "x": -105.963, 
-      "latest_vote": "2013-08-08T22:46:24", 
+      "latest_vote": "2013-08-11T12:47:33", 
       "id": 16178094, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Phoenix", 
@@ -25090,15 +25090,15 @@ opendebate.processFetchedQuestions({
       "district": "ID_01", 
       "created": "2013-08-05T16:55:22", 
       "state_votes": 2, 
-      "votes": 11, 
+      "votes": 12, 
       "district_votes": 0, 
       "state": "ID", 
       "iface": "question", 
       "y": 47.84, 
       "x": -116.903, 
-      "latest_vote": "2013-08-10T17:49:24", 
+      "latest_vote": "2013-08-11T12:47:47", 
       "id": 16178033, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Seattle", 

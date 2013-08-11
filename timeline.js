@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "When is America going to prosecute confessed war criminals?", 
+      "submission": "Would you support the prosecutions of CEOs for the wrong doing perpetrated by their companies?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:45:52", 
+      "created": "2013-08-11T12:47:56", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296501, 
-      "question_id": "16182469"
+      "id": 16296504, 
+      "question_id": "16235365"
     }, 
     {
       "city": "Saint Petersburg", 
