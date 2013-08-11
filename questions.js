@@ -10137,15 +10137,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_06", 
       "created": "2013-08-07T21:35:42", 
       "state_votes": 4, 
-      "votes": 10, 
+      "votes": 11, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.7909, 
       "x": -70.9755, 
-      "latest_vote": "2013-08-09T23:40:29", 
+      "latest_vote": "2013-08-11T13:11:02", 
       "id": 16222571, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "West Newbury", 
@@ -23475,15 +23475,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_07", 
       "created": "2013-08-06T12:46:49", 
       "state_votes": 3, 
-      "votes": 11, 
+      "votes": 12, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3818, 
       "x": -71.1032, 
-      "latest_vote": "2013-08-08T22:00:26", 
+      "latest_vote": "2013-08-11T13:11:17", 
       "id": 16181017, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Somerville", 
