@@ -5805,15 +5805,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_14", 
       "created": "2013-08-08T23:11:15", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "district_votes": 0, 
       "state": "TX", 
       "iface": "question", 
       "y": 29.3969, 
       "x": -94.9208, 
-      "latest_vote": "2013-08-09T04:47:39", 
+      "latest_vote": "2013-08-11T14:28:59", 
       "id": 16243026, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Fremont", 
@@ -11752,15 +11752,15 @@ opendebate.processFetchedQuestions({
       "district": "NY_03", 
       "created": "2013-08-07T15:34:42", 
       "state_votes": 2, 
-      "votes": 6, 
+      "votes": 7, 
       "district_votes": 1, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.8691, 
       "x": -73.4093, 
-      "latest_vote": "2013-08-09T21:31:29", 
+      "latest_vote": "2013-08-11T14:28:42", 
       "id": 16217306, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Holliston", 
@@ -18060,15 +18060,15 @@ opendebate.processFetchedQuestions({
       "district": "AZ_09", 
       "created": "2013-08-06T17:29:29", 
       "state_votes": 5, 
-      "votes": 33, 
+      "votes": 34, 
       "district_votes": 2, 
       "state": "AZ", 
       "iface": "question", 
       "y": 33.4224, 
       "x": -111.928, 
-      "latest_vote": "2013-08-09T19:15:45", 
+      "latest_vote": "2013-08-11T14:28:10", 
       "id": 16194854, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "ALTUS", 

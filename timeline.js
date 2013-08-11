@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Given that thousands of architects, engineers, and scientists have found evidence that indicates the World Trade Towers were brought down with explosives on 9/11/01, what will you do to help initiate a fuller investigation of those events?", 
+      "submission": "Will you support an amendment to improve Obamacare so that every one will be able to get healthcare they want it and improve the quality of health services ", 
       "district": "MN_02", 
-      "created": "2013-08-11T14:27:38", 
+      "created": "2013-08-11T14:28:59", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297290, 
-      "question_id": "16189711"
+      "id": 16297295, 
+      "question_id": "16243026"
     }, 
     {
       "city": "Saint Petersburg", 
