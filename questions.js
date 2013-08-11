@@ -6185,15 +6185,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_03", 
       "created": "2013-08-08T22:57:24", 
       "state_votes": 1, 
-      "votes": 3, 
+      "votes": 4, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.5148, 
       "x": -122.557, 
-      "latest_vote": "2013-08-09T17:02:57", 
+      "latest_vote": "2013-08-11T12:16:49", 
       "id": 16240836, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Richardson", 
@@ -26724,15 +26724,15 @@ opendebate.processFetchedQuestions({
       "district": "IA_02", 
       "created": "2013-08-05T02:40:11", 
       "state_votes": 1, 
-      "votes": 11, 
+      "votes": 12, 
       "district_votes": 0, 
       "state": "IA", 
       "iface": "question", 
       "y": 41.5452, 
       "x": -90.6197, 
-      "latest_vote": "2013-08-09T09:05:34", 
+      "latest_vote": "2013-08-11T12:16:29", 
       "id": 16175872, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Roland", 
@@ -26743,15 +26743,15 @@ opendebate.processFetchedQuestions({
       "district": "IA_04", 
       "created": "2013-08-05T02:39:55", 
       "state_votes": 1, 
-      "votes": 14, 
+      "votes": 15, 
       "district_votes": 0, 
       "state": "IA", 
       "iface": "question", 
       "y": 42.1659, 
       "x": -93.4992, 
-      "latest_vote": "2013-08-09T06:43:43", 
+      "latest_vote": "2013-08-11T12:16:23", 
       "id": 16175871, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Davenport", 

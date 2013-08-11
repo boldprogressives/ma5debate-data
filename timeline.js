@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "why are corporations allowed to split, then one \"new\" corp makes money while the other half controls pensions and then steals workers pensions by claiming bankrupcy--all the while making huge profits and workers get yet screwed again. Why can't this practice be stopped - look at Detroit.", 
+      "submission": "What jobs bills have you worked on and which ones are you working on now.", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:15:45", 
+      "created": "2013-08-11T12:16:49", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296384, 
-      "question_id": "16184415"
+      "id": 16296387, 
+      "question_id": "16240836"
     }, 
     {
       "city": "Saint Petersburg", 
