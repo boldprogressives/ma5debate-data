@@ -10555,15 +10555,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_07", 
       "created": "2013-08-07T20:23:05", 
       "state_votes": 2, 
-      "votes": 6, 
+      "votes": 7, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.1735, 
       "x": -71.0506, 
-      "latest_vote": "2013-08-09T23:41:50", 
+      "latest_vote": "2013-08-11T13:05:56", 
       "id": 16221200, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Haverhill", 

@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Why make rules about womens reproductive rights, but not for men who are responsible for rape and assault? Why is this not a sexual harrassment issue on behalf of all women everywhere? ", 
+      "submission": "What is your position on public education.  Do you believe that quality public education should be made available to all citizens regardless of income, race, religion, sex?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:56:47", 
+      "created": "2013-08-11T13:05:56", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296531, 
-      "question_id": "16235944"
+      "id": 16296535, 
+      "question_id": "16221200"
     }, 
     {
       "city": "Saint Petersburg", 
