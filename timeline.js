@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Would you support a bargain with Snowden that he return for a trial on civil court on only the charge of stealing government property with a defense that he is a whistleblower? ", 
+      "submission": "We have the Dem party- the Republican party- Tea Party- Green party- but the real truth is we as a country need are you ready it is going to be called The Liveing Wage party and first thing to get done is get the mim wage up to 14.00 to 18.00 dollars pr hour, next fix unfair trade thats been dumped here in this country for over 40 years, next put a tax of 90 cents on the dollar for companys that out sorce factorys that pay 15.00 to 18.00 dollars pr hour over seas for lower wages, next companys the go over seas need to be placed on a import list that will get taxed more if the company wants to sell imports back to us for proffit our country has been ripped off for the last 40 years now and wages have been to low. so how would you fix this madness ?", 
       "district": "MN_02", 
-      "created": "2013-08-11T14:24:28", 
+      "created": "2013-08-11T14:26:45", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297283, 
-      "question_id": "16179728"
+      "id": 16297288, 
+      "question_id": "16178740"
     }, 
     {
       "city": "Saint Petersburg", 

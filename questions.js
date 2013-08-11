@@ -24672,15 +24672,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_08", 
       "created": "2013-08-05T20:50:19", 
       "state_votes": 1, 
-      "votes": 32, 
+      "votes": 33, 
       "district_votes": 0, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.6241, 
       "x": -122.049, 
-      "latest_vote": "2013-08-10T00:05:57", 
+      "latest_vote": "2013-08-11T14:26:18", 
       "id": 16178749, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Litchfield Park", 
@@ -24691,15 +24691,15 @@ opendebate.processFetchedQuestions({
       "district": "AZ_08", 
       "created": "2013-08-05T20:46:14", 
       "state_votes": 0, 
-      "votes": 2, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "AZ", 
       "iface": "question", 
       "y": 33.498, 
       "x": -112.377, 
-      "latest_vote": "2013-08-06T20:33:18", 
+      "latest_vote": "2013-08-11T14:26:32", 
       "id": 16178746, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "West Salem", 
@@ -24710,15 +24710,15 @@ opendebate.processFetchedQuestions({
       "district": "WI_03", 
       "created": "2013-08-05T20:43:53", 
       "state_votes": 0, 
-      "votes": 3, 
+      "votes": 4, 
       "district_votes": 0, 
       "state": "WI", 
       "iface": "question", 
       "y": 43.8996, 
       "x": -91.087, 
-      "latest_vote": "2013-08-06T20:22:34", 
+      "latest_vote": "2013-08-11T14:26:45", 
       "id": 16178740, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "West Salem", 
