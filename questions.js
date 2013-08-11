@@ -6242,15 +6242,15 @@ opendebate.processFetchedQuestions({
       "district": "MN_06", 
       "created": "2013-08-08T22:51:33", 
       "state_votes": 0, 
-      "votes": 5, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "MN", 
       "iface": "question", 
       "y": 45.1636, 
       "x": -92.9564, 
-      "latest_vote": "2013-08-10T00:16:40", 
+      "latest_vote": "2013-08-11T13:23:54", 
       "id": 16239976, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Mason", 
@@ -6280,15 +6280,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_08", 
       "created": "2013-08-08T22:48:02", 
       "state_votes": 0, 
-      "votes": 6, 
+      "votes": 7, 
       "district_votes": 0, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.012, 
       "x": -88.0907, 
-      "latest_vote": "2013-08-09T21:27:37", 
+      "latest_vote": "2013-08-11T13:23:40", 
       "id": 16239533, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Petaluma", 
@@ -9054,15 +9054,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_09", 
       "created": "2013-08-08T03:16:07", 
       "state_votes": 2, 
-      "votes": 3, 
+      "votes": 4, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 41.658, 
       "x": -70.3446, 
-      "latest_vote": "2013-08-10T00:33:54", 
+      "latest_vote": "2013-08-11T13:23:23", 
       "id": 16225105, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Denver", 
@@ -23646,15 +23646,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_45", 
       "created": "2013-08-06T11:54:48", 
       "state_votes": 5, 
-      "votes": 50, 
+      "votes": 51, 
       "district_votes": 2, 
       "state": "CA", 
       "iface": "question", 
       "y": 33.6245, 
       "x": -117.794, 
-      "latest_vote": "2013-08-10T00:03:20", 
+      "latest_vote": "2013-08-11T13:23:47", 
       "id": 16180953, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Rowe", 
@@ -28472,15 +28472,15 @@ opendebate.processFetchedQuestions({
       "district": "NE_01", 
       "created": "2013-08-04T16:17:21", 
       "state_votes": 1, 
-      "votes": 22, 
+      "votes": 23, 
       "district_votes": 0, 
       "state": "NE", 
       "iface": "question", 
       "y": 40.6581, 
       "x": -96.1832, 
-      "latest_vote": "2013-08-10T01:13:56", 
+      "latest_vote": "2013-08-11T13:23:33", 
       "id": 16174143, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Cedar Rapids", 

@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Do you believe increased revenue should be used to reduce the deficit or help the middle-class and reduce poverty?", 
+      "submission": "What is your position on the Keystone XL project?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:22:57", 
+      "created": "2013-08-11T13:23:54", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296588, 
-      "question_id": "16174333"
+      "id": 16296593, 
+      "question_id": "16239976"
     }, 
     {
       "city": "Saint Petersburg", 
