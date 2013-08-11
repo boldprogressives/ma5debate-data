@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "do you believe that gerrymandering is hurting our democracy and if so how would you fix it?", 
+      "submission": "Why are politicians and the media not talking more about getting rid of criminal, corporate welfare versus keeping critical, survival spending programs ? ", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:29:55", 
+      "created": "2013-08-11T12:30:50", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296433, 
-      "question_id": "16223771"
+      "id": 16296442, 
+      "question_id": "16250081"
     }, 
     {
       "city": "Saint Petersburg", 
