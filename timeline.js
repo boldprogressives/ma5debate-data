@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Why are we subsidizing farmers to not grow crops or sending our food overseas to feed others when so many Americans in our country our going hungry!", 
+      "submission": "The wealthiest 5% own and control all corporations through shareholder votes, executive positions, and management positions.Corporations are responsible for all toxic air pollution, all toxic water pollution, and the killing off of the planet's oxygen production. They are responsible for poverty, hunger, war, toxic food, and the worst nutrition in food of any agricultural system we have ever heard of.How can you attempt to redress these issues, and remove their damaging influence from the political whoredom that passes for the current federal (and?) government?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:17:44", 
+      "created": "2013-08-11T12:18:31", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296389, 
-      "question_id": "16226345"
+      "id": 16296392, 
+      "question_id": "16208766"
     }, 
     {
       "city": "Saint Petersburg", 

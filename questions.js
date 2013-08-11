@@ -14925,15 +14925,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_03", 
       "created": "2013-08-06T22:51:08", 
       "state_votes": 3, 
-      "votes": 31, 
+      "votes": 32, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 39.1571, 
       "x": -122.906, 
-      "latest_vote": "2013-08-10T05:56:06", 
+      "latest_vote": "2013-08-11T12:18:31", 
       "id": 16208766, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Lewis Run", 
@@ -15970,15 +15970,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_12", 
       "created": "2013-08-06T21:04:52", 
       "state_votes": 3, 
-      "votes": 25, 
+      "votes": 26, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.8016, 
       "x": -122.435, 
-      "latest_vote": "2013-08-09T19:12:37", 
+      "latest_vote": "2013-08-11T12:18:16", 
       "id": 16205553, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Grass Valley", 
