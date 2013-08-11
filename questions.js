@@ -7097,15 +7097,15 @@ opendebate.processFetchedQuestions({
       "district": "MD_05", 
       "created": "2013-08-08T21:13:18", 
       "state_votes": 0, 
-      "votes": 7, 
+      "votes": 8, 
       "district_votes": 0, 
       "state": "MD", 
       "iface": "question", 
       "y": 38.9987, 
       "x": -76.9287, 
-      "latest_vote": "2013-08-10T00:29:10", 
+      "latest_vote": "2013-08-11T13:55:40", 
       "id": 16234754, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "West Jefferson", 
@@ -7135,15 +7135,15 @@ opendebate.processFetchedQuestions({
       "district": "GA_14", 
       "created": "2013-08-08T21:11:52", 
       "state_votes": 1, 
-      "votes": 11, 
+      "votes": 12, 
       "district_votes": 1, 
       "state": "GA", 
       "iface": "question", 
       "y": 34.2829, 
       "x": -85.2376, 
-      "latest_vote": "2013-08-09T20:59:21", 
+      "latest_vote": "2013-08-11T13:55:24", 
       "id": 16234647, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Knoxville", 
@@ -7762,15 +7762,15 @@ opendebate.processFetchedQuestions({
       "district": "AZ_02", 
       "created": "2013-08-08T18:42:24", 
       "state_votes": 1, 
-      "votes": 5, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "AZ", 
       "iface": "question", 
       "y": 32.3574, 
       "x": -111.045, 
-      "latest_vote": "2013-08-10T00:30:05", 
+      "latest_vote": "2013-08-11T13:55:11", 
       "id": 16230765, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "El Segundo", 
@@ -8028,15 +8028,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_01", 
       "created": "2013-08-08T17:46:44", 
       "state_votes": 1, 
-      "votes": 14, 
+      "votes": 15, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.5166, 
       "x": -122.859, 
-      "latest_vote": "2013-08-10T14:23:06", 
+      "latest_vote": "2013-08-11T13:55:19", 
       "id": 16228678, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Pleasant Hill", 
@@ -28700,15 +28700,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_06", 
       "created": "2013-08-04T13:40:24", 
       "state_votes": 1, 
-      "votes": 20, 
+      "votes": 21, 
       "district_votes": 0, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.922, 
       "x": -88.3042, 
-      "latest_vote": "2013-08-10T01:13:35", 
+      "latest_vote": "2013-08-11T13:55:52", 
       "id": 16173767, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Vashon", 

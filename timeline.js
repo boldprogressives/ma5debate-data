@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": " Will you support legislation to repeal the Patriot act?  How do we address dealing with conflicts abroad and war not being the first solution?", 
+      "submission": "How do we get across to the general public that our public education schools belong to US, our taxes, our rule and NOT TO for-profit CORPORATIONS....this is treason, taking our voting and right to rule our own schools away from us. CORPORATOCRACY in everything....but the schools are the last straw.", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:54:48", 
+      "created": "2013-08-11T13:55:52", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296800, 
-      "question_id": "16190583"
+      "id": 16296852, 
+      "question_id": "16173767"
     }, 
     {
       "city": "Saint Petersburg", 
