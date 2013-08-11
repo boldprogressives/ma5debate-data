@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "When are you going to get rid of the former Monsanto exec. the Secretary of Agriculture who's allowing our bee population to be killed off by his former company's pesticides? Are we going to have our food source destroyed just so a handful of robber barons can line their pockets?  ", 
+      "submission": "Would you make it possible for the millions in retirement funds now held by the Postal System and not available to be made available to the present system so that operations would not be cut and employees fired.", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:38:06", 
+      "created": "2013-08-11T12:39:57", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296470, 
-      "question_id": "16234686"
+      "id": 16296474, 
+      "question_id": "16182643"
     }, 
     {
       "city": "Saint Petersburg", 
