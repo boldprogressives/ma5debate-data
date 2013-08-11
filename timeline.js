@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Do you agree with FDR's Message to Congress on Curbing Monopolies on April 29, 1938? Read at: http://www.presidency.ucsb.edu/ws/?pid=15637", 
+      "submission": "The most important issue to address right now is the climate changes due to CO2 emissions. Do you or will  you accept funding from the Koch brothers or anyone with ties to the fossil fuel industry?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:56:58", 
+      "created": "2013-08-11T13:57:45", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296903, 
-      "question_id": "16175635"
+      "id": 16296941, 
+      "question_id": "16178283"
     }, 
     {
       "city": "Saint Petersburg", 

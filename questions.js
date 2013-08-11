@@ -10916,15 +10916,15 @@ opendebate.processFetchedQuestions({
       "district": "PA_11", 
       "created": "2013-08-07T19:10:58", 
       "state_votes": 2, 
-      "votes": 8, 
+      "votes": 9, 
       "district_votes": 1, 
       "state": "PA", 
       "iface": "question", 
       "y": 41.5612, 
       "x": -75.7868, 
-      "latest_vote": "2013-08-09T21:57:19", 
+      "latest_vote": "2013-08-11T13:57:11", 
       "id": 16220168, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Billerica", 
@@ -18554,15 +18554,15 @@ opendebate.processFetchedQuestions({
       "district": "PA_11", 
       "created": "2013-08-06T17:07:39", 
       "state_votes": 1, 
-      "votes": 21, 
+      "votes": 22, 
       "district_votes": 0, 
       "state": "PA", 
       "iface": "question", 
       "y": 40.3013, 
       "x": -76.7999, 
-      "latest_vote": "2013-08-10T00:48:36", 
+      "latest_vote": "2013-08-11T13:57:22", 
       "id": 16193531, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Sebastian", 
@@ -18782,15 +18782,15 @@ opendebate.processFetchedQuestions({
       "district": "DE_01", 
       "created": "2013-08-06T16:56:14", 
       "state_votes": 4, 
-      "votes": 28, 
+      "votes": 29, 
       "district_votes": 0, 
       "state": "DE", 
       "iface": "question", 
       "y": 39.7552, 
       "x": -75.5309, 
-      "latest_vote": "2013-08-09T23:57:07", 
+      "latest_vote": "2013-08-11T13:57:34", 
       "id": 16192922, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Pearce", 
@@ -24976,15 +24976,15 @@ opendebate.processFetchedQuestions({
       "district": "MN_03", 
       "created": "2013-08-05T18:22:07", 
       "state_votes": 1, 
-      "votes": 25, 
+      "votes": 26, 
       "district_votes": 0, 
       "state": "MN", 
       "iface": "question", 
       "y": 44.8755, 
       "x": -93.3744, 
-      "latest_vote": "2013-08-10T04:32:02", 
+      "latest_vote": "2013-08-11T13:57:45", 
       "id": 16178283, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Albuquerque", 
@@ -26116,15 +26116,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_03", 
       "created": "2013-08-05T04:20:21", 
       "state_votes": 2, 
-      "votes": 27, 
+      "votes": 28, 
       "district_votes": 1, 
       "state": "CO", 
       "iface": "question", 
       "y": 37.3268, 
       "x": -107.831, 
-      "latest_vote": "2013-08-10T05:12:34", 
+      "latest_vote": "2013-08-11T13:57:06", 
       "id": 16176491, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Honolulu", 
