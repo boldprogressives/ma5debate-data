@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Instead of rewarding financial institutions by lending THEM money at 0 to 25 basis points why not lend directly to homeowners and buyers of primary residences ?", 
+      "submission": "Will you support a woman's right to choose?", 
       "district": "MN_02", 
-      "created": "2013-08-11T14:21:43", 
+      "created": "2013-08-11T14:23:47", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297277, 
-      "question_id": "16180986"
+      "id": 16297281, 
+      "question_id": "16179832"
     }, 
     {
       "city": "Saint Petersburg", 
