@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "If graduate students are the future leaders, what will you do to protect them against being forced into repayment by private loan lenders, before they graduate?", 
+      "submission": "Would you be willing to submit to Congress a resolution confirming only Congress can declare war?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:48:41", 
+      "created": "2013-08-11T13:49:47", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296669, 
-      "question_id": "16192388"
+      "id": 16296674, 
+      "question_id": "16192223"
     }, 
     {
       "city": "Saint Petersburg", 

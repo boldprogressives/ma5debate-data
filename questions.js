@@ -19029,15 +19029,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_05", 
       "created": "2013-08-06T16:41:08", 
       "state_votes": 2, 
-      "votes": 10, 
+      "votes": 11, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 38.4445, 
       "x": -122.655, 
-      "latest_vote": "2013-08-09T20:58:06", 
+      "latest_vote": "2013-08-11T13:49:47", 
       "id": 16192223, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Somerville", 
@@ -19808,15 +19808,15 @@ opendebate.processFetchedQuestions({
       "district": "NC_06", 
       "created": "2013-08-06T16:04:52", 
       "state_votes": 1, 
-      "votes": 9, 
+      "votes": 10, 
       "district_votes": 0, 
       "state": "NC", 
       "iface": "question", 
       "y": 36.1551, 
       "x": -79.8142, 
-      "latest_vote": "2013-08-08T23:14:04", 
+      "latest_vote": "2013-08-11T13:49:18", 
       "id": 16189887, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Georgetown", 
@@ -30581,15 +30581,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_03", 
       "created": "2013-08-03T22:21:40", 
       "state_votes": 2, 
-      "votes": 11, 
+      "votes": 12, 
       "district_votes": 0, 
       "state": "WA", 
       "iface": "question", 
       "y": 45.6446, 
       "x": -122.623, 
-      "latest_vote": "2013-08-08T22:49:07", 
+      "latest_vote": "2013-08-11T13:49:34", 
       "id": 16172733, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Bremerton", 
