@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Big banks today are able to issue loans and not offer any assistance when the borrower needs help, yet they are allowed all kinds of Federal kickbacks and help. What will you do to protect taxpayers?", 
+      "submission": "Why hasn't Dodd Frank been utilized?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:51:48", 
+      "created": "2013-08-11T13:52:29", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296682, 
-      "question_id": "16191182"
+      "id": 16296693, 
+      "question_id": "16190074"
     }, 
     {
       "city": "Saint Petersburg", 
