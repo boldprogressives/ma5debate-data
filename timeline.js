@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Will you support reform to congressional and executive compensation, including pay that is equal to the median income of the constituents they represent?", 
+      "submission": "Will you propose a new voting rights law?", 
       "district": "MN_02", 
-      "created": "2013-08-11T14:08:43", 
+      "created": "2013-08-11T14:11:50", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297244, 
-      "question_id": "16201568"
+      "id": 16297253, 
+      "question_id": "16239018"
     }, 
     {
       "city": "Saint Petersburg", 
