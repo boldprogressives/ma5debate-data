@@ -18915,15 +18915,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_01", 
       "created": "2013-08-06T16:45:04", 
       "state_votes": 2, 
-      "votes": 7, 
+      "votes": 8, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.6871, 
       "x": -73.0744, 
-      "latest_vote": "2013-08-08T23:51:22", 
+      "latest_vote": "2013-08-11T13:48:41", 
       "id": 16192388, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Riverside", 
@@ -30239,15 +30239,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_02", 
       "created": "2013-08-03T23:28:48", 
       "state_votes": 1, 
-      "votes": 10, 
+      "votes": 11, 
       "district_votes": 0, 
       "state": "CO", 
       "iface": "question", 
       "y": 39.9389, 
       "x": -105.796, 
-      "latest_vote": "2013-08-10T01:18:24", 
+      "latest_vote": "2013-08-11T13:48:18", 
       "id": 16172922, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Kalispell", 

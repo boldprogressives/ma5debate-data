@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "How quickly would you institute SINGLE PAYER, and, how quickly would you make the following becovered by Medicare, etc. : holistic treatments, such as chiropractic, acupuncture, supplements (vitamins, minerals, etc.), massage therapy, organic foods, etc.?", 
+      "submission": "If graduate students are the future leaders, what will you do to protect them against being forced into repayment by private loan lenders, before they graduate?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:47:59", 
+      "created": "2013-08-11T13:48:41", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296667, 
-      "question_id": "16172934"
+      "id": 16296669, 
+      "question_id": "16192388"
     }, 
     {
       "city": "Saint Petersburg", 
