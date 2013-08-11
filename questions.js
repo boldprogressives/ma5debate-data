@@ -18193,15 +18193,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_02", 
       "created": "2013-08-06T17:21:23", 
       "state_votes": 6, 
-      "votes": 47, 
+      "votes": 48, 
       "district_votes": 1, 
       "state": "OR", 
       "iface": "question", 
       "y": 44.2754, 
       "x": -121.206, 
-      "latest_vote": "2013-08-10T06:04:24", 
+      "latest_vote": "2013-08-11T12:25:05", 
       "id": 16194324, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Portland", 
@@ -25527,15 +25527,15 @@ opendebate.processFetchedQuestions({
       "district": "WI_03", 
       "created": "2013-08-05T10:45:15", 
       "state_votes": 1, 
-      "votes": 12, 
+      "votes": 13, 
       "district_votes": 0, 
       "state": "WI", 
       "iface": "question", 
       "y": 44.5664, 
       "x": -91.6718, 
-      "latest_vote": "2013-08-09T01:29:15", 
+      "latest_vote": "2013-08-11T12:25:18", 
       "id": 16176933, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Snohomish", 

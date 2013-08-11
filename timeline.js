@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Do you support the NSA wholesale collection and storage of private communications of Americans? If not; What are you going to do about it?", 
+      "submission": "Many colleges require a service learning project of their students.  Do you think we could require that of our congress so they get in touch with the people instead of corporations?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:24:45", 
+      "created": "2013-08-11T12:25:18", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296412, 
-      "question_id": "16183342"
+      "id": 16296414, 
+      "question_id": "16176933"
     }, 
     {
       "city": "Saint Petersburg", 
