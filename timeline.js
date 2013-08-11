@@ -2,6 +2,21 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Burnsville", 
+      "first_name": "Sharon", 
+      "last_name": "Papendick", 
+      "user_id": 1780669, 
+      "submission": "Congress persons have voted to put themselves in the driver's seat when it comes to their salaries. They vote themselves raises and we as citizens cannot over turn. What will you do to stop this practice?", 
+      "district": "MN_02", 
+      "created": "2013-08-11T12:07:46", 
+      "state": "MN", 
+      "iface": "timeline_vote", 
+      "y": 44.7702, 
+      "x": -93.2812, 
+      "id": 16296352, 
+      "question_id": "16173244"
+    }, 
+    {
       "city": "Saint Petersburg", 
       "first_name": "SANDY", 
       "last_name": "OESTREICH", 
@@ -301,21 +316,6 @@ opendebate.processTimeline({
       "x": -86.865, 
       "id": 16294618, 
       "question_id": "16175570"
-    }, 
-    {
-      "city": "Pittsburgh", 
-      "first_name": "Robert", 
-      "last_name": "Weiner", 
-      "user_id": 571762, 
-      "submission": "What will you do to combat income inequality, the worst we have seen since the Great Depression?", 
-      "district": "PA_14", 
-      "created": "2013-08-10T16:52:07", 
-      "state": "PA", 
-      "iface": "timeline_vote", 
-      "y": 40.4289, 
-      "x": -79.9232, 
-      "id": 16294588, 
-      "question_id": "16172697"
     }
   ]
 });

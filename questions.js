@@ -23171,15 +23171,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_07", 
       "created": "2013-08-06T14:19:00", 
       "state_votes": 12, 
-      "votes": 72, 
+      "votes": 73, 
       "district_votes": 3, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.2847, 
       "x": -71.1277, 
-      "latest_vote": "2013-08-09T23:28:57", 
+      "latest_vote": "2013-08-11T12:07:30", 
       "id": 16181945, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Hamilton", 
@@ -27883,15 +27883,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_05", 
       "created": "2013-08-04T20:26:19", 
       "state_votes": 4, 
-      "votes": 94, 
+      "votes": 95, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "question", 
       "y": 44.7306, 
       "x": -123.911, 
-      "latest_vote": "2013-08-09T23:27:34", 
+      "latest_vote": "2013-08-11T12:07:17", 
       "id": 16174618, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Siletz", 
@@ -29574,15 +29574,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_03", 
       "created": "2013-08-04T01:15:12", 
       "state_votes": 40, 
-      "votes": 393, 
+      "votes": 394, 
       "district_votes": 4, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.2476, 
       "x": -96.8112, 
-      "latest_vote": "2013-08-10T16:06:45", 
+      "latest_vote": "2013-08-11T12:07:46", 
       "id": 16173244, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Saint Peters", 
@@ -29631,15 +29631,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_02", 
       "created": "2013-08-04T01:08:19", 
       "state_votes": 41, 
-      "votes": 338, 
+      "votes": 339, 
       "district_votes": 8, 
       "state": "WA", 
       "iface": "question", 
       "y": 48.4989, 
       "x": -122.607, 
-      "latest_vote": "2013-08-10T20:16:07", 
+      "latest_vote": "2013-08-11T12:07:21", 
       "id": 16173225, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Saint Peters", 
