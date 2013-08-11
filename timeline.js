@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "What will you do to keep elected judges honest, fair & to prevent \"campaign contributions\" & bribes from protecting criminals & supporting white collar crime, distorting the original rule of law?", 
+      "submission": "What would you do about the incredible income disparity that exists in this country and is bringing our entire middle class down and creating the \"new poor\"?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:41:49", 
+      "created": "2013-08-11T12:42:57", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296485, 
-      "question_id": "16233222"
+      "id": 16296490, 
+      "question_id": "16212111"
     }, 
     {
       "city": "Saint Petersburg", 

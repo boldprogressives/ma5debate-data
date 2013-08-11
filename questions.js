@@ -7344,15 +7344,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_25", 
       "created": "2013-08-08T20:32:07", 
       "state_votes": 0, 
-      "votes": 6, 
+      "votes": 7, 
       "district_votes": 0, 
       "state": "TX", 
       "iface": "question", 
       "y": 30.2915, 
       "x": -97.7339, 
-      "latest_vote": "2013-08-09T23:32:49", 
+      "latest_vote": "2013-08-11T12:42:14", 
       "id": 16233239, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Austin", 
@@ -13139,15 +13139,15 @@ opendebate.processFetchedQuestions({
       "district": "NJ_05", 
       "created": "2013-08-07T04:05:44", 
       "state_votes": 2, 
-      "votes": 20, 
+      "votes": 21, 
       "district_votes": 0, 
       "state": "NJ", 
       "iface": "question", 
       "y": 40.9545, 
       "x": -73.9254, 
-      "latest_vote": "2013-08-10T05:50:00", 
+      "latest_vote": "2013-08-11T12:42:50", 
       "id": 16213342, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Gibsonton", 
@@ -14051,15 +14051,15 @@ opendebate.processFetchedQuestions({
       "district": "NY_12", 
       "created": "2013-08-07T02:01:24", 
       "state_votes": 3, 
-      "votes": 18, 
+      "votes": 19, 
       "district_votes": 1, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.7564, 
       "x": -73.9703, 
-      "latest_vote": "2013-08-10T05:54:07", 
+      "latest_vote": "2013-08-11T12:42:57", 
       "id": 16212111, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Seaford", 
@@ -14108,15 +14108,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_02", 
       "created": "2013-08-07T01:52:57", 
       "state_votes": 2, 
-      "votes": 21, 
+      "votes": 22, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.965, 
       "x": -122.619, 
-      "latest_vote": "2013-08-10T04:24:42", 
+      "latest_vote": "2013-08-11T12:42:27", 
       "id": 16212057, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Hesperia", 
@@ -15590,15 +15590,15 @@ opendebate.processFetchedQuestions({
       "district": "KY_02", 
       "created": "2013-08-06T21:39:02", 
       "state_votes": 9, 
-      "votes": 35, 
+      "votes": 36, 
       "district_votes": 3, 
       "state": "KY", 
       "iface": "question", 
       "y": 37.7076, 
       "x": -85.8619, 
-      "latest_vote": "2013-08-10T14:59:28", 
+      "latest_vote": "2013-08-11T12:42:15", 
       "id": 16206200, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Melbourne Beach", 
