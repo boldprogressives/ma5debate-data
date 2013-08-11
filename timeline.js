@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "when is congress going to make foods containing GMO'S be labeled. so we can choose what we are eating. & how many times  are they going to let MONSANTO keep killing us. ", 
+      "submission": "Will you support an amendment to repeal stand your ground legislation that has victimized minorities? ", 
       "district": "MN_02", 
-      "created": "2013-08-11T14:03:59", 
+      "created": "2013-08-11T14:04:32", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297231, 
-      "question_id": "16203965"
+      "id": 16297234, 
+      "question_id": "16187290"
     }, 
     {
       "city": "Saint Petersburg", 
