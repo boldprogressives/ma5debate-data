@@ -8009,15 +8009,15 @@ opendebate.processFetchedQuestions({
       "district": "MT_01", 
       "created": "2013-08-08T17:54:32", 
       "state_votes": 1, 
-      "votes": 6, 
+      "votes": 7, 
       "district_votes": 1, 
       "state": "MT", 
       "iface": "question", 
       "y": 45.7856, 
       "x": -108.576, 
-      "latest_vote": "2013-08-10T01:21:35", 
+      "latest_vote": "2013-08-11T13:44:40", 
       "id": 16229028, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Beaverton", 
@@ -29688,15 +29688,15 @@ opendebate.processFetchedQuestions({
       "district": "AZ_02", 
       "created": "2013-08-04T01:06:23", 
       "state_votes": 1, 
-      "votes": 32, 
+      "votes": 33, 
       "district_votes": 0, 
       "state": "AZ", 
       "iface": "question", 
       "y": 32.2449, 
       "x": -110.921, 
-      "latest_vote": "2013-08-10T00:10:07", 
+      "latest_vote": "2013-08-11T13:44:02", 
       "id": 16173220, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Kerrville", 

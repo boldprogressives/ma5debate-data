@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Would you support a moratorium on all natural gas exploration in particular \u2018fracking\u2019 until a thorough and unbiased examination and study on the over 10,000 existing gas wells is completed to determine the actual safety of the extraction techniques and materials including an environmental impact study of long term effects?", 
+      "submission": "Would you consider joining fellow progressives to press for prosecution of bankers or their allies for financial crimes?  The barrier against lawsuits is slowly crumbling -- perhaps in time for several high-profile cases to come of age in time for the autumn 2014 elections.", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:43:43", 
+      "created": "2013-08-11T13:44:40", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296657, 
-      "question_id": "16223490"
+      "id": 16296659, 
+      "question_id": "16229028"
     }, 
     {
       "city": "Saint Petersburg", 
