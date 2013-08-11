@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Many colleges require a service learning project of their students.  Do you think we could require that of our congress so they get in touch with the people instead of corporations?", 
+      "submission": "to each of the cadidates what will you say or do to keep republicans focus on the ecomony, jobs, instead of repealing obama care.", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:25:18", 
+      "created": "2013-08-11T12:26:43", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296414, 
-      "question_id": "16176933"
+      "id": 16296421, 
+      "question_id": "16173157"
     }, 
     {
       "city": "Saint Petersburg", 
