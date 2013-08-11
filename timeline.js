@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Would you support strictly public  election financing for all U.S. elections?", 
+      "submission": "What will you do to keep elected judges honest, fair & to prevent \"campaign contributions\" & bribes from protecting criminals & supporting white collar crime, distorting the original rule of law?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:40:55", 
+      "created": "2013-08-11T12:41:49", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296481, 
-      "question_id": "16184852"
+      "id": 16296485, 
+      "question_id": "16233222"
     }, 
     {
       "city": "Saint Petersburg", 
