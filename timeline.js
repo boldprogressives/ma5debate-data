@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Do you believe that its right that our military uses depleted uranium munitions in conflict zones, which not only destroy their target, but also spread deadly radiation over civillian populations?", 
+      "submission": "Will you protect and strengthen Social Security?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:06:31", 
+      "created": "2013-08-11T13:07:10", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296538, 
-      "question_id": "16207353"
+      "id": 16296540, 
+      "question_id": "16175852"
     }, 
     {
       "city": "Saint Petersburg", 
