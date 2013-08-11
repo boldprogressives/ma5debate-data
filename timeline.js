@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Will you call out the GOP on their outright lies on The Deficit, ACA, repealing funding for ACRON which hasn't existed in years? e.g. Eric Cantor on this past Sunday's talk shows telling everyone the Big Lie that our Deficit is growing rather shrinking under The Obama administration.When these lies go unchallenged  we'll lose the battle! ", 
+      "submission": "WHAT SPECIFIC PLAN DO YOU HAVE TO RESTORE THE MIDDLE CLASS TO ONCE AGAIN BECOME THE VIBRANT CONTRIBUTOR TO OUR ECONOMY ?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:20:53", 
+      "created": "2013-08-11T13:21:53", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296578, 
-      "question_id": "16181008"
+      "id": 16296584, 
+      "question_id": "16203194"
     }, 
     {
       "city": "Saint Petersburg", 
