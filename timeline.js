@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Do you think 'Obamacare' is the step in the right direction for a single payer system? What role would health insurance companies play in such a system? ", 
+      "submission": "How can we keep our post offices up and running?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:39:43", 
+      "created": "2013-08-11T13:40:46", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296642, 
-      "question_id": "16188245"
+      "id": 16296646, 
+      "question_id": "16194365"
     }, 
     {
       "city": "Saint Petersburg", 

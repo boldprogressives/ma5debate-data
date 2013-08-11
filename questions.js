@@ -5786,15 +5786,15 @@ opendebate.processFetchedQuestions({
       "district": "NJ_07", 
       "created": "2013-08-08T23:11:15", 
       "state_votes": 0, 
-      "votes": 3, 
+      "votes": 4, 
       "district_votes": 0, 
       "state": "NJ", 
       "iface": "question", 
       "y": 40.679, 
       "x": -74.4327, 
-      "latest_vote": "2013-08-10T03:20:52", 
+      "latest_vote": "2013-08-11T13:40:16", 
       "id": 16243019, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Texas City", 
@@ -18174,15 +18174,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_09", 
       "created": "2013-08-06T17:22:17", 
       "state_votes": 9, 
-      "votes": 54, 
+      "votes": 55, 
       "district_votes": 2, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.0555, 
       "x": -70.1873, 
-      "latest_vote": "2013-08-10T04:15:03", 
+      "latest_vote": "2013-08-11T13:40:46", 
       "id": 16194365, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Redmond", 
@@ -20245,15 +20245,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_32", 
       "created": "2013-08-06T15:46:39", 
       "state_votes": 1, 
-      "votes": 24, 
+      "votes": 25, 
       "district_votes": 0, 
       "state": "TX", 
       "iface": "question", 
       "y": 32.8305, 
       "x": -96.7727, 
-      "latest_vote": "2013-08-09T23:51:43", 
+      "latest_vote": "2013-08-11T13:40:28", 
       "id": 16188558, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Ridgefield", 
@@ -23931,15 +23931,15 @@ opendebate.processFetchedQuestions({
       "district": "NV_01", 
       "created": "2013-08-06T05:37:48", 
       "state_votes": 4, 
-      "votes": 11, 
+      "votes": 12, 
       "district_votes": 2, 
       "state": "NV", 
       "iface": "question", 
       "y": 36.087, 
       "x": -115.138, 
-      "latest_vote": "2013-08-08T22:45:20", 
+      "latest_vote": "2013-08-11T13:40:38", 
       "id": 16180075, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "KALAHEO", 
