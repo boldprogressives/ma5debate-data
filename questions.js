@@ -17186,15 +17186,15 @@ opendebate.processFetchedQuestions({
       "district": "VA_04", 
       "created": "2013-08-06T19:05:37", 
       "state_votes": 3, 
-      "votes": 32, 
+      "votes": 33, 
       "district_votes": 1, 
       "state": "VA", 
       "iface": "question", 
       "y": 36.7434, 
       "x": -76.2257, 
-      "latest_vote": "2013-08-10T04:14:47", 
+      "latest_vote": "2013-08-11T14:06:50", 
       "id": 16200693, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Charlotte", 
@@ -17376,15 +17376,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_04", 
       "created": "2013-08-06T18:48:12", 
       "state_votes": 3, 
-      "votes": 33, 
+      "votes": 34, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 38.7153, 
       "x": -121.079, 
-      "latest_vote": "2013-08-10T06:34:53", 
+      "latest_vote": "2013-08-11T14:06:30", 
       "id": 16199852, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Shelbyville", 

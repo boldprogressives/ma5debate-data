@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "What would you do to turn the tide in the states to restrict voter access/limiting registration?", 
+      "submission": "Would you support the public's right to have GMO's labeled as such?", 
       "district": "MN_02", 
-      "created": "2013-08-11T14:05:30", 
+      "created": "2013-08-11T14:06:50", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297236, 
-      "question_id": "16186616"
+      "id": 16297238, 
+      "question_id": "16200693"
     }, 
     {
       "city": "Saint Petersburg", 
