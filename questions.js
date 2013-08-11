@@ -24482,15 +24482,15 @@ opendebate.processFetchedQuestions({
       "district": "AR_03", 
       "created": "2013-08-06T00:22:25", 
       "state_votes": 1, 
-      "votes": 9, 
+      "votes": 10, 
       "district_votes": 0, 
       "state": "AR", 
       "iface": "question", 
       "y": 36.1808, 
       "x": -94.1677, 
-      "latest_vote": "2013-08-09T19:23:54", 
+      "latest_vote": "2013-08-11T13:22:29", 
       "id": 16179248, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Tucson", 
@@ -28263,15 +28263,15 @@ opendebate.processFetchedQuestions({
       "district": "AZ_06", 
       "created": "2013-08-04T19:17:01", 
       "state_votes": 1, 
-      "votes": 7, 
+      "votes": 8, 
       "district_votes": 0, 
       "state": "AZ", 
       "iface": "question", 
       "y": 33.6324, 
       "x": -112.112, 
-      "latest_vote": "2013-08-09T04:33:28", 
+      "latest_vote": "2013-08-11T13:22:57", 
       "id": 16174333, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Phoenix", 
@@ -31265,15 +31265,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:40:12", 
       "state_votes": 5, 
-      "votes": 25, 
+      "votes": 26, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4207, 
       "x": -71.1582, 
-      "latest_vote": "2013-08-09T04:56:17", 
+      "latest_vote": "2013-08-11T13:22:45", 
       "id": 16172277, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Revere", 

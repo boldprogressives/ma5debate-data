@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "WHAT SPECIFIC PLAN DO YOU HAVE TO RESTORE THE MIDDLE CLASS TO ONCE AGAIN BECOME THE VIBRANT CONTRIBUTOR TO OUR ECONOMY ?", 
+      "submission": "Do you believe increased revenue should be used to reduce the deficit or help the middle-class and reduce poverty?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:21:53", 
+      "created": "2013-08-11T13:22:57", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296584, 
-      "question_id": "16203194"
+      "id": 16296588, 
+      "question_id": "16174333"
     }, 
     {
       "city": "Saint Petersburg", 
