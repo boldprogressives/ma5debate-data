@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Dear candidates: how can we keep the progress we've made in  getting health care for all people, not just those who can afford it?", 
+      "submission": "Since corporations are now people, those that undermine democracy and don't pay their taxes should be convicted, punished, and sent packing.  Hardly patriots; more like treasonists?  Your views?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:59:52", 
+      "created": "2013-08-11T14:00:48", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297046, 
-      "question_id": "16173412"
+      "id": 16297092, 
+      "question_id": "16176713"
     }, 
     {
       "city": "Saint Petersburg", 
