@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Will you work to reduce national security spending to the level of 2000?", 
+      "submission": "What is your position on \"Free Trade\" Democrats like Pres Clinton et al. have \"reached across the aisle\" to pass these unpopular and  destructive \"deals\". will you  actively pursue their  undoing ?", 
       "district": "MN_02", 
-      "created": "2013-08-11T14:01:46", 
+      "created": "2013-08-11T14:02:44", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297139, 
-      "question_id": "16173216"
+      "id": 16297184, 
+      "question_id": "16182146"
     }, 
     {
       "city": "Saint Petersburg", 
