@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "What are you going to do to prevent the Internal Revenue Service from being used as a political weapon?", 
+      "submission": "Since the elections in 2000 the laws protecting liberty and security have been repeatedly overwritten. Why won't you publicly defend the Constitution and the Bill of Rights? ", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:37:50", 
+      "created": "2013-08-11T13:38:46", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296637, 
-      "question_id": "16180445"
+      "id": 16296639, 
+      "question_id": "16188221"
     }, 
     {
       "city": "Saint Petersburg", 

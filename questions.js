@@ -8275,15 +8275,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-08T16:12:07", 
       "state_votes": 4, 
-      "votes": 10, 
+      "votes": 11, 
       "district_votes": 2, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4558, 
       "x": -71.215, 
-      "latest_vote": "2013-08-10T01:21:48", 
+      "latest_vote": "2013-08-11T13:38:30", 
       "id": 16226969, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Lexington", 
@@ -20378,15 +20378,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_12", 
       "created": "2013-08-06T15:40:14", 
       "state_votes": 2, 
-      "votes": 8, 
+      "votes": 9, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.7798, 
       "x": -122.489, 
-      "latest_vote": "2013-08-08T23:25:17", 
+      "latest_vote": "2013-08-11T13:38:46", 
       "id": 16188221, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Forman", 
