@@ -6565,15 +6565,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_28", 
       "created": "2013-08-08T22:41:39", 
       "state_votes": 0, 
-      "votes": 16, 
+      "votes": 17, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 34.0915, 
       "x": -118.382, 
-      "latest_vote": "2013-08-10T04:23:40", 
+      "latest_vote": "2013-08-11T12:27:27", 
       "id": 16238835, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Germantown", 
@@ -22658,15 +22658,15 @@ opendebate.processFetchedQuestions({
       "district": "NY_19", 
       "created": "2013-08-06T14:31:22", 
       "state_votes": 2, 
-      "votes": 33, 
+      "votes": 34, 
       "district_votes": 0, 
       "state": "NY", 
       "iface": "question", 
       "y": 42.2483, 
       "x": -73.7744, 
-      "latest_vote": "2013-08-10T06:17:31", 
+      "latest_vote": "2013-08-11T12:27:25", 
       "id": 16182857, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Berkeley", 

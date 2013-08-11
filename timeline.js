@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "to each of the cadidates what will you say or do to keep republicans focus on the ecomony, jobs, instead of repealing obama care.", 
+      "submission": "What will you do to restore the voters rights act?  ", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:26:43", 
+      "created": "2013-08-11T12:27:27", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296421, 
-      "question_id": "16173157"
+      "id": 16296423, 
+      "question_id": "16238835"
     }, 
     {
       "city": "Saint Petersburg", 
