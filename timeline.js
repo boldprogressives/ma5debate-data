@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Would you consider joining fellow progressives to press for prosecution of bankers or their allies for financial crimes?  The barrier against lawsuits is slowly crumbling -- perhaps in time for several high-profile cases to come of age in time for the autumn 2014 elections.", 
+      "submission": "Why is it that a private corporation (federal reserve) is in charge of, and controls, America's money supply?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:44:40", 
+      "created": "2013-08-11T13:45:53", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296659, 
-      "question_id": "16229028"
+      "id": 16296661, 
+      "question_id": "16173145"
     }, 
     {
       "city": "Saint Petersburg", 

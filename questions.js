@@ -29935,15 +29935,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_01", 
       "created": "2013-08-04T00:29:32", 
       "state_votes": 1, 
-      "votes": 11, 
+      "votes": 12, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.4583, 
       "x": -122.797, 
-      "latest_vote": "2013-08-08T22:39:19", 
+      "latest_vote": "2013-08-11T13:45:53", 
       "id": 16173145, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Placitas", 
