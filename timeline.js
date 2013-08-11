@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "The most important issue to address right now is the climate changes due to CO2 emissions. Do you or will  you accept funding from the Koch brothers or anyone with ties to the fossil fuel industry?", 
+      "submission": "What will you do to promote background checks for potential gun owners?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:57:45", 
+      "created": "2013-08-11T13:58:57", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296941, 
-      "question_id": "16178283"
+      "id": 16297001, 
+      "question_id": "16211475"
     }, 
     {
       "city": "Saint Petersburg", 
