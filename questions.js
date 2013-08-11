@@ -26154,15 +26154,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_25", 
       "created": "2013-08-05T04:17:20", 
       "state_votes": 2, 
-      "votes": 33, 
+      "votes": 34, 
       "district_votes": 0, 
       "state": "TX", 
       "iface": "question", 
       "y": 31.1384, 
       "x": -97.9342, 
-      "latest_vote": "2013-08-10T05:14:22", 
+      "latest_vote": "2013-08-11T12:55:08", 
       "id": 16176482, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Albuquerque", 

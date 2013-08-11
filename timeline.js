@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Do you think it is to late to investigate illegal actions and prosecute those individuals who were responsible in the 2008 wall street and banking economic meltdown?", 
+      "submission": "Why is it that the congress and senate can work part time and do nothing  and get full benefits  full pay when other as the military do not.", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:54:27", 
+      "created": "2013-08-11T12:55:08", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296528, 
-      "question_id": "16176565"
+      "id": 16296529, 
+      "question_id": "16176482"
     }, 
     {
       "city": "Saint Petersburg", 
