@@ -26990,15 +26990,15 @@ opendebate.processFetchedQuestions({
       "district": "AZ_02", 
       "created": "2013-08-05T01:25:10", 
       "state_votes": 15, 
-      "votes": 169, 
+      "votes": 170, 
       "district_votes": 2, 
       "state": "AZ", 
       "iface": "question", 
       "y": 32.2418, 
       "x": -110.947, 
-      "latest_vote": "2013-08-10T10:56:48", 
+      "latest_vote": "2013-08-11T12:13:32", 
       "id": 16175691, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Mount Vernon", 
@@ -27959,15 +27959,15 @@ opendebate.processFetchedQuestions({
       "district": "NV_01", 
       "created": "2013-08-04T20:16:26", 
       "state_votes": 0, 
-      "votes": 5, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "NV", 
       "iface": "question", 
       "y": 36.1045, 
       "x": -115.068, 
-      "latest_vote": "2013-08-09T06:43:45", 
+      "latest_vote": "2013-08-11T12:13:49", 
       "id": 16174526, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Edmonds", 
@@ -30182,15 +30182,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_02", 
       "created": "2013-08-03T23:35:00", 
       "state_votes": 21, 
-      "votes": 168, 
+      "votes": 169, 
       "district_votes": 6, 
       "state": "CO", 
       "iface": "question", 
       "y": 39.9389, 
       "x": -105.796, 
-      "latest_vote": "2013-08-10T03:21:02", 
+      "latest_vote": "2013-08-11T12:13:02", 
       "id": 16172941, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Winter Park", 
@@ -30828,15 +30828,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_06", 
       "created": "2013-08-03T22:08:10", 
       "state_votes": 19, 
-      "votes": 159, 
+      "votes": 160, 
       "district_votes": 3, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.3581, 
       "x": -122.594, 
-      "latest_vote": "2013-08-10T04:08:58", 
+      "latest_vote": "2013-08-11T12:13:22", 
       "id": 16172688, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Eldridge", 

@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "What would you do to stop the unbridled takeover of American resources by Corporate America.", 
+      "submission": "Currently, we have almost fifty million uninsured Americans.  What are your plans for making sure that healthcare  is affordable to all Americans?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:12:56", 
+      "created": "2013-08-11T12:13:49", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296372, 
-      "question_id": "16174109"
+      "id": 16296376, 
+      "question_id": "16174526"
     }, 
     {
       "city": "Saint Petersburg", 
