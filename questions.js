@@ -16768,15 +16768,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-06T19:28:26", 
       "state_votes": 2, 
-      "votes": 15, 
+      "votes": 16, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3775, 
       "x": -71.1312, 
-      "latest_vote": "2013-08-09T19:37:45", 
+      "latest_vote": "2013-08-11T14:05:12", 
       "id": 16201610, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Cambridge", 
@@ -20853,15 +20853,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_11", 
       "created": "2013-08-06T15:18:33", 
       "state_votes": 2, 
-      "votes": 17, 
+      "votes": 18, 
       "district_votes": 1, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.7542, 
       "x": -88.061, 
-      "latest_vote": "2013-08-10T00:55:12", 
+      "latest_vote": "2013-08-11T14:05:30", 
       "id": 16186616, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Union City", 

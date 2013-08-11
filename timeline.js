@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Will you support an amendment to repeal stand your ground legislation that has victimized minorities? ", 
+      "submission": "What would you do to turn the tide in the states to restrict voter access/limiting registration?", 
       "district": "MN_02", 
-      "created": "2013-08-11T14:04:32", 
+      "created": "2013-08-11T14:05:30", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297234, 
-      "question_id": "16187290"
+      "id": 16297236, 
+      "question_id": "16186616"
     }, 
     {
       "city": "Saint Petersburg", 
