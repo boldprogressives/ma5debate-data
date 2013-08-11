@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Do you view Mr. Snowden as a whistleblower who should be protected or a \"leaker\" who should be prosecuted?", 
+      "submission": "Why are we spending BILLIONS in foreign aid at a time when we can't pay our own bills?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:32:50", 
+      "created": "2013-08-11T12:33:45", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296450, 
-      "question_id": "16235300"
+      "id": 16296455, 
+      "question_id": "16175177"
     }, 
     {
       "city": "Saint Petersburg", 

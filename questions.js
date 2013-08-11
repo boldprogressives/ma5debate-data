@@ -5311,15 +5311,15 @@ opendebate.processFetchedQuestions({
       "district": "TN_02", 
       "created": "2013-08-08T23:39:46", 
       "state_votes": 1, 
-      "votes": 30, 
+      "votes": 31, 
       "district_votes": 0, 
       "state": "TN", 
       "iface": "question", 
       "y": 35.7071, 
       "x": -84.2978, 
-      "latest_vote": "2013-08-10T05:39:09", 
+      "latest_vote": "2013-08-11T12:33:26", 
       "id": 16246613, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Swannanoa", 
@@ -12189,15 +12189,15 @@ opendebate.processFetchedQuestions({
       "district": "NY_16", 
       "created": "2013-08-07T12:23:02", 
       "state_votes": 2, 
-      "votes": 15, 
+      "votes": 16, 
       "district_votes": 1, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.9406, 
       "x": -73.8226, 
-      "latest_vote": "2013-08-10T05:46:47", 
+      "latest_vote": "2013-08-11T12:33:05", 
       "id": 16215635, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Erving", 
@@ -12227,15 +12227,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_02", 
       "created": "2013-08-07T11:20:18", 
       "state_votes": 0, 
-      "votes": 8, 
+      "votes": 9, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4417, 
       "x": -71.7746, 
-      "latest_vote": "2013-08-09T21:35:17", 
+      "latest_vote": "2013-08-11T12:33:21", 
       "id": 16215505, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "cambridge", 
@@ -27503,15 +27503,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_18", 
       "created": "2013-08-04T22:15:17", 
       "state_votes": 1, 
-      "votes": 15, 
+      "votes": 16, 
       "district_votes": 0, 
       "state": "TX", 
       "iface": "question", 
       "y": 29.8335, 
       "x": -95.4739, 
-      "latest_vote": "2013-08-10T06:25:54", 
+      "latest_vote": "2013-08-11T12:33:45", 
       "id": 16175177, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Phoenix", 
