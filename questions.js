@@ -8484,15 +8484,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-08T15:20:58", 
       "state_votes": 3, 
-      "votes": 6, 
+      "votes": 7, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4558, 
       "x": -71.215, 
-      "latest_vote": "2013-08-10T00:31:52", 
+      "latest_vote": "2013-08-11T13:32:59", 
       "id": 16226578, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Staten Island", 
@@ -17509,15 +17509,15 @@ opendebate.processFetchedQuestions({
       "district": "WV_01", 
       "created": "2013-08-06T18:42:15", 
       "state_votes": 7, 
-      "votes": 52, 
+      "votes": 53, 
       "district_votes": 0, 
       "state": "WV", 
       "iface": "question", 
       "y": 39.3791, 
       "x": -81.2646, 
-      "latest_vote": "2013-08-10T02:38:30", 
+      "latest_vote": "2013-08-11T13:32:22", 
       "id": 16199482, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Nashville", 
@@ -17528,15 +17528,15 @@ opendebate.processFetchedQuestions({
       "district": "NC_01", 
       "created": "2013-08-06T18:40:37", 
       "state_votes": 7, 
-      "votes": 62, 
+      "votes": 63, 
       "district_votes": 1, 
       "state": "NC", 
       "iface": "question", 
       "y": 35.9657, 
       "x": -77.9589, 
-      "latest_vote": "2013-08-10T04:58:58", 
+      "latest_vote": "2013-08-11T13:32:31", 
       "id": 16199390, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Philadelphia", 
@@ -17547,15 +17547,15 @@ opendebate.processFetchedQuestions({
       "district": "PA_02", 
       "created": "2013-08-06T18:40:16", 
       "state_votes": 5, 
-      "votes": 44, 
+      "votes": 45, 
       "district_votes": 1, 
       "state": "PA", 
       "iface": "question", 
       "y": 39.9437, 
       "x": -75.2291, 
-      "latest_vote": "2013-08-09T23:56:29", 
+      "latest_vote": "2013-08-11T13:32:44", 
       "id": 16199371, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Bronx", 
@@ -20758,15 +20758,15 @@ opendebate.processFetchedQuestions({
       "district": "NJ_04", 
       "created": "2013-08-06T15:22:22", 
       "state_votes": 2, 
-      "votes": 22, 
+      "votes": 23, 
       "district_votes": 0, 
       "state": "NJ", 
       "iface": "question", 
       "y": 40.2097, 
       "x": -74.062, 
-      "latest_vote": "2013-08-09T21:24:44", 
+      "latest_vote": "2013-08-11T13:32:11", 
       "id": 16186840, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Summerville", 

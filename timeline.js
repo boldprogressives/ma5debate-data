@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "For all five candidates:  How did the Wealthiest; and, leading Creditor Nation, in the World, in 1977; become the Poorest; and Major Debtor Nation  in the World - - all within a period of just 35 years?", 
+      "submission": "Will you help block construction of the KXL pipeline? Will you take serious measures to address climate change?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:31:54", 
+      "created": "2013-08-11T13:32:59", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296620, 
-      "question_id": "16173341"
+      "id": 16296625, 
+      "question_id": "16226578"
     }, 
     {
       "city": "Saint Petersburg", 
