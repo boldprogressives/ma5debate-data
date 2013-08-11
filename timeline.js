@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Will you sponsor and support an 8 year term limit for the House and Senate?", 
+      "submission": "why are corporations allowed to split, then one \"new\" corp makes money while the other half controls pensions and then steals workers pensions by claiming bankrupcy--all the while making huge profits and workers get yet screwed again. Why can't this practice be stopped - look at Detroit.", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:14:21", 
+      "created": "2013-08-11T12:15:45", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296378, 
-      "question_id": "16206388"
+      "id": 16296384, 
+      "question_id": "16184415"
     }, 
     {
       "city": "Saint Petersburg", 

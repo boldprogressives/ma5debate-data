@@ -10232,15 +10232,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-07T21:16:19", 
       "state_votes": 5, 
-      "votes": 16, 
+      "votes": 17, 
       "district_votes": 2, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.383, 
       "x": -71.4277, 
-      "latest_vote": "2013-08-10T03:34:37", 
+      "latest_vote": "2013-08-11T12:15:31", 
       "id": 16222135, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Westford", 
@@ -21746,15 +21746,15 @@ opendebate.processFetchedQuestions({
       "district": "MI_08", 
       "created": "2013-08-06T14:54:22", 
       "state_votes": 3, 
-      "votes": 22, 
+      "votes": 23, 
       "district_votes": 1, 
       "state": "MI", 
       "iface": "question", 
       "y": 42.53, 
       "x": -83.7828, 
-      "latest_vote": "2013-08-10T00:01:14", 
+      "latest_vote": "2013-08-11T12:15:18", 
       "id": 16184537, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Brooklyn", 
@@ -21784,15 +21784,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_04", 
       "created": "2013-08-06T14:53:12", 
       "state_votes": 3, 
-      "votes": 22, 
+      "votes": 23, 
       "district_votes": 1, 
       "state": "CA", 
       "iface": "question", 
       "y": 38.1988, 
       "x": -120.654, 
-      "latest_vote": "2013-08-10T06:15:57", 
+      "latest_vote": "2013-08-11T12:15:45", 
       "id": 16184415, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Springfield", 
@@ -26895,15 +26895,15 @@ opendebate.processFetchedQuestions({
       "district": "ID_01", 
       "created": "2013-08-05T02:25:39", 
       "state_votes": 2, 
-      "votes": 14, 
+      "votes": 15, 
       "district_votes": 1, 
       "state": "ID", 
       "iface": "question", 
       "y": 47.84, 
       "x": -116.903, 
-      "latest_vote": "2013-08-10T01:09:47", 
+      "latest_vote": "2013-08-11T12:15:05", 
       "id": 16175805, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Mitchell", 
