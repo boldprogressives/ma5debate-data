@@ -9909,15 +9909,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-07T22:38:13", 
       "state_votes": 0, 
-      "votes": 5, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4321, 
       "x": -71.0561, 
-      "latest_vote": "2013-08-09T23:40:57", 
+      "latest_vote": "2013-08-11T13:13:37", 
       "id": 16223224, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Chatham", 
@@ -27199,15 +27199,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_02", 
       "created": "2013-08-05T00:30:33", 
       "state_votes": 8, 
-      "votes": 48, 
+      "votes": 49, 
       "district_votes": 2, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.7918, 
       "x": -122.304, 
-      "latest_vote": "2013-08-10T11:22:06", 
+      "latest_vote": "2013-08-11T13:13:56", 
       "id": 16175552, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Fort Atkinson", 

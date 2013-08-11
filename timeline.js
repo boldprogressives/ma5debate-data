@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Will you support a bill to raise the minimum wage to $10.50/hr - what it would be if keeping up with inflation since 1981?", 
+      "submission": "What will you do SPECIFICALLY about women's issues: reproductive rights, equal pay, violence against women, military violence against women, family caregiving, etc. etc. etc.?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:12:44", 
+      "created": "2013-08-11T13:13:56", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296553, 
-      "question_id": "16249623"
+      "id": 16296556, 
+      "question_id": "16175552"
     }, 
     {
       "city": "Saint Petersburg", 
