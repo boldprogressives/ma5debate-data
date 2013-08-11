@@ -20568,15 +20568,15 @@ opendebate.processFetchedQuestions({
       "district": "MD_07", 
       "created": "2013-08-06T15:30:25", 
       "state_votes": 2, 
-      "votes": 13, 
+      "votes": 14, 
       "district_votes": 0, 
       "state": "MD", 
       "iface": "question", 
       "y": 39.3304, 
       "x": -76.6372, 
-      "latest_vote": "2013-08-08T22:20:32", 
+      "latest_vote": "2013-08-11T13:35:44", 
       "id": 16187516, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Iowa City", 
@@ -20625,15 +20625,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_09", 
       "created": "2013-08-06T15:28:05", 
       "state_votes": 2, 
-      "votes": 14, 
+      "votes": 15, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 41.7818, 
       "x": -69.9805, 
-      "latest_vote": "2013-08-10T00:54:34", 
+      "latest_vote": "2013-08-11T13:35:23", 
       "id": 16187238, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Iowa City", 

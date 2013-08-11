@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Will you help block construction of the KXL pipeline? Will you take serious measures to address climate change?", 
+      "submission": "What will you do to make this the \"UNITED\" states of America again, rather than the polarized special interest of America?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:32:59", 
+      "created": "2013-08-11T13:35:44", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296625, 
-      "question_id": "16226578"
+      "id": 16296627, 
+      "question_id": "16187516"
     }, 
     {
       "city": "Saint Petersburg", 
