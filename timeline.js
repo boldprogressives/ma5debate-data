@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "What is your position on \"Free Trade\" Democrats like Pres Clinton et al. have \"reached across the aisle\" to pass these unpopular and  destructive \"deals\". will you  actively pursue their  undoing ?", 
+      "submission": "when is congress going to make foods containing GMO'S be labeled. so we can choose what we are eating. & how many times  are they going to let MONSANTO keep killing us. ", 
       "district": "MN_02", 
-      "created": "2013-08-11T14:02:44", 
+      "created": "2013-08-11T14:03:59", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297184, 
-      "question_id": "16182146"
+      "id": 16297231, 
+      "question_id": "16203965"
     }, 
     {
       "city": "Saint Petersburg", 
