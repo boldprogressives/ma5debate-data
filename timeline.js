@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Because of the deregulation of banks during the early '80s and late '90s, which caused financial crisis, what is your idea to regulate banks to keep this from happening again? ", 
+      "submission": "Alec and the Tea Party have taken control of state governments in an effort to further confuse and divide the country.  How will you punish rogue, dishonest right-to-work states like AZ, TX, and FL?  ", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:22:41", 
+      "created": "2013-08-11T12:23:38", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296405, 
-      "question_id": "16176613"
+      "id": 16296407, 
+      "question_id": "16176690"
     }, 
     {
       "city": "Saint Petersburg", 
