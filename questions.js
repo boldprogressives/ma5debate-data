@@ -22886,15 +22886,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_21", 
       "created": "2013-08-06T14:26:28", 
       "state_votes": 2, 
-      "votes": 9, 
+      "votes": 10, 
       "district_votes": 1, 
       "state": "TX", 
       "iface": "question", 
       "y": 29.6265, 
       "x": -98.4458, 
-      "latest_vote": "2013-08-08T23:10:53", 
+      "latest_vote": "2013-08-11T12:45:52", 
       "id": 16182469, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Sudbury", 
@@ -22924,15 +22924,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_01", 
       "created": "2013-08-06T14:26:14", 
       "state_votes": 2, 
-      "votes": 17, 
+      "votes": 18, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.5214, 
       "x": -72.8131, 
-      "latest_vote": "2013-08-08T22:56:27", 
+      "latest_vote": "2013-08-11T12:45:41", 
       "id": 16182453, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Comstock Park", 
