@@ -17984,15 +17984,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_02", 
       "created": "2013-08-06T17:45:37", 
       "state_votes": 2, 
-      "votes": 10, 
+      "votes": 11, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.0784, 
       "x": -71.6341, 
-      "latest_vote": "2013-08-08T22:34:30", 
+      "latest_vote": "2013-08-11T13:39:06", 
       "id": 16196438, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Washington", 
@@ -20340,15 +20340,15 @@ opendebate.processFetchedQuestions({
       "district": "MD_07", 
       "created": "2013-08-06T15:40:35", 
       "state_votes": 2, 
-      "votes": 12, 
+      "votes": 13, 
       "district_votes": 0, 
       "state": "MD", 
       "iface": "question", 
       "y": 39.3279, 
       "x": -76.744, 
-      "latest_vote": "2013-08-10T00:52:16", 
+      "latest_vote": "2013-08-11T13:39:43", 
       "id": 16188245, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Santa Rosa", 

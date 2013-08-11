@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Since the elections in 2000 the laws protecting liberty and security have been repeatedly overwritten. Why won't you publicly defend the Constitution and the Bill of Rights? ", 
+      "submission": "Do you think 'Obamacare' is the step in the right direction for a single payer system? What role would health insurance companies play in such a system? ", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:38:46", 
+      "created": "2013-08-11T13:39:43", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296639, 
-      "question_id": "16188221"
+      "id": 16296642, 
+      "question_id": "16188245"
     }, 
     {
       "city": "Saint Petersburg", 
