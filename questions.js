@@ -9187,15 +9187,15 @@ opendebate.processFetchedQuestions({
       "district": "CT_04", 
       "created": "2013-08-08T02:10:13", 
       "state_votes": 2, 
-      "votes": 3, 
+      "votes": 4, 
       "district_votes": 0, 
       "state": "CT", 
       "iface": "question", 
       "y": 41.2556, 
       "x": -73.2088, 
-      "latest_vote": "2013-08-09T22:05:01", 
+      "latest_vote": "2013-08-11T13:20:02", 
       "id": 16224954, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "New Salem", 
@@ -21233,15 +21233,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_43", 
       "created": "2013-08-06T15:06:11", 
       "state_votes": 1, 
-      "votes": 13, 
+      "votes": 14, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 33.9575, 
       "x": -118.398, 
-      "latest_vote": "2013-08-09T10:57:48", 
+      "latest_vote": "2013-08-11T13:20:16", 
       "id": 16185617, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Euclid", 
@@ -23570,15 +23570,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_36", 
       "created": "2013-08-06T12:38:02", 
       "state_votes": 1, 
-      "votes": 9, 
+      "votes": 10, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 33.7806, 
       "x": -116.461, 
-      "latest_vote": "2013-08-08T22:14:19", 
+      "latest_vote": "2013-08-11T13:20:53", 
       "id": 16181008, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Somerville", 
