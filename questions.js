@@ -8351,15 +8351,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-08T16:10:05", 
       "state_votes": 2, 
-      "votes": 9, 
+      "votes": 10, 
       "district_votes": 2, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4558, 
       "x": -71.215, 
-      "latest_vote": "2013-08-10T01:21:51", 
+      "latest_vote": "2013-08-11T13:37:23", 
       "id": 16226956, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Lexington", 
@@ -17832,15 +17832,15 @@ opendebate.processFetchedQuestions({
       "district": "MS_03", 
       "created": "2013-08-06T17:56:58", 
       "state_votes": 2, 
-      "votes": 33, 
+      "votes": 34, 
       "district_votes": 0, 
       "state": "MS", 
       "iface": "question", 
       "y": 32.4679, 
       "x": -90.1219, 
-      "latest_vote": "2013-08-10T06:35:08", 
+      "latest_vote": "2013-08-11T13:37:43", 
       "id": 16197127, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Ruther Glen", 
@@ -20492,15 +20492,15 @@ opendebate.processFetchedQuestions({
       "district": "DC_01", 
       "created": "2013-08-06T15:35:39", 
       "state_votes": 5, 
-      "votes": 30, 
+      "votes": 31, 
       "district_votes": 0, 
       "state": "DC", 
       "iface": "question", 
       "y": 38.9403, 
       "x": -77.0886, 
-      "latest_vote": "2013-08-09T08:13:30", 
+      "latest_vote": "2013-08-11T13:37:34", 
       "id": 16187926, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "owings mills", 
@@ -20511,15 +20511,15 @@ opendebate.processFetchedQuestions({
       "district": "MD_02", 
       "created": "2013-08-06T15:35:29", 
       "state_votes": 1, 
-      "votes": 8, 
+      "votes": 9, 
       "district_votes": 0, 
       "state": "MD", 
       "iface": "question", 
       "y": 39.4284, 
       "x": -76.7698, 
-      "latest_vote": "2013-08-08T23:35:32", 
+      "latest_vote": "2013-08-11T13:37:10", 
       "id": 16187914, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Dallas", 
@@ -23760,15 +23760,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_38", 
       "created": "2013-08-06T06:48:02", 
       "state_votes": 1, 
-      "votes": 9, 
+      "votes": 10, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 33.8666, 
       "x": -118.048, 
-      "latest_vote": "2013-08-08T23:10:08", 
+      "latest_vote": "2013-08-11T13:37:50", 
       "id": 16180445, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Acton", 

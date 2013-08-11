@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Do you understand the second law of thermodynamics, without which you may be incompetent to vote on issues of a scientific nature?", 
+      "submission": "What are you going to do to prevent the Internal Revenue Service from being used as a political weapon?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:36:59", 
+      "created": "2013-08-11T13:37:50", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296632, 
-      "question_id": "16197610"
+      "id": 16296637, 
+      "question_id": "16180445"
     }, 
     {
       "city": "Saint Petersburg", 
