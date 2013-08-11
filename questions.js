@@ -13443,15 +13443,15 @@ opendebate.processFetchedQuestions({
       "district": "WI_07", 
       "created": "2013-08-07T03:37:18", 
       "state_votes": 0, 
-      "votes": 4, 
+      "votes": 5, 
       "district_votes": 0, 
       "state": "WI", 
       "iface": "question", 
       "y": 44.7886, 
       "x": -89.688, 
-      "latest_vote": "2013-08-09T21:41:26", 
+      "latest_vote": "2013-08-11T14:18:28", 
       "id": 16213121, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Louisville", 
@@ -13462,15 +13462,15 @@ opendebate.processFetchedQuestions({
       "district": "KY_03", 
       "created": "2013-08-07T03:37:14", 
       "state_votes": 0, 
-      "votes": 5, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "KY", 
       "iface": "question", 
       "y": 38.1029, 
       "x": -85.6657, 
-      "latest_vote": "2013-08-09T21:41:29", 
+      "latest_vote": "2013-08-11T14:18:10", 
       "id": 16213120, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Monterey Park", 
@@ -13481,15 +13481,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_27", 
       "created": "2013-08-07T03:30:44", 
       "state_votes": 0, 
-      "votes": 2, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 34.0485, 
       "x": -118.15, 
-      "latest_vote": "2013-08-09T22:08:22", 
+      "latest_vote": "2013-08-11T14:18:03", 
       "id": 16213092, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Mosinee", 
@@ -20454,15 +20454,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_12", 
       "created": "2013-08-06T15:36:59", 
       "state_votes": 2, 
-      "votes": 24, 
+      "votes": 25, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.7826, 
       "x": -122.436, 
-      "latest_vote": "2013-08-09T19:19:11", 
+      "latest_vote": "2013-08-11T14:18:48", 
       "id": 16188037, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Fort Lauderdale", 

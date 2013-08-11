@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Many seniors still can't get health care they need to have a healthy and happy life. Co-pay of 20percent isn't affordable on social security. Many states put obstacles in way of Medicaid. What can you do to address this situation??", 
+      "submission": " trillions of tax payer dollars used to bailout private financial institutions obstensibly to stabilize & stimulate economy: what's your position on bailing out Main St  via student debt forgiveness? ", 
       "district": "MN_02", 
-      "created": "2013-08-11T14:17:48", 
+      "created": "2013-08-11T14:18:48", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297269, 
-      "question_id": "16182493"
+      "id": 16297273, 
+      "question_id": "16188037"
     }, 
     {
       "city": "Saint Petersburg", 
