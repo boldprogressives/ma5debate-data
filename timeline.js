@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Currently, we have almost fifty million uninsured Americans.  What are your plans for making sure that healthcare  is affordable to all Americans?", 
+      "submission": "Will you sponsor and support an 8 year term limit for the House and Senate?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:13:49", 
+      "created": "2013-08-11T12:14:21", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296376, 
-      "question_id": "16174526"
+      "id": 16296378, 
+      "question_id": "16206388"
     }, 
     {
       "city": "Saint Petersburg", 

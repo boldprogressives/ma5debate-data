@@ -9225,15 +9225,15 @@ opendebate.processFetchedQuestions({
       "district": "GA_01", 
       "created": "2013-08-08T02:07:37", 
       "state_votes": 3, 
-      "votes": 13, 
+      "votes": 14, 
       "district_votes": 1, 
       "state": "GA", 
       "iface": "question", 
       "y": 32.0133, 
       "x": -80.9535, 
-      "latest_vote": "2013-08-10T00:13:23", 
+      "latest_vote": "2013-08-11T12:14:02", 
       "id": 16224944, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Trumbull", 
@@ -15533,15 +15533,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_21", 
       "created": "2013-08-06T21:44:05", 
       "state_votes": 2, 
-      "votes": 27, 
+      "votes": 28, 
       "district_votes": 0, 
       "state": "TX", 
       "iface": "question", 
       "y": 30.0388, 
       "x": -99.1513, 
-      "latest_vote": "2013-08-10T05:58:41", 
+      "latest_vote": "2013-08-11T12:14:21", 
       "id": 16206388, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Addison", 
