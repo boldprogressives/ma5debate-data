@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "is not a question is a statement which is : why don't we end (kill globalization) which was the reason for  this current  middle class  demise?.We do that by imposing heavy tarrifs  on the chineese imports . Those imports that took all the manufacturing  jobs  that once the middle class  folks held .Good paying jobs  with benefits here in USA ", 
+      "submission": "Since there is minute danger from terrorism compared to cancer or auto accidents, how do you justify the gargantuan expenditures on programs that spy on us ? Wouldn't these funds be better spent on health and infrastructure; things that have obvious benefit to our safety ?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:27:43", 
+      "created": "2013-08-11T13:28:58", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296607, 
-      "question_id": "16201321"
+      "id": 16296610, 
+      "question_id": "16186281"
     }, 
     {
       "city": "Saint Petersburg", 

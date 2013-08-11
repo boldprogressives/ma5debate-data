@@ -17015,15 +17015,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_11", 
       "created": "2013-08-06T19:20:58", 
       "state_votes": 6, 
-      "votes": 37, 
+      "votes": 38, 
       "district_votes": 2, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.9521, 
       "x": -122.074, 
-      "latest_vote": "2013-08-09T21:58:36", 
+      "latest_vote": "2013-08-11T13:28:19", 
       "id": 16201299, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Newington", 
@@ -17091,15 +17091,15 @@ opendebate.processFetchedQuestions({
       "district": "OH_09", 
       "created": "2013-08-06T19:09:02", 
       "state_votes": 5, 
-      "votes": 48, 
+      "votes": 49, 
       "district_votes": 0, 
       "state": "OH", 
       "iface": "question", 
       "y": 41.405, 
       "x": -82.7314, 
-      "latest_vote": "2013-08-10T06:06:36", 
+      "latest_vote": "2013-08-11T13:28:48", 
       "id": 16200783, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Arkport", 
@@ -20891,15 +20891,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_26", 
       "created": "2013-08-06T15:15:22", 
       "state_votes": 1, 
-      "votes": 13, 
+      "votes": 14, 
       "district_votes": 0, 
       "state": "FL", 
       "iface": "question", 
       "y": 25.6712, 
       "x": -80.3723, 
-      "latest_vote": "2013-08-08T22:19:59", 
+      "latest_vote": "2013-08-11T13:28:58", 
       "id": 16186281, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Eugene", 
