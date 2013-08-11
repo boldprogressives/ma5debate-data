@@ -18649,15 +18649,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_32", 
       "created": "2013-08-06T17:02:17", 
       "state_votes": 2, 
-      "votes": 12, 
+      "votes": 13, 
       "district_votes": 0, 
       "state": "TX", 
       "iface": "question", 
       "y": 32.8305, 
       "x": -96.7727, 
-      "latest_vote": "2013-08-08T22:13:14", 
+      "latest_vote": "2013-08-11T13:46:15", 
       "id": 16193290, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Beverly Hills", 
@@ -20017,15 +20017,15 @@ opendebate.processFetchedQuestions({
       "district": "NM_02", 
       "created": "2013-08-06T15:57:11", 
       "state_votes": 5, 
-      "votes": 29, 
+      "votes": 30, 
       "district_votes": 2, 
       "state": "NM", 
       "iface": "question", 
       "y": 32.263, 
       "x": -107.754, 
-      "latest_vote": "2013-08-10T00:53:36", 
+      "latest_vote": "2013-08-11T13:46:59", 
       "id": 16189361, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "St  Peters", 

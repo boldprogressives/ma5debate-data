@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Why is it that a private corporation (federal reserve) is in charge of, and controls, America's money supply?", 
+      "submission": "where do you stand on the completion of the Keystone XL pipeline, and what , if anything, will you do to stop it?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:45:53", 
+      "created": "2013-08-11T13:46:59", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296661, 
-      "question_id": "16173145"
+      "id": 16296664, 
+      "question_id": "16189361"
     }, 
     {
       "city": "Saint Petersburg", 
