@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "What do you plan to do about the NSA spying massively on American citizens and the general erosion of civil rights since the Patriot Act?", 
+      "submission": "How will Social Security & Medicare be strengthened with additional benefits for Senior Citizens?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:36:57", 
+      "created": "2013-08-11T12:37:49", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296466, 
-      "question_id": "16194500"
+      "id": 16296469, 
+      "question_id": "16188015"
     }, 
     {
       "city": "Saint Petersburg", 
