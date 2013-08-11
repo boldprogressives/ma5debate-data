@@ -4855,15 +4855,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_31", 
       "created": "2013-08-09T00:15:43", 
       "state_votes": 1, 
-      "votes": 1, 
+      "votes": 2, 
       "district_votes": 0, 
       "state": "TX", 
       "iface": "question", 
       "y": 30.4151, 
       "x": -97.7971, 
-      "latest_vote": "2013-08-09T01:22:10", 
+      "latest_vote": "2013-08-11T13:12:44", 
       "id": 16249623, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Austin", 
@@ -24729,15 +24729,15 @@ opendebate.processFetchedQuestions({
       "district": "WI_03", 
       "created": "2013-08-05T19:54:59", 
       "state_votes": 1, 
-      "votes": 15, 
+      "votes": 16, 
       "district_votes": 0, 
       "state": "WI", 
       "iface": "question", 
       "y": 43.8996, 
       "x": -91.087, 
-      "latest_vote": "2013-08-10T01:05:34", 
+      "latest_vote": "2013-08-11T13:12:11", 
       "id": 16178618, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Evanston", 

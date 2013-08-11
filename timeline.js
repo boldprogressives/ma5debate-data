@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Would you support legislation like the Fair Elections Now Act (H.R. 269) to enact a citizen funded election model that matches small dollar donations with federal funds?", 
+      "submission": "Will you support a bill to raise the minimum wage to $10.50/hr - what it would be if keeping up with inflation since 1981?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:11:17", 
+      "created": "2013-08-11T13:12:44", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296551, 
-      "question_id": "16181017"
+      "id": 16296553, 
+      "question_id": "16249623"
     }, 
     {
       "city": "Saint Petersburg", 
