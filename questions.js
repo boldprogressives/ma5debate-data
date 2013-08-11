@@ -10365,15 +10365,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_02", 
       "created": "2013-08-07T20:58:02", 
       "state_votes": 2, 
-      "votes": 11, 
+      "votes": 12, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.6029, 
       "x": -72.5986, 
-      "latest_vote": "2013-08-10T00:14:27", 
+      "latest_vote": "2013-08-11T13:08:03", 
       "id": 16221902, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Sudbury", 
@@ -10384,15 +10384,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-07T20:50:38", 
       "state_votes": 2, 
-      "votes": 8, 
+      "votes": 9, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.383, 
       "x": -71.4277, 
-      "latest_vote": "2013-08-10T00:14:35", 
+      "latest_vote": "2013-08-11T13:08:25", 
       "id": 16221821, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Mendon", 
@@ -10403,15 +10403,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_02", 
       "created": "2013-08-07T20:50:24", 
       "state_votes": 3, 
-      "votes": 15, 
+      "votes": 16, 
       "district_votes": 2, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.0979, 
       "x": -71.5491, 
-      "latest_vote": "2013-08-09T21:21:25", 
+      "latest_vote": "2013-08-11T13:08:38", 
       "id": 16221818, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Peabody", 
@@ -21841,15 +21841,15 @@ opendebate.processFetchedQuestions({
       "district": "MO_07", 
       "created": "2013-08-06T14:50:02", 
       "state_votes": 2, 
-      "votes": 12, 
+      "votes": 13, 
       "district_votes": 1, 
       "state": "MO", 
       "iface": "question", 
       "y": 36.8377, 
       "x": -93.48, 
-      "latest_vote": "2013-08-10T05:10:13", 
+      "latest_vote": "2013-08-11T13:08:13", 
       "id": 16184218, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Lake Orion", 
