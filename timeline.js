@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "The wealthiest 5% own and control all corporations through shareholder votes, executive positions, and management positions.Corporations are responsible for all toxic air pollution, all toxic water pollution, and the killing off of the planet's oxygen production. They are responsible for poverty, hunger, war, toxic food, and the worst nutrition in food of any agricultural system we have ever heard of.How can you attempt to redress these issues, and remove their damaging influence from the political whoredom that passes for the current federal (and?) government?", 
+      "submission": "Do you truly have the guts to stand up to the GOP, Greedy Obstructionist Party, and really fight for the  health, happiness, and well-being of We The People, and our precious environment???", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:18:31", 
+      "created": "2013-08-11T12:19:53", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296392, 
-      "question_id": "16208766"
+      "id": 16296397, 
+      "question_id": "16187551"
     }, 
     {
       "city": "Saint Petersburg", 
