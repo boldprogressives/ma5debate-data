@@ -9472,15 +9472,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_01", 
       "created": "2013-08-08T00:33:36", 
       "state_votes": 0, 
-      "votes": 5, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.1171, 
       "x": -72.6394, 
-      "latest_vote": "2013-08-09T23:41:02", 
+      "latest_vote": "2013-08-11T13:17:28", 
       "id": 16224569, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Belmont", 
@@ -9548,15 +9548,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_03", 
       "created": "2013-08-08T00:17:59", 
       "state_votes": 3, 
-      "votes": 13, 
+      "votes": 14, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.7814, 
       "x": -71.0842, 
-      "latest_vote": "2013-08-10T14:54:36", 
+      "latest_vote": "2013-08-11T13:16:59", 
       "id": 16224467, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Framingham", 
