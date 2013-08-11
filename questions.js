@@ -7002,15 +7002,15 @@ opendebate.processFetchedQuestions({
       "district": "SC_01", 
       "created": "2013-08-08T21:21:38", 
       "state_votes": 0, 
-      "votes": 5, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "SC", 
       "iface": "question", 
       "y": 32.8001, 
       "x": -80.0109, 
-      "latest_vote": "2013-08-10T00:29:00", 
+      "latest_vote": "2013-08-11T12:32:50", 
       "id": 16235300, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Charleston", 
@@ -18041,15 +18041,15 @@ opendebate.processFetchedQuestions({
       "district": "NY_06", 
       "created": "2013-08-06T17:37:03", 
       "state_votes": 4, 
-      "votes": 39, 
+      "votes": 40, 
       "district_votes": 1, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.7648, 
       "x": -73.7775, 
-      "latest_vote": "2013-08-09T23:57:37", 
+      "latest_vote": "2013-08-11T12:32:14", 
       "id": 16196093, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "tempe", 
@@ -23513,15 +23513,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_07", 
       "created": "2013-08-06T12:45:12", 
       "state_votes": 8, 
-      "votes": 46, 
+      "votes": 47, 
       "district_votes": 4, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3818, 
       "x": -71.1032, 
-      "latest_vote": "2013-08-10T05:11:37", 
+      "latest_vote": "2013-08-11T12:31:59", 
       "id": 16181015, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Somerville", 
@@ -30714,15 +30714,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_31", 
       "created": "2013-08-03T22:13:13", 
       "state_votes": 2, 
-      "votes": 27, 
+      "votes": 28, 
       "district_votes": 0, 
       "state": "TX", 
       "iface": "question", 
       "y": 30.685, 
       "x": -97.9104, 
-      "latest_vote": "2013-08-09T19:31:19", 
+      "latest_vote": "2013-08-11T12:32:43", 
       "id": 16172702, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Boise", 

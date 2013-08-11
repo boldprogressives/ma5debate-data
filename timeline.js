@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "How would you fix Social Security-SSI-MEDA CARE - MEDA CADE- Lifting the cap or by bringing up the mim wage to 14.00 to 18.00 pr hour becouse the younger kids are going to be the ones who will be the ones with jobs in the years to come if the mim wage was up to what i said above it would be fixed by now ?", 
+      "submission": "Do you view Mr. Snowden as a whistleblower who should be protected or a \"leaker\" who should be prosecuted?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:31:36", 
+      "created": "2013-08-11T12:32:50", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296446, 
-      "question_id": "16178596"
+      "id": 16296450, 
+      "question_id": "16235300"
     }, 
     {
       "city": "Saint Petersburg", 
