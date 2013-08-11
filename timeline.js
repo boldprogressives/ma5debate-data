@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Will you fight to ban GMOs from the face of the earth before they poison our whole food supply ?", 
+      "submission": "do you believe that gerrymandering is hurting our democracy and if so how would you fix it?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:28:48", 
+      "created": "2013-08-11T12:29:55", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296428, 
-      "question_id": "16212772"
+      "id": 16296433, 
+      "question_id": "16223771"
     }, 
     {
       "city": "Saint Petersburg", 
