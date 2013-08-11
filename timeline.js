@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "The role of the EPA is more important than ever in both combating climate change and in protecting against the human health effects of many industrial toxins including radioactive toxins. Our health care costs have soared as a result of epidemics from hidden environmental  pollutants effects on human life. Will you stand up for increased funding for these vital functions of the EPA?", 
+      "submission": "Would you vote to relieve the onerous burden that Congress imposed on the Post Office?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:14:52", 
+      "created": "2013-08-11T13:15:34", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296557, 
-      "question_id": "16223461"
+      "id": 16296561, 
+      "question_id": "16185056"
     }, 
     {
       "city": "Saint Petersburg", 

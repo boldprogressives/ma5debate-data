@@ -9719,15 +9719,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_09", 
       "created": "2013-08-07T23:20:17", 
       "state_votes": 2, 
-      "votes": 10, 
+      "votes": 11, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 41.6459, 
       "x": -70.9975, 
-      "latest_vote": "2013-08-10T04:48:45", 
+      "latest_vote": "2013-08-11T13:15:27", 
       "id": 16223764, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Sierra Madre", 
@@ -12113,15 +12113,15 @@ opendebate.processFetchedQuestions({
       "district": "MI_04", 
       "created": "2013-08-07T13:06:02", 
       "state_votes": 1, 
-      "votes": 11, 
+      "votes": 12, 
       "district_votes": 0, 
       "state": "MI", 
       "iface": "question", 
       "y": 44.289, 
       "x": -84.219, 
-      "latest_vote": "2013-08-09T21:06:36", 
+      "latest_vote": "2013-08-11T13:15:25", 
       "id": 16215894, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Atlanta", 
@@ -21499,15 +21499,15 @@ opendebate.processFetchedQuestions({
       "district": "NY_01", 
       "created": "2013-08-06T14:59:29", 
       "state_votes": 3, 
-      "votes": 31, 
+      "votes": 32, 
       "district_votes": 0, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.775, 
       "x": -72.8957, 
-      "latest_vote": "2013-08-10T15:58:38", 
+      "latest_vote": "2013-08-11T13:15:34", 
       "id": 16185056, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "acme", 
@@ -23190,15 +23190,15 @@ opendebate.processFetchedQuestions({
       "district": "OH_08", 
       "created": "2013-08-06T14:18:28", 
       "state_votes": 2, 
-      "votes": 19, 
+      "votes": 20, 
       "district_votes": 0, 
       "state": "OH", 
       "iface": "question", 
       "y": 39.4082, 
       "x": -84.6176, 
-      "latest_vote": "2013-08-10T06:16:48", 
+      "latest_vote": "2013-08-11T13:15:01", 
       "id": 16181904, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Florham Park", 
