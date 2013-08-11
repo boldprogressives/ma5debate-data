@@ -11505,15 +11505,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-07T16:24:09", 
       "state_votes": 5, 
-      "votes": 19, 
+      "votes": 20, 
       "district_votes": 2, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4558, 
       "x": -71.215, 
-      "latest_vote": "2013-08-10T04:50:23", 
+      "latest_vote": "2013-08-11T12:48:07", 
       "id": 16217796, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Holly Hill", 
@@ -22601,15 +22601,15 @@ opendebate.processFetchedQuestions({
       "district": "OH_13", 
       "created": "2013-08-06T14:32:10", 
       "state_votes": 1, 
-      "votes": 11, 
+      "votes": 12, 
       "district_votes": 0, 
       "state": "OH", 
       "iface": "question", 
       "y": 41.0422, 
       "x": -81.5575, 
-      "latest_vote": "2013-08-08T22:43:33", 
+      "latest_vote": "2013-08-11T12:48:33", 
       "id": 16182923, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Framingham", 
@@ -25109,15 +25109,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_07", 
       "created": "2013-08-05T16:49:09", 
       "state_votes": 2, 
-      "votes": 28, 
+      "votes": 29, 
       "district_votes": 1, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.7397, 
       "x": -122.333, 
-      "latest_vote": "2013-08-10T01:05:03", 
+      "latest_vote": "2013-08-11T12:48:18", 
       "id": 16178019, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Blodgett", 
