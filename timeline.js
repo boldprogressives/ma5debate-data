@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Congress persons have voted to put themselves in the driver's seat when it comes to their salaries. They vote themselves raises and we as citizens cannot over turn. What will you do to stop this practice?", 
+      "submission": "How can Congress vote on Social Security when it has no bearing on our economy, and is not government money? ", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:07:46", 
+      "created": "2013-08-11T12:08:36", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296352, 
-      "question_id": "16173244"
+      "id": 16296354, 
+      "question_id": "16173607"
     }, 
     {
       "city": "Saint Petersburg", 

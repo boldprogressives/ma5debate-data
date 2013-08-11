@@ -28567,15 +28567,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_01", 
       "created": "2013-08-04T14:54:08", 
       "state_votes": 6, 
-      "votes": 49, 
+      "votes": 50, 
       "district_votes": 1, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.5221, 
       "x": -123.107, 
-      "latest_vote": "2013-08-10T03:37:05", 
+      "latest_vote": "2013-08-11T12:08:25", 
       "id": 16174014, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Park Ridge", 
@@ -28833,15 +28833,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_19", 
       "created": "2013-08-04T06:38:17", 
       "state_votes": 2, 
-      "votes": 30, 
+      "votes": 31, 
       "district_votes": 0, 
       "state": "TX", 
       "iface": "question", 
       "y": 33.5438, 
       "x": -101.89, 
-      "latest_vote": "2013-08-10T05:18:27", 
+      "latest_vote": "2013-08-11T12:08:36", 
       "id": 16173607, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Duluth", 
