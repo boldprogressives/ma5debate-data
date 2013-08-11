@@ -24273,15 +24273,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_37", 
       "created": "2013-08-06T05:09:49", 
       "state_votes": 0, 
-      "votes": 3, 
+      "votes": 4, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 34.0018, 
       "x": -118.395, 
-      "latest_vote": "2013-08-07T20:06:07", 
+      "latest_vote": "2013-08-11T14:24:28", 
       "id": 16179728, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Renton", 

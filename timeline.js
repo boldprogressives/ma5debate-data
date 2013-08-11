@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Will you support a woman's right to choose?", 
+      "submission": "Would you support a bargain with Snowden that he return for a trial on civil court on only the charge of stealing government property with a defense that he is a whistleblower? ", 
       "district": "MN_02", 
-      "created": "2013-08-11T14:23:47", 
+      "created": "2013-08-11T14:24:28", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297281, 
-      "question_id": "16179832"
+      "id": 16297283, 
+      "question_id": "16179728"
     }, 
     {
       "city": "Saint Petersburg", 
