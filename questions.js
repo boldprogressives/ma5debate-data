@@ -7610,15 +7610,15 @@ opendebate.processFetchedQuestions({
       "district": "NY_22", 
       "created": "2013-08-08T19:25:42", 
       "state_votes": 0, 
-      "votes": 3, 
+      "votes": 4, 
       "district_votes": 0, 
       "state": "NY", 
       "iface": "question", 
       "y": 43.0838, 
       "x": -75.768, 
-      "latest_vote": "2013-08-10T00:30:27", 
+      "latest_vote": "2013-08-11T12:31:26", 
       "id": 16231684, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Canastota", 
@@ -13196,15 +13196,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_10", 
       "created": "2013-08-07T04:04:13", 
       "state_votes": 2, 
-      "votes": 20, 
+      "votes": 21, 
       "district_votes": 1, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.1507, 
       "x": -122.447, 
-      "latest_vote": "2013-08-10T15:59:38", 
+      "latest_vote": "2013-08-11T12:31:20", 
       "id": 16213319, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Sutton", 
@@ -24767,15 +24767,15 @@ opendebate.processFetchedQuestions({
       "district": "WI_03", 
       "created": "2013-08-05T19:45:16", 
       "state_votes": 3, 
-      "votes": 11, 
+      "votes": 12, 
       "district_votes": 1, 
       "state": "WI", 
       "iface": "question", 
       "y": 43.8996, 
       "x": -91.087, 
-      "latest_vote": "2013-08-09T21:15:14", 
+      "latest_vote": "2013-08-11T12:31:36", 
       "id": 16178596, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Minneapolis", 
@@ -24805,15 +24805,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_03", 
       "created": "2013-08-05T19:06:01", 
       "state_votes": 3, 
-      "votes": 27, 
+      "votes": 28, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.4928, 
       "x": -122.73, 
-      "latest_vote": "2013-08-08T23:38:13", 
+      "latest_vote": "2013-08-11T12:31:10", 
       "id": 16178485, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Grants Pass", 
