@@ -4722,15 +4722,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_33", 
       "created": "2013-08-09T00:26:37", 
       "state_votes": 0, 
-      "votes": 12, 
+      "votes": 13, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 33.8896, 
       "x": -118.399, 
-      "latest_vote": "2013-08-10T04:38:46", 
+      "latest_vote": "2013-08-11T13:16:05", 
       "id": 16250174, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Las Vegas", 
@@ -16008,15 +16008,15 @@ opendebate.processFetchedQuestions({
       "district": "NC_11", 
       "created": "2013-08-06T21:04:20", 
       "state_votes": 5, 
-      "votes": 31, 
+      "votes": 32, 
       "district_votes": 0, 
       "state": "NC", 
       "iface": "question", 
       "y": 35.8161, 
       "x": -81.4571, 
-      "latest_vote": "2013-08-10T06:01:27", 
+      "latest_vote": "2013-08-11T13:16:51", 
       "id": 16205543, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Stoughton", 

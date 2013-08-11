@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Would you vote to relieve the onerous burden that Congress imposed on the Post Office?", 
+      "submission": "Please tell us of a time when taxes were cut for the rich and we did not have a subsequent recession, and similarly, tell me when recovery did NOT follow a tax increase, especially on the rich.", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:15:34", 
+      "created": "2013-08-11T13:16:51", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296561, 
-      "question_id": "16185056"
+      "id": 16296564, 
+      "question_id": "16205543"
     }, 
     {
       "city": "Saint Petersburg", 
