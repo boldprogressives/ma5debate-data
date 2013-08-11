@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Do you think Bradley Manning, Julian Assange and Edward Snowden are whistleblowers or enemies of the state?", 
+      "submission": "What is your opinion on reinstating the Fairness Doctrine?  Do you believe that the public owns the airwaves?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:49:48", 
+      "created": "2013-08-11T12:50:56", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296511, 
-      "question_id": "16212352"
+      "id": 16296516, 
+      "question_id": "16212144"
     }, 
     {
       "city": "Saint Petersburg", 
