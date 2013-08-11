@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Can you please leave Social Security alone.", 
+      "submission": "What will you do to ensure people with disabilities and mental health issues get appropriate medical care, support services, housing and food?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:17:28", 
+      "created": "2013-08-11T13:18:50", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296566, 
-      "question_id": "16224569"
+      "id": 16296572, 
+      "question_id": "16224922"
     }, 
     {
       "city": "Saint Petersburg", 

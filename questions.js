@@ -9301,15 +9301,15 @@ opendebate.processFetchedQuestions({
       "district": "CT_04", 
       "created": "2013-08-08T02:02:08", 
       "state_votes": 1, 
-      "votes": 13, 
+      "votes": 14, 
       "district_votes": 0, 
       "state": "CT", 
       "iface": "question", 
       "y": 41.2556, 
       "x": -73.2088, 
-      "latest_vote": "2013-08-09T21:31:58", 
+      "latest_vote": "2013-08-11T13:18:50", 
       "id": 16224922, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Trumbull", 
@@ -9377,15 +9377,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_03", 
       "created": "2013-08-08T01:26:39", 
       "state_votes": 1, 
-      "votes": 6, 
+      "votes": 7, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4365, 
       "x": -71.6086, 
-      "latest_vote": "2013-08-10T01:22:58", 
+      "latest_vote": "2013-08-11T13:18:36", 
       "id": 16224828, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Foxborough", 
@@ -9415,15 +9415,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_48", 
       "created": "2013-08-08T01:05:24", 
       "state_votes": 1, 
-      "votes": 12, 
+      "votes": 13, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 33.6801, 
       "x": -117.908, 
-      "latest_vote": "2013-08-10T04:48:23", 
+      "latest_vote": "2013-08-11T13:18:35", 
       "id": 16224723, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "East Orleans", 
@@ -9434,15 +9434,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_09", 
       "created": "2013-08-08T00:37:44", 
       "state_votes": 2, 
-      "votes": 7, 
+      "votes": 8, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 41.7886, 
       "x": -69.9625, 
-      "latest_vote": "2013-08-09T21:30:44", 
+      "latest_vote": "2013-08-11T13:18:08", 
       "id": 16224580, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "East Orleans", 
@@ -9453,15 +9453,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_09", 
       "created": "2013-08-08T00:33:53", 
       "state_votes": 0, 
-      "votes": 16, 
+      "votes": 17, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 41.7886, 
       "x": -69.9625, 
-      "latest_vote": "2013-08-09T23:21:19", 
+      "latest_vote": "2013-08-11T13:18:00", 
       "id": 16224570, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "West Springfield", 
@@ -24520,15 +24520,15 @@ opendebate.processFetchedQuestions({
       "district": "AR_03", 
       "created": "2013-08-06T00:19:37", 
       "state_votes": 2, 
-      "votes": 11, 
+      "votes": 12, 
       "district_votes": 1, 
       "state": "AR", 
       "iface": "question", 
       "y": 36.1808, 
       "x": -94.1677, 
-      "latest_vote": "2013-08-10T06:20:33", 
+      "latest_vote": "2013-08-11T13:18:43", 
       "id": 16179242, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Salt Lake City", 
