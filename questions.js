@@ -12455,15 +12455,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-07T09:46:47", 
       "state_votes": 4, 
-      "votes": 15, 
+      "votes": 16, 
       "district_votes": 3, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3612, 
       "x": -71.3639, 
-      "latest_vote": "2013-08-10T15:02:03", 
+      "latest_vote": "2013-08-11T12:35:19", 
       "id": 16215369, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Wayland", 
@@ -14564,15 +14564,15 @@ opendebate.processFetchedQuestions({
       "district": "CT_01", 
       "created": "2013-08-07T00:30:41", 
       "state_votes": 6, 
-      "votes": 24, 
+      "votes": 25, 
       "district_votes": 3, 
       "state": "CT", 
       "iface": "question", 
       "y": 41.8128, 
       "x": -73.1207, 
-      "latest_vote": "2013-08-09T04:40:29", 
+      "latest_vote": "2013-08-11T12:35:58", 
       "id": 16210626, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Lawrenceville", 
@@ -24121,15 +24121,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_02", 
       "created": "2013-08-06T05:29:15", 
       "state_votes": 2, 
-      "votes": 9, 
+      "votes": 10, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "question", 
       "y": 42.1583, 
       "x": -122.634, 
-      "latest_vote": "2013-08-09T22:16:41", 
+      "latest_vote": "2013-08-11T12:35:03", 
       "id": 16179925, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Studio City", 
@@ -28529,15 +28529,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_05", 
       "created": "2013-08-04T15:18:55", 
       "state_votes": 51, 
-      "votes": 451, 
+      "votes": 452, 
       "district_votes": 8, 
       "state": "OR", 
       "iface": "question", 
       "y": 45.6898, 
       "x": -123.884, 
-      "latest_vote": "2013-08-10T16:47:19", 
+      "latest_vote": "2013-08-11T12:35:29", 
       "id": 16174072, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Cape Girardeau", 

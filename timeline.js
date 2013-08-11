@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Do you support or oppose factory farming whistleblower punishment bills like one by introduced by Steve King?", 
+      "submission": "Will you oppose your party's President and demand an immediate end to the war in Afghanistan, drone attacks and NSA spying on us in the name of \"national security\"?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:34:54", 
+      "created": "2013-08-11T12:35:58", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296458, 
-      "question_id": "16179812"
+      "id": 16296463, 
+      "question_id": "16210626"
     }, 
     {
       "city": "Saint Petersburg", 
