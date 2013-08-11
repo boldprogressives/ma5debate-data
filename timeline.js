@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Why has the federal government refused to release the 9/11 photographs of the Pentagon attack?  There are cameras that film 24 hour a day on every square inch of the building.  Why have these photographs been kept from us?  We are allowed to watch the Trade Center being hit so why not the Pentagon?", 
+      "submission": "Why can't our congress make being on Medicare Prescription Part D less expensive? Why should seniors who are on fixed incomes and can no longer work have to pay so much for prescription medication when the same medications are sold dirt cheap just across the border in Canada?", 
       "district": "MN_02", 
-      "created": "2013-08-11T14:30:59", 
+      "created": "2013-08-11T14:32:54", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297302, 
-      "question_id": "16217969"
+      "id": 16297307, 
+      "question_id": "16219295"
     }, 
     {
       "city": "Saint Petersburg", 

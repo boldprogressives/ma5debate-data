@@ -11315,15 +11315,15 @@ opendebate.processFetchedQuestions({
       "district": "MO_01", 
       "created": "2013-08-07T17:34:00", 
       "state_votes": 1, 
-      "votes": 8, 
+      "votes": 9, 
       "district_votes": 0, 
       "state": "MO", 
       "iface": "question", 
       "y": 38.7778, 
       "x": -90.3719, 
-      "latest_vote": "2013-08-09T21:20:26", 
+      "latest_vote": "2013-08-11T14:32:54", 
       "id": 16219295, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Lakewood", 
@@ -11353,15 +11353,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_07", 
       "created": "2013-08-07T17:05:20", 
       "state_votes": 1, 
-      "votes": 3, 
+      "votes": 4, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.347, 
       "x": -71.0748, 
-      "latest_vote": "2013-08-10T00:37:24", 
+      "latest_vote": "2013-08-11T14:32:41", 
       "id": 16218212, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Marlborough", 
@@ -18877,15 +18877,15 @@ opendebate.processFetchedQuestions({
       "district": "IN_08", 
       "created": "2013-08-06T16:49:11", 
       "state_votes": 2, 
-      "votes": 26, 
+      "votes": 27, 
       "district_votes": 0, 
       "state": "IN", 
       "iface": "question", 
       "y": 38.1287, 
       "x": -87.1488, 
-      "latest_vote": "2013-08-09T22:06:57", 
+      "latest_vote": "2013-08-11T14:32:08", 
       "id": 16192567, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Edgewood", 
@@ -25356,15 +25356,15 @@ opendebate.processFetchedQuestions({
       "district": "CO_01", 
       "created": "2013-08-05T15:10:38", 
       "state_votes": 1, 
-      "votes": 11, 
+      "votes": 12, 
       "district_votes": 0, 
       "state": "CO", 
       "iface": "question", 
       "y": 39.5993, 
       "x": -105.107, 
-      "latest_vote": "2013-08-10T11:24:13", 
+      "latest_vote": "2013-08-11T14:32:29", 
       "id": 16177768, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Lehi", 
