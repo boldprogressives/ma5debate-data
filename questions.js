@@ -19048,15 +19048,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_07", 
       "created": "2013-08-06T16:40:26", 
       "state_votes": 3, 
-      "votes": 9, 
+      "votes": 10, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.3914, 
       "x": -71.0947, 
-      "latest_vote": "2013-08-08T23:15:11", 
+      "latest_vote": "2013-08-11T13:49:59", 
       "id": 16192190, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "North Adams", 
@@ -19067,15 +19067,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_01", 
       "created": "2013-08-06T16:39:38", 
       "state_votes": 5, 
-      "votes": 14, 
+      "votes": 15, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.6871, 
       "x": -73.0744, 
-      "latest_vote": "2013-08-10T13:20:13", 
+      "latest_vote": "2013-08-11T13:50:11", 
       "id": 16192164, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Mountain View", 
@@ -24026,15 +24026,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_07", 
       "created": "2013-08-06T05:32:34", 
       "state_votes": 2, 
-      "votes": 12, 
+      "votes": 13, 
       "district_votes": 1, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.7397, 
       "x": -122.333, 
-      "latest_vote": "2013-08-09T19:22:34", 
+      "latest_vote": "2013-08-11T13:50:37", 
       "id": 16179970, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Groton", 
@@ -30638,15 +30638,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_05", 
       "created": "2013-08-03T22:20:10", 
       "state_votes": 2, 
-      "votes": 8, 
+      "votes": 9, 
       "district_votes": 1, 
       "state": "OR", 
       "iface": "question", 
       "y": 44.4215, 
       "x": -124.047, 
-      "latest_vote": "2013-08-08T23:40:37", 
+      "latest_vote": "2013-08-11T13:50:17", 
       "id": 16172726, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Richardson", 

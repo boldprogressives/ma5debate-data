@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Would you be willing to submit to Congress a resolution confirming only Congress can declare war?", 
+      "submission": "What will you do to help Native American indigenous peoples have decent lives the most of us do or did?  ", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:49:47", 
+      "created": "2013-08-11T13:50:37", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296674, 
-      "question_id": "16192223"
+      "id": 16296678, 
+      "question_id": "16179970"
     }, 
     {
       "city": "Saint Petersburg", 
