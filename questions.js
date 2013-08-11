@@ -5501,15 +5501,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_02", 
       "created": "2013-08-08T23:26:45", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "question", 
       "y": 43.8432, 
       "x": -121.509, 
-      "latest_vote": "2013-08-09T03:14:42", 
+      "latest_vote": "2013-08-11T14:16:25", 
       "id": 16245249, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Honolulu", 
@@ -22525,15 +22525,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_11", 
       "created": "2013-08-06T14:34:13", 
       "state_votes": 0, 
-      "votes": 5, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "FL", 
       "iface": "question", 
       "y": 28.7721, 
       "x": -82.5914, 
-      "latest_vote": "2013-08-10T00:59:35", 
+      "latest_vote": "2013-08-11T14:16:03", 
       "id": 16183122, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Springfield", 

@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Why has Congress not pushed for alternative non-fossil fuel sources?  We have the technology, and we definitely have a pool of educable and trainable workers!", 
+      "submission": "What changes would you propose to House rules to ensure the House is less dysfunctional and gets more work done?  (Hints:  A petition signed by 10-20% of members can bring any bill to the floor for a vote; all bills restricted to a single subject as done in many state legislatures, restricting the Speaker's powers and making it the House of the people as originally intended).", 
       "district": "MN_02", 
-      "created": "2013-08-11T14:15:34", 
+      "created": "2013-08-11T14:16:25", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297263, 
-      "question_id": "16211812"
+      "id": 16297266, 
+      "question_id": "16245249"
     }, 
     {
       "city": "Saint Petersburg", 
