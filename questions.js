@@ -17756,15 +17756,15 @@ opendebate.processFetchedQuestions({
       "district": "NC_11", 
       "created": "2013-08-06T18:07:53", 
       "state_votes": 2, 
-      "votes": 10, 
+      "votes": 11, 
       "district_votes": 0, 
       "state": "NC", 
       "iface": "question", 
       "y": 35.2003, 
       "x": -82.7384, 
-      "latest_vote": "2013-08-08T22:56:34", 
+      "latest_vote": "2013-08-11T13:36:59", 
       "id": 16197610, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "East Elmhurst", 
@@ -24349,15 +24349,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_37", 
       "created": "2013-08-06T05:01:27", 
       "state_votes": 1, 
-      "votes": 6, 
+      "votes": 7, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 34.0018, 
       "x": -118.395, 
-      "latest_vote": "2013-08-09T04:52:31", 
+      "latest_vote": "2013-08-11T13:36:42", 
       "id": 16179638, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Mission Hills", 
@@ -29327,15 +29327,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_08", 
       "created": "2013-08-04T01:58:31", 
       "state_votes": 8, 
-      "votes": 49, 
+      "votes": 50, 
       "district_votes": 1, 
       "state": "IL", 
       "iface": "question", 
       "y": 41.9553, 
       "x": -87.9488, 
-      "latest_vote": "2013-08-10T05:19:07", 
+      "latest_vote": "2013-08-11T13:36:22", 
       "id": 16173312, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "North Sioux City", 

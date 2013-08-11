@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "What will you do to make this the \"UNITED\" states of America again, rather than the polarized special interest of America?", 
+      "submission": "Do you understand the second law of thermodynamics, without which you may be incompetent to vote on issues of a scientific nature?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:35:44", 
+      "created": "2013-08-11T13:36:59", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296627, 
-      "question_id": "16187516"
+      "id": 16296632, 
+      "question_id": "16197610"
     }, 
     {
       "city": "Saint Petersburg", 
