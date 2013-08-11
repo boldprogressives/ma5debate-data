@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Will you propose a new voting rights law?", 
+      "submission": "The sequester just slashed Meals on Wheels, food stamps, Section 8 vouchers for housing for the needy.How come in April, when the sequester hit the commuting congressional members with inconvenienltly long waiting suddenly money was found to eliminate inconveniences. What is your view on congressional priorities affecting the American people ?", 
       "district": "MN_02", 
-      "created": "2013-08-11T14:11:50", 
+      "created": "2013-08-11T14:12:15", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297253, 
-      "question_id": "16239018"
+      "id": 16297255, 
+      "question_id": "16206216"
     }, 
     {
       "city": "Saint Petersburg", 
