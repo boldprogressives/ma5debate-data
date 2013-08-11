@@ -21727,15 +21727,15 @@ opendebate.processFetchedQuestions({
       "district": "NJ_08", 
       "created": "2013-08-06T14:55:00", 
       "state_votes": 2, 
-      "votes": 11, 
+      "votes": 12, 
       "district_votes": 0, 
       "state": "NJ", 
       "iface": "question", 
       "y": 40.7704, 
       "x": -74.0309, 
-      "latest_vote": "2013-08-09T13:42:16", 
+      "latest_vote": "2013-08-11T13:10:03", 
       "id": 16184618, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Brighton", 
@@ -26914,15 +26914,15 @@ opendebate.processFetchedQuestions({
       "district": "SD_01", 
       "created": "2013-08-05T02:08:39", 
       "state_votes": 1, 
-      "votes": 10, 
+      "votes": 11, 
       "district_votes": 0, 
       "state": "SD", 
       "iface": "question", 
       "y": 43.7274, 
       "x": -98.0462, 
-      "latest_vote": "2013-08-09T06:52:16", 
+      "latest_vote": "2013-08-11T13:10:34", 
       "id": 16175785, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Maryville", 
