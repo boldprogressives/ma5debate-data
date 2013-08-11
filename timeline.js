@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Why is it that the congress and senate can work part time and do nothing  and get full benefits  full pay when other as the military do not.", 
+      "submission": "Why make rules about womens reproductive rights, but not for men who are responsible for rape and assault? Why is this not a sexual harrassment issue on behalf of all women everywhere? ", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:55:08", 
+      "created": "2013-08-11T12:56:47", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296529, 
-      "question_id": "16176482"
+      "id": 16296531, 
+      "question_id": "16235944"
     }, 
     {
       "city": "Saint Petersburg", 
