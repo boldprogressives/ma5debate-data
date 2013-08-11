@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "How do we get across to the general public that our public education schools belong to US, our taxes, our rule and NOT TO for-profit CORPORATIONS....this is treason, taking our voting and right to rule our own schools away from us. CORPORATOCRACY in everything....but the schools are the last straw.", 
+      "submission": "Do you agree with FDR's Message to Congress on Curbing Monopolies on April 29, 1938? Read at: http://www.presidency.ucsb.edu/ws/?pid=15637", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:55:52", 
+      "created": "2013-08-11T13:56:58", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296852, 
-      "question_id": "16173767"
+      "id": 16296903, 
+      "question_id": "16175635"
     }, 
     {
       "city": "Saint Petersburg", 

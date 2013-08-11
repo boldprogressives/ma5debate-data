@@ -27066,15 +27066,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_25", 
       "created": "2013-08-05T01:05:32", 
       "state_votes": 2, 
-      "votes": 20, 
+      "votes": 21, 
       "district_votes": 0, 
       "state": "FL", 
       "iface": "question", 
       "y": 25.99, 
       "x": -81.5334, 
-      "latest_vote": "2013-08-09T04:55:00", 
+      "latest_vote": "2013-08-11T13:56:58", 
       "id": 16175635, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Mount Vernon", 
@@ -27845,15 +27845,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_32", 
       "created": "2013-08-04T20:53:10", 
       "state_votes": 6, 
-      "votes": 51, 
+      "votes": 52, 
       "district_votes": 1, 
       "state": "TX", 
       "iface": "question", 
       "y": 32.9682, 
       "x": -96.5833, 
-      "latest_vote": "2013-08-09T23:27:44", 
+      "latest_vote": "2013-08-11T13:56:36", 
       "id": 16174806, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Siletz", 
@@ -28035,15 +28035,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_09", 
       "created": "2013-08-04T20:03:34", 
       "state_votes": 1, 
-      "votes": 20, 
+      "votes": 21, 
       "district_votes": 0, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.0081, 
       "x": -87.706, 
-      "latest_vote": "2013-08-10T06:27:21", 
+      "latest_vote": "2013-08-11T13:56:30", 
       "id": 16174483, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Seattle", 
@@ -28149,15 +28149,15 @@ opendebate.processFetchedQuestions({
       "district": "NM_03", 
       "created": "2013-08-04T19:45:40", 
       "state_votes": 2, 
-      "votes": 22, 
+      "votes": 23, 
       "district_votes": 0, 
       "state": "NM", 
       "iface": "question", 
       "y": 35.6211, 
       "x": -105.967, 
-      "latest_vote": "2013-08-10T06:27:03", 
+      "latest_vote": "2013-08-11T13:56:07", 
       "id": 16174384, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Phoenix", 
