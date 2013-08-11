@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Since there is minute danger from terrorism compared to cancer or auto accidents, how do you justify the gargantuan expenditures on programs that spy on us ? Wouldn't these funds be better spent on health and infrastructure; things that have obvious benefit to our safety ?", 
+      "submission": "To all candidates.... What is your plan to cut college tuition so people don't pull out loans they can't pay back?  ", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:28:58", 
+      "created": "2013-08-11T13:29:57", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296610, 
-      "question_id": "16186281"
+      "id": 16296614, 
+      "question_id": "16200586"
     }, 
     {
       "city": "Saint Petersburg", 

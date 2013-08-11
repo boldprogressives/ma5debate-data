@@ -17148,15 +17148,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_24", 
       "created": "2013-08-06T19:05:58", 
       "state_votes": 3, 
-      "votes": 62, 
+      "votes": 63, 
       "district_votes": 0, 
       "state": "FL", 
       "iface": "question", 
       "y": 25.9545, 
       "x": -80.1836, 
-      "latest_vote": "2013-08-10T06:06:07", 
+      "latest_vote": "2013-08-11T13:29:10", 
       "id": 16200703, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Chesapeake", 
@@ -17224,15 +17224,15 @@ opendebate.processFetchedQuestions({
       "district": "NY_23", 
       "created": "2013-08-06T19:02:49", 
       "state_votes": 3, 
-      "votes": 28, 
+      "votes": 29, 
       "district_votes": 1, 
       "state": "NY", 
       "iface": "question", 
       "y": 42.4276, 
       "x": -77.6687, 
-      "latest_vote": "2013-08-10T00:45:56", 
+      "latest_vote": "2013-08-11T13:29:57", 
       "id": 16200586, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Nottingham", 
@@ -29080,15 +29080,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_31", 
       "created": "2013-08-04T03:05:34", 
       "state_votes": 1, 
-      "votes": 11, 
+      "votes": 12, 
       "district_votes": 0, 
       "state": "TX", 
       "iface": "question", 
       "y": 31.1198, 
       "x": -97.7297, 
-      "latest_vote": "2013-08-10T01:22:46", 
+      "latest_vote": "2013-08-11T13:29:20", 
       "id": 16173404, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Federal Way", 
@@ -31284,15 +31284,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T17:38:33", 
       "state_votes": 14, 
-      "votes": 70, 
+      "votes": 71, 
       "district_votes": 6, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4152, 
       "x": -71.0053, 
-      "latest_vote": "2013-08-10T06:31:43", 
+      "latest_vote": "2013-08-11T13:29:30", 
       "id": 16172274, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "cambridge", 
