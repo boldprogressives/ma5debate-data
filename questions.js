@@ -18155,15 +18155,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_14", 
       "created": "2013-08-06T17:24:32", 
       "state_votes": 10, 
-      "votes": 49, 
+      "votes": 50, 
       "district_votes": 4, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.6524, 
       "x": -122.431, 
-      "latest_vote": "2013-08-10T17:48:35", 
+      "latest_vote": "2013-08-11T12:36:57", 
       "id": 16194500, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Provincetown", 
@@ -19447,15 +19447,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_18", 
       "created": "2013-08-06T16:16:39", 
       "state_votes": 2, 
-      "votes": 22, 
+      "votes": 23, 
       "district_votes": 0, 
       "state": "FL", 
       "iface": "question", 
       "y": 27.1975, 
       "x": -80.2531, 
-      "latest_vote": "2013-08-09T15:03:55", 
+      "latest_vote": "2013-08-11T12:36:17", 
       "id": 16190496, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "NEW YORK", 
@@ -26477,15 +26477,15 @@ opendebate.processFetchedQuestions({
       "district": "AZ_06", 
       "created": "2013-08-05T03:06:04", 
       "state_votes": 2, 
-      "votes": 33, 
+      "votes": 34, 
       "district_votes": 0, 
       "state": "AZ", 
       "iface": "question", 
       "y": 33.5936, 
       "x": -112.109, 
-      "latest_vote": "2013-08-10T05:14:38", 
+      "latest_vote": "2013-08-11T12:36:24", 
       "id": 16176088, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Salt Lake City", 

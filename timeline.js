@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Will you oppose your party's President and demand an immediate end to the war in Afghanistan, drone attacks and NSA spying on us in the name of \"national security\"?", 
+      "submission": "What do you plan to do about the NSA spying massively on American citizens and the general erosion of civil rights since the Patriot Act?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:35:58", 
+      "created": "2013-08-11T12:36:57", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296463, 
-      "question_id": "16210626"
+      "id": 16296466, 
+      "question_id": "16194500"
     }, 
     {
       "city": "Saint Petersburg", 
