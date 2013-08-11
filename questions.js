@@ -13177,15 +13177,15 @@ opendebate.processFetchedQuestions({
       "district": "OK_04", 
       "created": "2013-08-07T04:04:39", 
       "state_votes": 0, 
-      "votes": 2, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "OK", 
       "iface": "question", 
       "y": 35.3812, 
       "x": -97.4759, 
-      "latest_vote": "2013-08-10T02:22:55", 
+      "latest_vote": "2013-08-11T14:19:56", 
       "id": 16213330, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Tacoma", 
@@ -13291,15 +13291,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_14", 
       "created": "2013-08-07T03:57:51", 
       "state_votes": 0, 
-      "votes": 2, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "FL", 
       "iface": "question", 
       "y": 27.8296, 
       "x": -82.3686, 
-      "latest_vote": "2013-08-07T06:12:22", 
+      "latest_vote": "2013-08-11T14:19:06", 
       "id": 16213282, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Richfield", 
@@ -23152,15 +23152,15 @@ opendebate.processFetchedQuestions({
       "district": "DE_01", 
       "created": "2013-08-06T14:19:08", 
       "state_votes": 3, 
-      "votes": 24, 
+      "votes": 25, 
       "district_votes": 1, 
       "state": "DE", 
       "iface": "question", 
       "y": 39.7943, 
       "x": -75.5343, 
-      "latest_vote": "2013-08-10T00:02:49", 
+      "latest_vote": "2013-08-11T14:19:19", 
       "id": 16181956, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Roslindale", 

@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": " trillions of tax payer dollars used to bailout private financial institutions obstensibly to stabilize & stimulate economy: what's your position on bailing out Main St  via student debt forgiveness? ", 
+      "submission": "Why doesn't anyone know about the final NIST report acknowledgement that the THIRD tower demolished on 9-11-01 DID free fall (proving demolition), and why haven't you demanded a criminal investigation?", 
       "district": "MN_02", 
-      "created": "2013-08-11T14:18:48", 
+      "created": "2013-08-11T14:19:56", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297273, 
-      "question_id": "16188037"
+      "id": 16297276, 
+      "question_id": "16213330"
     }, 
     {
       "city": "Saint Petersburg", 
