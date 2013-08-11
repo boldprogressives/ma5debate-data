@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "According to a recent study (http://www.pnhp.org/sites/default/files/Funding%20HR%20676_Friedman_final_7.31.13.pdf), a single-payer system would cover everybody, eliminate copays and deductibles, and cost substantially less money than the system with or without the Affordable Care Act. Would you support and work for a single-payer system such as the one proposed in HR-676?", 
+      "submission": "What are we doing to allow ALL Americans to cast their ballot; and it will be COUNTED fairly. End gerrymandering! ", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:52:48", 
+      "created": "2013-08-11T12:53:58", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296523, 
-      "question_id": "16249016"
+      "id": 16296526, 
+      "question_id": "16181315"
     }, 
     {
       "city": "Saint Petersburg", 

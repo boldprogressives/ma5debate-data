@@ -6926,15 +6926,15 @@ opendebate.processFetchedQuestions({
       "district": "SC_01", 
       "created": "2013-08-08T21:24:57", 
       "state_votes": 0, 
-      "votes": 7, 
+      "votes": 8, 
       "district_votes": 0, 
       "state": "SC", 
       "iface": "question", 
       "y": 32.8001, 
       "x": -80.0109, 
-      "latest_vote": "2013-08-10T00:12:26", 
+      "latest_vote": "2013-08-11T12:53:19", 
       "id": 16235453, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Fort Lauderdale", 
@@ -23380,15 +23380,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_42", 
       "created": "2013-08-06T13:52:21", 
       "state_votes": 1, 
-      "votes": 15, 
+      "votes": 16, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 33.6798, 
       "x": -117.189, 
-      "latest_vote": "2013-08-10T00:03:00", 
+      "latest_vote": "2013-08-11T12:53:58", 
       "id": 16181315, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Watertown", 
@@ -25888,15 +25888,15 @@ opendebate.processFetchedQuestions({
       "district": "ID_02", 
       "created": "2013-08-05T06:23:24", 
       "state_votes": 1, 
-      "votes": 10, 
+      "votes": 11, 
       "district_votes": 0, 
       "state": "ID", 
       "iface": "question", 
       "y": 43.4746, 
       "x": -112.013, 
-      "latest_vote": "2013-08-09T08:59:06", 
+      "latest_vote": "2013-08-11T12:53:24", 
       "id": 16176669, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Tucson", 
