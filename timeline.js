@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Can we break gridlock?  Can you give a concrete example of an issue on which you think you could make progress by forging a compromise with those crazy DC Republicans?", 
+      "submission": "Karen: What will you do in Congressto support Labor Unions and the vast and growing strikes that are now occurring ?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:24:44", 
+      "created": "2013-08-11T13:25:38", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296598, 
-      "question_id": "16201599"
+      "id": 16296600, 
+      "question_id": "16173554"
     }, 
     {
       "city": "Saint Petersburg", 

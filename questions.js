@@ -6223,15 +6223,15 @@ opendebate.processFetchedQuestions({
       "district": "MN_06", 
       "created": "2013-08-08T22:53:09", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "district_votes": 0, 
       "state": "MN", 
       "iface": "question", 
       "y": 45.1636, 
       "x": -92.9564, 
-      "latest_vote": "2013-08-08T22:58:57", 
+      "latest_vote": "2013-08-11T13:25:02", 
       "id": 16240245, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Hugo", 
@@ -28852,15 +28852,15 @@ opendebate.processFetchedQuestions({
       "district": "MN_08", 
       "created": "2013-08-04T04:53:10", 
       "state_votes": 2, 
-      "votes": 7, 
+      "votes": 8, 
       "district_votes": 1, 
       "state": "MN", 
       "iface": "question", 
       "y": 46.7966, 
       "x": -92.0945, 
-      "latest_vote": "2013-08-10T01:13:11", 
+      "latest_vote": "2013-08-11T13:25:38", 
       "id": 16173554, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Kapaa", 
