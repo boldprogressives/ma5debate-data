@@ -23627,15 +23627,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_45", 
       "created": "2013-08-06T12:15:31", 
       "state_votes": 2, 
-      "votes": 15, 
+      "votes": 16, 
       "district_votes": 1, 
       "state": "CA", 
       "iface": "question", 
       "y": 33.6245, 
       "x": -117.794, 
-      "latest_vote": "2013-08-08T22:07:29", 
+      "latest_vote": "2013-08-11T14:21:43", 
       "id": 16180986, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Irvine", 

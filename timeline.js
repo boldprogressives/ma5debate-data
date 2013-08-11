@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Why doesn't anyone know about the final NIST report acknowledgement that the THIRD tower demolished on 9-11-01 DID free fall (proving demolition), and why haven't you demanded a criminal investigation?", 
+      "submission": "Instead of rewarding financial institutions by lending THEM money at 0 to 25 basis points why not lend directly to homeowners and buyers of primary residences ?", 
       "district": "MN_02", 
-      "created": "2013-08-11T14:19:56", 
+      "created": "2013-08-11T14:21:43", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297276, 
-      "question_id": "16213330"
+      "id": 16297277, 
+      "question_id": "16180986"
     }, 
     {
       "city": "Saint Petersburg", 
