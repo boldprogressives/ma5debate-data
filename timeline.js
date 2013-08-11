@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Will you take action to reinstate Part 4 of the Voting Rights Act and to further protect the VRA by Congressional Re-affirmation?", 
+      "submission": "Because of the deregulation of banks during the early '80s and late '90s, which caused financial crisis, what is your idea to regulate banks to keep this from happening again? ", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:21:47", 
+      "created": "2013-08-11T12:22:41", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296402, 
-      "question_id": "16183683"
+      "id": 16296405, 
+      "question_id": "16176613"
     }, 
     {
       "city": "Saint Petersburg", 

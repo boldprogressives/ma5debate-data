@@ -10878,15 +10878,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_02", 
       "created": "2013-08-07T19:20:46", 
       "state_votes": 2, 
-      "votes": 7, 
+      "votes": 8, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.2541, 
       "x": -71.7731, 
-      "latest_vote": "2013-08-10T00:35:37", 
+      "latest_vote": "2013-08-11T12:22:12", 
       "id": 16220253, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Totowa", 
@@ -26021,15 +26021,15 @@ opendebate.processFetchedQuestions({
       "district": "AR_04", 
       "created": "2013-08-05T05:21:47", 
       "state_votes": 4, 
-      "votes": 33, 
+      "votes": 34, 
       "district_votes": 1, 
       "state": "AR", 
       "iface": "question", 
       "y": 34.4247, 
       "x": -93.0963, 
-      "latest_vote": "2013-08-10T06:23:28", 
+      "latest_vote": "2013-08-11T12:22:41", 
       "id": 16176613, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Portland", 
@@ -26135,15 +26135,15 @@ opendebate.processFetchedQuestions({
       "district": "HI_01", 
       "created": "2013-08-05T04:17:37", 
       "state_votes": 2, 
-      "votes": 10, 
+      "votes": 11, 
       "district_votes": 0, 
       "state": "HI", 
       "iface": "question", 
       "y": 21.2894, 
       "x": -157.755, 
-      "latest_vote": "2013-08-09T01:31:17", 
+      "latest_vote": "2013-08-11T12:22:05", 
       "id": 16176483, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Copperas Cove", 
