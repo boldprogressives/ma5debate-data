@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Karen: What will you do in Congressto support Labor Unions and the vast and growing strikes that are now occurring ?", 
+      "submission": "As a Republican, how do you feel about the fact that the Republican Party is now known as the Obstructionist Party?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:25:38", 
+      "created": "2013-08-11T13:26:45", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296600, 
-      "question_id": "16173554"
+      "id": 16296605, 
+      "question_id": "16179256"
     }, 
     {
       "city": "Saint Petersburg", 
