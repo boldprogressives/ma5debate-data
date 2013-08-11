@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "What is your position on the Keystone XL project?", 
+      "submission": "Can we break gridlock?  Can you give a concrete example of an issue on which you think you could make progress by forging a compromise with those crazy DC Republicans?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:23:54", 
+      "created": "2013-08-11T13:24:44", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296593, 
-      "question_id": "16239976"
+      "id": 16296598, 
+      "question_id": "16201599"
     }, 
     {
       "city": "Saint Petersburg", 
