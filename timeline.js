@@ -2,6 +2,25 @@ opendebate.processTimeline({
   "iface": "timeline", 
   "entries": [
     {
+      "city": "Saint Petersburg", 
+      "first_name": "SANDY", 
+      "last_name": "OESTREICH", 
+      "user_id": 1100144, 
+      "submission": "Please co-sponsor our own-authored ERA speedup bill before US House HJR 43 or Senate SJR 15?  ", 
+      "district": "FL_13", 
+      "created": "2013-08-11T05:31:54", 
+      "state_votes": 0, 
+      "votes": 0, 
+      "district_votes": 0, 
+      "state": "FL", 
+      "iface": "timeline_question", 
+      "y": 27.8141, 
+      "x": -82.7966, 
+      "latest_vote": null, 
+      "id": 16296097, 
+      "trending_score": 0.5
+    }, 
+    {
       "city": "Santa Cruz", 
       "first_name": "Ricci", 
       "last_name": "Pineau", 
@@ -297,21 +316,6 @@ opendebate.processTimeline({
       "x": -79.9232, 
       "id": 16294588, 
       "question_id": "16172697"
-    }, 
-    {
-      "city": "Montrose", 
-      "first_name": "Katrina", 
-      "last_name": "Davis", 
-      "user_id": 1116778, 
-      "submission": "Would you work to end the \"revolving door\" in politics: where politicians are given lucrative jobs as lobbyists once they leave [cough] \"public service\"", 
-      "district": "CO_03", 
-      "created": "2013-08-10T16:47:54", 
-      "state": "CO", 
-      "iface": "timeline_vote", 
-      "y": 38.412, 
-      "x": -107.863, 
-      "id": 16294566, 
-      "question_id": "16217343"
     }
   ]
 });
