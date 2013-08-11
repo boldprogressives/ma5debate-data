@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "What is your position on public education.  Do you believe that quality public education should be made available to all citizens regardless of income, race, religion, sex?", 
+      "submission": "Do you believe that its right that our military uses depleted uranium munitions in conflict zones, which not only destroy their target, but also spread deadly radiation over civillian populations?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:05:56", 
+      "created": "2013-08-11T13:06:31", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296535, 
-      "question_id": "16221200"
+      "id": 16296538, 
+      "question_id": "16207353"
     }, 
     {
       "city": "Saint Petersburg", 

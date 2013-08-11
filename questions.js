@@ -10213,15 +10213,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_06", 
       "created": "2013-08-07T21:18:34", 
       "state_votes": 1, 
-      "votes": 4, 
+      "votes": 5, 
       "district_votes": 1, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4263, 
       "x": -70.9242, 
-      "latest_vote": "2013-08-09T21:31:43", 
+      "latest_vote": "2013-08-11T13:06:22", 
       "id": 16222158, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Sudbury", 
@@ -15305,15 +15305,15 @@ opendebate.processFetchedQuestions({
       "district": "NY_23", 
       "created": "2013-08-06T22:05:36", 
       "state_votes": 4, 
-      "votes": 32, 
+      "votes": 33, 
       "district_votes": 0, 
       "state": "NY", 
       "iface": "question", 
       "y": 42.1075, 
       "x": -77.231, 
-      "latest_vote": "2013-08-10T15:02:42", 
+      "latest_vote": "2013-08-11T13:06:31", 
       "id": 16207353, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Millis", 
@@ -26534,15 +26534,15 @@ opendebate.processFetchedQuestions({
       "district": "AZ_09", 
       "created": "2013-08-05T03:00:03", 
       "state_votes": 1, 
-      "votes": 9, 
+      "votes": 10, 
       "district_votes": 0, 
       "state": "AZ", 
       "iface": "question", 
       "y": 33.4305, 
       "x": -111.841, 
-      "latest_vote": "2013-08-10T01:08:07", 
+      "latest_vote": "2013-08-11T13:06:07", 
       "id": 16176012, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Sun River", 
