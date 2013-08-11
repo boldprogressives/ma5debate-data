@@ -5102,15 +5102,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_14", 
       "created": "2013-08-09T00:04:59", 
       "state_votes": 0, 
-      "votes": 5, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 37.625, 
       "x": -122.432, 
-      "latest_vote": "2013-08-10T00:24:53", 
+      "latest_vote": "2013-08-11T12:51:26", 
       "id": 16248633, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Bremerton", 
@@ -14127,15 +14127,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_08", 
       "created": "2013-08-07T01:50:04", 
       "state_votes": 1, 
-      "votes": 11, 
+      "votes": 12, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 34.4165, 
       "x": -117.307, 
-      "latest_vote": "2013-08-09T21:44:54", 
+      "latest_vote": "2013-08-11T12:51:48", 
       "id": 16212028, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Valrico", 
@@ -23266,15 +23266,15 @@ opendebate.processFetchedQuestions({
       "district": "ME_02", 
       "created": "2013-08-06T14:13:40", 
       "state_votes": 1, 
-      "votes": 9, 
+      "votes": 10, 
       "district_votes": 0, 
       "state": "ME", 
       "iface": "question", 
       "y": 44.3612, 
       "x": -69.1922, 
-      "latest_vote": "2013-08-09T06:49:10", 
+      "latest_vote": "2013-08-11T12:51:05", 
       "id": 16181571, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Newburyport", 
@@ -24748,15 +24748,15 @@ opendebate.processFetchedQuestions({
       "district": "IL_09", 
       "created": "2013-08-05T19:54:52", 
       "state_votes": 2, 
-      "votes": 13, 
+      "votes": 14, 
       "district_votes": 0, 
       "state": "IL", 
       "iface": "question", 
       "y": 42.0305, 
       "x": -87.6918, 
-      "latest_vote": "2013-08-10T16:00:28", 
+      "latest_vote": "2013-08-11T12:51:38", 
       "id": 16178617, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "West Salem", 

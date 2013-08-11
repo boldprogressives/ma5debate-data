@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "What is your opinion on reinstating the Fairness Doctrine?  Do you believe that the public owns the airwaves?", 
+      "submission": "would you support a 95% tax for any company that does business in the U.S.  and does not manufactures good in the U.S,?  This most definitely bring jobs back to U.S.  ", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:50:56", 
+      "created": "2013-08-11T12:51:48", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296516, 
-      "question_id": "16212144"
+      "id": 16296520, 
+      "question_id": "16212028"
     }, 
     {
       "city": "Saint Petersburg", 
