@@ -5767,15 +5767,15 @@ opendebate.processFetchedQuestions({
       "district": "SC_03", 
       "created": "2013-08-08T23:12:58", 
       "state_votes": 0, 
-      "votes": 4, 
+      "votes": 5, 
       "district_votes": 0, 
       "state": "SC", 
       "iface": "question", 
       "y": 34.2831, 
       "x": -81.9829, 
-      "latest_vote": "2013-08-10T01:19:49", 
+      "latest_vote": "2013-08-11T14:08:26", 
       "id": 16243369, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Berkeley Heights", 
@@ -6166,15 +6166,15 @@ opendebate.processFetchedQuestions({
       "district": "AZ_06", 
       "created": "2013-08-08T22:58:12", 
       "state_votes": 0, 
-      "votes": 2, 
+      "votes": 3, 
       "district_votes": 0, 
       "state": "AZ", 
       "iface": "question", 
       "y": 33.6275, 
       "x": -112.052, 
-      "latest_vote": "2013-08-10T00:26:59", 
+      "latest_vote": "2013-08-11T14:08:37", 
       "id": 16240922, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Portland", 
@@ -16806,15 +16806,15 @@ opendebate.processFetchedQuestions({
       "district": "OR_02", 
       "created": "2013-08-06T19:27:29", 
       "state_votes": 3, 
-      "votes": 45, 
+      "votes": 46, 
       "district_votes": 0, 
       "state": "OR", 
       "iface": "question", 
       "y": 42.1583, 
       "x": -122.634, 
-      "latest_vote": "2013-08-09T21:00:02", 
+      "latest_vote": "2013-08-11T14:08:43", 
       "id": 16201568, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Pittsburg", 
@@ -16977,15 +16977,15 @@ opendebate.processFetchedQuestions({
       "district": "OH_02", 
       "created": "2013-08-06T19:21:44", 
       "state_votes": 2, 
-      "votes": 26, 
+      "votes": 27, 
       "district_votes": 0, 
       "state": "OH", 
       "iface": "question", 
       "y": 39.0787, 
       "x": -84.3772, 
-      "latest_vote": "2013-08-09T19:14:20", 
+      "latest_vote": "2013-08-11T14:08:06", 
       "id": 16201325, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "East Meadow", 

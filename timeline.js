@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Should Supreme Court Justices have term limits.. say 12 years maximum?", 
+      "submission": "Will you support reform to congressional and executive compensation, including pay that is equal to the median income of the constituents they represent?", 
       "district": "MN_02", 
-      "created": "2013-08-11T14:07:35", 
+      "created": "2013-08-11T14:08:43", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297240, 
-      "question_id": "16240928"
+      "id": 16297244, 
+      "question_id": "16201568"
     }, 
     {
       "city": "Saint Petersburg", 
