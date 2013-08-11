@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Alec and the Tea Party have taken control of state governments in an effort to further confuse and divide the country.  How will you punish rogue, dishonest right-to-work states like AZ, TX, and FL?  ", 
+      "submission": "Do you support the NSA wholesale collection and storage of private communications of Americans? If not; What are you going to do about it?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:23:38", 
+      "created": "2013-08-11T12:24:45", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296407, 
-      "question_id": "16176690"
+      "id": 16296412, 
+      "question_id": "16183342"
     }, 
     {
       "city": "Saint Petersburg", 

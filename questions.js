@@ -5083,15 +5083,15 @@ opendebate.processFetchedQuestions({
       "district": "CA_06", 
       "created": "2013-08-09T00:05:30", 
       "state_votes": 0, 
-      "votes": 4, 
+      "votes": 5, 
       "district_votes": 0, 
       "state": "CA", 
       "iface": "question", 
       "y": 38.4983, 
       "x": -121.534, 
-      "latest_vote": "2013-08-10T03:33:50", 
+      "latest_vote": "2013-08-11T12:24:36", 
       "id": 16248693, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "San Bruno", 
@@ -22335,15 +22335,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_03", 
       "created": "2013-08-06T14:37:43", 
       "state_votes": 2, 
-      "votes": 15, 
+      "votes": 16, 
       "district_votes": 0, 
       "state": "FL", 
       "iface": "question", 
       "y": 29.4841, 
       "x": -82.8645, 
-      "latest_vote": "2013-08-10T05:08:54", 
+      "latest_vote": "2013-08-11T12:24:08", 
       "id": 16183368, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Black Mountain", 
@@ -22392,15 +22392,15 @@ opendebate.processFetchedQuestions({
       "district": "NC_03", 
       "created": "2013-08-06T14:37:27", 
       "state_votes": 2, 
-      "votes": 11, 
+      "votes": 12, 
       "district_votes": 1, 
       "state": "NC", 
       "iface": "question", 
       "y": 34.7745, 
       "x": -77.3814, 
-      "latest_vote": "2013-08-09T00:28:21", 
+      "latest_vote": "2013-08-11T12:24:45", 
       "id": 16183342, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "UNIO PIER", 
