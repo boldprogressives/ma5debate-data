@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "What are we doing to allow ALL Americans to cast their ballot; and it will be COUNTED fairly. End gerrymandering! ", 
+      "submission": "Do you think it is to late to investigate illegal actions and prosecute those individuals who were responsible in the 2008 wall street and banking economic meltdown?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:53:58", 
+      "created": "2013-08-11T12:54:27", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296526, 
-      "question_id": "16181315"
+      "id": 16296528, 
+      "question_id": "16176565"
     }, 
     {
       "city": "Saint Petersburg", 

@@ -26059,15 +26059,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_01", 
       "created": "2013-08-05T05:02:27", 
       "state_votes": 3, 
-      "votes": 29, 
+      "votes": 30, 
       "district_votes": 0, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.6877, 
       "x": -122.192, 
-      "latest_vote": "2013-08-10T06:23:15", 
+      "latest_vote": "2013-08-11T12:54:27", 
       "id": 16176565, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Kihei", 
