@@ -5197,15 +5197,15 @@ opendebate.processFetchedQuestions({
       "district": "OK_02", 
       "created": "2013-08-08T23:52:10", 
       "state_votes": 0, 
-      "votes": 6, 
+      "votes": 7, 
       "district_votes": 0, 
       "state": "OK", 
       "iface": "question", 
       "y": 35.9136, 
       "x": -94.9678, 
-      "latest_vote": "2013-08-09T21:08:37", 
+      "latest_vote": "2013-08-11T12:49:40", 
       "id": 16247712, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Indianapolis", 
@@ -5235,15 +5235,15 @@ opendebate.processFetchedQuestions({
       "district": "AZ_02", 
       "created": "2013-08-08T23:45:20", 
       "state_votes": 0, 
-      "votes": 6, 
+      "votes": 7, 
       "district_votes": 0, 
       "state": "AZ", 
       "iface": "question", 
       "y": 32.2185, 
       "x": -110.888, 
-      "latest_vote": "2013-08-10T12:30:40", 
+      "latest_vote": "2013-08-11T12:49:08", 
       "id": 16247083, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Loudon", 
@@ -13842,15 +13842,15 @@ opendebate.processFetchedQuestions({
       "district": "GA_13", 
       "created": "2013-08-07T02:31:40", 
       "state_votes": 1, 
-      "votes": 14, 
+      "votes": 15, 
       "district_votes": 0, 
       "state": "GA", 
       "iface": "question", 
       "y": 33.5118, 
       "x": -84.3168, 
-      "latest_vote": "2013-08-09T23:47:24", 
+      "latest_vote": "2013-08-11T12:49:21", 
       "id": 16212355, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Jonesboro", 
@@ -13899,15 +13899,15 @@ opendebate.processFetchedQuestions({
       "district": "GA_13", 
       "created": "2013-08-07T02:31:09", 
       "state_votes": 2, 
-      "votes": 13, 
+      "votes": 14, 
       "district_votes": 1, 
       "state": "GA", 
       "iface": "question", 
       "y": 33.5118, 
       "x": -84.3168, 
-      "latest_vote": "2013-08-10T00:41:46", 
+      "latest_vote": "2013-08-11T12:49:48", 
       "id": 16212352, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Jonesboro", 
