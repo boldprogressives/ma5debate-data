@@ -6869,15 +6869,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_27", 
       "created": "2013-08-08T21:28:00", 
       "state_votes": 0, 
-      "votes": 6, 
+      "votes": 7, 
       "district_votes": 0, 
       "state": "FL", 
       "iface": "question", 
       "y": 25.5686, 
       "x": -80.3429, 
-      "latest_vote": "2013-08-09T21:26:29", 
+      "latest_vote": "2013-08-11T14:13:36", 
       "id": 16235604, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Charleston", 
@@ -14887,15 +14887,15 @@ opendebate.processFetchedQuestions({
       "district": "FL_16", 
       "created": "2013-08-06T22:53:08", 
       "state_votes": 3, 
-      "votes": 33, 
+      "votes": 34, 
       "district_votes": 0, 
       "state": "FL", 
       "iface": "question", 
       "y": 27.3104, 
       "x": -82.5178, 
-      "latest_vote": "2013-08-10T00:42:32", 
+      "latest_vote": "2013-08-11T14:13:18", 
       "id": 16208810, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Richmond", 
@@ -17813,15 +17813,15 @@ opendebate.processFetchedQuestions({
       "district": "RI_01", 
       "created": "2013-08-06T17:59:52", 
       "state_votes": 1, 
-      "votes": 21, 
+      "votes": 22, 
       "district_votes": 0, 
       "state": "RI", 
       "iface": "question", 
       "y": 41.966, 
       "x": -71.5523, 
-      "latest_vote": "2013-08-09T22:01:54", 
+      "latest_vote": "2013-08-11T14:13:43", 
       "id": 16197307, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Madison", 

@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "The sequester just slashed Meals on Wheels, food stamps, Section 8 vouchers for housing for the needy.How come in April, when the sequester hit the commuting congressional members with inconvenienltly long waiting suddenly money was found to eliminate inconveniences. What is your view on congressional priorities affecting the American people ?", 
+      "submission": "Can you tell me how much of the USA land or property is owned by foreigners or foreign intrests? These basic fact's are that numerous other countries don't allow foreign property & land purchases.  These countries won't allow Americans to actually own any land. What we are allowed to do is; we are allowed to lease the land or property, buy the rights to sell products in these countries for a contracted amount of time, pay out a percentage of stock in a said company and any other restrictions based upon country of origin.  How can or do we get  America back to the rightful American people? ", 
       "district": "MN_02", 
-      "created": "2013-08-11T14:12:15", 
+      "created": "2013-08-11T14:13:43", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297255, 
-      "question_id": "16206216"
+      "id": 16297260, 
+      "question_id": "16197307"
     }, 
     {
       "city": "Saint Petersburg", 
