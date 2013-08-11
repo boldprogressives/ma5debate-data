@@ -14203,15 +14203,15 @@ opendebate.processFetchedQuestions({
       "district": "VA_06", 
       "created": "2013-08-07T01:36:12", 
       "state_votes": 4, 
-      "votes": 20, 
+      "votes": 21, 
       "district_votes": 1, 
       "state": "VA", 
       "iface": "question", 
       "y": 37.2549, 
       "x": -79.9806, 
-      "latest_vote": "2013-08-09T23:50:10", 
+      "latest_vote": "2013-08-11T14:15:34", 
       "id": 16211812, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Key Biscayne", 

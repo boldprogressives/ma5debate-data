@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Will you pleadge to oppose cuts to Social Security and Medicare benefits?", 
+      "submission": "Why has Congress not pushed for alternative non-fossil fuel sources?  We have the technology, and we definitely have a pool of educable and trainable workers!", 
       "district": "MN_02", 
-      "created": "2013-08-11T14:14:31", 
+      "created": "2013-08-11T14:15:34", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297262, 
-      "question_id": "16196880"
+      "id": 16297263, 
+      "question_id": "16211812"
     }, 
     {
       "city": "Saint Petersburg", 
