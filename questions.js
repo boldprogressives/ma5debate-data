@@ -13538,15 +13538,15 @@ opendebate.processFetchedQuestions({
       "district": "MI_05", 
       "created": "2013-08-07T03:07:57", 
       "state_votes": 0, 
-      "votes": 6, 
+      "votes": 7, 
       "district_votes": 0, 
       "state": "MI", 
       "iface": "question", 
       "y": 43.1742, 
       "x": -83.7198, 
-      "latest_vote": "2013-08-10T17:48:54", 
+      "latest_vote": "2013-08-11T14:17:19", 
       "id": 16212888, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Northridge", 
@@ -22848,15 +22848,15 @@ opendebate.processFetchedQuestions({
       "district": "VA_07", 
       "created": "2013-08-06T14:26:49", 
       "state_votes": 2, 
-      "votes": 33, 
+      "votes": 34, 
       "district_votes": 0, 
       "state": "VA", 
       "iface": "question", 
       "y": 37.4562, 
       "x": -77.6438, 
-      "latest_vote": "2013-08-10T04:32:40", 
+      "latest_vote": "2013-08-11T14:17:48", 
       "id": 16182493, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Schererville", 
