@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "What would you do about the incredible income disparity that exists in this country and is bringing our entire middle class down and creating the \"new poor\"?", 
+      "submission": "Will you do everything humanly possible to  stop all mining of fossil fuels, and to outlaw the shipping or piping of fossil fuels to or from other countries?", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:42:57", 
+      "created": "2013-08-11T12:43:58", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296490, 
-      "question_id": "16212111"
+      "id": 16296495, 
+      "question_id": "16178322"
     }, 
     {
       "city": "Saint Petersburg", 
