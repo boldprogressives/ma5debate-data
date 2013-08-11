@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Why can't our congress make being on Medicare Prescription Part D less expensive? Why should seniors who are on fixed incomes and can no longer work have to pay so much for prescription medication when the same medications are sold dirt cheap just across the border in Canada?", 
+      "submission": "When are Democrats going to stand UNITED and finally expose all the Republican Tea Party LIES about everything from Obamacare to our US Economy and let the American People learn the TRUTH?   ", 
       "district": "MN_02", 
-      "created": "2013-08-11T14:32:54", 
+      "created": "2013-08-11T14:33:56", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297307, 
-      "question_id": "16219295"
+      "id": 16297311, 
+      "question_id": "16219526"
     }, 
     {
       "city": "Saint Petersburg", 

@@ -11239,15 +11239,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_35", 
       "created": "2013-08-07T18:01:39", 
       "state_votes": 3, 
-      "votes": 5, 
+      "votes": 6, 
       "district_votes": 0, 
       "state": "TX", 
       "iface": "question", 
       "y": 29.4786, 
       "x": -98.4872, 
-      "latest_vote": "2013-08-09T21:55:38", 
+      "latest_vote": "2013-08-11T14:33:56", 
       "id": 16219526, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Natick", 
@@ -25413,15 +25413,15 @@ opendebate.processFetchedQuestions({
       "district": "WA_09", 
       "created": "2013-08-05T14:02:33", 
       "state_votes": 0, 
-      "votes": 1, 
+      "votes": 2, 
       "district_votes": 0, 
       "state": "WA", 
       "iface": "question", 
       "y": 47.2936, 
       "x": -122.392, 
-      "latest_vote": "2013-08-10T01:06:40", 
+      "latest_vote": "2013-08-11T14:33:02", 
       "id": 16177500, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Tacoma", 
@@ -25470,15 +25470,15 @@ opendebate.processFetchedQuestions({
       "district": "MO_08", 
       "created": "2013-08-05T13:29:12", 
       "state_votes": 2, 
-      "votes": 24, 
+      "votes": 25, 
       "district_votes": 0, 
       "state": "MO", 
       "iface": "question", 
       "y": 36.5139, 
       "x": -91.8015, 
-      "latest_vote": "2013-08-08T18:33:10", 
+      "latest_vote": "2013-08-11T14:33:22", 
       "id": 16177259, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Garland", 
@@ -31037,15 +31037,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_05", 
       "created": "2013-08-03T21:07:20", 
       "state_votes": 0, 
-      "votes": 3, 
+      "votes": 4, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.4558, 
       "x": -71.215, 
-      "latest_vote": "2013-08-10T06:32:12", 
+      "latest_vote": "2013-08-11T14:33:11", 
       "id": 16172566, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Belmont", 
