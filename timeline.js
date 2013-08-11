@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "What can you do to stop this sickness of MONSANTO paying off Congressmen,FDA,EPA,USDA and many others to sicken poison and degrade a system which was put in place to preserve our Health and Safty?", 
+      "submission": " Will you support legislation to repeal the Patriot act?  How do we address dealing with conflicts abroad and war not being the first solution?", 
       "district": "MN_02", 
-      "created": "2013-08-11T13:53:50", 
+      "created": "2013-08-11T13:54:48", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296757, 
-      "question_id": "16215471"
+      "id": 16296800, 
+      "question_id": "16190583"
     }, 
     {
       "city": "Saint Petersburg", 

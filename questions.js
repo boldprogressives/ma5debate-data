@@ -19428,15 +19428,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_32", 
       "created": "2013-08-06T16:18:55", 
       "state_votes": 4, 
-      "votes": 28, 
+      "votes": 29, 
       "district_votes": 1, 
       "state": "TX", 
       "iface": "question", 
       "y": 32.8305, 
       "x": -96.7727, 
-      "latest_vote": "2013-08-10T17:48:59", 
+      "latest_vote": "2013-08-11T13:54:48", 
       "id": 16190583, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Stuart", 
