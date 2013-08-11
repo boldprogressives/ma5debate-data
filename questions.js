@@ -19124,15 +19124,15 @@ opendebate.processFetchedQuestions({
       "district": "KY_01", 
       "created": "2013-08-06T16:35:12", 
       "state_votes": 3, 
-      "votes": 48, 
+      "votes": 49, 
       "district_votes": 0, 
       "state": "KY", 
       "iface": "question", 
       "y": 37.492, 
       "x": -86.9261, 
-      "latest_vote": "2013-08-10T06:09:01", 
+      "latest_vote": "2013-08-11T12:12:29", 
       "id": 16191973, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Middleboro", 
@@ -19865,15 +19865,15 @@ opendebate.processFetchedQuestions({
       "district": "NY_13", 
       "created": "2013-08-06T16:02:50", 
       "state_votes": 3, 
-      "votes": 29, 
+      "votes": 30, 
       "district_votes": 0, 
       "state": "NY", 
       "iface": "question", 
       "y": 40.8679, 
       "x": -73.9198, 
-      "latest_vote": "2013-08-09T02:39:43", 
+      "latest_vote": "2013-08-11T12:12:47", 
       "id": 16189763, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Neptune", 
@@ -28491,15 +28491,15 @@ opendebate.processFetchedQuestions({
       "district": "IA_01", 
       "created": "2013-08-04T15:47:40", 
       "state_votes": 42, 
-      "votes": 297, 
+      "votes": 298, 
       "district_votes": 10, 
       "state": "IA", 
       "iface": "question", 
       "y": 41.9794, 
       "x": -91.7189, 
-      "latest_vote": "2013-08-10T20:16:10", 
+      "latest_vote": "2013-08-11T12:12:56", 
       "id": 16174109, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Baraboo", 
@@ -30429,15 +30429,15 @@ opendebate.processFetchedQuestions({
       "district": "WI_02", 
       "created": "2013-08-03T22:52:12", 
       "state_votes": 65, 
-      "votes": 474, 
+      "votes": 475, 
       "district_votes": 14, 
       "state": "WI", 
       "iface": "question", 
       "y": 43.1271, 
       "x": -89.7423, 
-      "latest_vote": "2013-08-10T15:56:44", 
+      "latest_vote": "2013-08-11T12:12:15", 
       "id": 16172823, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "", 

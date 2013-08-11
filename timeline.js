@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "How can Manning and Snowden be in trouble and Dick Chaney isn't in trouble for outing Valerie Plame?", 
+      "submission": "What would you do to stop the unbridled takeover of American resources by Corporate America.", 
       "district": "MN_02", 
-      "created": "2013-08-11T12:11:29", 
+      "created": "2013-08-11T12:12:56", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16296367, 
-      "question_id": "16201620"
+      "id": 16296372, 
+      "question_id": "16174109"
     }, 
     {
       "city": "Saint Petersburg", 
