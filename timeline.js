@@ -6,15 +6,15 @@ opendebate.processTimeline({
       "first_name": "Sharon", 
       "last_name": "Papendick", 
       "user_id": 1780669, 
-      "submission": "Since corporations are now people, those that undermine democracy and don't pay their taxes should be convicted, punished, and sent packing.  Hardly patriots; more like treasonists?  Your views?", 
+      "submission": "Will you work to reduce national security spending to the level of 2000?", 
       "district": "MN_02", 
-      "created": "2013-08-11T14:00:48", 
+      "created": "2013-08-11T14:01:46", 
       "state": "MN", 
       "iface": "timeline_vote", 
       "y": 44.7702, 
       "x": -93.2812, 
-      "id": 16297092, 
-      "question_id": "16176713"
+      "id": 16297139, 
+      "question_id": "16173216"
     }, 
     {
       "city": "Saint Petersburg", 

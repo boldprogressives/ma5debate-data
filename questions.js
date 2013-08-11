@@ -20283,15 +20283,15 @@ opendebate.processFetchedQuestions({
       "district": "MA_07", 
       "created": "2013-08-06T15:44:50", 
       "state_votes": 3, 
-      "votes": 17, 
+      "votes": 18, 
       "district_votes": 0, 
       "state": "MA", 
       "iface": "question", 
       "y": 42.399, 
       "x": -71.1231, 
-      "latest_vote": "2013-08-10T06:12:45", 
+      "latest_vote": "2013-08-11T14:01:07", 
       "id": 16188461, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Dallas", 
@@ -25071,15 +25071,15 @@ opendebate.processFetchedQuestions({
       "district": "AZ_06", 
       "created": "2013-08-05T17:03:13", 
       "state_votes": 2, 
-      "votes": 81, 
+      "votes": 82, 
       "district_votes": 1, 
       "state": "AZ", 
       "iface": "question", 
       "y": 33.6275, 
       "x": -112.052, 
-      "latest_vote": "2013-08-10T20:14:17", 
+      "latest_vote": "2013-08-11T14:01:38", 
       "id": 16178048, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Rathdrum", 
@@ -25717,15 +25717,15 @@ opendebate.processFetchedQuestions({
       "district": "AZ_02", 
       "created": "2013-08-05T07:04:33", 
       "state_votes": 1, 
-      "votes": 14, 
+      "votes": 15, 
       "district_votes": 0, 
       "state": "AZ", 
       "iface": "question", 
       "y": 32.2744, 
       "x": -110.829, 
-      "latest_vote": "2013-08-08T21:58:02", 
+      "latest_vote": "2013-08-11T14:01:15", 
       "id": 16176736, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Tucson", 
@@ -29707,15 +29707,15 @@ opendebate.processFetchedQuestions({
       "district": "TX_21", 
       "created": "2013-08-04T01:04:21", 
       "state_votes": 2, 
-      "votes": 17, 
+      "votes": 18, 
       "district_votes": 0, 
       "state": "TX", 
       "iface": "question", 
       "y": 30.0388, 
       "x": -99.1513, 
-      "latest_vote": "2013-08-10T01:16:08", 
+      "latest_vote": "2013-08-11T14:01:46", 
       "id": 16173216, 
-      "trending_score": 0.5
+      "trending_score": 1.5
     }, 
     {
       "city": "Austin", 
